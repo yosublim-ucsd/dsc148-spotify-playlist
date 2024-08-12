@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,281 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,306 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 44 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 |
 | 45 | [Don't Leave](https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Don't Leave](https://open.spotify.com/album/1023h6LdMEZq4bN9Iwu8dt) | 3:16 |
 | 46 | [Think Twice](https://open.spotify.com/track/0DiovsXls6yfe3Jyc9EDH5) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Think Twice](https://open.spotify.com/album/1j9JM0DbhwWEcB9ZrZuz4a) | 2:58 |
-| 47 | [Wouldn't Believe](https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Wouldn't Believe](https://open.spotify.com/album/0nF4WVXPunDRsNw9c1LTOd) | 3:18 |
-| 48 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 |
+| 47 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 |
+| 48 | [Wouldn't Believe](https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Wouldn't Believe](https://open.spotify.com/album/0nF4WVXPunDRsNw9c1LTOd) | 3:18 |
 | 49 | [Crush](https://open.spotify.com/track/5NUCLEAAQKkP3OoCt19jrK) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys), [Naike](https://open.spotify.com/artist/4eWMajurKslYrmKKz4MTRu) | [Crush](https://open.spotify.com/album/7v8DgbrDOeGHlDEgKnd2UP) | 3:00 |
 | 50 | [Business As Usual \(night shift mix\)](https://open.spotify.com/track/09DifuWMDv2U9AsdtLrEma) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Business As Usual](https://open.spotify.com/album/2CKsrejBLIuNSASNFQ7ALH) | 4:13 |
 | 51 | [Sunshine](https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Sunshine](https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8) | 2:48 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 57 | [Mind Still \(feat\. blythe\) \- Oppidan Remix](https://open.spotify.com/track/1w6YgFMLmba0xOMlFlqw7L) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Mind Still \(feat\. blythe\) \[Oppidan Remix\]](https://open.spotify.com/album/5Tn24LjHlcy9WpZ1PrlxRO) | 3:24 |
 | 58 | [KEEP IT ROLLING](https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF) | [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [KEEP IT ROLLING](https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH) | 3:19 |
 | 59 | [Party All Night](https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Jamie Hai](https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ) | [Party All Night](https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP) | 2:32 |
-| 60 | [You & I](https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [You & I](https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm) | 3:33 |
+| 60 | [Crush](https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Crush](https://open.spotify.com/album/6ZJLgBGDiuxT9t4CCS76ML) | 3:11 |
 
 Snapshot ID: `Zqy7owAAAABb0/8ytmQAa8/EkSsEXE3W`

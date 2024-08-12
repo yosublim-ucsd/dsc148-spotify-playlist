@@ -1,12 +1,12 @@
 {
-  "description": "This is Morgan Wallen. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 638999,
+  "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
+  "num_followers": 639319,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAADtW+E3UlAiEh7+QX3INgX+",
+  "snapshot_id": "ZratgAAAAAB5wNA5ozLeAPUmU7/Vl80y",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
       "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 219173,
-      "name": "Stand By Me (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw"
+      "duration_ms": 208280,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
     },
     {
       "added_at": null,
@@ -323,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
       },
       "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 208280,
-      "name": "The Way I Talk",
-      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
+      "duration_ms": 219173,
+      "name": "Stand By Me (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw"
     },
     {
       "added_at": null,
@@ -359,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mamaw's House",
-        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
       "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 187269,
-      "name": "Mamaw's House",
-      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
+      "duration_ms": 157693,
+      "name": "If I Know Me",
+      "url": "https://open.spotify.com/track/7zK4UxuBYdenyXNHJ3U6HA"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+        "name": "Mamaw's House",
+        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
       },
       "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 157693,
-      "name": "If I Know Me",
-      "url": "https://open.spotify.com/track/7zK4UxuBYdenyXNHJ3U6HA"
+      "duration_ms": 187269,
+      "name": "Mamaw's House",
+      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
     },
     {
       "added_at": null,
@@ -423,46 +423,6 @@
       "duration_ms": 215571,
       "name": "Thought You Should Know",
       "url": "https://open.spotify.com/track/3Qu3Zh4WTKhP9GEXo0aDnb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FLOWER SHOPS (THE ALBUM)",
-        "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 214405,
-      "name": "Flower Shops (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Only Thing That\u2019s Gone (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H"
     },
     {
       "added_at": null,
@@ -487,6 +447,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Only Thing That\u2019s Gone (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOWER SHOPS (THE ALBUM)",
+        "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 205767,
       "name": "red (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/6GBXOabwqSAI5A75F3FruX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 221880,
+      "name": "Talkin' Tennessee",
+      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
       "duration_ms": 206146,
       "name": "Hangin\u2019 On (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/4arHG0ChWbyag5TB1drif4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 221880,
-      "name": "Talkin' Tennessee",
-      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
     },
     {
       "added_at": null,

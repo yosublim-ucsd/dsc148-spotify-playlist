@@ -267,18 +267,18 @@
     {
       "added_at": "2024-08-09 05:08:15",
       "album": {
-        "name": "ANTENNA",
-        "url": "https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb"
+        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 270400,
-      "name": "ANTENNA",
-      "url": "https://open.spotify.com/track/4ER5mnbHqsvggEcoVMdFSk"
+      "duration_ms": 222813,
+      "name": "\u30d2\u30c3\u30c1\u30b3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8"
     },
     {
       "added_at": "2024-08-09 05:08:15",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-08-09 05:08:15",
       "album": {
-        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
+        "name": "ANTENNA",
+        "url": "https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 222813,
-      "name": "\u30d2\u30c3\u30c1\u30b3\u30c3\u30af",
-      "url": "https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8"
+      "duration_ms": 270400,
+      "name": "ANTENNA",
+      "url": "https://open.spotify.com/track/4ER5mnbHqsvggEcoVMdFSk"
     },
     {
       "added_at": "2024-08-09 05:08:15",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-09 05:08:15",
       "album": {
-        "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
-        "url": "https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
-      "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
-    },
-    {
-      "added_at": "2024-08-09 05:08:15",
-      "album": {
         "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
         "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 234283,
       "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6"
+    },
+    {
+      "added_at": "2024-08-09 05:08:15",
+      "album": {
+        "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
+        "url": "https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
+      "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
     },
     {
       "added_at": "2024-08-09 05:08:15",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-09 05:08:15",
       "album": {
-        "name": "\u306a\u3041",
-        "url": "https://open.spotify.com/album/69zY0xxGpRkMHwxmtShobk"
-      },
-      "artists": [
-        {
-          "name": "YOAKE",
-          "url": "https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M"
-        }
-      ],
-      "duration_ms": 194344,
-      "name": "\u306a\u3041",
-      "url": "https://open.spotify.com/track/0E5FxZ0spndv7NZGQdrJaZ"
-    },
-    {
-      "added_at": "2024-08-09 05:08:15",
-      "album": {
         "name": "\u30a4\u30de",
         "url": "https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 227662,
       "name": "\u30b9\u30bf\u30fc\u30de\u30a4\u30f3",
       "url": "https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy"
+    },
+    {
+      "added_at": "2024-08-09 05:08:15",
+      "album": {
+        "name": "\u306a\u3041",
+        "url": "https://open.spotify.com/album/69zY0xxGpRkMHwxmtShobk"
+      },
+      "artists": [
+        {
+          "name": "YOAKE",
+          "url": "https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M"
+        }
+      ],
+      "duration_ms": 194344,
+      "name": "\u306a\u3041",
+      "url": "https://open.spotify.com/track/0E5FxZ0spndv7NZGQdrJaZ"
     },
     {
       "added_at": "2024-08-09 05:08:15",

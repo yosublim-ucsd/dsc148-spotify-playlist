@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9797,
+  "num_followers": 9796,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-08-10 15:53:17",
       "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        },
-        {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
-    },
-    {
-      "added_at": "2024-08-10 15:53:17",
-      "album": {
         "name": "What's On Your Mind? (Feat. UNE)",
         "url": "https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 156857,
       "name": "What's On Your Mind? (Feat. UNE)",
       "url": "https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE"
+    },
+    {
+      "added_at": "2024-08-10 15:53:17",
+      "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
     },
     {
       "added_at": "2024-08-10 15:53:17",
@@ -775,22 +775,18 @@
     {
       "added_at": "2024-08-10 15:53:17",
       "album": {
-        "name": "Blossom Rain",
-        "url": "https://open.spotify.com/album/6UG9ekyQC2vumMh3oMoKal"
+        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
       },
       "artists": [
         {
-          "name": "soowoo",
-          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
-        },
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
         }
       ],
-      "duration_ms": 173040,
-      "name": "Blossom Rain (Feat. NavyQuokka)",
-      "url": "https://open.spotify.com/track/3TSMeEDXeTfblDBHUyMffm"
+      "duration_ms": 209866,
+      "name": "Something Precious",
+      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
     },
     {
       "added_at": "2024-08-10 15:53:17",
@@ -811,18 +807,22 @@
     {
       "added_at": "2024-08-10 15:53:17",
       "album": {
-        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
+        "name": "Blossom Rain",
+        "url": "https://open.spotify.com/album/6UG9ekyQC2vumMh3oMoKal"
       },
       "artists": [
         {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Something Precious",
-      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
+      "duration_ms": 173040,
+      "name": "Blossom Rain (Feat. NavyQuokka)",
+      "url": "https://open.spotify.com/track/3TSMeEDXeTfblDBHUyMffm"
     },
     {
       "added_at": "2024-08-10 15:53:17",

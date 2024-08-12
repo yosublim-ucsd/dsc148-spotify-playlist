@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Carla Prata, SleepyThePrince",
-  "num_followers": 46517,
+  "num_followers": 46521,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,26 @@
     {
       "added_at": "2024-08-09 10:23:54",
       "album": {
+        "name": "Chamadas",
+        "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 156672,
+      "name": "Chamadas",
+      "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
+    },
+    {
+      "added_at": "2024-08-09 10:23:54",
+      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 202280,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb"
-    },
-    {
-      "added_at": "2024-08-09 10:23:54",
-      "album": {
-        "name": "Chamadas",
-        "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 156672,
-      "name": "Chamadas",
-      "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
     },
     {
       "added_at": "2024-08-09 10:23:54",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-08-09 10:23:54",
       "album": {
-        "name": "MDID",
-        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 135160,
-      "name": "CABARET",
-      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
-    },
-    {
-      "added_at": "2024-08-09 10:23:54",
-      "album": {
         "name": "Mais Antigo",
         "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 206466,
       "name": "Lembrei-me",
       "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+    },
+    {
+      "added_at": "2024-08-09 10:23:54",
+      "album": {
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 135160,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
     },
     {
       "added_at": "2024-08-09 10:23:54",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-09 10:23:54",
       "album": {
-        "name": "Sem Ti",
-        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 155050,
-      "name": "Sem Ti",
-      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
-    },
-    {
-      "added_at": "2024-08-09 10:23:54",
-      "album": {
         "name": "Gota D'Espa\u00e7o",
         "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 236571,
       "name": "Ar",
       "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
+    },
+    {
+      "added_at": "2024-08-09 10:23:54",
+      "album": {
+        "name": "CorDaPele",
+        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 178815,
+      "name": "CorDaPele",
+      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
     },
     {
       "added_at": "2024-08-09 10:23:54",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-08-09 10:23:54",
       "album": {
-        "name": "CorDaPele",
-        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 178815,
-      "name": "CorDaPele",
-      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
-    },
-    {
-      "added_at": "2024-08-09 10:23:54",
-      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
       },
@@ -903,58 +887,6 @@
       "duration_ms": 204320,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
-    },
-    {
-      "added_at": "2024-08-09 10:23:54",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb"
-      },
-      "artists": [
-        {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 208119,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
-    },
-    {
-      "added_at": "2024-08-09 10:23:54",
-      "album": {
-        "name": "Para Casa",
-        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 248421,
-      "name": "Para Casa",
-      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
-    },
-    {
-      "added_at": "2024-08-09 10:23:54",
-      "album": {
-        "name": "Pontos Finais",
-        "url": "https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 194039,
-      "name": "Pontos Finais",
-      "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
     },
     {
       "added_at": "2024-08-09 10:23:54",
@@ -979,6 +911,38 @@
     {
       "added_at": "2024-08-09 10:23:54",
       "album": {
+        "name": "Sem Ti",
+        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Sem Ti",
+      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
+    },
+    {
+      "added_at": "2024-08-09 10:23:54",
+      "album": {
+        "name": "Para Casa",
+        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 248421,
+      "name": "Para Casa",
+      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
+    },
+    {
+      "added_at": "2024-08-09 10:23:54",
+      "album": {
         "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
         "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
@@ -995,22 +959,38 @@
     {
       "added_at": "2024-08-09 10:23:54",
       "album": {
-        "name": "Quem Tu Mereces",
-        "url": "https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7"
+        "name": "Pontos Finais",
+        "url": "https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg"
       },
       "artists": [
         {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        },
-        {
-          "name": "Kuptz",
-          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 212331,
-      "name": "Quem Tu Mereces",
-      "url": "https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9"
+      "duration_ms": 194039,
+      "name": "Pontos Finais",
+      "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
+    },
+    {
+      "added_at": "2024-08-09 10:23:54",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 208119,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
     },
     {
       "added_at": "2024-08-09 10:23:54",
@@ -1035,18 +1015,22 @@
     {
       "added_at": "2024-08-09 10:23:54",
       "album": {
-        "name": "Oj\u00e9 Oj\u00e9",
-        "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
+        "name": "Quem Tu Mereces",
+        "url": "https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7"
       },
       "artists": [
         {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Oj\u00e9 Oj\u00e9",
-      "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
+      "duration_ms": 212331,
+      "name": "Quem Tu Mereces",
+      "url": "https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9"
     },
     {
       "added_at": "2024-08-09 10:23:54",
@@ -1103,6 +1087,22 @@
       "duration_ms": 226005,
       "name": "Trovador",
       "url": "https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU"
+    },
+    {
+      "added_at": "2024-08-09 10:23:54",
+      "album": {
+        "name": "Oj\u00e9 Oj\u00e9",
+        "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Oj\u00e9 Oj\u00e9",
+      "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
     },
     {
       "added_at": "2024-08-09 10:23:54",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-08-09 10:23:54",
       "album": {
+        "name": "Festival da Can\u00e7\u00e3o 2023",
+        "url": "https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Povo",
+      "url": "https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH"
+    },
+    {
+      "added_at": "2024-08-09 10:23:54",
+      "album": {
         "name": "\u00c0 Tua Porta",
         "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-08-09 10:23:54",
       "album": {
-        "name": "Festival da Can\u00e7\u00e3o 2023",
-        "url": "https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Povo",
-      "url": "https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH"
-    },
-    {
-      "added_at": "2024-08-09 10:23:54",
-      "album": {
         "name": "GUUD",
         "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 168631,
       "name": "GUUD",
       "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2024-08-09 10:23:54",
+      "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm"
+      },
+      "artists": [
+        {
+          "name": "Florito",
+          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
+        }
+      ],
+      "duration_ms": 179380,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h"
     },
     {
       "added_at": "2024-08-09 10:23:54",
@@ -1335,22 +1351,6 @@
       "duration_ms": 213600,
       "name": "Fica Pra Depois",
       "url": "https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI"
-    },
-    {
-      "added_at": "2024-08-09 10:23:54",
-      "album": {
-        "name": "Accelerate",
-        "url": "https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm"
-      },
-      "artists": [
-        {
-          "name": "Florito",
-          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
-        }
-      ],
-      "duration_ms": 179380,
-      "name": "Accelerate",
-      "url": "https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h"
     },
     {
       "added_at": "2024-08-09 10:23:54",

@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Plan De La Mariposa",
-  "num_followers": 134832,
+  "num_followers": 134891,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Nunca Lo Olvides",
-        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 299810,
-      "name": "Nunca Lo Olvides",
-      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Bocanada",
         "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
       },
@@ -275,6 +259,38 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Nunca Lo Olvides",
+        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 299810,
+      "name": "Nunca Lo Olvides",
+      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Antihumano",
         "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 259186,
       "name": "Arrancacorazones",
       "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "La Argentinidad Al Palo",
-        "url": "https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "La Soledad",
-      "url": "https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+        "name": "La Argentinidad Al Palo",
+        "url": "https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 185826,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+      "duration_ms": 263933,
+      "name": "La Soledad",
+      "url": "https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 283884,
-      "name": "Por Mil Noches",
-      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Esperando el Milagro",
         "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 181826,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 283884,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -587,22 +571,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Artaud",
         "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
       },
@@ -615,6 +583,22 @@
       "duration_ms": 204466,
       "name": "Bajan",
       "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -647,6 +631,22 @@
       "duration_ms": 269011,
       "name": "Fuiste lo mejor",
       "url": "https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Hijos Del Culo",
-        "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
+        "name": "La Renga",
+        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Desconexi\u00f3n Sideral",
-      "url": "https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ"
+      "duration_ms": 295773,
+      "name": "Cuando Est\u00e9s Ac\u00e1",
+      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "La Renga",
-        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
+        "name": "Hijos Del Culo",
+        "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 295773,
-      "name": "Cuando Est\u00e9s Ac\u00e1",
-      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+      "duration_ms": 291493,
+      "name": "Desconexi\u00f3n Sideral",
+      "url": "https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 281266,
-      "name": "Fulanos de Nadie",
-      "url": "https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "El Amor Despu\u00e9s del Amor",
         "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 163280,
       "name": "P\u00e9talo de sal",
       "url": "https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 281266,
+      "name": "Fulanos de Nadie",
+      "url": "https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
         }
       ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+      "duration_ms": 273013,
+      "name": "A Veces Vuelvo - Acustico",
+      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -999,34 +999,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Laberintos Entre Aristas Y Dialectos",
-        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
       },
       "artists": [
         {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
         }
       ],
-      "duration_ms": 273013,
-      "name": "A Veces Vuelvo - Acustico",
-      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 250696,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1051,34 +1035,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 320946,
-      "name": "Otro Jueves Cobarde",
-      "url": "https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Esclavo",
-        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "Hay Momentos",
-      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
+      "duration_ms": 250696,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1111,6 +1079,22 @@
       "duration_ms": 279441,
       "name": "Siguiendo la Luna",
       "url": "https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 320946,
+      "name": "Otro Jueves Cobarde",
+      "url": "https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1163,6 +1147,54 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Esclavo",
+        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Hay Momentos",
+      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Dejo Atr\u00e1s",
+        "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Dejo Atr\u00e1s",
+      "url": "https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "En La Vereda del Sol",
+        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Inconsciente Colectivo",
+      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Coraz\u00f3n Delator",
         "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
       },
@@ -1191,38 +1223,6 @@
       "duration_ms": 233839,
       "name": "Pensamientos",
       "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "En La Vereda del Sol",
-        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "Inconsciente Colectivo",
-      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Dejo Atr\u00e1s",
-        "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Dejo Atr\u00e1s",
-      "url": "https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
-        "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 266824,
-      "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
-      "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Certezas de Cart\u00f3n",
         "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 235094,
       "name": "Mejor Callar",
       "url": "https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
+        "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 266824,
+      "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
     },
     {
       "added_at": "2024-07-26 03:00:00",

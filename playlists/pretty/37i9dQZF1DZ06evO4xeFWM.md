@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,367 likes - 52 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,380 likes - 52 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 51 | [Remind Me](https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Remind Me](https://open.spotify.com/album/7xlvDpADKIaRhPGgbMlsQ1) | 3:02 |
 | 52 | [Hangin'](https://open.spotify.com/track/3s7q7sn5DaRtAuOo2ft9BD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days \(This Got Out Of Hand Edition\)](https://open.spotify.com/album/2ZTutAjJEBw4mA5t4Edg1d) | 3:29 |
 
-Snapshot ID: `ZrVcAAAAAAC8O9jn39xEY33Zn2ef80wN`
+Snapshot ID: `ZratgAAAAAC1w9a/gKpIsQPVCCwrlX3u`

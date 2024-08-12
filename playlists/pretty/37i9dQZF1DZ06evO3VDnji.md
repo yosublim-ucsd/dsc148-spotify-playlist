@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 ### [This Is DannyLux](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VDnji)
 
-> This is DannyLux\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is DannyLux\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,947 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,960 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 50 | [CIUDAD DEL SOL](https://open.spotify.com/track/6n8Cw2zuSUtfa9RsaQB8Wt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [CIUDAD DEL SOL](https://open.spotify.com/album/7JVqErrplUbFAA5xSvavG5) | 3:44 |
 | 51 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 |
 
-Snapshot ID: `ZrVcAAAAAAC3nlFCvJf28LH7YBt00QzB`
+Snapshot ID: `ZratgAAAAABoRBc8G7yZqMioP1L3WZUR`

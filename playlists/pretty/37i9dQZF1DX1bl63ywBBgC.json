@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 18410,
+  "num_followers": 18520,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
+        "name": "Sue\u00f1o Y Realidad",
+        "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 177040,
+      "name": "Piensa En M\u00ed",
+      "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
+    },
+    {
+      "added_at": "2024-06-25 16:31:02",
+      "album": {
         "name": "CORAZ\u00d3N VAC\u00cdO",
         "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 352160,
       "name": "En El Muelle de San Blas",
       "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
-    },
-    {
-      "added_at": "2024-06-25 16:31:02",
-      "album": {
-        "name": "Sue\u00f1o Y Realidad",
-        "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 177040,
-      "name": "Piensa En M\u00ed",
-      "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
     },
     {
       "added_at": "2024-06-25 16:31:02",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
+    },
+    {
+      "added_at": "2024-06-25 16:31:02",
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 231532,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
-    },
-    {
-      "added_at": "2024-06-25 16:31:02",
-      "album": {
-        "name": "Soy el Mismo",
-        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Darte un Beso",
-      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2024-06-25 16:31:02",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
-        "name": "Destilando Amor",
-        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
-    },
-    {
-      "added_at": "2024-06-25 16:31:02",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 217560,
       "name": "Volverte A Ver",
       "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
+    },
+    {
+      "added_at": "2024-06-25 16:31:02",
+      "album": {
+        "name": "Destilando Amor",
+        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
     },
     {
       "added_at": "2024-06-25 16:31:02",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
-        "name": "Un Mundo Diferente",
-        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Color Esperanza",
-      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
-    },
-    {
-      "added_at": "2024-06-25 16:31:02",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 316093,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+    },
+    {
+      "added_at": "2024-06-25 16:31:02",
+      "album": {
+        "name": "Un Mundo Diferente",
+        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Color Esperanza",
+      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
     },
     {
       "added_at": "2024-06-25 16:31:02",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
-        "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Caminar de Tu Mano (feat. Fonseca)",
-      "url": "https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q"
-    },
-    {
-      "added_at": "2024-06-25 16:31:02",
-      "album": {
         "name": "\u00bfD\u00f3nde Nos Quedamos?",
         "url": "https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 228266,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+    },
+    {
+      "added_at": "2024-06-25 16:31:02",
+      "album": {
+        "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 206253,
+      "name": "Caminar de Tu Mano (feat. Fonseca)",
+      "url": "https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q"
     },
     {
       "added_at": "2024-06-25 16:31:02",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "Sopa de Caracol",
-      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
-    },
-    {
-      "added_at": "2024-06-25 16:31:02",
-      "album": {
         "name": "Sinverguenza",
         "url": "https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 235893,
       "name": "Pasos de Gigantes",
       "url": "https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4"
+    },
+    {
+      "added_at": "2024-06-25 16:31:02",
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "Sopa de Caracol",
+      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
     },
     {
       "added_at": "2024-06-25 16:31:02",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
+        "name": "Tratar De Estar Mejor",
+        "url": "https://open.spotify.com/album/4iq0kaBaXcV6YzgbuulMgj"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Tratar de Estar Mejor",
+      "url": "https://open.spotify.com/track/0ylZTq7l4Oij4dHhu9at7n"
+    },
+    {
+      "added_at": "2024-06-25 16:31:02",
+      "album": {
         "name": "Oye Mujer (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3CzeG68WKVXRMumlmwoCfl"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
-        "name": "Tratar De Estar Mejor",
-        "url": "https://open.spotify.com/album/4iq0kaBaXcV6YzgbuulMgj"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Tratar de Estar Mejor",
-      "url": "https://open.spotify.com/track/0ylZTq7l4Oij4dHhu9at7n"
-    },
-    {
-      "added_at": "2024-06-25 16:31:02",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Usted (feat. Vicentico) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/08llaN4Lh6GCfd9aHInwB2"
+    },
+    {
+      "added_at": "2024-06-25 16:31:02",
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd"
       },
@@ -1503,22 +1523,6 @@
       "duration_ms": 281933,
       "name": "Az\u00facar Amargo",
       "url": "https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt"
-    },
-    {
-      "added_at": "2024-06-25 16:31:02",
-      "album": {
-        "name": "Cabas",
-        "url": "https://open.spotify.com/album/3zOiYPGZRhvWJioOQh4O8s"
-      },
-      "artists": [
-        {
-          "name": "Cabas",
-          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Mi Bombom",
-      "url": "https://open.spotify.com/track/29ET4ONM7UGb5fIbLfHoDK"
     }
   ],
   "unique_name": "\u00a1A Limpiar con Ritmo!",

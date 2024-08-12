@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 10120,
+  "num_followers": 10134,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABAHVLM4GwSkvCAoD22sq0P",
+  "snapshot_id": "ZratgAAAAADcJIOtj4zM+rGw99jIvfcT",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oil on My Head (Remix)",
-        "url": "https://open.spotify.com/album/75MASrjuVKPaIUdKErSFrU"
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
       "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 217391,
-      "name": "Oil on My Head (Remix)",
-      "url": "https://open.spotify.com/track/5bBXbEHWTv1ixEDSCIaMWG"
+      "duration_ms": 405890,
+      "name": "Incredible God",
+      "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
     },
     {
       "added_at": null,
@@ -407,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+        "name": "Oil on My Head (Remix)",
+        "url": "https://open.spotify.com/album/75MASrjuVKPaIUdKErSFrU"
       },
       "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 405890,
-      "name": "Incredible God",
-      "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
+      "duration_ms": 217391,
+      "name": "Oil on My Head (Remix)",
+      "url": "https://open.spotify.com/track/5bBXbEHWTv1ixEDSCIaMWG"
     },
     {
       "added_at": null,
@@ -439,6 +439,26 @@
       "duration_ms": 262321,
       "name": "COME AND SEE",
       "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Fiokee",
+          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
+        }
+      ],
+      "duration_ms": 237479,
+      "name": "Regular (feat. Fiokee)",
+      "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
     },
     {
       "added_at": null,
@@ -475,26 +495,6 @@
       "duration_ms": 297966,
       "name": "Onyedikagi (feat. Glowrie)",
       "url": "https://open.spotify.com/track/4ktpl2Qr30Ul3hELVOoD3y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Fiokee",
-          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
-        }
-      ],
-      "duration_ms": 237479,
-      "name": "Regular (feat. Fiokee)",
-      "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 367158,
+      "name": "Bor Ekom",
+      "url": "https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 375563,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 367158,
-      "name": "Bor Ekom",
-      "url": "https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe"
     },
     {
       "added_at": null,

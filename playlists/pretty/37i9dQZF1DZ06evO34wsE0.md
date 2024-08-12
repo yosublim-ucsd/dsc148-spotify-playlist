@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 ### [This Is Shania Twain](https://open.spotify.com/playlist/37i9dQZF1DZ06evO34wsE0)
 
-> This is Shania Twain\. The essential tracks, all in one playlist.
+> This Is Shania Twain\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,853 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,887 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 9 | [You're Still The One \- Remastered 2023](https://open.spotify.com/track/4D2JmiX0P8WJygnpV80WTs) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits \(Remastered 2023\)](https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI) | 3:17 |
 | 10 | [That Don't Impress Me Much \- International Mix](https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:59 |
 | 11 | [I'm Gonna Getcha Good](https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 4:29 |
-| 12 | [You Win My Love](https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:25 |
+| 12 | [Boots Don't](https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:28 |
 | 13 | [Whose Bed Have Your Boots Been Under? \- Radio Edit / Remastered 2023](https://open.spotify.com/track/5mf2zOGnK1fr54nezMPYnU) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits \(Remastered 2023\)](https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI) | 4:01 |
 | 14 | [Honey, I'm Home](https://open.spotify.com/track/6wVQwC2P8K4e3poaJ6ieRh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:34 |
-| 15 | [Boots Don't](https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:28 |
+| 15 | [You Win My Love](https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:25 |
 | 16 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
 | 17 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 |
 | 18 | [You've Got A Way](https://open.spotify.com/track/1OuEcnthR9ePQHtZqNcZSf) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:31 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 21 | [Endless Love](https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Tuskegee \(Deluxe Version\)](https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z) | 4:19 |
 | 22 | [Don't Be Stupid \(You Know I Love You\)](https://open.spotify.com/track/6qHg6trMgxUz7TuAgc4gnC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:34 |
 | 23 | [\(If You're Not In It For Love\) I'm Outta Here!](https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:30 |
-| 24 | [White Claw](https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [White Claw](https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx) | 3:26 |
-| 25 | [Party For Two \- Country Version With Intro](https://open.spotify.com/track/55kykeNfV69sx779NZrJ7s) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Party For Two](https://open.spotify.com/album/6bkLKyiAoJZ9clOYQs5PSo) | 3:32 |
+| 24 | [Party For Two \- Country Version With Intro](https://open.spotify.com/track/55kykeNfV69sx779NZrJ7s) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Party For Two](https://open.spotify.com/album/6bkLKyiAoJZ9clOYQs5PSo) | 3:32 |
+| 25 | [White Claw](https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [White Claw](https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx) | 3:26 |
 | 26 | [Man! I Feel Like A Woman! \- Real Hypha Remix](https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Real Hypha](https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC) | [Man! I Feel Like A Woman! \(Real Hypha Remix\)](https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI) | 2:56 |
 | 27 | [Dance With The One That Brought You](https://open.spotify.com/track/0XIsMMHjiqpXi4BUV1695T) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Shania Twain](https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz) | 2:24 |
 | 28 | [Ka\-Ching!](https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 3:20 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 50 | [Not Just A Girl](https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Not Just A Girl \(The Highlights\)](https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS) | 3:11 |
 | 51 | [Home Ain't Where His Heart Is \(Anymore\)](https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:13 |
 
-Snapshot ID: `ZrVcAAAAAADAG9gadyPOWHfYXg+wcuPf`
+Snapshot ID: `ZratgAAAAADxttO+svcSE6DtdfW152W2`

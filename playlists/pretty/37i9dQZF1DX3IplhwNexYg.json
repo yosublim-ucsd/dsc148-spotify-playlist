@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Wunderhorse",
-  "num_followers": 114156,
+  "num_followers": 114151,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 198295,
       "name": "Alesis",
       "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 256066,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
+        "name": "Skinty Fia",
+        "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 268906,
+      "name": "Roman Holiday",
+      "url": "https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
       },
@@ -299,54 +315,6 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
-        "name": "Skinty Fia",
-        "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 268906,
-      "name": "Roman Holiday",
-      "url": "https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Foam",
-      "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
         "name": "My Lady Of Mercy",
         "url": "https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0"
       },
@@ -363,18 +331,18 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Call Me What You Like",
-        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
       "artists": [
         {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
         }
       ],
-      "duration_ms": 226960,
-      "name": "Call Me What You Like",
-      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -415,6 +383,38 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "Foam",
+      "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
+        "name": "Call Me What You Like",
+        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
         "name": "Little Chaos",
         "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Silver",
-      "url": "https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
         "name": "The Narcissist",
         "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Normal People Things",
-        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
+        "name": "Got Him!",
+        "url": "https://open.spotify.com/album/6rBt5RO5Yb4sfMwGpWXjyU"
       },
       "artists": [
         {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
         }
       ],
-      "duration_ms": 164844,
-      "name": "Normal People Things",
-      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
+      "duration_ms": 155262,
+      "name": "Holdup",
+      "url": "https://open.spotify.com/track/0l8o0hshn4qrihNPvvJu2l"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
+        "name": "Normal People Things",
+        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 164844,
+      "name": "Normal People Things",
+      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
-        "name": "Got Him!",
-        "url": "https://open.spotify.com/album/6rBt5RO5Yb4sfMwGpWXjyU"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 155262,
-      "name": "Holdup",
-      "url": "https://open.spotify.com/track/0l8o0hshn4qrihNPvvJu2l"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "The Tw*ts",
-        "url": "https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 198417,
-      "name": "The only conscious being in the universe",
-      "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
         "name": "86TVs",
         "url": "https://open.spotify.com/album/5XpLHF74WCwQdWGao3ahjh"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Romanticism",
-        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+        "name": "The Tw*ts",
+        "url": "https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy"
       },
       "artists": [
         {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
         }
       ],
-      "duration_ms": 234234,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
+      "duration_ms": 198417,
+      "name": "The only conscious being in the universe",
+      "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -947,6 +931,22 @@
       "duration_ms": 309400,
       "name": "Tropic Morning News",
       "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 234234,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Lie 95",
-        "url": "https://open.spotify.com/album/7bgvD3tFUHpcDk8m2l932P"
-      },
-      "artists": [
-        {
-          "name": "Bartees Strange",
-          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
-        }
-      ],
-      "duration_ms": 161555,
-      "name": "Lie 95",
-      "url": "https://open.spotify.com/track/0QsyCIEVXMXMfh8h5DHwZy"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 200891,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
+        "name": "Lie 95",
+        "url": "https://open.spotify.com/album/7bgvD3tFUHpcDk8m2l932P"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "duration_ms": 161555,
+      "name": "Lie 95",
+      "url": "https://open.spotify.com/track/0QsyCIEVXMXMfh8h5DHwZy"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
+        "name": "Struggle",
+        "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 204407,
+      "name": "Struggle - Single Version",
+      "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Struggle",
-        "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
+        "name": "I Want You To Know Me",
+        "url": "https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
         }
       ],
-      "duration_ms": 204407,
-      "name": "Struggle - Single Version",
-      "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
+      "duration_ms": 217040,
+      "name": "I Want You To Know Me",
+      "url": "https://open.spotify.com/track/2lIl1LDlcnAoYnDOE6Xngi"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -1203,22 +1219,6 @@
       "duration_ms": 293631,
       "name": "Prophecy of the Dragon",
       "url": "https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
-        "name": "I Want You To Know Me",
-        "url": "https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "I Want You To Know Me",
-      "url": "https://open.spotify.com/track/2lIl1LDlcnAoYnDOE6Xngi"
     },
     {
       "added_at": "2024-08-09 10:43:52",

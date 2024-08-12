@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1579832,
+  "num_followers": 1579982,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Suicidal Tendencies",
-        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Institutionalized",
-      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -159,18 +143,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Stooges",
-        "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
+        "name": "Suicidal Tendencies",
+        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
       },
       "artists": [
         {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
         }
       ],
-      "duration_ms": 188560,
-      "name": "I Wanna Be Your Dog",
-      "url": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
+      "duration_ms": 229960,
+      "name": "Institutionalized",
+      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -187,6 +171,22 @@
       "duration_ms": 200480,
       "name": "London Calling - Remastered",
       "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Stooges",
+        "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "I Wanna Be Your Dog",
+      "url": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Uncontrollable Urge",
+      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Entertainment!",
         "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 207200,
       "name": "Damaged Goods",
       "url": "https://open.spotify.com/track/62uw0iWu8jLB4cYBQxjdcm"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
-      },
-      "artists": [
-        {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Anarchy in the U.K.",
-      "url": "https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
       "artists": [
         {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Uncontrollable Urge",
-      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
+      "duration_ms": 211973,
+      "name": "Anarchy in the U.K.",
+      "url": "https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "GI",
         "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 218066,
       "name": "Bastards of Young - 2008 Remaster",
       "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 130826,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 167840,
       "name": "Pills",
       "url": "https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 130826,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
     },
     {
       "added_at": "2024-01-11 00:51:37",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Angels With Dirty Faces",
+        "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
+      },
+      "artists": [
+        {
+          "name": "Sham 69",
+          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Hurry Up Harry",
+      "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Wild in the Streets",
         "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
       },
@@ -1279,6 +1295,22 @@
       "duration_ms": 155693,
       "name": "Wild in the Streets",
       "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Ramones (Expanded)",
+        "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 133440,
+      "name": "Blitzkrieg Bop - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1299,34 +1331,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Angels With Dirty Faces",
-        "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
+        "name": "Germ Free Adolescents: The Anthology",
+        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
       },
       "artists": [
         {
-          "name": "Sham 69",
-          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
+          "name": "X-Ray Spex",
+          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
         }
       ],
-      "duration_ms": 206666,
-      "name": "Hurry Up Harry",
-      "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Ramones (Expanded)",
-        "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 133440,
-      "name": "Blitzkrieg Bop - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
+      "duration_ms": 171200,
+      "name": "Oh Bondage! Up Yours!",
+      "url": "https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Germ Free Adolescents: The Anthology",
-        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
-      },
-      "artists": [
-        {
-          "name": "X-Ray Spex",
-          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Oh Bondage! Up Yours!",
-      "url": "https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/5qwqMAvWEPdUkprxmfceir"
       },
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
     },
     {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
-    },
-    {
       "added_at": "2024-01-11 00:51:37",
       "album": {
         "name": "Germ Free Adolescents: The Anthology",
@@ -1539,22 +1523,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "City Baby Attacked by Rats",
-        "url": "https://open.spotify.com/album/3E9flqSwqJRUuhZ3l4K8S6"
-      },
-      "artists": [
-        {
-          "name": "GBH",
-          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "Sick Boy",
-      "url": "https://open.spotify.com/track/4w6R5BW7q2u06Cq9vA5Kn8"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Scream",
         "url": "https://open.spotify.com/album/2mrlf8926IqaXziX4YomV5"
       },
@@ -1567,6 +1535,38 @@
       "duration_ms": 175906,
       "name": "Hong Kong Garden",
       "url": "https://open.spotify.com/track/4HkyBXACJ87bAHp7Z8UB2y"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "City Baby Attacked by Rats",
+        "url": "https://open.spotify.com/album/3E9flqSwqJRUuhZ3l4K8S6"
+      },
+      "artists": [
+        {
+          "name": "GBH",
+          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Sick Boy",
+      "url": "https://open.spotify.com/track/4w6R5BW7q2u06Cq9vA5Kn8"
     },
     {
       "added_at": "2022-11-28 15:26:19",

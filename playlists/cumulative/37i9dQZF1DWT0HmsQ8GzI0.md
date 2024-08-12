@@ -8,10 +8,10 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A végén úgyis](https://open.spotify.com/track/6co2nRBAZopdXDN1iZxdby) | [Lázár tesók](https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO) | [Eső előtt](https://open.spotify.com/album/7pPp3iMLWOeCKfRq3qYeCh) | 2:50 | 2024-06-28 | 2024-08-03 |
+| [A végén úgyis](https://open.spotify.com/track/6co2nRBAZopdXDN1iZxdby) | [Lázár tesók](https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO) | [Eső előtt](https://open.spotify.com/album/7pPp3iMLWOeCKfRq3qYeCh) | 2:50 | 2024-06-28 |  |
 | [Albérlet](https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic) | [Fiúk](https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7) | [Szobák felett](https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB) | 3:52 | 2024-06-28 |  |
 | [Another Day's Just Gone](https://open.spotify.com/track/5gAsJEZPodWDed4DaShi87) | [Stone Sober](https://open.spotify.com/artist/79clzb53FujKIXiiIZKtyX) | [Freaky Lo\-Fi Hits](https://open.spotify.com/album/7dtmTWT3WcpfgSRVZZ1Crq) | 3:13 | 2024-08-02 |  |
-| [Az Én Szívem](https://open.spotify.com/track/4Bak4uTIbG7mpILvpbdYEi) | [B\. Nagy Réka](https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1), [toldyuuso](https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA) | [Az Én Szívem](https://open.spotify.com/album/4z7BEJamlzxLYNspWI4gVa) | 2:54 | 2024-06-28 |  |
+| [Az Én Szívem](https://open.spotify.com/track/4Bak4uTIbG7mpILvpbdYEi) | [B\. Nagy Réka](https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1), [toldyuuso](https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA) | [Az Én Szívem](https://open.spotify.com/album/4z7BEJamlzxLYNspWI4gVa) | 2:54 | 2024-06-28 | 2024-08-12 |
 | [Back](https://open.spotify.com/track/7K0eLRSeHe9Y3b2x5VtDuS) | [Puzzls](https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9) | [Back](https://open.spotify.com/album/61ljJW8g9oFqswlY5m1quR) | 2:50 | 2024-08-02 |  |
 | [beleszakad](https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W) | [Pandóra Projekt](https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8) | [beleszakad](https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU) | 3:04 | 2024-06-28 |  |
 | [Beszorult mondat](https://open.spotify.com/track/6XQFocpLut9tovM7XkNQpw) | [Kispál és a Borz](https://open.spotify.com/artist/71buZyotrHSZMVkSTcDY8c), [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Beszorult mondat](https://open.spotify.com/album/6rDnj8NhQrIvAjqOYlQYnZ) | 3:52 | 2024-06-28 |  |

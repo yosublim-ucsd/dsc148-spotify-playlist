@@ -1,6 +1,6 @@
 {
   "description": "natural wine vibes, because wine not? | Photo: Stir Crazy LA ",
-  "num_followers": 76131,
+  "num_followers": 76283,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Will I See You Again?",
-      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Caravelle",
         "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 276293,
       "name": "Canop\u00e9e",
       "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Will I See You Again?",
+      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 344680,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 176599,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Blood Milk Moon",
         "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lauren",
-        "url": "https://open.spotify.com/album/3rlpbpAzZUayIquPKgqpfX"
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 218210,
-      "name": "Lauren",
-      "url": "https://open.spotify.com/track/7vptmeNwSEVkcwDdqk7UQO"
+      "duration_ms": 176599,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 237600,
       "name": "YoSoyMatt (feat. Hermanu)",
       "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Lauren",
+        "url": "https://open.spotify.com/album/3rlpbpAzZUayIquPKgqpfX"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 218210,
+      "name": "Lauren",
+      "url": "https://open.spotify.com/track/7vptmeNwSEVkcwDdqk7UQO"
     },
     {
       "added_at": "2024-07-12 04:00:00",

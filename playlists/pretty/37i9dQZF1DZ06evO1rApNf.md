@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 ### [This Is Mau y Ricky](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rApNf)
 
-> This Is Mau y Ricky\. Los temas esenciales, todos en una lista.
+> This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,356 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,360 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 48 | [La Grosera](https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Grosera](https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL) | 2:38 |
 | 49 | [Ya No Tiene Novio \- Remix](https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sharo Towers](https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r) | [Ya No Tiene Novio \(Remix\)](https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3) | 3:32 |
 | 50 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
+| 51 | [Mal de la Cabeza](https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 4:02 |
 
-Snapshot ID: `ZrVcAAAAAAAz8WK3VfccRZz4MfvEy75h`
+Snapshot ID: `ZratgAAAAAAxaVBBXeCHFoA6QBapGkRs`

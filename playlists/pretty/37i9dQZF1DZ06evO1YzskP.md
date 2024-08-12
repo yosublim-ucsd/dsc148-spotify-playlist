@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 ### [This Is La Receta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YzskP)
 
-> This is La Receta\. The essential tracks, all in one playlist.
+> This Is La Receta\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,475 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,650 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [Fotos Hot](https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fotos Hot](https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1) | 2:57 |
 | 50 | [Dr\. Simi](https://open.spotify.com/track/3OtTpxvwKrP4svo22XHJMg) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Dr\. Simi](https://open.spotify.com/album/7bHkoBBlKnFICfnYfvdwsa) | 2:53 |
 
-Snapshot ID: `ZrVcAAAAAAAy9rXKVhBw0WlrGEF5dT15`
+Snapshot ID: `ZratgAAAAAAaGL1OJkg9eRB6uDwSNPoa`

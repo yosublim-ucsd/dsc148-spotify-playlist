@@ -1207,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "96 Months",
+        "url": "https://open.spotify.com/album/1CfqWSAyfmYzHU9ktHxUqd"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/76dIZzTdrNO15mGBrU3MHi"
+    },
+    {
+      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -1222,7 +1244,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
@@ -1357,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "96 Months",
+        "url": "https://open.spotify.com/album/1CfqWSAyfmYzHU9ktHxUqd"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/6auDCEMr5aHTNu4Kw9h5U6"
+    },
+    {
+      "album": {
         "name": "Promises (with Sam Smith)",
         "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
       },
@@ -1376,7 +1420,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"

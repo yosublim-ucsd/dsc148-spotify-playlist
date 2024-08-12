@@ -195,22 +195,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Hey Ya!",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -227,22 +211,18 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 297786,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
+      "duration_ms": 235213,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -263,6 +243,26 @@
       "duration_ms": 242293,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 297786,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 270506,
-      "name": "Ms. Jackson",
-      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 270506,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "The Next Episode",
-      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Outlawz",
-          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Hit 'Em Up - Single Version",
-      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -595,6 +575,26 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Hit 'Em Up - Single Version",
+      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
         "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
         "url": "https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "The Documentary",
-        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 235533,
-      "name": "How We Do",
-      "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 203786,
       "name": "One, Two Step (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 235533,
+      "name": "How We Do",
+      "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -795,6 +795,22 @@
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -899,22 +915,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Straight Outta Compton",
-        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
-      },
-      "artists": [
-        {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "Straight Outta Compton",
-      "url": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "Happy Hour: The Greatest Hits",
         "url": "https://open.spotify.com/album/184XWylq7ZF0Hn7da4Tr6W"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 231093,
       "name": "Up Down (Do This All Day) (feat. B.o.B)",
       "url": "https://open.spotify.com/track/6lbhWl34Il0WXm5pX1fM9E"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
-        "name": "Jackpot",
-        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
-      },
-      "artists": [
-        {
-          "name": "Chingy",
-          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Right Thurr",
-      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -1423,6 +1391,22 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
+      },
+      "artists": [
+        {
+          "name": "Chingy",
+          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Right Thurr",
+      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
         "name": "93 'til Infinity",
         "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 286440,
       "name": "93 'Til Infinity",
       "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-07-12 17:23:52",
       "album": {
-        "name": "The Sound of Revenge",
-        "url": "https://open.spotify.com/album/31dzB4ULKZfOH71tuaBiR8"
-      },
-      "artists": [
-        {
-          "name": "Chamillionaire",
-          "url": "https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb"
-        },
-        {
-          "name": "Krayzie Bone",
-          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
-        }
-      ],
-      "duration_ms": 303053,
-      "name": "Ridin'",
-      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -1655,6 +1635,50 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        },
+        {
+          "name": "Kidd Kidd",
+          "url": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ],
+      "duration_ms": 286906,
+      "name": "Mrs. Officer",
+      "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
+    },
+    {
+      "added_at": "2024-07-12 17:23:52",
+      "album": {
+        "name": "The Sound of Revenge",
+        "url": "https://open.spotify.com/album/31dzB4ULKZfOH71tuaBiR8"
+      },
+      "artists": [
+        {
+          "name": "Chamillionaire",
+          "url": "https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        }
+      ],
+      "duration_ms": 303053,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9"
     },
     {
       "added_at": "2024-07-12 17:23:52",
@@ -1695,30 +1719,6 @@
       "duration_ms": 235186,
       "name": "Freek-A-Leek",
       "url": "https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci"
-    },
-    {
-      "added_at": "2024-07-12 17:23:52",
-      "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Bobby V.",
-          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
-        },
-        {
-          "name": "Kidd Kidd",
-          "url": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
-        }
-      ],
-      "duration_ms": 286906,
-      "name": "Mrs. Officer",
-      "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
     }
   ],
   "unique_name": "Throwback Jams",

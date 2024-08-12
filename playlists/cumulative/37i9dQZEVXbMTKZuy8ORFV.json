@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 164019,
       "name": "Alokate Remake",
       "url": "https://open.spotify.com/track/4gHUh2QgNXZ7uRBJDCY4jp"
@@ -966,6 +966,24 @@
       "duration_ms": 182969,
       "name": "AUNQUE NO DIGAS NADA",
       "url": "https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII"
+    },
+    {
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115906,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj"
     },
     {
       "album": {
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -2256,7 +2274,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 218400,
       "name": "Cuando Te Vi | CROSSOVER #5",
       "url": "https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp"
@@ -3802,7 +3820,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 120000,
       "name": "Faldita ALO",
       "url": "https://open.spotify.com/track/6PI2ixIOiD6OkAm214UirV"
@@ -5266,7 +5284,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -7062,7 +7080,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 150000,
       "name": "MINIMI",
       "url": "https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7"
@@ -9926,7 +9944,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 153500,
       "name": "Solida",
       "url": "https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5"
@@ -10438,7 +10456,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 157593,
       "name": "S\u00f3lida",
       "url": "https://open.spotify.com/track/7eTTWunsR2Z1z5plDYKk6C"
@@ -11635,6 +11653,44 @@
     },
     {
       "album": {
+        "name": "El Sentimiento Que Une a los Bolivianos... El Mar",
+        "url": "https://open.spotify.com/album/0w7tzV3B3R8ECL9BusZ4ra"
+      },
+      "artists": [
+        {
+          "name": "Luis Rico",
+          "url": "https://open.spotify.com/artist/1YwrwRaRv3JC5JifSOBvBJ"
+        },
+        {
+          "name": "Jose Zapata",
+          "url": "https://open.spotify.com/artist/52ObUH9SwhAT2Lbo50EfE6"
+        },
+        {
+          "name": "Pepe Murillo",
+          "url": "https://open.spotify.com/artist/3tv7OG3QN9aijro1ArNPWJ"
+        },
+        {
+          "name": "Victor Hugo Lea\u00f1o",
+          "url": "https://open.spotify.com/artist/1ZeTPV5dO9f47PZyMXRYFU"
+        },
+        {
+          "name": "Ernesto Cavour",
+          "url": "https://open.spotify.com/artist/1pKeEa5DomNkzvHQCUkyR3"
+        },
+        {
+          "name": "Lucho Cavour",
+          "url": "https://open.spotify.com/artist/3LapRnn61lAUT1Nf7zkLXv"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Viva Mi Patria Bolivia",
+      "url": "https://open.spotify.com/track/7CW4Knu8oC0qhZhLQLlyFW"
+    },
+    {
+      "album": {
         "name": "Jewels Of Romance",
         "url": "https://open.spotify.com/album/57GoPoBV6SxIVkUCvnddLE"
       },
@@ -12382,7 +12438,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 160975,
       "name": "YA NO VOLVER\u00c1S",
       "url": "https://open.spotify.com/track/57B9XH31E2UYEnQ5mppQdz"

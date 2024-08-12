@@ -4,7 +4,7 @@
 
 > Il rap è uno sport competitivo 🔥 Cover: A$AP Rocky
 
-687 songs - 1 day 12 hr 6 min
+688 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Ganamos](https://open.spotify.com/track/75rRbBs3E52UMSUXbwkbzz) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Ganamos](https://open.spotify.com/album/3lsdIWYVrtuWPdp1siBohA) | 2:41 | 2024-05-24 | 2024-06-14 |
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/7jr6fz888xjUlsAD2tZzKR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:40 | 2024-02-16 | 2024-04-27 |
 | [GANGSTAS RELATE \(feat\. Lil Durk\)](https://open.spotify.com/track/2JCWe0T7tj4FGl95dD1slq) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:39 | 2024-06-13 | 2024-06-29 |
-| [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 | 2024-01-26 |  |
+| [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 | 2024-01-26 | 2024-08-12 |
 | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV) | 2:45 | 2024-02-01 | 2024-04-05 |
 | [gen z luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [gen z luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 | 2024-08-01 |  |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 | 2023-11-18 |
@@ -331,6 +331,7 @@
 | [La grinta](https://open.spotify.com/track/1IVtCHJuAl40ypJtAsR9Ld) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La grinta](https://open.spotify.com/album/4sBVMRxXihQczIaXHS29xc) | 3:31 | 2023-09-22 | 2023-11-22 |
 | [LA Leakers Freestyle](https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LA Leakers Freestyle](https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH) | 2:58 | 2022-10-01 | 2023-08-10 |
 | [La Marseillaise](https://open.spotify.com/track/5VUm2SH1nTCXgIs8MA5WtE) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La Marseillaise](https://open.spotify.com/album/32q8A5dbdkPx3kuFg5CQRv) | 3:17 | 2023-02-09 | 2023-02-17 |
+| [LA PRIMERA VEZ](https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [LA PRIMERA VEZ](https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0) | 2:51 | 2024-08-08 |  |
 | [LA RUE](https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [LA RUE](https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1) | 3:45 | 2023-05-16 | 2023-08-19 |
 | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/track/0AyUide4aAlvuQB76Zj4GR) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ), [Huda](https://open.spotify.com/artist/5NnVq8GhEz24ecoViL85Do) | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/album/0FqPmjoAhmyG0uYEyf33qr) | 2:43 | 2024-08-08 |  |
 | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 | 2023-12-21 | 2024-02-02 |

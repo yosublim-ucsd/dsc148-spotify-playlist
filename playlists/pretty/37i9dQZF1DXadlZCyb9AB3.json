@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 174662,
+  "num_followers": 174773,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Bricks Are Heavy",
-        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Shitlist",
-      "url": "https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Spend The Night (U.S. Version)",
         "url": "https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv"
       },
@@ -267,22 +251,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "The First Two Records",
-        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 160860,
-      "name": "Double Dare Ya",
-      "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Beg For The Torture",
         "url": "https://open.spotify.com/album/3xyCcmV6rCwlkn25PSFudQ"
       },
@@ -295,6 +263,38 @@
       "duration_ms": 85476,
       "name": "Beg For The Torture",
       "url": "https://open.spotify.com/track/0DOiFrVWt9hfhF1JWgzKiN"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Shitlist",
+      "url": "https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "The First Two Records",
+        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 160860,
+      "name": "Double Dare Ya",
+      "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Bricks Are Heavy",
-        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "Wargasm",
-      "url": "https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Cut (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 235653,
       "name": "Typical Girls",
       "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "i'm not crying you're crying",
+      "url": "https://open.spotify.com/track/7ChGmRrK8sWCGp3uWNV0vH"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
       },
       "artists": [
         {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
         }
       ],
-      "duration_ms": 169823,
-      "name": "i'm not crying you're crying",
-      "url": "https://open.spotify.com/track/7ChGmRrK8sWCGp3uWNV0vH"
+      "duration_ms": 162440,
+      "name": "Wargasm",
+      "url": "https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Smell the Magic",
-        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Shove - Remastered",
-      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 95373,
       "name": "Vagina Police",
       "url": "https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Smell the Magic",
+        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Shove - Remastered",
+      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Ladies, Women and Girls",
-        "url": "https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ"
-      },
-      "artists": [
-        {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
-        }
-      ],
-      "duration_ms": 146946,
-      "name": "Eating Toothpaste",
-      "url": "https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Feel Your Feelings Fool!",
         "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 195155,
       "name": "Make America Great Again",
       "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Ladies, Women and Girls",
+        "url": "https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "duration_ms": 146946,
+      "name": "Eating Toothpaste",
+      "url": "https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
+        "name": "Run Fast",
+        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
+      },
+      "artists": [
+        {
+          "name": "The Julie Ruin",
+          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
         "name": "All at Once",
         "url": "https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 384666,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3XvrUSWE6QZvCv4scH43JA"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Run Fast",
-        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
-      },
-      "artists": [
-        {
-          "name": "The Julie Ruin",
-          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Girls Like Us",
-      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Cold Cold Hearts",
-        "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
-      },
-      "artists": [
-        {
-          "name": "Cold Cold Hearts",
-          "url": "https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Cute Boy Discount",
-      "url": "https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Riot Grrrls and Kinder Whores",
         "url": "https://open.spotify.com/album/7EHVHN11h03RcqnDUQ1Twp"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj"
+        "name": "Cold Cold Hearts",
+        "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
       },
       "artists": [
         {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+          "name": "Cold Cold Hearts",
+          "url": "https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa"
         }
       ],
-      "duration_ms": 162493,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o"
+      "duration_ms": 197226,
+      "name": "Cute Boy Discount",
+      "url": "https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1463,6 +1447,22 @@
       "duration_ms": 171200,
       "name": "Oh Bondage! Up Yours!",
       "url": "https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o"
     },
     {
       "added_at": "2024-07-22 20:24:37",

@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 181206,
+  "num_followers": 181235,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-06-14 13:38:24",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+    },
+    {
+      "added_at": "2024-06-14 13:38:24",
+      "album": {
         "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
         "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 288893,
       "name": "\u00a1Corre!",
       "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
-    },
-    {
-      "added_at": "2024-06-14 13:38:24",
-      "album": {
-        "name": "Santo Pecado",
-        "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 330373,
-      "name": "El Problema",
-      "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
     },
     {
       "added_at": "2024-06-14 13:38:24",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-06-14 13:38:24",
       "album": {
+        "name": "Santo Pecado",
+        "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 330373,
+      "name": "El Problema",
+      "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
+    },
+    {
+      "added_at": "2024-06-14 13:38:24",
+      "album": {
         "name": "La Mejor Versi\u00f3n de Mi (Remix)",
         "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 229333,
       "name": "La Mejor Versi\u00f3n de Mi - Remix",
       "url": "https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ"
-    },
-    {
-      "added_at": "2024-06-14 13:38:24",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2024-06-14 13:38:24",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-14 13:38:24",
       "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 264786,
-      "name": "Dime Que No",
-      "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
-    },
-    {
-      "added_at": "2024-06-14 13:38:24",
-      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 256133,
       "name": "Lloviendo Estrellas",
       "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
+    },
+    {
+      "added_at": "2024-06-14 13:38:24",
+      "album": {
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Dime Que No",
+      "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
     },
     {
       "added_at": "2024-06-14 13:38:24",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-14 13:38:24",
       "album": {
-        "name": "Luna Nueva",
-        "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 319066,
-      "name": "Penelope",
-      "url": "https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF"
-    },
-    {
-      "added_at": "2024-06-14 13:38:24",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3aoVX17mIukbwctlbu99zk"
       },
@@ -1023,22 +1007,6 @@
       "duration_ms": 259613,
       "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/1mkZZjz0X8YexDWXlx7zmX"
-    },
-    {
-      "added_at": "2024-06-14 13:38:24",
-      "album": {
-        "name": "Sintiendonos La Piel",
-        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "Bailar Pegados",
-      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
     },
     {
       "added_at": "2024-06-14 13:38:24",
@@ -1063,6 +1031,22 @@
     {
       "added_at": "2024-06-14 13:38:24",
       "album": {
+        "name": "Luna Nueva",
+        "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 319066,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF"
+    },
+    {
+      "added_at": "2024-06-14 13:38:24",
+      "album": {
         "name": "A Quien Quiera Escuchar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 230346,
       "name": "Disparo al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5828oiHxe6DSSAuIrPSeVT"
+    },
+    {
+      "added_at": "2024-06-14 13:38:24",
+      "album": {
+        "name": "Sintiendonos La Piel",
+        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Bailar Pegados",
+      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
     },
     {
       "added_at": "2024-06-14 13:38:24",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-06-14 13:38:24",
       "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Ens\u00e9\u00f1ame A Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/59f765mlM08j2POCl3zPvd"
+    },
+    {
+      "added_at": "2024-06-14 13:38:24",
+      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/5GeEcoNATic5kr69QPV89Q"
       },
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-06-14 13:38:24",
       "album": {
-        "name": "Tu Mano",
-        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Ens\u00e9\u00f1ame A Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/59f765mlM08j2POCl3zPvd"
-    },
-    {
-      "added_at": "2024-06-14 13:38:24",
-      "album": {
         "name": "La Dif\u00edcil",
         "url": "https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 208210,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/7wCqmkAjudO0oKRASmv8Wg"
+    },
+    {
+      "added_at": "2024-06-14 13:38:24",
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER"
     },
     {
       "added_at": "2024-06-14 13:38:24",
@@ -1387,22 +1403,6 @@
       "duration_ms": 162066,
       "name": "Si Tu No Bailas Conmigo",
       "url": "https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH"
-    },
-    {
-      "added_at": "2024-06-14 13:38:24",
-      "album": {
-        "name": "Tu Mano",
-        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Ser\u00e9",
-      "url": "https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER"
     },
     {
       "added_at": "2024-06-14 13:38:24",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2024-06-14 13:38:24",
       "album": {
+        "name": "Me Enamore De Ti",
+        "url": "https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 281002,
+      "name": "Me Enamor\u00e9 De Ti",
+      "url": "https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp"
+    },
+    {
+      "added_at": "2024-06-14 13:38:24",
+      "album": {
         "name": "He Venido Por Ti",
         "url": "https://open.spotify.com/album/6wpz5IBiPdIKsOy7JBJu5C"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 233213,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/1Nw2GDJ7Xy1JtbPE8w5fcA"
-    },
-    {
-      "added_at": "2024-06-14 13:38:24",
-      "album": {
-        "name": "Me Enamore De Ti",
-        "url": "https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 281002,
-      "name": "Me Enamor\u00e9 De Ti",
-      "url": "https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp"
     },
     {
       "added_at": "2024-06-14 13:38:24",

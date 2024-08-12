@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 
 ### [This Is The 1975](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1X6Ic8)
 
-> This Is The 1975\. Los temas esenciales, todos en una lista.
+> This is The 1975\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,762 likes - 41 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,852 likes - 40 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 | 35 | [Then Because She Goes](https://open.spotify.com/track/1VP6X2WDJuBGvIZkTKFhF5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:07 |
 | 36 | [Me](https://open.spotify.com/track/4w0joPRhKJsrzq1euxkpZ2) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:35 |
 | 37 | [Medicine](https://open.spotify.com/track/48xNw8YZxvrc3qB5IKaJ8w) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Medicine](https://open.spotify.com/album/1N1Z9qu4rXWg76BsnczKpB) | 5:52 |
-| 38 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 |
-| 39 | [The Birthday Party](https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:45 |
-| 40 | [Undo](https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:04 |
-| 41 | [So Far \(It's Alright\)](https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:00 |
+| 38 | [The Birthday Party](https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:45 |
+| 39 | [Undo](https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:04 |
+| 40 | [So Far \(It's Alright\)](https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:00 |
 
-Snapshot ID: `ZrVcAAAAAADxoiPBXUUawIZMhg26C84h`
+Snapshot ID: `ZratgAAAAAA5EYGyWuhWyA3wW9PiJX1h`

@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 1974,
+  "num_followers": 1975,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAADXT65NoumEx0OLubDHpnIX",
+  "snapshot_id": "ZratgAAAAACHz2bu/2CWd85oxi+NhZ1d",
   "tracks": [
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 298106,
-      "name": "Leaving Home",
-      "url": "https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8"
+      "duration_ms": 146426,
+      "name": "Maundy",
+      "url": "https://open.spotify.com/track/16ohNOWQrwHCTjyjoGXIJ8"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bach Reworks (Pt. 2)",
+        "url": "https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 188006,
+      "name": "Gu\u00f0nad\u00f3ttir: Minor C Variation",
+      "url": "https://open.spotify.com/track/4CGzdyHrj14f9lazBG2s8s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -811,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach Reworks (Pt. 2)",
-        "url": "https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ"
+        "name": "Battlefield 2042 (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/0AS3lRdcaJuH3tZMawxaD1"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Sam Slater",
+          "url": "https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io"
         }
       ],
-      "duration_ms": 188006,
-      "name": "Gu\u00f0nad\u00f3ttir: Minor C Variation",
-      "url": "https://open.spotify.com/track/4CGzdyHrj14f9lazBG2s8s"
+      "duration_ms": 152413,
+      "name": "Battlefield 2042",
+      "url": "https://open.spotify.com/track/6gkN5lGMV6Dt5Ac8zuErDR"
     },
     {
       "added_at": null,
@@ -867,22 +887,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Battlefield 2042 (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/0AS3lRdcaJuH3tZMawxaD1"
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Sam Slater",
-          "url": "https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io"
         }
       ],
-      "duration_ms": 152413,
-      "name": "Battlefield 2042",
-      "url": "https://open.spotify.com/track/6gkN5lGMV6Dt5Ac8zuErDR"
+      "duration_ms": 181680,
+      "name": "Rennur Upp",
+      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
     },
     {
       "added_at": null,
@@ -943,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapped (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Rutger Hoedemaekers",
-          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
-        }
-      ],
-      "duration_ms": 124541,
-      "name": "A Political Murder",
-      "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ser\u00eda II",
         "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
@@ -1019,22 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Rennur Upp",
-      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trapped (Original Television Series Soundtrack)",
         "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
@@ -1046,15 +1026,27 @@
         {
           "name": "Rutger Hoedemaekers",
           "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 91134,
-      "name": "Trapped",
-      "url": "https://open.spotify.com/track/4nU57Z89NrwqOjx3pNyeCf"
+      "duration_ms": 124541,
+      "name": "A Political Murder",
+      "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 450226,
+      "name": "Strokur",
+      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
     },
     {
       "added_at": null,
@@ -1091,18 +1083,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+        "name": "Trapped (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Rutger Hoedemaekers",
+          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 450226,
-      "name": "Strokur",
-      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
+      "duration_ms": 91134,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/4nU57Z89NrwqOjx3pNyeCf"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

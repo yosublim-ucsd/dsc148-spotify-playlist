@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2024 yazına damga vuracak şarkılar\. Kapak: Mert Demir
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,937 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,121 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 35 | [Şerbetli](https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:14 |
 | 36 | [Shoote Shoote](https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Shoote Shoote](https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC) | 2:59 |
 | 37 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 |
-| 38 | [Yokmuş Sevenim Senden Önce](https://open.spotify.com/track/1mJiGkr8Ydci5TTLisVVer) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Yokmuş Sevenim Senden Önce](https://open.spotify.com/album/3ECnEk8UPu12VWdBjbOexQ) | 2:38 |
+| 38 | [KAPALI KAPILAR](https://open.spotify.com/track/4tFRoWT0hpshwYHAaDxcLj) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [KAPALI KAPILAR](https://open.spotify.com/album/4LQUHqj3yzAz5zQXR1w296) | 2:36 |
 | 39 | [Aşk Olsun](https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Aşk Olsun](https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7) | 2:21 |
-| 40 | [KAPALI KAPILAR](https://open.spotify.com/track/4tFRoWT0hpshwYHAaDxcLj) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [KAPALI KAPILAR](https://open.spotify.com/album/4LQUHqj3yzAz5zQXR1w296) | 2:36 |
+| 40 | [Yokmuş Sevenim Senden Önce](https://open.spotify.com/track/1mJiGkr8Ydci5TTLisVVer) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Yokmuş Sevenim Senden Önce](https://open.spotify.com/album/3ECnEk8UPu12VWdBjbOexQ) | 2:38 |
 | 41 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 |
 | 42 | [SPECIAL](https://open.spotify.com/track/5fZUZEz2a8eGqi0Zo4FInv) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [SPECIAL](https://open.spotify.com/album/7cQIr1zjavl5A58iBKOMOC) | 2:12 |
 | 43 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 |

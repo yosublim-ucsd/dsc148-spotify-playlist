@@ -3416,7 +3416,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 174412,
       "name": "CHIKA MALA",
       "url": "https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm"
@@ -11016,7 +11016,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 167074,
       "name": "LUNA DILE",
       "url": "https://open.spotify.com/track/7ttbb6KZNMhkCw4PuASjxz"
@@ -17142,7 +17142,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
@@ -20222,6 +20222,28 @@
       "duration_ms": 170183,
       "name": "TU SABES DONDE VIVO",
       "url": "https://open.spotify.com/track/5RgSwK9Y13567fta5goKTz"
+    },
+    {
+      "album": {
+        "name": "EL COMIENZO",
+        "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121200,
+      "name": "TU TA RICA",
+      "url": "https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8"
     },
     {
       "album": {

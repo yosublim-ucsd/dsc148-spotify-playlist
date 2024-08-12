@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 227576,
+  "num_followers": 227611,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAAZ3nrYqX1hYbqE4YLqEk2g",
+  "snapshot_id": "ZratgAAAAABeoPyZQU8xuFJ3yStUVVPH",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Empapelado",
+        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Empapelado",
+      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 164597,
       "name": "Legendarios",
       "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Empapelado",
-        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Empapelado",
-      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
     },
     {
       "added_at": null,
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tiempo Cura",
+        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+        }
+      ],
+      "duration_ms": 208564,
+      "name": "El Tiempo Cura",
+      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vegetales Con Pescado",
         "url": "https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 182200,
       "name": "Vegetales Con Pescado",
       "url": "https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tiempo Cura",
-        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Adan Golden Ganga",
-          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
-        }
-      ],
-      "duration_ms": 208564,
-      "name": "El Tiempo Cura",
-      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
     },
     {
       "added_at": null,

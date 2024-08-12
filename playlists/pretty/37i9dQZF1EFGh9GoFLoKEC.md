@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3Ds9IjnaNOAcEIWURkzJqs">Mark Ronson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,579 likes - 78 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,580 likes - 78 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 | 49 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 |
 | 50 | [All I Ever Wanted](https://open.spotify.com/track/3p0M2TUGrPyt2vfojWpjLw) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:23 |
 | 51 | [Leaving Los Feliz \(feat\. Kevin Parker\)](https://open.spotify.com/track/5lc74vqFs7tNGxE4mOfrbr) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:18 |
-| 52 | [Get Ghost](https://open.spotify.com/track/0xIO5tC9tBxavlJ0kZBzL5) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Ghostbusters \(Original Motion Picture Soundtrack\) \[2016\]](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 3:36 |
+| 52 | [Get Ghost](https://open.spotify.com/track/0xIO5tC9tBxavlJ0kZBzL5) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Ghostbusters \(Original Motion Picture Soundtrack\) \- 2016](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 3:36 |
 | 53 | [In Case of Fire \(feat\. Jeff Bhasker\)](https://open.spotify.com/track/2OTdfTzu0VAmnykkQDrFZr) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Jeff Bhasker](https://open.spotify.com/artist/5phOCTS0ZqbZGVXdpG6rLu) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:33 |
 | 54 | [2 AM \(feat\. Lykke Li\)](https://open.spotify.com/track/5PfxsAZ3KT29lZQ1lO5KRm) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:18 |
 | 55 | [Uptown's First Finale \(feat\. Stevie Wonder & Andrew Wyatt\)](https://open.spotify.com/track/41RffU6OSMWONC8uTjyude) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 1:38 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 | 77 | [Do You Do You Know \(feat\. Santigold & Kathleen Hanna\)](https://open.spotify.com/track/6jN57Tbx38RDQ7eEGoH1Fd) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Kathleen Hanna](https://open.spotify.com/artist/0NXQFDQVqS7ffqT8yLKUAM) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 2:31 |
 | 78 | [Hell To Be You Baby](https://open.spotify.com/track/1AJsGxc2WejmcdXbxX50uk) | [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Hell To Be You Baby](https://open.spotify.com/album/48BuHR7I9Nauw1WA60OhTy) | 3:55 |
 
-Snapshot ID: `AbZFAgAAAABh2e6skeCnx/EyqC7UuIh2`
+Snapshot ID: `AbZKogAAAACWZEm4KWqzvD1r1+PZB31T`

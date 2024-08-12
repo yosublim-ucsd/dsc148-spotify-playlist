@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Anna Graves",
-  "num_followers": 79261,
+  "num_followers": 79276,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Tear It All Apart",
         "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
       },
@@ -443,38 +427,6 @@
       "duration_ms": 186342,
       "name": "Tear It All Apart",
       "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "What I Am",
-        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "What I Am",
-      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -495,6 +447,54 @@
       "duration_ms": 278670,
       "name": "Call Your Mom (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 224371,
       "name": "Skin",
       "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Timeline",
-        "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 332585,
-      "name": "Timeline",
-      "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Here in the Pitch",
         "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 188293,
       "name": "Life Is",
       "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Timeline",
+        "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 332585,
+      "name": "Timeline",
+      "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Free Treasure",
-        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "A Week in Nashville",
         "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Nightvisions",
-        "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 236320,
-      "name": "Nightvisions",
-      "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Little Blue (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 265306,
       "name": "Little Blue (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Nightvisions",
+        "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 236320,
+      "name": "Nightvisions",
+      "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1175,38 +1175,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "talking to myself",
-        "url": "https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "talking to myself",
-      "url": "https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Country",
-        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 272065,
-      "name": "Stick Around",
-      "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
       },
@@ -1219,6 +1187,22 @@
       "duration_ms": 181000,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "talking to myself",
+        "url": "https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "talking to myself",
+      "url": "https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 241152,
       "name": "Malleable",
       "url": "https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Country",
+        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 272065,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

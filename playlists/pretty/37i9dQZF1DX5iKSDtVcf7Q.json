@@ -1,6 +1,6 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 277940,
+  "num_followers": 278024,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
-        "name": "Human The Double Album",
-        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 224213,
-      "name": "'Til You Can't",
-      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
-    },
-    {
-      "added_at": "2024-07-05 20:37:22",
-      "album": {
         "name": "Down The Road I Go",
         "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 241533,
       "name": "It's A Great Day To Be Alive",
       "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+    },
+    {
+      "added_at": "2024-07-05 20:37:22",
+      "album": {
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Good Directions",
+      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Good Directions",
-      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
-    },
-    {
-      "added_at": "2024-07-05 20:37:22",
-      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 229459,
       "name": "Pink Skies (feat. Watchhouse)",
       "url": "https://open.spotify.com/track/6BTdD91y7j796RSXHvI70v"
+    },
+    {
+      "added_at": "2024-07-05 20:37:22",
+      "album": {
+        "name": "Human The Double Album",
+        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 224213,
+      "name": "'Til You Can't",
+      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "The Way I Talk",
-      "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
-    },
-    {
-      "added_at": "2024-07-05 20:37:22",
-      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 213653,
       "name": "These Are My People",
       "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
+    },
+    {
+      "added_at": "2024-07-05 20:37:22",
+      "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 208280,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -795,26 +795,6 @@
       "duration_ms": 231832,
       "name": "half of my hometown (feat. Kenny Chesney)",
       "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
-    },
-    {
-      "added_at": "2024-07-05 20:37:22",
-      "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
-      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -847,6 +827,26 @@
       "duration_ms": 215120,
       "name": "Round Here",
       "url": "https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX"
+    },
+    {
+      "added_at": "2024-07-05 20:37:22",
+      "album": {
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
-        "name": "Pure Country",
-        "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 138160,
-      "name": "Heartland - Pure Country/Soundtrack Version",
-      "url": "https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8"
+      "duration_ms": 230586,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
+        "name": "Pure Country",
+        "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 138160,
+      "name": "Heartland - Pure Country/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8"
+    },
+    {
+      "added_at": "2024-07-05 20:37:22",
+      "album": {
         "name": "American Love",
         "url": "https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 199746,
       "name": "American Country Love Song",
       "url": "https://open.spotify.com/track/0O1x2tRm8ZpfDbcpOWZp7z"
-    },
-    {
-      "added_at": "2024-07-05 20:37:22",
-      "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
-        "name": "Hey World",
-        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
+        "name": "Brett Eldredge",
+        "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
       },
       "artists": [
         {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 201440,
-      "name": "Save The Roses",
-      "url": "https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E"
+      "duration_ms": 208720,
+      "name": "The Long Way",
+      "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -1103,38 +1103,6 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
-        "name": "Brett Eldredge",
-        "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 208720,
-      "name": "The Long Way",
-      "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
-    },
-    {
-      "added_at": "2024-07-05 20:37:22",
-      "album": {
-        "name": "It's America",
-        "url": "https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 213786,
-      "name": "It\u2019s America",
-      "url": "https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd"
-    },
-    {
-      "added_at": "2024-07-05 20:37:22",
-      "album": {
         "name": "Playlist: The Very Best Of Lonestar",
         "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
       },
@@ -1147,6 +1115,22 @@
       "duration_ms": 223573,
       "name": "My Front Porch Looking In",
       "url": "https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F"
+    },
+    {
+      "added_at": "2024-07-05 20:37:22",
+      "album": {
+        "name": "Can't Say I Ain't Country",
+        "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -1167,18 +1151,34 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
-        "name": "Can't Say I Ain't Country",
-        "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
+        "name": "Hey World",
+        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
         }
       ],
-      "duration_ms": 198520,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY"
+      "duration_ms": 201440,
+      "name": "Save The Roses",
+      "url": "https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E"
+    },
+    {
+      "added_at": "2024-07-05 20:37:22",
+      "album": {
+        "name": "It's America",
+        "url": "https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 213786,
+      "name": "It\u2019s America",
+      "url": "https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "One Hell Of An Amen",
+      "url": "https://open.spotify.com/track/2XEl9DfBj88c8p2bdfx1qu"
+    },
+    {
+      "added_at": "2024-07-05 20:37:22",
+      "album": {
         "name": "Me And You",
         "url": "https://open.spotify.com/album/5aG9PNqK9jLLJoehlNXlwW"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 179077,
       "name": "Buy Me a Boat",
       "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
-    },
-    {
-      "added_at": "2024-07-05 20:37:22",
-      "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "One Hell Of An Amen",
-      "url": "https://open.spotify.com/track/2XEl9DfBj88c8p2bdfx1qu"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 246453,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d"
+      "duration_ms": 260346,
+      "name": "Red Dirt Road",
+      "url": "https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 260346,
-      "name": "Red Dirt Road",
-      "url": "https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2"
+      "duration_ms": 246453,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
-    },
-    {
-      "added_at": "2024-07-05 20:37:22",
-      "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/1ckBGyrkltenXO6WNFkqxj"
       },
@@ -1519,6 +1503,38 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "Only In America",
+      "url": "https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G"
+    },
+    {
+      "added_at": "2024-07-05 20:37:22",
+      "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+    },
+    {
+      "added_at": "2024-07-05 20:37:22",
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -1543,18 +1559,38 @@
     {
       "added_at": "2024-07-05 20:37:22",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+        "name": "Undivided",
+        "url": "https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 268613,
-      "name": "Only In America",
-      "url": "https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G"
+      "duration_ms": 175920,
+      "name": "Undivided",
+      "url": "https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7"
+    },
+    {
+      "added_at": "2024-07-05 20:37:22",
+      "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Famous In a Small Town",
+      "url": "https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -1575,22 +1611,6 @@
       "duration_ms": 166300,
       "name": "Out In The Middle",
       "url": "https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp"
-    },
-    {
-      "added_at": "2024-07-05 20:37:22",
-      "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Famous In a Small Town",
-      "url": "https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X"
     },
     {
       "added_at": "2024-07-05 20:37:22",
@@ -1623,26 +1643,6 @@
       "duration_ms": 179800,
       "name": "River Bank",
       "url": "https://open.spotify.com/track/0U6uTxVPeoXFcxlXMIWgAR"
-    },
-    {
-      "added_at": "2024-07-05 20:37:22",
-      "album": {
-        "name": "Undivided",
-        "url": "https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        },
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 175920,
-      "name": "Undivided",
-      "url": "https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7"
     },
     {
       "added_at": "2024-07-05 20:37:22",

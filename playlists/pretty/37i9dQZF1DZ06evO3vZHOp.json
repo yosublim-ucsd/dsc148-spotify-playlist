@@ -1,12 +1,12 @@
 {
-  "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 340859,
+  "description": "This Is Eladio Carrion. Los temas esenciales, todos en una lista.",
+  "num_followers": 340918,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAD9WOQrnRe9MJf+DFERpxPI",
+  "snapshot_id": "ZratgAAAAACYtRivLisu3Kznrk2uiZk1",
   "tracks": [
     {
       "added_at": null,
@@ -711,30 +711,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salgo a Buscarte",
-        "url": "https://open.spotify.com/album/5mHoWx0yEHgj4Gm5jAzdHV"
+        "name": "No Podemos (Remix)",
+        "url": "https://open.spotify.com/album/4jz8jaitW6YNNBS9ikHJ4z"
       },
       "artists": [
         {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
         },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 201225,
-      "name": "Salgo a Buscarte",
-      "url": "https://open.spotify.com/track/3FKkbn11xHnb2XOsqsX3Sa"
+      "duration_ms": 240000,
+      "name": "No Podemos - Remix",
+      "url": "https://open.spotify.com/track/489YQCIt2Mi0P1lRdx7uJz"
     },
     {
       "added_at": null,
@@ -759,26 +755,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Podemos (Remix)",
-        "url": "https://open.spotify.com/album/4jz8jaitW6YNNBS9ikHJ4z"
+        "name": "Salgo a Buscarte",
+        "url": "https://open.spotify.com/album/5mHoWx0yEHgj4Gm5jAzdHV"
       },
       "artists": [
         {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
         },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
         }
       ],
-      "duration_ms": 240000,
-      "name": "No Podemos - Remix",
-      "url": "https://open.spotify.com/track/489YQCIt2Mi0P1lRdx7uJz"
+      "duration_ms": 201225,
+      "name": "Salgo a Buscarte",
+      "url": "https://open.spotify.com/track/3FKkbn11xHnb2XOsqsX3Sa"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 29680,
+  "num_followers": 29694,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAChvvCi/p/7e1DXNwX1vzmw",
+  "snapshot_id": "ZratgAAAAAA17W4qAwFqcDJEulGw+9gw",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 745",
-        "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 163073,
-      "name": "Las 745",
-      "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hace Fr\u00edo Aqu\u00ed en la Cima",
         "url": "https://open.spotify.com/album/1RpdlGnhty9ymIv72o0EGw"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 177260,
       "name": "Hace Fr\u00edo Aqu\u00ed en la Cima",
       "url": "https://open.spotify.com/track/538jDVyGwrsKBWV4TjIgcL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las 745",
+        "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 163073,
+      "name": "Las 745",
+      "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 201533,
-      "name": "Adi\u00f3s Mi Amor",
-      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
+      "duration_ms": 189240,
+      "name": "Que Te Entregues Hoy",
+      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 189240,
-      "name": "Que Te Entregues Hoy",
-      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
+      "duration_ms": 201533,
+      "name": "Adi\u00f3s Mi Amor",
+      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
     },
     {
       "added_at": null,
@@ -651,6 +651,30 @@
       "duration_ms": 156858,
       "name": "Qu\u00e9 Pena Contigo",
       "url": "https://open.spotify.com/track/5LkX1CktvInZ3kRotKu37f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C ARMO",
+        "url": "https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "C ARMO",
+      "url": "https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m"
     },
     {
       "added_at": null,
@@ -695,30 +719,6 @@
       "duration_ms": 267151,
       "name": "Fue Un Placer",
       "url": "https://open.spotify.com/track/1xbJgNrATP9zyCKiM3o6NW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "C ARMO",
-        "url": "https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "C ARMO",
-      "url": "https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m"
     },
     {
       "added_at": null,

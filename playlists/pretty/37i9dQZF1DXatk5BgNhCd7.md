@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,848 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,884 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 19 | [Un Millón de Rosas](https://open.spotify.com/track/5VOTzbVYsUtSYZA3jWV3D4) | [Juli Cardozo](https://open.spotify.com/artist/5kiv0dGO0b9PUSgNSiDGp6), [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Un Millón de Rosas](https://open.spotify.com/album/5JZe0ytwDBmk344lUqWcD0) | 2:27 |
 | 20 | [Vas a decir que sí](https://open.spotify.com/track/4xJWfJHktjHf922MATCgrR) | [Lalo Capetillo](https://open.spotify.com/artist/6u4vthpKyJ2lF3o9nTorR7), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Vas a decir que sí](https://open.spotify.com/album/5UjfB9Ox0qRn4urJjq5MUo) | 3:05 |
 | 21 | [Este o Este \(Mashup\)](https://open.spotify.com/track/49mBZ5hZmYQg2JPuqnProx) | [Dj Agus Lima](https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9) | [Mashup \(2024\)](https://open.spotify.com/album/5OkkgAp4sGZiSeYx6l3h7I) | 2:39 |
-| 22 | [Por El Contrario](https://open.spotify.com/track/0IBi4GNHoAmmyGUMA0dRYN) | [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA) | [POR EL CONTRARIO](https://open.spotify.com/album/3LlhldetjMozXf2zCUYPl2) | 3:12 |
+| 22 | [Por El Contrario](https://open.spotify.com/track/0IBi4GNHoAmmyGUMA0dRYN) | [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA), [Flor Crucet](https://open.spotify.com/artist/3qFYnErFVgdja5h3fi4I9J), [Pa´La Banda](https://open.spotify.com/artist/1Rm9JSZTRF1HcF2DQUWpVZ) | [POR EL CONTRARIO](https://open.spotify.com/album/3LlhldetjMozXf2zCUYPl2) | 3:12 |
 | 23 | [Dame Más](https://open.spotify.com/track/2QFrSVpDSOi6uaa8AmE8Da) | [Anthony and the Melody Makers](https://open.spotify.com/artist/0LZEH4SvHZLRkOs45hAYbu), [Mau Áalen](https://open.spotify.com/artist/0HCnWMufqSRED6gy4U0rcC) | [Dame Más](https://open.spotify.com/album/2J4QWuZqsIoe0ov6songyf) | 3:32 |
 | 24 | [Mal Amigo](https://open.spotify.com/track/1fXzZQCKattbZOG2trr17p) | [Wilbert Taveras](https://open.spotify.com/artist/56yCk5GU2JyuwtaLAZkSl0), [Angelito Vallenilla](https://open.spotify.com/artist/2mBB9q0G8PbzLYjCRN8d8I) | [Mal Amigo](https://open.spotify.com/album/3Um0RwwkgS7Opx8swjeNkW) | 3:37 |
 | 25 | [Eres Viento en Mi Desierto](https://open.spotify.com/track/2QKG6RLxuczwIxq4i9rI4K) | [Trova la Habana](https://open.spotify.com/artist/5ft11zodYGike3zR45IBtM) | [Eres Viento en Mi Desierto](https://open.spotify.com/album/28LqbjBaSS3jXOftOkkcko) | 3:47 |

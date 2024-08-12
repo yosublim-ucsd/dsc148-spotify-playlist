@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,689 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,742 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 34 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 |
 | 35 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 |
 | 36 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 |
-| 37 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
-| 38 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
+| 37 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
+| 38 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
 | 39 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
 | 40 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 |
 | 41 | [eventide](https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [eventide](https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh) | 2:10 |
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 59 | [tranquility](https://open.spotify.com/track/6rl4T0vpbACeNmZs3kVwH6) | [lofi potato](https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU) | [tranquility](https://open.spotify.com/album/4kSIZWRmsNizAuO110oBq6) | 2:36 |
 | 60 | [Rainy Days](https://open.spotify.com/track/1r9oOKrKaYExVI8w9naQSV) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb) | [Rainy Days](https://open.spotify.com/album/489BARvb76UOnK1OBIVQoY) | 1:58 |
 | 61 | [Bloom](https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:01 |
-| 62 | [Choke](https://open.spotify.com/track/28PYwyQETvCDNXMRBFAtzr) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/1MwrviwJTM0eBcrEkjwbZn) | 3:00 |
-| 63 | [Lost In The Wilderness](https://open.spotify.com/track/0igM1OQrEBkeaLn63WBjeS) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Lost In The Wilderness](https://open.spotify.com/album/0W6keNnJ8Qg0C3WaN9YcVh) | 2:34 |
+| 62 | [Lost In The Wilderness](https://open.spotify.com/track/0igM1OQrEBkeaLn63WBjeS) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Lost In The Wilderness](https://open.spotify.com/album/0W6keNnJ8Qg0C3WaN9YcVh) | 2:34 |
+| 63 | [Choke](https://open.spotify.com/track/28PYwyQETvCDNXMRBFAtzr) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/1MwrviwJTM0eBcrEkjwbZn) | 3:00 |
 | 64 | [emerald](https://open.spotify.com/track/09ekHMx7dXh7EQMAmNqUrD) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/6bG4Sy0DN6zYSi6kLlBJMF) | 2:34 |
 | 65 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 |
 | 66 | [Louie's Lullaby](https://open.spotify.com/track/5Y69oMuGeIxfP4tIcCv6EO) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/64EqJeopKgcy7Ae1ZdPLnz) | 2:51 |
 | 67 | [talk it out](https://open.spotify.com/track/1VDM0Wv8wqX4hLSdzudVey) | [Rob Smyles](https://open.spotify.com/artist/6KIclyZuF2o55kSUaiRe5P) | [Babymakers](https://open.spotify.com/album/3LOCIMlQsItb0QJN1poD29) | 3:31 |
-| 68 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
-| 69 | [Sick of This](https://open.spotify.com/track/5JtkrEGCt433sr2wEGSVsR) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/57V7Q54bacsS1tJYnHxmDT) | 3:53 |
-| 70 | [Stella's Story](https://open.spotify.com/track/2wdxmhbldL8GzplUFEWeqE) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2) | [Palettes](https://open.spotify.com/album/4WsuSiZsFuddq0r6f8dMJl) | 1:32 |
-| 71 | [We Are Safe Here.](https://open.spotify.com/track/0a2q5SUFudT2x9Ce56hGIL) | [fantompower](https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47) | [Summertime and the Living's Easier.](https://open.spotify.com/album/08scJWiEuLoGdLQWpIhW0z) | 2:11 |
+| 68 | [Sick of This](https://open.spotify.com/track/5JtkrEGCt433sr2wEGSVsR) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/57V7Q54bacsS1tJYnHxmDT) | 3:53 |
+| 69 | [Stella's Story](https://open.spotify.com/track/2wdxmhbldL8GzplUFEWeqE) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2) | [Palettes](https://open.spotify.com/album/4WsuSiZsFuddq0r6f8dMJl) | 1:32 |
+| 70 | [We Are Safe Here.](https://open.spotify.com/track/0a2q5SUFudT2x9Ce56hGIL) | [fantompower](https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47) | [Summertime and the Living's Easier.](https://open.spotify.com/album/08scJWiEuLoGdLQWpIhW0z) | 2:11 |
+| 71 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
 | 72 | [Blue \(feat\. Drwn.\)](https://open.spotify.com/track/4RIu43eVxjbWuUhNwTUxwb) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Clockwork](https://open.spotify.com/album/67fCjPsA2tdDb7YcpMYynn) | 2:03 |
 | 73 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/3GpuZPoVK9DCPbiAkKFZxo) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/4swK4A1568ZddoKFzTIW8Z) | 2:34 |
 | 74 | [Keep On Going](https://open.spotify.com/track/0W8GsPozYoonDEjOdLHnsC) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Keep On Going](https://open.spotify.com/album/51SCRafgNIjbYob0VCyhBn) | 2:40 |

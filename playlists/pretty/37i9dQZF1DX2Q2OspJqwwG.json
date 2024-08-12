@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 29571,
+  "num_followers": 29608,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-08-05 13:43:49",
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+    },
+    {
+      "added_at": "2024-08-05 13:43:49",
+      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 212640,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
-    },
-    {
-      "added_at": "2024-08-05 13:43:49",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 203618,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
     },
     {
       "added_at": "2024-08-05 13:43:49",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-08-05 13:43:49",
       "album": {
-        "name": "Never Lose Me",
-        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "Never Lose Me",
-      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
-    },
-    {
-      "added_at": "2024-08-05 13:43:49",
-      "album": {
         "name": "Si Ai",
         "url": "https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 166000,
       "name": "Si Ai",
       "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
+    },
+    {
+      "added_at": "2024-08-05 13:43:49",
+      "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
     },
     {
       "added_at": "2024-08-05 13:43:49",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-08-05 13:43:49",
       "album": {
-        "name": "The Code",
-        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 180141,
-      "name": "The Code",
-      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
-    },
-    {
-      "added_at": "2024-08-05 13:43:49",
-      "album": {
         "name": "Saxobeats",
         "url": "https://open.spotify.com/album/5K3ZT6CPpaPXanq1lKyRuL"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 195105,
       "name": "Mr. Saxobeat - Radio Edit",
       "url": "https://open.spotify.com/track/3LWDPEXEaLBRGNLbdcbwBR"
+    },
+    {
+      "added_at": "2024-08-05 13:43:49",
+      "album": {
+        "name": "The Code",
+        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 180141,
+      "name": "The Code",
+      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
     },
     {
       "added_at": "2024-08-05 13:43:49",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-08-05 13:43:49",
       "album": {
+        "name": "Ia-ma Du-ma",
+        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Ia-ma Du-ma",
+      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
+    },
+    {
+      "added_at": "2024-08-05 13:43:49",
+      "album": {
         "name": "Taramul interzis",
         "url": "https://open.spotify.com/album/5CqQHsNVSPFpkBGCAwh4Ud"
       },
@@ -1663,6 +1679,22 @@
       "duration_ms": 170898,
       "name": "Taramul interzis",
       "url": "https://open.spotify.com/track/1wAfxPzDicgCr70eTTY1Lr"
+    },
+    {
+      "added_at": "2024-08-05 13:43:49",
+      "album": {
+        "name": "Gipsy Style",
+        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
+      },
+      "artists": [
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        }
+      ],
+      "duration_ms": 188355,
+      "name": "Gipsy Style",
+      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
     },
     {
       "added_at": "2024-08-05 13:43:49",
@@ -1687,18 +1719,22 @@
     {
       "added_at": "2024-08-05 13:43:49",
       "album": {
-        "name": "Ia-ma Du-ma",
-        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9"
       },
       "artists": [
         {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Ia-ma Du-ma",
-      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
+      "duration_ms": 158095,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
     },
     {
       "added_at": "2024-08-05 13:43:49",
@@ -1719,42 +1755,6 @@
       "duration_ms": 145617,
       "name": "La tine \u0219i la bani - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
-    },
-    {
-      "added_at": "2024-08-05 13:43:49",
-      "album": {
-        "name": "Gipsy Style",
-        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
-      },
-      "artists": [
-        {
-          "name": "Costel Biju",
-          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
-        }
-      ],
-      "duration_ms": 188355,
-      "name": "Gipsy Style",
-      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
-    },
-    {
-      "added_at": "2024-08-05 13:43:49",
-      "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amore",
-      "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
     },
     {
       "added_at": "2024-08-05 13:43:49",
@@ -1803,30 +1803,6 @@
     {
       "added_at": "2024-08-05 13:43:49",
       "album": {
-        "name": "HOT (From Miami Bici 2 The Movie)",
-        "url": "https://open.spotify.com/album/0LxezMVWpLVvfGEV79DXIW"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Andrei G",
-          "url": "https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "HOT - From Miami Bici 2 The Movie",
-      "url": "https://open.spotify.com/track/03Lzl2Twhog0E0JKj4f1zE"
-    },
-    {
-      "added_at": "2024-08-05 13:43:49",
-      "album": {
         "name": "Imuni la bine",
         "url": "https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk"
       },
@@ -1847,26 +1823,6 @@
     {
       "added_at": "2024-08-05 13:43:49",
       "album": {
-        "name": "Sistem Otoman",
-        "url": "https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e"
-      },
-      "artists": [
-        {
-          "name": "Tony One",
-          "url": "https://open.spotify.com/artist/4GnbmF7PWjbWCIPjkTCLgT"
-        },
-        {
-          "name": "Costel Biju",
-          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
-        }
-      ],
-      "duration_ms": 163199,
-      "name": "Sistem Otoman",
-      "url": "https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa"
-    },
-    {
-      "added_at": "2024-08-05 13:43:49",
-      "album": {
         "name": "Totul meu",
         "url": "https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7"
       },
@@ -1883,6 +1839,26 @@
       "duration_ms": 144800,
       "name": "Totul meu",
       "url": "https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp"
+    },
+    {
+      "added_at": "2024-08-05 13:43:49",
+      "album": {
+        "name": "Sistem Otoman",
+        "url": "https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e"
+      },
+      "artists": [
+        {
+          "name": "Tony One",
+          "url": "https://open.spotify.com/artist/4GnbmF7PWjbWCIPjkTCLgT"
+        },
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        }
+      ],
+      "duration_ms": 163199,
+      "name": "Sistem Otoman",
+      "url": "https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa"
     },
     {
       "added_at": "2024-08-05 13:43:49",
@@ -1919,6 +1895,30 @@
       "duration_ms": 168794,
       "name": "Infinituri",
       "url": "https://open.spotify.com/track/5CcIXPkherkJzdzQgvC6r1"
+    },
+    {
+      "added_at": "2024-08-05 13:43:49",
+      "album": {
+        "name": "HOT (From Miami Bici 2 The Movie)",
+        "url": "https://open.spotify.com/album/0LxezMVWpLVvfGEV79DXIW"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Andrei G",
+          "url": "https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "HOT - From Miami Bici 2 The Movie",
+      "url": "https://open.spotify.com/track/03Lzl2Twhog0E0JKj4f1zE"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

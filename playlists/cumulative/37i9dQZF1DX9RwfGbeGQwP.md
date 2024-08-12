@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,429 songs - 2 day 5 hr 50 min
+1,430 songs - 2 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Cali Phone Ya'](https://open.spotify.com/track/1ArLnO7X64H3eSSTPxNtKw) | [connectEcut](https://open.spotify.com/artist/2TQBOHcwPCSpMwkwIBTcgs) | [Cali Phone Ya'](https://open.spotify.com/album/4p59lhgiGgmC2r295RCPEb) | 2:18 | 2022-10-15 |  |
 | [California Sunshine](https://open.spotify.com/track/6dBWrMyp2MVq5i2TOv0wEl) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [California Sunshine](https://open.spotify.com/album/0oF6z4m4wE8BAI4A2wYVgZ) | 1:32 | 2022-08-19 | 2023-01-07 |
 | [California Trumpet](https://open.spotify.com/track/5o5A9VWshzCc7sJMhLN5AF) | [Tobinio Armstrong](https://open.spotify.com/artist/3GsD3Oqvr0S0LC9dWmaFQm) | [California Trumpet](https://open.spotify.com/album/60ITFn41Yjr6XzOHxlzl1b) | 2:04 | 2022-09-23 | 2024-02-15 |
+| [Call a Friend](https://open.spotify.com/track/7LV39mLX4OVV5k8csHFq8f) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Call a Friend](https://open.spotify.com/album/3WF15nhwlNSyaMxUeu1nuJ) | 2:21 | 2024-08-09 |  |
 | [call me](https://open.spotify.com/track/1sndZHnMu1W4nIRAQkT2xN) | [Clumby](https://open.spotify.com/artist/2j6nnzQl3kndd91nG9QsvA) | [call me](https://open.spotify.com/album/55eBqoesGWQLvQ1Fg8OM70) | 2:11 | 2022-11-25 | 2023-09-05 |
 | [Call Me](https://open.spotify.com/track/26fsJvmS8nLnUqUg5Capqh) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Call Me](https://open.spotify.com/album/1pGmdKDNIgdOHVX4dBuDo1) | 2:22 | 2022-08-19 | 2022-11-20 |
 | [Call Me](https://open.spotify.com/track/4pYVF9dsO5IgVOASSEcl0f) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Call Me](https://open.spotify.com/album/5gD7kNZm1FBZjUDmj9zhW4) | 2:22 | 2022-11-11 | 2022-12-15 |
@@ -817,7 +818,7 @@
 | [Motto](https://open.spotify.com/track/1ENJ8Fg32aGAxoh8mZdfCX) | [Happy Chap](https://open.spotify.com/artist/1a6c3Rh1y3kQ1KKfy58EyZ) | [Motto](https://open.spotify.com/album/0innXMWH0PqamCZQIFSTSa) | 3:52 | 2022-01-27 | 2022-12-24 |
 | [Movies Time](https://open.spotify.com/track/0gwgKnS4Xrq7G8X3HenOWM) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Movies Time](https://open.spotify.com/album/7nNyru9BHyuFekEAmfrFdv) | 1:57 | 2022-12-09 | 2023-09-29 |
 | [moviestar](https://open.spotify.com/track/2aQjIW6o8Arj5RtA32cY6F) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [moviestar](https://open.spotify.com/album/5RvO023RqWdqu5ICoSbH1b) | 2:09 | 2023-09-22 | 2024-08-01 |
-| [Movin' On](https://open.spotify.com/track/20E0W4WPSElB9zewWC12pq) | [Maedwun](https://open.spotify.com/artist/00z1ugfxDKqj3duaq5sbGf) | [Movin' On](https://open.spotify.com/album/7yHEoIHZSI5YCrHiUMOYbJ) | 2:26 | 2024-07-12 |  |
+| [Movin' On](https://open.spotify.com/track/20E0W4WPSElB9zewWC12pq) | [Maedwun](https://open.spotify.com/artist/00z1ugfxDKqj3duaq5sbGf) | [Movin' On](https://open.spotify.com/album/7yHEoIHZSI5YCrHiUMOYbJ) | 2:26 | 2024-07-12 | 2024-08-12 |
 | [mt\. fuji](https://open.spotify.com/track/2RNNPl9fpAb0ziigldf85I) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [kyoto](https://open.spotify.com/album/0ekYAWFyx9byUsfY6L00kq) | 1:49 | 2022-01-27 | 2022-09-17 |
 | [Mugged Off](https://open.spotify.com/track/6n8ig4sDJ41aOA3NflHscL) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [On Track](https://open.spotify.com/album/0Ez9sSh1xGvNMOdVmft9mi) | 2:16 | 2022-01-27 | 2022-05-20 |
 | [Mulholland Cruise](https://open.spotify.com/track/5idpF5W5D1TmaQ1kcvrT4l) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Mulholland Cruise](https://open.spotify.com/album/72uP2pUWQ0nNgBn9JQsCly) | 2:14 | 2022-01-27 | 2022-09-09 |

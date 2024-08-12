@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 
 > This Is Amén\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,339 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,341 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 28 | [Simplemente](https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:15 |
 | 29 | [Ahora Volaré](https://open.spotify.com/track/3BxvhQtYIJSpIa3TNF34ZZ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 2:59 |
 | 30 | [Blues Ciego](https://open.spotify.com/track/2STvoBqpEHcPqnMnVvRsG5) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 3:39 |
-| 31 | [Rutas](https://open.spotify.com/track/5DOYgPZq11EUB4T4DxNWvK) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Rutas](https://open.spotify.com/album/2R1OQoBjl5F50MGEEXqWDd) | 4:16 |
+| 31 | [Si Solo Estas Ahí](https://open.spotify.com/track/0pJRIgIzSZq1xFEtGnACG2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:14 |
 | 32 | [Love N' Shit](https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:36 |
-| 33 | [Si Solo Estas Ahí](https://open.spotify.com/track/0pJRIgIzSZq1xFEtGnACG2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:14 |
+| 33 | [Rutas](https://open.spotify.com/track/5DOYgPZq11EUB4T4DxNWvK) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Rutas](https://open.spotify.com/album/2R1OQoBjl5F50MGEEXqWDd) | 4:16 |
 | 34 | [Cambia Esa Cara](https://open.spotify.com/track/4Xiph5Fmh21XoRTzge0l3y) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 3:08 |
 | 35 | [2020](https://open.spotify.com/track/3SJaiCgPfI6L9WymQkjivV) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/25wwomOyVO7rJvF28zwrpA) | 4:43 |
 | 36 | [La Ultima Canción\. Ámame \- Bonus Track](https://open.spotify.com/track/0uGerlDGcEVGRvFLtFJsmf) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 2:37 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 44 | [Magia](https://open.spotify.com/track/2dRiSTQQFw2mvXMJMRsMNi) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Magia](https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi) | 3:16 |
 | 45 | [Salva Mi Mente](https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 4:21 |
 | 46 | [María](https://open.spotify.com/track/74S4elvYfwhKdThkB9APUv) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [María](https://open.spotify.com/album/1gf3hGi60TRvxyN4dDIJFZ) | 4:04 |
-| 47 | [A Nadie Le Importa](https://open.spotify.com/track/3LEYugA9C1pV8MCfw2eLFK) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [A Nadie Le Importa](https://open.spotify.com/album/3fsAoJjDwnkroW6remnUhS) | 3:13 |
-| 48 | [Jam Session](https://open.spotify.com/track/6qmz2Q6Nvg2Q7e2VlphVEM) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 0:57 |
+| 47 | [Jam Session](https://open.spotify.com/track/6qmz2Q6Nvg2Q7e2VlphVEM) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 0:57 |
+| 48 | [A Nadie Le Importa](https://open.spotify.com/track/3LEYugA9C1pV8MCfw2eLFK) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [A Nadie Le Importa](https://open.spotify.com/album/3fsAoJjDwnkroW6remnUhS) | 3:13 |
 | 49 | [No Me Estoy Quemando](https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 4:13 |
 
-Snapshot ID: `ZrVcAAAAAAA+3wV2T4HNNaBhhzZ8bgR8`
+Snapshot ID: `ZratgAAAAABiIl5xMJbtZZJ+ng18E63Y`

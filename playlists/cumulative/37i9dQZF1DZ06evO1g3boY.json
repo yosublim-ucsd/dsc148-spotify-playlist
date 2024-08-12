@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-19",
-  "description": "This is Emicida. The essential tracks, all in one playlist.",
+  "description": "This is Emicida\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "This Is Emicida",
   "tracks": [
     {
@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 182880,
       "name": "Boa Esperan\u00e7a",
       "url": "https://open.spotify.com/track/2v3FdNAsIe9rh62DOb4ZIz"
@@ -460,6 +460,36 @@
       "duration_ms": 127053,
       "name": "Cap\u00edtulo 4, Vers\u00edculo 3 - Live",
       "url": "https://open.spotify.com/track/0ITzKSRykU81569IrYUhVC"
+    },
+    {
+      "album": {
+        "name": "C\u00c9U",
+        "url": "https://open.spotify.com/album/0A6lVVuyDD64paAhWTx9Ec"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Saffi",
+          "url": "https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266581,
+      "name": "C\u00c9U",
+      "url": "https://open.spotify.com/track/0akv6Ln3jqofVAQYFiuVnS"
     },
     {
       "album": {

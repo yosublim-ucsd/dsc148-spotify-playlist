@@ -1,12 +1,12 @@
 {
-  "description": "This is Natalia Lafourcade. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 497777,
+  "description": "This Is Natalia Lafourcade. Los temas esenciales, todos en una lista.",
+  "num_followers": 497809,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAC7j8NczrgunGSIJuZHbBfb",
+  "snapshot_id": "ZratgAAAAADCijlQkKitKNK+h+pTZZP/",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pel\u00edcula Muda, Pt. 1",
+        "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 257493,
       "name": "Gulliver (with Natalia Lafourcade, \u00c1lex Gonz\u00e1lez y Sergio Vall\u00edn) - MTV Unplugged",
       "url": "https://open.spotify.com/track/3O38qNyWTWL4QOdFNJqMS2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pel\u00edcula Muda, Pt. 1",
-        "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 264880,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nave Especial",
-        "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 136341,
-      "name": "Mudanza",
-      "url": "https://open.spotify.com/track/2DTFJilnKTmpWPR17Zn4Sm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
         "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 259586,
       "name": "Alma M\u00eda (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nave Especial",
+        "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 136341,
+      "name": "Mudanza",
+      "url": "https://open.spotify.com/track/2DTFJilnKTmpWPR17Zn4Sm"
     },
     {
       "added_at": null,

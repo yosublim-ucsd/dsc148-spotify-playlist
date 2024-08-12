@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > .أنا كدة كدة🐐\. غلاف: مروان موسى
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,747 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,908 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AIRPLANE MODE](https://open.spotify.com/track/4S06nzlWnSbCL2sDTQm4ms) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Stage 1: Denial](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:06 |
+| 1 | [AIRPLANE MODE](https://open.spotify.com/track/4S06nzlWnSbCL2sDTQm4ms) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:06 |
 | 2 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 |
 | 3 | [El Mabda2](https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:38 |
 | 4 | [GABOLNA HKOMA](https://open.spotify.com/track/339xW7VUrZEtBpvc4wSlqg) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 2:03 |
-| 5 | [Please](https://open.spotify.com/track/0YHNbqd916UBseBu2qv0xX) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Please](https://open.spotify.com/album/48GGUy02bmdLkROqggBbXi) | 2:19 |
-| 6 | [ATTA3](https://open.spotify.com/track/0kJa375yREkEv5W3Ldec7z) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [ATTA3](https://open.spotify.com/album/0Zo1AW85yhvT3mfiMKZkBt) | 2:26 |
-| 7 | [MONW3AT 2019](https://open.spotify.com/track/1SnrE09OAfMEgdC20Wygl5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 4:36 |
-| 8 | [3la Wara2a](https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [3la Wara2a](https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND) | 2:52 |
-| 9 | [AL ARBA3](https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [AL ARBA3](https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp) | 3:20 |
+| 5 | [ATTA3](https://open.spotify.com/track/0kJa375yREkEv5W3Ldec7z) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [ATTA3](https://open.spotify.com/album/0Zo1AW85yhvT3mfiMKZkBt) | 2:26 |
+| 6 | [MONW3AT 2019](https://open.spotify.com/track/1SnrE09OAfMEgdC20Wygl5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 4:36 |
+| 7 | [3la Wara2a](https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [3la Wara2a](https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND) | 2:52 |
+| 8 | [AL ARBA3](https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [AL ARBA3](https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp) | 3:20 |
+| 9 | [MAGHOOL](https://open.spotify.com/track/1gFRKxEsz8WalxCfNJkPic) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [MAGHOOL](https://open.spotify.com/album/5yX9hssUUeRlHmaQ8EGvaN) | 3:53 |
 | 10 | [Lojy](https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 2:30 |
 | 11 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
 | 12 | [VINI](https://open.spotify.com/track/6NBc4HFBDAz9ghMfXuz3M0) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 3:04 |
-| 13 | [El Ters](https://open.spotify.com/track/2u7ORPqITjz66HLu7cMH3v) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Ters](https://open.spotify.com/album/0aIsZHl5cV4NO9MkpdECxh) | 2:29 |
-| 14 | [Ayamy Betfoot](https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ayamy Betfoot](https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3) | 3:02 |
-| 15 | [MAGHOOL](https://open.spotify.com/track/1gFRKxEsz8WalxCfNJkPic) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [MAGHOOL](https://open.spotify.com/album/5yX9hssUUeRlHmaQ8EGvaN) | 3:53 |
+| 13 | [Please](https://open.spotify.com/track/0YHNbqd916UBseBu2qv0xX) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Please](https://open.spotify.com/album/48GGUy02bmdLkROqggBbXi) | 2:19 |
+| 14 | [El Ters](https://open.spotify.com/track/2u7ORPqITjz66HLu7cMH3v) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Ters](https://open.spotify.com/album/0aIsZHl5cV4NO9MkpdECxh) | 2:29 |
+| 15 | [Ayamy Betfoot](https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ayamy Betfoot](https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3) | 3:02 |
 | 16 | [Lang](https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Lang](https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm) | 2:26 |
 | 17 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 |
 | 18 | [Hakeem](https://open.spotify.com/track/04BkxAeJge8nrb0VC3McuK) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Hakeem](https://open.spotify.com/album/2lEL8PvHsF1uPGX4TNOAQP) | 2:26 |
-| 19 | [MOZZA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Stage 1: Denial](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 2:28 |
+| 19 | [MOZZA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 2:28 |
 | 20 | [El Waat El Daye3](https://open.spotify.com/track/0KlV4dMk7ciYT4GfMMQhJv) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Waat El Daye3](https://open.spotify.com/album/79aadAOfRpMoyehE1qFrLh) | 2:54 |
 | 21 | [Mashy 3almaya](https://open.spotify.com/track/3pvFAPBiDUQPX5vxjZu4f9) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah), [El Sadaat](https://open.spotify.com/artist/2w5WXQsG6LL3W5VV3Cdb5T) | [Mashy 3almaya](https://open.spotify.com/album/5RCZizYMvmyhcY75A8c32C) | 3:25 |
 | 22 | [3ereft Eimtek](https://open.spotify.com/track/6dXIXxMazGdBaCEFcvgCA1) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [3ereft Eimtek](https://open.spotify.com/album/6JT4VHNlL5aZQgOvRcePif) | 2:15 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [K.O](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 |
 | 40 | [Abo Galum](https://open.spotify.com/track/1JgbWmgC9uDYHmedb91Tzd) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:13 |
 
-Snapshot ID: `ZrSOVgAAAACZNj1hpX/aQaZho02fgRRV`
+Snapshot ID: `ZrgjNQAAAAAxj7KQ68mF/KR+at+0HUP5`

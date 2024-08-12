@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 966 songs - 2 day 11 hr 22 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 971 songs - 2 day 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -974,5 +974,10 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 964 | [vulgar display of power](https://open.spotify.com/track/1Z0FllHuwKceEa9wRJKTku) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:52 |
 | 965 | [SIN MIEDO](https://open.spotify.com/track/6zSLy6mrBrMlzaIn9UDw6o) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:46 |
 | 966 | [either on or off the drugs](https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:20 |
+| 967 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
+| 968 | [What The World Needs Now Is Love](https://open.spotify.com/track/0RGL4xoWE5bakfcJuhi5cp) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [I Who Have Nothing](https://open.spotify.com/album/2Um9ftNNHVdWbnOgZOcyOn) | 2:36 |
+| 969 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 |
+| 970 | [Shadow](https://open.spotify.com/track/4urzTwD9Ewbi0qIqKWDne1) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Nocturne](https://open.spotify.com/album/7A2iT7NcC9lcvhGu1pP0UA) | 4:18 |
+| 971 | [The Dreamers](https://open.spotify.com/track/4reynFf5XLDuBHw4pFemEw) | [Gold Celeste](https://open.spotify.com/artist/0k7JGk03ntbFvfURT2hWmu) | [The Glow](https://open.spotify.com/album/45ghFsmrFTp9V6Q49grJlx) | 4:46 |
 
-Snapshot ID: `AAAIkQfz4FRxpk+jjDGLoILmIrZbEy8A`
+Snapshot ID: `AAAIli0bV06jxe2REpxR6KbBeaku1xix`

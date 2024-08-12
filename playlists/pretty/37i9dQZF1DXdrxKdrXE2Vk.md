@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:5A0SFJQSdSjFHGcndiGT1s">Planetshakers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,608 likes - 75 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,697 likes - 75 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

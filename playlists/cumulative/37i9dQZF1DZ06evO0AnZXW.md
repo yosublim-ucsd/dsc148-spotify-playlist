@@ -2,7 +2,7 @@
 
 ### [This Is XXXTENTACION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AnZXW)
 
-> This is XXXTENTACION\. The essential tracks, all in one playlist.
+> This is XXXTENTACION\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
 
 69 songs - 2 hr 44 min
 

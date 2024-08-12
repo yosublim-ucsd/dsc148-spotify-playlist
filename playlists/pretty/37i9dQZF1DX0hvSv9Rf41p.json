@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with ISOKNOCK",
-  "num_followers": 976824,
+  "num_followers": 976854,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
     },
     {
-      "added_at": "2024-07-05 04:16:33",
-      "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Nan Slapper",
@@ -1119,6 +1103,22 @@
       "duration_ms": 263314,
       "name": "Nan Slapper",
       "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
+    },
+    {
+      "added_at": "2024-07-05 04:16:33",
+      "album": {
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
       "added_at": "2024-07-05 04:16:33",
@@ -1173,6 +1173,30 @@
       "url": "https://open.spotify.com/track/6sKog4OAuRZfYmQRrLYExz"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Liquor & Cigarettes (feat. ArrDee)",
+        "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 189257,
+      "name": "Liquor & Cigarettes (feat. ArrDee)",
+      "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
+    },
+    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "On Repeat",
@@ -1199,30 +1223,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Liquor & Cigarettes (feat. ArrDee)",
-        "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 189257,
-      "name": "Liquor & Cigarettes (feat. ArrDee)",
-      "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "GASOLINA & COCAINA",
         "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
@@ -1235,6 +1235,42 @@
       "duration_ms": 192390,
       "name": "GASOLINA & COCAINA",
       "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Swerve it",
+        "url": "https://open.spotify.com/album/5o9bTDEWsJpTReXH4LuoME"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "Swerve It",
+      "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1285,40 +1321,20 @@
       "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Swerve it",
-        "url": "https://open.spotify.com/album/5o9bTDEWsJpTReXH4LuoME"
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
       },
       "artists": [
         {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         }
       ],
-      "duration_ms": 167314,
-      "name": "Swerve It",
-      "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
+      "duration_ms": 241714,
+      "name": "how2fly",
+      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "added_at": "2024-07-05 04:16:33",
@@ -1343,22 +1359,6 @@
       "duration_ms": 194685,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "how2fly",
-      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1419,30 +1419,6 @@
       "duration_ms": 144134,
       "name": "Brain Tickler",
       "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
-    },
-    {
-      "added_at": "2024-04-05 04:00:45",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "DeathbyRomy",
-          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
-        }
-      ],
-      "duration_ms": 294857,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
     },
     {
       "added_at": "2024-02-23 05:00:30",
@@ -1507,6 +1483,30 @@
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+    },
+    {
+      "added_at": "2024-04-05 04:00:45",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "duration_ms": 294857,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/1XSATvZKbYH1nmxZP6nCVY"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 176145,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/37soHIEtd2aminmS9w6CcF"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Pour Your Heart Out (feat. 070 Shake)",
@@ -1625,6 +1609,22 @@
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/1XSATvZKbYH1nmxZP6nCVY"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "duration_ms": 176145,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/37soHIEtd2aminmS9w6CcF"
+    },
+    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Big Bang (with Crankdat)",
@@ -1643,6 +1643,26 @@
       "duration_ms": 239350,
       "name": "Big Bang (with Crankdat)",
       "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "MARAVILLOSA",
+        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "MARAVILLOSA",
+      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1667,26 +1687,6 @@
       "duration_ms": 208846,
       "name": "All Night",
       "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "MARAVILLOSA",
-        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "MARAVILLOSA",
-      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1877,26 +1877,6 @@
       "url": "https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "CAN YOU SEE ME?",
-        "url": "https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Digital Ethos",
-          "url": "https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX"
-        }
-      ],
-      "duration_ms": 222219,
-      "name": "CUT ME OUT",
-      "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
-    },
-    {
       "added_at": "2024-02-12 18:48:17",
       "album": {
         "name": "Rainbow Funk",
@@ -1917,6 +1897,26 @@
       "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "CAN YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Digital Ethos",
+          "url": "https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX"
+        }
+      ],
+      "duration_ms": 222219,
+      "name": "CUT ME OUT",
+      "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
+    },
+    {
       "added_at": "2024-04-05 04:00:45",
       "album": {
         "name": "i hate edm",
@@ -1931,30 +1931,6 @@
       "duration_ms": 107586,
       "name": "i hate edm",
       "url": "https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Trippy Land",
-        "url": "https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI"
-      },
-      "artists": [
-        {
-          "name": "Mersiv",
-          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Trippy Land",
-      "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1981,6 +1957,30 @@
       "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Trippy Land",
+        "url": "https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Trippy Land",
+      "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
+    },
+    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Young Majestic",
@@ -1995,26 +1995,6 @@
       "duration_ms": 147555,
       "name": "Young Majestic",
       "url": "https://open.spotify.com/track/2cFHcozWQ8Kpm42bhdFqfI"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 210937,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2039,6 +2019,26 @@
       "duration_ms": 216000,
       "name": "Like That - Tape B Remix",
       "url": "https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 210937,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2097,24 +2097,28 @@
       "url": "https://open.spotify.com/track/5J4JSnjrqicsxHW9Epu7SW"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Chains",
-        "url": "https://open.spotify.com/album/2stkLdopWeNgAWr3cBV3Tn"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         },
         {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/3AZyW6Bz7paox5xChTqvHp"
+      "duration_ms": 252800,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
     }
   ],
   "unique_name": "Bass Arcade",

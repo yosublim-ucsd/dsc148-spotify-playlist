@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 432962,
+  "num_followers": 432997,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Encuentro",
         "url": "https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 236346,
       "name": "Margarita (feat. Vicente Garc\u00eda & Jose Qui\u00f1\u00f3nez)",
       "url": "https://open.spotify.com/track/6LEZkAAdNuEPE6PdEX7lrj"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Bolero Apocal\u00edptico",
         "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 232960,
       "name": "Vem Pra Mim",
       "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 246000,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Bajofondo Tango Club",
+        "url": "https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 276093,
+      "name": "Naranjo En Flor",
+      "url": "https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Cerca de ti (feat. Georgina)",
         "url": "https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 208013,
       "name": "Cerca de ti (feat. Georgina)",
       "url": "https://open.spotify.com/track/10oji60Sz18msn5AgTQI58"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Bajofondo Tango Club",
-        "url": "https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 276093,
-      "name": "Naranjo En Flor",
-      "url": "https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "La del bar",
-        "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
-      },
-      "artists": [
-        {
-          "name": "G\u00e8rard",
-          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
-        }
-      ],
-      "duration_ms": 154378,
-      "name": "La del bar",
-      "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Nobreza",
         "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 201364,
       "name": "Nobreza",
       "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "La del bar",
+        "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
+      },
+      "artists": [
+        {
+          "name": "G\u00e8rard",
+          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
+        }
+      ],
+      "duration_ms": 154378,
+      "name": "La del bar",
+      "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1639,22 +1639,6 @@
       "duration_ms": 223649,
       "name": "Together",
       "url": "https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Estrella Matutina",
-        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
-      },
-      "artists": [
-        {
-          "name": "Marina Tuset",
-          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
-        }
-      ],
-      "duration_ms": 200184,
-      "name": "Estrella Matutina",
-      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Refresco, Vol.1: Cheo Goes Latin",
-        "url": "https://open.spotify.com/album/4Siqpa4ZeRsU8lCuCkr1yf"
+        "name": "Estrella Matutina",
+        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
         }
       ],
-      "duration_ms": 224051,
-      "name": "Happy ending",
-      "url": "https://open.spotify.com/track/25zVytp42AZHoJ4PBiaXvo"
+      "duration_ms": 200184,
+      "name": "Estrella Matutina",
+      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1723,6 +1707,22 @@
       "duration_ms": 247320,
       "name": "Nain",
       "url": "https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Refresco, Vol.1: Cheo Goes Latin",
+        "url": "https://open.spotify.com/album/4Siqpa4ZeRsU8lCuCkr1yf"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 224051,
+      "name": "Happy ending",
+      "url": "https://open.spotify.com/track/25zVytp42AZHoJ4PBiaXvo"
     },
     {
       "added_at": "2024-07-26 04:00:00",

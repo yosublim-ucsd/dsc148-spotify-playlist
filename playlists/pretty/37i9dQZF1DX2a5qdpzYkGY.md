@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,308 likes - 75 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,310 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 13 | [Got Me](https://open.spotify.com/track/2Wag0xzd7wPBzPjyo4lpGL) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [The Sunset Violent](https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK) | 2:20 |
 | 14 | [Playgroup](https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Order](https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX) | 6:55 |
 | 15 | [Spoken](https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Archipelago](https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG) | 5:44 |
-| 16 | [Constant Fear](https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 6:27 |
-| 17 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
+| 16 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
+| 17 | [Constant Fear](https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 6:27 |
 | 18 | [five](https://open.spotify.com/track/0Xzw9kW28pJfzAwPZTqNPt) | [Black Decelerant](https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo), [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF), [Omari Jazz](https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT) | [three](https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO) | 3:30 |
 | 19 | [Breaking Up](https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Dream of Delphi](https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG) | 2:00 |
 | 20 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 28 | [Birds, Pt\. I](https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Big Sun](https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW) | 3:59 |
 | 29 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 |
 | 30 | [Flight](https://open.spotify.com/track/2rgf48jupb8QsIBLC50J4Z) | [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Fight / Flight](https://open.spotify.com/album/58d5bd7ZjFMidKY1PZnWNi) | 1:08 |
-| 31 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 |
-| 32 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 |
-| 33 | [Maximum Black](https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 7:38 |
+| 31 | [Maximum Black](https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 7:38 |
+| 32 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 |
+| 33 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 |
 | 34 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
 | 35 | [Materia](https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 3:08 |
 | 36 | [Highway Brain Planet \(Credits\)](https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR) | [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Second Spring OST](https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI) | 2:31 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 62 | [Night looping \- Movement I](https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Le jour et la nuit du réel](https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3) | 2:11 |
 | 63 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 |
 | 64 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
-| 65 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 |
-| 66 | [Solitude \- Theme](https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Tony Takitani](https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2) | 4:05 |
+| 65 | [Solitude \- Theme](https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Tony Takitani](https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2) | 4:05 |
+| 66 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 |
 | 67 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 |
 | 68 | [Spiral Era](https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [Pyramid](https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B) | 8:08 |
 | 69 | [1981](https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [1981](https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin) | 4:14 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 72 | [Jinja Encounters](https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:54 |
 | 73 | [Bucolic Architecture \- Flug 8 Remix](https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi) | [Yoann Pisterman](https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A), [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Bucolic Architecture \(Flug 8 Remix\)](https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW) | 6:26 |
 | 74 | [Mira](https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS) | [Eternell](https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9) | [Mira](https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC) | 18:08 |
-| 75 | [If You Could See Your Life In Reverse Pt.3](https://open.spotify.com/track/4bPOoJowB7VM7TkdP2Y5p2) | [VLMV](https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl) | [Redivider](https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi) | 1:07 |
+| 75 | [Marilene \- Somewhere in Texas](https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Marilene \(Somewhere in Texas\)](https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7) | 7:55 |
 
 Snapshot ID: `ZqgXzwAAAACgGFHjuWjJMWLuxYCv2Z1Q`

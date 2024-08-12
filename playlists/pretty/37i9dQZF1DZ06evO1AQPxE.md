@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,471 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,484 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 39 | [KNACK FOR IT](https://open.spotify.com/track/7znMNt4SWNyheMtwgzvUzK) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 2:29 |
 | 40 | [SMELLS LIKE INCENSE](https://open.spotify.com/track/5xAR2kje4pVMHz0ipvp2VA) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:24 |
 | 41 | [GHOST](https://open.spotify.com/track/70whMGrt6rwbkPlXGNtTBw) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:20 |
-| 42 | [Tide Pen \(feat\. Jack Harlow\)](https://open.spotify.com/track/4Wh3znTCMTIKAZ2stlikRX) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Florida Jit](https://open.spotify.com/album/5z3ZfPgoJDN2y1QXbYg4zY) | 2:24 |
-| 43 | [White Lies](https://open.spotify.com/track/608NQtdZfObC1BGy067JG7) | [The Homies](https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Honest Living](https://open.spotify.com/album/1gNtAquFhKwk3qlsYLPpDT) | 2:31 |
+| 42 | [White Lies](https://open.spotify.com/track/608NQtdZfObC1BGy067JG7) | [The Homies](https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Honest Living](https://open.spotify.com/album/1gNtAquFhKwk3qlsYLPpDT) | 2:31 |
+| 43 | [Tide Pen \(feat\. Jack Harlow\)](https://open.spotify.com/track/4Wh3znTCMTIKAZ2stlikRX) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Florida Jit](https://open.spotify.com/album/5z3ZfPgoJDN2y1QXbYg4zY) | 2:24 |
 | 44 | [HEY BIG HEAD](https://open.spotify.com/track/3FWIAl04a9ySFhk4HH15ov) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:01 |
 | 45 | [HEAVY HITTER](https://open.spotify.com/track/7zJld1LpGmLsPt8IGOc0KL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:27 |
 | 46 | [CODY BANKS](https://open.spotify.com/track/0XcmRDeHawnaIYRIKW1vMo) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [Leaf Wraps](https://open.spotify.com/track/4f0IS8GKd6RHx0UlvSyJLK) | [The Homies](https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Leaf Wraps](https://open.spotify.com/album/5VfR15U7wjAA20ChsFd3Rg) | 3:33 |
 | 50 | [Comic Sans \(feat\. Jack Harlow\)](https://open.spotify.com/track/2dQn5I17lUiQ8ZpjqMh3TU) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 2:32 |
 
-Snapshot ID: `ZrVcAAAAAACqHYh/dLnk2peL4BWa1zaJ`
+Snapshot ID: `ZratgAAAAADf7jX3QB5HW443xHhsRmbE`

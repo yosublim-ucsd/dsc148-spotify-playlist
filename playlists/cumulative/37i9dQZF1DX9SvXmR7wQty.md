@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Avec pas d'casque
 
-2,719 songs - 6 day 0 hr 31 min
+2,720 songs - 6 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [Danser avec toi](https://open.spotify.com/track/2xKh3u2hY4vb4tZTp8mTDu) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/433KYyQhv0BPTEjsZIKQTO) | 3:46 | 2022-09-09 | 2022-09-24 |
 | [Danser la nuit](https://open.spotify.com/track/1VID3HWSIYV3y5v87ESX1K) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Danser la nuit](https://open.spotify.com/album/2Isdr3D3UD0Bj97Z6QcLHB) | 2:12 | 2024-05-24 | 2024-06-08 |
 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-05 | 2024-05-25 |
+| [Darement](https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mandat de Dépôt](https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L) | 3:12 | 2024-08-09 |  |
 | [DBD](https://open.spotify.com/track/56w3BkZjlr0KXzCqJiQkfm) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [DBD](https://open.spotify.com/album/2hbQVixIQE1V4kashw9Q2P) | 2:05 | 2024-02-02 | 2024-02-10 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-02-04 | 2022-02-19 |
 | [De l'autre côté](https://open.spotify.com/track/2Z0ObzjhgPxZ3UwNgCCCxb) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [De l'autre côté](https://open.spotify.com/album/1Vlp18zkHHRi1q85BBAnKb) | 2:49 | 2022-03-25 | 2022-04-09 |
@@ -1504,7 +1505,7 @@
 | [London Fever](https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [London Fever](https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V) | 3:22 | 2023-06-02 | 2023-08-19 |
 | [Long feu](https://open.spotify.com/track/49bEamx2i86poxwPWGEEvX) | [Ariel](https://open.spotify.com/artist/6E8If98t7xy5cJYy4eUntD), [Poulin](https://open.spotify.com/artist/5LvMLkptn5AokNYLnahOIE) | [Chroniques souterraines](https://open.spotify.com/album/6n4envaUhjRaUQ1OhKNMpq) | 3:30 | 2022-02-11 | 2022-02-26 |
 | [Longue Vie](https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Longue Vie](https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW) | 2:01 | 2024-05-03 | 2024-06-11 |
-| [LORO PIANA](https://open.spotify.com/track/5CJmBOAgae1IAiWiyvtezR) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:00 | 2024-08-09 |  |
+| [LORO PIANA](https://open.spotify.com/track/5CJmBOAgae1IAiWiyvtezR) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:00 | 2024-08-09 | 2024-08-12 |
 | [Lose It All](https://open.spotify.com/track/7g0Fo1jbQfEEFIUXAYnbrm) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Lose It All](https://open.spotify.com/album/7My868BCSFXFo0JpoyJ6MM) | 2:54 | 2023-04-07 | 2023-04-29 |
 | [Loup blanc](https://open.spotify.com/track/7anzgkHjN83MXJrbeUyWnm) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Loup blanc](https://open.spotify.com/album/3t3T3b5V9jR6Ofbd9eVB0r) | 2:40 | 2023-03-17 | 2023-04-15 |
 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 | 2023-10-20 | 2024-01-27 |

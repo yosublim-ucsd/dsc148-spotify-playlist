@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/1syQ3F5kKN1JdqF6fbDMDc"
       },
@@ -6990,7 +7008,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 177826,
       "name": "You're Gonna Go Far, Kid",
       "url": "https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea"

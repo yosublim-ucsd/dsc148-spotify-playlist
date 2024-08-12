@@ -5043,6 +5043,24 @@
     },
     {
       "album": {
+        "name": "LGLG",
+        "url": "https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "LGLG",
+      "url": "https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -7800,7 +7818,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 192000,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"

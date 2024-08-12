@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121782,
+  "num_followers": 121781,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Stained Teeth",
+        "url": "https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 165610,
+      "name": "Stained Teeth",
+      "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "When the Sun Goes Down",
         "url": "https://open.spotify.com/album/2cWBcF4eIjTTJGBaAb7xXr"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 124113,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/1OEbaiPMlMDCPMM4ReCIIH"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Stained Teeth",
-        "url": "https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 165610,
-      "name": "Stained Teeth",
-      "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -195,38 +195,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Tales Of Never EP",
-        "url": "https://open.spotify.com/album/51KTf7v6QLMOV08JenVeru"
-      },
-      "artists": [
-        {
-          "name": "ColorJaxx",
-          "url": "https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm"
-        }
-      ],
-      "duration_ms": 313515,
-      "name": "Tales Of Never - Original Mix",
-      "url": "https://open.spotify.com/track/35DTdTJZiPQKOGn5JvQGDw"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 193377,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Loud Enough (Didier Armeni Remix)",
         "url": "https://open.spotify.com/album/4Fh2mDMVslKby7dt0oO0sd"
       },
@@ -247,22 +215,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Another Place",
-        "url": "https://open.spotify.com/album/6YvKLZvsYRrByFzav0tlii"
+        "name": "Tales Of Never EP",
+        "url": "https://open.spotify.com/album/51KTf7v6QLMOV08JenVeru"
       },
       "artists": [
         {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+          "name": "ColorJaxx",
+          "url": "https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm"
         }
       ],
-      "duration_ms": 147879,
-      "name": "Another Place",
-      "url": "https://open.spotify.com/track/1eLHMmz57mVUI3ntLjO0yW"
+      "duration_ms": 313515,
+      "name": "Tales Of Never - Original Mix",
+      "url": "https://open.spotify.com/track/35DTdTJZiPQKOGn5JvQGDw"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -287,6 +251,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 193377,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Let Love Find Itself / You Blow My Mind",
         "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 542983,
       "name": "Let Love Find Itself",
       "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Another Place",
+        "url": "https://open.spotify.com/album/6YvKLZvsYRrByFzav0tlii"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+        }
+      ],
+      "duration_ms": 147879,
+      "name": "Another Place",
+      "url": "https://open.spotify.com/track/1eLHMmz57mVUI3ntLjO0yW"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -407,42 +407,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "NaturHaus",
-        "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        },
-        {
-          "name": "Soft Palace",
-          "url": "https://open.spotify.com/artist/1KiYF9PWPsFiCBes5YbUJy"
-        }
-      ],
-      "duration_ms": 239548,
-      "name": "NaturHaus",
-      "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Little Airplanes",
-        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 330614,
-      "name": "Little Airplanes",
-      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Especiale(Fresh & Low Productions present Fresh Juice II)",
         "url": "https://open.spotify.com/album/6cTmxKG2mtM54GGlx6dfvE"
       },
@@ -463,6 +427,26 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "NaturHaus",
+        "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        },
+        {
+          "name": "Soft Palace",
+          "url": "https://open.spotify.com/artist/1KiYF9PWPsFiCBes5YbUJy"
+        }
+      ],
+      "duration_ms": 239548,
+      "name": "NaturHaus",
+      "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Too Hot, Too Cold",
         "url": "https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt"
       },
@@ -479,26 +463,6 @@
       "duration_ms": 246407,
       "name": "Too Hot, Too Cold",
       "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Shallow Breathing",
-        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Shallow Breathing",
-      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -535,6 +499,42 @@
       "duration_ms": 220800,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Little Airplanes",
+        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 330614,
+      "name": "Little Airplanes",
+      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Shallow Breathing",
+        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Shallow Breathing",
+      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Forms / Objects",
-        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
-      },
-      "artists": [
-        {
-          "name": "End of Time",
-          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
-        },
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 386508,
-      "name": "Objects",
-      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Cherry Skies",
         "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Forms / Objects",
+        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
+      },
+      "artists": [
+        {
+          "name": "End of Time",
+          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
+        },
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 386508,
+      "name": "Objects",
+      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Killer Machine",
+        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
+      },
+      "artists": [
+        {
+          "name": "Adani & Wolf",
+          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
+        }
+      ],
+      "duration_ms": 233316,
+      "name": "Killer Machine",
+      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Killer Machine",
-        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
       },
       "artists": [
         {
-          "name": "Adani & Wolf",
-          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
         }
       ],
-      "duration_ms": 233316,
-      "name": "Killer Machine",
-      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -887,22 +903,6 @@
       "duration_ms": 176356,
       "name": "Infinity (SLCT Remix) - Instrumental Version",
       "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
-      },
-      "artists": [
-        {
-          "name": "Baka G",
-          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
-        }
-      ],
-      "duration_ms": 345534,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Anima",
-        "url": "https://open.spotify.com/album/0XJNZA4EavYZ26GZl69o66"
-      },
-      "artists": [
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 390485,
-      "name": "Anima",
-      "url": "https://open.spotify.com/track/5unR3ptVUULyGcG9LKC9Lg"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "The Universe Is Magic",
         "url": "https://open.spotify.com/album/4wP6VlBoVqWkb6ZIM5Xv6K"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 330379,
       "name": "Love Is The Key",
       "url": "https://open.spotify.com/track/0I5PC3HmM8CP0LmnPyF94B"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/0XJNZA4EavYZ26GZl69o66"
+      },
+      "artists": [
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 390485,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/5unR3ptVUULyGcG9LKC9Lg"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8lling",
-          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Nothing Happened",
-      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Late Night Obsession",
         "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 166798,
       "name": "Slow Goods",
       "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8lling",
+          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Nothing Happened",
+      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Rolling With My Homies",
         "url": "https://open.spotify.com/album/3WCbihoJQhUOaTGVPfcrCR"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 357600,
       "name": "Hello Honey - Original Mix",
       "url": "https://open.spotify.com/track/0AXTZwJlHujzDEJPGcY4xA"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "I Lost My Way",
+        "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
+      },
+      "artists": [
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "I Lost My Way",
+      "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/0xA3Pyif2qZdMymcAMUXAI"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 175711,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "I Lost My Way",
-        "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
-      },
-      "artists": [
-        {
-          "name": "ALIGN",
-          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "I Lost My Way",
-      "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
     },
     {
       "added_at": "2024-06-03 13:14:44",

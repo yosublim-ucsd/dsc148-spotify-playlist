@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,432 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,433 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 24 | [Down on the Corner \- Remastered](https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:33 |
 | 25 | [Suliram](https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 2:44 |
 | 26 | [Maria Fulo \- Mono Version](https://open.spotify.com/track/1to6aqYV55jNN85KDELPkz) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:36 |
-| 27 | [Kwazulu \(In the Land of the Zulus\)](https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 2:32 |
+| 27 | [A Luta Continua](https://open.spotify.com/track/3mH0Lmh3xjk16INiPISHq7) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:49 |
 | 28 | [Thank You Mama](https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Leleti Khumalo](https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT) | [Sarafina! The Sound Of Freedom](https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp) | 4:24 |
-| 29 | [A Luta Continua](https://open.spotify.com/track/3mH0Lmh3xjk16INiPISHq7) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:49 |
+| 29 | [Kwazulu \(In the Land of the Zulus\)](https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 2:32 |
 | 30 | [A Piece of Ground \- Stereo Version](https://open.spotify.com/track/0UO6j3Nyor7zuJdB3ldNxQ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:39 |
 | 31 | [Inkomo Zodwa](https://open.spotify.com/track/5MzPPSDVXUqZQh2LbIi53E) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Love Tastes Like Strawberries](https://open.spotify.com/album/7eTqtgal5V0HwxS2J87Vmc) | 2:24 |
-| 32 | [Hurry, Mama, Hurry! \(Khawuleza\)](https://open.spotify.com/track/6msNNwM4xPiC71ow3emYsU) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:26 |
-| 33 | [Kulala \- Remastered](https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:38 |
+| 32 | [Kulala \- Remastered](https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:38 |
+| 33 | [Hurry, Mama, Hurry! \(Khawuleza\)](https://open.spotify.com/track/6msNNwM4xPiC71ow3emYsU) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:26 |
 | 34 | [Jikele Maweni / The Retreat Song \- Remastered 2024](https://open.spotify.com/track/0mJrof5rpE6nAThlTD0dyp) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 2:35 |
 | 35 | [Soweto Blues](https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:16 |
-| 36 | [Beware, Verwoerd! \(Ndodemnyama\)](https://open.spotify.com/track/74iAZSzuJ6tfvhf79ig0SK) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 2:04 |
-| 37 | [Sing Me a Song](https://open.spotify.com/track/3WtwaHV7KrGWgPL3jQY7tZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sing Me a Song](https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B) | 3:54 |
+| 36 | [Sing Me a Song](https://open.spotify.com/track/3WtwaHV7KrGWgPL3jQY7tZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sing Me a Song](https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B) | 3:54 |
+| 37 | [Beware, Verwoerd! \(Ndodemnyama\)](https://open.spotify.com/track/74iAZSzuJ6tfvhf79ig0SK) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 2:04 |
 | 38 | [Can't Cross Over \- Remastered 2024](https://open.spotify.com/track/1bZR5BHm6pGEcpd3gjPLuA) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 3:20 |
 | 39 | [Chicken \- Kikirikiki](https://open.spotify.com/track/1sxsg67QN7K9rusWjGHxfx) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Comme une symphonie d'amour](https://open.spotify.com/album/07SqXGVzjMKrUHHwLqZDGb) | 4:27 |
 | 40 | [Aluta Continua](https://open.spotify.com/track/2iRyWE1WNGPC4tGybziX7b) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX) | 4:49 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 47 | [Mama Ndiyalila](https://open.spotify.com/track/1b8NKhwpWMmUOybnSmkDVq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 3:26 |
 | 48 | [Pata\-Pata \(feat\. Miriam Makeba\)](https://open.spotify.com/track/3BcQp5aLCDx1XdHmB6pyjE) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:15 |
 | 49 | [Djiu de Galinha](https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:08 |
-| 50 | [Holilili \- Remastered 2024](https://open.spotify.com/track/2JPc66jkgYF11UYvHj3eUV) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 2:34 |
+| 50 | [Zenizenabo \- Remastered 2024](https://open.spotify.com/track/3DHjBTlygFzg6nyxqueFK8) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 1:21 |
 
-Snapshot ID: `ZrVcAAAAAACTVg72QcQeteFoqd2UxFlO`
+Snapshot ID: `ZratgAAAAABnnhOmcA3r6E/BsbBfduMx`

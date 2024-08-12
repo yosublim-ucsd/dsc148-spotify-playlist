@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,097 likes - 54 songs - 2 hr 47 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,104 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 53 | [Time](https://open.spotify.com/track/4ijQ2jgdFKCVlqgPTDCmea) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Time](https://open.spotify.com/album/356QbLLLBhlgRb0GEOS2cV) | 2:24 |
 | 54 | [The Way You Act](https://open.spotify.com/track/28Dj2arHz2IM8PMSI5NCjz) | [Labeeb](https://open.spotify.com/artist/5Wm9RIPoJKWlJNEE9iZDe0) | [The Way You Act](https://open.spotify.com/album/7aV6ojZOYkd9FGvSXayF8c) | 3:38 |
 
-Snapshot ID: `AAAjRy6wJwUlrR0tgBt3Afb7AEJqPs7A`
+Snapshot ID: `AAAjSPSpEC4iPqo7M2l6alYRN3qgoFIF`

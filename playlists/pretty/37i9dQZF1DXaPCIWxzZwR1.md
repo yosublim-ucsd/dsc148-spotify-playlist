@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Keshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,089 likes - 97 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,304,003 likes - 97 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

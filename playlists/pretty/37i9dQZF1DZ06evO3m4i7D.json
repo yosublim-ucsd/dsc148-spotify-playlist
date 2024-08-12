@@ -1,12 +1,12 @@
 {
-  "description": "This is Eugenio Esquivel. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 1677,
+  "description": "This is Eugenio Esquivel. \u03a4\u03b1 \u03c0\u03b9\u03bf \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b1 \u03ba\u03bf\u03bc\u03bc\u03ac\u03c4\u03b9\u03b1, \u03c3\u03b5 \u03bc\u03af\u03b1 playlist.",
+  "num_followers": 1681,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABijlpaQIy2YOO2T7NmYmRa",
+  "snapshot_id": "ZratgAAAAABG98F8/vcjjjSkkhNiqyih",
   "tracks": [
     {
       "added_at": null,
@@ -363,30 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dicen Que Soy Belic\u00f3n",
-        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 197294,
-      "name": "Dicen Que Soy Belic\u00f3n",
-      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A 150",
         "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
       },
@@ -411,6 +387,30 @@
       "duration_ms": 148317,
       "name": "A 150",
       "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dicen Que Soy Belic\u00f3n",
+        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 197294,
+      "name": "Dicen Que Soy Belic\u00f3n",
+      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
     },
     {
       "added_at": null,

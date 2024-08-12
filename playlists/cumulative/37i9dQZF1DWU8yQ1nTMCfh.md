@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Los Outsaiders
 
-302 songs - 16 hr 46 min
+303 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Domingo](https://open.spotify.com/track/6jW1BghId3ws6BFC2Sk8dk) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0) | 3:32 | 2022-07-19 | 2022-12-12 |
 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:54 | 2023-01-13 | 2024-05-11 |
 | [Día Uno](https://open.spotify.com/track/5r0DmaRCDDBlUHB3ekQOH6) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [Día Uno](https://open.spotify.com/album/6ryEHlaniUoPaUl8JgTYNt) | 2:49 | 2024-06-21 |  |
-| [Echao’ a perder](https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Echao’ a perder](https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx) | 2:48 | 2023-11-17 |  |
+| [Echao’ a perder](https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Echao’ a perder](https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx) | 2:48 | 2023-11-17 | 2024-08-12 |
 | [ECLIPSE](https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [ECLIPSE](https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu) | 2:33 | 2023-03-24 |  |
 | [Egoland](https://open.spotify.com/track/6B5XhWsn4nk3GcagTiGCUA) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Egoland](https://open.spotify.com/album/4ShJhqWBge3XEWV86N69Fx) | 3:36 | 2023-04-14 | 2023-04-18 |
 | [El ataque de las chicas cocodrilo](https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [El ataque de las chicas cocodrilo](https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak) | 2:37 | 2023-08-04 |  |
@@ -295,6 +295,7 @@
 | [Una sensación](https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Una sensación](https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR) | 3:17 | 2024-01-05 | 2024-05-20 |
 | [Veneno](https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Veneno](https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC) | 3:10 | 2023-05-05 | 2023-08-01 |
 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 | 2022-04-15 | 2023-09-09 |
+| [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 | 2024-08-09 |  |
 | [Vigilantes del Espejo](https://open.spotify.com/track/6NGziF7yJMzHdf0RTkOkzK) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Detrás del Espejo: Variaciones y Ecos](https://open.spotify.com/album/3fnqOpqZRoC8rol5S1pgRh) | 3:23 | 2022-04-15 | 2022-12-13 |
 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 | 2022-07-19 | 2024-04-13 |
 | [Walk On Everything](https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Walk On Everything](https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK) | 2:57 | 2023-12-01 | 2023-12-04 |

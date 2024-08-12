@@ -4,7 +4,7 @@
 
 > This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
-115 songs - 9 hr 32 min
+116 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Hotel Luna](https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:54 | 2022-05-29 |  |
 | [I Believe in Love](https://open.spotify.com/track/6DJr81XitsgZRIs7lrufav) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:52 | 2024-01-08 | 2024-01-21 |
 | [I Believe In Love](https://open.spotify.com/track/2a7jVjRzqSSWG3HbylzHrY) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 4:03 | 2022-06-01 | 2023-09-16 |
-| [If I Could](https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:14 | 2022-05-31 |  |
+| [If I Could](https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:14 | 2022-05-31 | 2024-08-12 |
 | [Improvisation On Four Sequences Pt.1](https://open.spotify.com/track/3gE5fhbWGw66EdEz8OJSOW) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Improvisation On Four Sequences](https://open.spotify.com/album/4lRCOMQrNZJFQPhkIgs6bT) | 19:00 | 2023-09-25 | 2023-10-11 |
 | [Inverness](https://open.spotify.com/track/1xeHo019QG0x1zh3Hob3tX) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 4:08 | 2022-06-09 | 2023-04-12 |
 | [Inverness](https://open.spotify.com/track/48JhTqs0UOTzEJqoO9sBPd) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:36 | 2024-06-06 | 2024-07-27 |
@@ -84,6 +84,7 @@
 | [Part Two](https://open.spotify.com/track/3ipLNSWCkDMjiRyplhkps8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [LIVE Quadraphonic](https://open.spotify.com/album/1WWOmrEQHpvibV3bQBvcIN) | 5:13 | 2022-06-27 | 2022-10-02 |
 | [Pinwheel](https://open.spotify.com/track/7mfgr8aIEJ4Rc0ztwdNoZ3) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 3:56 | 2023-10-10 |  |
 | [Pretend](https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:45 | 2022-06-03 |  |
+| [Prince Tennis](https://open.spotify.com/track/5ddN8t0h32QwyMiY6ONBeW) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Logo Presentation Reel 1985 \(Instrumentals\) / Octabred](https://open.spotify.com/album/5tG2QG8YnlmAAklhkGiBR0) | 0:32 | 2024-08-12 |  |
 | [Princess](https://open.spotify.com/track/70vOVnKnIbS5Z1weX918jL) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:24 | 2022-05-29 | 2024-07-24 |
 | [Rain](https://open.spotify.com/track/4mfLfODYehwVfHnXMlIArx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 2:34 | 2022-06-02 |  |
 | [Rainbow Sequence](https://open.spotify.com/track/3Z9RUz3yc7VhAW3OX6l16g) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 4:12 | 2023-10-10 |  |

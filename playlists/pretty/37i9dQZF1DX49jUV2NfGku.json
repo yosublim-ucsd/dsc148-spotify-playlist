@@ -1,12 +1,12 @@
 {
   "description": "Rock & alternative classics and essential new cuts ft. Green Day",
-  "num_followers": 1637362,
+  "num_followers": 1637932,
   "original_name": "Rock Solid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrZO/AAAAAD3ryQl0kv6LpOLnLjNtM6t",
+  "snapshot_id": "ZrkxlQAAAAC69wJoR4cVmMsFw+U/wqbI",
   "tracks": [
     {
       "added_at": "2024-08-09 17:16:44",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
+      "added_at": "2024-08-11 21:48:05",
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
       "added_at": "2024-08-09 17:16:44",
       "album": {
         "name": "Blur: The Best Of",
@@ -39,22 +55,6 @@
       "duration_ms": 121880,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
-    },
-    {
-      "added_at": "2024-08-09 17:16:44",
-      "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2024-08-09 17:16:44",

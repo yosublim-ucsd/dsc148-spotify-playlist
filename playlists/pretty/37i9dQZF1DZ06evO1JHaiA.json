@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 2819,
+  "num_followers": 2818,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAAvyowUfKZJ1XS0YPIb7ycc",
+  "snapshot_id": "ZratgAAAAAAemVUz9OImGtGfwNU0e7/U",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 197026,
-      "name": "What's Easy for Two Is so Hard for One",
-      "url": "https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC"
+      "duration_ms": 395093,
+      "name": "Rainy Days and Mondays",
+      "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 395093,
-      "name": "Rainy Days and Mondays",
-      "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"
+      "duration_ms": 197026,
+      "name": "What's Easy for Two Is so Hard for One",
+      "url": "https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 206880,
-      "name": "Traveling Home",
-      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
+      "duration_ms": 157066,
+      "name": "Guess Who Loves Me",
+      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+        "name": "Save the Children (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 157066,
-      "name": "Guess Who Loves Me",
-      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
+      "duration_ms": 206880,
+      "name": "Traveling Home",
+      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
     },
     {
       "added_at": null,

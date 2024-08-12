@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21613,
+  "num_followers": 21614,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAADl4qcEE5jedJTTkUiw7O3b",
+  "snapshot_id": "ZratgAAAAADLBwhVuXFLg51ZalhwlavX",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poesia Ac\u00fastica 16",
+        "url": "https://open.spotify.com/album/4KmL1W9yrbIlpKOO3L976y"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 757611,
+      "name": "Poesia Ac\u00fastica 16",
+      "url": "https://open.spotify.com/track/20oDX6ZLQmWIipsWKdADyw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica #11 Nada Mudou",
         "url": "https://open.spotify.com/album/2xP4HjivY698dFEusxHuz7"
       },
@@ -251,62 +307,6 @@
       "duration_ms": 232514,
       "name": "Outro Dia",
       "url": "https://open.spotify.com/track/10cGYECUNpFbVCZUMLGP5r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poesia Ac\u00fastica 16",
-        "url": "https://open.spotify.com/album/4KmL1W9yrbIlpKOO3L976y"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 757611,
-      "name": "Poesia Ac\u00fastica 16",
-      "url": "https://open.spotify.com/track/20oDX6ZLQmWIipsWKdADyw"
     },
     {
       "added_at": null,
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tava Tudo Tranquilin",
+        "url": "https://open.spotify.com/album/3ZedGOE0bZPeLL2CENOSHn"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Tava Tudo Tranquilin",
+      "url": "https://open.spotify.com/track/5Uaxvx1iQUPSpZqz6NRzdf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posturadin",
         "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 226521,
       "name": "Posturadin",
       "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tava Tudo Tranquilin",
-        "url": "https://open.spotify.com/album/3ZedGOE0bZPeLL2CENOSHn"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Tava Tudo Tranquilin",
-      "url": "https://open.spotify.com/track/5Uaxvx1iQUPSpZqz6NRzdf"
     },
     {
       "added_at": null,
@@ -1055,6 +1055,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00f3 Mais Uma Vez",
+        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 187564,
+      "name": "S\u00f3 Mais Uma Vez",
+      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 216344,
       "name": "Cabe\u00e7a erguida",
       "url": "https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3 Mais Uma Vez",
-        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 187564,
-      "name": "S\u00f3 Mais Uma Vez",
-      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
     },
     {
       "added_at": null,
@@ -1167,8 +1167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Mundo Parou",
-        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
+        "name": "Chore N\u00e3o",
+        "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
       },
       "artists": [
         {
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 223354,
-      "name": "O Mundo Parou",
-      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
+      "duration_ms": 176111,
+      "name": "Chore N\u00e3o",
+      "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
     },
     {
       "added_at": null,
@@ -1211,26 +1211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chore N\u00e3o",
-        "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "Chore N\u00e3o",
-      "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 o Mundo Acabar",
         "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 204520,
       "name": "At\u00e9 o Mundo Acabar",
       "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Mundo Parou",
+        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 223354,
+      "name": "O Mundo Parou",
+      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
     },
     {
       "added_at": null,

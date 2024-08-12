@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: Cina Soul, DJ Breezy, Okenneth , Sarkodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,038 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,051 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

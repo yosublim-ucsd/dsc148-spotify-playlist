@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 478323,
+  "num_followers": 478554,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -183,18 +183,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
       "artists": [
         {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
         }
       ],
-      "duration_ms": 235733,
-      "name": "Big Iron",
-      "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
+      "duration_ms": 196826,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -215,66 +215,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },
       "artists": [
         {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
         }
       ],
-      "duration_ms": 196826,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "Rhinestone Cowboy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Rhinestone Cowboy",
-      "url": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 283640,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Stand By Your Man",
-      "url": "https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8"
+      "duration_ms": 235733,
+      "name": "Big Iron",
+      "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -295,6 +247,54 @@
       "duration_ms": 163045,
       "name": "I Walk The Line - Single Version",
       "url": "https://open.spotify.com/track/6uya0AiJA1Avd4DY2XFlVm"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Rhinestone Cowboy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Rhinestone Cowboy",
+      "url": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "Louisiana Woman, Mississippi Man",
         "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 151731,
       "name": "Louisiana Woman, Mississippi Man",
       "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "The Oak Ridge Boys Have Arrived",
-        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
+      "duration_ms": 174640,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -511,6 +511,22 @@
       "duration_ms": 179491,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "The Oak Ridge Boys Have Arrived",
+        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -547,6 +563,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "Blue Kentucky Girl",
+      "url": "https://open.spotify.com/track/0BD9I8rnTQC43yNwEuaHSL"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
         "name": "One Piece At A Time",
         "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
       },
@@ -567,38 +599,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Blue Kentucky Girl",
-      "url": "https://open.spotify.com/track/0BD9I8rnTQC43yNwEuaHSL"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "Guitar Town",
         "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 155266,
       "name": "Guitar Town",
       "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "Coat Of Many Colors",
-        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Coat of Many Colors",
-      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -675,6 +659,22 @@
       "duration_ms": 239173,
       "name": "Maybe It Was Memphis",
       "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Coat Of Many Colors",
+        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Coat of Many Colors",
+      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Hey, Good Lookin'",
-      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "The Dance Album",
         "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 132026,
       "name": "It's Only Make Believe",
       "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Hey, Good Lookin'",
+      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Moanin' The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "I'm So Lonesome I Could Cry",
-      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "The Best Of Jimmy Dean",
         "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
+        "name": "Moanin' The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "I'm So Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 185239,
       "name": "Guitars, Cadillacs",
       "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "The Essential Charley Pride",
-        "url": "https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 123133,
-      "name": "Kiss an Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1015,6 +999,22 @@
       "duration_ms": 164106,
       "name": "Okie From Muskogee",
       "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "The Essential Charley Pride",
+        "url": "https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 123133,
+      "name": "Kiss an Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
+        "name": "The Essential Marty Robbins 1951-1982",
+        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 145640,
+      "name": "Singing the Blues",
+      "url": "https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 156160,
       "name": "The Last Thing On My Mind",
       "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "The Essential Marty Robbins 1951-1982",
-        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 145640,
-      "name": "Singing the Blues",
-      "url": "https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "HAG: The Hits Volume 2",
-        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 169346,
-      "name": "The Fightin' Side Of Me",
-      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 146733,
       "name": "It Must Be Love - Single Version",
       "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "HAG: The Hits Volume 2",
+        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 169346,
+      "name": "The Fightin' Side Of Me",
+      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Ultimate Collection: Barbara Mandrell",
-        "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mandrell",
-          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "(If Loving You Is Wrong) I Don't Want To Be Right",
-      "url": "https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 139733,
       "name": "Am I Losing You",
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Ultimate Collection: Barbara Mandrell",
+        "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "(If Loving You Is Wrong) I Don't Want To Be Right",
+      "url": "https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu"
     },
     {
       "added_at": "2024-07-05 20:27:10",

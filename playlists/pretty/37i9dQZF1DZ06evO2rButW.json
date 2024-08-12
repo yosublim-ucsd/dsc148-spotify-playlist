@@ -1,12 +1,12 @@
 {
   "description": "This Is Mon Laferte. Los temas esenciales, todos en una lista.",
-  "num_followers": 681193,
+  "num_followers": 681427,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABcDLgOAj4QlfjtnH4DZvKY",
+  "snapshot_id": "ZratgAAAAAD0/jJhP5uxXABH7OZzbss7",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Algo Es Mejor",
+        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Algo Es Mejor",
+      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pensamos",
         "url": "https://open.spotify.com/album/3mhYvnYd8l0MGQVJsrPEK1"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 173514,
       "name": "Pensamos",
       "url": "https://open.spotify.com/track/1Y5G2UvRplEzSs7ngBKUgb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Algo Es Mejor",
-        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Algo Es Mejor",
-      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
     },
     {
       "added_at": null,

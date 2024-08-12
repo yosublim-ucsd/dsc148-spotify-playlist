@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kisnue\(키스누\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-719 songs - 1 day 19 hr 29 min
+721 songs - 1 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 | 2022-08-18 | 2022-09-02 |
 | [Dreaming](https://open.spotify.com/track/43EV8ah3RzJV0jZgOyAnJ6) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Dreaming](https://open.spotify.com/album/4ZT56atEMwZ1bagTDTZjrY) | 3:45 | 2022-04-21 | 2022-07-15 |
 | [Dreaming](https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:05 | 2022-06-18 | 2022-06-21 |
+| [dried flower](https://open.spotify.com/track/00lg2EJeEw5SQbqtLWrGOz) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [dried flower](https://open.spotify.com/album/2I3cgfx30fAcg5OPyLRWmC) | 3:35 | 2024-08-10 |  |
 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 | 2024-05-09 |  |
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-08 | 2022-07-22 |
 | [DUNE](https://open.spotify.com/track/1ap1yvWJ6xvkHTBUpUi5wA) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [DUNE](https://open.spotify.com/album/2nCVtbXGN7bJleieRr0i49) | 4:15 | 2023-11-03 | 2023-11-24 |
@@ -540,6 +541,7 @@
 | [Slainte!](https://open.spotify.com/track/5OvS0h5GTsVkyovheeb6g8) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [PLAYLIST SEASON2 \(Original Soundtrack\)](https://open.spotify.com/album/1LCTXXqbcyoffo0HpBA7co) | 3:38 | 2022-12-22 | 2023-01-11 |
 | [sleep walking](https://open.spotify.com/track/03WwZjnTBrw9Vohm16So6Q) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [sleep walking](https://open.spotify.com/album/05YBRBySSq1YJfBhc1Lk4M) | 3:47 | 2023-01-16 | 2023-01-27 |
 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 | 2022-04-22 | 2022-07-24 |
+| [SLOW \(Feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/6sjceL2bHRC67mZB1p7h2n) | [Big Ocean](https://open.spotify.com/artist/0ly1nCJ50by9Vc0UxPHvwY), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [SLOW](https://open.spotify.com/album/4gWygxgd6ECSQvnFyu0sAX) | 3:00 | 2024-08-10 |  |
 | [Small Talk](https://open.spotify.com/track/4vWN7uDeFopJGuA7Bq6y0M) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [2023 S/S Collection](https://open.spotify.com/album/14rWn1Avz7BP7r0zScLz0n) | 3:59 | 2023-06-29 | 2023-07-08 |
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-14 |  |
 | [Smokenshot \(feat\. Jang il hyun\)](https://open.spotify.com/track/4M6bgUTUp2JxLdZMLtoTBr) | [SAMUK](https://open.spotify.com/artist/7oXwjmqKXdkQDs6HP2k77H), [Moonshot](https://open.spotify.com/artist/6RJHpycsLTaI6lAtDmVzQ6), [장일현](https://open.spotify.com/artist/256o8MkuNTMMFG2CwJ89Er) | [29:30](https://open.spotify.com/album/74ThytV3fLNHlu6byyAedJ) | 3:29 | 2023-02-14 | 2023-02-24 |
@@ -640,7 +642,7 @@
 | [Violet](https://open.spotify.com/track/3vwtmExA3wwbr4GI5KvLkC) | [Minhye J](https://open.spotify.com/artist/2E2b8xg4MmesEDv6QKZRiy) | [Violet](https://open.spotify.com/album/5sVqYLGmHA96l13kAUEVYv) | 4:20 | 2022-04-22 | 2022-06-08 |
 | [VOID](https://open.spotify.com/track/0keNzrJRUOBzewGHOrtSH7) | [RECORDBELL](https://open.spotify.com/artist/4PW6o9Gy6TZqrxpY6rHo8L) | [VOID](https://open.spotify.com/album/6ZIJNzoZIXjogl8iOinq3g) | 3:38 | 2022-04-22 | 2022-05-10 |
 | [Wait for you](https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM](https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z) | 3:51 | 2024-06-05 |  |
-| [WAITING](https://open.spotify.com/track/4TMVuENexY9u0083CqMphE) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ONLY LOVERS LEFT](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) | 3:07 | 2024-06-05 |  |
+| [WAITING](https://open.spotify.com/track/4TMVuENexY9u0083CqMphE) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ONLY LOVERS LEFT](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) | 3:07 | 2024-06-05 | 2024-08-12 |
 | [Waiting For Your Calling Back](https://open.spotify.com/track/6GpyKE5T9si1V5QJMR6ra7) | [Sultan of the Disco](https://open.spotify.com/artist/2OlCSUqTMqHguyNtdE0mdv) | [Waiting For Your Calling Back](https://open.spotify.com/album/61E8qZbwN805gq18noEjFZ) | 3:58 | 2022-07-08 | 2022-07-10 |
 | [walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/track/3jXJmRPGuCkkq3P6D9apMT) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB), [kim seungyoon](https://open.spotify.com/artist/4JLS2R4A5ob8Fra7UpUtBI) | [walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/album/1iLbD5VKkdQPEYBcygEokK) | 3:18 | 2023-02-23 | 2023-02-25 |
 | [War](https://open.spotify.com/track/5TV2bxWF3YZsjMQk2vaULt) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [War](https://open.spotify.com/album/02JAq1LeSVB6WMqgctzmWB) | 4:46 | 2022-04-12 | 2022-07-28 |

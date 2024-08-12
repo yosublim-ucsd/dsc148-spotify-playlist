@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 5 hr 40 min
+118 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Maria](https://open.spotify.com/track/5uQ0DBnHROJiU5WcUqjnj0) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [You Know I Know \(Expanded Edition\)](https://open.spotify.com/album/6Z6lqEBbZq9Rbf7aYRxAZP) | 3:18 | 2024-06-13 |  |
 | [Melody](https://open.spotify.com/track/6cTXUjWG4QUUSivqrthXRc) | [Basic Tape](https://open.spotify.com/artist/6EzGm3fYBR8QcdIZ0xvHsl) | [Melody](https://open.spotify.com/album/1BwYTc2Gh3MLmoPjIQwid8) | 3:04 | 2024-06-13 |  |
 | [Mileage](https://open.spotify.com/track/383mModrtYVJGJATvHUBgw) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 2:37 | 2024-06-13 |  |
-| [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2024-06-13 |  |
+| [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/2qwRUeQhsZwZaLKceoflwh) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [96 Months](https://open.spotify.com/album/1CfqWSAyfmYzHU9ktHxUqd) | 3:06 | 2024-08-11 |  |
+| [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2024-06-13 | 2024-08-12 |
 | [Miss You](https://open.spotify.com/track/3zxrecYFao03IrrcyFiaMU) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Miss You](https://open.spotify.com/album/22anLYKhfIkwUOz8RZtZKq) | 3:02 | 2024-06-13 |  |
 | [MOONKISS](https://open.spotify.com/track/3jjaWxIRbxUkgcO5R3cxaL) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [MOONKISS](https://open.spotify.com/album/0ENK4WbQuDunSFcCYBNakg) | 2:28 | 2024-06-13 |  |
 | [New Girl](https://open.spotify.com/track/6IlunOwHwe9IF7taJZo1FK) | [Reggie ‘N’ Bollie](https://open.spotify.com/artist/3qCIifFHqOTzTAC1Sww8ms) | [Uncommon Favours](https://open.spotify.com/album/4fMDLidbvqm2HbSYGaxgva) | 3:36 | 2024-06-13 | 2024-06-18 |

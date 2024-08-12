@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 537478,
+  "num_followers": 537544,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-08-09 16:34:24",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 218179,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
-    },
-    {
-      "added_at": "2024-08-09 16:34:24",
-      "album": {
         "name": "Not Giving You Up",
         "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 172939,
       "name": "Not Giving You Up",
       "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+    },
+    {
+      "added_at": "2024-08-09 16:34:24",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 218179,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
     },
     {
       "added_at": "2024-08-09 16:34:24",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-08-09 16:34:24",
       "album": {
-        "name": "joycelyn's dance",
-        "url": "https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ"
+        "name": "SENESCENCE 05 + 06",
+        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
       },
       "artists": [
         {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
         }
       ],
-      "duration_ms": 198500,
-      "name": "joycelyn's dance",
-      "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
+      "duration_ms": 170235,
+      "name": "Grin",
+      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
     },
     {
       "added_at": "2024-08-09 16:34:24",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-08-09 16:34:24",
       "album": {
+        "name": "joycelyn's dance",
+        "url": "https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "joycelyn's dance",
+      "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
+    },
+    {
+      "added_at": "2024-08-09 16:34:24",
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 298425,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX"
-    },
-    {
-      "added_at": "2024-08-09 16:34:24",
-      "album": {
-        "name": "SENESCENCE 05 + 06",
-        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 170235,
-      "name": "Grin",
-      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
     },
     {
       "added_at": "2024-08-09 16:34:24",
@@ -1391,38 +1391,6 @@
     {
       "added_at": "2024-08-09 16:34:24",
       "album": {
-        "name": "Canary Islands",
-        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Canary Islands",
-      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
-    },
-    {
-      "added_at": "2024-08-09 16:34:24",
-      "album": {
-        "name": "something will happen",
-        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 179864,
-      "name": "something will happen",
-      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
-    },
-    {
-      "added_at": "2024-08-09 16:34:24",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -1451,6 +1419,22 @@
       "duration_ms": 176049,
       "name": "Wait on You",
       "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
+    },
+    {
+      "added_at": "2024-08-09 16:34:24",
+      "album": {
+        "name": "Canary Islands",
+        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Canary Islands",
+      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
     },
     {
       "added_at": "2024-08-09 16:34:24",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2024-08-09 16:34:24",
       "album": {
+        "name": "something will happen",
+        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 179864,
+      "name": "something will happen",
+      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+    },
+    {
+      "added_at": "2024-08-09 16:34:24",
+      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-08-09 16:34:24",
       "album": {
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+    },
+    {
+      "added_at": "2024-08-09 16:34:24",
+      "album": {
         "name": "Fate",
         "url": "https://open.spotify.com/album/73T7Y3cR4WyDOH1Kj1IEf2"
       },
@@ -1543,38 +1559,6 @@
       "duration_ms": 175090,
       "name": "Fate",
       "url": "https://open.spotify.com/track/7x3pzN49JShVFPKOJBp2s3"
-    },
-    {
-      "added_at": "2024-08-09 16:34:24",
-      "album": {
-        "name": "Lola",
-        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 225625,
-      "name": "Crocodile",
-      "url": "https://open.spotify.com/track/27NPOgyYpnRjfVRWgNRTG9"
-    },
-    {
-      "added_at": "2024-08-09 16:34:24",
-      "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-08-09 16:34:24",
@@ -1615,6 +1599,22 @@
       "duration_ms": 154807,
       "name": "So Nice To Be In Love",
       "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
+    },
+    {
+      "added_at": "2024-08-09 16:34:24",
+      "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 225625,
+      "name": "Crocodile",
+      "url": "https://open.spotify.com/track/27NPOgyYpnRjfVRWgNRTG9"
     },
     {
       "added_at": "2024-08-09 16:34:24",
@@ -1759,42 +1759,6 @@
     {
       "added_at": "2024-08-09 16:34:24",
       "album": {
-        "name": "Lil Tune",
-        "url": "https://open.spotify.com/album/4Vv9jIuo0EOmqajkwXaSBH"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        },
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 238936,
-      "name": "Lil Tune",
-      "url": "https://open.spotify.com/track/0xFKj9yBje6JakSVa2JsrO"
-    },
-    {
-      "added_at": "2024-08-09 16:34:24",
-      "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 263418,
-      "name": "Tunnel of You",
-      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
-    },
-    {
-      "added_at": "2024-08-09 16:34:24",
-      "album": {
         "name": "Blame It All On Love",
         "url": "https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW"
       },
@@ -1815,6 +1779,26 @@
     {
       "added_at": "2024-08-09 16:34:24",
       "album": {
+        "name": "Lil Tune",
+        "url": "https://open.spotify.com/album/4Vv9jIuo0EOmqajkwXaSBH"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        },
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 238936,
+      "name": "Lil Tune",
+      "url": "https://open.spotify.com/track/0xFKj9yBje6JakSVa2JsrO"
+    },
+    {
+      "added_at": "2024-08-09 16:34:24",
+      "album": {
         "name": "Rust & Gold",
         "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 220626,
       "name": "How Much (You Want Her) 2017",
       "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
+    },
+    {
+      "added_at": "2024-08-09 16:34:24",
+      "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 263418,
+      "name": "Tunnel of You",
+      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
     },
     {
       "added_at": "2024-08-09 16:34:24",

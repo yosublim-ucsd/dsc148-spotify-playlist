@@ -10216,7 +10216,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 170187,
       "name": "Dejame Pensar (Preview)",
       "url": "https://open.spotify.com/track/57VabaM2TZJzmi1JinRLVh"
@@ -13074,7 +13074,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 138466,
       "name": "Enfoc\u00e1 en Lo M\u00edo",
       "url": "https://open.spotify.com/track/0pRC262JW8sbIiYQ8AlimA"
@@ -14840,7 +14840,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 149629,
       "name": "Flow Lebron (Drip Too Hard Chilean Remix)",
       "url": "https://open.spotify.com/track/67bf6ya1XAntjMZ7fLd9jl"
@@ -23084,7 +23084,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
@@ -24414,7 +24414,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 154961,
       "name": "MENTE EN BLANCO",
       "url": "https://open.spotify.com/track/50OckWpSCDhxhaxMeGxjlN"
@@ -27704,6 +27704,24 @@
       "duration_ms": 151468,
       "name": "No soy Eterno",
       "url": "https://open.spotify.com/track/0aPs3kmiqmt9QG7gWXdefA"
+    },
+    {
+      "album": {
+        "name": "No sufrir\u00e9 por nadie",
+        "url": "https://open.spotify.com/album/5xCnb2L3VTRJZxxyzL7uaT"
+      },
+      "artists": [
+        {
+          "name": "Intocables de Chile",
+          "url": "https://open.spotify.com/artist/3Rnvdbd16ZNKjHLYq8sATE"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229956,
+      "name": "No sufrir\u00e9 por nadie",
+      "url": "https://open.spotify.com/track/50lzGApfuSrKMGgBJxmOvj"
     },
     {
       "album": {

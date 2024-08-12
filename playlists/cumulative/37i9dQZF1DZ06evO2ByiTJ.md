@@ -4,7 +4,7 @@
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 30 min
+61 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Buscar Tua Face é Preciso](https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Vencedor](https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4) | 4:31 | 2023-07-09 |  |
 | [Colhendo Frutos \(Ao Vivo\)](https://open.spotify.com/track/5YQRkkXA0efmfBgd5cmoGf) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 3:23 | 2023-07-09 |  |
 | [Coração de Amor](https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração de Amor](https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB) | 3:57 | 2023-07-09 |  |
+| [Coração Valente \(Ao Vivo\)](https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração Valente \(Ao Vivo\)](https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7) | 4:28 | 2024-08-12 |  |
 | [Criança Nota 10](https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Coral de Crianças](https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi) | [Criança Nota 10](https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3) | 2:44 | 2023-07-09 |  |
 | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/track/1m6qnO7l4JtqbQILMqRONj) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS) | 4:26 | 2023-07-09 |  |
 | [Deus Indecifrável](https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:16 | 2023-07-09 |  |
@@ -31,7 +32,7 @@
 | [História Linda de Viver \(Ao Vivo\)](https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [História Linda de Viver \(Ao Vivo\)](https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt) | 4:42 | 2023-07-09 |  |
 | [Humilde Rei](https://open.spotify.com/track/3ZhGcpxMziwd6ZLY7o3Xp9) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Humilde Rei](https://open.spotify.com/album/2eieGUaivlYodxrstfbLI6) | 5:31 | 2023-07-09 |  |
 | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/album/0RXhj4IrrkcMs9Puae55n8) | 3:55 | 2024-03-27 |  |
-| [Linda Flor](https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Linda Flor](https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT) | 3:35 | 2023-07-09 |  |
+| [Linda Flor](https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Linda Flor](https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT) | 3:35 | 2023-07-09 | 2024-08-12 |
 | [Lindo Presente](https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:07 | 2023-07-09 |  |
 | [Mestre \(Ao Vivo\)](https://open.spotify.com/track/5gf1Tq1LVi3ZjR67sol1Yd) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 3:59 | 2023-07-09 |  |
 | [Minha Alma Canta](https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:54 | 2023-12-26 |  |

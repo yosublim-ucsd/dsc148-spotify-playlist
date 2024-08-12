@@ -1,12 +1,12 @@
 {
-  "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 160102,
+  "description": "This is Aline Barros. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 160113,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAD0YSHAyDx2sFYHuMfFZwCM",
+  "snapshot_id": "ZratgAAAAACVuVCeM/UH2tVA6K/6BmXi",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 167137,
+      "name": "Homenzinho Torto",
+      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jehov\u00e1 Jireh",
         "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
       },
@@ -655,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
       },
       "artists": [
         {
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 167137,
-      "name": "Homenzinho Torto",
-      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
+      "duration_ms": 272741,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/39haoAQl6lLuaSrZDelpAg"
     },
     {
       "added_at": null,
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 272741,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/39haoAQl6lLuaSrZDelpAg"
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 394924,
       "name": "Te Adorar \u00e9 o Meu Prazer",
       "url": "https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Dan\u00e7a do Pinguim",
-      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som de Adoradores",
-        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 308268,
-      "name": "Vento do Esp\u00edrito",
-      "url": "https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 250682,
       "name": "Lugar Seguro",
       "url": "https://open.spotify.com/track/37BbleCLexY8yNcN3SpVSF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Som de Adoradores",
+        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 308268,
+      "name": "Vento do Esp\u00edrito",
+      "url": "https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z"
     }
   ],
   "unique_name": "This Is Aline Barros",

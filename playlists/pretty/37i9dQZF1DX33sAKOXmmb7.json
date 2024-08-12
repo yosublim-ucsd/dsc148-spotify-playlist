@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 71265,
+  "num_followers": 71286,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -295,6 +279,22 @@
       "duration_ms": 240146,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "The Rip Tide",
-        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "The Wild Swan",
         "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 229226,
       "name": "She Burns",
       "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "The Rip Tide",
+        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 222817,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 206440,
       "name": "Thousand (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 222817,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Singing Saw",
-        "url": "https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 194186,
-      "name": "I Have Been to the Mountain",
-      "url": "https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Philharmonics",
-        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+        "name": "Singing Saw",
+        "url": "https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9"
       },
       "artists": [
         {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 228546,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
+      "duration_ms": 194186,
+      "name": "I Have Been to the Mountain",
+      "url": "https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 264320,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Shallow Grave",
         "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 237000,
       "name": "The Gardener",
       "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 264320,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Cold Little Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 269386,
-      "name": "Cold Little Heart - Acoustic",
-      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 196973,
       "name": "The Mother",
       "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Cold Little Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 269386,
+      "name": "Cold Little Heart - Acoustic",
+      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Hit 'Em up Style",
+      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 192666,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Hit 'Em up Style",
-      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
+        "name": "Moonshine Freeze",
+        "url": "https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Moonshine Freeze",
+      "url": "https://open.spotify.com/track/5jzHvA7xPl24wKuICkpEWL"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
         "name": "Been Listening",
         "url": "https://open.spotify.com/album/6zhW0ymzbX1lgiJB2ptape"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 254853,
       "name": "The Water - feat. Laura Marling",
       "url": "https://open.spotify.com/track/69FraOspp1B24ZFBqlUaoV"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
-        "name": "Moonshine Freeze",
-        "url": "https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Moonshine Freeze",
-      "url": "https://open.spotify.com/track/5jzHvA7xPl24wKuICkpEWL"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "No Witch",
-        "url": "https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC"
-      },
-      "artists": [
-        {
-          "name": "The Cave Singers",
-          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Distant Sures",
-      "url": "https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 271186,
       "name": "Live And Die",
       "url": "https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "No Witch",
+        "url": "https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC"
+      },
+      "artists": [
+        {
+          "name": "The Cave Singers",
+          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Distant Sures",
+      "url": "https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8"
     },
     {
       "added_at": "2024-03-25 16:56:42",

@@ -1,12 +1,12 @@
 {
   "description": "This Is Nanpa B\u00e1sico. Los temas esenciales, todos en una lista.",
-  "num_followers": 221592,
+  "num_followers": 221654,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABAyCv9t3F9wnk/6d6ac5iw",
+  "snapshot_id": "ZratgAAAAACxBpX8i2fWWObHWR+/Q9rh",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compilado, Vol. 1",
-        "url": "https://open.spotify.com/album/14CpQJsjiV9GqZJHNQYjXC"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 190542,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/2ILQcg4M8Qyc6hq0v2AGOg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para los Dolidos",
         "url": "https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm"
       },
@@ -743,28 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/5lHHOwtZ9cV6A3fCo70MW9"
-      },
-      "artists": [
-        {
-          "name": "Teo LB",
-          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 229982,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/7JLsVIpyj7hLi43uHs8BFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+        "name": "Compilado, Vol. 1",
+        "url": "https://open.spotify.com/album/14CpQJsjiV9GqZJHNQYjXC"
       },
       "artists": [
         {
@@ -772,9 +736,9 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 173056,
-      "name": "Extra\u00f1andote",
-      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
+      "duration_ms": 190542,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/2ILQcg4M8Qyc6hq0v2AGOg"
     },
     {
       "added_at": null,
@@ -795,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "Extra\u00f1andote",
+      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como T\u00fa Ninguna",
         "url": "https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 236756,
       "name": "Como T\u00fa Ninguna",
       "url": "https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/5lHHOwtZ9cV6A3fCo70MW9"
+      },
+      "artists": [
+        {
+          "name": "Teo LB",
+          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 229982,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/7JLsVIpyj7hLi43uHs8BFZ"
     },
     {
       "added_at": null,
@@ -1019,26 +1019,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rocketman",
-        "url": "https://open.spotify.com/album/6mrbpYQQijgtoxyF472JEJ"
+        "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) [Remix]",
+        "url": "https://open.spotify.com/album/2Zs2mVbPL5ZJyDYD4oshLD"
       },
       "artists": [
         {
-          "name": "AMBKOR",
-          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
         }
       ],
-      "duration_ms": 219374,
-      "name": "Alcatraz",
-      "url": "https://open.spotify.com/track/3z5eBMaMIJHF7JNDCA1RGB"
+      "duration_ms": 360910,
+      "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) - Remix",
+      "url": "https://open.spotify.com/track/0YFtiekZdGa81WeWgzbRAG"
     }
   ],
   "unique_name": "This Is Nanpa B\u00e1sico",

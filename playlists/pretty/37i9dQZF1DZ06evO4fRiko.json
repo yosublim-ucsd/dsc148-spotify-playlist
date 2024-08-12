@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 866134,
+  "num_followers": 866371,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAB91My7Lvanb0db4bqt9bpH",
+  "snapshot_id": "ZratgAAAAADdoGToJs94ru2HQySOiFvg",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Evening",
-        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 211975,
-      "name": "Five More Hours",
-      "url": "https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
@@ -387,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 211975,
+      "name": "Five More Hours",
+      "url": "https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Run It! (feat. Juelz Santana)",
-      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exclusive (Expanded Edition)",
         "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 250666,
       "name": "Kiss Kiss (feat. T-Pain)",
       "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Run It! (feat. Juelz Santana)",
+      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 127615,
-      "name": "Press Me",
-      "url": "https://open.spotify.com/track/7rZbFj5T5GzbIrVMrkw5AU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 289760,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 127615,
+      "name": "Press Me",
+      "url": "https://open.spotify.com/track/7rZbFj5T5GzbIrVMrkw5AU"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freaky Friday (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/4CaoXfwBemXYSLxhS9FyXM"
-      },
-      "artists": [
-        {
-          "name": "Lil Dicky",
-          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 216631,
-      "name": "Freaky Friday (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/6dbSBQXCctYSVryynHXaZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freaky Friday (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/4CaoXfwBemXYSLxhS9FyXM"
+      },
+      "artists": [
+        {
+          "name": "Lil Dicky",
+          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 216631,
+      "name": "Freaky Friday (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6dbSBQXCctYSVryynHXaZ4"
     },
     {
       "added_at": null,
@@ -855,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
       "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 197031,
-      "name": "Already Best Friends (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
+      "duration_ms": 245933,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
     },
     {
       "added_at": null,
@@ -915,18 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
       "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 245933,
-      "name": "Take You Down",
-      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
+      "duration_ms": 197031,
+      "name": "Already Best Friends (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
     },
     {
       "added_at": null,

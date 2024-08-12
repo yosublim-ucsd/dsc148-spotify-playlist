@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Tyla",
-  "num_followers": 562533,
+  "num_followers": 562539,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,26 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
+        "name": "Picture in my mind",
+        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Picture in My Mind",
+      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
         "name": "Expansion Team",
         "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 227000,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
-        "name": "Picture in my mind",
-        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 176930,
-      "name": "Picture in My Mind",
-      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 58801,
+      "name": "60 Seconds",
+      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
         "name": "Fkn Around (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+        "name": "VAN GOGH",
+        "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
         }
       ],
-      "duration_ms": 58801,
-      "name": "60 Seconds",
-      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+      "duration_ms": 197080,
+      "name": "VAN GOGH",
+      "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1099,22 +1115,6 @@
       "duration_ms": 255760,
       "name": "M79",
       "url": "https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
-        "name": "VAN GOGH",
-        "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
-      },
-      "artists": [
-        {
-          "name": "METTE",
-          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "VAN GOGH",
-      "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
+        "name": "Sexy",
+        "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Be With U (feat. DETO BLACK)",
+      "url": "https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
         "name": "VIRGINIA CREEPER",
         "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 267080,
       "name": "Greatest Hits",
       "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
-        "name": "Sexy",
-        "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
-      },
-      "artists": [
-        {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        },
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Be With U (feat. DETO BLACK)",
-      "url": "https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "I Can't Wait",
-        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 134322,
-      "name": "FreakyT",
-      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
         "name": "Conveniency",
         "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 209108,
       "name": "Closure",
       "url": "https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 134322,
+      "name": "FreakyT",
+      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
     },
     {
       "added_at": "2024-07-18 00:31:46",

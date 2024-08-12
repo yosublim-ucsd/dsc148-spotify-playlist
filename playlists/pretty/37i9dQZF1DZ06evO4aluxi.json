@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 17550,
+  "num_followers": 17557,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAACGhpYKC3eT3dW0UEXpgeA",
+  "snapshot_id": "ZratgAAAAACYF82sgjiAQtreY1RMSvFf",
   "tracks": [
     {
       "added_at": null,
@@ -306,15 +306,11 @@
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Rock Of Ages",
-      "url": "https://open.spotify.com/track/2wfog0JEHVGS3jMqFWj3xO"
+      "duration_ms": 205466,
+      "name": "Joyful, Joyful, We Adore Thee",
+      "url": "https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6"
     },
     {
       "added_at": null,
@@ -374,11 +370,15 @@
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 205466,
-      "name": "Joyful, Joyful, We Adore Thee",
-      "url": "https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6"
+      "duration_ms": 219320,
+      "name": "Rock Of Ages",
+      "url": "https://open.spotify.com/track/2wfog0JEHVGS3jMqFWj3xO"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "River Lullaby",
-      "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 230266,
       "name": "Faithful (feat. Amy Grant)",
       "url": "https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "River Lullaby",
+      "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unguarded",
-        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets: Friends & Legends",
         "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 214760,
       "name": "My Jesus, I Love Thee",
       "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unguarded",
+        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
     },
     {
       "added_at": null,
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 233400,
-      "name": "Ask Me",
-      "url": "https://open.spotify.com/track/5rLGbtNvUB8nqyUNTRC5n9"
+      "duration_ms": 260440,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
     }
   ],
   "unique_name": "This Is Amy Grant",

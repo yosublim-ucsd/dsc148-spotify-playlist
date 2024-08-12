@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: CYRIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,237 likes - 96 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,284 likes - 96 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 82 | [girl talk](https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [tiny but scary](https://open.spotify.com/album/7MZOubrrYkMZPC5CEgjHGR) | 3:10 |
 | 83 | [Adelina](https://open.spotify.com/track/5ybwIzlIAoHVDG3O1JyQd3) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Adelina](https://open.spotify.com/album/65habTsYwb8G5hO4wZeKxM) | 3:05 |
 | 84 | [Weekend](https://open.spotify.com/track/45oj9RdqbdJjgZzV776NkY) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [ZΩRBA](https://open.spotify.com/artist/6Ws3dOGjmr0Na9n8aTzHgw) | [Weekend](https://open.spotify.com/album/2yAk2MMYwNiQnI9iBGHsTB) | 2:30 |
-| 85 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
+| 85 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
 | 86 | [Black and White](https://open.spotify.com/track/0NH4E6UL2DUGMBtvsylm1O) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [BETA](https://open.spotify.com/album/5RyDQJIkTOl0QMeFZz8UGe) | 5:00 |
 | 87 | [I Just Wanted to Dance](https://open.spotify.com/track/40MgmjkoAwZNg6gsGrgWlI) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [I Just Wanted to Dance](https://open.spotify.com/album/5Ija1CLcqnWugFIdyJaiPD) | 3:08 |
 | 88 | [Tell Me](https://open.spotify.com/track/0LOftSMMK0R57XJS0jYSIz) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Tell Me](https://open.spotify.com/album/5WOGBzFpckM9DHx8Zc29mP) | 2:19 |

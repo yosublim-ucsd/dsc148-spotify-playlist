@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-199 songs - 10 hr 1 min
+200 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Barrell House Blues](https://open.spotify.com/track/6yhsjKV9lbtYS9e7aVgUbo) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 2:50 | 2022-11-30 |  |
 | [Bessemer Bound Blues](https://open.spotify.com/track/0wkf6necAJHcf886z0a9rg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:50 | 2023-06-12 |  |
 | [Bessemer Bound Blues: 2](https://open.spotify.com/track/6hVsYp2nQGGZ3yg9IxXYlR) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD C](https://open.spotify.com/album/2yLBLBIzFDd5oZDJRnA3j8) | 2:48 | 2024-04-04 | 2024-07-07 |
-| [Big Boy Blues](https://open.spotify.com/track/5JeFDCfyd6QvlKVFvws7oi) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 4 \(1926\-1927\)](https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q) | 2:50 | 2022-08-24 |  |
+| [Big Boy Blues](https://open.spotify.com/track/5JeFDCfyd6QvlKVFvws7oi) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 4 \(1926\-1927\)](https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q) | 2:50 | 2022-08-24 | 2024-08-12 |
 | [Big Boy Blues](https://open.spotify.com/track/6APKfwJwXbYhUHwILKovvP) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 2:52 | 2022-10-29 | 2022-10-31 |
 | [Big Feeling Blues](https://open.spotify.com/track/6A5w88S8sUhGtdVDsg9RUT) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:47 | 2022-09-15 | 2024-07-20 |
 | [Big Feeling Blues](https://open.spotify.com/track/4Hqbe7XPWxWpI4W9KJ5IzH) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 2:48 | 2023-07-02 | 2023-07-09 |
@@ -99,7 +99,7 @@
 | [Ice Bag Mama](https://open.spotify.com/track/6sn1Hpn55exARQWN4zXxCE) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 2:54 | 2023-01-25 | 2023-05-27 |
 | [Ice Bag Papa](https://open.spotify.com/track/4JVWUOmnVbC2vxfAjeYjaI) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:04 | 2022-11-07 | 2024-02-12 |
 | [Jealous Hearted Blues](https://open.spotify.com/track/29rFcZbCR4mKJ9dOlVgKTz) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:10 | 2022-08-05 |  |
-| [Jealousy Blues](https://open.spotify.com/track/4K7792dZRlrUcmcYu9N0lg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:56 | 2024-08-09 |  |
+| [Jealousy Blues](https://open.spotify.com/track/4K7792dZRlrUcmcYu9N0lg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:56 | 2024-08-09 | 2024-08-12 |
 | [Jealousy Blues](https://open.spotify.com/track/2RGpUtJYQA1kecPbjMLtso) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:56 | 2022-08-05 | 2023-12-22 |
 | [Jelly Bean Blues](https://open.spotify.com/track/4VvNDjcJTSA4PxeCE7DIlf) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:19 | 2022-08-05 | 2024-07-11 |
 | [Last Minute Blues](https://open.spotify.com/track/62g0YxDu47NwTjxLo9JUrC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 2:58 | 2022-08-05 |  |
@@ -177,7 +177,7 @@
 | [Stack O' Lee Blues](https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 2:57 | 2022-08-05 |  |
 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 | 2022-08-05 |  |
 | [Stormy Sea Blues](https://open.spotify.com/track/5ruTFfl1a6p0ox63nlRpQW) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 2:43 | 2022-08-08 | 2023-12-14 |
-| [Stormy Sea Blues](https://open.spotify.com/track/3ZV3VNFFPkrOhVTaQ2laML) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Midnight Moods September Blues \- Ma Rainey's Timeless Tunes](https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ) | 2:43 | 2023-12-13 | 2024-08-11 |
+| [Stormy Sea Blues](https://open.spotify.com/track/3ZV3VNFFPkrOhVTaQ2laML) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Midnight Moods September Blues \- Ma Rainey's Timeless Tunes](https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ) | 2:43 | 2023-12-13 |  |
 | [Sweet Rough Man](https://open.spotify.com/track/62EoPZVylvGUYIAIlJj94i) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:05 | 2022-08-05 |  |
 | [Those All Night Blues](https://open.spotify.com/track/3NWcy10odYa4dR9k1bZt8D) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 3:07 | 2022-08-05 |  |
 | [Those All Night Long Blues: 2](https://open.spotify.com/track/2jvXhVYVpIlr1x3ElSdRJm) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD A](https://open.spotify.com/album/0RlfiAuNjindVUugIU0G3M) | 3:06 | 2022-10-30 | 2024-07-31 |
@@ -200,6 +200,7 @@
 | [Wringin' And Twistin' Blues](https://open.spotify.com/track/5Fuq4Euqqy7AmyPbJqKiiX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:51 | 2024-01-26 | 2024-07-24 |
 | [Wringing And Twisting](https://open.spotify.com/track/2yl7DtzE5l68YpXLhTTRgS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Essential & Original Southern Blues Collection](https://open.spotify.com/album/45ZFXCjSge4WlTFC6iTH7f) | 2:54 | 2024-01-10 | 2024-01-31 |
 | [Wringing And Twisting Blues](https://open.spotify.com/track/70ZHyouhC52SVGHuF0ob7b) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:58 | 2022-10-28 | 2023-07-20 |
+| [Wringing and Twisting Blues](https://open.spotify.com/track/637VHcQICbUCaCYpAuBbiW) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:58 | 2024-08-12 |  |
 | [Ya Da Do Blues](https://open.spotify.com/track/2zDFJd7Jw9fHmbZgCXVIaV) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Classic Years, Vol\. 2](https://open.spotify.com/album/4chq32JGecF2YnjC6IP3Jf) | 3:03 | 2023-02-01 | 2024-06-30 |
 | [Ya Da Do: 2](https://open.spotify.com/track/2rNUgeOGolvvOQTLfy6vSG) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD A](https://open.spotify.com/album/0RlfiAuNjindVUugIU0G3M) | 2:57 | 2024-03-15 |  |
 | [Ya\-Da\-Do](https://open.spotify.com/track/5rd5VIxBcDMYoPjv5C2emj) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 2:58 | 2022-10-27 | 2024-07-17 |

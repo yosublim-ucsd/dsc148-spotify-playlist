@@ -1,6 +1,6 @@
 {
   "description": "The sound of Summer 2024! ",
-  "num_followers": 98386,
+  "num_followers": 98370,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
         "name": "You're Losing Me (From The Vault)",
         "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 169990,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -715,6 +699,22 @@
       "duration_ms": 197164,
       "name": "Eat Your Man (with Nelly Furtado)",
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 169990,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -795,30 +795,6 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "TOO MUCH",
-        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 203894,
-      "name": "TOO MUCH",
-      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
         "name": "TRUSTFALL (Tour Deluxe Edition)",
         "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 188320,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "WHAT JUST HAPPENED",
-        "url": "https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 162191,
-      "name": "WHAT JUST HAPPENED",
-      "url": "https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
         "name": "I Believe In Love Again",
         "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
+        "name": "WHAT JUST HAPPENED",
+        "url": "https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 162191,
+      "name": "WHAT JUST HAPPENED",
+      "url": "https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
         "name": "I AM (From the Ava DuVernay feature film 'Origin')",
         "url": "https://open.spotify.com/album/5xu60Zz8cb4j7Qnmy7oio7"
       },
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "Can I Shower At Yours",
-        "url": "https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj"
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 114004,
-      "name": "Can I Shower At Yours",
-      "url": "https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS"
+      "duration_ms": 180527,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
     }
   ],
   "unique_name": "Summer Hits (3)",

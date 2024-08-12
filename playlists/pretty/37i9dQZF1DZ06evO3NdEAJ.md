@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 
 ### [This Is La Fiera de Ojinaga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NdEAJ)
 
-> This Is La Fiera de Ojinaga\. Los temas esenciales, todos en una lista.
+> This is La Fiera de Ojinaga\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,107 likes - 52 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,133 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 4 | [900 Cigarros](https://open.spotify.com/track/5l9Yiss1tK7DFlOIZ6VumO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 2:03 |
 | 5 | [Te Vas a Acordar de Mi](https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos, Vol\. 2](https://open.spotify.com/album/7EesU3azH6jPG5osiPex59) | 3:24 |
 | 6 | [La Boca Les Callamos](https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos](https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9) | 2:44 |
-| 7 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/1UvgNeeoqaa7f1vCgTnM0P) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas \(Edición Deluxe\)](https://open.spotify.com/album/7CwFeQuVgWTxhn3ufnuNX5) | 3:05 |
-| 8 | [Beses a Quien Beses](https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Beses a Quien Beses](https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj) | 2:57 |
+| 7 | [Beses a Quien Beses](https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Beses a Quien Beses](https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj) | 2:57 |
+| 8 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/1UvgNeeoqaa7f1vCgTnM0P) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas \(Edición Deluxe\)](https://open.spotify.com/album/7CwFeQuVgWTxhn3ufnuNX5) | 3:05 |
 | 9 | [Chiquita Bonita](https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chiquita Bonita](https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB) | 2:36 |
 | 10 | [Neta Que No](https://open.spotify.com/track/7o1UbAzMnbow4EUzWl1xuf) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 2:44 |
 | 11 | [Infinito](https://open.spotify.com/track/7pFVbw3r0q4NEQ3RtpdG0A) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Infinito](https://open.spotify.com/album/7J6dh2qFQuRPYinWwVj2Q9) | 2:51 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 38 | [Olvidarte ¿Cómo?](https://open.spotify.com/track/6qoLoLaw4zC48XERFdTBgN) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Retro & Hits](https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj) | 3:27 |
 | 39 | [¿Quieres Ser Mi Novia?](https://open.spotify.com/track/0BcObiU0t2NzG08rnj2aiI) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [¿Quieres Ser Mi Novia?](https://open.spotify.com/album/6h79FdKXv9I2qlTTbrq60I) | 2:39 |
 | 40 | [Ya No Te Quiero Querer](https://open.spotify.com/track/28yEy7OAKeiAZ1m0td8N3H) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7](https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4) | 2:50 |
-| 41 | [Te Mereces](https://open.spotify.com/track/7MOsxXYlhSoQUSJhR09QGB) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas, Vol.2](https://open.spotify.com/album/1W2Atto04JwV3G32tP5rPO) | 2:38 |
-| 42 | [Quién Mejor Que Tú](https://open.spotify.com/track/3Rud1SXi9zzVZuCAFXWl3f) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Díselo Con Sax](https://open.spotify.com/album/6nAqAwEFAdgfmLsSpD9AIj) | 2:55 |
-| 43 | [Qué Bonito Me Quieres](https://open.spotify.com/track/2HBov0hd0kPxzMVYMjchUD) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Qué Bonito Me Quieres](https://open.spotify.com/album/6zviFXbBpDM7SezgnN08I4) | 2:54 |
-| 44 | [La Luna de Miel](https://open.spotify.com/track/2JQ4kacSA0S9bAkEzejRpH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Luna de Miel](https://open.spotify.com/album/3XFkmdFswCXR8jw6inTShg) | 2:42 |
+| 41 | [Quién Mejor Que Tú](https://open.spotify.com/track/3Rud1SXi9zzVZuCAFXWl3f) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Díselo Con Sax](https://open.spotify.com/album/6nAqAwEFAdgfmLsSpD9AIj) | 2:55 |
+| 42 | [Te Mereces](https://open.spotify.com/track/7MOsxXYlhSoQUSJhR09QGB) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas, Vol.2](https://open.spotify.com/album/1W2Atto04JwV3G32tP5rPO) | 2:38 |
+| 43 | [La Luna de Miel](https://open.spotify.com/track/2JQ4kacSA0S9bAkEzejRpH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Luna de Miel](https://open.spotify.com/album/3XFkmdFswCXR8jw6inTShg) | 2:42 |
+| 44 | [Qué Bonito Me Quieres](https://open.spotify.com/track/2HBov0hd0kPxzMVYMjchUD) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Qué Bonito Me Quieres](https://open.spotify.com/album/6zviFXbBpDM7SezgnN08I4) | 2:54 |
 | 45 | [Besos Contados](https://open.spotify.com/track/310tDyxuIecgZJ9BsD9JZN) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Besos Contados](https://open.spotify.com/album/42Nd5nywb9uEVZ3JiXgCwu) | 3:20 |
 | 46 | [Globo Desinflado](https://open.spotify.com/track/0VP0h7wyd7h4H4qzizi4IS) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Globo Desinflado](https://open.spotify.com/album/1TIhRK5WrbC3BjbmiQubPA) | 2:13 |
 | 47 | [Ya No](https://open.spotify.com/track/2PHHXrlTLD7NAK66ExrZjq) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Empezar Desde Cero](https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh) | 2:44 |
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 49 | [Para Que No Te Acuerdes](https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Para Que No Te Acuerdes](https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg) | 2:54 |
 | 50 | [Ya No Habrá Después](https://open.spotify.com/track/6lFRMSxWjXn0N4Qj2lAQqS) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Ya No Habrá Después](https://open.spotify.com/album/2Qcd2MQ9MkC2FDEtxSuuOJ) | 3:41 |
 | 51 | [El Mejor De Mis Días](https://open.spotify.com/track/2TiaN5xxTHxUT2jdKAJyP5) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [El Mejor de Mis Días](https://open.spotify.com/album/0GFG1VqrFrdhhZLqxQWZPF) | 3:01 |
-| 52 | [Y Tú a Toda Madre](https://open.spotify.com/track/7bEfzjPeeY6sYFr2P4oOzz) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Trilogía, Vol\. 1](https://open.spotify.com/album/7jTWwmpVFs08W8wftoIC2B) | 3:14 |
+| 52 | [Eclipse](https://open.spotify.com/track/57pVaakpJ2asKjALpW7DyI) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Eclipse](https://open.spotify.com/album/58x41YRex4WzbE9zvzfaU5) | 2:05 |
 
-Snapshot ID: `ZrVcAAAAAADAVOCoWvoGww7aZkkhWWgc`
+Snapshot ID: `ZratgAAAAACeI8OLd6TK18kvG3Kw4FKl`

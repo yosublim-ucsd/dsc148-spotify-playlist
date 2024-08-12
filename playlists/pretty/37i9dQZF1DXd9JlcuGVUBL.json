@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF?si=6qkSYoQ-Th65L1wancEr5w\">Kelsea Ballerini</a>  ",
-  "num_followers": 28265,
+  "num_followers": 28289,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
-    },
-    {
       "added_at": "2024-05-16 22:00:00",
       "album": {
         "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
@@ -199,6 +183,22 @@
       "duration_ms": 210950,
       "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -257,20 +257,20 @@
       "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
     },
     {
-      "added_at": "2024-02-09 03:20:16",
+      "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "3 Songs At A Time Sampler",
-        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
         }
       ],
-      "duration_ms": 163854,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
+      "duration_ms": 192693,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-02-09 03:20:16",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2024-02-09 03:20:16",
-      "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
@@ -321,20 +305,36 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2024-02-29 22:00:00",
+      "added_at": "2024-02-09 03:20:16",
       "album": {
-        "name": "Devil You Know",
-        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+        "name": "3 Songs At A Time Sampler",
+        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
       },
       "artists": [
         {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 192693,
-      "name": "Devil You Know",
-      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
+    },
+    {
+      "added_at": "2024-02-09 03:20:16",
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
-    },
-    {
       "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Beautiful As You",
@@ -431,6 +415,22 @@
       "duration_ms": 163894,
       "name": "Beautiful As You",
       "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
     },
     {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Indifferent",
+        "url": "https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 176022,
+      "name": "Indifferent",
+      "url": "https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk"
+    },
+    {
       "added_at": "2024-02-09 03:20:16",
       "album": {
         "name": "Soul",
@@ -547,22 +563,6 @@
       "duration_ms": 178196,
       "name": "Wranglers",
       "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Indifferent",
-        "url": "https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 176022,
-      "name": "Indifferent",
-      "url": "https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
     },
     {
-      "added_at": "2024-02-09 03:20:16",
-      "album": {
-        "name": "But I Got A Beer In My Hand",
-        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "But I Got A Beer In My Hand",
-      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Quitter",
@@ -735,22 +719,6 @@
       "duration_ms": 161285,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "REBEL",
-        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Songs About Whiskey",
-      "url": "https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -771,6 +739,38 @@
       "duration_ms": 237773,
       "name": "Good Horses (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
+    },
+    {
+      "added_at": "2024-02-09 03:20:16",
+      "album": {
+        "name": "But I Got A Beer In My Hand",
+        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "But I Got A Beer In My Hand",
+      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "REBEL",
+        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Songs About Whiskey",
+      "url": "https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY"
     },
     {
       "added_at": "2024-05-02 22:00:00",

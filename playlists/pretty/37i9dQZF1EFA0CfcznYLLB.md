@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,800 likes - 312 songs - 16 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,798 likes - 312 songs - 16 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 52 | [Fendi](https://open.spotify.com/track/6Y6J8CNHtOuklPhVnvmnm1) | [Rakhim](https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0) | [Fendi](https://open.spotify.com/album/45vVnSVKn7hWMICF3aSwlm) | 2:08 |
 | 53 | [Legendary \(feat\. Gunna\)](https://open.spotify.com/track/4yn0ftNHQSwsWE81h33y4K) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:32 |
 | 54 | [Next](https://open.spotify.com/track/3yEin2B5mUWnHS26e499E1) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [WAVE](https://open.spotify.com/album/2K7TaTlsxwcV3YrgKPRy2O) | 2:44 |
-| 55 | [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/2rYyq0b3XWwmWl0k727OVG) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/album/5tJjXZhkwWQYginKpNGFte) | 3:04 |
+| 55 | [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/2KQdxByLeH5HvuqG2MPbg7) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [96 Months](https://open.spotify.com/album/5uRY0boZn48gDio0ASlgI0) | 3:04 |
 | 56 | [Yellow](https://open.spotify.com/track/3cD2ynsSFxzAaDSYoH0nC1) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:36 |
 | 57 | [Red Bentley \(feat\. Young Thug\)](https://open.spotify.com/track/3fFBZvG777xoKyvcrBq7lc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Future & Juice WRLD Present..\. WRLD ON DRUGS](https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY) | 3:27 |
 | 58 | [More Than That](https://open.spotify.com/track/180WImKPbvdUrboKUov5f4) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [More Than That](https://open.spotify.com/album/5f1rhSMLYVduMx8B62dtPv) | 2:38 |
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 311 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 312 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbZFBAAAAACeAg6uTqS5vNHsdynDeDaZ`
+Snapshot ID: `AbZKpAAAAAAhkOzJahJXIuZoInwhronY`

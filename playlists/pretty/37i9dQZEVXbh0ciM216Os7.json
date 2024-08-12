@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAeR5k4mApgr7jibptjiIil",
+  "snapshot_id": "AAAAAAAAAADHb8xCQ5ZcDhU3YaPwCuII",
   "tracks": [
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+        "url": "https://open.spotify.com/album/5JNF1AS6WH5J7yUXmU4Syi"
       },
       "artists": [
         {
@@ -28,9 +28,9 @@
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 167228,
+      "duration_ms": 167213,
       "name": "FIELD TRIP",
-      "url": "https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u"
+      "url": "https://open.spotify.com/track/38yTBBKzhv6vPkMONXXtJx"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Trouble In Paradise",
         "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
       },
@@ -123,46 +139,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Shaolin Spitters",
-        "url": "https://open.spotify.com/album/02LZWN7zMbWfJp9DKh8XJj"
+        "name": "Colorful Cutlery",
+        "url": "https://open.spotify.com/album/093ezhBgkDlXiYoSvIItQe"
       },
       "artists": [
         {
-          "name": "Crazy Peppsta",
-          "url": "https://open.spotify.com/artist/0ogaGB0FYdH30wr2ymWkvs"
+          "name": "SARKASTIKJ",
+          "url": "https://open.spotify.com/artist/4dOk8QiMiIv280F6RKn8nr"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 194311,
-      "name": "Shaolin Spitters",
-      "url": "https://open.spotify.com/track/0vbBu4qlfhhVw8CiQTpgQR"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Speshal Methods",
-        "url": "https://open.spotify.com/album/1su23FuruHX4CT2pFy7sW4"
-      },
-      "artists": [
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Ti-Lar Bee",
-          "url": "https://open.spotify.com/artist/1cMcZRsQILT1SMFYOJpOKG"
-        }
-      ],
-      "duration_ms": 156450,
-      "name": "Speshal Methods",
-      "url": "https://open.spotify.com/track/1okiRo096A4lFAHSqaevSk"
+      "duration_ms": 142522,
+      "name": "Colorful Cutlery",
+      "url": "https://open.spotify.com/track/0w7FEMzLpwtZR04euj7OIf"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -191,6 +183,30 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Speshal Methods",
+        "url": "https://open.spotify.com/album/1su23FuruHX4CT2pFy7sW4"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Ti-Lar Bee",
+          "url": "https://open.spotify.com/artist/1cMcZRsQILT1SMFYOJpOKG"
+        }
+      ],
+      "duration_ms": 156450,
+      "name": "Speshal Methods",
+      "url": "https://open.spotify.com/track/1okiRo096A4lFAHSqaevSk"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Magnum Opus",
         "url": "https://open.spotify.com/album/5VsYXBUEUI2HZUGTnieZBf"
       },
@@ -211,18 +227,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Bright Lights",
-        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -243,22 +259,6 @@
       "duration_ms": 223862,
       "name": "Lost in Your Eyes (Solo Piano)",
       "url": "https://open.spotify.com/track/6hqXMeSe9Ecjvcj5Jj6gZe"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232804,
-      "name": "Young Rich & In Love - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -595,6 +595,26 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "3:AM (feat. Erykah Badu) [Live]",
+        "url": "https://open.spotify.com/album/3Xq6Ntngpm8Tlhkvz9XAOK"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 330500,
+      "name": "3:AM (feat. Erykah Badu) - Live",
+      "url": "https://open.spotify.com/track/6WhQTc9EZzLcWMNHetNSjj"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "the boy is mine",
         "url": "https://open.spotify.com/album/2isY5pnJX1gyNzqVg7EECt"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 212076,
       "name": "the boy is mine (with Brandy, Monica) \u2013 Remix a cappella",
       "url": "https://open.spotify.com/track/3IkYXPbjFyDRthPSEFApMr"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "3:AM (feat. Erykah Badu) [Live]",
-        "url": "https://open.spotify.com/album/3Xq6Ntngpm8Tlhkvz9XAOK"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 330500,
-      "name": "3:AM (feat. Erykah Badu) - Live",
-      "url": "https://open.spotify.com/track/6WhQTc9EZzLcWMNHetNSjj"
     },
     {
       "added_at": "2024-08-09 04:00:00",

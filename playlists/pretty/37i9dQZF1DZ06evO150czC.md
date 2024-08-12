@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,001 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,004 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 37 | [Shekinah](https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:46 |
 | 38 | [Lugar Seguro \(Ao Vivo\)](https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 4:34 |
 | 39 | [Entre Para o Templo](https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Entre Para o Templo](https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u) | 4:22 |
-| 40 | [500 Graus \- Drive In](https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [500 Graus \- Drive In](https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t) | 7:09 |
-| 41 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
+| 40 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
+| 41 | [500 Graus \- Drive In](https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [500 Graus \- Drive In](https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t) | 7:09 |
 | 42 | [Tá Chorando Por Quê? \(Ao Vivo\)](https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Rayssa Barros](https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:32 |
-| 43 | [Irresistível Glória](https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Irresistível Glória](https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw) | 4:35 |
-| 44 | [Mais Um Dia](https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Mais Um Dia](https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil) | 5:17 |
+| 43 | [Mais Um Dia](https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Mais Um Dia](https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil) | 5:17 |
+| 44 | [Irresistível Glória](https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Irresistível Glória](https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw) | 4:35 |
 | 45 | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y) | 4:31 |
 | 46 | [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:14 |
 | 47 | [Atos 2 \(Ao Vivo\)](https://open.spotify.com/track/46gZR9rY1vrujQsOm6Iflo) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Atos 2 \(Ao Vivo\)](https://open.spotify.com/album/2e1gED5YRJBQ3Pguz5jEAu) | 5:19 |
 | 48 | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE) | 5:25 |
-| 49 | [Desperta](https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Desperta](https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1) | 3:48 |
-| 50 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 |
+| 49 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 |
+| 50 | [Desperta](https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Desperta](https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1) | 3:48 |
 
-Snapshot ID: `ZrVcAAAAAABrSbMd3LNe0o3fSr33+7wD`
+Snapshot ID: `ZratgAAAAABZcQCXx9fqRr1kh49ZFOHk`

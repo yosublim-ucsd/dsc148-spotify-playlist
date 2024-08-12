@@ -11577,6 +11577,24 @@
     },
     {
       "album": {
+        "name": "DAMNSON",
+        "url": "https://open.spotify.com/album/0dYr6HaqEAALF0u2wx9XV2"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150943,
+      "name": "DAMNSON",
+      "url": "https://open.spotify.com/track/630ZXewu63FXyhoiKpO6tC"
+    },
+    {
+      "album": {
         "name": "The Idea of You (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA"
       },
@@ -12502,7 +12520,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
@@ -18858,7 +18876,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 205938,
       "name": "Girl, so confusing featuring lorde",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
@@ -57030,7 +57048,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 264214,
       "name": "Wonderful Nothing",
       "url": "https://open.spotify.com/track/6Lto2Xj8y0U2bes2hmRMZu"

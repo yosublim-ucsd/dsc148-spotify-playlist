@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Speed",
-  "num_followers": 467666,
+  "num_followers": 467676,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Mirror Muscles",
+        "url": "https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 163257,
+      "name": "Mirror Muscles",
+      "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 195608,
       "name": "Walk Alone",
       "url": "https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Mirror Muscles",
-        "url": "https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG"
-      },
-      "artists": [
-        {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
-        }
-      ],
-      "duration_ms": 163257,
-      "name": "Mirror Muscles",
-      "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Gift Horse",
+        "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Gift Horse",
+      "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "aftermath/afterthought",
         "url": "https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 162600,
       "name": "California Sober",
       "url": "https://open.spotify.com/track/7s5TCAqfDLMmOUqwsOXdId"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Gift Horse",
-        "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Gift Horse",
-      "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "3 DAY HEADACHE",
-        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 114284,
-      "name": "3 DAY HEADACHE",
-      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "The Mosaic",
         "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 213387,
       "name": "Final Words",
       "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/7wknILHOI4wqc7MowtsNI7"
     },
     {
-      "added_at": "2024-07-12 11:48:19",
-      "album": {
-        "name": "i hate people",
-        "url": "https://open.spotify.com/album/5C7vprfUvdSflev3jTfVHx"
-      },
-      "artists": [
-        {
-          "name": "jaydes",
-          "url": "https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv"
-        }
-      ],
-      "duration_ms": 91730,
-      "name": "i hate people",
-      "url": "https://open.spotify.com/track/0WyPJNy0BvwOynaFgwxNZl"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Get Down",
@@ -1083,6 +1067,22 @@
       "duration_ms": 219720,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
+    },
+    {
+      "added_at": "2024-07-12 11:48:19",
+      "album": {
+        "name": "i hate people",
+        "url": "https://open.spotify.com/album/5C7vprfUvdSflev3jTfVHx"
+      },
+      "artists": [
+        {
+          "name": "jaydes",
+          "url": "https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv"
+        }
+      ],
+      "duration_ms": 91730,
+      "name": "i hate people",
+      "url": "https://open.spotify.com/track/0WyPJNy0BvwOynaFgwxNZl"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Approachable",
-        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Approachable",
-      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "The Twits",
         "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 174521,
       "name": "worlds greatest emoter",
       "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Approachable",
+        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Approachable",
+      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 224899,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "What A Fucking Nightmare",
         "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "You're My Medicine",
-        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
       },
       "artists": [
         {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
         }
       ],
-      "duration_ms": 192682,
-      "name": "You're My Medicine",
-      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+      "duration_ms": 224899,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+        "name": "You're My Medicine",
+        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
       },
       "artists": [
         {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
         }
       ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
+      "duration_ms": 192682,
+      "name": "You're My Medicine",
+      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 184934,
       "name": "Girls!",
       "url": "https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     }
   ],
   "unique_name": "Today's Punk",

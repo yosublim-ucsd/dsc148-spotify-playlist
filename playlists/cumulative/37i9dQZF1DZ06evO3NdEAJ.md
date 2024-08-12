@@ -2,9 +2,9 @@
 
 ### [This Is La Fiera de Ojinaga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NdEAJ)
 
-> This Is La Fiera de Ojinaga\. Los temas esenciales, todos en una lista.
+> This is La Fiera de Ojinaga\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
 
-52 songs - 2 hr 36 min
+53 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Cuando Te Amé](https://open.spotify.com/track/6alHQAMsFdfVqKn7eO8nYF) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Cuando Te Amé](https://open.spotify.com/album/2b6qnwUwY9qjrss0YucU1O) | 4:02 | 2024-08-08 |  |
 | [Cuento las Horas](https://open.spotify.com/track/7tc7eQJbQEssPJBoB89gFw) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7.2](https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB) | 2:27 | 2024-08-08 |  |
 | [Duele](https://open.spotify.com/track/0ryQ7XtLxVMXPZ9VY94y8J) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas](https://open.spotify.com/album/1D1JE18eOkgQEaYqsf83nV) | 3:09 | 2024-08-08 |  |
+| [Eclipse](https://open.spotify.com/track/57pVaakpJ2asKjALpW7DyI) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Eclipse](https://open.spotify.com/album/58x41YRex4WzbE9zvzfaU5) | 2:05 | 2024-08-12 |  |
 | [El Mejor De Mis Días](https://open.spotify.com/track/2TiaN5xxTHxUT2jdKAJyP5) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [El Mejor de Mis Días](https://open.spotify.com/album/0GFG1VqrFrdhhZLqxQWZPF) | 3:01 | 2024-08-08 |  |
 | [Empezar Desde Cero](https://open.spotify.com/track/3ZO2h0YUr2Uft7G8w4k7Ru) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Empezar Desde Cero](https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh) | 3:20 | 2024-08-08 |  |
 | [En Otro Canal](https://open.spotify.com/track/4RqikhkkhOa5h3C2FPWFjZ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Otro Canal](https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90) | 3:15 | 2024-08-08 |  |
@@ -54,7 +55,7 @@
 | [Terco Corazón](https://open.spotify.com/track/7oNNBnCsaZCNsk3TNAH8o2) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Empezar Desde Cero](https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh) | 3:22 | 2024-08-08 |  |
 | [Un Amor Bonito](https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Trilogía, Vol\. 2](https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc) | 2:37 | 2024-08-08 |  |
 | [Vacío](https://open.spotify.com/track/3fxKox0e8TPyrIOiOC5Hkf) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos, Vol\. 2](https://open.spotify.com/album/7EesU3azH6jPG5osiPex59) | 2:46 | 2024-08-08 |  |
-| [Y Tú a Toda Madre](https://open.spotify.com/track/7bEfzjPeeY6sYFr2P4oOzz) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Trilogía, Vol\. 1](https://open.spotify.com/album/7jTWwmpVFs08W8wftoIC2B) | 3:14 | 2024-08-08 |  |
+| [Y Tú a Toda Madre](https://open.spotify.com/track/7bEfzjPeeY6sYFr2P4oOzz) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Trilogía, Vol\. 1](https://open.spotify.com/album/7jTWwmpVFs08W8wftoIC2B) | 3:14 | 2024-08-08 | 2024-08-12 |
 | [Ya No](https://open.spotify.com/track/2PHHXrlTLD7NAK66ExrZjq) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Empezar Desde Cero](https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh) | 2:44 | 2024-08-08 |  |
 | [Ya No Habrá Después](https://open.spotify.com/track/6lFRMSxWjXn0N4Qj2lAQqS) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Ya No Habrá Después](https://open.spotify.com/album/2Qcd2MQ9MkC2FDEtxSuuOJ) | 3:41 | 2024-08-08 |  |
 | [Ya No Te Quiero Querer](https://open.spotify.com/track/28yEy7OAKeiAZ1m0td8N3H) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7](https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4) | 2:50 | 2024-08-08 |  |

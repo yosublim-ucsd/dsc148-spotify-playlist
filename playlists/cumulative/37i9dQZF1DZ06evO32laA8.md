@@ -2,7 +2,7 @@
 
 ### [This Is Isabel LaRosa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO32laA8)
 
-> This is Isabel LaRosa\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Isabel LaRosa\. Los temas esenciales, todos en una lista.
 
 20 songs - 48 min 4 sec
 

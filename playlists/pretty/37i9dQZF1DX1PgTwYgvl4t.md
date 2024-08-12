@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=wGtUH00wTBaQMiSBC7lBZA>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,474 likes - 72 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,679 likes - 72 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

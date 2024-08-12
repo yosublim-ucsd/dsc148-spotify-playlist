@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa NOTO ja Mikael Gabriel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,109 likes - 51 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,123 likes - 51 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 122910,
+  "num_followers": 122955,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
+        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
+      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
         "name": "Masih Hatiku",
         "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
-      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
         "name": "Tampar",
         "url": "https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz"
       },
@@ -363,26 +363,6 @@
       "duration_ms": 202824,
       "name": "Tampar",
       "url": "https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
-        "name": "Bermuara",
-        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        },
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 287465,
-      "name": "Bermuara",
-      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -415,6 +395,26 @@
       "duration_ms": 205466,
       "name": "Secukupnya",
       "url": "https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Bermuara",
+        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 287465,
+      "name": "Bermuara",
+      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 235643,
+      "name": "Terlintas",
+      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
         "name": "Menyesal",
         "url": "https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
-        "name": "Terlintas",
-        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 235643,
-      "name": "Terlintas",
-      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
+        "name": "Setengah Mati Merindu",
+        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Aku Yang Tersakiti",
+      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
         "name": "Lagu Pernikahan Kita",
         "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 261476,
       "name": "Lagu Pernikahan Kita",
       "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
-        "name": "Setengah Mati Merindu",
-        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
-      },
-      "artists": [
-        {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Aku Yang Tersakiti",
-      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
     },
     {
       "added_at": "2024-07-25 17:00:00",

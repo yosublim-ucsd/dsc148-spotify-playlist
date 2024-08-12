@@ -2,7 +2,7 @@
 
 ### [This Is Los Tiranos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Pawqn)
 
-> This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
+> This Is Los Tiranos Del Norte\. Los temas esenciales, todos en una lista.
 
 88 songs - 4 hr 35 min
 
@@ -83,14 +83,14 @@
 | [Quisiera Amarte Menos](https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:36 | 2022-06-01 |  |
 | [Renunciacion](https://open.spotify.com/track/5C5rat4IzxN0DbEW0Lp6Hu) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 2:38 | 2022-06-01 | 2024-01-25 |
 | [Renunciacion](https://open.spotify.com/track/2iZSq7M0KmaCLJsPDvK8l3) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 2:56 | 2024-01-24 |  |
-| [Rosas Tristes](https://open.spotify.com/track/21gb8fPgoAR7V31dnqr0f0) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 2:37 | 2024-01-16 | 2024-06-18 |
+| [Rosas Tristes](https://open.spotify.com/track/21gb8fPgoAR7V31dnqr0f0) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 2:37 | 2024-01-16 |  |
 | [Sabor a Mi](https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 3:15 | 2022-06-01 |  |
 | [Se Me Hizo Facil](https://open.spotify.com/track/2aLcE8XA2Szi6lbhfeVBXW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 2:42 | 2022-06-01 | 2023-07-19 |
 | [Sentencia](https://open.spotify.com/track/0A68MP0eyN498lCVN1xi1s) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 3:12 | 2022-06-01 |  |
 | [Soy Un Idiota](https://open.spotify.com/track/3yXnPAGiq8MKG3Iyoi6m4t) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Recordando El Rey del Jaripeo](https://open.spotify.com/album/56kxugaFhb0Xb4siHyFNz9) | 3:30 | 2022-06-01 | 2022-10-26 |
 | [Te Pido y Te Ruego](https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Asomate a Mi Alma](https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph) | 2:54 | 2022-06-01 |  |
 | [Tragos Amargos](https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 2:44 | 2022-06-01 |  |
-| [Tu Maldad](https://open.spotify.com/track/5GHuhu0CHdccMRO1L6fNZa) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:15 | 2024-04-07 |  |
+| [Tu Maldad](https://open.spotify.com/track/5GHuhu0CHdccMRO1L6fNZa) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:15 | 2024-04-07 | 2024-08-12 |
 | [Un Dia A La Vez](https://open.spotify.com/track/238h81I9omBWy5aOI79iuJ) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mas Llegadoras](https://open.spotify.com/album/4AFzIdSy43aJ2Hk26O9MS7) | 3:17 | 2022-12-12 | 2023-01-16 |
 | [Un Engano Mas](https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:10 | 2022-06-03 |  |
 | [Vamos A Olvidarnos De Ella](https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Voy A Pedirte Perdón](https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6) | 3:28 | 2023-06-11 | 2023-08-08 |

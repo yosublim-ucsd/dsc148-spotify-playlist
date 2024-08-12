@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 101981,
+  "num_followers": 101974,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Quiet Eyes",
+        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 141451,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Hungarian Dances / Waltzes, Op. 39",
         "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 85706,
       "name": "16 Waltzes, Op. 39: No. 9 In D Minor",
       "url": "https://open.spotify.com/track/0BFXtfNDEYp9AkCIQIaa2J"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Quiet Eyes",
-        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 141451,
-      "name": "Quiet Eyes",
-      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Viaggi in aeromobile",
-        "url": "https://open.spotify.com/album/7gPDBvn3SRgtSmVFjqe6xI"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Paterlini",
-          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Soffia la notte",
-      "url": "https://open.spotify.com/track/3BfKUxdpnG24qXFYX2e5XU"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 165902,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Viaggi in aeromobile",
+        "url": "https://open.spotify.com/album/7gPDBvn3SRgtSmVFjqe6xI"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Soffia la notte",
+      "url": "https://open.spotify.com/track/3BfKUxdpnG24qXFYX2e5XU"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Plum Coulee",
-        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
-      },
-      "artists": [
-        {
-          "name": "Michael Janzen",
-          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Plum Coulee",
-      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Whirling sky",
         "url": "https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 169874,
       "name": "Whirling sky",
       "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Plum Coulee",
+        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
+      },
+      "artists": [
+        {
+          "name": "Michael Janzen",
+          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Plum Coulee",
+      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91"
-      },
-      "artists": [
-        {
-          "name": "Regina Mira",
-          "url": "https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C"
-        }
-      ],
-      "duration_ms": 119726,
-      "name": "The Winding Paths",
-      "url": "https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Unrequited",
         "url": "https://open.spotify.com/album/6TrZIMK6F5vNaw3Fpk18yb"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 126229,
       "name": "Unrequited",
       "url": "https://open.spotify.com/track/07tUhErHb7K8bdOcwyvbuK"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91"
+      },
+      "artists": [
+        {
+          "name": "Regina Mira",
+          "url": "https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C"
+        }
+      ],
+      "duration_ms": 119726,
+      "name": "The Winding Paths",
+      "url": "https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Kardelen",
-        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 167848,
-      "name": "Kardelen",
-      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Landscapes",
         "url": "https://open.spotify.com/album/3C7A7XuwIMVMyuCAZKtZ0x"
       },
@@ -1015,22 +999,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
-      },
-      "artists": [
-        {
-          "name": "Alec Windt",
-          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
-        }
-      ],
-      "duration_ms": 135261,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Compromise",
         "url": "https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo"
       },
@@ -1043,6 +1011,38 @@
       "duration_ms": 151784,
       "name": "Compromise",
       "url": "https://open.spotify.com/track/7kymECxyr5OUG87vGN1vB2"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Kardelen",
+        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 167848,
+      "name": "Kardelen",
+      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
+      },
+      "artists": [
+        {
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
+        }
+      ],
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Sameness of Phosphorus and Hesperus",
-        "url": "https://open.spotify.com/album/2ebbNEtIF6CRJpt1o7B2Kz"
-      },
-      "artists": [
-        {
-          "name": "Ave Air",
-          "url": "https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU"
-        }
-      ],
-      "duration_ms": 197678,
-      "name": "The Music Box",
-      "url": "https://open.spotify.com/track/0q4M2RzupQ3wszvQ6RhLZ5"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Adesso",
         "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 147000,
       "name": "Adesso",
       "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Sameness of Phosphorus and Hesperus",
+        "url": "https://open.spotify.com/album/2ebbNEtIF6CRJpt1o7B2Kz"
+      },
+      "artists": [
+        {
+          "name": "Ave Air",
+          "url": "https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU"
+        }
+      ],
+      "duration_ms": 197678,
+      "name": "The Music Box",
+      "url": "https://open.spotify.com/track/0q4M2RzupQ3wszvQ6RhLZ5"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1255,38 +1255,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Midnight Musette",
-        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
-      },
-      "artists": [
-        {
-          "name": "De Maynes",
-          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
-        }
-      ],
-      "duration_ms": 197084,
-      "name": "Midnight Musette",
-      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Omoidasu",
-        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 117892,
-      "name": "Omoidasu",
-      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Way Back Home",
         "url": "https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh"
       },
@@ -1323,6 +1291,38 @@
       "duration_ms": 606773,
       "name": "Mozart: Sonata for Two Pianos in D Major, K. 448: II. Andante",
       "url": "https://open.spotify.com/track/1sZPu1TAhwrGSSxThC0ZQF"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Midnight Musette",
+        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
+      },
+      "artists": [
+        {
+          "name": "De Maynes",
+          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
+        }
+      ],
+      "duration_ms": 197084,
+      "name": "Midnight Musette",
+      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Omoidasu",
+        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 117892,
+      "name": "Omoidasu",
+      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
-      },
-      "artists": [
-        {
-          "name": "Andrea Monet",
-          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Tient qu'a\u0300 un fil",
         "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "my first piano: Rondo",
-        "url": "https://open.spotify.com/album/7FgEC4hcKUaGwInuoeKfQo"
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
       },
       "artists": [
         {
-          "name": "BKE",
-          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
+          "name": "Andrea Monet",
+          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
         }
       ],
-      "duration_ms": 206369,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/01tRuWrspjX9qrrLqASycJ"
+      "duration_ms": 138000,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1483,6 +1467,22 @@
       "duration_ms": 148132,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "my first piano: Rondo",
+        "url": "https://open.spotify.com/album/7FgEC4hcKUaGwInuoeKfQo"
+      },
+      "artists": [
+        {
+          "name": "BKE",
+          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
+        }
+      ],
+      "duration_ms": 206369,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/01tRuWrspjX9qrrLqASycJ"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
-      },
-      "artists": [
-        {
-          "name": "Denise Santoz",
-          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Palette",
-      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Maiestas",
         "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 171452,
       "name": "Maiestas",
       "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
+      },
+      "artists": [
+        {
+          "name": "Denise Santoz",
+          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Palette",
+      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Upraise",
-        "url": "https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz"
-      },
-      "artists": [
-        {
-          "name": "Eleanor Neylan",
-          "url": "https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE"
-        }
-      ],
-      "duration_ms": 147288,
-      "name": "Upraise",
-      "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Before We Met",
         "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 113285,
       "name": "Before We Met",
       "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Upraise",
+        "url": "https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz"
+      },
+      "artists": [
+        {
+          "name": "Eleanor Neylan",
+          "url": "https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE"
+        }
+      ],
+      "duration_ms": 147288,
+      "name": "Upraise",
+      "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
     },
     {
       "added_at": "2023-03-12 10:18:38",

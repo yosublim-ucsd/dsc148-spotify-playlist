@@ -448,10 +448,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 346293,
       "name": "El Men\u00fa en Vivo",
       "url": "https://open.spotify.com/track/7dF41Y5HHJHruHkr0QxTQV"
+    },
+    {
+      "album": {
+        "name": "Ruben Blades Y Son Del Solar...Live!",
+        "url": "https://open.spotify.com/album/2U4HAfJgw4mYV9ILruwt3u"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526600,
+      "name": "El Padre Antonio - Live",
+      "url": "https://open.spotify.com/track/4RUalJiPWxAs6oCvWLfA7s"
     },
     {
       "album": {

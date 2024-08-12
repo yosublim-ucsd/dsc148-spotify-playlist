@@ -1,12 +1,12 @@
 {
-  "description": "This Is X Ambassadors. Los temas esenciales, todos en una lista.",
-  "num_followers": 54442,
+  "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
+  "num_followers": 54444,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAADq9I62icTZS088GPiESDok",
+  "snapshot_id": "ZratgAAAAAAqWKYdU8kyUX1s6437mhf0",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 177839,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "could've been you",
-        "url": "https://open.spotify.com/album/2zz2EbtweE5Msv4Af94UQA"
-      },
-      "artists": [
-        {
-          "name": "Sam Nelson",
-          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "could've been you",
-      "url": "https://open.spotify.com/track/5yPf9XMC1O1VG7IQ6O6jhf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 242213,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "could've been you",
+        "url": "https://open.spotify.com/album/2zz2EbtweE5Msv4Af94UQA"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "could've been you",
+      "url": "https://open.spotify.com/track/5yPf9XMC1O1VG7IQ6O6jhf"
     },
     {
       "added_at": null,

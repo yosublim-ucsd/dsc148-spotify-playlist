@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,581 songs - 3 day 13 hr 39 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,582 songs - 3 day 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1589,5 +1589,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1579 | [Click Clack](https://open.spotify.com/track/7xZxTn2Sk2D9ycdOgsAD75) | [Maintrex](https://open.spotify.com/artist/2pyKNQZFjG1WbOSpORBcMo) | [Knives Out](https://open.spotify.com/album/2d48WVelzwT3Ej75ndNKlx) | 2:09 |
 | 1580 | [Lost](https://open.spotify.com/track/4ceS71IWFwADuYbL325VHe) | [Kroefoe](https://open.spotify.com/artist/6wwyX4O6DpmoKjj333NCRP) | [Lost](https://open.spotify.com/album/1dlph7K5RTL1BkRuTCpZH3) | 3:21 |
 | 1581 | [A WAY TO YOUR HEART](https://open.spotify.com/track/1sM8uxd2RUI5F91aWx14TX) | [Ixper](https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN) | [ELECTRONIC UNIVERSE](https://open.spotify.com/album/7jgoChu3QvdSTfoaOmALU4) | 2:20 |
+| 1582 | [\#I\_WANNA\_DANCE\_ALL\_NIGHT](https://open.spotify.com/track/0luSQGmAEidjU6cuBFzjrl) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [\#I\_WANNA\_DANCE\_ALL\_NIGHT](https://open.spotify.com/album/4Oo9Pjv7iumcJQXp0Zbaxc) | 2:46 |
 
-Snapshot ID: `AAAGWk7p6qjEy2rLphoT5rxfvXkgNJEX`
+Snapshot ID: `AAAGW2B6URb5Eoh7iFsMSNHdWls2cgKv`

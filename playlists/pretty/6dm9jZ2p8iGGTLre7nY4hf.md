@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 
 > Break up songs, the best cure for a broken heart!
 
-[Filtr Norway](https://open.spotify.com/user/sonymusic) - 448,304 likes - 341 songs - 18 hr 43 min
+[Filtr Norway](https://open.spotify.com/user/sonymusic) - 448,282 likes - 341 songs - 18 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -313,7 +313,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 | 303 | [SOS](https://open.spotify.com/track/6p4KCy1eh253tyYdSa1TSx) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [SOS](https://open.spotify.com/album/18rHq7rLXWejPRWPjrIa6Z) | 3:41 |
 | 304 | [Balcony](https://open.spotify.com/track/5WOPkUg4SpTao68o8b5NTM) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver gang vi møtes](https://open.spotify.com/album/0NDb3wNSEuId1YUovYTTIr) | 2:54 |
 | 305 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 |
-| 306 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:49 |
+| 306 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \- Special Edition](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:49 |
 | 307 | [I Think We Need To Talk](https://open.spotify.com/track/1npcMYugvFdO0iiMt7Fz5a) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [I Think We Need To Talk](https://open.spotify.com/album/5j0qHca1fER4IVMuc12se1) | 2:59 |
 | 308 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 |
 | 309 | [the long way home \(feat\. Sara Kays & Sarcastic Sounds\)](https://open.spotify.com/track/3y4MGDUBfiRtdRAynxouy6) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [the long way home \(feat\. Sara Kays & Sarcastic Sounds\)](https://open.spotify.com/album/0a0Y0BEwYv8F1e81xuNiSc) | 3:09 |

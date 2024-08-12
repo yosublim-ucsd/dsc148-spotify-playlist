@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 
 ### [This Is Led Zeppelin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NyWWI)
 
-> This is Led Zeppelin\. The essential tracks, all in one playlist.
+> This Is Led Zeppelin\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,606 likes - 49 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,728 likes - 49 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 34 | [Travelling Riverside Blues \(BBC Session\) \- Remastered](https://open.spotify.com/track/3dCarMp6T3GsKCspJgeD0a) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Coda \(Deluxe Edition\)](https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd) | 5:11 |
 | 35 | [I Can't Quit You Baby \- 1990 Remaster](https://open.spotify.com/track/62QInSlXQI11BR9ycVWjd6) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 4:42 |
 | 36 | [The Song Remains the Same \- Remaster](https://open.spotify.com/track/2e61kmae4HhbuS9hYONQ0A) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 5:29 |
-| 37 | [Gallows Pole \- Remaster](https://open.spotify.com/track/4S2QZuPFZ9qeHW2sonMJS1) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:57 |
-| 38 | [The Battle of Evermore \- Remaster](https://open.spotify.com/track/6KCjY5kHvgWaWcAV6BBzxO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 5:51 |
+| 37 | [The Battle of Evermore \- Remaster](https://open.spotify.com/track/6KCjY5kHvgWaWcAV6BBzxO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 5:51 |
+| 38 | [Gallows Pole \- Remaster](https://open.spotify.com/track/4S2QZuPFZ9qeHW2sonMJS1) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:57 |
 | 39 | [Bron\-Yr\-Aur \- Remaster](https://open.spotify.com/track/5rgWj8h7lzbSmwpp0wFkXD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 2:06 |
 | 40 | [Nobody's Fault but Mine \- Remaster](https://open.spotify.com/track/6unmtLYQ2LQ1Cg4IdAiU9g) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Presence \(Remaster\)](https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u) | 6:28 |
 | 41 | [Your Time Is Gonna Come \- Remaster](https://open.spotify.com/track/5RPiBNQVmuEm7YlVVotrLa) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin \(Remaster\)](https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU) | 4:34 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 48 | [The Crunge \- Remaster](https://open.spotify.com/track/7IgBLFklu75pp8Y1vphChS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 3:17 |
 | 49 | [Hot Dog \- Remaster](https://open.spotify.com/track/5K2yYEoc9ljOlzoMnhQSgm) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 3:18 |
 
-Snapshot ID: `ZrVcAAAAAAAqwHLvXIuQ/Sbc/ALwctiW`
+Snapshot ID: `ZratgAAAAACOi60IH3sfiFpMtXI9v9Ra`

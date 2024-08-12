@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Skepta, R2R More
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,516 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,514 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 56 | [Quarter Past 3](https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Unfinished Business](https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v) | 2:55 |
 | 57 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 | 58 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
-| 59 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq) | 3:33 |
-| 60 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 |
+| 59 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 |
+| 60 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq) | 3:33 |
 
 Snapshot ID: `Zn3t1QAAAAATKK4GW7FeQVToMtU5JtHe`

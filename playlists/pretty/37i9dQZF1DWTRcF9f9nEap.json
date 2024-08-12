@@ -1,6 +1,6 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 98414,
+  "num_followers": 98480,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 162933,
-      "name": "I Can't Be Satisfied",
-      "url": "https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
         "name": "You Gotta Move",
         "url": "https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 200666,
       "name": "You Gotta Move",
       "url": "https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 162933,
+      "name": "I Can't Be Satisfied",
+      "url": "https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "The 1971 Fillmore East Recordings",
-        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
         "name": "TajMo",
         "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 268346,
       "name": "Diving Duck Blues",
       "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "The 1971 Fillmore East Recordings",
+        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -251,38 +251,6 @@
       "duration_ms": 293960,
       "name": "Ground On Down",
       "url": "https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 192661,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
-        "name": "Hittin' the Note",
-        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 372560,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -355,6 +323,38 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
+        "name": "Hittin' the Note",
+        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 372560,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 192661,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 269600,
       "name": "Give It Up or Let Me Go - 2008 Remaster",
       "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -451,22 +435,6 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 135106,
-      "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
-      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -515,22 +483,6 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "Best - Southern Blues",
-        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
-      },
-      "artists": [
-        {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Taylor's Rock",
-      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
       },
@@ -547,18 +499,34 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "At The Crossroads: The Blues Of Robert Johnson",
-        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
       },
       "artists": [
         {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 268133,
-      "name": "Sweet Home Chicago",
-      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "Best - Southern Blues",
+        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Taylor's Rock",
+      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -575,6 +543,22 @@
       "duration_ms": 177026,
       "name": "My Heart Beat Like a Hammer",
       "url": "https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "At The Crossroads: The Blues Of Robert Johnson",
+        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "duration_ms": 268133,
+      "name": "Sweet Home Chicago",
+      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -655,6 +639,22 @@
       "duration_ms": 259533,
       "name": "Death Letter Blues",
       "url": "https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 135106,
+      "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
+      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
     },
     {
       "added_at": "2024-06-04 07:19:26",

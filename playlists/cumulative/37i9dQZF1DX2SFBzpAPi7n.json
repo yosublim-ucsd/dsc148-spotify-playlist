@@ -2891,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "dried flower",
+        "url": "https://open.spotify.com/album/2I3cgfx30fAcg5OPyLRWmC"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "dried flower",
+      "url": "https://open.spotify.com/track/00lg2EJeEw5SQbqtLWrGOz"
+    },
+    {
+      "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
       },
@@ -9869,6 +9887,28 @@
     },
     {
       "album": {
+        "name": "SLOW",
+        "url": "https://open.spotify.com/album/4gWygxgd6ECSQvnFyu0sAX"
+      },
+      "artists": [
+        {
+          "name": "Big Ocean",
+          "url": "https://open.spotify.com/artist/0ly1nCJ50by9Vc0UxPHvwY"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180813,
+      "name": "SLOW (Feat. Young K (DAY6))",
+      "url": "https://open.spotify.com/track/6sjceL2bHRC67mZB1p7h2n"
+    },
+    {
+      "album": {
         "name": "2023 S/S Collection",
         "url": "https://open.spotify.com/album/14rWn1Avz7BP7r0zScLz0n"
       },
@@ -11708,7 +11748,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 187680,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/4TMVuENexY9u0083CqMphE"

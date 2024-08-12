@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc83\ud83c\udffd\ud83d\udd7a\ud83c\udffc\ud83e\ude87\ud83c\udfba\ud83e\ude98",
-  "num_followers": 36667,
+  "num_followers": 36684,
   "original_name": "Full Tropical",
   "owner": {
     "name": "Spotify",
@@ -243,26 +243,6 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
-    },
-    {
-      "added_at": "2024-06-14 18:45:21",
-      "album": {
         "name": "Entre Beso y Beso",
         "url": "https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a"
       },
@@ -279,26 +259,22 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
-        "name": "Mentiras | CROSSOVER #3",
-        "url": "https://open.spotify.com/album/1adrM169dtUitpsQomXsX3"
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
       "artists": [
         {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Mentiras | CROSSOVER #3",
-      "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
     },
     {
       "added_at": "2024-06-14 18:45:21",
@@ -335,6 +311,30 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
+        "name": "Mentiras | CROSSOVER #3",
+        "url": "https://open.spotify.com/album/1adrM169dtUitpsQomXsX3"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Mentiras | CROSSOVER #3",
+      "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
+    },
+    {
+      "added_at": "2024-06-14 18:45:21",
+      "album": {
         "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
       },
@@ -351,22 +351,6 @@
       "duration_ms": 192698,
       "name": "Carita de Inocente (feat. Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
-    },
-    {
-      "added_at": "2024-06-14 18:45:21",
-      "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2024-06-14 18:45:21",
@@ -391,6 +375,22 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
+    },
+    {
+      "added_at": "2024-06-14 18:45:21",
+      "album": {
         "name": "Ahi Ahi",
         "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
       },
@@ -403,6 +403,26 @@
       "duration_ms": 176796,
       "name": "Ahi Ahi",
       "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
+    },
+    {
+      "added_at": "2024-06-14 18:45:21",
+      "album": {
+        "name": "Otro D\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+        }
+      ],
+      "duration_ms": 202342,
+      "name": "Otro D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
     },
     {
       "added_at": "2024-06-14 18:45:21",
@@ -459,42 +479,18 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
-        "name": "Otro D\u00eda M\u00e1s",
-        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
+        "name": "Te Sigo Enamorando",
+        "url": "https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
         }
       ],
-      "duration_ms": 202342,
-      "name": "Otro D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
-    },
-    {
-      "added_at": "2024-06-14 18:45:21",
-      "album": {
-        "name": "Morfina (feat. Paloma Mami)",
-        "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 229474,
-      "name": "Morfina (feat. Paloma Mami)",
-      "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
+      "duration_ms": 311080,
+      "name": "Te hubieras ido antes",
+      "url": "https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU"
     },
     {
       "added_at": "2024-06-14 18:45:21",
@@ -519,34 +515,22 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
-        "name": "Te Sigo Enamorando",
-        "url": "https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ"
+        "name": "Morfina (feat. Paloma Mami)",
+        "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
       },
       "artists": [
         {
-          "name": "Huguito Flores el Super",
-          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
-        }
-      ],
-      "duration_ms": 311080,
-      "name": "Te hubieras ido antes",
-      "url": "https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU"
-    },
-    {
-      "added_at": "2024-06-14 18:45:21",
-      "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ"
-      },
-      "artists": [
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
         {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
         }
       ],
-      "duration_ms": 220753,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
+      "duration_ms": 229474,
+      "name": "Morfina (feat. Paloma Mami)",
+      "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
     },
     {
       "added_at": "2024-06-14 18:45:21",
@@ -591,22 +575,6 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 236973,
-      "name": "El Embrujo",
-      "url": "https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg"
-    },
-    {
-      "added_at": "2024-06-14 18:45:21",
-      "album": {
         "name": "Por Dios Que No",
         "url": "https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN"
       },
@@ -623,6 +591,38 @@
       "duration_ms": 168189,
       "name": "Por Dios Que No",
       "url": "https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd"
+    },
+    {
+      "added_at": "2024-06-14 18:45:21",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 236973,
+      "name": "El Embrujo",
+      "url": "https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg"
+    },
+    {
+      "added_at": "2024-06-14 18:45:21",
+      "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 220753,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
     },
     {
       "added_at": "2024-06-14 18:45:21",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 251280,
+      "name": "Que Ironia",
+      "url": "https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc"
+    },
+    {
+      "added_at": "2024-06-14 18:45:21",
+      "album": {
         "name": "SIN TI",
         "url": "https://open.spotify.com/album/5fWYCPqDrOopoTPAPbyzDK"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 251280,
-      "name": "Que Ironia",
-      "url": "https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc"
-    },
-    {
-      "added_at": "2024-06-14 18:45:21",
-      "album": {
         "name": "200 Copas",
         "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 237738,
       "name": "200 Copas",
       "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
+    },
+    {
+      "added_at": "2024-06-14 18:45:21",
+      "album": {
+        "name": "Lo Mejor del Le\u00f3n",
+        "url": "https://open.spotify.com/album/2whwckDILym1HJqJAH971i"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 68560,
+      "name": "Carta Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/32Fd3j4mqUBJ3w2LGMTmNK"
     },
     {
       "added_at": "2024-06-14 18:45:21",
@@ -815,22 +831,6 @@
       "duration_ms": 207760,
       "name": "Muchacha Sola",
       "url": "https://open.spotify.com/track/2aJTAFg1QZ4o7ftICW3Zcu"
-    },
-    {
-      "added_at": "2024-06-14 18:45:21",
-      "album": {
-        "name": "Lo Mejor del Le\u00f3n",
-        "url": "https://open.spotify.com/album/2whwckDILym1HJqJAH971i"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 68560,
-      "name": "Carta Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/32Fd3j4mqUBJ3w2LGMTmNK"
     },
     {
       "added_at": "2024-06-14 18:45:21",

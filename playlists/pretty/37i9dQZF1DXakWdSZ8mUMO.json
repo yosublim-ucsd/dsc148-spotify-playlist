@@ -1,6 +1,6 @@
 {
   "description": "Voc\u00ea n\u00e3o para quando est\u00e1 cansado, s\u00f3 quando terminar!",
-  "num_followers": 2228,
+  "num_followers": 2244,
   "original_name": "Pegando Pesado",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 204733,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Papercut",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "I'm Broken",
+      "url": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 252002,
       "name": "The Vengeful One",
       "url": "https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "I'm Broken",
-      "url": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Disgusting",
-        "url": "https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 213576,
-      "name": "In Between",
-      "url": "https://open.spotify.com/track/03jdl5GTBhKsgB1Yw8mVPh"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Tonight The Stars Revolt",
         "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 177960,
       "name": "When Worlds Collide",
       "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Disgusting",
+        "url": "https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 213576,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/03jdl5GTBhKsgB1Yw8mVPh"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Alive - Chris Lord-Alge Mix",
-      "url": "https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 280466,
       "name": "Joker And The Thief",
       "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Alive - Chris Lord-Alge Mix",
+      "url": "https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Hydrograd",
-        "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Song #3",
-      "url": "https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "As Daylight Dies (Special Edition)",
         "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 250253,
       "name": "Holy Diver",
       "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Hydrograd",
+        "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Song #3",
+      "url": "https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Threat to Survival",
-        "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "State of My Head",
-      "url": "https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "The Sickness (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 278706,
       "name": "Down with the Sickness",
       "url": "https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Threat to Survival",
+        "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "State of My Head",
+      "url": "https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Judas",
-        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
-      },
-      "artists": [
-        {
-          "name": "Fozzy",
-          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
-        }
-      ],
-      "duration_ms": 250792,
-      "name": "Judas",
-      "url": "https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "The Black and White album",
         "url": "https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 205386,
       "name": "Tick Tick Boom",
       "url": "https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        }
+      ],
+      "duration_ms": 250792,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8"
     },
     {
       "added_at": "2024-07-05 13:31:30",

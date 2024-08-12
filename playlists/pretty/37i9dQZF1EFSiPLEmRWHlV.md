@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 122 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 122 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 62 | [Give It To Me Good](https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Give It To Me Good](https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT) | 2:49 |
 | 63 | [Think It Over](https://open.spotify.com/track/3o5Np7dRn95xMVeLc4xSc3) | [Toyboy & Robin](https://open.spotify.com/artist/5vJKpAzRCVrkjgTYKy1fDG) | [Think It Over](https://open.spotify.com/album/0YR2su2ee5ZoteRQAUESYj) | 2:40 |
 | 64 | [Ice Tea](https://open.spotify.com/track/3ipskVxqlZ1YATVgAe1xvy) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ice Tea \(Huxley Remix\)](https://open.spotify.com/album/7frIC2ydIyUQFxeAjgEeDf) | 4:34 |
-| 65 | [Enchanté \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6ZvWa14rXQKpqNMVO0hIXD) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Enchanté \(feat\. Clementine Douglas\)](https://open.spotify.com/album/0LwP3EebCvMfaKK6KRot1f) | 2:46 |
-| 66 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 |
+| 65 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 |
+| 66 | [Enchanté \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6ZvWa14rXQKpqNMVO0hIXD) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Enchanté \(feat\. Clementine Douglas\)](https://open.spotify.com/album/0LwP3EebCvMfaKK6KRot1f) | 2:46 |
 | 67 | [99 Degrees](https://open.spotify.com/track/7EafWuZIL2L0TWAUueBZSd) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [99 Degrees](https://open.spotify.com/album/2cmGrBYepfMbcHvMp93c3K) | 2:35 |
 | 68 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
 | 69 | [Mercy](https://open.spotify.com/track/2YaGzHnKiOaUJx0FlxbFuK) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Mercy](https://open.spotify.com/album/57ddBwsqBKwxVQdyAf0gvQ) | 4:12 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 95 | [You Could Be The One](https://open.spotify.com/track/0VOL1UznKwKTTbAqNsG3pM) | [Tagavaka](https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy) | [Extrapolate EP](https://open.spotify.com/album/3g9sgL0uyNptqTgNowIF3R) | 3:15 |
 | 96 | [Tell Me Where](https://open.spotify.com/track/338rDlKC6cSQ1hT3scDyrK) | [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [Puzzles](https://open.spotify.com/album/2tRCZOp6egFlp7ZINBNuaW) | 3:55 |
 | 97 | [Faith In You](https://open.spotify.com/track/0LAcW6CIofoZO6s7mL9ziT) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Faith In You & It Ain’t Over](https://open.spotify.com/album/3erx7l9SWRzrMlh9GVBGr9) | 3:12 |
-| 98 | [When the Night Is Over](https://open.spotify.com/track/3u5JhMHnFrkNlROhDYgqSP) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:37 |
-| 99 | [Right Direction](https://open.spotify.com/track/0thgGzOsrXtd4LvmbvOyx4) | [Gok Wan](https://open.spotify.com/artist/6QZpNKFFfeDnT0mC2yxszE) | [Right Direction](https://open.spotify.com/album/0SjCHCGfMup38P8YhMQPOS) | 3:34 |
+| 98 | [Right Direction](https://open.spotify.com/track/0thgGzOsrXtd4LvmbvOyx4) | [Gok Wan](https://open.spotify.com/artist/6QZpNKFFfeDnT0mC2yxszE) | [Right Direction](https://open.spotify.com/album/0SjCHCGfMup38P8YhMQPOS) | 3:34 |
+| 99 | [When the Night Is Over](https://open.spotify.com/track/3u5JhMHnFrkNlROhDYgqSP) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:37 |
 | 100 | [Forever](https://open.spotify.com/track/6nMvkTsBjuShwRbLcgVwwE) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 3:18 |
 | 101 | [Hold On](https://open.spotify.com/track/1Bj286OtRqZeE87Y4JHS2U) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Hold On](https://open.spotify.com/album/03t57S3XQ8hJEOvlcqxbry) | 2:54 |
 | 102 | [Forever](https://open.spotify.com/track/3AiyGGOgTyx6QmzQUrXJeO) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Forever](https://open.spotify.com/album/1t96mIM5YRX4sowjHXRt9I) | 2:53 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 121 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 122 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AbZE/gAAAADw4IgfT7T/sX0lwn8OvrG/`
+Snapshot ID: `AbZKngAAAADa0vJvv+PGq4PRIJ9I79xS`

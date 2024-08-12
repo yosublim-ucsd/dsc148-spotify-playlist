@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 138189,
+  "num_followers": 138224,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,18 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Oh My (feat. Moby)",
-        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
+        "name": "DEVOTION",
+        "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
       },
       "artists": [
         {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 160116,
-      "name": "Oh My (feat. Moby)",
-      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
+      "duration_ms": 231978,
+      "name": "DEVOTION",
+      "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -219,18 +211,26 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "DEVOTION",
-        "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
+        "name": "Oh My (feat. Moby)",
+        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 231978,
-      "name": "DEVOTION",
-      "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
+      "duration_ms": 160116,
+      "name": "Oh My (feat. Moby)",
+      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/1iiXBkAFITzUQhBiuYqWQh"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/78CrWTmzkDNQodFtV6kJIa"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -563,42 +563,6 @@
       "duration_ms": 183663,
       "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
       "url": "https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Strangers (with Mansionair)",
-        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 217390,
-      "name": "Strangers (with Mansionair)",
-      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -643,18 +607,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Oceanside Girl",
-        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+        "name": "Strangers (with Mansionair)",
+        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
       },
       "artists": [
         {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
         }
       ],
-      "duration_ms": 319551,
-      "name": "Oceanside Girl",
-      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+      "duration_ms": 217390,
+      "name": "Strangers (with Mansionair)",
+      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -675,6 +643,38 @@
       "duration_ms": 208375,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Oceanside Girl",
+        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "duration_ms": 319551,
+      "name": "Oceanside Girl",
+      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Function",
-        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Jordan Dennis",
-          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
-        }
-      ],
-      "duration_ms": 197639,
-      "name": "Function",
-      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "I Want You (feat. Darren Hayes)",
         "url": "https://open.spotify.com/album/1d2QuGwi7Rt8LgBVu7krvW"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 172657,
       "name": "I Want You (feat. Darren Hayes)",
       "url": "https://open.spotify.com/track/08C8eHg9dK6m3846bm3100"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Jordan Dennis",
+          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+        }
+      ],
+      "duration_ms": 197639,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "We Don\u2019t Ever Stop",
         "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 209849,
       "name": "The World",
       "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Gimme Some More (feat. Shungudzo)",
-        "url": "https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        }
-      ],
-      "duration_ms": 225558,
-      "name": "Gimme Some More (feat. Shungudzo)",
-      "url": "https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "TOMMY",
         "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 166254,
       "name": "Since I Don't Have You - Dual Remix",
       "url": "https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Gimme Some More (feat. Shungudzo)",
+        "url": "https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        }
+      ],
+      "duration_ms": 225558,
+      "name": "Gimme Some More (feat. Shungudzo)",
+      "url": "https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Medium",
-        "url": "https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G"
-      },
-      "artists": [
-        {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
-        }
-      ],
-      "duration_ms": 238201,
-      "name": "Medium",
-      "url": "https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Feel It (Claptone Remix)",
         "url": "https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 200813,
       "name": "Feel It - Claptone Remix",
       "url": "https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Medium",
+        "url": "https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "duration_ms": 238201,
+      "name": "Medium",
+      "url": "https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA"
     }
   ],
   "unique_name": "Sunday Sessions",

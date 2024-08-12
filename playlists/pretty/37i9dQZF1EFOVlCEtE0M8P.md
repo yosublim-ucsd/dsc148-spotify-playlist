@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134 likes - 227 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135 likes - 227 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 64 | [Crush](https://open.spotify.com/track/4onuVDT23p1Bhl1Joc02td) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:24 |
 | 65 | [Golden](https://open.spotify.com/track/1NNC8uW0IONRYeJY5Cxkzv) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 3:06 |
 | 66 | [Got Me Good](https://open.spotify.com/track/7lnstd8OHaElCb7sYaEowv) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Paradise](https://open.spotify.com/album/03Yllu3HFB47OsZBQ7PSFs) | 2:54 |
-| 67 | [evergone](https://open.spotify.com/track/1JZmfbQ2ZpZ2YwnMXe03O9) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:29 |
-| 68 | [Bad for You](https://open.spotify.com/track/68njXuc0Fj7kzR70Ad0Wav) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:52 |
+| 67 | [Bad for You](https://open.spotify.com/track/68njXuc0Fj7kzR70Ad0Wav) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:52 |
+| 68 | [evergone](https://open.spotify.com/track/1JZmfbQ2ZpZ2YwnMXe03O9) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:29 |
 | 69 | [Ghost \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/track/5ZIJUowkhcLukruA52sfDI) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Distinction EP](https://open.spotify.com/album/0xiqgV5gVnjsKVWpBqXyaO) | 3:37 |
 | 70 | [Sail On](https://open.spotify.com/track/5NDRTL8mInUZHpWRQz72Jx) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:46 |
 | 71 | [Rabbit Hole](https://open.spotify.com/track/0BFGclich9JXVCAS79P793) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Rabbit Hole](https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx) | 2:59 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 125 | [Kill For You](https://open.spotify.com/track/0BuW1JbaKtMpAxLyjpHf9n) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:44 |
 | 126 | [Oh My God](https://open.spotify.com/track/1DJ4xfLYFfJ5FIYVMsyigX) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:44 |
 | 127 | [The Man](https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:47 |
-| 128 | [Off My Mind](https://open.spotify.com/track/5j04PtFqIYTitAIVINjhOz) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:09 |
-| 129 | [Glue](https://open.spotify.com/track/4EbwhvDv0TFLN7SjuOUjym) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 5:17 |
+| 128 | [Glue](https://open.spotify.com/track/4EbwhvDv0TFLN7SjuOUjym) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 5:17 |
+| 129 | [Off My Mind](https://open.spotify.com/track/5j04PtFqIYTitAIVINjhOz) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:09 |
 | 130 | [Some People](https://open.spotify.com/track/32PhQGVwurZaoJrCvrh0nl) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Take Me To The Disco](https://open.spotify.com/album/1R5NwXzxNPMFcUQAeh0Tfn) | 3:56 |
 | 131 | [Love Burning Alive](https://open.spotify.com/track/3EixVTTtetiZbDX40ODLoV) | [Lena Fayre](https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ) | [Lena Fayre \- EP](https://open.spotify.com/album/0vo0tNvOdKdVd0etko25Iw) | 3:55 |
 | 132 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 156 | [Cool Kids](https://open.spotify.com/track/6T5Rkd2NoDGvnXePIuhUIM) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Cool Kids](https://open.spotify.com/album/10rY4reBXP4FoZqkfslzUg) | 2:59 |
 | 157 | [Something Better](https://open.spotify.com/track/4dhKiwTcdoM5itwNklLp00) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/2msBvZC5EUxnYRpQ5UfE8i) | 3:55 |
 | 158 | [Mississippi](https://open.spotify.com/track/6YLRLilsZL2fyuKyQD3kEq) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High & Low](https://open.spotify.com/album/3aHniWCq391zmVHUc7zBew) | 3:47 |
-| 159 | [Silhouette](https://open.spotify.com/track/4wcorOXxuMhJsOk91rhyRn) | [PHASES](https://open.spotify.com/artist/29oC50T8bu88migNloxhgT) | [For Life](https://open.spotify.com/album/3sZRAH3tWQUpABforap1oV) | 3:55 |
-| 160 | [Cry Baby](https://open.spotify.com/track/34CBLV8ypdoSsYZ5aMcbxc) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:23 |
+| 159 | [Cry Baby](https://open.spotify.com/track/34CBLV8ypdoSsYZ5aMcbxc) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:23 |
+| 160 | [Silhouette](https://open.spotify.com/track/4wcorOXxuMhJsOk91rhyRn) | [PHASES](https://open.spotify.com/artist/29oC50T8bu88migNloxhgT) | [For Life](https://open.spotify.com/album/3sZRAH3tWQUpABforap1oV) | 3:55 |
 | 161 | [Kiss Me](https://open.spotify.com/track/1RMYwkxY1v6RryYIbfDHjY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:34 |
 | 162 | [Magic](https://open.spotify.com/track/0OinzPSjK2fSJwjRsAlJMn) | [Mark Owen](https://open.spotify.com/artist/1NCH3NhzIufLfHz32GLAzM) | [Land of Dreams](https://open.spotify.com/album/1M9ejv6LWxnhdioucmyaAn) | 3:40 |
 | 163 | [people like you](https://open.spotify.com/track/28bqKJ8P2akWe6Q1hf3x37) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:32 |
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 226 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 227 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `AbZFAwAAAACjT1cGIiofS14nWfgDfyKW`
+Snapshot ID: `AbZKowAAAAAfGCz3isOQB3dT6i65arof`

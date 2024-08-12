@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Amy Shark
 
-1,232 songs - 2 day 15 hr 44 min
+1,233 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,6 +757,7 @@
 | [Next Life](https://open.spotify.com/track/4CtJtSBoDfcqv9DIRujDVi) | [Gia Darcy](https://open.spotify.com/artist/5asUNjuXqcxAs2PmpQxGK1) | [Next Life](https://open.spotify.com/album/5qKc0kl8jExxLqzq8ermHA) | 3:19 | 2024-04-25 | 2024-05-24 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-23 | 2024-06-21 |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz) | 3:03 | 2023-06-26 | 2023-08-05 |
+| [NIGHTS LIKE THIS PT 2](https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:46 | 2024-08-12 |  |
 | [Nirvana](https://open.spotify.com/track/0B2Ox309UPBFIpa87Wpa2N) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Nirvana](https://open.spotify.com/album/5vlnjPKl74RRBj6aD9aspg) | 2:46 | 2023-08-04 | 2023-09-29 |
 | [No Angels](https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:28 | 2024-03-14 | 2024-04-05 |
 | [No Man's Land](https://open.spotify.com/track/68HjC78NoNtXkpfse3vwcK) | [ASHY](https://open.spotify.com/artist/6c47JwRK2Sd1zeisuIgKhO) | [Status](https://open.spotify.com/album/3lZpCFlqJ4uMU4qSa0yfPw) | 2:40 | 2023-06-15 | 2023-06-23 |

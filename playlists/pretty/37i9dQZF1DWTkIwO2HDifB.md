@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > É Qu Eu Te Sarrei e os funks mais 🔑 do Brasil\. Foto: Mc Arizinho, DJ THG, Tavin
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,378,074 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,378,505 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

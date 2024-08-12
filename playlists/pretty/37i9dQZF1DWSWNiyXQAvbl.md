@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,394 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,478 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 26 | [I Can See Clearly Now](https://open.spotify.com/track/30SCXVFyQGOFMdKnbgJS18) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [The Best Of](https://open.spotify.com/album/0aBgqFsQmUQGw8emDAjNt4) | 2:46 |
 | 27 | [The First Cut Is the Deepest](https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [A Night on the Town](https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd) | 4:31 |
 | 28 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
-| 29 | [Sylvia's Mother](https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Doctor Hook](https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm) | 3:48 |
-| 30 | [Fooled Around And Fell In Love](https://open.spotify.com/track/6BJTagJUFeUxHpVWxTmatw) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 4:34 |
+| 29 | [Fooled Around And Fell In Love](https://open.spotify.com/track/6BJTagJUFeUxHpVWxTmatw) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 4:34 |
+| 30 | [Sylvia's Mother](https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Doctor Hook](https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm) | 3:48 |
 | 31 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 |
 | 32 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5I9zIwGB6f0edpjO5oX2b9) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Escape...The Best Of](https://open.spotify.com/album/1DNXVmeXx7p959XvA3LtV8) | 4:35 |
 | 33 | [Make It with You](https://open.spotify.com/track/11gfsr13S8qsfN48IILcHU) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [The Best of Bread](https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx) | 3:12 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 60 | [My Sweet Lord](https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered\)](https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M) | 4:41 |
 | 61 | [Take Me Home, Country Roads \- Rerecorded](https://open.spotify.com/track/2xYlyywNgefLCRDG8hlxZq) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol\. 1: Take Me Home Country Roads](https://open.spotify.com/album/5erROp1lRW31aNxj9PbAUf) | 3:17 |
 | 62 | [Superstition \- Single Version](https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number Ones](https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz) | 4:04 |
-| 63 | [Give A Little Bit](https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments \(Remastered\)](https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU) | 4:08 |
-| 64 | [Wonderful Tonight](https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G) | 3:45 |
-| 65 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies \(Remastered\)](https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x) | 4:35 |
+| 63 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies \(Remastered\)](https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x) | 4:35 |
+| 64 | [Give A Little Bit](https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments \(Remastered\)](https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU) | 4:08 |
+| 65 | [Wonderful Tonight](https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G) | 3:45 |
 | 66 | [Jamming](https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG) | 3:31 |
 | 67 | [Sweet Home Alabama](https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Lynyrd Skynyrd \- Rock Legends](https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC) | 4:45 |
 | 68 | [Easy](https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/0TcKS5p50aNE2c0Zuhs3Zl) | 4:16 |

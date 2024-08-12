@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Gabriela",
-  "num_followers": 434604,
+  "num_followers": 434610,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Resposta",
-        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "Resposta",
-      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "Encantos Mil",
         "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
       },
@@ -343,6 +327,26 @@
       "duration_ms": 168637,
       "name": "Encantos Mil",
       "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Carinha De Problema",
+        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Carinha De Problema",
+      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -375,26 +379,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Carinha De Problema",
-        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 163258,
-      "name": "Carinha De Problema",
-      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "Saudade Sussurrou",
         "url": "https://open.spotify.com/album/5f1AUvrMH7HcBKRVBassaD"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 175771,
       "name": "Saudade Sussurrou",
       "url": "https://open.spotify.com/track/46hMVeI8kjadm4xrokacdG"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Resposta",
+        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -443,6 +443,26 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "Massagem nas Costas",
+        "url": "https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 159280,
+      "name": "Massagem nas Costas",
+      "url": "https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "Dan\u00e7ando na Beira",
         "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 168064,
       "name": "Efeito Voc\u00ea",
       "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
-        "name": "Massagem nas Costas",
-        "url": "https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 159280,
-      "name": "Massagem nas Costas",
-      "url": "https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Guaec\u00e1",
-        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
-      },
-      "artists": [
-        {
-          "name": "LUAU",
-          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Guaec\u00e1",
-      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "Urbano",
         "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
       },
@@ -599,22 +583,6 @@
       "duration_ms": 129381,
       "name": "\u00d4 Sorte",
       "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
-        "name": "Concreto (2024 Rework)",
-        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 194196,
-      "name": "Recome\u00e7o - Bonus Track",
-      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -635,6 +603,38 @@
       "duration_ms": 155553,
       "name": "Praia do Rosa",
       "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Guaec\u00e1",
+        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
+      },
+      "artists": [
+        {
+          "name": "LUAU",
+          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Guaec\u00e1",
+      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Concreto (2024 Rework)",
+        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 194196,
+      "name": "Recome\u00e7o - Bonus Track",
+      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -799,8 +799,8 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "BabyBaby",
+        "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 206484,
+      "name": "BabyBaby",
+      "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "Dan\u00e7a Comigo",
         "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
       },
@@ -943,8 +959,8 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
       },
       "artists": [
         {
@@ -952,9 +968,9 @@
           "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -971,22 +987,6 @@
       "duration_ms": 202286,
       "name": "dos p\u00e9s a cabe\u00e7a",
       "url": "https://open.spotify.com/track/5IWFZ5Od7wArGGxGo1kVAa"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
-        "name": "BabyBaby",
-        "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 206484,
-      "name": "BabyBaby",
-      "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "Cart\u00f5es Postais",
         "url": "https://open.spotify.com/album/3dZsMCVQ2IrofYTC2MfE1y"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 124212,
       "name": "Cart\u00f5es Postais",
       "url": "https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2024-08-09 14:39:16",

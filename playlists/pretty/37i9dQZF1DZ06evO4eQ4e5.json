@@ -1,12 +1,12 @@
 {
   "description": "This Is Edith M\u00e1rquez. Los temas esenciales, todos en una lista.",
-  "num_followers": 80720,
+  "num_followers": 80726,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAAcqBfamufdthydngfG3jVm",
+  "snapshot_id": "ZratgAAAAABH0s/qgezZPz42jXmjd9tG",
   "tracks": [
     {
       "added_at": null,
@@ -339,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+        "name": "Tributo a",
+        "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"
       },
       "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Por hablarle de ti",
-      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
+      "duration_ms": 161960,
+      "name": "Un Viejo Amor (feat. Edith M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e"
     },
     {
       "added_at": null,
@@ -371,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tributo a",
-        "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
       "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 161960,
-      "name": "Un Viejo Amor (feat. Edith M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e"
+      "duration_ms": 220133,
+      "name": "Por hablarle de ti",
+      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Ya que voy a estar sin ti",
-      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Mujeres De Manzanero",
         "url": "https://open.spotify.com/album/0KTBzdzNrXYhd3697Oh17R"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 178574,
       "name": "A Punto",
       "url": "https://open.spotify.com/track/0UWzYJhCoaOl0I7VtCAYBh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Ya que voy a estar sin ti",
+      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
     },
     {
       "added_at": null,

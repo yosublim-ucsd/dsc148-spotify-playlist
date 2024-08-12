@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 401 songs - 21 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 312 likes - 401 songs - 21 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 241 | [I Hate You](https://open.spotify.com/track/6MA5wobwsWi9FTPEwkR0Kq) | [Nathan Watson & Steve Salvari](https://open.spotify.com/artist/5lAYXRAh6k1ayjoRDVhk2a) | [Neo Soul](https://open.spotify.com/album/6LnlwIvodmXB3B8dMPfXEX) | 3:28 |
 | 242 | [Myra & Christine](https://open.spotify.com/track/6KlRALXSprKK5HUSdm6YFn) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:00 |
 | 243 | [Find Me a Primitive Man \(feat\. the Colonial Club Orchestra\)](https://open.spotify.com/track/1DjI0r0argzbW9d9zRWsWe) | [Libby Holman](https://open.spotify.com/artist/08czVWdmLSEES9nLc4j2Od), [The Colonial Club Orchestra](https://open.spotify.com/artist/6g1LTmfFdwCiKlOUZgfYuX) | [Libby Holman: Moanin' low](https://open.spotify.com/album/7liAFo0SfOMLPjRkx7Zapi) | 2:56 |
-| 244 | [Two In Love](https://open.spotify.com/track/1Dvy59xZBgGmNSQIagdYq0) | [Tommy Dorsey \| Frank Sinatra](https://open.spotify.com/artist/4uE1NWjbRoo7zD2OZmvndT) | [The Incomparable Tommy Dorsey & Frank Sinatra](https://open.spotify.com/album/6lFUvpPEt1ISudV8dHmSdb) | 2:57 |
-| 245 | [I Am Ashamed That People Are So Simple](https://open.spotify.com/track/3a3fsnN6XBKRqf9LyvZtbA) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [Kiss Me Kate \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/514Zxs8m8XYkKoEgNQ1cyH) | 2:07 |
+| 244 | [I Am Ashamed That People Are So Simple](https://open.spotify.com/track/3a3fsnN6XBKRqf9LyvZtbA) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [Kiss Me Kate \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/514Zxs8m8XYkKoEgNQ1cyH) | 2:07 |
+| 245 | [Two In Love](https://open.spotify.com/track/1Dvy59xZBgGmNSQIagdYq0) | [Tommy Dorsey \| Frank Sinatra](https://open.spotify.com/artist/4uE1NWjbRoo7zD2OZmvndT) | [The Incomparable Tommy Dorsey & Frank Sinatra](https://open.spotify.com/album/6lFUvpPEt1ISudV8dHmSdb) | 2:57 |
 | 246 | [Hotel Exterior](https://open.spotify.com/track/1bPXS00ewWqWqYAQxgkiJL) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 3:25 |
 | 247 | [Les Girls](https://open.spotify.com/track/4wuLVgC2nYLvKhbmxfsfwW) | [The Shadows](https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC) | [The Early Years 1959\-1966](https://open.spotify.com/album/6UoO3L0ZpeXOg66Z6bMDW5) | 2:01 |
 | 248 | [What Do You Think About \- Radio Edit](https://open.spotify.com/track/11izjBmZj9dP8Z2QgbiGjW) | [2 Black](https://open.spotify.com/artist/7xdKYR7N2gDELPnlvUmOZ7) | [The Album](https://open.spotify.com/album/38ZcB4gvAcbmE7LHoB1NuM) | 3:00 |
@@ -410,4 +410,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 400 | [Fish](https://open.spotify.com/track/31XMjn25vt3WReCJLzJvas) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 3:10 |
 | 401 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbZE+AAAAAD1wB4bz6NUoVarQqGR1dlw`
+Snapshot ID: `AbZKmAAAAAA7cVQ+CaHRx4nkVBrcDMYH`

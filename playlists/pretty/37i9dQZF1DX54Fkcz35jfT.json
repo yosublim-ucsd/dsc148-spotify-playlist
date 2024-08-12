@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: The BONEZ",
-  "num_followers": 45460,
+  "num_followers": 45469,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "The Autumn Song",
+      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
         "name": "SEEDS OF HOPE",
         "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "The Autumn Song",
-      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
         "url": "https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 233393,
       "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
       "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "GIRL'S TALK",
+        "url": "https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 174767,
+      "name": "GIRL'S TALK",
+      "url": "https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -815,18 +831,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "GIRL'S TALK",
-        "url": "https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO"
+        "name": "ELLEGARDEN BEST 1999-2008",
+        "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
       },
       "artists": [
         {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 174767,
-      "name": "GIRL'S TALK",
-      "url": "https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5"
+      "duration_ms": 252453,
+      "name": "\u98a8\u306e\u65e5",
+      "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -851,38 +867,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL"
-      },
-      "artists": [
-        {
-          "name": "ASH DA HERO",
-          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
-      "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "ELLEGARDEN BEST 1999-2008",
-        "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "\u98a8\u306e\u65e5",
-      "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
         "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 260278,
       "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
+      "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "gg\u71e6\u7136",
-        "url": "https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR"
+        "name": "ELEVEN FIRE CRACKERS",
+        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 149839,
-      "name": "gg\u71e6\u7136",
-      "url": "https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB"
+      "duration_ms": 226920,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
+        "name": "gg\u71e6\u7136",
+        "url": "https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 149839,
+      "name": "gg\u71e6\u7136",
+      "url": "https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 191242,
       "name": "BUNBUN SUIBUN",
       "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "ELEVEN FIRE CRACKERS",
-        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 226920,
-      "name": "Salamander",
-      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "TAKING THEM DOWN",
-        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
-      },
-      "artists": [
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "TAKING THEM DOWN",
-      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "SLAY!!",
         "url": "https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u30b3\u30ea\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+        "name": "TAKING THEM DOWN",
+        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
         }
       ],
-      "duration_ms": 168280,
-      "name": "SLAM",
-      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
+      "duration_ms": 172974,
+      "name": "TAKING THEM DOWN",
+      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 160306,
       "name": "Keep going",
       "url": "https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "SLAM",
+      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "Tank-top Flower for Friends",
-        "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
-      },
-      "artists": [
-        {
-          "name": "Yabai T-Shirts Yasan",
-          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
-        }
-      ],
-      "duration_ms": 132386,
-      "name": "Blooming the Tank-top",
-      "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "YAEN",
         "url": "https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+        "name": "Tank-top Flower for Friends",
+        "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
       },
       "artists": [
         {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+          "name": "Yabai T-Shirts Yasan",
+          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
         }
       ],
-      "duration_ms": 150180,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+      "duration_ms": 132386,
+      "name": "Blooming the Tank-top",
+      "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1267,6 +1251,22 @@
       "duration_ms": 108980,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 150180,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
-        "url": "https://open.spotify.com/album/3Q67hGPemhh0Zj7WYVm9g7"
-      },
-      "artists": [
-        {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
-        }
-      ],
-      "duration_ms": 218242,
-      "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
-      "url": "https://open.spotify.com/track/5y2qz18Ryt51C2WHnqOkYR"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "PARADISE (Kill The Silence)",
         "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 223118,
       "name": "PARADISE (Kill The Silence)",
       "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
+        "url": "https://open.spotify.com/album/3Q67hGPemhh0Zj7WYVm9g7"
+      },
+      "artists": [
+        {
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "duration_ms": 218242,
+      "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
+      "url": "https://open.spotify.com/track/5y2qz18Ryt51C2WHnqOkYR"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
+        "name": "\u8f1d\u304f\u3082\u306e\u5929\u3088\u308a\u5815\u3061",
+        "url": "https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK"
+      },
+      "artists": [
+        {
+          "name": "PK shampoo",
+          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
+        }
+      ],
+      "duration_ms": 144653,
+      "name": "\u3072\u3068\u3064\u306e\u66f2\u304c\u3067\u304d\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
         "name": "PALEHELL",
         "url": "https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 230835,
       "name": "I'm ready to die for my friends feat. VIGORMAN",
       "url": "https://open.spotify.com/track/3hopU0u5AXFkY0qcAxpSSd"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "\u8f1d\u304f\u3082\u306e\u5929\u3088\u308a\u5815\u3061",
-        "url": "https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK"
-      },
-      "artists": [
-        {
-          "name": "PK shampoo",
-          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
-        }
-      ],
-      "duration_ms": 144653,
-      "name": "\u3072\u3068\u3064\u306e\u66f2\u304c\u3067\u304d\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u307c\u3061\u307c\u3061\u30d9\u30c6\u30e9\u30f3",
-        "url": "https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm"
-      },
-      "artists": [
-        {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
-        }
-      ],
-      "duration_ms": 207301,
-      "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
-      "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "Bestie",
         "url": "https://open.spotify.com/album/244u3mXBG8CnwawYKawCsw"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 215428,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/4tyZPsmQnmb3A7R1EJpYD3"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "\u307c\u3061\u307c\u3061\u30d9\u30c6\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm"
+      },
+      "artists": [
+        {
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
+      "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "Vendetta",
-        "url": "https://open.spotify.com/album/7tbjNQEV1A7YeOT4Qi9IBa"
-      },
-      "artists": [
-        {
-          "name": "Petit Brabancon",
-          "url": "https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad"
-        }
-      ],
-      "duration_ms": 166056,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/5IfPB9YOdTgrQ88yReMvdW"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2CpgOP94gBLcx93uqJnJGU"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 159230,
       "name": "Misfortune",
       "url": "https://open.spotify.com/track/1cBYQGzX0JKMS4KhbM10s4"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/7tbjNQEV1A7YeOT4Qi9IBa"
+      },
+      "artists": [
+        {
+          "name": "Petit Brabancon",
+          "url": "https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad"
+        }
+      ],
+      "duration_ms": 166056,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/5IfPB9YOdTgrQ88yReMvdW"
     },
     {
       "added_at": "2024-07-30 15:00:00",

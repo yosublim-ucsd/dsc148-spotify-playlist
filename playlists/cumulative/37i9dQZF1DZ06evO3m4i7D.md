@@ -2,7 +2,7 @@
 
 ### [This Is Eugenio Esquivel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3m4i7D)
 
-> This is Eugenio Esquivel\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Eugenio Esquivel\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
 
 19 songs - 58 min 18 sec
 

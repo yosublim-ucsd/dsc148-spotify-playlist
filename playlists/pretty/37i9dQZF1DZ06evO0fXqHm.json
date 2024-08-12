@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1449,
+  "num_followers": 1450,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAAiZBgloM/NGOyEtv6zDaOB",
+  "snapshot_id": "ZratgAAAAAAxKVDSuc9TEtyigDIPe1R2",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fica Tudo Bem",
+        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Fica Tudo Bem",
+      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baile do Bruxo (DELUXE)",
         "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
       },
@@ -835,30 +859,6 @@
       "duration_ms": 177862,
       "name": "TODA VEZ QUE EU TE VEJO",
       "url": "https://open.spotify.com/track/4BRJeEBhCba4qO87fEYDaC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fica Tudo Bem",
-        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Fica Tudo Bem",
-      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
     },
     {
       "added_at": null,
@@ -1167,22 +1167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Acontece L\u00e1 na Favela",
         "url": "https://open.spotify.com/album/5MF7SoKuLGukuJekMQ2Mjh"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 132922,
       "name": "Dentro da Jacuzzi",
       "url": "https://open.spotify.com/track/0wZP6InCRKqs3mkMXOLbZH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

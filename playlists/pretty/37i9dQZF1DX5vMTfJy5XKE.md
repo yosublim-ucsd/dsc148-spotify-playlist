@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,176 likes - 192 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,164 likes - 192 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

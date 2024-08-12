@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica tradicional y deliciosa! \ud83c\udf45\ud83c\udf36\ufe0f\ud83c\udf72\ud83c\udfb5\ud83d\udc69\u200d\ud83c\udf73",
-  "num_followers": 43971,
+  "num_followers": 43977,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
@@ -161,6 +161,30 @@
       "url": "https://open.spotify.com/track/5bCp9MMG1Qo4QB2OHoSRpN"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Ra\u00edz",
+        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Cumbia del Mole",
+      "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Sympathique",
@@ -239,30 +263,6 @@
       "duration_ms": 250360,
       "name": "Floricanto",
       "url": "https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Ra\u00edz",
-        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Cumbia del Mole",
-      "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Bi",
-        "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 267480,
-      "name": "Apocalypso",
-      "url": "https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "La Reina de Veracruz",
@@ -851,6 +835,22 @@
       "duration_ms": 165982,
       "name": "Vereda Tropical",
       "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Bi",
+        "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 267480,
+      "name": "Apocalypso",
+      "url": "https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -935,6 +935,26 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "The Power of the Latin Music",
+        "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Quantic and His Combo Barbaro",
+          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "Mambo Los Quantic",
+      "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "Luaka Bop Remix",
         "url": "https://open.spotify.com/album/7uNWWbWA8GKZBky6KYxIvT"
       },
@@ -953,24 +973,20 @@
       "url": "https://open.spotify.com/track/5LUlXoQuBZDHPTA9uhdvMp"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "The Power of the Latin Music",
-        "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
+        "name": "El Brown Recluse",
+        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Quantic and His Combo Barbaro",
-          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
+          "name": "Charanga Cakewalk",
+          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
         }
       ],
-      "duration_ms": 283973,
-      "name": "Mambo Los Quantic",
-      "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
+      "duration_ms": 259746,
+      "name": "Cumbia Pa Modernos",
+      "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1019,22 +1035,6 @@
       "duration_ms": 331293,
       "name": "Limon En La Cabeza",
       "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "El Brown Recluse",
-        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
-      },
-      "artists": [
-        {
-          "name": "Charanga Cakewalk",
-          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
-        }
-      ],
-      "duration_ms": 259746,
-      "name": "Cumbia Pa Modernos",
-      "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 272073,
-      "name": "Lim\u00f3n",
-      "url": "https://open.spotify.com/track/1j2hwajHISJ0BmrAd7y3AK"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Mis 50 Boleros M\u00e1s Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/1H4s4w4fVumN14ipdymows"
       },
@@ -1615,22 +1599,6 @@
       "duration_ms": 235934,
       "name": "Paletero",
       "url": "https://open.spotify.com/track/7ItyQF5aDdr6kizFmQ1u7T"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Cuba",
-        "url": "https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 201827,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/2jdasf6mLTfnf4D7HyN7dC"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1663,6 +1631,38 @@
       "duration_ms": 193027,
       "name": "Paga la Cuenta Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/2qSwLZX8vdTsox4IPbQLB8"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Cuba",
+        "url": "https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 201827,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/2jdasf6mLTfnf4D7HyN7dC"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 272073,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/1j2hwajHISJ0BmrAd7y3AK"
     }
   ],
   "unique_name": "Cocina Tradicional",

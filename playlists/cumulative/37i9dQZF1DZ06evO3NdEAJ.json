@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "This Is La Fiera de Ojinaga. Los temas esenciales, todos en una lista.",
+  "description": "This is La Fiera de Ojinaga. \u03a4\u03b1 \u03c0\u03b9\u03bf \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b1 \u03ba\u03bf\u03bc\u03bc\u03ac\u03c4\u03b9\u03b1, \u03c3\u03b5 \u03bc\u03af\u03b1 playlist.",
   "name": "This Is La Fiera de Ojinaga",
   "tracks": [
     {
@@ -262,6 +262,24 @@
       "duration_ms": 189320,
       "name": "Duele",
       "url": "https://open.spotify.com/track/0ryQ7XtLxVMXPZ9VY94y8J"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58x41YRex4WzbE9zvzfaU5"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125386,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/57pVaakpJ2asKjALpW7DyI"
     },
     {
       "album": {
@@ -884,7 +902,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 194981,
       "name": "Y T\u00fa a Toda Madre",
       "url": "https://open.spotify.com/track/7bEfzjPeeY6sYFr2P4oOzz"

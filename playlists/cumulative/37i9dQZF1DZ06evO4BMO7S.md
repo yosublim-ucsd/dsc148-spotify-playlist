@@ -2,7 +2,7 @@
 
 ### [This Is Japanese Breakfast](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BMO7S)
 
-> This is Japanese Breakfast\. The essential tracks, all in one playlist.
+> This Is Japanese Breakfast\. Les titres incontournables, réunis dans une seule et même playlist.
 
 39 songs - 2 hr 3 min
 

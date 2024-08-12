@@ -1,6 +1,6 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 1253007,
+  "num_followers": 1253043,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 258411,
       "name": "You're So Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": "2021-12-14 20:07:58",
@@ -203,6 +203,22 @@
       "duration_ms": 197146,
       "name": "December, 1963 (Oh What a Night!)",
       "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n"
+      },
+      "artists": [
+        {
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Sister Golden Hair",
+      "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -239,38 +255,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Minute by Minute",
-        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "What a Fool Believes",
-      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n"
-      },
-      "artists": [
-        {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Sister Golden Hair",
-      "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "Don't Shoot Me I'm Only The Piano Player",
         "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 235440,
       "name": "Crocodile Rock",
       "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Minute by Minute",
+        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "What a Fool Believes",
+      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 369600,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 235560,
       "name": "Only the Good Die Young",
       "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv"
     },
     {
-      "added_at": "2021-12-14 20:07:58",
+      "added_at": "2022-06-30 18:06:09",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+        "name": "Tap Root Manuscript",
+        "url": "https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
         }
       ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+      "duration_ms": 179933,
+      "name": "Cracklin' Rosie - Single Version",
+      "url": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
     },
     {
       "added_at": "2021-12-14 20:17:09",
@@ -493,20 +493,36 @@
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
-      "added_at": "2022-06-30 18:06:09",
+      "added_at": "2021-12-14 20:07:58",
       "album": {
-        "name": "Tap Root Manuscript",
-        "url": "https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO"
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
       "artists": [
         {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 179933,
-      "name": "Cracklin' Rosie - Single Version",
-      "url": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Pain in My Heart",
+        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -557,22 +573,6 @@
       "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Pain in My Heart",
-        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu"
-    },
-    {
       "added_at": "2022-06-30 18:06:09",
       "album": {
         "name": "There Goes Rhymin' Simon",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Waking & Dreaming",
-        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
-    },
-    {
       "added_at": "2022-06-30 18:06:09",
       "album": {
         "name": "Cyan",
@@ -619,6 +603,22 @@
       "duration_ms": 204106,
       "name": "Shambala - Single Version",
       "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Waking & Dreaming",
+        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
     },
     {
       "added_at": "2021-12-14 20:17:09",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
     },
     {
+      "added_at": "2022-06-30 18:06:09",
+      "album": {
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Mama Told Me (Not To Come) - Single Version",
+      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
+    },
+    {
       "added_at": "2022-07-05 19:20:09",
       "album": {
         "name": "Deja Vu",
@@ -735,18 +751,18 @@
     {
       "added_at": "2022-06-30 18:06:09",
       "album": {
-        "name": "It Ain't Easy",
-        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
+        "name": "There Goes Rhymin' Simon",
+        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
       "artists": [
         {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 198933,
-      "name": "Mama Told Me (Not To Come) - Single Version",
-      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
+      "duration_ms": 213453,
+      "name": "Loves Me Like a Rock",
+      "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -763,22 +779,6 @@
       "duration_ms": 197440,
       "name": "O-o-h Child",
       "url": "https://open.spotify.com/track/1rwGdnrtWnPYBipRrjnzEm"
-    },
-    {
-      "added_at": "2022-06-30 18:06:09",
-      "album": {
-        "name": "There Goes Rhymin' Simon",
-        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Loves Me Like a Rock",
-      "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -799,18 +799,18 @@
     {
       "added_at": "2021-12-14 20:17:09",
       "album": {
-        "name": "Last Time Around",
-        "url": "https://open.spotify.com/album/00MudAJNGTxCUkQrtRz2hY"
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/1ZMa2C7vUFFCqX8xcFuFX3"
       },
       "artists": [
         {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 150000,
-      "name": "On the Way Home",
-      "url": "https://open.spotify.com/track/10W7CN0zC8FwRa66JDxpay"
+      "duration_ms": 184653,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/6kXGGyEPSRS1g9Ltm70jo9"
     }
   ],
   "unique_name": "Good Times, Great Oldies",

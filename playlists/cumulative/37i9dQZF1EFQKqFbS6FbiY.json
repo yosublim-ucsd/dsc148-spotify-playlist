@@ -3017,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "Deixa Eu Sofrer De Boa",
+        "url": "https://open.spotify.com/album/4ixG2u9U0Ew5Qe9fqVqViV"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Fabiano",
+          "url": "https://open.spotify.com/artist/2XsnXTymYm47yOXjQVhhEe"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "Deixa Eu Sofrer De Boa",
+      "url": "https://open.spotify.com/track/28lJX5eak7BtyB7nTughQU"
+    },
+    {
+      "album": {
         "name": "#Nabebidaenasofr\u00eancia, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/43VostSbPyVlPMEGNy6zSX"
       },

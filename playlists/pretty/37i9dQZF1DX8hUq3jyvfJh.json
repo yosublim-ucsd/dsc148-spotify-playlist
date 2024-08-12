@@ -1,6 +1,6 @@
 {
   "description": "Escute Ana Castela e mais mulheres no volume m\u00e1ximo! Co-curadoria com Ana Castela",
-  "num_followers": 184628,
+  "num_followers": 184740,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -295,54 +295,18 @@
     {
       "added_at": "2024-08-07 03:00:00",
       "album": {
-        "name": "Lauana Prado",
-        "url": "https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU"
+        "name": "Transcende (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/2r7Ojc9IwEpjQu4Ga76fFw"
       },
       "artists": [
         {
           "name": "Lauana Prado",
           "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 219442,
-      "name": "Cobaia",
-      "url": "https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx"
-    },
-    {
-      "added_at": "2024-08-07 03:00:00",
-      "album": {
-        "name": "Intensa At\u00e9 Demais",
-        "url": "https://open.spotify.com/album/0XFDiEDWOB9wGxGRQ9xitH"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 146736,
-      "name": "M\u00e1 Influ\u00eancia",
-      "url": "https://open.spotify.com/track/4AGWB66yOY9CcSsPA8BSyq"
-    },
-    {
-      "added_at": "2024-08-07 03:00:00",
-      "album": {
-        "name": "Boiadeira Internacional Vol. 4",
-        "url": "https://open.spotify.com/album/0sx1g26Xw6WPHtCgloXBak"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 151516,
-      "name": "Bonde das Boiadeiras",
-      "url": "https://open.spotify.com/track/7N3DcSaN0mhijYshvIworK"
+      "duration_ms": 156710,
+      "name": "Depois - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Ms6NNsLMqdC5v1qE3d89p"
     },
     {
       "added_at": "2024-08-07 03:00:00",
@@ -367,6 +331,38 @@
     {
       "added_at": "2024-08-07 03:00:00",
       "album": {
+        "name": "Boiadeira Internacional Vol. 4",
+        "url": "https://open.spotify.com/album/0sx1g26Xw6WPHtCgloXBak"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 151516,
+      "name": "Bonde das Boiadeiras",
+      "url": "https://open.spotify.com/track/7N3DcSaN0mhijYshvIworK"
+    },
+    {
+      "added_at": "2024-08-07 03:00:00",
+      "album": {
+        "name": "Intensa At\u00e9 Demais",
+        "url": "https://open.spotify.com/album/0XFDiEDWOB9wGxGRQ9xitH"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "duration_ms": 146736,
+      "name": "M\u00e1 Influ\u00eancia",
+      "url": "https://open.spotify.com/track/4AGWB66yOY9CcSsPA8BSyq"
+    },
+    {
+      "added_at": "2024-08-07 03:00:00",
+      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -379,6 +375,26 @@
       "duration_ms": 174920,
       "name": "Medo Bobo - Ao Vivo",
       "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
+    },
+    {
+      "added_at": "2024-08-07 03:00:00",
+      "album": {
+        "name": "Lauana Prado",
+        "url": "https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 219442,
+      "name": "Cobaia",
+      "url": "https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx"
     },
     {
       "added_at": "2024-08-07 03:00:00",
@@ -399,26 +415,6 @@
       "duration_ms": 167786,
       "name": "Macetando",
       "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
-    },
-    {
-      "added_at": "2024-08-07 03:00:00",
-      "album": {
-        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Hey, Pai - Ao Vivo",
-      "url": "https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM"
     },
     {
       "added_at": "2024-08-07 03:00:00",
@@ -455,18 +451,22 @@
     {
       "added_at": "2024-08-07 03:00:00",
       "album": {
-        "name": "Transcende (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/2r7Ojc9IwEpjQu4Ga76fFw"
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
       },
       "artists": [
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 156710,
-      "name": "Depois - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Ms6NNsLMqdC5v1qE3d89p"
+      "duration_ms": 224920,
+      "name": "Hey, Pai - Ao Vivo",
+      "url": "https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM"
     },
     {
       "added_at": "2024-08-07 03:00:00",
@@ -507,6 +507,38 @@
     {
       "added_at": "2024-08-07 03:00:00",
       "album": {
+        "name": "Narcisista (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1EXTduPcx49gIFbLeZOwcC"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Narcisista - Ao Vivo",
+      "url": "https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD"
+    },
+    {
+      "added_at": "2024-08-07 03:00:00",
+      "album": {
+        "name": "Graveto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 170877,
+      "name": "Graveto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
+    },
+    {
+      "added_at": "2024-08-07 03:00:00",
+      "album": {
         "name": "BRABA",
         "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
       },
@@ -543,18 +575,18 @@
     {
       "added_at": "2024-08-07 03:00:00",
       "album": {
-        "name": "Narcisista (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1EXTduPcx49gIFbLeZOwcC"
+        "name": "Maturidade (Deluxe)",
+        "url": "https://open.spotify.com/album/0ejAiP3MX6qORbvfIt62ps"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Narcisista - Ao Vivo",
-      "url": "https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD"
+      "duration_ms": 186069,
+      "name": "Palavras de Perd\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3mBsIJP7qmGeJMfKllBMeZ"
     },
     {
       "added_at": "2024-08-07 03:00:00",
@@ -575,38 +607,6 @@
     {
       "added_at": "2024-08-07 03:00:00",
       "album": {
-        "name": "Graveto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 170877,
-      "name": "Graveto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
-    },
-    {
-      "added_at": "2024-08-07 03:00:00",
-      "album": {
-        "name": "Maturidade (Deluxe)",
-        "url": "https://open.spotify.com/album/0ejAiP3MX6qORbvfIt62ps"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Tavares",
-          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
-        }
-      ],
-      "duration_ms": 186069,
-      "name": "Palavras de Perd\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3mBsIJP7qmGeJMfKllBMeZ"
-    },
-    {
-      "added_at": "2024-08-07 03:00:00",
-      "album": {
         "name": "Verdade (Ao Vivo / Deluxe)",
         "url": "https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c"
       },
@@ -619,6 +619,26 @@
       "duration_ms": 181077,
       "name": "Voc\u00ea Humilha - Ao Vivo",
       "url": "https://open.spotify.com/track/5kMKSkbbwi6VHiHDRegH7N"
+    },
+    {
+      "added_at": "2024-08-07 03:00:00",
+      "album": {
+        "name": "Festa das Patroas 35%",
+        "url": "https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 206171,
+      "name": "Todo Mundo Menos Voc\u00ea",
+      "url": "https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b"
     },
     {
       "added_at": "2024-08-07 03:00:00",
@@ -715,26 +735,6 @@
       "duration_ms": 150432,
       "name": "Bloqueio Emocional - Ao Vivo",
       "url": "https://open.spotify.com/track/3Uc6MgPlhQJVWuiUOgKnhE"
-    },
-    {
-      "added_at": "2024-08-07 03:00:00",
-      "album": {
-        "name": "Festa das Patroas 35%",
-        "url": "https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 206171,
-      "name": "Todo Mundo Menos Voc\u00ea",
-      "url": "https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b"
     },
     {
       "added_at": "2024-08-07 03:00:00",

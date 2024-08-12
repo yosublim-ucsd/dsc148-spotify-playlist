@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 20001,
+  "num_followers": 20004,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABrSbMd3LNe0o3fSr33+7wD",
+  "snapshot_id": "ZratgAAAAABZcQCXx9fqRr1kh49ZFOHk",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "500 Graus - Drive In",
-        "url": "https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 429708,
-      "name": "500 Graus - Drive In",
-      "url": "https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 260342,
       "name": "Mem\u00f3rias (Ao Vivo)",
       "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "500 Graus - Drive In",
+        "url": "https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 429708,
+      "name": "500 Graus - Drive In",
+      "url": "https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irresist\u00edvel Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 275945,
-      "name": "Irresist\u00edvel Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mais Um Dia",
         "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 317000,
       "name": "Mais Um Dia",
       "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Irresist\u00edvel Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 275945,
+      "name": "Irresist\u00edvel Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desperta",
         "url": "https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 228530,
       "name": "Desperta",
       "url": "https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
     }
   ],
   "unique_name": "This Is Midian Lima",

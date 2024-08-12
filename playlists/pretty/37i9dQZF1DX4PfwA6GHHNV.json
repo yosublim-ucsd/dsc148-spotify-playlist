@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 18319,
+  "num_followers": 18324,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-08-09 16:46:32",
       "album": {
-        "name": "FETICHE",
-        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        }
-      ],
-      "duration_ms": 165379,
-      "name": "sodade",
-      "url": "https://open.spotify.com/track/1fXFNDgwUEXQObh7A9XN10"
-    },
-    {
-      "added_at": "2024-08-09 16:46:32",
-      "album": {
         "name": "Unic\u00f3rnio",
         "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
       },
@@ -195,6 +179,22 @@
     {
       "added_at": "2024-08-09 16:46:32",
       "album": {
+        "name": "FETICHE",
+        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 165379,
+      "name": "sodade",
+      "url": "https://open.spotify.com/track/1fXFNDgwUEXQObh7A9XN10"
+    },
+    {
+      "added_at": "2024-08-09 16:46:32",
+      "album": {
         "name": "COLADINHO",
         "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
@@ -219,26 +219,6 @@
     {
       "added_at": "2024-08-09 16:46:32",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/2ssOy85YiJXKAA8dj6YBaV"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1khbyrHruJLXl5uFftk3ZP"
-    },
-    {
-      "added_at": "2024-08-09 16:46:32",
-      "album": {
         "name": "Abelha",
         "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 138666,
       "name": "Abelha",
       "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
+    },
+    {
+      "added_at": "2024-08-09 16:46:32",
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/2ssOy85YiJXKAA8dj6YBaV"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1khbyrHruJLXl5uFftk3ZP"
     },
     {
       "added_at": "2024-08-09 16:46:32",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-08-09 16:46:32",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 194862,
-      "name": "Luar",
-      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
-    },
-    {
-      "added_at": "2024-08-09 16:46:32",
-      "album": {
         "name": "Cana de feira",
         "url": "https://open.spotify.com/album/1LNOMrnHbqYnpjTKhKjolI"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 144444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
+    },
+    {
+      "added_at": "2024-08-09 16:46:32",
+      "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 194862,
+      "name": "Luar",
+      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
     },
     {
       "added_at": "2024-08-09 16:46:32",
@@ -655,26 +655,6 @@
       "duration_ms": 208000,
       "name": "MAIS VERDE",
       "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
-    },
-    {
-      "added_at": "2024-08-09 16:46:32",
-      "album": {
-        "name": "Natureza",
-        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Natureza",
-      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
     },
     {
       "added_at": "2024-08-09 16:46:32",
@@ -819,6 +799,26 @@
       "duration_ms": 175200,
       "name": "N\u00e3o Prometeu Nada",
       "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
+    },
+    {
+      "added_at": "2024-08-09 16:46:32",
+      "album": {
+        "name": "Natureza",
+        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Natureza",
+      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
     },
     {
       "added_at": "2024-08-09 16:46:32",

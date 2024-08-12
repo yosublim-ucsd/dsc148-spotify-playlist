@@ -1,12 +1,12 @@
 {
-  "description": "This Is Grupo Marca Registrada. Los temas esenciales, todos en una lista.",
-  "num_followers": 295303,
+  "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
+  "num_followers": 295485,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAB7TD+OSaHr9KZQ5/miL3t9",
+  "snapshot_id": "ZratgAAAAACAHU1y/eNhJU48r+EFjxio",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 203829,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mafiosa",
         "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 170237,
       "name": "Mafiosa",
       "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corleone",
-        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 203829,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigue La Magia Dando",
+        "url": "https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 245376,
+      "name": "El Comerciante",
+      "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00e9jenme Hacer Dinero",
         "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sigue La Magia Dando",
-        "url": "https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 245376,
-      "name": "El Comerciante",
-      "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
     },
     {
       "added_at": null,
@@ -967,50 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parrandero (Remix)",
-        "url": "https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey"
+        "name": "Andar Conmigo",
+        "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
       },
       "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        },
-        {
-          "name": "Los Nuevos Ilegales",
-          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        },
-        {
-          "name": "Banda Los Coyulitos",
-          "url": "https://open.spotify.com/artist/0CVlSXCgXIMQgojZ2irFYT"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 168127,
-      "name": "Parrandero (Remix)",
-      "url": "https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV"
+      "duration_ms": 204956,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
     }
   ],
   "unique_name": "This Is Grupo Marca Registrada",

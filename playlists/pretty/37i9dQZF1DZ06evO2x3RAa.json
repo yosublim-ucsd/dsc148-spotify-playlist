@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAACNGlL2BhmwB4VNvOHsDjQZ",
+  "snapshot_id": "ZratgAAAAABAHJK6G/e7pZMqgfpjMzpf",
   "tracks": [
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 255293,
-      "name": "Who's Like Unto Thee O'Lord",
-      "url": "https://open.spotify.com/track/1Jkc0CWvuyAGf8C4yg057R"
+      "duration_ms": 114853,
+      "name": "Agbara esu 'Wo (Yoruba)",
+      "url": "https://open.spotify.com/track/0vewn9FP9CYcnl3YAYlaUm"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 114853,
-      "name": "Agbara esu 'Wo (Yoruba)",
-      "url": "https://open.spotify.com/track/0vewn9FP9CYcnl3YAYlaUm"
+      "duration_ms": 255293,
+      "name": "Who's Like Unto Thee O'Lord",
+      "url": "https://open.spotify.com/track/1Jkc0CWvuyAGf8C4yg057R"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wind Of Change",
-        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+        "name": "51 Lex Presents: O'Nambia",
+        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 305026,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/4yBGGBCRBKei9VgRg1qMsD"
+      "duration_ms": 488400,
+      "name": "No More Wars",
+      "url": "https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "51 Lex Presents: O'Nambia",
-        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 488400,
-      "name": "No More Wars",
-      "url": "https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA"
+      "duration_ms": 305026,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/4yBGGBCRBKei9VgRg1qMsD"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ozziddi For Sale",
-        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 913786,
-      "name": "Chant Of The Slaves Let My People Go",
-      "url": "https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3rd World",
         "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 501040,
       "name": "3rd World",
       "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ozziddi For Sale",
+        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 913786,
+      "name": "Chant Of The Slaves Let My People Go",
+      "url": "https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ozziddi For Sale",
-        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+        "name": "Fire In Soweto",
+        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 684933,
-      "name": "Festival Of The Hunters",
-      "url": "https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v"
+      "duration_ms": 479120,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire In Soweto",
-        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 479120,
-      "name": "Liberation",
-      "url": "https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wind Of Change",
         "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
       },
@@ -555,6 +539,38 @@
       "duration_ms": 289573,
       "name": "Jesus King Of Kings",
       "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ozziddi For Sale",
+        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 684933,
+      "name": "Festival Of The Hunters",
+      "url": "https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mother & Child",
+        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 337666,
+      "name": "My Cherie Koko",
+      "url": "https://open.spotify.com/track/1Kpx7BlMbrAnHxpMEPNZwx"
     }
   ],
   "unique_name": "This Is Sonny Okosun",

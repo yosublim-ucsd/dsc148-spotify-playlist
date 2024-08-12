@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 126274,
+  "num_followers": 126353,
   "original_name": "Los 80s",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
       },
@@ -251,18 +267,18 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
+      "duration_ms": 248640,
+      "name": "Vamos a Darnos Tiempo",
+      "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
     },
     {
       "added_at": "2024-05-14 17:26:04",
@@ -299,22 +315,6 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Vamos a Darnos Tiempo",
-      "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
         "name": "Locas Por La M\u00fasica",
         "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
       },
@@ -343,6 +343,38 @@
       "duration_ms": 219106,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Fr\u00eda Como El Viento",
+      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "Me Vas a Echar de Menos",
+      "url": "https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE"
     },
     {
       "added_at": "2024-05-14 17:26:04",
@@ -395,38 +427,6 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Fr\u00eda Como El Viento",
-      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
-        "name": "Promesas",
-        "url": "https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Me Vas a Echar de Menos",
-      "url": "https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 132080,
       "name": "Marta tiene un marcapasos",
       "url": "https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 409466,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
     },
     {
       "added_at": "2024-05-14 17:26:04",
@@ -471,22 +487,6 @@
       "duration_ms": 325466,
       "name": "Asi Fue",
       "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 409466,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
     },
     {
       "added_at": "2024-05-14 17:26:04",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
-        "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
-        "url": "https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "Visa Para un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6mmcsCrrASekHEUfjuNFOO"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
         "name": "Juan Gabriel - 40 Aniversario",
         "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 224733,
       "name": "Fiesta En Am\u00e9rica",
       "url": "https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
+        "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
+        "url": "https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "Visa Para un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6mmcsCrrASekHEUfjuNFOO"
     },
     {
       "added_at": "2024-05-14 17:26:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,059 likes - 52 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,057 likes - 52 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 51 | [Taking Chances](https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:06 |
 | 52 | [Freshman List](https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 3:06 |
 
-Snapshot ID: `ZrVcAAAAAADBDBc4YjIeOqZChI9wc17l`
+Snapshot ID: `ZratgAAAAABkbUMuv2axhPE7f8NNCyS3`

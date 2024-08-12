@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 215068,
+  "num_followers": 215125,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LkrVSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LkwkcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
@@ -65,67 +65,7 @@
       "url": "https://open.spotify.com/track/7v8QWTqh1nIhr3Uak06BxK"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 166275,
-      "name": "Vilde Ingen Hvile",
-      "url": "https://open.spotify.com/track/5hSsSeLlibK1UjnBEYaGmJ"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 171948,
-      "name": "E.T.A",
-      "url": "https://open.spotify.com/track/62SSTz9Jwu05YFqfEXBfOq"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 130513,
-      "name": "Instinkt",
-      "url": "https://open.spotify.com/track/3GLrOIFQIbWc6f3lLeRHP6"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Dark Room (feat. ICEKIID)",
         "url": "https://open.spotify.com/album/7wwyWVyOkb8KVIp32Ocd4u"
@@ -145,7 +85,67 @@
       "url": "https://open.spotify.com/track/1eA6vc394WJF2l4lHLqJ2B"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 166275,
+      "name": "Vilde Ingen Hvile",
+      "url": "https://open.spotify.com/track/5hSsSeLlibK1UjnBEYaGmJ"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 171948,
+      "name": "E.T.A",
+      "url": "https://open.spotify.com/track/62SSTz9Jwu05YFqfEXBfOq"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 130513,
+      "name": "Instinkt",
+      "url": "https://open.spotify.com/track/3GLrOIFQIbWc6f3lLeRHP6"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Hej",
         "url": "https://open.spotify.com/album/7Fu7xonyElEJCRc8RyVs5S"
@@ -161,27 +161,7 @@
       "url": "https://open.spotify.com/track/4hfF0F3yN5imcuVStGXO44"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        }
-      ],
-      "duration_ms": 182898,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/2sDpgaCjqclySSoPWqXlrY"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
@@ -201,47 +181,7 @@
       "url": "https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 160573,
-      "name": "Bounce Along",
-      "url": "https://open.spotify.com/track/3gPCjI5fY7b31PHJCxFVku"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Sivas",
-          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
-        }
-      ],
-      "duration_ms": 174092,
-      "name": "Narnia",
-      "url": "https://open.spotify.com/track/1pREhT7Qz9MHACgU0WVljm"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "De Her Timer",
         "url": "https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo"
@@ -261,27 +201,7 @@
       "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 165482,
-      "name": "Historie",
-      "url": "https://open.spotify.com/track/42JyedEAsZrtXrMrurgiAA"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "B\u00f8rn Af Natten (Hola Bonita)",
         "url": "https://open.spotify.com/album/7jE9aP0aQYJXVHmBOs1vdv"
@@ -305,7 +225,7 @@
       "url": "https://open.spotify.com/track/3ZNTae1ZOrSaURxMZAVFq6"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "S\u00e5 l\u00e6nge jeg er sexy.",
         "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
@@ -321,7 +241,67 @@
       "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        }
+      ],
+      "duration_ms": 174092,
+      "name": "Narnia",
+      "url": "https://open.spotify.com/track/1pREhT7Qz9MHACgU0WVljm"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "duration_ms": 182898,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/2sDpgaCjqclySSoPWqXlrY"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 160573,
+      "name": "Bounce Along",
+      "url": "https://open.spotify.com/track/3gPCjI5fY7b31PHJCxFVku"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Bellevue (feat. D1MA)",
         "url": "https://open.spotify.com/album/50IEh2Bx2YFfznWBjCA6Pe"
@@ -341,7 +321,7 @@
       "url": "https://open.spotify.com/track/6EXV782Zpktyx9NvcwkYN5"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov"
@@ -361,7 +341,47 @@
       "url": "https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 165482,
+      "name": "Historie",
+      "url": "https://open.spotify.com/track/42JyedEAsZrtXrMrurgiAA"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "KENNY",
+        "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
+      },
+      "artists": [
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 123628,
+      "name": "Booty Up",
+      "url": "https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "K\u00f8benhavn (feat. Suspekt & Benjamin Hav)",
         "url": "https://open.spotify.com/album/2Dj8zC44xsrq1HtjSVGN4o"
@@ -389,47 +409,7 @@
       "url": "https://open.spotify.com/track/5NjehIS8G8xWKsIJCiQov8"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "KENNY",
-        "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
-      },
-      "artists": [
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 123628,
-      "name": "Booty Up",
-      "url": "https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Thor Farlov",
-          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
-        }
-      ],
-      "duration_ms": 148473,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5vmXcTWx3tzSApIE8pRmAU"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -445,7 +425,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Alt Ved Dig",
         "url": "https://open.spotify.com/album/0XkYs4ds1GxWOg2ghL07fY"
@@ -461,27 +441,39 @@
       "url": "https://open.spotify.com/track/6DpGj9bttRgHoT1vk8ezgj"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
       "artists": [
         {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "MAISHA",
-          "url": "https://open.spotify.com/artist/6ymOvOWslq7BNh27lKHfsK"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 177684,
-      "name": "En Af De Dage",
-      "url": "https://open.spotify.com/track/0ghuhkLjHIxfqzIPL39j6I"
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "De Her Timer",
+        "url": "https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 208934,
+      "name": "De Her Timer",
+      "url": "https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
@@ -501,23 +493,7 @@
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "De Her Timer",
-        "url": "https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 208934,
-      "name": "De Her Timer",
-      "url": "https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Alt Det (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
@@ -541,23 +517,7 @@
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
@@ -568,16 +528,32 @@
           "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
         },
         {
-          "name": "Sofia Storck",
-          "url": "https://open.spotify.com/artist/1lC3q59QuRsD2I37ZSD8O9"
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
         }
       ],
-      "duration_ms": 190911,
-      "name": "Tusind Timer",
-      "url": "https://open.spotify.com/track/6QGFjMEi7ni15sMcLhN5w9"
+      "duration_ms": 148473,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5vmXcTWx3tzSApIE8pRmAU"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "MELLEM HIMMEL & JORD",
+        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 155511,
+      "name": "Tak For Sidst",
+      "url": "https://open.spotify.com/track/1UTeDUAusifkVapsAZxbSc"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Hvor Solen Ik' Skinner",
         "url": "https://open.spotify.com/album/3Gw00i0ZHXvqyulhCCNQ6m"
@@ -597,27 +573,7 @@
       "url": "https://open.spotify.com/track/6EfIo8vxfIBT2IZrzGHbpP"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Sara Sadiq Frost",
-          "url": "https://open.spotify.com/artist/1GHnRBumomacUwxeqmSxqL"
-        }
-      ],
-      "duration_ms": 44019,
-      "name": "FOMO 88.8 FM",
-      "url": "https://open.spotify.com/track/173lu6SQSxnsbFAVaG5kVM"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
@@ -633,131 +589,7 @@
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "MELLEM HIMMEL & JORD",
-        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 155511,
-      "name": "Tak For Sidst",
-      "url": "https://open.spotify.com/track/1UTeDUAusifkVapsAZxbSc"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "Bellingham Freestyle",
-        "url": "https://open.spotify.com/album/1WzzRG4FdwNgBPxiVuhdT7"
-      },
-      "artists": [
-        {
-          "name": "Anton Westerlin",
-          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
-        },
-        {
-          "name": "Kundo",
-          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
-        }
-      ],
-      "duration_ms": 84259,
-      "name": "Bellingham Freestyle",
-      "url": "https://open.spotify.com/track/3iDvA9yErFpMUNhvx9KiqU"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Faza",
-          "url": "https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR"
-        }
-      ],
-      "duration_ms": 194051,
-      "name": "H\u00f8jere",
-      "url": "https://open.spotify.com/track/4rTym0PWvvslHbHtOTWXiv"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "Knuser Hjerter",
-        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 207020,
-      "name": "Knuser Hjerter",
-      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Kiko Club",
         "url": "https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK"
@@ -777,23 +609,135 @@
       "url": "https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+        "name": "Knuser Hjerter",
+        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+      "duration_ms": 207020,
+      "name": "Knuser Hjerter",
+      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "MAISHA",
+          "url": "https://open.spotify.com/artist/6ymOvOWslq7BNh27lKHfsK"
+        }
+      ],
+      "duration_ms": 177684,
+      "name": "En Af De Dage",
+      "url": "https://open.spotify.com/track/0ghuhkLjHIxfqzIPL39j6I"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Sofia Storck",
+          "url": "https://open.spotify.com/artist/1lC3q59QuRsD2I37ZSD8O9"
+        }
+      ],
+      "duration_ms": 190911,
+      "name": "Tusind Timer",
+      "url": "https://open.spotify.com/track/6QGFjMEi7ni15sMcLhN5w9"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "Bellingham Freestyle",
+        "url": "https://open.spotify.com/album/1WzzRG4FdwNgBPxiVuhdT7"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "duration_ms": 84259,
+      "name": "Bellingham Freestyle",
+      "url": "https://open.spotify.com/track/3iDvA9yErFpMUNhvx9KiqU"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Giv Mig Alt",
         "url": "https://open.spotify.com/album/2kVPrELUEIEODDcCVkXjlU"
@@ -809,7 +753,39 @@
       "url": "https://open.spotify.com/track/6ypcV9TndUTwq9jgWxXk5d"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "Det Modsatte",
+        "url": "https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8"
+      },
+      "artists": [
+        {
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
+        }
+      ],
+      "duration_ms": 201863,
+      "name": "Det Modsatte",
+      "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
@@ -829,43 +805,7 @@
       "url": "https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "Chanel Freestyle",
-        "url": "https://open.spotify.com/album/19GP2Hpfv764Wi35GNrbvz"
-      },
-      "artists": [
-        {
-          "name": "Anton Westerlin",
-          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 126589,
-      "name": "Chanel Freestyle",
-      "url": "https://open.spotify.com/track/5LAsl3k0Vas49Pnoj9GJr3"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
-      "album": {
-        "name": "Det Modsatte",
-        "url": "https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8"
-      },
-      "artists": [
-        {
-          "name": "Mumle",
-          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
-        }
-      ],
-      "duration_ms": 201863,
-      "name": "Det Modsatte",
-      "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
-    },
-    {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
@@ -881,7 +821,7 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Noget Si'r Mig",
         "url": "https://open.spotify.com/album/5MkJ9dIJBM7BNJFgtLgmfN"
@@ -901,7 +841,67 @@
       "url": "https://open.spotify.com/track/0VKpZJPkO2PcvwiSOwOvEc"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Faza",
+          "url": "https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR"
+        }
+      ],
+      "duration_ms": 194051,
+      "name": "H\u00f8jere",
+      "url": "https://open.spotify.com/track/4rTym0PWvvslHbHtOTWXiv"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Sara Sadiq Frost",
+          "url": "https://open.spotify.com/artist/1GHnRBumomacUwxeqmSxqL"
+        }
+      ],
+      "duration_ms": 44019,
+      "name": "FOMO 88.8 FM",
+      "url": "https://open.spotify.com/track/173lu6SQSxnsbFAVaG5kVM"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
+      "album": {
+        "name": "Chanel Freestyle",
+        "url": "https://open.spotify.com/album/19GP2Hpfv764Wi35GNrbvz"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 126589,
+      "name": "Chanel Freestyle",
+      "url": "https://open.spotify.com/track/5LAsl3k0Vas49Pnoj9GJr3"
+    },
+    {
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
@@ -937,7 +937,7 @@
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/6UGQ1xOA8bl8aSOqtfQk3Y"
@@ -953,7 +953,7 @@
       "url": "https://open.spotify.com/track/6IQvWaVOykPkINlpdfULOr"
     },
     {
-      "added_at": "2024-08-10 08:54:38",
+      "added_at": "2024-08-11 08:52:14",
       "album": {
         "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
         "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"

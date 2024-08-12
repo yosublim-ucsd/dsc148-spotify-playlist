@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 60697,
+  "num_followers": 60710,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Bernalejo",
+        "url": "https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G"
+      },
+      "artists": [
+        {
+          "name": "Mexkla",
+          "url": "https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "La Iguana",
+      "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Sacbe: Sacbe (Complete)",
         "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
       },
@@ -209,6 +225,22 @@
       "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
     },
     {
+      "added_at": "2023-01-07 01:43:47",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Raz\u00f3n de Vivir (Desde Casa)",
@@ -229,20 +261,20 @@
       "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
     },
     {
-      "added_at": "2023-01-07 01:43:47",
+      "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+        "name": "Dilo! Homenaje a P\u00e9rez Prado",
+        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Los M\u00fasicos De Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
         }
       ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+      "duration_ms": 195066,
+      "name": "Mambo en Sax",
+      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -263,18 +295,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Dilo! Homenaje a P\u00e9rez Prado",
-        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
+        "name": "Guidum",
+        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
       },
       "artists": [
         {
-          "name": "Los M\u00fasicos De Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
+          "name": "Abraham Laboriel",
+          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Mambo en Sax",
-      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
+      "duration_ms": 167026,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -295,38 +327,6 @@
       "duration_ms": 270466,
       "name": "Los Peque\u00f1os Detalles",
       "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Guidum",
-        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
-      },
-      "artists": [
-        {
-          "name": "Abraham Laboriel",
-          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Bernalejo",
-        "url": "https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G"
-      },
-      "artists": [
-        {
-          "name": "Mexkla",
-          "url": "https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "La Iguana",
-      "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
-      },
-      "artists": [
-        {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
-        }
-      ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
         "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 148786,
       "name": "Charleston",
       "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
       "added_at": "2023-10-25 13:56:48",
@@ -483,18 +483,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
       },
       "artists": [
         {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        },
+        {
+          "name": "Fernando Zenaido Maldonado",
+          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
         }
       ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+      "duration_ms": 179511,
+      "name": "Caminos de Ayer",
+      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
       "added_at": "2023-11-23 03:14:06",
@@ -515,22 +519,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
       },
       "artists": [
         {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        },
-        {
-          "name": "Fernando Zenaido Maldonado",
-          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
         }
       ],
-      "duration_ms": 179511,
-      "name": "Caminos de Ayer",
-      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2022-08-16 16:23:25",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Funk da Power",
-        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
-      },
-      "artists": [
-        {
-          "name": "Fiusha",
-          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
-        }
-      ],
-      "duration_ms": 316023,
-      "name": "Let It Play",
-      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Jazz",
         "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
       },
@@ -747,6 +731,38 @@
       "duration_ms": 157586,
       "name": "Tipitipit\u00edn",
       "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Chucho en Chipp's",
+        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Su Piano y su Conjunto",
+          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Bula",
+      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Funk da Power",
+        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
+      },
+      "artists": [
+        {
+          "name": "Fiusha",
+          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
+        }
+      ],
+      "duration_ms": 316023,
+      "name": "Let It Play",
+      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -767,22 +783,6 @@
       "duration_ms": 443872,
       "name": "Those People",
       "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Chucho en Chipp's",
-        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
-      },
-      "artists": [
-        {
-          "name": "Chucho Zarzosa Su Piano y su Conjunto",
-          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Bula",
-      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mi Sentimiento Guerrerense",
-        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
-      },
-      "artists": [
-        {
-          "name": "Guerrero Jazz",
-          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
-        }
-      ],
-      "duration_ms": 339280,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
-    },
-    {
       "added_at": "2022-03-30 03:01:09",
       "album": {
         "name": "Kumoi",
@@ -859,18 +843,38 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "So\u00f1e - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
+        "name": "Mi Sentimiento Guerrerense",
+        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
       },
       "artists": [
         {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+          "name": "Guerrero Jazz",
+          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
         }
       ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+      "duration_ms": 339280,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Bienvenidos",
+        "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
+      },
+      "artists": [
+        {
+          "name": "Palapa",
+          "url": "https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0"
+        },
+        {
+          "name": "Francisco Lelo de Larrea",
+          "url": "https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP"
+        }
+      ],
+      "duration_ms": 343187,
+      "name": "5:PM",
+      "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

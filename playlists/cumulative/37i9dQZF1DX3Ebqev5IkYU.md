@@ -4,7 +4,7 @@
 
 > Schlechte Laune? Drück den Play Button!
 
-170 songs - 8 hr 17 min
+171 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Spicy Margarita](https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spicy Margarita](https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER) | 2:34 | 2024-02-01 | 2024-03-13 |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2023-12-19 |  |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-08-28 |  |
+| [Summer Of Love](https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Summer Of Love](https://open.spotify.com/album/3dfw820L9e1avL7i8zwvUU) | 2:03 | 2024-08-09 |  |
 | [Summertime Friends](https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Summertime Friends](https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV) | 2:16 | 2023-09-15 | 2023-11-09 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2023-07-21 |  |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-07-21 |  |
@@ -176,7 +177,7 @@
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2023-07-21 | 2024-08-03 |
 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 | 2023-07-21 | 2023-09-30 |
 | [you were there for me](https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [you were there for me](https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV) | 3:15 | 2023-08-28 | 2024-03-20 |
-| [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2023-07-21 |  |
+| [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2023-07-21 | 2024-08-12 |
 | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D) | 3:51 | 2023-07-21 |  |
 
 \*This playlist was first scraped on 2023-07-28. Prior content cannot be recovered.

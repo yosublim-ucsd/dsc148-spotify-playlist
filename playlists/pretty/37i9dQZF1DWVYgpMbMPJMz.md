@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:0f59qYByNYzspwAr7huTSB">Isadora Pompeo </a> and <a href="spotify:artist:3rdJD72bitczKtW5yNgAA4">Seph Schleuter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,896 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,914 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

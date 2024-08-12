@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 371520,
+  "num_followers": 371637,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABlPi5QfUHQYef+4LkitCLP",
+  "snapshot_id": "ZratgAAAAAB4myzavFzOEN394rQRgB6p",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 249320,
-      "name": "Hole in the Earth",
-      "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB"
+      "duration_ms": 360666,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/2ASygm7048ssav4ekbehPS"
     },
     {
       "added_at": null,
@@ -308,15 +308,15 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 360666,
-      "name": "Beware",
-      "url": "https://open.spotify.com/track/2ASygm7048ssav4ekbehPS"
+      "duration_ms": 249320,
+      "name": "Hole in the Earth",
+      "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 164986,
-      "name": "Swerve City",
-      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
+      "duration_ms": 204880,
+      "name": "Engine No. 9",
+      "url": "https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 204880,
-      "name": "Engine No. 9",
-      "url": "https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8"
+      "duration_ms": 164986,
+      "name": "Swerve City",
+      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Back to School (Mini Maggit)",
-      "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 245973,
       "name": "Bored",
       "url": "https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Back to School (Mini Maggit)",
+      "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ohms",
-        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 250222,
-      "name": "Ohms",
-      "url": "https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 189760,
       "name": "Feiticeira",
       "url": "https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ohms",
+        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 250222,
+      "name": "Ohms",
+      "url": "https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1"
     },
     {
       "added_at": null,

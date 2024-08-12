@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Nick Cave",
-  "num_followers": 479361,
+  "num_followers": 479669,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -463,22 +447,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Evil Empire",
-        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Bulls On Parade",
-      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -495,18 +463,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+        "name": "Evil Empire",
+        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
         }
       ],
-      "duration_ms": 240213,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
+      "duration_ms": 229466,
+      "name": "Bulls On Parade",
+      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -523,6 +491,38 @@
       "duration_ms": 301866,
       "name": "All These Things That I've Done",
       "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 240213,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -571,22 +571,6 @@
       "duration_ms": 187653,
       "name": "Could Have Been Me",
       "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -655,22 +639,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
       },
@@ -683,6 +651,22 @@
       "duration_ms": 169186,
       "name": "Bad Reputation",
       "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 260026,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -767,6 +751,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
       "artists": [
         {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "Songbird - 2004 Remaster",
-      "url": "https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "The Specials (Deluxe Version)",
         "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 172920,
       "name": "A Message to You Rudy - 2015 Remaster",
       "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "Songbird - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Sound Affects",
+        "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "That's Entertainment",
+      "url": "https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Turn the Lights Back On",
         "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Sound Affects",
-        "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 212786,
-      "name": "That's Entertainment",
-      "url": "https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0"
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 309306,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
     },
     {
       "added_at": "2024-07-18 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 209082,
+  "num_followers": 209159,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABteaWxOouCw1H3cnws+wqL",
+  "snapshot_id": "ZratgAAAAABS0409N83ciQHObZ8IP2Wo",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Me Quiero Mas",
-        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 190129,
-      "name": "Yo Me Quiero Mas",
-      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
         "url": "https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 153855,
       "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
       "url": "https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Me Quiero Mas",
+        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Yo Me Quiero Mas",
+      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Corrido De Everardo (En Vivo)",
-        "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "El Corrido De Everardo (En Vivo)",
-      "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Zapopan (En Vivo)",
         "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 148874,
       "name": "Detras Del Miedo",
       "url": "https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Corrido De Everardo (En Vivo)",
+        "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "El Corrido De Everardo (En Vivo)",
+      "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
     },
     {
       "added_at": null,
@@ -911,22 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Champagne O Cerveza",
-        "url": "https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Dany El Nise",
-          "url": "https://open.spotify.com/artist/5x3F32PI0v0SdjilxDgQt8"
         }
       ],
-      "duration_ms": 148860,
-      "name": "Champagne O Cerveza",
-      "url": "https://open.spotify.com/track/2RsGtPL49HyVUQIp9cb98S"
+      "duration_ms": 148093,
+      "name": "El Ejecutor (Bonus Track)",
+      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
     }
   ],
   "unique_name": "This Is El Komander",

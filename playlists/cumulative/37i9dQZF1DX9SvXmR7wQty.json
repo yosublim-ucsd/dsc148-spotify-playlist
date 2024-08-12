@@ -11515,6 +11515,24 @@
     },
     {
       "album": {
+        "name": "Mandat de D\u00e9p\u00f4t",
+        "url": "https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192468,
+      "name": "Darement",
+      "url": "https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE"
+    },
+    {
+      "album": {
         "name": "DBD",
         "url": "https://open.spotify.com/album/2hbQVixIQE1V4kashw9Q2P"
       },
@@ -29124,7 +29142,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 180827,
       "name": "LORO PIANA",
       "url": "https://open.spotify.com/track/5CJmBOAgae1IAiWiyvtezR"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 238355,
+  "num_followers": 238455,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Me Robaste El Corazon",
-        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "El Botecito",
         "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 150360,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Me Robaste El Corazon",
+        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "duration_ms": 198791,
+      "name": "La Guitarra de Lolo (Huapango)",
+      "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "Cuando No Estas Conmigo",
         "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 201367,
       "name": "Cuando No Estas Conmigo",
       "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
-      },
-      "artists": [
-        {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
-        }
-      ],
-      "duration_ms": 198791,
-      "name": "La Guitarra de Lolo (Huapango)",
-      "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "SC-9",
-        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 165261,
-      "name": "SC-9",
-      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "Cumbia Con Clase",
         "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
         }
       ],
-      "duration_ms": 124680,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/4XlXcQZQrNJdsVjJX4ZWIy"
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -703,6 +687,22 @@
       "duration_ms": 216013,
       "name": "El Baile del Sacadito",
       "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 124680,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/4XlXcQZQrNJdsVjJX4ZWIy"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "El Sube Y Baja",
-        "url": "https://open.spotify.com/album/5JRg9iBzGz8l7c8z1u6m3C"
-      },
-      "artists": [
-        {
-          "name": "Montez de Durango",
-          "url": "https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Pasito Duranguense",
-      "url": "https://open.spotify.com/track/3rHsX3TLPYixr7eGzRlZqI"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "Otro Mundo",
         "url": "https://open.spotify.com/album/59Vhmr9cg38yiXZwUgxfQZ"
       },
@@ -787,34 +771,18 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Zapateado Endemoniado",
-        "url": "https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy"
+        "name": "El Sube Y Baja",
+        "url": "https://open.spotify.com/album/5JRg9iBzGz8l7c8z1u6m3C"
       },
       "artists": [
         {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+          "name": "Montez de Durango",
+          "url": "https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc"
         }
       ],
-      "duration_ms": 168600,
-      "name": "Orde\u00f1ando la Vaca",
-      "url": "https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
-      },
-      "artists": [
-        {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "Si Tu Boquita Fuera",
-      "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
+      "duration_ms": 200213,
+      "name": "Pasito Duranguense",
+      "url": "https://open.spotify.com/track/3rHsX3TLPYixr7eGzRlZqI"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -835,6 +803,38 @@
       "duration_ms": 155908,
       "name": "Que la Dejen Ir al Baile Sola",
       "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "Si Tu Boquita Fuera",
+      "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Zapateado Endemoniado",
+        "url": "https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Orde\u00f1ando la Vaca",
+      "url": "https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "El Bigote",
+      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "Te Sigo Amando",
         "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 186546,
       "name": "El Camale\u00f3n",
       "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
-      },
-      "artists": [
-        {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "El Bigote",
-      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "A Mover el Guayin",
-        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Las mujeres quieren bailar",
-      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 183360,
       "name": "El Contagio",
       "url": "https://open.spotify.com/track/1wsPiN2Y0cIvMDbLK8ywkt"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "A Mover el Guayin",
+        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Las mujeres quieren bailar",
+      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Zapateado Endemoniado",
-        "url": "https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy"
-      },
-      "artists": [
-        {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Zapateado Endemoniado",
-      "url": "https://open.spotify.com/track/1tEZVJXk5GEYEwr5a04nj8"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "El wiri wiri",
         "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 158165,
       "name": "El wiri wiri",
       "url": "https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Zapateado Endemoniado",
+        "url": "https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Zapateado Endemoniado",
+      "url": "https://open.spotify.com/track/1tEZVJXk5GEYEwr5a04nj8"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "Mujer Interesada",
+        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Mujer Interesada",
+      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "Solo Un Dia\u2026",
         "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+        "name": "Nuestra Historia Musical (Volumen 1)",
+        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+          "name": "Banda Ola Azul de Zirahuen",
+          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
         }
       ],
-      "duration_ms": 160011,
-      "name": "Mujer Interesada",
-      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+      "duration_ms": 193053,
+      "name": "Un Angel No Debe Llorar",
+      "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1415,22 +1431,6 @@
       "duration_ms": 199076,
       "name": "El Ki Ki Ki",
       "url": "https://open.spotify.com/track/7xSF9MUJboslefs58TO6SB"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "Nuestra Historia Musical (Volumen 1)",
-        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
-      },
-      "artists": [
-        {
-          "name": "Banda Ola Azul de Zirahuen",
-          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "Un Angel No Debe Llorar",
-      "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "LA CUMBIA DEL CASTOR",
-        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 250900,
-      "name": "LA CUMBIA DEL CASTOR",
-      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "10 Pa' Huapanguear",
         "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "LA CUMBIA DEL CASTOR",
+        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 250900,
+      "name": "LA CUMBIA DEL CASTOR",
+      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "Aclarando la Mente",
         "url": "https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 205156,
       "name": "La Bailadora",
       "url": "https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "De Parranda Lives Vol. 2/3",
-        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 208049,
-      "name": "Ojala y te animes",
-      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1647,22 +1631,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Los \u00danicos del Huapango Michoacano",
-        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
-      },
-      "artists": [
-        {
-          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
-          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Lucesita",
-      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "Los Cacahuatazos",
         "url": "https://open.spotify.com/album/3kdv2NDNPtHRmGvzFxnAB2"
       },
@@ -1675,6 +1643,38 @@
       "duration_ms": 165194,
       "name": "Los Cacahuatazos",
       "url": "https://open.spotify.com/track/5uGTO3PtMdZPsLw6xqTjoc"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "De Parranda Lives Vol. 2/3",
+        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 208049,
+      "name": "Ojala y te animes",
+      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Los \u00danicos del Huapango Michoacano",
+        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
+      },
+      "artists": [
+        {
+          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
+          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
+        }
+      ],
+      "duration_ms": 148375,
+      "name": "Lucesita",
+      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
-      },
-      "artists": [
-        {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "Zapateado Encabronado #2",
-      "url": "https://open.spotify.com/track/2kZ5FApqAZIeHPF66ER0ac"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "Mujer Alegre",
         "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 217894,
       "name": "Mujer Alegre",
       "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
+      },
+      "artists": [
+        {
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "Zapateado Encabronado #2",
+      "url": "https://open.spotify.com/track/2kZ5FApqAZIeHPF66ER0ac"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "Tiempo Al Tiempo",
+        "url": "https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/5sBCpZI95tSRPa7FSNAJsl"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 128073,
       "name": "Me Aceptaste - En Vivo",
       "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "Tiempo Al Tiempo",
-        "url": "https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 191480,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/5sBCpZI95tSRPa7FSNAJsl"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 165848,
-      "name": "EL AMOR DE SU VIDA",
-      "url": "https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 165887,
       "name": "Un Cari\u00f1o Como Tu - En Vivo",
       "url": "https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 165848,
+      "name": "EL AMOR DE SU VIDA",
+      "url": "https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2091,6 +2091,38 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "De Parranda Lives Vol. 5",
+        "url": "https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 252883,
+      "name": "Te vez Buena",
+      "url": "https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
       },
@@ -2107,18 +2139,18 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "De Parranda Lives Vol. 5",
-        "url": "https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E"
+        "name": "Lives Pa' la Raza",
+        "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 252883,
-      "name": "Te vez Buena",
-      "url": "https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys"
+      "duration_ms": 134234,
+      "name": "La Flechita",
+      "url": "https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2151,38 +2183,6 @@
       "duration_ms": 189106,
       "name": "Zapateado Encabronado - Medley",
       "url": "https://open.spotify.com/track/74asr255RQX7n8BPa5FdzA"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "Lives Pa' la Raza",
-        "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 134234,
-      "name": "La Flechita",
-      "url": "https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "Lives, Vol. 1",
+        "url": "https://open.spotify.com/album/4TZDqkxobju0CAUYy3NbuT"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 192458,
+      "name": "Hola Que Tal",
+      "url": "https://open.spotify.com/track/7AwSauhkpTlnDh9Ap9ESKl"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "Desqu\u00edtate Conmigo",
         "url": "https://open.spotify.com/album/7wNje8mmxGfKSEom6IkrLH"
       },
@@ -2315,8 +2331,24 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Lives, Vol. 1",
-        "url": "https://open.spotify.com/album/4TZDqkxobju0CAUYy3NbuT"
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 167544,
+      "name": "Eva Mar\u00eda",
+      "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj"
       },
       "artists": [
         {
@@ -2324,25 +2356,9 @@
           "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 192458,
-      "name": "Hola Que Tal",
-      "url": "https://open.spotify.com/track/7AwSauhkpTlnDh9Ap9ESKl"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 224722,
-      "name": "Flor de Pi\u00f1a",
-      "url": "https://open.spotify.com/track/4Gi4t7VTmsarbId2oEYZkj"
+      "duration_ms": 201084,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2359,38 +2375,6 @@
       "duration_ms": 216163,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/1iMcb6dkCoKbLIp9akziVk"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 208689,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 167544,
-      "name": "Eva Mar\u00eda",
-      "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2427,18 +2411,34 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj"
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
       },
       "artists": [
         {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
         }
       ],
-      "duration_ms": 201084,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy"
+      "duration_ms": 224722,
+      "name": "Flor de Pi\u00f1a",
+      "url": "https://open.spotify.com/track/4Gi4t7VTmsarbId2oEYZkj"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 208689,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
     },
     {
       "added_at": "2024-07-11 00:49:46",

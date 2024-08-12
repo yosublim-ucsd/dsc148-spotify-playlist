@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,335 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,339 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 48 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
 | 49 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 |
 | 50 | [The Ghost](https://open.spotify.com/track/2gNFYdcnFnpnaNZCeyBUxA) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [The Ghost](https://open.spotify.com/album/5DsSCWbjlNjIDoVgKcyyxd) | 5:25 |
-| 51 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 |
-| 52 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 |
-| 53 | [Sweet Moment](https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Sweet Moment](https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10) | 2:54 |
+| 51 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 |
+| 52 | [Sweet Moment](https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Sweet Moment](https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10) | 2:54 |
+| 53 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 |
 | 54 | [Ankerklause \(Is The Feeling Only Strong\)](https://open.spotify.com/track/3dvInTU2QDIGjIDGrfV4N0) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Ankerklause \(Is The Feeling Only Strong\)](https://open.spotify.com/album/1AcmrdgJxvJkwZoKJ9s8ww) | 3:09 |
 | 55 | [Everything I Do](https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Everything I Do](https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc) | 3:14 |
 | 56 | [Nsera \- Solomun Remix Edit](https://open.spotify.com/track/7IP9QmNlaocwL2NFLfaZQE) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nsera \(Solomun Remix\)](https://open.spotify.com/album/3caxZnUDcQNgQq1o51pbe8) | 4:23 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-554 songs - 1 day 2 hr 58 min
+555 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [De Amor Virei Amante \(feat\. César Menotti & Fabiano\) \- Ao Vivo](https://open.spotify.com/track/7heAgXjqhJ0BHmkIhPIfiA) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Ao Vivo em Goiânia](https://open.spotify.com/album/2lFI0KAX7HvEa82V3BoDRP) | 3:29 | 2023-12-30 |  |
 | [De Qual Que Eu Vou](https://open.spotify.com/track/3WRd3YjxX3UlTeVgZrSmZu) | [Bento](https://open.spotify.com/artist/33KFxz88F1NQUDJq9v7WhV) | [De Qual Que Eu Vou](https://open.spotify.com/album/4R0YYuPuow2729bfqnsDOO) | 2:28 | 2024-07-22 |  |
 | [De Seguidor Virou Amor](https://open.spotify.com/track/565Qh9WkIgK2Dh73bBIpif) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Esquenta do DVD](https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV) | 2:35 | 2023-12-30 |  |
+| [Deixa Eu Sofrer De Boa](https://open.spotify.com/track/28lJX5eak7BtyB7nTughQU) | [Fernando & Fabiano](https://open.spotify.com/artist/2XsnXTymYm47yOXjQVhhEe) | [Deixa Eu Sofrer De Boa](https://open.spotify.com/album/4ixG2u9U0Ew5Qe9fqVqViV) | 2:58 | 2024-08-11 |  |
 | [Deixa o Choro Pingar \(Ao Vivo\)](https://open.spotify.com/track/68DbeflYqndZsXCca7hc3R) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/43VostSbPyVlPMEGNy6zSX) | 2:53 | 2023-12-30 |  |
 | [Delicinha](https://open.spotify.com/track/4Vwr6rNipMxIolYHDDb86L) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Delicinha](https://open.spotify.com/album/3OdNgpZ9q0CqFwDpzcqZGJ) | 2:57 | 2023-12-30 |  |
 | [Desafoga](https://open.spotify.com/track/6bda1JRKm5caqWvTgvjrSb) | [Matheus Moraes](https://open.spotify.com/artist/2NwH41qkOrtEwPQOJF3FP7), [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Desafoga](https://open.spotify.com/album/6NR67zP4bXIk2EjbaBJtXR) | 2:52 | 2023-12-30 | 2024-07-20 |

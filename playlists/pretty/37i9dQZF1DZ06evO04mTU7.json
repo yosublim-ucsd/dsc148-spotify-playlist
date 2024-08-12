@@ -1,13 +1,37 @@
 {
-  "description": "This is Ajuliacosta. The essential tracks, all in one playlist.",
-  "num_followers": 5255,
+  "description": "This is Ajuliacosta. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 5269,
   "original_name": "This Is Ajuliacosta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAA7zSoT3kLh/6l4xx8jmjdm",
+  "snapshot_id": "ZratgAAAAABHEL+MqLuJHuKjQ2xhcbsL",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEMR\u00c9H (FINAL SPRINT)",
+        "url": "https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "Eles Me Odeiam",
+      "url": "https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W"
+    },
     {
       "added_at": null,
       "album": {
@@ -39,30 +63,6 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEMR\u00c9H (FINAL SPRINT)",
-        "url": "https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9"
-      },
-      "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "Eles Me Odeiam",
-      "url": "https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W"
     },
     {
       "added_at": null,

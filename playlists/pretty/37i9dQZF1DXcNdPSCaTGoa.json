@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW?si=Mz0GoCLoQ7-LwD95Qaea4A\">AKA's</a> phenomenal \"LEVELS\".",
-  "num_followers": 65042,
+  "num_followers": 65064,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
         "name": "Sound Revival",
         "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
       },
       "artists": [
         {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
         }
       ],
-      "duration_ms": 265773,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
+      "duration_ms": 356706,
+      "name": "Kum Nakum",
+      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -395,38 +411,6 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 356706,
-      "name": "Kum Nakum",
-      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Nomvula (After the Rain)",
-      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 262826,
       "name": "Mambotjie (feat. 2Shot)",
       "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Nomvula (After the Rain)",
+      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Khokhovula",
+        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
         }
       ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+      "duration_ms": 317760,
+      "name": "Sana Luma (Thats The Way Love Is)",
+      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -619,22 +635,6 @@
       "duration_ms": 404600,
       "name": "Nizalwa Ngobani?",
       "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
-        "name": "Khokhovula",
-        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 317760,
-      "name": "Sana Luma (Thats The Way Love Is)",
-      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
         "name": "Y U 4 Me",
         "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
       },
@@ -767,18 +751,38 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "Ndawo Yami",
-        "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
       "artists": [
         {
-          "name": "Zamajobe",
-          "url": "https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv"
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 275000,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2"
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        },
+        {
+          "name": "S'bu",
+          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
+        }
+      ],
+      "duration_ms": 315266,
+      "name": "Palafala (feat. S'bu)",
+      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -799,6 +803,22 @@
       "duration_ms": 295813,
       "name": "Khona",
       "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
+        "name": "Ndawo Yami",
+        "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
+      },
+      "artists": [
+        {
+          "name": "Zamajobe",
+          "url": "https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -835,26 +855,6 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        },
-        {
-          "name": "S'bu",
-          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
-        }
-      ],
-      "duration_ms": 315266,
-      "name": "Palafala (feat. S'bu)",
-      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
         "name": "Rain Man: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 245626,
       "name": "Scatterlings Of Africa",
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 269720,
+      "name": "Magesh",
+      "url": "https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -939,38 +955,6 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "Grand Masters",
-        "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
-      },
-      "artists": [
-        {
-          "name": "Simphiwe Dana",
-          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
-        }
-      ],
-      "duration_ms": 296911,
-      "name": "Ndiredi",
-      "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 269720,
-      "name": "Magesh",
-      "url": "https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
         "name": "Ancient Evening",
         "url": "https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 257253,
       "name": "The Knife",
       "url": "https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
+        "name": "Grand Masters",
+        "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
+      },
+      "artists": [
+        {
+          "name": "Simphiwe Dana",
+          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
+        }
+      ],
+      "duration_ms": 296911,
+      "name": "Ndiredi",
+      "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
     }
   ],
   "unique_name": "SA Gold",

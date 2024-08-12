@@ -1,6 +1,6 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 456350,
+  "num_followers": 456315,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-08-07 16:03:32",
       "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 169353,
-      "name": "Let Me Down Slowly",
-      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
-    },
-    {
-      "added_at": "2024-08-07 16:03:32",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
+      "added_at": "2024-08-07 16:03:32",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 169353,
+      "name": "Let Me Down Slowly",
+      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
     },
     {
       "added_at": "2024-08-07 16:03:32",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-08-07 16:03:32",
       "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 220290,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"
+    },
+    {
+      "added_at": "2024-08-07 16:03:32",
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 227693,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
-    },
-    {
-      "added_at": "2024-08-07 16:03:32",
-      "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 220290,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"
     },
     {
       "added_at": "2024-08-07 16:03:32",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-08-07 16:03:32",
       "album": {
-        "name": "Outnumbered",
-        "url": "https://open.spotify.com/album/4BQVnx1yJrDa1tcky9D9N6"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 245699,
-      "name": "Outnumbered",
-      "url": "https://open.spotify.com/track/6UjZ2Yx2g2a52XxiA8ONxZ"
-    },
-    {
-      "added_at": "2024-08-07 16:03:32",
-      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 194453,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
+    },
+    {
+      "added_at": "2024-08-07 16:03:32",
+      "album": {
+        "name": "Outnumbered",
+        "url": "https://open.spotify.com/album/4BQVnx1yJrDa1tcky9D9N6"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 245699,
+      "name": "Outnumbered",
+      "url": "https://open.spotify.com/track/6UjZ2Yx2g2a52XxiA8ONxZ"
     },
     {
       "added_at": "2024-08-07 16:03:32",

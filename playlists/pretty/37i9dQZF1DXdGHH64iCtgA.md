@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,629 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,654 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 28 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
 | 29 | [HEAVEN'S GATES \(feat\. Izzy Camina\) \- Manila Killa Remix](https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [HEAVEN'S GATES \(feat\. Izzy Camina\) \[Manila Killa Remix\]](https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7) | 4:00 |
 | 30 | [Strut](https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Strut](https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa) | 3:05 |
-| 31 | [Love On A Real Train](https://open.spotify.com/track/49y78l709VxMkIcq7jUJKN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Dream Sequence](https://open.spotify.com/album/7ALFR4o9ZXfqNVv9EOORn1) | 3:56 |
-| 32 | [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 |
+| 31 | [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 |
+| 32 | [Love On A Real Train](https://open.spotify.com/track/49y78l709VxMkIcq7jUJKN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Dream Sequence](https://open.spotify.com/album/7ALFR4o9ZXfqNVv9EOORn1) | 3:56 |
 | 33 | [Crispy Bacon](https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [30](https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn) | 5:52 |
 | 34 | [1982](https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp) | [First Album \(2009 Reissue\)](https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8) | 5:19 |
 | 35 | [Ivoire \(feat\. Kio Amachree\)](https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Kio Amachree](https://open.spotify.com/artist/73LminGpr0A0bVpO5MBwdj) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 8:15 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 85 | [Orvnge](https://open.spotify.com/track/0rG5nqOJMU8uEqq4RGC7oN) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Orvnge](https://open.spotify.com/album/2gC6Mski1UzwVTwdbUAQPU) | 4:22 |
 | 86 | [YSL](https://open.spotify.com/track/32qENt36EnFCKOEGzLjRBY) | [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [HYPNOTIZE EP](https://open.spotify.com/album/3uyE80PrNEyO6LVRu9e6Ud) | 2:42 |
 | 87 | [Eat The Runway](https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [Eat The Runway](https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0) | 3:08 |
-| 88 | [E](https://open.spotify.com/track/21wXCpWHhImzz4KYHxQ71q) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [E](https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA) | 4:12 |
-| 89 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 |
+| 88 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 |
+| 89 | [E](https://open.spotify.com/track/21wXCpWHhImzz4KYHxQ71q) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [E](https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA) | 4:12 |
 | 90 | [Fierce](https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Late Night Specialist](https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ) | 6:02 |
 | 91 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 |
 | 92 | [Time Stands Still](https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Time Warps](https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE) | 16:37 |

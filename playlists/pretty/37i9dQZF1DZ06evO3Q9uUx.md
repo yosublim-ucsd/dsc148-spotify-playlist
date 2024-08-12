@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 ### [This Is BIA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Q9uUx)
 
-> This Is BIA\. Los temas esenciales, todos en una lista.
+> This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,583 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,588 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 9 | [Suéltate \(with Sam i & Jarina De Marco feat\. Anitta, BIA\) \- From Sing 2](https://open.spotify.com/track/3nUcCMjX6up5Ik95sTpNU0) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:30 |
 | 10 | [Like Yoga](https://open.spotify.com/track/0nea1dubr2tYkSb9Fo7pkE) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Life's A Gamble](https://open.spotify.com/album/6wScYhNN09rl5Sc4XfL9ru) | 2:40 |
 | 11 | [Miami \(feat\. BIA\)](https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 4:03 |
-| 12 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 |
-| 13 | [Mami \(feat\. BIA\)](https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:58 |
+| 12 | [Mami \(feat\. BIA\)](https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:58 |
+| 13 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 |
 | 14 | [CAN'T TOUCH THIS \- R3HAB Remix](https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [CAN'T TOUCH THIS \(R3HAB Remix\)](https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC) | 2:03 |
 | 15 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
 | 16 | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [One Minute Warning](https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [One Minute Warning](https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR) | 1:01 |
 | 50 | [PLATE](https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
 
-Snapshot ID: `ZrVcAAAAAAA30irNndZPMzuEFx3yojnl`
+Snapshot ID: `ZratgAAAAACg/Ti6l7uqWZjthCd/kpc1`

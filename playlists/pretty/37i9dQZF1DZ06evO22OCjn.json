@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 292823,
+  "num_followers": 292905,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAACY+K/Bjui/xVrvkeD2vkH3",
+  "snapshot_id": "ZratgAAAAACQM4/Kg+8bGZyo9dMP9Eqz",
   "tracks": [
     {
       "added_at": null,
@@ -743,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
       "artists": [
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 175677,
-      "name": "Toni-Ann Singh (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg"
+      "duration_ms": 92342,
+      "name": "More Life",
+      "url": "https://open.spotify.com/track/73e0LixjWj3e8prfptVeGD"
     },
     {
       "added_at": null,
@@ -779,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 92342,
-      "name": "More Life",
-      "url": "https://open.spotify.com/track/73e0LixjWj3e8prfptVeGD"
+      "duration_ms": 175677,
+      "name": "Toni-Ann Singh (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg"
     },
     {
       "added_at": null,

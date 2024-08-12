@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 171387,
+  "num_followers": 171501,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "La Nave del Olvido",
-        "url": "https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "La Nave del Olvido",
-      "url": "https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "De M\u00e9xico",
         "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 171448,
       "name": "Estos Celos",
       "url": "https://open.spotify.com/track/2G5b00dq8S0pAo3I4kC7cI"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "La Nave del Olvido",
+        "url": "https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "La Nave del Olvido",
+      "url": "https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 213902,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "La Gata Bajo la Lluvia (Sesi\u00f3n Ac\u00fastica en Vivo)",
         "url": "https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 248896,
       "name": "La Gata Bajo la Lluvia - Sesi\u00f3n Ac\u00fastica en Vivo",
       "url": "https://open.spotify.com/track/7cdVE8GcD1IWxO5dkBJUvq"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -275,18 +275,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+        "name": "Si Veo a Tu Mam\u00e1",
+        "url": "https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
         }
       ],
-      "duration_ms": 162510,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
+      "duration_ms": 160000,
+      "name": "Si Veo a Tu Mam\u00e1",
+      "url": "https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Si Veo a Tu Mam\u00e1",
-        "url": "https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh"
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
       "artists": [
         {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Si Veo a Tu Mam\u00e1",
-      "url": "https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P"
+      "duration_ms": 162510,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -339,6 +339,26 @@
       "duration_ms": 215931,
       "name": "El Amor Que Me Ten\u00eda - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6mt72Dsl80Q69kREndCnk5"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 291929,
+      "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -371,26 +391,6 @@
       "duration_ms": 185136,
       "name": "Lobo Hombre En Par\u00eds",
       "url": "https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 291929,
-      "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Viral Hits, Vol. 1",
         "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 231910,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
-      },
-      "artists": [
-        {
-          "name": "Segundo Piso",
-          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Cien A\u00f1os",
         "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 205794,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
+      },
+      "artists": [
+        {
+          "name": "Segundo Piso",
+          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Lucha De Gigantes",
-        "url": "https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl"
-      },
-      "artists": [
-        {
-          "name": "Mac Gregor",
-          "url": "https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF"
-        }
-      ],
-      "duration_ms": 226113,
-      "name": "Lucha De Gigantes",
-      "url": "https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Calma (Remix)",
         "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 172336,
       "name": "Calma - Remix",
       "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Lucha De Gigantes",
+        "url": "https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl"
+      },
+      "artists": [
+        {
+          "name": "Mac Gregor",
+          "url": "https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF"
+        }
+      ],
+      "duration_ms": 226113,
+      "name": "Lucha De Gigantes",
+      "url": "https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Mis ojos lloran por ti",
+        "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 230571,
+      "name": "Mis ojos lloran por ti",
+      "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Andar Conmigo",
         "url": "https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn"
       },
@@ -899,6 +915,22 @@
       "duration_ms": 238874,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Bolero Falaz",
+        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
+      },
+      "artists": [
+        {
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+        }
+      ],
+      "duration_ms": 263500,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -919,38 +951,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis ojos lloran por ti",
-        "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 230571,
-      "name": "Mis ojos lloran por ti",
-      "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Con la miel en los labios",
-        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
-      },
-      "artists": [
-        {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "Con la miel en los labios",
-      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Bohemia Y Trova, Vol. 2",
         "url": "https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 174040,
       "name": "Alguien Te Va a Hacer Llorar",
       "url": "https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Bolero Falaz",
-        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
-      },
-      "artists": [
-        {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1015,6 +999,22 @@
       "duration_ms": 214838,
       "name": "Dembow - Acoustic Version",
       "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Con la miel en los labios",
+        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
+      },
+      "artists": [
+        {
+          "name": "Carolina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "Con la miel en los labios",
+      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
+      },
+      "artists": [
+        {
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
+        }
+      ],
+      "duration_ms": 185842,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 214425,
       "name": "Vete",
       "url": "https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
-      },
-      "artists": [
-        {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
-        }
-      ],
-      "duration_ms": 185842,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
-      },
-      "artists": [
-        {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
-        }
-      ],
-      "duration_ms": 172839,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/4Q3tdLka7XUgTJV4nwkSJX"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 108027,
       "name": "Ya no tiene novio",
       "url": "https://open.spotify.com/track/0h00BCiowVxRusovJAOTgY"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
+      },
+      "artists": [
+        {
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
+        }
+      ],
+      "duration_ms": 172839,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Ropa Cara",
-        "url": "https://open.spotify.com/album/1bgTQ6ggQ020SCTSLL8NP2"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 114624,
-      "name": "Ropa Cara",
-      "url": "https://open.spotify.com/track/6m3FUyZ90V3eWdHPSafhm1"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 149647,
       "name": "Son\u0303e",
       "url": "https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Ropa Cara",
+        "url": "https://open.spotify.com/album/1bgTQ6ggQ020SCTSLL8NP2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 114624,
+      "name": "Ropa Cara",
+      "url": "https://open.spotify.com/track/6m3FUyZ90V3eWdHPSafhm1"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
+        "name": "Amigos con derechos",
+        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
       },
       "artists": [
         {
-          "name": "Islas",
-          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Fin",
-      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
+      "duration_ms": 160237,
+      "name": "Amigos con derechos",
+      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
     }
   ],
   "unique_name": "Covers Ac\u00fasticos",

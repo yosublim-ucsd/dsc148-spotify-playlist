@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1115618,
+  "num_followers": 1115599,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Mustang",
         "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 134373,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Stars Of CCTV",
-        "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
-      },
-      "artists": [
-        {
-          "name": "Hard-Fi",
-          "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Cash Machine",
-      "url": "https://open.spotify.com/track/5F9Pe2Tg20NRi8N4cHHXUD"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "King of Sweden",
         "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
       },
@@ -807,34 +791,18 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Under The Milky Way",
-        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
+        "name": "Stars Of CCTV",
+        "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
       },
       "artists": [
         {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "Hard-Fi",
+          "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
         }
       ],
-      "duration_ms": 260101,
-      "name": "Under The Milky Way",
-      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "Daisy - Spotify Singles",
-      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+      "duration_ms": 222600,
+      "name": "Cash Machine",
+      "url": "https://open.spotify.com/track/5F9Pe2Tg20NRi8N4cHHXUD"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -855,6 +823,22 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
+        "name": "Under The Milky Way",
+        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 260101,
+      "name": "Under The Milky Way",
+      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
         "name": "Guiding Light",
         "url": "https://open.spotify.com/album/7BCZXVyzAyoUMTA1MHpGJJ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 217633,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/7wDqHhtRkP1TXSlZK0sEQH"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Toni",
-        "url": "https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 274613,
-      "name": "Toni",
-      "url": "https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Singles (2016 Remaster)",
         "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 259693,
       "name": "Crystal - Radio Edit; 2015 Remaster",
       "url": "https://open.spotify.com/track/6we46yC7yWsGc9qTIpxaXR"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Toni",
+        "url": "https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 274613,
+      "name": "Toni",
+      "url": "https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Battered & Bruised",
-        "url": "https://open.spotify.com/album/6z9Cgau0pl5CFkhWkpwuZx"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 143744,
-      "name": "Battered & Bruised",
-      "url": "https://open.spotify.com/track/0aMTOwMg93ZJlM1xCZy0ia"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "The Ballad of Darren",
         "url": "https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 248774,
       "name": "Barbaric",
       "url": "https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Battered & Bruised",
+        "url": "https://open.spotify.com/album/6z9Cgau0pl5CFkhWkpwuZx"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 143744,
+      "name": "Battered & Bruised",
+      "url": "https://open.spotify.com/track/0aMTOwMg93ZJlM1xCZy0ia"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "HEAVY META",
-        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
-      },
-      "artists": [
-        {
-          "name": "Ron Gallo",
-          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Young Lady, You're Scaring Me",
-      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Vigil",
         "url": "https://open.spotify.com/album/5y1eOXlhAxRMDTy2OhbSP6"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 194099,
       "name": "Vigil",
       "url": "https://open.spotify.com/track/3O5iJnOsqmlJ52ilqbpJJv"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "HEAVY META",
+        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+      },
+      "artists": [
+        {
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Young Lady, You're Scaring Me",
+      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
     },
     {
       "added_at": "2024-07-12 17:56:50",

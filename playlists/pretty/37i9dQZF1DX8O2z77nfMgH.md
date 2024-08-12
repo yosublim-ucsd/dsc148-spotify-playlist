@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Tiago PZK, Emilia, Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,624 likes - 52 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,639 likes - 52 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [TRANQUI](https://open.spotify.com/track/6MNmaFLyMiAl0DYSpaHWIr) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [TRANQUI](https://open.spotify.com/album/61YhnYILgjoMOCAD0KXiqs) | 2:10 |
 | 39 | [Original Fam: UN PROBLEMA](https://open.spotify.com/track/3EjJWeWZYFo90Hp7JDomew) | [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6), [Sloowtrack](https://open.spotify.com/artist/0UVerhkfCX6dHTmOcvafbM) | [Original Fam: UN PROBLEMA](https://open.spotify.com/album/1d7WHdkWxFs4JCzS7WADzh) | 3:08 |
 | 40 | [Viviendo Muerto](https://open.spotify.com/track/1m7dHT1RS18ZWMFBVvaJ1t) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [dj spizike](https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm) | [Viviendo Muerto](https://open.spotify.com/album/5PY1rRBNuPlODJpEZdPojp) | 3:32 |
-| 41 | [Pa´Las Joyas](https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Pa´Las Joyas](https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO) | 2:44 |
+| 41 | [PA´ LAS JOYAS](https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [PA´ LAS JOYAS](https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO) | 2:44 |
 | 42 | [MMM](https://open.spotify.com/track/55zce9X7t9rk04W2mBOeoA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [MMM](https://open.spotify.com/album/1jxUlNVbVBagqhRUvEAQBx) | 2:09 |
 | 43 | [Como Si Fuese Real](https://open.spotify.com/track/6QrM9W6ccP6Gf5sOAI4oEp) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Como Si Fuese Real](https://open.spotify.com/album/2nI1kLvBAT8NdMDrny1UK4) | 1:55 |
 | 44 | [Brokix Hotline: Cobuz & Bustta](https://open.spotify.com/track/4dnCAHa7U4x5T5EKHT4Sw3) | [Hotline](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [Brokix Hotline: Cobuz & Bustta](https://open.spotify.com/album/3MQi4dwNeCPowK1iBtUCh7) | 2:39 |

@@ -2,7 +2,7 @@
 
 ### [This Is Los Primos del Este](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pk81i)
 
-> This is Los Primos del Este\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Los Primos del Este\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
 
 51 songs - 2 hr 39 min
 

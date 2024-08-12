@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Apache 207, AYLIVA
 
-108 songs - 4 hr 59 min
+109 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [6 Minuten](https://open.spotify.com/track/2yCA2pTaO6RaU8r9o8CpnI) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [6 Minuten](https://open.spotify.com/album/28KN9ZvJ3YMKhMKqht0wZ0) | 2:54 | 2024-06-28 |  |
 | [Anderer Mann](https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Anderer Mann](https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg) | 2:15 | 2024-06-28 |  |
 | [Atlantis](https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:34 | 2024-06-28 |  |
+| [August](https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [August](https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo) | 2:48 | 2024-08-01 |  |
 | [Bei Nacht](https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Bei Nacht](https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B) | 2:54 | 2024-06-28 |  |
 | [BERETTA](https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [BERETTA](https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh) | 3:32 | 2024-06-28 |  |
 | [Beverly Hills](https://open.spotify.com/track/3euFYtusViGwzX1R6wiUEx) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Beverly Hills](https://open.spotify.com/album/7gT0Xn9actXgHjVBweCzxL) | 2:07 | 2024-06-28 |  |
@@ -74,7 +75,7 @@
 | [MISS YOU](https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MISS YOU](https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB) | 2:09 | 2024-06-28 |  |
 | [MISSED CALLS](https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [MISSED CALLS](https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH) | 2:12 | 2024-06-28 |  |
 | [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 | 2024-06-28 |  |
-| [Mondlicht](https://open.spotify.com/track/0pvXz9FgGWxFXagwtQIQOO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:39 | 2024-06-28 |  |
+| [Mondlicht](https://open.spotify.com/track/0pvXz9FgGWxFXagwtQIQOO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:39 | 2024-06-28 | 2024-08-12 |
 | [Monoton](https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [BOI](https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ) | 3:48 | 2024-06-28 |  |
 | [Morpheus](https://open.spotify.com/track/33UJjKCtghGywf33vRZl1u) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [König für immer](https://open.spotify.com/album/4Ruh25eyPDaVdu7KyW67hZ) | 3:10 | 2024-06-28 | 2024-07-24 |
 | [MÜNCHEN GIRLS](https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [MÜNCHEN GIRLS](https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV) | 2:51 | 2024-06-28 |  |

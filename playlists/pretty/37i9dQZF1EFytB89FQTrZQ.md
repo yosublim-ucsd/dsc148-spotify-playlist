@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,518 likes - 307 songs - 17 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,520 likes - 307 songs - 17 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -296,8 +296,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 286 | [My Work Is Done](https://open.spotify.com/track/6Dzdi9VEvNKHyjRCLtXf1W) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 3:26 |
 | 287 | [Sex Symbol](https://open.spotify.com/track/1U2Cfc7ZXR6Y2fp2mXXR14) | [Aerolineas Federales](https://open.spotify.com/artist/006cVD18msU9HBrB4aNS5Z) | [Tomando Tierra](https://open.spotify.com/album/5KZ3cbWHSm5W8eh8Vk7szF) | 2:02 |
 | 288 | [Whatever](https://open.spotify.com/track/4ifFRxa6UudDs2bEtI5OeC) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 3:44 |
-| 289 | [Really Love \(Piano Version\)](https://open.spotify.com/track/3JiwRp5rx5VxuCJyYooal1) | [Ray Mak](https://open.spotify.com/artist/6diqrwyTlcmngrGatZc08b) | [Legendary Top Hits Piano 7](https://open.spotify.com/album/1BrnAr3cbbQBh9m02QXKxU) | 2:58 |
-| 290 | [Everything\(2012 Remaster\)](https://open.spotify.com/track/1rCIuApWMhwAFQZPwwYKRS) | [GLORY HILL](https://open.spotify.com/artist/4PvwOUBC9YDdra6Fsz62Kk) | [independent days](https://open.spotify.com/album/7qttbdXhLumnSab72LCpsh) | 3:34 |
+| 289 | [Everything\(2012 Remaster\)](https://open.spotify.com/track/1rCIuApWMhwAFQZPwwYKRS) | [GLORY HILL](https://open.spotify.com/artist/4PvwOUBC9YDdra6Fsz62Kk) | [independent days](https://open.spotify.com/album/7qttbdXhLumnSab72LCpsh) | 3:34 |
+| 290 | [Really Love \(Piano Version\)](https://open.spotify.com/track/3JiwRp5rx5VxuCJyYooal1) | [Ray Mak](https://open.spotify.com/artist/6diqrwyTlcmngrGatZc08b) | [Legendary Top Hits Piano 7](https://open.spotify.com/album/1BrnAr3cbbQBh9m02QXKxU) | 2:58 |
 | 291 | [Rope](https://open.spotify.com/track/5iHKyxruX4siXfJclKuk9H) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 4:20 |
 | 292 | [Hickie](https://open.spotify.com/track/1ZA1fwhekZjbYO8QOaoSnG) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 3:03 |
 | 293 | [Clean](https://open.spotify.com/track/5RJZVsJ1AtdlmUjO9ZJz0U) | [Container 90](https://open.spotify.com/artist/4MHWISvr8CHu0KwaZKUCuS) | [World ChampionShit](https://open.spotify.com/album/5pcxqalhjZjgdGQcff7hgH) | 4:27 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 306 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 307 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbZFAgAAAADWGJj8+ah+Nx3nkE6NyOpA`
+Snapshot ID: `AbZKogAAAADtIQZlkhkVq8FGfu4tKtzx`

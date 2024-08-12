@@ -1,12 +1,12 @@
 {
   "description": "This Is Yoss Bones. Los temas esenciales, todos en una lista.",
-  "num_followers": 40001,
+  "num_followers": 40014,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAACSG4Wt7+sOgMbSFdq7ku2p",
+  "snapshot_id": "ZratgAAAAAAXtLb24SNcAB6kz5GnOGOQ",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e1melo",
+        "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "D\u00e1melo",
+      "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Me Pas\u00f3",
         "url": "https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3"
       },
@@ -691,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e1melo",
-        "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "D\u00e1melo",
-      "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LQRA Session #3",
         "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 174285,
       "name": "LQRA Session #3",
       "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/0bHlhoa28gqmsheSevIFZt"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/0QK3Yshn8c0plhuErNvmKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tequila y Miel",
         "url": "https://open.spotify.com/album/1mCObASikbbyG9K5gRt9JB"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 211408,
       "name": "Tequila y Miel",
       "url": "https://open.spotify.com/track/4eeggfKUbhnYSFV17Sq4h8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/0bHlhoa28gqmsheSevIFZt"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0QK3Yshn8c0plhuErNvmKz"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Andamos Al Cien",
-        "url": "https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF"
-      },
-      "artists": [
-        {
-          "name": "Hispana",
-          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Andamos Al Cien",
-      "url": "https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serendipia",
         "url": "https://open.spotify.com/album/5otbd1pbveK9HktRULJnis"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 200000,
       "name": "Serendipia",
       "url": "https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Andamos Al Cien",
+        "url": "https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF"
+      },
+      "artists": [
+        {
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Andamos Al Cien",
+      "url": "https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys"
     },
     {
       "added_at": null,
@@ -1103,22 +1103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Levant\u00e9",
-        "url": "https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Me Levant\u00e9",
-      "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faruz Fit, Vol. 2",
         "url": "https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 283668,
       "name": "Susurros",
       "url": "https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Levant\u00e9",
+        "url": "https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Me Levant\u00e9",
+      "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
     },
     {
       "added_at": null,

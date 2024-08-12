@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-91 songs - 5 hr 0 min
+93 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [ASOBO \-English ver.\-](https://open.spotify.com/track/4bxx8e12FbY0x77AuqOjPu) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [ASOBO \-English ver.\-](https://open.spotify.com/album/3HrYO8vY7K3pAQ59pFrZaV) | 3:01 | 2024-06-07 |  |
 | [Better Than Ever \(feat\. Rod Wave\)](https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Decided 2](https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ) | 4:03 | 2024-06-07 |  |
 | [Big Wheel Whippin'](https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1) | [Playaz Circle](https://open.spotify.com/artist/5gV9T9VSwhHBlHcRMojEZw) | [Flight 360: The Takeoff](https://open.spotify.com/album/4jCIFGa5tGSh7LeTmPwcS2) | 4:29 | 2024-06-07 | 2024-08-09 |
+| [bleach](https://open.spotify.com/track/0D8UqYcz7ePwma5o3XAQnh) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:19 | 2024-08-11 |  |
 | [Bloodline](https://open.spotify.com/track/2qvrRtYFN7MGRokO77TZKK) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Birth of a Nation: The Inspired By Album](https://open.spotify.com/album/6miimmKAefrNxnErwCTGmj) | 4:12 | 2024-06-07 |  |
 | [can u?](https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [can u?](https://open.spotify.com/album/3QOJ06vA52E3QjK6cTo9Ry) | 2:50 | 2024-06-07 |  |
 | [Cha Cha](https://open.spotify.com/track/3V6iMzC3UouWCUFewAoaZ2) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [10's](https://open.spotify.com/album/3IIxAv8KgoGkqCXljHbJ7W) | 3:10 | 2024-06-07 |  |
@@ -70,6 +71,7 @@
 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5v7BIzhKuy8WzT7LyFYiiO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 4:00 | 2024-06-07 |  |
 | [Pay for the Pain](https://open.spotify.com/track/37tYiGnTLQgu5PnSI7R7m0) | [Gild Walton](https://open.spotify.com/artist/2ienhCqiGU2x3g8jbLwx2s) | [Pay for the Pain](https://open.spotify.com/album/0vskX5pm17kkNLiSYWfcjW) | 2:42 | 2024-06-07 |  |
 | [Perfect Harmony \(feat\. Keke Palmer & Max Schneider\)](https://open.spotify.com/track/66lmKflZATFYYCPk8wEe81) | [Rags Cast](https://open.spotify.com/artist/5igcQeVmcLCLDM2cj43Tuy), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Rags \(Music From the Original Movie\)](https://open.spotify.com/album/1jXyQ8Yu9hZ54DbX4qg11Z) | 2:25 | 2024-06-07 |  |
+| [richest girl alive](https://open.spotify.com/track/33wxqsZkzl0ADSdfUFXo8d) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:20 | 2024-08-11 |  |
 | [ROSE STREET](https://open.spotify.com/track/1L8NADNWd56cZRnaxcxPPI) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 2:33 | 2024-06-07 |  |
 | [Save The World \(On The Dance Floor\)](https://open.spotify.com/track/3wsSqwEfXOgum2fnEGK39A) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:53 | 2024-06-07 |  |
 | [Shinanigins](https://open.spotify.com/track/6YTpBXHHEY0PGTxOkJX6wX) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:42 | 2024-06-07 |  |

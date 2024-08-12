@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,381 likes - 133 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,383 likes - 133 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 95 | [Mad Mad World](https://open.spotify.com/track/7dHWQyP9o3JoZK8FLYqt9b) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Mad Mad World](https://open.spotify.com/album/0FMnyy6VTNMgtOzTJbIfQV) | 3:25 |
 | 96 | [Tanlines](https://open.spotify.com/track/4rVEiGcyZDFK49J4N8zbgr) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 3:45 |
 | 97 | [Trouble](https://open.spotify.com/track/7BgVp7EuxrvyPCQyRdmxzg) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:03 |
-| 98 | [Paradise Found](https://open.spotify.com/track/5UvGZcO3KoT0x6OuXSBmjv) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Paradise Found](https://open.spotify.com/album/02txGqX40yCLUN6kab5Ok1) | 3:42 |
-| 99 | [Stars in Your Heart](https://open.spotify.com/track/2sY3vFxiV9EQfVopuo7iwZ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 4:47 |
+| 98 | [Stars in Your Heart](https://open.spotify.com/track/2sY3vFxiV9EQfVopuo7iwZ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 4:47 |
+| 99 | [Paradise Found](https://open.spotify.com/track/5UvGZcO3KoT0x6OuXSBmjv) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Paradise Found](https://open.spotify.com/album/02txGqX40yCLUN6kab5Ok1) | 3:42 |
 | 100 | [When I'm All Alone](https://open.spotify.com/track/4WssjrZrY6n5YGNsXIczv5) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 2:44 |
 | 101 | [Jenny's Got a Boyfriend](https://open.spotify.com/track/2LFs5g1oRjTihMarELyONl) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:13 |
 | 102 | [Sayonara](https://open.spotify.com/track/3pxpehNYmzUrRM98mjl7zV) | [Widi Widiana](https://open.spotify.com/artist/5EaOkE5kUc9OLIUgFepJKL) | [Gek Cantik](https://open.spotify.com/album/3uvjHYzBWj1CGDCHins7uP) | 4:34 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 132 | [Hasta La Vista](https://open.spotify.com/track/7Hqkibl2LIjY1gWtqTb4HW) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Hasta La Vista](https://open.spotify.com/album/7tyoTr3dPhTbDZ8QDmfopy) | 2:48 |
 | 133 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `AbZFBwAAAACjco++EPhHUaPeRbdxIinx`
+Snapshot ID: `AbZKngAAAACQsL4fnNrDsWfNQ4DsVV27`

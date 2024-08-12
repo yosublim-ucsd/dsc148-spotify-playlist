@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 311478,
+  "num_followers": 311484,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -159,26 +159,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "One Last Call",
-        "url": "https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Felix Raphael",
-          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
-        }
-      ],
-      "duration_ms": 256859,
-      "name": "One Last Call",
-      "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "A Mixtape by Anish Kumar",
         "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
       },
@@ -191,26 +171,6 @@
       "duration_ms": 252208,
       "name": "Marabelle",
       "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Ghost (Fejk\u00e1 Remix)",
-        "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
-      },
-      "artists": [
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "Ghost - Fejk\u00e1 Remix",
-      "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -235,38 +195,42 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+        "name": "Ghost (Fejk\u00e1 Remix)",
+        "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
         },
         {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
         }
       ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+      "duration_ms": 283106,
+      "name": "Ghost - Fejk\u00e1 Remix",
+      "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
     },
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Beyond Beliefs",
-        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
+        "name": "One Last Call",
+        "url": "https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy"
       },
       "artists": [
         {
           "name": "Ben B\u00f6hmer",
           "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
         }
       ],
-      "duration_ms": 313586,
-      "name": "Beyond Beliefs",
-      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
+      "duration_ms": 256859,
+      "name": "One Last Call",
+      "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -287,18 +251,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         }
       ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -315,6 +283,58 @@
       "duration_ms": 350929,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Beyond Beliefs",
+        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 313586,
+      "name": "Beyond Beliefs",
+      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "duration_ms": 259039,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -411,26 +431,6 @@
       "duration_ms": 247730,
       "name": "Envy",
       "url": "https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        }
-      ],
-      "duration_ms": 259039,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+        "name": "Vanished",
+        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
       },
       "artists": [
         {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+          "name": "Ceas",
+          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
         }
       ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+      "duration_ms": 356000,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Vanished",
-        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
       },
       "artists": [
         {
-          "name": "Ceas",
-          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
         }
       ],
-      "duration_ms": 356000,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Peg",
         "url": "https://open.spotify.com/album/70lowxiBGWlxk9iI9sEGbg"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 251338,
       "name": "Peg",
       "url": "https://open.spotify.com/track/5aFf1Ubp9V5Ws9p1JIM69V"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Three Drums",
-        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 495858,
-      "name": "Three Drums",
-      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2Qwwl2g2XcVtRT4xHdDEPL"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 223993,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0Dp3a7t94hj7S1h2mVIZN9"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Madman",
         "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 448000,
       "name": "Madman",
       "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 467086,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2Qwwl2g2XcVtRT4xHdDEPL"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 223993,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0Dp3a7t94hj7S1h2mVIZN9"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Hold Your Breath",
-        "url": "https://open.spotify.com/album/264EpsDdMfCrHFp6uqVUr3"
-      },
-      "artists": [
-        {
-          "name": "Thaylo",
-          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
-        }
-      ],
-      "duration_ms": 191260,
-      "name": "Hold Your Breath",
-      "url": "https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Home (Remixes)",
         "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 334867,
       "name": "Holy - Frank Wiedemann Remix",
       "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Hold Your Breath",
+        "url": "https://open.spotify.com/album/264EpsDdMfCrHFp6uqVUr3"
+      },
+      "artists": [
+        {
+          "name": "Thaylo",
+          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
+        }
+      ],
+      "duration_ms": 191260,
+      "name": "Hold Your Breath",
+      "url": "https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1267,18 +1267,26 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Emerge As New",
-        "url": "https://open.spotify.com/album/7KUSyPorZaNXUhNjda6BFM"
+        "name": "Need To Feel Loved (Nils Hoffmann Remix)",
+        "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
       },
       "artists": [
         {
-          "name": "Monvol",
-          "url": "https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl"
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "LVNDSCAPE",
+          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
+        },
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         }
       ],
-      "duration_ms": 310229,
-      "name": "Emerge As New",
-      "url": "https://open.spotify.com/track/4NHmMiu6zav9APbX1JNgU4"
+      "duration_ms": 224467,
+      "name": "Need To Feel Loved - Nils Hoffmann Remix",
+      "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
     }
   ],
   "unique_name": "Afterhours",

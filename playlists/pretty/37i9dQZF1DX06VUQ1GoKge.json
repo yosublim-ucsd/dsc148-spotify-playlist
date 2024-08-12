@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 555946,
+  "num_followers": 555932,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
         "name": "Metallica",
         "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Magma",
         "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
       },
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "TEKKNO",
-        "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
       },
       "artists": [
         {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 206133,
-      "name": "We Got the Moves",
-      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
+      "duration_ms": 188600,
+      "name": "Feuer frei!",
+      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
+        "name": "TEKKNO",
+        "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Feuer frei!",
-      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs"
+      "duration_ms": 206133,
+      "name": "We Got the Moves",
+      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "Bat Country",
-      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 134400,
       "name": "on the verge",
       "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "Bat Country",
+      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "backfire",
-        "url": "https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 120064,
-      "name": "backfire",
-      "url": "https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Reign In Blood (Expanded)",
         "url": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 291773,
       "name": "Angel Of Death",
       "url": "https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "backfire",
+        "url": "https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 120064,
+      "name": "backfire",
+      "url": "https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "St. Anger",
-        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 441132,
-      "name": "St. Anger",
-      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "The Sacrament of Sin",
         "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 218080,
       "name": "Demons Are a Girl's Best Friend",
       "url": "https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 441132,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Would you be my therapy?",
-        "url": "https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk"
-      },
-      "artists": [
-        {
-          "name": "TSS",
-          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
-        }
-      ],
-      "duration_ms": 159771,
-      "name": "Would you be my therapy?",
-      "url": "https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 219759,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Would you be my therapy?",
+        "url": "https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk"
+      },
+      "artists": [
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        }
+      ],
+      "duration_ms": 159771,
+      "name": "Would you be my therapy?",
+      "url": "https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP"
     },
     {
       "added_at": "2024-07-15 13:16:22",

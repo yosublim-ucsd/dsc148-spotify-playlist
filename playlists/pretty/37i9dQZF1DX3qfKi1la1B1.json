@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 121642,
+  "num_followers": 121664,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,18 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+        "name": "Never Felt So Alone",
+        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
     },
     {
       "added_at": "2024-08-08 15:00:00",
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "Never Felt So Alone",
-        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 160166,
-      "name": "Never Felt So Alone",
-      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2024-08-08 15:00:00",
@@ -299,38 +299,6 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "Guitar Songs",
-        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
-    },
-    {
-      "added_at": "2024-08-08 15:00:00",
-      "album": {
-        "name": "Tejano Blue",
-        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Tejano Blue",
-      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
-    },
-    {
-      "added_at": "2024-08-08 15:00:00",
-      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
       },
@@ -343,6 +311,38 @@
       "duration_ms": 231173,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
+    },
+    {
+      "added_at": "2024-08-08 15:00:00",
+      "album": {
+        "name": "My House Is Not A Home",
+        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 239181,
+      "name": "My House Is Not A Home",
+      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
+    },
+    {
+      "added_at": "2024-08-08 15:00:00",
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
       "added_at": "2024-08-08 15:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "My House Is Not A Home",
-        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 239181,
-      "name": "My House Is Not A Home",
-      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
       "added_at": "2024-08-08 15:00:00",
@@ -443,18 +443,22 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "Dark Vacay",
-        "url": "https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb"
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 213413,
-      "name": "Dark Vacay",
-      "url": "https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r"
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
       "added_at": "2024-08-08 15:00:00",
@@ -479,22 +483,18 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2024-08-08 15:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+        "name": "Dark Vacay",
+        "url": "https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+      "duration_ms": 213413,
+      "name": "Dark Vacay",
+      "url": "https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r"
     },
     {
       "added_at": "2024-08-08 15:00:00",
@@ -611,38 +611,6 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Bubblegum",
-      "url": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
-    },
-    {
-      "added_at": "2024-08-08 15:00:00",
-      "album": {
-        "name": "Light Shines Through",
-        "url": "https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 258084,
-      "name": "I Let Go",
-      "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
-    },
-    {
-      "added_at": "2024-08-08 15:00:00",
-      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
       },
@@ -663,6 +631,22 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
+        "name": "Light Shines Through",
+        "url": "https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 258084,
+      "name": "I Let Go",
+      "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
+    },
+    {
+      "added_at": "2024-08-08 15:00:00",
+      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -679,18 +663,38 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "SAINT",
-        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 179426,
-      "name": "SAINT",
-      "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
+      "duration_ms": 279133,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
+    },
+    {
+      "added_at": "2024-08-08 15:00:00",
+      "album": {
+        "name": "Two Tens (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 152371,
+      "name": "Two Tens (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
     },
     {
       "added_at": "2024-08-08 15:00:00",
@@ -715,22 +719,18 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "Two Tens (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
       },
       "artists": [
         {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 152371,
-      "name": "Two Tens (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+      "duration_ms": 179426,
+      "name": "SAINT",
+      "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
     },
     {
       "added_at": "2024-08-08 15:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 121695,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
-    },
-    {
-      "added_at": "2024-08-08 15:00:00",
-      "album": {
         "name": "The Slow Rush B-Sides & Remixes",
         "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+    },
+    {
+      "added_at": "2024-08-08 15:00:00",
+      "album": {
         "name": "gg bb xx (deluxe)",
         "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-08-08 15:00:00",
       "album": {
-        "name": "Watermelon Sugar (Spotify Singles)",
-        "url": "https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 129656,
-      "name": "Watermelon Sugar - Spotify Singles",
-      "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
-    },
-    {
-      "added_at": "2024-08-08 15:00:00",
-      "album": {
         "name": "Takes Me Back Home",
         "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 193137,
       "name": "Takes Me Back Home",
       "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
+    },
+    {
+      "added_at": "2024-08-08 15:00:00",
+      "album": {
+        "name": "Watermelon Sugar (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 129656,
+      "name": "Watermelon Sugar - Spotify Singles",
+      "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
     },
     {
       "added_at": "2024-08-08 15:00:00",

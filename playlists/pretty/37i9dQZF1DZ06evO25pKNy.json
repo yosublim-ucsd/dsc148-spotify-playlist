@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 4995,
+  "num_followers": 4996,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABvY/5nmz75Ak4Bv5xXFMRJ",
+  "snapshot_id": "ZratgAAAAACNQktXyzHVMO738gt4dsuu",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Botas O Gabanas",
-        "url": "https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp"
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
       "artists": [
-        {
-          "name": "Los Nuevos Originales Del Bajio",
-          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
-        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 170842,
-      "name": "De Botas O Gabanas",
-      "url": "https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4"
+      "duration_ms": 213024,
+      "name": "El Tuna",
+      "url": "https://open.spotify.com/track/2FhDsHZwgCILLXbpIHOget"
     },
     {
       "added_at": null,
@@ -343,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+        "name": "De Botas O Gabanas",
+        "url": "https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp"
       },
       "artists": [
+        {
+          "name": "Los Nuevos Originales Del Bajio",
+          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
+        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 213024,
-      "name": "El Tuna",
-      "url": "https://open.spotify.com/track/2FhDsHZwgCILLXbpIHOget"
+      "duration_ms": 170842,
+      "name": "De Botas O Gabanas",
+      "url": "https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Bohemio de Afici\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 149984,
       "name": "Jardin Verde",
       "url": "https://open.spotify.com/track/2hO3w9dSz1FLgzXFdA0Bzv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Bohemio de Afici\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "Mujer Paseada - En Vivo",
-      "url": "https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 171000,
       "name": "Carta A Mi Familia",
       "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Mujer Paseada - En Vivo",
+      "url": "https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Mi Gusto Es - En Vivo",
-      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debajo De La Gorra",
         "url": "https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 185511,
       "name": "Debajo De La Gorra",
       "url": "https://open.spotify.com/track/37jvbQaDuG76ZXPRPHnjSl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "Mi Gusto Es - En Vivo",
+      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Fracasado",
-        "url": "https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 165035,
-      "name": "El Fracasado",
-      "url": "https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classroom Love",
         "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 256641,
       "name": "Classroom Love",
       "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Fracasado",
+        "url": "https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 165035,
+      "name": "El Fracasado",
+      "url": "https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT"
     },
     {
       "added_at": null,

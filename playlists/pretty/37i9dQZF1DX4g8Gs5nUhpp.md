@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Rhymastic
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,634 likes - 54 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,653 likes - 54 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

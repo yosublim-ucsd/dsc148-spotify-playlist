@@ -2,7 +2,7 @@
 
 ### [This Is Emei](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh)
 
-> This is Emei\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Emei\. Los temas esenciales, todos en una lista.
 
 22 songs - 52 min 10 sec
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Poze, Ret e Ryan, PEDRO SAMPAIO, Yasmin Santos  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,927,982 likes - 81 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,928,266 likes - 81 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 49 | [Alegría](https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Alegría](https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq) | 2:45 |
 | 50 | [LA PRIMERA VEZ](https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [LA PRIMERA VEZ](https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0) | 2:51 |
 | 51 | [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 |
-| 52 | [Pa´Las Joyas](https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Pa´Las Joyas](https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO) | 2:44 |
+| 52 | [PA´ LAS JOYAS](https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [PA´ LAS JOYAS](https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO) | 2:44 |
 | 53 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 |
 | 54 | [Puxão De Orelha \- Ao Vivo](https://open.spotify.com/track/1ysRAa1BSk2I7fo4JZlhyR) | [Theo & Luan](https://open.spotify.com/artist/7E3ROnYOaeZZk20pxrvPLc), [Netto & Henrique](https://open.spotify.com/artist/7a6OmakIInI0Q0VjbYCASe) | [Puxão De Orelha \(Ao Vivo\)](https://open.spotify.com/album/5wf8kBl97vFHfNccKO00qb) | 2:49 |
 | 55 | [Tiro no Escuro \- Ao Vivo](https://open.spotify.com/track/4oYvXE0mEfgFpatitiXGCs) | [Gabi Suarez](https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V) | [Diamante, Pt.4 \(Ao Vivo\)](https://open.spotify.com/album/4kTAo78Vu8fdotGdVpkrjo) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,370 likes - 49 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,607 likes - 49 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 48 | [Two Dozen Roses \(feat\. Luke Combs\)](https://open.spotify.com/track/5GQgvVT7tJGZNzj13pz36l) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Two Dozen Roses \(feat\. Luke Combs\)](https://open.spotify.com/album/3Drss6cMVLm1BC2787GlLY) | 3:50 |
 | 49 | [Let the Moonshine](https://open.spotify.com/track/05DejmhRYCktQogzOVX1H9) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way She Rides](https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ) | 3:29 |
 
-Snapshot ID: `ZrVcAAAAAAA6WJlfK+WvFc9/7buXx/XA`
+Snapshot ID: `ZratgAAAAAAJC7UVmdi/dyjIcuKHWSQE`

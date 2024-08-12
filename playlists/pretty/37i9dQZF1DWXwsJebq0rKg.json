@@ -1,6 +1,6 @@
 {
   "description": "La favorita de dios, and she knows \ud83c\udf3c",
-  "num_followers": 34128,
+  "num_followers": 34113,
   "original_name": "coquette \ud83c\udf80",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Diet Mountain Dew",
+      "url": "https://open.spotify.com/track/2vtmY2mSccRzKGjtcHSzI3"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -419,18 +435,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 222920,
-      "name": "Diet Mountain Dew",
-      "url": "https://open.spotify.com/track/2vtmY2mSccRzKGjtcHSzI3"
+      "duration_ms": 257186,
+      "name": "You Know I'm No Good",
+      "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -447,22 +463,6 @@
       "duration_ms": 208853,
       "name": "Melting",
       "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "You Know I'm No Good",
-      "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "No digas nada",
-        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 222545,
-      "name": "No digas nada",
-      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Sure Thing (Sped Up)",
         "url": "https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 150053,
       "name": "Sure Thing - Sped Up",
       "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "No digas nada",
+        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "No digas nada",
+      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -687,22 +687,6 @@
       "duration_ms": 176974,
       "name": "Sex, Drugs, Etc. - Sped Up Version",
       "url": "https://open.spotify.com/track/6SWVr6T3yQS6gZ9gQHrr2b"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -787,26 +771,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Se fue la luz",
-        "url": "https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Se fue la luz",
-      "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Delusi\u00f3n",
         "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
@@ -823,6 +787,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Lovelove U",
         "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
       },
@@ -835,6 +815,30 @@
       "duration_ms": 175479,
       "name": "Lovelove U",
       "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 319026,
+      "name": "TQM",
+      "url": "https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX"
     }
   ],
   "unique_name": "coquette \ud83c\udf80",

@@ -1,12 +1,12 @@
 {
   "description": "This Is P-Lo. Los temas esenciales, todos en una lista.",
-  "num_followers": 5415,
+  "num_followers": 5414,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABvUBsKMWQMIw2jX7Eav0C8",
+  "snapshot_id": "ZratgAAAAAC6NLBTf1hdXfdXm5YIl+d6",
   "tracks": [
     {
       "added_at": null,
@@ -227,34 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What We On (feat. E-40)",
-        "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
-      },
-      "artists": [
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "DaBoii",
-          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "What We On (feat. E-40)",
-      "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -283,6 +255,34 @@
       "duration_ms": 238181,
       "name": "YANKIN!",
       "url": "https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What We On (feat. E-40)",
+        "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "What We On (feat. E-40)",
+      "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
     },
     {
       "added_at": null,
@@ -503,50 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magic Hour",
-        "url": "https://open.spotify.com/album/3Kr36uWre0SDyAuIVfHePp"
-      },
-      "artists": [
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        },
-        {
-          "name": "D\u0101M-FunK",
-          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 204943,
-      "name": "Untouchable (feat. P-LO)",
-      "url": "https://open.spotify.com/track/61LUiHGsYksHUqqdXtdtev"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 152759,
-      "name": "LIL LAD (UNIMPRESSED)",
-      "url": "https://open.spotify.com/track/5nTZU4TjLizQDmbOcqRtlh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Great Escape",
         "url": "https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps"
       },
@@ -571,6 +527,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 152759,
+      "name": "LIL LAD (UNIMPRESSED)",
+      "url": "https://open.spotify.com/track/5nTZU4TjLizQDmbOcqRtlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magic Hour",
+        "url": "https://open.spotify.com/album/3Kr36uWre0SDyAuIVfHePp"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 204943,
+      "name": "Untouchable (feat. P-LO)",
+      "url": "https://open.spotify.com/track/61LUiHGsYksHUqqdXtdtev"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moovie! 2: The Yeequel",
         "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
       },
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
         }
       ],
-      "duration_ms": 135163,
-      "name": "MARDI GRAS",
-      "url": "https://open.spotify.com/track/5W6NELOFUgcZYvsR1tKe9y"
+      "duration_ms": 125039,
+      "name": "GEEKED UP",
+      "url": "https://open.spotify.com/track/0bECDoioSpFL5tElMpH4sR"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
         }
       ],
-      "duration_ms": 125039,
-      "name": "GEEKED UP",
-      "url": "https://open.spotify.com/track/0bECDoioSpFL5tElMpH4sR"
+      "duration_ms": 135163,
+      "name": "MARDI GRAS",
+      "url": "https://open.spotify.com/track/5W6NELOFUgcZYvsR1tKe9y"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talkin Bout",
+        "url": "https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 117841,
+      "name": "Talkin Bout",
+      "url": "https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before Anything - EP",
         "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 243226,
       "name": "Light This Bitch Up",
       "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talkin Bout",
-        "url": "https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 117841,
-      "name": "Talkin Bout",
-      "url": "https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO"
     },
     {
       "added_at": null,
@@ -991,42 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "POP OFF",
-        "url": "https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "U TELL ME (Feat. P-Lo)",
-      "url": "https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going To Work - Single",
-        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 197187,
-      "name": "Going To Work",
-      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
       },
@@ -1047,22 +1011,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE FREESTYLE REMIX",
-        "url": "https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4"
+        "name": "Going To Work - Single",
+        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
       },
       "artists": [
         {
-          "name": "Darrell Medellin",
-          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 197187,
+      "name": "Going To Work",
+      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POP OFF",
+        "url": "https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 142654,
-      "name": "LEMONADE FREESTYLE REMIX",
-      "url": "https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD"
+      "duration_ms": 143529,
+      "name": "U TELL ME (Feat. P-Lo)",
+      "url": "https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH"
     },
     {
       "added_at": null,
@@ -1083,6 +1063,26 @@
       "duration_ms": 142733,
       "name": "That\u2019s Facts (feat. P-Lo)",
       "url": "https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEMONADE FREESTYLE REMIX",
+        "url": "https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4"
+      },
+      "artists": [
+        {
+          "name": "Darrell Medellin",
+          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 142654,
+      "name": "LEMONADE FREESTYLE REMIX",
+      "url": "https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,886 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,900 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 15 | [Le tourbillon](https://open.spotify.com/track/0ZRnvyA5MxbgTCfWRw3YU4) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Le tourbillon de ma vie \(Best Of 2017\)](https://open.spotify.com/album/6gRQtl64VsWWTh26IuNoGP) | 2:06 |
 | 16 | [It's Only Mystery](https://open.spotify.com/track/63ateUylxJ1MdQMl9tDjid) | [Éric Serra](https://open.spotify.com/artist/1DptMAbvFajxK4ZObg1OdA), [Arthur Simms](https://open.spotify.com/artist/1lslIiVrivMCgmGSDMwcSE) | [Subway \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ANBL8v09CCeAvEgZSarT3) | 4:35 |
 | 17 | [Back To The Future \- From "Back To The Future" Original Score/End Credits](https://open.spotify.com/track/1QV4g4uyxy8Xdl7tk0dnDv) | [The Outatime Orchestra](https://open.spotify.com/artist/2taffC19qE4FkJpPPfMzqw) | [Back To The Future \(Original Motion Picture Soundtrack / Expanded Edition\)](https://open.spotify.com/album/0ljBxAkQyTKVXudfE34wAL) | 3:15 |
-| 18 | [Ghostbusters](https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \[2016\]](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 4:05 |
+| 18 | [Ghostbusters](https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \- 2016](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 4:05 |
 | 19 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
 | 20 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |
 | 21 | [Quand te reverrai\-je, pays merveilleux ?](https://open.spotify.com/track/3ayoJTOXuq9HKlWStM8KVV) | [Michel Blanc](https://open.spotify.com/artist/27MjLiRbNSQRsj5HeVqnOh) | [Les bronzés & les bronzés font du ski \(Bande originale du film\)](https://open.spotify.com/album/0SbjpPx9uYBTAkNTozG8OT) | 0:47 |

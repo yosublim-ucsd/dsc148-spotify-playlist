@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 33842,
+  "num_followers": 33878,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Dance Mania Vol.1",
-        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "El Cayuco",
-      "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -123,6 +107,22 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "El Cayuco",
+      "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
         "name": "Cita Con Luis Arcaraz",
         "url": "https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE"
       },
@@ -135,6 +135,22 @@
       "duration_ms": 197373,
       "name": "Viajera",
       "url": "https://open.spotify.com/track/3Nsn3y2IpzcuDIKZDgS3oS"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "15 Inmortales de Pedro Infante",
+        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "El gavil\u00e1n pollero",
+      "url": "https://open.spotify.com/track/2K1A5myyaOr2ZmUFSLT6R4"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -167,22 +183,6 @@
       "duration_ms": 167760,
       "name": "Cerezo Rosa - Remastered",
       "url": "https://open.spotify.com/track/1caIyurPdAPvl9kUyNfwir"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "15 Inmortales de Pedro Infante",
-        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "El gavil\u00e1n pollero",
-      "url": "https://open.spotify.com/track/2K1A5myyaOr2ZmUFSLT6R4"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -235,26 +235,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Benny Mor\u00e9 Con P\u00e9rez Prado",
-        "url": "https://open.spotify.com/album/6J7SeH8SbEgXbLxGsRedQt"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        },
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "La Mucura",
-      "url": "https://open.spotify.com/track/5VnjVNlLBuSaBtRlWM8nNw"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
@@ -287,34 +267,22 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "El Rey del Mambo",
-        "url": "https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7"
+        "name": "Benny Mor\u00e9 Con P\u00e9rez Prado",
+        "url": "https://open.spotify.com/album/6J7SeH8SbEgXbLxGsRedQt"
       },
       "artists": [
         {
-          "name": "P\u00e9rez Prado y Su Gran Orquesta",
-          "url": "https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Que Rico el Mambo",
-      "url": "https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Los Churumbeles",
-        "url": "https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3"
-      },
-      "artists": [
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        },
         {
-          "name": "Los Churumbeles De Espa\u00f1a",
-          "url": "https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4"
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 192693,
-      "name": "Doce Cascabeles",
-      "url": "https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA"
+      "duration_ms": 194733,
+      "name": "La Mucura",
+      "url": "https://open.spotify.com/track/5VnjVNlLBuSaBtRlWM8nNw"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -335,6 +303,22 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
+        "name": "El Rey del Mambo",
+        "url": "https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado y Su Gran Orquesta",
+          "url": "https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Que Rico el Mambo",
+      "url": "https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
         "name": "Mambo",
         "url": "https://open.spotify.com/album/5ziv918FePQggsqRgyxOQb"
       },
@@ -347,6 +331,58 @@
       "duration_ms": 156880,
       "name": "Cerezo Rosa",
       "url": "https://open.spotify.com/track/2718M9JCtwKzYqMlq4nR6f"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Los Churumbeles",
+        "url": "https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3"
+      },
+      "artists": [
+        {
+          "name": "Los Churumbeles De Espa\u00f1a",
+          "url": "https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Doce Cascabeles",
+      "url": "https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Alma de negro",
+        "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Aquellos ojos verdes (bolero)",
+      "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "La que se fue",
+      "url": "https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -379,26 +415,6 @@
       "duration_ms": 157480,
       "name": "Amor Que Malo Eres",
       "url": "https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Alma de negro",
-        "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Aquellos ojos verdes (bolero)",
-      "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -464,41 +480,9 @@
           "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 159666,
-      "name": "La que se fue",
-      "url": "https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Por siempre los 5 latinos, Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/19eaIeTw3q3pWrN5q5R1R6"
-      },
-      "artists": [
-        {
-          "name": "Los 5 Latinos",
-          "url": "https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA"
-        }
-      ],
-      "duration_ms": 136650,
-      "name": "Quiereme siempre - Remastered",
-      "url": "https://open.spotify.com/track/29fdJkJSmD4PoSJamszJQF"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Quinto Patio",
-      "url": "https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD"
+      "duration_ms": 195946,
+      "name": "P\u00e9njamo",
+      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -519,6 +503,22 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
+        "name": "Por siempre los 5 latinos, Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/19eaIeTw3q3pWrN5q5R1R6"
+      },
+      "artists": [
+        {
+          "name": "Los 5 Latinos",
+          "url": "https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA"
+        }
+      ],
+      "duration_ms": 136650,
+      "name": "Quiereme siempre - Remastered",
+      "url": "https://open.spotify.com/track/29fdJkJSmD4PoSJamszJQF"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
         "name": "Mexico's Greatest Hits",
         "url": "https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 232333,
       "name": "Quiereme Mucho (Yours)",
       "url": "https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Quinto Patio",
+      "url": "https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -567,18 +583,18 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+        "name": "His 28 Greatest Hits",
+        "url": "https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "Trini Lopez",
+          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
         }
       ],
-      "duration_ms": 195946,
-      "name": "P\u00e9njamo",
-      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
+      "duration_ms": 146760,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -627,22 +643,6 @@
       "duration_ms": 161782,
       "name": "El agarrao - Remastered",
       "url": "https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "His 28 Greatest Hits",
-        "url": "https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon"
-      },
-      "artists": [
-        {
-          "name": "Trini Lopez",
-          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Canciones de la Radio, Vol. 2",
-        "url": "https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI"
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
       "artists": [
         {
-          "name": "Ana Mar\u00eda Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU"
+          "name": "Tito Puente & His Orchestra",
+          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
         }
       ],
-      "duration_ms": 141626,
-      "name": "Espinita",
-      "url": "https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x"
+      "duration_ms": 174773,
+      "name": "Agua Limpia Todo",
+      "url": "https://open.spotify.com/track/5JnJ9IRO4lO4uCZvIT4CoN"
     }
   ],
   "unique_name": "Los 50s",

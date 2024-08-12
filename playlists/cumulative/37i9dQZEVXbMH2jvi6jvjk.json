@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
@@ -5006,7 +5006,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
@@ -5524,7 +5524,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 255237,
       "name": "Bone Ke (feat. Sino Msolo & Jinger Stone)",
       "url": "https://open.spotify.com/track/7tbEF4f02DKMUibPOx5eda"
@@ -7054,7 +7054,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 350396,
       "name": "Chengu Shesha (feat. Al xapo, Vyno Keys and QuayR Musiq)",
       "url": "https://open.spotify.com/track/2wXExC9YzKpslEpiUpUlou"
@@ -15146,7 +15146,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 476460,
       "name": "Hlala'nam (feat. Bassie & Nia Pearl)",
       "url": "https://open.spotify.com/track/3m7ywN5ufkwRIMdGmhXYJ9"
@@ -15574,7 +15574,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 476100,
       "name": "Hotla Luka (feat. Mzizi)",
       "url": "https://open.spotify.com/track/2wjz4MMeYVJkwhtnj73kPJ"
@@ -17248,7 +17248,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 438591,
       "name": "Imvuselelo (feat. Yallunder & Thamie Sax)",
       "url": "https://open.spotify.com/track/04vdE6CXIVdLcKQb1wGTpD"
@@ -18345,6 +18345,32 @@
     },
     {
       "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "It's Up (feat. Young Thug & 21 Savage)",
+      "url": "https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz"
+    },
+    {
+      "album": {
         "name": "LOGAN",
         "url": "https://open.spotify.com/album/53dEggr3n51XS5J8FhxKVy"
       },
@@ -19296,7 +19322,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 476703,
       "name": "Joy Ride (feat. Bandros)",
       "url": "https://open.spotify.com/track/5EFwJuC89UBeLQRZ4u8RM9"
@@ -21726,7 +21752,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -22740,7 +22766,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 382660,
       "name": "Love Potion (feat. Reed, Nvcho & Xolani Guitars)",
       "url": "https://open.spotify.com/track/3wX4CEbVjkjxtVkYCQZ7Wi"
@@ -29078,7 +29104,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 408014,
       "name": "Pholisa",
       "url": "https://open.spotify.com/track/2nYDr6EASJj7UcjiEmlvj0"
@@ -32904,7 +32930,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 551579,
       "name": "Selimathunzi",
       "url": "https://open.spotify.com/track/2HiHffF7XArCZDDn5VNUGM"
@@ -37646,7 +37672,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 528329,
       "name": "Themba (feat. MKeyz & Yallunder)",
       "url": "https://open.spotify.com/track/0vR9CW3TkB0NXZNE6S3slX"

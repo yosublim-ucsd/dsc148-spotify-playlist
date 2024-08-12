@@ -1,6 +1,6 @@
 {
   "description": "pop punk, emo, post-hardcore, alt & more. Cover: The Home Team",
-  "num_followers": 455127,
+  "num_followers": 455153,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "SOULSUCKER",
-        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 146620,
-      "name": "SOULSUCKER",
-      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/0bvzffajdVurM2Bi4hsdEq"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 179575,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/27C5LnNArKlYH0dF2CONst"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
+        "name": "SOULSUCKER",
+        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 146620,
+      "name": "SOULSUCKER",
+      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "Broken Words",
-        "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 172003,
-      "name": "Broken Words",
-      "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 212727,
       "name": "Figure 8",
       "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
+        "name": "Broken Words",
+        "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 172003,
+      "name": "Broken Words",
+      "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "Fruit Wine",
-        "url": "https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF"
+        "name": "Year Of The Vulture",
+        "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
       },
       "artists": [
         {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
         }
       ],
-      "duration_ms": 171854,
-      "name": "Fruit Wine",
-      "url": "https://open.spotify.com/track/6L9Tqzg22pocScyeXI6FTh"
+      "duration_ms": 148882,
+      "name": "Year Of The Vulture",
+      "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -951,34 +951,18 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "Year Of The Vulture",
-        "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
+        "name": "Fruit Wine",
+        "url": "https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF"
       },
       "artists": [
         {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
         }
       ],
-      "duration_ms": 148882,
-      "name": "Year Of The Vulture",
-      "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
-        "name": "Sliding Doors",
-        "url": "https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Sliding Doors",
-      "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
+      "duration_ms": 171854,
+      "name": "Fruit Wine",
+      "url": "https://open.spotify.com/track/6L9Tqzg22pocScyeXI6FTh"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -995,6 +979,22 @@
       "duration_ms": 149400,
       "name": "Gray",
       "url": "https://open.spotify.com/track/4iDjqte9c2cUhaZKJT38vl"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
+        "name": "Sliding Doors",
+        "url": "https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Sliding Doors",
+      "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "Sour",
-        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 165858,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "Hate Myself",
-        "url": "https://open.spotify.com/album/5C4FCVws4TsoYL68aCXsIF"
+        "name": "Sour",
+        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
       },
       "artists": [
         {
-          "name": "Letdown.",
-          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
         }
       ],
-      "duration_ms": 177804,
-      "name": "Hate Myself",
-      "url": "https://open.spotify.com/track/20M1LMLuHaqBU1J2dwbEcV"
+      "duration_ms": 165858,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
+        "name": "Hate Myself",
+        "url": "https://open.spotify.com/album/5C4FCVws4TsoYL68aCXsIF"
+      },
+      "artists": [
+        {
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Hate Myself",
+      "url": "https://open.spotify.com/track/20M1LMLuHaqBU1J2dwbEcV"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/47M4ApugDGCX2YWX6R0HNF"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 162342,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/4FdzgBWmZltkH34EcdKTpE"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 230976,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -1327,6 +1311,22 @@
       "duration_ms": 156673,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 230976,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "WHERE DID IT ALL GO WRONG",
-        "url": "https://open.spotify.com/album/6Vdt0boVVqVHd7IWbZtXvx"
-      },
-      "artists": [
-        {
-          "name": "Kami Kehoe",
-          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
-        }
-      ],
-      "duration_ms": 179811,
-      "name": "WHERE DID IT ALL GO WRONG",
-      "url": "https://open.spotify.com/track/37TMee3XZ60teY32Ivk9s9"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
         "name": "Halloween Mixtape II",
         "url": "https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "Botch Job",
-        "url": "https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3"
+        "name": "WHERE DID IT ALL GO WRONG",
+        "url": "https://open.spotify.com/album/6Vdt0boVVqVHd7IWbZtXvx"
       },
       "artists": [
         {
-          "name": "Cursive",
-          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Botch Job",
-      "url": "https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo"
+      "duration_ms": 179811,
+      "name": "WHERE DID IT ALL GO WRONG",
+      "url": "https://open.spotify.com/track/37TMee3XZ60teY32Ivk9s9"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "Shotgun Wedding",
-        "url": "https://open.spotify.com/album/0Dq4FUocTrvMCMOoISTHti"
+        "name": "Botch Job",
+        "url": "https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3"
       },
       "artists": [
         {
-          "name": "Short Stack",
-          "url": "https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU"
+          "name": "Cursive",
+          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
         }
       ],
-      "duration_ms": 156785,
-      "name": "Shotgun Wedding",
-      "url": "https://open.spotify.com/track/0giHgzxiziVnf8vyWpJYR0"
+      "duration_ms": 166800,
+      "name": "Botch Job",
+      "url": "https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -1575,6 +1559,22 @@
       "duration_ms": 172893,
       "name": "Can We Just Get High?",
       "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
+        "name": "Shotgun Wedding",
+        "url": "https://open.spotify.com/album/0Dq4FUocTrvMCMOoISTHti"
+      },
+      "artists": [
+        {
+          "name": "Short Stack",
+          "url": "https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU"
+        }
+      ],
+      "duration_ms": 156785,
+      "name": "Shotgun Wedding",
+      "url": "https://open.spotify.com/track/0giHgzxiziVnf8vyWpJYR0"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
+        "name": "It's Sorted",
+        "url": "https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH"
+      },
+      "artists": [
+        {
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Life in a Bag",
+      "url": "https://open.spotify.com/track/0nFnvVnps2gOH1YU5xAHD0"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
       },
@@ -1831,6 +1847,26 @@
       "duration_ms": 162741,
       "name": "Hot Mess",
       "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
+        "name": "Kill My Vibe",
+        "url": "https://open.spotify.com/album/2cHTrXqBuuyUNEfwxpoy5A"
+      },
+      "artists": [
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        },
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 165961,
+      "name": "Kill My Vibe",
+      "url": "https://open.spotify.com/track/7rEna9icPrPPFf9sde2wK4"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -1867,42 +1903,6 @@
       "duration_ms": 217944,
       "name": "Stillpoint",
       "url": "https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
-        "name": "It's Sorted",
-        "url": "https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH"
-      },
-      "artists": [
-        {
-          "name": "Cheekface",
-          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "Life in a Bag",
-      "url": "https://open.spotify.com/track/0nFnvVnps2gOH1YU5xAHD0"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
-        "name": "Kill My Vibe",
-        "url": "https://open.spotify.com/album/2cHTrXqBuuyUNEfwxpoy5A"
-      },
-      "artists": [
-        {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
-        },
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 165961,
-      "name": "Kill My Vibe",
-      "url": "https://open.spotify.com/track/7rEna9icPrPPFf9sde2wK4"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "The Fullness of My Being",
-        "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
-      },
-      "artists": [
-        {
-          "name": "Being As An Ocean",
-          "url": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "The Fullness of My Being",
-      "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
         "name": "dayz gone / black lodge breakfast burrito (limited time only)",
         "url": "https://open.spotify.com/album/4RgMjUyuNFO9f1llm5UeMS"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 191066,
       "name": "dayz gone",
       "url": "https://open.spotify.com/track/7smNyoh7fzczIYUOAoM4uJ"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
+        "name": "The Fullness of My Being",
+        "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
+      },
+      "artists": [
+        {
+          "name": "Being As An Ocean",
+          "url": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "The Fullness of My Being",
+      "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "faceplant",
-        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 161206,
-      "name": "faceplant",
-      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
         "name": "Don't Tempt Me Baby...",
         "url": "https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N"
       },
@@ -2103,6 +2087,22 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
+        "name": "faceplant",
+        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 161206,
+      "name": "faceplant",
+      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
         "name": "When We Were Young (feat. Jaret Reddick of Bowling For Soup)",
         "url": "https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj"
       },
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "Big Al Dente",
-        "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
-      },
-      "artists": [
-        {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
-        }
-      ],
-      "duration_ms": 170970,
-      "name": "Big Al Dente",
-      "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
         "name": "Something About You",
         "url": "https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 157376,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/352rVkzjhMmzhivUPghajg"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
+        "name": "Big Al Dente",
+        "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 170970,
+      "name": "Big Al Dente",
+      "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
+        "name": "How To Disappear",
+        "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
+      },
+      "artists": [
+        {
+          "name": "Casey",
+          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+        }
+      ],
+      "duration_ms": 236181,
+      "name": "For Katie",
+      "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
         "name": "1-800-IDONTKNOWYOUANYMORE",
         "url": "https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 193986,
       "name": "Versions Of You",
       "url": "https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
-        "name": "How To Disappear",
-        "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
-      },
-      "artists": [
-        {
-          "name": "Casey",
-          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
-        }
-      ],
-      "duration_ms": 236181,
-      "name": "For Katie",
-      "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
     },
     {
       "added_at": "2024-07-19 16:21:07",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2024-07-19 16:21:07",
       "album": {
-        "name": "Lacerate",
-        "url": "https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 210022,
-      "name": "Lacerate",
-      "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
-    },
-    {
-      "added_at": "2024-07-19 16:21:07",
-      "album": {
         "name": "Crumble",
         "url": "https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 161091,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
+    },
+    {
+      "added_at": "2024-07-19 16:21:07",
+      "album": {
+        "name": "Lacerate",
+        "url": "https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 210022,
+      "name": "Lacerate",
+      "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
     }
   ],
   "unique_name": "The Scene",

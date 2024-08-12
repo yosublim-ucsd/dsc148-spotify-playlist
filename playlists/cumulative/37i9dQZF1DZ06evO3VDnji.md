@@ -2,7 +2,7 @@
 
 ### [This Is DannyLux](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VDnji)
 
-> This is DannyLux\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is DannyLux\. Todos os maiores hits em uma só playlist.
 
 51 songs - 2 hr 59 min
 

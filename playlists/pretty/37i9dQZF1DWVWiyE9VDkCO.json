@@ -1,6 +1,6 @@
 {
   "description": "Hits zum Tanzen und Mitsingen - von damals bis heute.",
-  "num_followers": 1032636,
+  "num_followers": 1032587,
   "original_name": "Party Deluxe",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 342680,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 342680,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
@@ -919,26 +919,6 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -987,6 +967,26 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -1019,6 +1019,26 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -1071,26 +1091,6 @@
       "duration_ms": 271333,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
-        "name": "Speak and Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
         "name": "Backstreet's Back",
         "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 225360,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
+        "name": "Evolution: The Hits",
+        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
-        "name": "Evolution: The Hits",
-        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
-      },
-      "artists": [
-        {
-          "name": "Dead Or Alive",
-          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "You Spin Me Round (Like a Record)",
-      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -1875,6 +1875,38 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
+        "name": "Never Going Home",
+        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 169944,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
+        "name": "Songs From Dawson's Creek, Vol. II",
+        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
+      },
+      "artists": [
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
         "name": "Turn Me On (feat. Vula)",
         "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
       },
@@ -1899,34 +1931,18 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
-        "name": "Songs From Dawson's Creek, Vol. II",
-        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
+        "name": "What A Feeling",
+        "url": "https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY"
       },
       "artists": [
         {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
         }
       ],
-      "duration_ms": 241666,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
-        "name": "Never Going Home",
-        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
+      "duration_ms": 244533,
+      "name": "What A Feeling",
+      "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -1943,22 +1959,6 @@
       "duration_ms": 163208,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
-        "name": "What A Feeling",
-        "url": "https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "What A Feeling",
-      "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -2187,6 +2187,26 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
+        "name": "On A Day Like Today",
+        "url": "https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        },
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/7p38vlEZaMNySKQVSSWUm8"
       },
@@ -2223,22 +2243,18 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
-        "name": "On A Day Like Today",
-        "url": "https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV"
+        "name": "Good Vibes - The Very Best of Laid Back",
+        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        },
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
         }
       ],
-      "duration_ms": 204893,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ"
+      "duration_ms": 257666,
+      "name": "Sunshine Reggae",
+      "url": "https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -2255,22 +2271,6 @@
       "duration_ms": 239226,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
-        "name": "Good Vibes - The Very Best of Laid Back",
-        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
-      },
-      "artists": [
-        {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Sunshine Reggae",
-      "url": "https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/64vx3cUb97lQGlgt8zozWL"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 221520,
       "name": "Paris",
       "url": "https://open.spotify.com/track/15vzANxN8G9wWfwAJLLMCg"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2024-07-02 12:44:40",
@@ -2575,6 +2575,22 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
+        "name": "L'Amour Toujour",
+        "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "L'amour Toujours (Small Mix)",
+      "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
         "name": "Trouble Deluxe Edition",
         "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
       },
@@ -2611,22 +2627,6 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
-        "name": "L'Amour Toujour",
-        "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "L'amour Toujours (Small Mix)",
-      "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
         "name": "Music For Girls Night Out",
         "url": "https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k"
       },
@@ -2659,6 +2659,22 @@
     {
       "added_at": "2024-07-02 12:44:40",
       "album": {
+        "name": "Jerk It Out",
+        "url": "https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi"
+      },
+      "artists": [
+        {
+          "name": "Caesars",
+          "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Jerk It Out",
+      "url": "https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7"
+    },
+    {
+      "added_at": "2024-07-02 12:44:40",
+      "album": {
         "name": "Love Again (feat. Alida)",
         "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
       },
@@ -2675,22 +2691,6 @@
       "duration_ms": 147401,
       "name": "Love Again (feat. Alida)",
       "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
-    },
-    {
-      "added_at": "2024-07-02 12:44:40",
-      "album": {
-        "name": "Jerk It Out",
-        "url": "https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi"
-      },
-      "artists": [
-        {
-          "name": "Caesars",
-          "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Jerk It Out",
-      "url": "https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7"
     },
     {
       "added_at": "2024-07-02 12:44:40",

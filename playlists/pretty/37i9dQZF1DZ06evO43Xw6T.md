@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This Is Gabito Ballesteros\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,913 likes - 46 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,079 likes - 46 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 42 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 |
 | 43 | [Arriba Las Manos](https://open.spotify.com/track/6XJIs2gL8FwY2qmhd8YIgx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [XX](https://open.spotify.com/album/5NDAZXmSAgG7g9oeysYAZJ) | 2:16 |
 | 44 | [Te He Prometido](https://open.spotify.com/track/6SEWhlV2578vu3ybWXIEwJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:13 |
-| 45 | [No Se Va Poder](https://open.spotify.com/track/1vt5uODSshLkJORqOluJ5m) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Torbellino](https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF) | 3:31 |
-| 46 | [Seguimos Bateando \(En Vivo\)](https://open.spotify.com/track/1zE5vlYuew17I26BH5IXjz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Seguimos Bateando \(En Vivo\)](https://open.spotify.com/album/7gKqDEqMU5BAbZQ7gQh31p) | 2:24 |
+| 45 | [Seguimos Bateando \(En Vivo\)](https://open.spotify.com/track/1zE5vlYuew17I26BH5IXjz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Seguimos Bateando \(En Vivo\)](https://open.spotify.com/album/7gKqDEqMU5BAbZQ7gQh31p) | 2:24 |
+| 46 | [No Se Va Poder](https://open.spotify.com/track/1vt5uODSshLkJORqOluJ5m) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Torbellino](https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF) | 3:31 |
 
-Snapshot ID: `ZrVcAAAAAADPRYBnGkYTe099FCvX3fRX`
+Snapshot ID: `ZratgAAAAABpXv8H3ExZekEnY4pT1t5R`

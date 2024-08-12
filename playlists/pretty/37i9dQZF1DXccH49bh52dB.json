@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 596842,
+  "num_followers": 597267,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Black Friday (pretty like the sun)",
+        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 145599,
+      "name": "Black Friday (pretty like the sun)",
+      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "You & Me (Rivo Remix)",
         "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
       },
@@ -103,26 +123,6 @@
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Black Friday (pretty like the sun)",
-        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 145599,
-      "name": "Black Friday (pretty like the sun)",
-      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138013,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/4255amV4enzl28KAn16rUO"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Waves (Robin Schulz Radio Edit)",
         "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
       },
@@ -279,26 +263,6 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Stole the Show",
-      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -323,6 +287,42 @@
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/4255amV4enzl28KAn16rUO"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Stole the Show",
+      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Conrad Sewell",
-          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
-        }
-      ],
-      "duration_ms": 271640,
-      "name": "Firestone",
-      "url": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY)",
         "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 226738,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Conrad Sewell",
+          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
+        }
+      ],
+      "duration_ms": 271640,
+      "name": "Firestone",
+      "url": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -795,6 +795,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "The Ocean (feat. Shy Martin)",
         "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
-      },
-      "artists": [
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1063,6 +1063,30 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Woke Up in Love",
+        "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 216873,
+      "name": "Woke Up in Love",
+      "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Catch & Release",
         "url": "https://open.spotify.com/album/3GXs3mom2sIaz3FMjPTrxv"
       },
@@ -1079,6 +1103,42 @@
       "duration_ms": 196198,
       "name": "Catch & Release - Deepend Remix",
       "url": "https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 368773,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Settle - Deluxe Version",
+        "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 244174,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1107,66 +1167,6 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Settle - Deluxe Version",
-        "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 244174,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 368773,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Woke Up in Love",
-        "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 216873,
-      "name": "Woke Up in Love",
-      "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Caracal (Deluxe)",
-        "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 199245,
-      "name": "Magnets",
-      "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "No Eyes",
         "url": "https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 166230,
       "name": "Forever And A Day",
       "url": "https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Caracal (Deluxe)",
+        "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 199245,
+      "name": "Magnets",
+      "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Gonna Love Ya",
-      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Karibu",
         "url": "https://open.spotify.com/album/400Ymai2y2a12EvkEUEx7p"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 242500,
       "name": "Karibu",
       "url": "https://open.spotify.com/track/38FWbKB13dMOGf2oJhSZ10"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Gonna Love Ya",
+      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2399,6 +2399,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Max Milner",
+          "url": "https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8"
+        }
+      ],
+      "duration_ms": 221762,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Cold Water (Remixes)",
         "url": "https://open.spotify.com/album/29wcPBOIn8cTAxNxGCYamg"
       },
@@ -2423,26 +2443,6 @@
       "duration_ms": 236304,
       "name": "Cold Water - Lost Frequencies Remix",
       "url": "https://open.spotify.com/track/5cAty1xHsBefc9rpECUHee"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Max Milner",
-          "url": "https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8"
-        }
-      ],
-      "duration_ms": 221762,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "On The Beach",
-        "url": "https://open.spotify.com/album/4SxQPH2WUVZbnhLPwDQuQT"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 188846,
-      "name": "On The Beach",
-      "url": "https://open.spotify.com/track/2nNRWUZBeGLuxegmFhJeCZ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Runaways",
         "url": "https://open.spotify.com/album/7nttA2MrcRbkBDlLdFdh9Q"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 180401,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/78u5zXt7t0vySly74lXMyP"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "On The Beach",
+        "url": "https://open.spotify.com/album/4SxQPH2WUVZbnhLPwDQuQT"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 188846,
+      "name": "On The Beach",
+      "url": "https://open.spotify.com/track/2nNRWUZBeGLuxegmFhJeCZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",

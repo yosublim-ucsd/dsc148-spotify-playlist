@@ -1,6 +1,6 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. The Dare ",
-  "num_followers": 155789,
+  "num_followers": 156168,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -463,6 +463,38 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
+        "name": "First Impressions Of Earth",
+        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "You Only Live Once",
+      "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
         "name": "Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)]",
         "url": "https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv"
       },
@@ -491,22 +523,6 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
-        "name": "First Impressions Of Earth",
-        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "You Only Live Once",
-      "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
         "name": "I Follow Rivers (The Magician Remix)",
         "url": "https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 280069,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
+        "name": "LCD Soundsystem",
+        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 314556,
+      "name": "Daft Punk Is Playing at My House",
+      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
         "name": "Manners",
         "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
       },
@@ -943,6 +959,22 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
+        "name": "Just Your Doll",
+        "url": "https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 147234,
+      "name": "Just Your Doll",
+      "url": "https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
@@ -955,22 +987,6 @@
       "duration_ms": 185560,
       "name": "The End Has No End",
       "url": "https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
-        "name": "LCD Soundsystem",
-        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 314556,
-      "name": "Daft Punk Is Playing at My House",
-      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -991,18 +1007,18 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
-        "name": "Just Your Doll",
-        "url": "https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG"
+        "name": "Made In The Dark",
+        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
       "artists": [
         {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 147234,
-      "name": "Just Your Doll",
-      "url": "https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD"
+      "duration_ms": 234240,
+      "name": "Ready For The Floor",
+      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -1035,22 +1051,6 @@
       "duration_ms": 240760,
       "name": "Y Control",
       "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
-        "name": "Made In The Dark",
-        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Ready For The Floor",
-      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -1115,22 +1115,6 @@
       "duration_ms": 180533,
       "name": "Back in Your Head",
       "url": "https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -1211,6 +1195,22 @@
       "duration_ms": 223226,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
-        "name": "Partie Traumatic",
-        "url": "https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt"
-      },
-      "artists": [
-        {
-          "name": "Black Kids",
-          "url": "https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7"
-        }
-      ],
-      "duration_ms": 217706,
-      "name": "I'm Not Gonna Teach Your Boyfriend How to Dance with You",
-      "url": "https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
         "name": "I Can Change",
         "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 331525,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
+        "name": "Partie Traumatic",
+        "url": "https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt"
+      },
+      "artists": [
+        {
+          "name": "Black Kids",
+          "url": "https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7"
+        }
+      ],
+      "duration_ms": 217706,
+      "name": "I'm Not Gonna Teach Your Boyfriend How to Dance with You",
+      "url": "https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
-        "name": "Mickey Avalon",
-        "url": "https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV"
-      },
-      "artists": [
-        {
-          "name": "Mickey Avalon",
-          "url": "https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Jane Fonda",
-      "url": "https://open.spotify.com/track/0Y2QejubtJugRGvfPgOQ1w"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
         "name": "BTSTU (Edit)",
         "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 209493,
       "name": "BTSTU - Edit",
       "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
+        "name": "Mickey Avalon",
+        "url": "https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV"
+      },
+      "artists": [
+        {
+          "name": "Mickey Avalon",
+          "url": "https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "Jane Fonda",
+      "url": "https://open.spotify.com/track/0Y2QejubtJugRGvfPgOQ1w"
     },
     {
       "added_at": "2024-08-08 16:30:14",

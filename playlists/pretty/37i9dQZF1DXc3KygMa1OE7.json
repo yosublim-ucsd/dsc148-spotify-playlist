@@ -1,6 +1,6 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2549715,
+  "num_followers": 2549726,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "Bad Animals",
-        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 294773,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "Bad Animals",
+        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
+        "name": "Arthur - The Album [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Arthur's Theme (Best That You Can Do)",
+      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 204000,
       "name": "If You Don't Know Me by Now - 2008 Remaster",
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
-        "name": "Arthur - The Album [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Arthur's Theme (Best That You Can Do)",
-      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "I'll Be Over You",
-      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 288973,
       "name": "One More Night - 2016 Remaster",
       "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "...But Seriously (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 275986,
-      "name": "Do You Remember? - 2016 Remaster",
-      "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "What's Love Got to Do with It?",
         "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 226880,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "...But Seriously (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 275986,
+      "name": "Do You Remember? - 2016 Remaster",
+      "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "A Groovy Kind of Love",
-      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "E.S.P.",
         "url": "https://open.spotify.com/album/0DlDUg3SyCkOq7K3WghDUE"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 241400,
       "name": "You Win Again",
       "url": "https://open.spotify.com/track/5mwzpzRue1SBWwrbbhXfbf"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -935,7 +935,7 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "Suddenly (Expanded Edition)",
+        "name": "Suddenly - Expanded Edition",
         "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
       },
       "artists": [
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "Out Of The Blue",
-        "url": "https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b"
-      },
-      "artists": [
-        {
-          "name": "Debbie Gibson",
-          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
-        }
-      ],
-      "duration_ms": 262413,
-      "name": "Foolish Beat",
-      "url": "https://open.spotify.com/track/0KhiesN7gLBPEQhKsBmrI1"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "No Fun Aloud",
         "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 274560,
       "name": "The One You Love",
       "url": "https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "duration_ms": 262413,
+      "name": "Foolish Beat",
+      "url": "https://open.spotify.com/track/0KhiesN7gLBPEQhKsBmrI1"
     },
     {
       "added_at": "2024-07-15 17:18:57",

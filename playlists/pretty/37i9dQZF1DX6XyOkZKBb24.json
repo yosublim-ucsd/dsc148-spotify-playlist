@@ -1,6 +1,6 @@
 {
   "description": "Snuggling in for the evening with a nice soundtrack",
-  "num_followers": 197578,
+  "num_followers": 197703,
   "original_name": "Mellow Evening",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-07-12 19:57:57",
       "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": "2024-07-12 19:57:57",
-      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "added_at": "2024-07-12 19:57:57",
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "added_at": "2024-07-12 19:57:57",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-07-12 19:57:57",
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 195097,
+      "name": "this is me trying",
+      "url": "https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1"
+    },
+    {
+      "added_at": "2024-07-12 19:57:57",
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know",
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
-    },
-    {
-      "added_at": "2024-07-12 19:57:57",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 195097,
-      "name": "this is me trying",
-      "url": "https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1"
     },
     {
       "added_at": "2024-07-12 19:57:57",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-12 19:57:57",
       "album": {
-        "name": "Tejano Blue",
-        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Tejano Blue",
-      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
-    },
-    {
-      "added_at": "2024-07-12 19:57:57",
-      "album": {
         "name": "Shawn Mendes",
         "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2024-07-12 19:57:57",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 248454,
-      "name": "A Symptom Of Being Human",
-      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
       "added_at": "2024-07-12 19:57:57",
@@ -611,6 +595,22 @@
       "duration_ms": 189462,
       "name": "DO 4 LOVE",
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+    },
+    {
+      "added_at": "2024-07-12 19:57:57",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 248454,
+      "name": "A Symptom Of Being Human",
+      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
     },
     {
       "added_at": "2024-07-12 19:57:57",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-07-12 19:57:57",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
+    },
+    {
+      "added_at": "2024-07-12 19:57:57",
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2024-07-12 19:57:57",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
-    },
-    {
-      "added_at": "2024-07-12 19:57:57",
-      "album": {
         "name": "Heartbreak Weather",
         "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 224585,
       "name": "Put A Little Love On Me",
       "url": "https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78"
+    },
+    {
+      "added_at": "2024-07-12 19:57:57",
+      "album": {
+        "name": "Simply The Best",
+        "url": "https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Simply The Best",
+      "url": "https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN"
     },
     {
       "added_at": "2024-07-12 19:57:57",
@@ -767,22 +783,6 @@
       "duration_ms": 165339,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ"
-    },
-    {
-      "added_at": "2024-07-12 19:57:57",
-      "album": {
-        "name": "Simply The Best",
-        "url": "https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7"
-      },
-      "artists": [
-        {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Simply The Best",
-      "url": "https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN"
     },
     {
       "added_at": "2024-07-12 19:57:57",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-12 19:57:57",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Dinner with Friends",
-      "url": "https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n"
-    },
-    {
-      "added_at": "2024-07-12 19:57:57",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 346373,
       "name": "Harvest Moon - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
+    },
+    {
+      "added_at": "2024-07-12 19:57:57",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Dinner with Friends",
+      "url": "https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n"
     },
     {
       "added_at": "2024-07-12 19:57:57",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-12 19:57:57",
       "album": {
-        "name": "All I Need To Hear",
-        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 210447,
-      "name": "All I Need To Hear",
-      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
-    },
-    {
-      "added_at": "2024-07-12 19:57:57",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 291447,
       "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
       "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
+    },
+    {
+      "added_at": "2024-07-12 19:57:57",
+      "album": {
+        "name": "All I Need To Hear",
+        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
     },
     {
       "added_at": "2024-07-12 19:57:57",

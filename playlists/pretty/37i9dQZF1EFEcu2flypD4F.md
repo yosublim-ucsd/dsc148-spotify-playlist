@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,852 likes - 326 songs - 20 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,853 likes - 326 songs - 20 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,8 +216,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 206 | [Wonderful](https://open.spotify.com/track/2St9phLphjLD3e0tpZV4tH) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Phases](https://open.spotify.com/album/5dAuovYBdntbFoq6xFScts) | 3:12 |
 | 207 | [Speed Dial No\. 2](https://open.spotify.com/track/7rhc9e9gzWZOj9khLQE8mb) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [When It Falls](https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7) | 3:51 |
 | 208 | [Sweet Potato](https://open.spotify.com/track/0X5REyeiMlUl1YJqsjXW3w) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 3:56 |
-| 209 | [Stronger Than Ever](https://open.spotify.com/track/0GzrDJVavYZpA8Hc6MRxuU) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:15 |
-| 210 | [The Final Countdown](https://open.spotify.com/track/6T3FXgh1GwDIxyXrBkrojY) | [School Reunion Band](https://open.spotify.com/artist/6psi5J7f13d8hYDUrhzBL0) | [Old School Family Road Trip Mix](https://open.spotify.com/album/6IxoNDjywEHdjpCc63AhQz) | 5:01 |
+| 209 | [The Final Countdown](https://open.spotify.com/track/6T3FXgh1GwDIxyXrBkrojY) | [School Reunion Band](https://open.spotify.com/artist/6psi5J7f13d8hYDUrhzBL0) | [Old School Family Road Trip Mix](https://open.spotify.com/album/6IxoNDjywEHdjpCc63AhQz) | 5:01 |
+| 210 | [Stronger Than Ever](https://open.spotify.com/track/0GzrDJVavYZpA8Hc6MRxuU) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:15 |
 | 211 | [Rewrite](https://open.spotify.com/track/1NMzLXCP8jEv0WLz6wrhrs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:45 |
 | 212 | [Where I Belong](https://open.spotify.com/track/6CfKKiBm6iRgNCqVITrmtO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:43 |
 | 213 | [Natale's Song](https://open.spotify.com/track/3JyS1Di4qK8NYwvBPEeo51) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 2:28 |
@@ -246,8 +246,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 236 | [Riding On My Bike](https://open.spotify.com/track/1fkpwndSm7u8IqWEtUw4fI) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Riding On My Bike \(from “At home with the kids”\)](https://open.spotify.com/album/68CycIbYcixJDbzd5xyeku) | 1:47 |
 | 237 | [Expertease \(Ready Set Go\)](https://open.spotify.com/track/5tpRdQQHr9eKa0tNdTmI64) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 4:04 |
 | 238 | [My Love](https://open.spotify.com/track/4E7veCcEczlhKQDpOG4qPk) | [Top Hits](https://open.spotify.com/artist/457jVyl9BJJD36YSFM3NkC) | [The Top Hits](https://open.spotify.com/album/6BFWMtAJDVfLF3aPXzndhx) | 4:52 |
-| 239 | [Rock Bottom](https://open.spotify.com/track/7b2AQnXlxKAPY0PBnjoHNr) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Le cose che non ho](https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG) | 3:55 |
-| 240 | [Wanna Be Known](https://open.spotify.com/track/3qV77JjyBtqHovXoYSLnr3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:46 |
+| 239 | [Wanna Be Known](https://open.spotify.com/track/3qV77JjyBtqHovXoYSLnr3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:46 |
+| 240 | [Rock Bottom](https://open.spotify.com/track/7b2AQnXlxKAPY0PBnjoHNr) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Le cose che non ho](https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG) | 3:55 |
 | 241 | [Pop Rock](https://open.spotify.com/track/4hRfQY1nGmSkBg5FU00zcG) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:56 |
 | 242 | [Diamants](https://open.spotify.com/track/6VRn0RfkTHOcTQl9Ekqa0l) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [LU7](https://open.spotify.com/album/70ctKnxErQ38j1sLnWPhJP) | 4:22 |
 | 243 | [Toy Box](https://open.spotify.com/track/1ox13aJPqqpqb6Ej1HO3Db) | [Mylene Cruz \(Herizen Guardiola\) & The Soul Madonnas](https://open.spotify.com/artist/1qCN3pqJTenBwFzJvtaXMS), [The Soul Madonnas](https://open.spotify.com/artist/5tvgyJ5URflCCNGKEZ7iB4) | [The Get Down Part II: Original Soundtrack From The Netflix Original Series](https://open.spotify.com/album/0UqBp39R5ARECBnxnVk25l) | 3:45 |
@@ -263,8 +263,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 253 | [Mister Sister](https://open.spotify.com/track/2j1j7ErJJDpUPiLcL4xv9c) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Sexual Harassment](https://open.spotify.com/album/4fsdLpd40uZXSlOkcAvQqQ) | 3:49 |
 | 254 | [The Going Price For Home](https://open.spotify.com/track/55whs00ggfEZHTF7ni3Aak) | [The Prize Fighter Inferno](https://open.spotify.com/artist/7gxpZdWXJWyfAaRU6igwKU) | [My Brother's Blood Machine](https://open.spotify.com/album/2GE64GHiFoz42adL9fPWlP) | 4:04 |
 | 255 | [Rock and Balloon](https://open.spotify.com/track/6z7xJnTegn9nLPrTANuzvF) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 4:00 |
-| 256 | [Healing Is Difficult](https://open.spotify.com/track/1L5HyFVKEBVhIix8jjsnCn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 5:24 |
-| 257 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 256 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 257 | [Healing Is Difficult](https://open.spotify.com/track/1L5HyFVKEBVhIix8jjsnCn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 5:24 |
 | 258 | [These Hands I Hold \- Paul Oakenfold Future House Radio Edit](https://open.spotify.com/track/45ZxWK7H35M4tanQ6IVwR0) | [Greg Downey](https://open.spotify.com/artist/5g5gfQk7ayB806jZ9FFCjL), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [These Hands I Hold](https://open.spotify.com/album/2f0h1hYZM448Klq2JkbYrn) | 3:30 |
 | 259 | [I'm Not Important to You](https://open.spotify.com/track/3gbadh6pdgrLspW6zDHq7E) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 6:08 |
 | 260 | [I Am Sound](https://open.spotify.com/track/3EVkoL8q7HJTSTXrBuXeGe) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF) | 3:59 |
@@ -335,4 +335,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 325 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 326 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbZFBQAAAADhIQSH3REVuotsdX/Np9Z6`
+Snapshot ID: `AbZKpQAAAABFuEjnIcCo629hc0qd7sVN`

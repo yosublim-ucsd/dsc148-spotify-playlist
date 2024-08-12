@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The biggest Arabic hits all in one place\. Cover:  Angham
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,928 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,072 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-69 songs - 5 hr 38 min
+70 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Fè Sa W Vle Avè M'](https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz) | [K\-Zino](https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW) | [Transition](https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp) | 4:07 | 2020-06-03 | 2024-07-04 |
 | [Gen Bagay](https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky) | [Yani Martelly](https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy), [Kenny](https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f) | [Gen Bagay](https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV) | 3:14 | 2020-06-03 | 2024-07-29 |
 | [Gouyé](https://open.spotify.com/track/116sqvAfJGse17D2vOqjSR) | [Jim Rama](https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Nouvel R](https://open.spotify.com/album/7t73llYw1dPOBpewNut9GD) | 4:42 | 2020-06-03 | 2024-04-19 |
-| [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 | 2020-06-03 |  |
+| [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 | 2020-06-03 | 2024-08-12 |
 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 | 2020-06-03 |  |
 | [Heartbreak & Misery](https://open.spotify.com/track/23gqX7KTpI4ZEiCbyIRrzX) | [Disip](https://open.spotify.com/artist/4DjQNrfsZZje1pbjfr8d9n) | [Klere Yo](https://open.spotify.com/album/2H1rwUb7pqUIJPh7MLcgCN) | 6:31 | 2020-06-03 | 2024-04-07 |
 | [I'll Yayad \- Pretty Bumpy](https://open.spotify.com/track/3PJiAnUAuy8FqnyMs85BkW) | [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat), [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [I'll Yayad \(Pretty Bumpy\)](https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF) | 4:27 | 2024-04-06 |  |
@@ -54,6 +54,7 @@
 | [Move chwa](https://open.spotify.com/track/5SqW0PVDbz3bXsyxRdUJfR) | [K\-Dans](https://open.spotify.com/artist/4KV6KEiSrUZRoF5YqMjyIx) | [Bagay Yo Chanje!](https://open.spotify.com/album/0nYwb6eZYkb7wXjRiN13vS) | 5:19 | 2020-06-03 | 2023-12-20 |
 | [Mwen bouke](https://open.spotify.com/track/5I8RwPZFt7hw1sBGgltoE2) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Diferan](https://open.spotify.com/album/4Fvn3EqC18EGayl4mndJq9) | 4:57 | 2020-06-03 | 2023-12-09 |
 | [Mwen bouke](https://open.spotify.com/track/2FsxVv8SMZHUGLh7EFEGWF) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Diferan](https://open.spotify.com/album/3jVojC2xLgVe5jbWeGQvYK) | 4:58 | 2020-06-03 | 2024-04-07 |
+| [Oblije Blockem \- Baby Gyal](https://open.spotify.com/track/0QPxawz5fYG2TeB7mO8wzy) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Oblije Blockem \(Baby Gyal\)](https://open.spotify.com/album/7t31knDPCCiqPTaKIQF3I9) | 3:28 | 2024-08-02 |  |
 | [Ou pati](https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 4:28 | 2020-06-03 |  |
 | [Pa kite'm \- Djazz Dj'aa](https://open.spotify.com/track/6QpPY9WVrobfQM7pU4TdFB) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi), [Olivier Duret](https://open.spotify.com/artist/4Lo1kP4n9FjjG8bDmOl2zB) | [Pa kite'm \(Djazz Dj'aa\)](https://open.spotify.com/album/7lmLIlwmKZfUmPFxWZY3kc) | 5:35 | 2020-06-03 | 2023-09-07 |
 | [Pa Leve Main Ou Sou Li](https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V) | [System Band](https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU) | [Nan Building Nan](https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu) | 5:23 | 2020-06-03 | 2024-04-19 |

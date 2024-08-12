@@ -612,7 +612,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 212071,
       "name": "Feel The Same Way (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/5nh5iMaYliOmgrhohSNOtJ"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 180000,
       "name": "P RUN",
       "url": "https://open.spotify.com/track/4E6A9hhYyHRG6FBDmlpWTq"
@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "TRYNA MAKE SURE",
+      "url": "https://open.spotify.com/track/1su0sROPqYGSrq9YVm7mxl"
+    },
+    {
+      "album": {
         "name": "TRYNA MAKE SURE",
         "url": "https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW"
       },
@@ -2188,7 +2206,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 166956,
       "name": "TRYNA MAKE SURE",
       "url": "https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG"

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 263038,
+  "num_followers": 263141,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Bayou Country (Expanded Edition)",
@@ -215,6 +199,22 @@
       "duration_ms": 187213,
       "name": "Proud Mary",
       "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Help! - Remastered 2009",
-      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "The Doors",
@@ -409,6 +393,22 @@
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Help! - Remastered 2009",
+      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
+    },
+    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "The Second",
@@ -441,6 +441,22 @@
       "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
     },
     {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Surrealistic Pillow",
@@ -471,22 +487,6 @@
       "duration_ms": 125826,
       "name": "Do You Believe in Magic?",
       "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -571,38 +571,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 153333,
       "name": "Where Did Our Love Go",
       "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Beatles For Sale - Remastered",
         "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 143627,
       "name": "Hey! Baby - Remastered",
       "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
     },
     {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "Fresh Cream",
+        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I Feel Free",
+      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
+    },
+    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "The Best Of Dion",
@@ -875,22 +891,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
@@ -905,20 +905,20 @@
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
+      "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Fresh Cream",
-        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 171506,
-      "name": "I Feel Free",
-      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Take Good Care Of My Baby",
         "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 165360,
       "name": "Comin' Home Baby",
       "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "Bo Diddley",
-        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Make It Happen",
@@ -1151,6 +1135,22 @@
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "Bo Diddley",
+        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Things & Other Things",
-        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "Things",
-      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "No Place To Hide",
         "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 129758,
       "name": "It's In The Kiss (The Shoop Shoop Song)",
       "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Things & Other Things",
+        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 151413,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Circulate (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 157026,
+      "name": "Happy Birthday, Sweet Sixteen",
+      "url": "https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Dimension Dolls",
         "url": "https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 119026,
       "name": "You're Sixteen, You're Beautiful (And You're Mine)",
       "url": "https://open.spotify.com/track/5oeFEW0WGSGEdXMDKNI4z4"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Circulate (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 157026,
-      "name": "Happy Birthday, Sweet Sixteen",
-      "url": "https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Carrie Anne",
+      "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Groovin' with Manfred Mann",
         "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 151666,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 175893,
-      "name": "Carrie Anne",
-      "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "It's My Party: The Mercury Anthology",
-        "url": "https://open.spotify.com/album/7wOkRyqP8l6XdHEUfXpxFy"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 144160,
-      "name": "It's My Party",
-      "url": "https://open.spotify.com/track/5A9Lz0DPD0wo2QDqGm4zh9"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "I'm A Man / I Can't Get Enough Of It",
         "url": "https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 176160,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "It's My Party: The Mercury Anthology",
+        "url": "https://open.spotify.com/album/7wOkRyqP8l6XdHEUfXpxFy"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 144160,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/5A9Lz0DPD0wo2QDqGm4zh9"
     },
     {
       "added_at": "2022-06-16 22:02:00",

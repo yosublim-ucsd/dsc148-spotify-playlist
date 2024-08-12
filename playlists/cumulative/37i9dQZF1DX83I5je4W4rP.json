@@ -6500,10 +6500,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 211000,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re"
+    },
+    {
+      "album": {
+        "name": "Wasted Summer",
+        "url": "https://open.spotify.com/album/5Lm5aKklugJnEiweimWZWq"
+      },
+      "artists": [
+        {
+          "name": "Cydeways",
+          "url": "https://open.spotify.com/artist/398HIuiMcfxwWLwAUD5Z2G"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162301,
+      "name": "Wasted Summer",
+      "url": "https://open.spotify.com/track/1waR2OGINwOJpNRZyj5WhY"
     },
     {
       "album": {

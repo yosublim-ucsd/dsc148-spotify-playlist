@@ -4,7 +4,7 @@
 
 > The greatest alternative rock songs through the decades\. Cover: Phoenix
 
-400 songs - 1 day 1 hr 32 min
+401 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Can't Stand Me Now](https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:23 | 2022-05-30 | 2024-04-19 |
 | [Can't Stand Me Now](https://open.spotify.com/track/2R4bmZb28Dhd65ZBySr2jk) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Time for Heroes \- The Best of The Libertines](https://open.spotify.com/album/4gq5rvmYsXX99ZBzlGcnnq) | 3:23 | 2022-05-30 | 2022-11-13 |
 | [Can't Stand Me Now](https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri) | 3:23 | 2020-07-23 |  |
+| [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 | 2024-08-11 |  |
 | [Cannonball](https://open.spotify.com/track/05jUpJAbg7xtLzB5lsnm64) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Cannonball](https://open.spotify.com/album/1syQ3F5kKN1JdqF6fbDMDc) | 3:33 | 2022-05-30 | 2022-11-13 |
 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2022-05-30 | 2024-04-19 |
 | [Cannonball](https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx) | 3:33 | 2020-07-23 |  |
@@ -395,7 +396,7 @@
 | [Y Control](https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 4:00 | 2022-05-30 | 2024-04-19 |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2020-07-23 |  |
 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 | 2020-07-23 |  |
-| [You're Gonna Go Far, Kid](https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr) | 2:57 | 2020-07-23 |  |
+| [You're Gonna Go Far, Kid](https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr) | 2:57 | 2020-07-23 | 2024-08-12 |
 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:57 | 2022-05-30 | 2024-04-19 |
 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6XGKRPv9lpCyIVeibTytDi) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [00s Rock](https://open.spotify.com/album/6r4f5B7hDTYwRKR6qGo6qo) | 2:57 | 2022-05-30 | 2022-11-13 |
 | [You've Got The Love](https://open.spotify.com/track/0V1rCXBVm0y6n6xGReEptq) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [A Lot of Love, A Lot of Blood](https://open.spotify.com/album/6snW85DPGWJ1eK9voqVwTX) | 2:48 | 2022-05-30 | 2022-11-13 |

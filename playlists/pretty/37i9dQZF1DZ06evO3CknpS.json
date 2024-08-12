@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAAs+/acyb+sKKyGFuIuQ4Cz",
+  "snapshot_id": "ZratgAAAAAAxEEhvPQwl7o/+gR+7H3ng",
   "tracks": [
     {
       "added_at": null,
@@ -324,17 +324,21 @@
       },
       "artists": [
         {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "The Listening Room Ensemble",
           "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 476933,
-      "name": "Bachianas Brasileiras: No. 5, Aria",
-      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
+      "duration_ms": 268080,
+      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
+      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
     },
     {
       "added_at": null,
@@ -392,8 +396,8 @@
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
         },
         {
           "name": "Clara Rockmore",
@@ -404,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 229666,
-      "name": "14 Songs, Op. 34, No. 14. Vocalise: 14 Songs, Op. 34: No. 14, Vocalise (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv"
+      "duration_ms": 190400,
+      "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
     },
     {
       "added_at": null,
@@ -416,21 +420,17 @@
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         },
         {
           "name": "The Listening Room Ensemble",
           "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 268080,
-      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
-      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
+      "duration_ms": 476933,
+      "name": "Bachianas Brasileiras: No. 5, Aria",
+      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
     },
     {
       "added_at": null,
@@ -488,8 +488,8 @@
       },
       "artists": [
         {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
         },
         {
           "name": "Clara Rockmore",
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 190400,
-      "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
+      "duration_ms": 229666,
+      "name": "14 Songs, Op. 34, No. 14. Vocalise: 14 Songs, Op. 34: No. 14, Vocalise (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv"
     },
     {
       "added_at": null,
@@ -575,50 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music In and On The Air",
-        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
-      },
-      "artists": [
-        {
-          "name": "Robert Sherman",
-          "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
-        },
-        {
-          "name": "Erick Friedman",
-          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Commentary: Interviews",
-      "url": "https://open.spotify.com/track/6zAR0wKfhrYUFraTXoz0xW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 179106,
-      "name": "Habanera",
-      "url": "https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ionisation (1927-1945)",
         "url": "https://open.spotify.com/album/5UJsUtvJhH5n1YqHSSJ8sD"
       },
@@ -647,26 +603,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "Habanera",
+      "url": "https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+      },
+      "artists": [
+        {
+          "name": "Robert Sherman",
+          "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
+        },
+        {
+          "name": "Erick Friedman",
+          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Commentary: Interviews",
+      "url": "https://open.spotify.com/track/6zAR0wKfhrYUFraTXoz0xW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music and Memories: Clara Rockmore",
         "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
       },
       "artists": [
         {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
-        },
-        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Morey Ritt",
+          "url": "https://open.spotify.com/artist/1JAXudyatYMiUMGNTRtvK6"
         },
         {
           "name": "Nadia Reisenberg",
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 392533,
-      "name": "Symphonie Espagnole: Andante",
-      "url": "https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA"
+      "duration_ms": 220400,
+      "name": "Interview with Clara Rockmore and Morey Ritt",
+      "url": "https://open.spotify.com/track/1Lx6LMEaPUhuR4ReW8hyMp"
     },
     {
       "added_at": null,
@@ -692,8 +692,8 @@
       },
       "artists": [
         {
-          "name": "Bob Sherman",
-          "url": "https://open.spotify.com/artist/49c82NBMSDrS5DFGEU1qbg"
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
         },
         {
           "name": "Clara Rockmore",
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 251933,
-      "name": "Impromptu interview with Alexander Schneider",
-      "url": "https://open.spotify.com/track/1T4fEZlWFEdrPh9zRj7cuY"
+      "duration_ms": 392533,
+      "name": "Symphonie Espagnole: Andante",
+      "url": "https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA"
     },
     {
       "added_at": null,

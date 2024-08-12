@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949 likes - 114 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 948 likes - 114 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 33 | [Gelatai](https://open.spotify.com/track/62rjhusM9EyTTtSk6l61wr) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 2:56 |
 | 34 | [THE WORLD IS YOURS](https://open.spotify.com/track/4UaGQWKASSvNQZ2D1wRzel) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:06 |
 | 35 | [LA NOTTE](https://open.spotify.com/track/3dK7LjirF5LVopSoO45dgN) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 3:05 |
-| 36 | [Fossi come te](https://open.spotify.com/track/1Nj0Wf44yzoBUDfOxinMPV) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/2MzeGfG0UOrNnQ44igTAWO) | 3:03 |
-| 37 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
+| 36 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
+| 37 | [Fossi come te](https://open.spotify.com/track/1Nj0Wf44yzoBUDfOxinMPV) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/2MzeGfG0UOrNnQ44igTAWO) | 3:03 |
 | 38 | [CRISI v8](https://open.spotify.com/track/3ZITsuxamXIoDlyy4Fi2Wt) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:13 |
 | 39 | [PASTIGLIA v7](https://open.spotify.com/track/4Vp13e77ads0KmyLkV9XLj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:38 |
 | 40 | [una bella canzone](https://open.spotify.com/track/5OuXhUBx0w4ruJymbEFgYJ) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 2:39 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 62 | [BUGIA](https://open.spotify.com/track/2LrD9eskzGNULjsdc4z8PG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 2:36 |
 | 63 | [Come](https://open.spotify.com/track/7dQFTBVhEyJVfR60c8pt02) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Come](https://open.spotify.com/album/0TIFKEEBEyVDZGNcmxz40r) | 3:16 |
 | 64 | [Funerale](https://open.spotify.com/track/5ryZexJBkb3yB3UjKBJ4J7) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:45 |
-| 65 | [Disobbedisco](https://open.spotify.com/track/4GvkPq3xIcX1UoAVMjGJVG) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Disobbedisco](https://open.spotify.com/album/4yhNHgYzSssaWqzRCgacgM) | 1:46 |
-| 66 | [Bambina](https://open.spotify.com/track/4jURDAhRGG8UkW1WTjSxkP) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 2:59 |
+| 65 | [Bambina](https://open.spotify.com/track/4jURDAhRGG8UkW1WTjSxkP) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 2:59 |
+| 66 | [Disobbedisco](https://open.spotify.com/track/4GvkPq3xIcX1UoAVMjGJVG) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Disobbedisco](https://open.spotify.com/album/4yhNHgYzSssaWqzRCgacgM) | 1:46 |
 | 67 | [Non mi piace](https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 3:04 |
 | 68 | [Facile](https://open.spotify.com/track/7xs0gw660PtVVJqdkYyVtV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:40 |
 | 69 | [GONNA v5](https://open.spotify.com/track/4CZjgU3YPOiSOqhCIupbhC) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:20 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 113 | [Hotel Corallo](https://open.spotify.com/track/7tjhWatS9Fha34m8Q9YxKW) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 3:29 |
 | 114 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 
-Snapshot ID: `AbZFCgAAAADhAGQECdmurfnKEr+UjRUA`
+Snapshot ID: `AbZKbAAAAABb0kO49NZe3dEoOnH2rfO7`

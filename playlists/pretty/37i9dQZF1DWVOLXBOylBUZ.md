@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Mora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,579 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,521 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 14 | [Bajo y Batería](https://open.spotify.com/track/7sHvjFCY3tLXkjR7zg8p1h) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 3:21 |
 | 15 | [Brokix Hotline: Cobuz & Bustta](https://open.spotify.com/track/4dnCAHa7U4x5T5EKHT4Sw3) | [Hotline](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [Brokix Hotline: Cobuz & Bustta](https://open.spotify.com/album/3MQi4dwNeCPowK1iBtUCh7) | 2:39 |
 | 16 | [PULL UP!](https://open.spotify.com/track/6FFuIWkavxpcwxeyZRgXuJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:23 |
-| 17 | [Pa´Las Joyas](https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Pa´Las Joyas](https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO) | 2:44 |
+| 17 | [PA´ LAS JOYAS](https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [PA´ LAS JOYAS](https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO) | 2:44 |
 | 18 | [A Las 12](https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [A Las 12](https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f) | 3:08 |
 | 19 | [Coco Loco](https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Coco Loco](https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp) | 3:18 |
 | 20 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 |

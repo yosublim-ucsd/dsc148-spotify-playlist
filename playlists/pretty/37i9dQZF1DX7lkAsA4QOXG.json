@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 131961,
+  "num_followers": 132024,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 173253,
       "name": "A Hard Day's Night",
       "url": "https://open.spotify.com/track/3f3hT4I98nzIeqijasHcud"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 214080,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/3pMwgThbs4lcXs9h4EAIJg"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -591,6 +591,22 @@
       "duration_ms": 523613,
       "name": "Maiden Voyage / Everything In Its Right Place",
       "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 342951,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -647,22 +663,6 @@
       "duration_ms": 279573,
       "name": "I Got You - I Feel Good",
       "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 342951,
-      "name": "Farewell, Angelina",
-      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -735,6 +735,26 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Stockholm Underground",
+        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
+      },
+      "artists": [
+        {
+          "name": "Magnus Lindgren",
+          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 303807,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2lfX30k8kJIaTbPBgKy4dX"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 494222,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/3j6a1cE8SnCoIHmsuMQ84P"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Stockholm Underground",
-        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
-      },
-      "artists": [
-        {
-          "name": "Magnus Lindgren",
-          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 303807,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
-      },
-      "artists": [
-        {
-          "name": "Rosie Frater-Taylor",
-          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
-        },
-        {
-          "name": "Chris Hyson",
-          "url": "https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Start Again EP",
         "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 159541,
       "name": "Viva la Vida",
       "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
+      },
+      "artists": [
+        {
+          "name": "Rosie Frater-Taylor",
+          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
+        },
+        {
+          "name": "Chris Hyson",
+          "url": "https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "A Modern Songbook",
+        "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
+      },
+      "artists": [
+        {
+          "name": "William Withers",
+          "url": "https://open.spotify.com/artist/5pBACm8DbZ0ewugKBwgbrZ"
+        },
+        {
+          "name": "Thomas Enhco",
+          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
+        },
+        {
+          "name": "St\u00e9phane Kerecki",
+          "url": "https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
       },
@@ -1075,30 +1099,6 @@
       "duration_ms": 226093,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "A Modern Songbook",
-        "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
-      },
-      "artists": [
-        {
-          "name": "William Withers",
-          "url": "https://open.spotify.com/artist/5pBACm8DbZ0ewugKBwgbrZ"
-        },
-        {
-          "name": "Thomas Enhco",
-          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
-        },
-        {
-          "name": "St\u00e9phane Kerecki",
-          "url": "https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B"
-        }
-      ],
-      "duration_ms": 265546,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Blacknuss",
+        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Roland Kirk",
+          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "Champagne & Declarations",
         "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Blacknuss",
-        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
       },
       "artists": [
         {
-          "name": "Rahsaan Roland Kirk",
-          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
+      "duration_ms": 152813,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1279,22 +1295,6 @@
       "duration_ms": 353941,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Blowin' In The Wind",
-      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8"
-      },
-      "artists": [
-        {
-          "name": "Meadowpoints",
-          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
-        }
-      ],
-      "duration_ms": 233625,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "What's It All About?",
         "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Oliver Nelson Plays Michelle",
-        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8"
       },
       "artists": [
         {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+          "name": "Meadowpoints",
+          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
         }
       ],
-      "duration_ms": 162480,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
+      "duration_ms": 233625,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1415,6 +1399,22 @@
       "duration_ms": 328192,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Oliver Nelson Plays Michelle",
+        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Technically Acceptable",
+        "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Iverson",
+          "url": "https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH"
+        }
+      ],
+      "duration_ms": 230389,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "Remember to Remember",
         "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Technically Acceptable",
-        "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
       },
       "artists": [
         {
-          "name": "Ethan Iverson",
-          "url": "https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH"
+          "name": "Marco Locurcio",
+          "url": "https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4"
         }
       ],
-      "duration_ms": 230389,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
+      "duration_ms": 263253,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
-      },
-      "artists": [
-        {
-          "name": "Marco Locurcio",
-          "url": "https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "River Man (feat. Sara Caswell)",
         "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
       },
@@ -1723,26 +1723,6 @@
       "duration_ms": 538160,
       "name": "River Man (feat. Sara Caswell)",
       "url": "https://open.spotify.com/track/2kw0EpoNg4LzYV6Sui31jM"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Hey, That's No Way To Say Goodbye",
-      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1767,6 +1747,26 @@
       "duration_ms": 306787,
       "name": "Take It with Me",
       "url": "https://open.spotify.com/track/6FYYyshox7gb34kXVV4UWg"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "Hey, That's No Way To Say Goodbye",
+      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/4xKKdNlF9w7oFoZiOc2WcH"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 225335,
+      "name": "Exile",
+      "url": "https://open.spotify.com/track/1FOYXwmCeH2CCgEKAdnBGw"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "Your Song",
         "url": "https://open.spotify.com/album/5wgdPiD77nrKUBiW7ptss4"
       },
@@ -2219,22 +2235,6 @@
       "duration_ms": 270847,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Exile",
-        "url": "https://open.spotify.com/album/4xKKdNlF9w7oFoZiOc2WcH"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 225335,
-      "name": "Exile",
-      "url": "https://open.spotify.com/track/1FOYXwmCeH2CCgEKAdnBGw"
     },
     {
       "added_at": "2024-06-13 12:46:03",

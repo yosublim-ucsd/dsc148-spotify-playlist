@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 70747,
+  "num_followers": 70745,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LkrVSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LkwkcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "BEIA (Jere Klein)",
         "url": "https://open.spotify.com/album/2vOMwwbgBe7vCGfV18lmUv"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6Dj22jpOiUm5DMjjEdeImQ"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
@@ -81,7 +81,27 @@
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "Hasta Aqu\u00ed Llegu\u00e9",
+        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 188887,
+      "name": "Hasta Aqu\u00ed Llegu\u00e9",
+      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -113,27 +133,7 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "Hasta Aqu\u00ed Llegu\u00e9",
-        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 188887,
-      "name": "Hasta Aqu\u00ed Llegu\u00e9",
-      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Baby Dime Si Estas Bien",
         "url": "https://open.spotify.com/album/735vDbdMVd26DLNGQKDsgF"
@@ -149,23 +149,7 @@
       "url": "https://open.spotify.com/track/77oVZJVwJ5o2N7aIEOwCMT"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
@@ -185,7 +169,39 @@
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "Amiga Ya Mat\u00f3",
+        "url": "https://open.spotify.com/album/3vdeLAOCdRgLEYXaoAxpwh"
+      },
+      "artists": [
+        {
+          "name": "Fran Maira",
+          "url": "https://open.spotify.com/artist/62ztrjzw3tYDq5udATPhwN"
+        }
+      ],
+      "duration_ms": 144014,
+      "name": "Amiga Ya Mat\u00f3",
+      "url": "https://open.spotify.com/track/0UONsSefbs5YP6iluxq8Dq"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Harpy Hare",
         "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
@@ -221,39 +237,7 @@
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "Amiga Ya Mat\u00f3",
-        "url": "https://open.spotify.com/album/3vdeLAOCdRgLEYXaoAxpwh"
-      },
-      "artists": [
-        {
-          "name": "Fran Maira",
-          "url": "https://open.spotify.com/artist/62ztrjzw3tYDq5udATPhwN"
-        }
-      ],
-      "duration_ms": 144014,
-      "name": "Amiga Ya Mat\u00f3",
-      "url": "https://open.spotify.com/track/0UONsSefbs5YP6iluxq8Dq"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "Mensaje de cumplea\u00f1os",
-        "url": "https://open.spotify.com/album/3ErOsTn7ZTU8Vfk2rTC6ID"
-      },
-      "artists": [
-        {
-          "name": "Baby J & MLSHBTS",
-          "url": "https://open.spotify.com/artist/3AuVD85Q1DtjeJTEzlaMBF"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Mensaje de cumplea\u00f1os",
-      "url": "https://open.spotify.com/track/26TEh9taf5N1kpUmPsCuoa"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -269,27 +253,23 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
-        "name": "WHAT U KNOW BOUT LOVE ($HI$HI REMIX)",
-        "url": "https://open.spotify.com/album/3GJ26QNnPX05VE6xA42CJS"
+        "name": "Mensaje de cumplea\u00f1os",
+        "url": "https://open.spotify.com/album/3ErOsTn7ZTU8Vfk2rTC6ID"
       },
       "artists": [
         {
-          "name": "Shishigang Records",
-          "url": "https://open.spotify.com/artist/2DywQB5g7Vvlnu4qvNmdiu"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Baby J & MLSHBTS",
+          "url": "https://open.spotify.com/artist/3AuVD85Q1DtjeJTEzlaMBF"
         }
       ],
-      "duration_ms": 125062,
-      "name": "WHAT U KNOW BOUT LOVE ($HI$HI REMIX)",
-      "url": "https://open.spotify.com/track/1LFszPPjedeTRYYb7rt94J"
+      "duration_ms": 169090,
+      "name": "Mensaje de cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/26TEh9taf5N1kpUmPsCuoa"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
@@ -305,7 +285,39 @@
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "Solida",
+        "url": "https://open.spotify.com/album/76Vgm0kKAsH7kkapKsPudr"
+      },
+      "artists": [
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Solida",
+      "url": "https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "WATONA EN EL CAR",
         "url": "https://open.spotify.com/album/2a6Ov4NzMvC3QsmONh9RcU"
@@ -321,7 +333,7 @@
       "url": "https://open.spotify.com/track/3FaqqTlK2Aj3paDC4U1Mw7"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Tuss",
         "url": "https://open.spotify.com/album/4l7IpfEVv21t2gxYnrRPKA"
@@ -341,7 +353,7 @@
       "url": "https://open.spotify.com/track/0qd7ACCc9z2mlTYgPRcnUJ"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
@@ -357,39 +369,7 @@
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "Solida",
-        "url": "https://open.spotify.com/album/76Vgm0kKAsH7kkapKsPudr"
-      },
-      "artists": [
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "Solida",
-      "url": "https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Samba de Raiz - Ao Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/025CDSYsJnhxdS5o3BDvk9"
@@ -405,7 +385,111 @@
       "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "WHAT U KNOW BOUT LOVE ($HI$HI REMIX)",
+        "url": "https://open.spotify.com/album/3GJ26QNnPX05VE6xA42CJS"
+      },
+      "artists": [
+        {
+          "name": "Shishigang Records",
+          "url": "https://open.spotify.com/artist/2DywQB5g7Vvlnu4qvNmdiu"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 125062,
+      "name": "WHAT U KNOW BOUT LOVE ($HI$HI REMIX)",
+      "url": "https://open.spotify.com/track/1LFszPPjedeTRYYb7rt94J"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "Chihiro",
+        "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "duration_ms": 128575,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "ROMANCE : UNTOLD",
+        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 176424,
+      "name": "Brought The Heat Back",
+      "url": "https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "CHINGON",
+        "url": "https://open.spotify.com/album/1G7CJQFdIdrwyI06JeinOe"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "NEMJ",
+          "url": "https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX"
+        }
+      ],
+      "duration_ms": 134778,
+      "name": "CHINGON",
+      "url": "https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "Tu Silueta",
+        "url": "https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ"
+      },
+      "artists": [
+        {
+          "name": "Diegote",
+          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Tu Silueta",
+      "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Suenan los Deportivos",
         "url": "https://open.spotify.com/album/4Sv9p9G2H9dYf47psfUIPF"
@@ -429,111 +513,23 @@
       "url": "https://open.spotify.com/track/779KqxFFlRnm4JBlmI7fVy"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
-        "name": "Chihiro",
-        "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
       },
       "artists": [
         {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
         }
       ],
-      "duration_ms": 128575,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "CHINGON",
-        "url": "https://open.spotify.com/album/1G7CJQFdIdrwyI06JeinOe"
-      },
-      "artists": [
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        },
-        {
-          "name": "NEMJ",
-          "url": "https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX"
-        }
-      ],
-      "duration_ms": 134778,
-      "name": "CHINGON",
-      "url": "https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "ROMANCE : UNTOLD",
-        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 176424,
-      "name": "Brought The Heat Back",
-      "url": "https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "Tu Silueta",
-        "url": "https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ"
-      },
-      "artists": [
-        {
-          "name": "Diegote",
-          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Tu Silueta",
-      "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "ESE VATO",
-        "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
-      },
-      "artists": [
-        {
-          "name": "DOMELIPA",
-          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 228916,
-      "name": "ESE VATO",
-      "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Did It First (with Central Cee)",
         "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
@@ -553,99 +549,7 @@
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/0lmShr2soqcVpf5nQo3Qvo"
-      },
-      "artists": [
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        },
-        {
-          "name": "Dysbit",
-          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/5pjqVFD6jFwMNM5Le9Bw06"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "Anti Social Cool Kid",
-        "url": "https://open.spotify.com/album/6pisGd3CugRqlclq4yp308"
-      },
-      "artists": [
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Luna llena",
-      "url": "https://open.spotify.com/track/6mnfGyPzbzSe8olYGM44pU"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "El Pu\u00f1etazo",
-        "url": "https://open.spotify.com/album/7LK3qSmEwXJLYragpEdqt7"
-      },
-      "artists": [
-        {
-          "name": "Los Dinos de Chile",
-          "url": "https://open.spotify.com/artist/0IBPiuTlbQq7uLUp7ywXh0"
-        }
-      ],
-      "duration_ms": 163531,
-      "name": "El Pu\u00f1etazo",
-      "url": "https://open.spotify.com/track/0QvOKVBumpc6z1I3xCTV6F"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "Ballin (Spanish Remix)",
-        "url": "https://open.spotify.com/album/1FdwKITBGLOM9brP2fq3X5"
-      },
-      "artists": [
-        {
-          "name": "Shishigang Records",
-          "url": "https://open.spotify.com/artist/2DywQB5g7Vvlnu4qvNmdiu"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 148677,
-      "name": "Ballin (Spanish Remix)",
-      "url": "https://open.spotify.com/track/4IPNgkzH7FioZCKnYTEmSb"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "Mi Autom\u00f3vil",
-        "url": "https://open.spotify.com/album/7CbDAkPVNEiapO8UlC5MoL"
-      },
-      "artists": [
-        {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 140411,
-      "name": "Mi Autom\u00f3vil",
-      "url": "https://open.spotify.com/track/2II1TSrlhRrtz2hmzpXROT"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -669,39 +573,99 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
+        "name": "El Pu\u00f1etazo",
+        "url": "https://open.spotify.com/album/7LK3qSmEwXJLYragpEdqt7"
       },
       "artists": [
         {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+          "name": "Los Dinos de Chile",
+          "url": "https://open.spotify.com/artist/0IBPiuTlbQq7uLUp7ywXh0"
         }
       ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+      "duration_ms": 163531,
+      "name": "El Pu\u00f1etazo",
+      "url": "https://open.spotify.com/track/0QvOKVBumpc6z1I3xCTV6F"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
-        "name": "166",
-        "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
+        "name": "Anti Social Cool Kid",
+        "url": "https://open.spotify.com/album/6pisGd3CugRqlclq4yp308"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
         }
       ],
-      "duration_ms": 156772,
-      "name": "A VOS",
-      "url": "https://open.spotify.com/track/2Yr4uOmBLMepYXQbhOVNTO"
+      "duration_ms": 169846,
+      "name": "Luna llena",
+      "url": "https://open.spotify.com/track/6mnfGyPzbzSe8olYGM44pU"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "Mi Autom\u00f3vil",
+        "url": "https://open.spotify.com/album/7CbDAkPVNEiapO8UlC5MoL"
+      },
+      "artists": [
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 140411,
+      "name": "Mi Autom\u00f3vil",
+      "url": "https://open.spotify.com/track/2II1TSrlhRrtz2hmzpXROT"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/0lmShr2soqcVpf5nQo3Qvo"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/5pjqVFD6jFwMNM5Le9Bw06"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 240964,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "EL COMIENZO",
         "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
@@ -717,7 +681,7 @@
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
@@ -749,7 +713,23 @@
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "166",
+        "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 156772,
+      "name": "A VOS",
+      "url": "https://open.spotify.com/track/2Yr4uOmBLMepYXQbhOVNTO"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "166",
         "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
@@ -765,43 +745,27 @@
       "url": "https://open.spotify.com/track/3e5gPPx7MTGoYffXH70Tqf"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
-        "name": "Dejame Pensar (Preview)",
-        "url": "https://open.spotify.com/album/2pJo1ZlL7yPPYytBEsaLbL"
+        "name": "Ballin (Spanish Remix)",
+        "url": "https://open.spotify.com/album/1FdwKITBGLOM9brP2fq3X5"
       },
       "artists": [
         {
-          "name": "Jano Conti",
-          "url": "https://open.spotify.com/artist/1ScpKDbXPbsUuQIkVfVr7d"
-        }
-      ],
-      "duration_ms": 170187,
-      "name": "Dejame Pensar (Preview)",
-      "url": "https://open.spotify.com/track/57VabaM2TZJzmi1JinRLVh"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "Shishigang Records",
+          "url": "https://open.spotify.com/artist/2DywQB5g7Vvlnu4qvNmdiu"
         },
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 240964,
-      "name": "Orion",
-      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+      "duration_ms": 148677,
+      "name": "Ballin (Spanish Remix)",
+      "url": "https://open.spotify.com/track/4IPNgkzH7FioZCKnYTEmSb"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
@@ -817,7 +781,27 @@
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "Girl, so confusing featuring lorde",
+        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 205938,
+      "name": "Girl, so confusing featuring lorde",
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
@@ -841,7 +825,7 @@
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -857,27 +841,7 @@
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
-      "album": {
-        "name": "Girl, so confusing featuring lorde",
-        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 205938,
-      "name": "Girl, so confusing featuring lorde",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
-    },
-    {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -893,40 +857,76 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
-        "name": "MENTE EN BLANCO",
-        "url": "https://open.spotify.com/album/0ikLej2WXj8Ttgl5Bc0xeb"
+        "name": "Enfoc\u00e1 en Lo M\u00edo",
+        "url": "https://open.spotify.com/album/0WgZkfvw9OuN1Ci8lGdgid"
       },
       "artists": [
         {
-          "name": "K4OS",
-          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
+          "name": "Fran Maira",
+          "url": "https://open.spotify.com/artist/62ztrjzw3tYDq5udATPhwN"
         }
       ],
-      "duration_ms": 154961,
-      "name": "MENTE EN BLANCO",
-      "url": "https://open.spotify.com/track/50OckWpSCDhxhaxMeGxjlN"
+      "duration_ms": 138466,
+      "name": "Enfoc\u00e1 en Lo M\u00edo",
+      "url": "https://open.spotify.com/track/0pRC262JW8sbIiYQ8AlimA"
     },
     {
-      "added_at": "2024-08-10 13:53:13",
+      "added_at": "2024-08-11 13:09:23",
       "album": {
-        "name": "Flow Lebron (Drip Too Hard Chilean Remix)",
-        "url": "https://open.spotify.com/album/3Urv2OCq8yGevjjPagCn3l"
+        "name": "ESE VATO",
+        "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
       },
       "artists": [
         {
-          "name": "Shishigang Records",
-          "url": "https://open.spotify.com/artist/2DywQB5g7Vvlnu4qvNmdiu"
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
         },
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 149629,
-      "name": "Flow Lebron (Drip Too Hard Chilean Remix)",
-      "url": "https://open.spotify.com/track/67bf6ya1XAntjMZ7fLd9jl"
+      "duration_ms": 228916,
+      "name": "ESE VATO",
+      "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
+    },
+    {
+      "added_at": "2024-08-11 13:09:23",
+      "album": {
+        "name": "No sufrir\u00e9 por nadie",
+        "url": "https://open.spotify.com/album/5xCnb2L3VTRJZxxyzL7uaT"
+      },
+      "artists": [
+        {
+          "name": "Intocables de Chile",
+          "url": "https://open.spotify.com/artist/3Rnvdbd16ZNKjHLYq8sATE"
+        }
+      ],
+      "duration_ms": 229956,
+      "name": "No sufrir\u00e9 por nadie",
+      "url": "https://open.spotify.com/track/50lzGApfuSrKMGgBJxmOvj"
     }
   ],
   "unique_name": "Viral 50 - Chile",

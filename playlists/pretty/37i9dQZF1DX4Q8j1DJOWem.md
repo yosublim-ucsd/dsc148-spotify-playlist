@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: BUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,591 likes - 36 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,596 likes - 36 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

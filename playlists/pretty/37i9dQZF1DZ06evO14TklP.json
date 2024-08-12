@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ebony. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 8481,
+  "description": "This is Ebony. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 8502,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAACe9Kk/jR5C/rAsT3jSXTil",
+  "snapshot_id": "ZratgAAAAABs/aRSbDaZJROTN510JVrl",
   "tracks": [
     {
       "added_at": null,
@@ -151,30 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00daRIA",
-        "url": "https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm"
-      },
-      "artists": [
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 168588,
-      "name": "Maserati",
-      "url": "https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5min",
         "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
       },
@@ -199,6 +175,30 @@
       "duration_ms": 128181,
       "name": "5min",
       "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00daRIA",
+        "url": "https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 168588,
+      "name": "Maserati",
+      "url": "https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bratz",
+        "url": "https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 168158,
+      "name": "Bratz",
+      "url": "https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reuni\u00e3o Dos Cria",
         "url": "https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 228283,
       "name": "Reuni\u00e3o Dos Cria",
       "url": "https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bratz",
-        "url": "https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 168158,
-      "name": "Bratz",
-      "url": "https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws"
     },
     {
       "added_at": null,

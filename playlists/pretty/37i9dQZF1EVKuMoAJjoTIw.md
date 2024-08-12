@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain](/playlists/plain/37i9dQZF1EVKuMoAJjoTIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVKuMoAJjoTIw)
 
-### [Mix de música melancólica](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
+### [Moody Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>, <a href=spotify:playlist:37i9dQZF1EIVNX3XbvPimn>The Neighbourhood</a>, <a href=spotify:playlist:37i9dQZF1EIUGhY4EVrFX5>The Goo Goo Dolls</a> y más
+> <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>, <a href=spotify:playlist:37i9dQZF1EIVNX3XbvPimn>The Neighbourhood</a>, <a href=spotify:playlist:37i9dQZF1EIUGhY4EVrFX5>The Goo Goo Dolls</a> and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 48 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 49 | [Fuck Love](https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:26 |
 | 50 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 |
 
-Snapshot ID: `AAAAAAAAAADtgGJrgMHz6kYC2ukfV3pr`
+Snapshot ID: `AAAAAAAAAAB3qh9Unl85zGlZuBCR+yDK`

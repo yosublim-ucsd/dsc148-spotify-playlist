@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Kesha and the women she champions at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,894 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,905 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 21 | [4x4xU](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4x4xU](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
 | 22 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
 | 23 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 |
-| 24 | [Soup](https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Soup](https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT) | 3:33 |
-| 25 | [sweeeet](https://open.spotify.com/track/5j34I5WUnKZVHP14J0Mlcb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [roses are red, tears are blue — A Fountain Baby Extended Play](https://open.spotify.com/album/5PG3V76DdkOmlZT7RyrvPU) | 1:51 |
+| 24 | [sweeeet](https://open.spotify.com/track/5j34I5WUnKZVHP14J0Mlcb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [roses are red, tears are blue — A Fountain Baby Extended Play](https://open.spotify.com/album/5PG3V76DdkOmlZT7RyrvPU) | 1:51 |
+| 25 | [Soup](https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Soup](https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT) | 3:33 |
 | 26 | [90's Baby](https://open.spotify.com/track/44qD9IskeQr9Qnm6wlIM60) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [City Cinderella](https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI) | 2:07 |
 | 27 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 28 | [ROCKET](https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ROCKET](https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El) | 2:46 |

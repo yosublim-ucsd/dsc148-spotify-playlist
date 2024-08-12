@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42sQCY.md) - [plain]
 
 > This is Ivan Cornejo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,316 likes - 31 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,447 likes - 31 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42sQCY.md) - [plain]
 | 16 | [Ya Te Perdí \- Deluxe](https://open.spotify.com/track/4Nvm7kFymlxLeF5Qd69nuB) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 4:24 |
 | 17 | [Perro Abandonado](https://open.spotify.com/track/4ixwxIXEFw0Jf5nY0Leipd) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:31 |
 | 18 | [Llamadas Perdidas](https://open.spotify.com/track/3KrbX6XhTdxeIckOgjygMc) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 4:21 |
-| 19 | [Baby Please](https://open.spotify.com/track/71jWljGDgSEpsa1LA5LHSg) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:58 |
+| 19 | [Intercambio Injusto](https://open.spotify.com/track/3tQxah06DC8HdTrfIlXtDv) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 3:25 |
 | 20 | [2NDO CHANCE](https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:52 |
 | 21 | [Me Hiciste un Loco](https://open.spotify.com/track/0iade05WRF2AsjkRHDXz0v) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:26 |
 | 22 | [Esa Carita](https://open.spotify.com/track/6eaTOaQHqkjuNvoShsoXhT) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:03 |
-| 23 | [Intercambio Injusto](https://open.spotify.com/track/3tQxah06DC8HdTrfIlXtDv) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 3:25 |
+| 23 | [Baby Please](https://open.spotify.com/track/71jWljGDgSEpsa1LA5LHSg) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:58 |
 | 24 | [Triste](https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Triste](https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8) | 2:46 |
 | 25 | [No Me Quise Ir](https://open.spotify.com/track/2JltnZUDzrxKuwNjkK5N6Q) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:30 |
 | 26 | [Corazón Frio](https://open.spotify.com/track/3a0EjZTzCLx1ztmtaZb9Cp) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:43 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42sQCY.md) - [plain]
 | 30 | [Te Sigo Extrañando](https://open.spotify.com/track/16vD4FNr9InS8EC2K6bj1X) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:16 |
 | 31 | [El de Houston](https://open.spotify.com/track/2od37hueHLJHA4VQ61TyM4) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [El de Houston](https://open.spotify.com/album/2yEQMdQs3nB1hBbQBUNEJ5) | 3:02 |
 
-Snapshot ID: `ZrVcAAAAAABa4TY7+9NI/gPQZ/bimgSP`
+Snapshot ID: `ZratgAAAAACZ9vkqxnbcjiy7RnFthbTj`

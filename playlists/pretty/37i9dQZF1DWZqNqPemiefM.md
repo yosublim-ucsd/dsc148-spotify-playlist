@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,768 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,771 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 63 | [IQAMURAH](https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Vasola Punte](https://open.spotify.com/album/1GPUvMxysCvpFlrrt33mKY) | 5:24 |
 | 64 | [腐海にて](https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック \~はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:33 |
 | 65 | [20210310](https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 6:53 |
-| 66 | [サウナ好きすぎ、より深く](https://open.spotify.com/track/4zBMWtHpcpJzWeLONINVHi) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [サウナ好きすぎ、より深く](https://open.spotify.com/album/5DBu9SUvni3WmOnT7qSMc3) | 4:24 |
-| 67 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ・トリガー オリジナル・サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 |
-| 68 | [Epigraph エピグラフ](https://open.spotify.com/track/5vhLVV8AHtfLqMLQdbnw87) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 3:07 |
+| 66 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ・トリガー オリジナル・サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 |
+| 67 | [Epigraph エピグラフ](https://open.spotify.com/track/5vhLVV8AHtfLqMLQdbnw87) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 3:07 |
+| 68 | [サウナ好きすぎ、より深く](https://open.spotify.com/track/4zBMWtHpcpJzWeLONINVHi) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [サウナ好きすぎ、より深く](https://open.spotify.com/album/5DBu9SUvni3WmOnT7qSMc3) | 4:24 |
 | 69 | [Imminent](https://open.spotify.com/track/4GYWbWRnrGBkXOOTp3bqyi) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t) | 4:56 |
 | 70 | [Nuska](https://open.spotify.com/track/0VjNU6gmu3obqXJEaZdYi4) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Approach to Anima](https://open.spotify.com/album/27iGaCh2JV907Q3rkHnJAE) | 4:44 |
 | 71 | [金継ぎ](https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [古風](https://open.spotify.com/album/6up103j3F99vuOxqx9ye83) | 1:06 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 79 | [Holy Delay](https://open.spotify.com/track/3wN7BJJcU4tJsqF57GRt9M) | [Susumu Hirasawa](https://open.spotify.com/artist/6kaueP97pX7WZoOwF8XsI2) | [SIREN \(セイレーン\)](https://open.spotify.com/album/32NYvrETcA5iKorC3Sk1z9) | 5:23 |
 | 80 | [霧中夢](https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 6:59 |
 | 81 | [That world](https://open.spotify.com/track/6OnL0UQxLi3CO8eJH4Iabq) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Anoyo](https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T) | 9:10 |
-| 82 | [Pierrepont](https://open.spotify.com/track/1Nf9vSy4tVnT3yMsnR5CVP) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 4:33 |
-| 83 | [Marginalia \#119](https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs) | 6:09 |
+| 82 | [Marginalia \#119](https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs) | 6:09 |
+| 83 | [Pierrepont](https://open.spotify.com/track/1Nf9vSy4tVnT3yMsnR5CVP) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 4:33 |
 | 84 | [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 |
 | 85 | [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 |
 | 86 | [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 93 | [Zhan\-ti\-sui Temple](https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg) | [6 roads](https://open.spotify.com/album/0wvuqxZa7jZHv4N57qbJih) | 4:14 |
 | 94 | [Slowly Diving](https://open.spotify.com/track/19RiT2dZ8TkHvL6cPaFP1A) | [Takuro Okada](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm), [葛西敏彦](https://open.spotify.com/artist/2lDaAvUzZP2ux1i12xuH6Y), [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47) | [To Waters of Lethe](https://open.spotify.com/album/5bbc9oYHs1OcOVrc6pwC1g) | 4:20 |
 | 95 | [KI\-KI\-KI](https://open.spotify.com/track/7C7nnQSwudlE7K7zKVks0b) | [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n) | [MSCTY X V&A Dundee](https://open.spotify.com/album/75SHGWcZLS9bpcCB3kgIEe) | 13:39 |
-| 96 | [True Life Again](https://open.spotify.com/track/7h3Jac9a1L6S745rl0mC59) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [True Life](https://open.spotify.com/album/5yE9lcwFUv5i7pvfNm7EGm) | 3:55 |
-| 97 | [Li Ma Li](https://open.spotify.com/track/0iQZ81pN5ykDwDVOE98vpU) | [Tō Yō](https://open.spotify.com/artist/1HsbWI9eeccgUpzffKCYQT) | [Stray Birds From The Far East](https://open.spotify.com/album/6Fj8AWo4WMh7Qc5R8DEc8I) | 6:17 |
+| 96 | [Li Ma Li](https://open.spotify.com/track/0iQZ81pN5ykDwDVOE98vpU) | [Tō Yō](https://open.spotify.com/artist/1HsbWI9eeccgUpzffKCYQT) | [Stray Birds From The Far East](https://open.spotify.com/album/6Fj8AWo4WMh7Qc5R8DEc8I) | 6:17 |
+| 97 | [True Life Again](https://open.spotify.com/track/7h3Jac9a1L6S745rl0mC59) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [True Life](https://open.spotify.com/album/5yE9lcwFUv5i7pvfNm7EGm) | 3:55 |
 | 98 | [あなたは猫です](https://open.spotify.com/track/4B8y9ZGZeWoCV0KOIzFSoU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [猫は抱くもの \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/5inaGyoHpfa8ImmeriboUB) | 3:15 |
 | 99 | [Memory Sketches](https://open.spotify.com/track/5JQMan7GM7qVZDlIqsVcgc) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Memory Sketches](https://open.spotify.com/album/5la7iDphAuUuUjv8TSeKd3) | 3:59 |
 | 100 | [the end](https://open.spotify.com/track/7vbxgYOAUfYKDHxIGWvVSW) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 1:15 |

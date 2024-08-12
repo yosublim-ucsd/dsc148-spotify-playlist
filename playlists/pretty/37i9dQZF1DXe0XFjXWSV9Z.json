@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 43968,
+  "num_followers": 43989,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Sonidos Gold",
+        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fantasma",
+          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
+        }
+      ],
+      "duration_ms": 161426,
+      "name": "Cumbia De Los Pajaritos",
+      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Hotline Bling",
         "url": "https://open.spotify.com/album/1JbW8zIG1gp5vnDV7N5LJN"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/7p6CgRGbeR6WyidudAzbsf"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Sonidos Gold",
-        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fantasma",
-          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
-        }
-      ],
-      "duration_ms": 161426,
-      "name": "Cumbia De Los Pajaritos",
-      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Nixon en la Playa",
-        "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mayorga",
-          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "La Ni\u00f1a Cu\u00e1ntica",
-      "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
-    },
-    {
       "added_at": "2022-03-11 03:28:26",
       "album": {
         "name": "Teniente Harina (Cumbia Manifiesto, Pt. 2)",
@@ -711,6 +695,22 @@
       "duration_ms": 141882,
       "name": "Teniente Harina - Cumbia Manifiesto, Pt. 2",
       "url": "https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Nixon en la Playa",
+        "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mayorga",
+          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "La Ni\u00f1a Cu\u00e1ntica",
+      "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Echo en Mexico",
+        "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
+      },
+      "artists": [
+        {
+          "name": "Money Chicha",
+          "url": "https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE"
+        }
+      ],
+      "duration_ms": 257462,
+      "name": "Echo en Mexico",
+      "url": "https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk"
+    },
+    {
       "added_at": "2022-04-09 05:03:37",
       "album": {
         "name": "Diablo",
@@ -779,22 +795,6 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Echo en Mexico",
-        "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
-      },
-      "artists": [
-        {
-          "name": "Money Chicha",
-          "url": "https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE"
-        }
-      ],
-      "duration_ms": 257462,
-      "name": "Echo en Mexico",
-      "url": "https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk"
     },
     {
       "added_at": "2023-03-31 17:32:57",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
     },
     {
-      "added_at": "2023-09-25 00:02:05",
-      "album": {
-        "name": "OVNI Cumbia",
-        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "OVNI Cumbia",
-      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Mujer Luna",
@@ -1097,20 +1081,20 @@
       "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
+      "added_at": "2023-09-25 00:02:05",
       "album": {
-        "name": "Savage Love",
-        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
+        "name": "OVNI Cumbia",
+        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
       },
       "artists": [
         {
-          "name": "Joshua Moriarty",
-          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
         }
       ],
-      "duration_ms": 234812,
-      "name": "Savage Love",
-      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
+      "duration_ms": 226000,
+      "name": "OVNI Cumbia",
+      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
     },
     {
       "added_at": "2023-03-17 17:16:44",
@@ -1131,6 +1115,22 @@
       "duration_ms": 220382,
       "name": "Con Otros Ojos",
       "url": "https://open.spotify.com/track/2pqg6LbsUiHdEvNkQHD8H5"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Savage Love",
+        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Moriarty",
+          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
     },
     {
       "added_at": "2023-03-16 23:13:46",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
     },
     {
-      "added_at": "2023-10-10 02:11:18",
-      "album": {
-        "name": "Paganismo (Deluxe)",
-        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "Mambo Del Fierro Viejo",
-      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Mientras Unos Mueren",
@@ -1379,6 +1363,22 @@
       "duration_ms": 306689,
       "name": "La Era del GigaHertz",
       "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
+    },
+    {
+      "added_at": "2023-10-10 02:11:18",
+      "album": {
+        "name": "Paganismo (Deluxe)",
+        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 189514,
+      "name": "Mambo Del Fierro Viejo",
+      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
     },
     {
-      "added_at": "2023-06-30 15:09:39",
-      "album": {
-        "name": "Voltaje Raizal",
-        "url": "https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw"
-      },
-      "artists": [
-        {
-          "name": "Rizomagic",
-          "url": "https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt"
-        }
-      ],
-      "duration_ms": 316077,
-      "name": "\u00d1oco\u00f1oco",
-      "url": "https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb"
-    },
-    {
       "added_at": "2022-08-13 02:09:39",
       "album": {
         "name": "El Mito del Ayahuasca",
@@ -1643,6 +1627,42 @@
       "duration_ms": 184376,
       "name": "El Mito del Ayahuasca",
       "url": "https://open.spotify.com/track/422hEiUIkdltQvJvk6xU6U"
+    },
+    {
+      "added_at": "2023-06-30 15:09:39",
+      "album": {
+        "name": "Voltaje Raizal",
+        "url": "https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw"
+      },
+      "artists": [
+        {
+          "name": "Rizomagic",
+          "url": "https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt"
+        }
+      ],
+      "duration_ms": 316077,
+      "name": "\u00d1oco\u00f1oco",
+      "url": "https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb"
+    },
+    {
+      "added_at": "2022-01-11 02:45:58",
+      "album": {
+        "name": "Color de Tr\u00f3pico Vol 2 (Compiled By El Drag\u00f3n Criollo y El Palmas)",
+        "url": "https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        },
+        {
+          "name": "Los Kings",
+          "url": "https://open.spotify.com/artist/3mkewj7XqZIrYz10FDiymw"
+        }
+      ],
+      "duration_ms": 178887,
+      "name": "Empecemos (Let's Start)",
+      "url": "https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1691,26 +1711,6 @@
       "duration_ms": 204693,
       "name": "Sigo Llorando",
       "url": "https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9"
-    },
-    {
-      "added_at": "2022-01-11 02:45:58",
-      "album": {
-        "name": "Color de Tr\u00f3pico Vol 2 (Compiled By El Drag\u00f3n Criollo y El Palmas)",
-        "url": "https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        },
-        {
-          "name": "Los Kings",
-          "url": "https://open.spotify.com/artist/3mkewj7XqZIrYz10FDiymw"
-        }
-      ],
-      "duration_ms": 178887,
-      "name": "Empecemos (Let's Start)",
-      "url": "https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0"
     },
     {
       "added_at": "2021-10-20 15:37:42",

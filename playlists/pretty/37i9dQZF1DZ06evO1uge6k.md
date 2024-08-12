@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,454 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,495 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 35 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 7:20 |
 | 36 | [Goin' Down to Mexico](https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 3:23 |
 | 37 | [Pearl Necklace](https://open.spotify.com/track/5ZgnPqNvtMFeLpahZUuLf3) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [El Loco](https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY) | 4:04 |
-| 38 | [Gimme All Your Lovin'](https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 3:31 |
+| 38 | [Sharp Dressed Man](https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 2:59 |
 | 39 | [Asleep in the Desert \(Instrumental\)](https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K) | 3:29 |
 | 40 | [Just Got Back from Baby's](https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 4:10 |
 | 41 | [Velcro Fly](https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:29 |
-| 42 | [Sharp Dressed Man](https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 2:59 |
+| 42 | [Gimme All Your Lovin'](https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 3:31 |
 | 43 | [Nasty Dogs and Funky Kings \(2005 Remaster\)](https://open.spotify.com/track/3yyTDQYVGLWn5J4UHBE4qj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:42 |
 | 44 | [\(Somebody Else Been\) Shaking Your Tree](https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 2:35 |
 | 45 | [Planet of Women](https://open.spotify.com/track/7y2Vvk7wXRQg9fq9PXUVHG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [El Diablo](https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K) | 4:21 |
 | 50 | [Francine](https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 3:33 |
 
-Snapshot ID: `ZrVcAAAAAABvgmaQ3DS4FhSf5pudM8HY`
+Snapshot ID: `ZratgAAAAABEzfTroWs1oznK/uLAoLrs`

@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 21166,
+  "num_followers": 21173,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABJfiHvbpAXwAomTeedSYib",
+  "snapshot_id": "ZratgAAAAABUEPRLv6g4tI0OaVQm11pq",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damas y Placeres",
-        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 169929,
-      "name": "Damas y Placeres",
-      "url": "https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traguitos De Mezcal",
         "url": "https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 159900,
       "name": "Traguitos De Mezcal",
       "url": "https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 169929,
+      "name": "Damas y Placeres",
+      "url": "https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damas y Placeres",
-        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 228048,
-      "name": "Frostix",
-      "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gordo Pesado",
         "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 214186,
       "name": "Gordo Pesado",
       "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 228048,
+      "name": "Frostix",
+      "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
     },
     {
       "added_at": null,

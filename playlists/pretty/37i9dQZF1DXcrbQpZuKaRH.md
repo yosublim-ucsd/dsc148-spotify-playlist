@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,863 likes - 77 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,983 likes - 77 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

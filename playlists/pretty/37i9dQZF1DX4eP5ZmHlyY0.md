@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: &TEAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,101 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,100 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 35 | [GRAVITY](https://open.spotify.com/track/2C8qDeJBt7KfpPwXTSLsHA) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [GRAVITY](https://open.spotify.com/album/0qNXKiJPsedjbHFkJbq4Fp) | 4:12 |
 | 36 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
 | 37 | [REVERSE](https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE](https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum) | 3:30 |
-| 38 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
+| 38 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
 | 39 | [Let Me Kiss U](https://open.spotify.com/track/1XrmJHvtsx7eHBFkU9fF4n) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [Let Me Kiss U](https://open.spotify.com/album/6YNinPRBgr1TH73hJgycRj) | 2:28 |
 | 40 | [Goodest Baddest](https://open.spotify.com/track/0v3CCJQWb0YWkqxZr5sFmQ) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW), [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [Goodest Baddest](https://open.spotify.com/album/1wOWdIMT7uuHq5tKNNKVj8) | 3:41 |
 | 41 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 |
-| 42 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
+| 42 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 |
 | 43 | [PLAY](https://open.spotify.com/track/2d0SS0vO0UuIZLaaUme0iA) | [Cool\-X](https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl) | [PLAY](https://open.spotify.com/album/0U2XVTb4U5coiTpYQdmyWb) | 2:25 |
-| 44 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 |
+| 44 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 45 | [Last Forever](https://open.spotify.com/track/0MoeICxt3WhCE4WN6y5XS3) | [Last Forever from BATTLE BOYS](https://open.spotify.com/artist/56N4RRJO3XMpJdFo2hhWpn) | [Last Forever](https://open.spotify.com/album/2WQamz2EQH2hxjsAPAwSL9) | 3:33 |
 | 46 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 |
 | 47 | [What's Up!!](https://open.spotify.com/track/1eZbYaAWiiT3yAc7hLCs56) | [BOYZTERIOS from BATTLE BOYS](https://open.spotify.com/artist/2fIiRTTSE31r4KqEn9RD2t) | [What's Up!!](https://open.spotify.com/album/1A8ruIVzJfdvwYfW8jzm7c) | 4:01 |

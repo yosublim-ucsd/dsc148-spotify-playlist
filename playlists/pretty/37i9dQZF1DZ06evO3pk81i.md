@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 ### [This Is Los Primos del Este](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pk81i)
 
-> This is Los Primos del Este\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Los Primos del Este\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,588 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,595 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 10 | [NTPD Recordar](https://open.spotify.com/track/6D8D4OY5Hp52frnZayENqQ) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Capítulo 1: El Regreso Del Dragon](https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0) | 3:16 |
 | 11 | [Quiero Ser \(Version Norteña\)](https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 3:32 |
 | 12 | [Esto Avanza](https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:23 |
-| 13 | [Tú Me Haces Falta](https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:43 |
-| 14 | [Contigo](https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Contigo](https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm) | 2:50 |
+| 13 | [Contigo](https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Contigo](https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm) | 2:50 |
+| 14 | [Tú Me Haces Falta](https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:43 |
 | 15 | [Prada](https://open.spotify.com/track/5IXU5eUPQJwhCGOmcOzc9k) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:39 |
 | 16 | [Mejor Que Tu Ex](https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:26 |
 | 17 | [48 Horas](https://open.spotify.com/track/64LyZmq9ovBu6GrDOhtf2m) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:21 |
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 19 | [Una Noche Nomas](https://open.spotify.com/track/1qND5NqKyn93Y6rOxuDYzR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:20 |
 | 20 | [Tesec](https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:12 |
 | 21 | [Una Rosa Blanca](https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Una Rosa Blanca](https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o) | 3:20 |
-| 22 | [Hoy](https://open.spotify.com/track/6aQgAhpCebGWOqrMdY2VhP) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:43 |
+| 22 | [SATIRO](https://open.spotify.com/track/00e7R21236OX75ACaT8HH0) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:13 |
 | 23 | [No Fuiste Tú](https://open.spotify.com/track/2GgTs6KZ2ACoEVqbsIUkEN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:42 |
 | 24 | [Soy Aquel](https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:47 |
 | 25 | [Nada Sigue Igual](https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Nada Sigue Igual](https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI) | 3:28 |
-| 26 | [SATIRO](https://open.spotify.com/track/00e7R21236OX75ACaT8HH0) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:13 |
+| 26 | [Hoy](https://open.spotify.com/track/6aQgAhpCebGWOqrMdY2VhP) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:43 |
 | 27 | [Duele Saber](https://open.spotify.com/track/608OACwyp4GJodMOxdEMsF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:39 |
 | 28 | [Era Mia](https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Era Mia](https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI) | 3:46 |
 | 29 | [Marcándote](https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Marcándote](https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1) | 2:59 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 34 | [Capuchino](https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Capuchino](https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw) | 3:24 |
 | 35 | [Atrapado](https://open.spotify.com/track/4g3twQI9tA1J3e5AL964a1) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:36 |
 | 36 | [Solita Bailando](https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 2:56 |
-| 37 | [Dile](https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp) | [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dile](https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO) | 3:53 |
-| 38 | [Niña Buena](https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Noches De Verano](https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy) | 4:20 |
+| 37 | [Niña Buena](https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Noches De Verano](https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy) | 4:20 |
+| 38 | [Dile](https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp) | [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dile](https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO) | 3:53 |
 | 39 | [Voy por Ti](https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 2:25 |
 | 40 | [Viene Diciembre](https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Viene Diciembre](https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha) | 3:06 |
 | 41 | [Otra Ronda](https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Otra Ronda](https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 49 | [Acceso](https://open.spotify.com/track/3toEJfSF3cXATcc7EfloDB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Acceso](https://open.spotify.com/album/67mqwsxgs23jexSjaNAYBJ) | 4:14 |
 | 50 | [Toxicuh](https://open.spotify.com/track/1PV85zmIhRwnW1oC0zNFDs) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Briant Rangel](https://open.spotify.com/artist/3632WStjylo2le6C4k0gcx) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:21 |
 
-Snapshot ID: `ZrVcAAAAAAD7Bd91cgjRrvYZFGkNOAaP`
+Snapshot ID: `ZratgAAAAAC8HCmjznRScVhXR9Pw44mI`

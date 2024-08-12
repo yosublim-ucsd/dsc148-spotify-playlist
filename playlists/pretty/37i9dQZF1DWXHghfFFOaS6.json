@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 341157,
+  "num_followers": 341246,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 261265,
+      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -187,38 +203,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Space Cowboy",
-      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 261265,
-      "name": "Rebirth Of Slick (Cool Like Dat)",
-      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Love Approach (Bonus Track)",
         "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 282080,
       "name": "Funkin' for Jamaica",
       "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 386973,
+      "name": "Space Cowboy",
+      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "In Pursuit Of The 13th Note",
+        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 286600,
+      "name": "Nothing Has Changed",
+      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Sounds from the Ancestors",
         "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "In Pursuit Of The 13th Note",
-        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
+        "name": "urban lounge",
+        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
       },
       "artists": [
         {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
         }
       ],
-      "duration_ms": 286600,
-      "name": "Nothing Has Changed",
-      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
+      "duration_ms": 240053,
+      "name": "Apparently Nothin' - Edit",
+      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -807,22 +823,6 @@
       "duration_ms": 327133,
       "name": "Good Luck Shore",
       "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "urban lounge",
-        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
-      },
-      "artists": [
-        {
-          "name": "Young Disciples",
-          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Apparently Nothin' - Edit",
-      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 228466,
       "name": "Block Episode",
       "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Cosmic Vortex (Justice Divine)",
-        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
-      },
-      "artists": [
-        {
-          "name": "Weldon Irvine",
-          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
-        }
-      ],
-      "duration_ms": 470520,
-      "name": "Walk That Walk, Talk That Talk",
-      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Friends & Strangers",
         "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 420493,
       "name": "Life In Paradise",
       "url": "https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Cosmic Vortex (Justice Divine)",
+        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
+      },
+      "artists": [
+        {
+          "name": "Weldon Irvine",
+          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
+        }
+      ],
+      "duration_ms": 470520,
+      "name": "Walk That Walk, Talk That Talk",
+      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-07-18 17:17:22",
       "album": {
-        "name": "Playing my piano",
-        "url": "https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV"
-      },
-      "artists": [
-        {
-          "name": "Don Laka",
-          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
-        }
-      ],
-      "duration_ms": 381594,
-      "name": "Playing my piano",
-      "url": "https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK"
-    },
-    {
-      "added_at": "2022-07-18 17:17:22",
-      "album": {
         "name": "Black Rhythm Happening",
         "url": "https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 214880,
       "name": "Black Rhythm Happening",
       "url": "https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ"
+    },
+    {
+      "added_at": "2022-07-18 17:17:22",
+      "album": {
+        "name": "Playing my piano",
+        "url": "https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV"
+      },
+      "artists": [
+        {
+          "name": "Don Laka",
+          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
+        }
+      ],
+      "duration_ms": 381594,
+      "name": "Playing my piano",
+      "url": "https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK"
     },
     {
       "added_at": "2022-07-14 19:24:43",

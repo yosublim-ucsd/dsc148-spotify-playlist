@@ -1,6 +1,6 @@
 {
   "description": "metalcore at its best. Cover:Windwaker",
-  "num_followers": 931397,
+  "num_followers": 931406,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
         "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "nights",
-        "url": "https://open.spotify.com/album/1QoYG03O6S0GGvg5WBi3cY"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 122005,
-      "name": "nights",
-      "url": "https://open.spotify.com/track/1I4rlS1d99cwHJ9vRHHTRP"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Low Tech",
         "url": "https://open.spotify.com/album/38zTXgENqaRonHeghToNje"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 219676,
       "name": "Divine",
       "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "nights",
+        "url": "https://open.spotify.com/album/1QoYG03O6S0GGvg5WBi3cY"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 122005,
+      "name": "nights",
+      "url": "https://open.spotify.com/track/1I4rlS1d99cwHJ9vRHHTRP"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Granite",
         "url": "https://open.spotify.com/album/35zx0t2picyGskSU3QceVr"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 225426,
       "name": "Granite",
       "url": "https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/6Y0zQ1z2uErJpXItxaYr8K"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 198517,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/2grLZw9UmUUwMoyZj9AAY7"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Hellstar",
         "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/6Y0zQ1z2uErJpXItxaYr8K"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "duration_ms": 198517,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/2grLZw9UmUUwMoyZj9AAY7"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Darker Colors (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB"
       },
@@ -1027,30 +1027,6 @@
       "duration_ms": 198593,
       "name": "suffer.",
       "url": "https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "The Echoes of Disparity",
-        "url": "https://open.spotify.com/album/4y30LkmFu4kDlppNHlMOeI"
-      },
-      "artists": [
-        {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
-        },
-        {
-          "name": "Charlie Rolfe",
-          "url": "https://open.spotify.com/artist/61LUcApo9W4qxM7PjbO6gV"
-        },
-        {
-          "name": "As Everything Unfolds",
-          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
-        }
-      ],
-      "duration_ms": 231708,
-      "name": "The Echoes of Disparity",
-      "url": "https://open.spotify.com/track/15cliM4IVHGvwbK9O36xcV"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1083,6 +1059,30 @@
       "duration_ms": 152547,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Echoes of Disparity",
+        "url": "https://open.spotify.com/album/4y30LkmFu4kDlppNHlMOeI"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        },
+        {
+          "name": "Charlie Rolfe",
+          "url": "https://open.spotify.com/artist/61LUcApo9W4qxM7PjbO6gV"
+        },
+        {
+          "name": "As Everything Unfolds",
+          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
+        }
+      ],
+      "duration_ms": 231708,
+      "name": "The Echoes of Disparity",
+      "url": "https://open.spotify.com/track/15cliM4IVHGvwbK9O36xcV"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Vol. 2",
-        "url": "https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 193900,
-      "name": "Don\u2019t Look Away",
-      "url": "https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Timebomb",
         "url": "https://open.spotify.com/album/0po9VX0DN9hK4g79mwIGqY"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 200097,
       "name": "Timebomb",
       "url": "https://open.spotify.com/track/56F1dvYo8uAF0pVjJOgZQV"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Vol. 2",
+        "url": "https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 193900,
+      "name": "Don\u2019t Look Away",
+      "url": "https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
-        "url": "https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD"
-      },
-      "artists": [
-        {
-          "name": "In Hearts Wake",
-          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
-        },
-        {
-          "name": "Winston McCall",
-          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
-      "url": "https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Underrated",
         "url": "https://open.spotify.com/album/1aL2qEsGMIWlw1fcwzPkFe"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 184287,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/0GOyA0rySAzlatVK569o6V"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
+        "url": "https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD"
+      },
+      "artists": [
+        {
+          "name": "In Hearts Wake",
+          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
+        },
+        {
+          "name": "Winston McCall",
+          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
+        }
+      ],
+      "duration_ms": 190487,
+      "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
+      "url": "https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Wilderness",
-        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Wither//Without",
         "url": "https://open.spotify.com/album/7pAcgBd0iXUHl9p0h7EbVl"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 207660,
       "name": "I Hope You Choke",
       "url": "https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
+      },
+      "artists": [
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "DEATH 2",
-        "url": "https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ"
-      },
-      "artists": [
-        {
-          "name": "Banks Arcade",
-          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Roulette",
-      "url": "https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/3ygJ8CQHYRGGD6hkESVgi3"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 163000,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/4WNyYOoxDl97rKtmx7PAox"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "DEATH 2",
+        "url": "https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/6wZzIejyMAWxwO9lBUmDNY"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/0SZkjONWDGXRm0uMtb1yuX"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "False Divinity",
         "url": "https://open.spotify.com/album/5nkw1TYKhShOSpUtR9gbS0"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 221948,
       "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
       "url": "https://open.spotify.com/track/3TEiRBBPMNu4DKgFfddMb6"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/6wZzIejyMAWxwO9lBUmDNY"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/0SZkjONWDGXRm0uMtb1yuX"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Break The Rules",
-        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/6yEv9GYNLHZdqPRcQTg4Ew"
       },
@@ -2023,6 +2007,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/7EBnsR1bhRVITs48imBq5w"
       },
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/26MHTLMXfmmP9JJ9rtbEs6"
-      },
-      "artists": [
-        {
-          "name": "Tropic Gold",
-          "url": "https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP"
-        }
-      ],
-      "duration_ms": 216834,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3kveKispNPTfBTsBkd5bUv"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "The Fear Of Letting Go",
         "url": "https://open.spotify.com/album/1pBnOofvJbc481QcJVMuGy"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 153904,
       "name": "Breaking Teeth",
       "url": "https://open.spotify.com/track/5zKVTDKvqGYxM2iQ3vod6R"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/26MHTLMXfmmP9JJ9rtbEs6"
+      },
+      "artists": [
+        {
+          "name": "Tropic Gold",
+          "url": "https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP"
+        }
+      ],
+      "duration_ms": 216834,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3kveKispNPTfBTsBkd5bUv"
     },
     {
       "added_at": "2024-07-12 04:00:00",

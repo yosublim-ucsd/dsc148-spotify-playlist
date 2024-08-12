@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 32300,
+  "num_followers": 32303,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "The Very Best Of Jackito (Pou ti moun yo)",
+        "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
+      },
+      "artists": [
+        {
+          "name": "Jackito",
+          "url": "https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK"
+        }
+      ],
+      "duration_ms": 292362,
+      "name": "Je l'aime \u00e0 mourir",
+      "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Malade (feat. Richard Cave)",
         "url": "https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 309107,
       "name": "Malade (feat. Richard Cave)",
       "url": "https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "The Very Best Of Jackito (Pou ti moun yo)",
-        "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
-      },
-      "artists": [
-        {
-          "name": "Jackito",
-          "url": "https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK"
-        }
-      ],
-      "duration_ms": 292362,
-      "name": "Je l'aime \u00e0 mourir",
-      "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -415,26 +415,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "JIJE'M",
-        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
-        },
-        {
-          "name": "Bedjine",
-          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
-        }
-      ],
-      "duration_ms": 316998,
-      "name": "KOUPAB",
-      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Resan",
         "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 263414,
       "name": "Kenbe'l La",
       "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "JIJE'M",
+        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        },
+        {
+          "name": "Bedjine",
+          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
+        }
+      ],
+      "duration_ms": 316998,
+      "name": "KOUPAB",
+      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -499,6 +499,22 @@
       "duration_ms": 402933,
       "name": "Is It Real?",
       "url": "https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
+        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
+      },
+      "artists": [
+        {
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+        }
+      ],
+      "duration_ms": 332910,
+      "name": "Habitude",
+      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -551,38 +567,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
-      },
-      "artists": [
-        {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
-        }
-      ],
-      "duration_ms": 271712,
-      "name": "Cheri Benyen M'",
-      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
-        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
-      },
-      "artists": [
-        {
-          "name": "Djakout #1",
-          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
-        }
-      ],
-      "duration_ms": 332910,
-      "name": "Habitude",
-      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Et pourtant",
         "url": "https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 301087,
       "name": "Vini'm pale w",
       "url": "https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "duration_ms": 271712,
+      "name": "Cheri Benyen M'",
+      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "No Dead End",
-        "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
+        "name": "Oblije Blockem (Baby Gyal)",
+        "url": "https://open.spotify.com/album/7t31knDPCCiqPTaKIQF3I9"
       },
       "artists": [
         {
-          "name": "Zenglen",
-          "url": "https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj"
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
         }
       ],
-      "duration_ms": 316706,
-      "name": "Grev B\u00e8b\u00e8",
-      "url": "https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I"
+      "duration_ms": 208500,
+      "name": "Oblije Blockem - Baby Gyal",
+      "url": "https://open.spotify.com/track/0QPxawz5fYG2TeB7mO8wzy"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

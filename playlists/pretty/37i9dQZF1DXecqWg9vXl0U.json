@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Paloma Morphy",
-  "num_followers": 50365,
+  "num_followers": 50382,
   "original_name": "dreamy \u2728",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "M\u00fasica Para Adultos",
-        "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 166246,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "las calles de mi ciudad",
         "url": "https://open.spotify.com/album/2UA7eyMtgoFEqkR4U3eQ1S"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "M\u00fasica Para Adultos",
+        "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 166246,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Muchas Cosas",
-        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Muchas Cosas",
-      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "no quiero estar aqu\u00ed",
         "url": "https://open.spotify.com/album/6LlvSFzQGRX49aSR2nA0PG"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 154282,
       "name": "Acapulco En La Azotea",
       "url": "https://open.spotify.com/track/2YHGUmTcXCnTe40uwDprsj"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Muchas Cosas",
+        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Muchas Cosas",
+      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Confesi\u00f3n",
-        "url": "https://open.spotify.com/album/4JhQbQL3qyhdgYep7YCOeI"
-      },
-      "artists": [
-        {
-          "name": "Wet Baes",
-          "url": "https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner"
-        }
-      ],
-      "duration_ms": 238315,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/1kKEfjhJNE3OKMu0GoqeU3"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "80's",
         "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 213088,
       "name": "80's",
       "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/4JhQbQL3qyhdgYep7YCOeI"
+      },
+      "artists": [
+        {
+          "name": "Wet Baes",
+          "url": "https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner"
+        }
+      ],
+      "duration_ms": 238315,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/1kKEfjhJNE3OKMu0GoqeU3"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Te Puedo Ver",
+        "url": "https://open.spotify.com/album/2hAp3M6FmEHsuhntKYAER2"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 220162,
+      "name": "Te Puedo Ver",
+      "url": "https://open.spotify.com/track/1kzTDgmaFLIQhv50RbO7QS"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "RESISTOL +",
         "url": "https://open.spotify.com/album/4MzJewJ3ThSXETzrMG1wUT"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 190285,
       "name": "RESISTOL +",
       "url": "https://open.spotify.com/track/6WYgRI3X9b4Lqb4qroBrq7"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Te Puedo Ver",
-        "url": "https://open.spotify.com/album/2hAp3M6FmEHsuhntKYAER2"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 220162,
-      "name": "Te Puedo Ver",
-      "url": "https://open.spotify.com/track/1kzTDgmaFLIQhv50RbO7QS"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Fantasma",
-        "url": "https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo"
-      },
-      "artists": [
-        {
-          "name": "Azul Aim\u00e9",
-          "url": "https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 201625,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Abismo",
         "url": "https://open.spotify.com/album/31PeflXHidvrIDfVW0ivR1"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 219166,
       "name": "Abismo",
       "url": "https://open.spotify.com/track/0FEayppbKROCxKGyQ78PD8"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo"
+      },
+      "artists": [
+        {
+          "name": "Azul Aim\u00e9",
+          "url": "https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 201625,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "i miss u",
-        "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        },
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 155812,
-      "name": "i miss u",
-      "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Stuck in California",
         "url": "https://open.spotify.com/album/5mYJbspcX61gtTI7wrAROt"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 126720,
       "name": "Stuck in California",
       "url": "https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "i miss u",
+        "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        },
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        }
+      ],
+      "duration_ms": 155812,
+      "name": "i miss u",
+      "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "cartulinas de colores",
+        "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 159765,
+      "name": "cartulinas de colores",
+      "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Amanece Otra Vez",
         "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
       },
@@ -1187,26 +1207,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "cartulinas de colores",
-        "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 159765,
-      "name": "cartulinas de colores",
-      "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Fantas\u00eda",
         "url": "https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Al Cien",
-        "url": "https://open.spotify.com/album/0APusMWyvY7kRnM3ROoOBm"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Al Cien",
-      "url": "https://open.spotify.com/track/1vxa13KTCbsGFavA6WFywz"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Amantes Astrales",
         "url": "https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 183056,
       "name": "Amantes Astrales",
       "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Al Cien",
+        "url": "https://open.spotify.com/album/0APusMWyvY7kRnM3ROoOBm"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Al Cien",
+      "url": "https://open.spotify.com/track/1vxa13KTCbsGFavA6WFywz"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Una noche que nunca termina",
-        "url": "https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 181987,
-      "name": "Una noche que nunca termina",
-      "url": "https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/1Foa824MwXtyHNov2zbPHK"
       },
@@ -1319,6 +1303,26 @@
       "duration_ms": 174116,
       "name": "About You",
       "url": "https://open.spotify.com/track/4QoZMxwAGm4yDYlNoHNyHN"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Para Hacernos Bien",
+        "url": "https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        },
+        {
+          "name": "erihka",
+          "url": "https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd"
+        }
+      ],
+      "duration_ms": 190806,
+      "name": "Para Hacernos Bien",
+      "url": "https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu"
     }
   ],
   "unique_name": "dreamy \u2728",

@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 153588,
+  "num_followers": 153615,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAB2r5HnrVlkSSI7Ma4ISu6s",
+  "snapshot_id": "ZratgAAAAABTjzzvMauELJPPzTyB42D5",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 187533,
-      "name": "Look at Little Sister",
-      "url": "https://open.spotify.com/track/5He3kbhG04jAioqHVEytHq"
+      "duration_ms": 237133,
+      "name": "Change It",
+      "url": "https://open.spotify.com/track/5u00iJsWV7xj5NTGAaMBQt"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 237133,
-      "name": "Change It",
-      "url": "https://open.spotify.com/track/5u00iJsWV7xj5NTGAaMBQt"
+      "duration_ms": 187533,
+      "name": "Look at Little Sister",
+      "url": "https://open.spotify.com/track/5He3kbhG04jAioqHVEytHq"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 133840,
-      "name": "Boot Hill - 1989 Version",
-      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
+      "duration_ms": 258026,
+      "name": "Life Without You",
+      "url": "https://open.spotify.com/track/6Z8prosDCmjU3hkgEnyId6"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 258026,
-      "name": "Life Without You",
-      "url": "https://open.spotify.com/track/6Z8prosDCmjU3hkgEnyId6"
+      "duration_ms": 133840,
+      "name": "Boot Hill - 1989 Version",
+      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "So Excited",
-      "url": "https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sky Is Crying",
         "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 236173,
       "name": "Chitlins Con Carne",
       "url": "https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "Shake 'N Bake",
-      "url": "https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live Alive",
         "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 277306,
       "name": "Willie The Wimp - Live",
       "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "Shake 'N Bake",
+      "url": "https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg"
     },
     {
       "added_at": null,

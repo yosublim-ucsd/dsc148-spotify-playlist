@@ -1,6 +1,6 @@
 {
   "description": "surpresinha do tu\u00ea",
-  "num_followers": 1394210,
+  "num_followers": 1394268,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -591,62 +591,6 @@
     {
       "added_at": "2024-08-09 17:43:42",
       "album": {
-        "name": "Diz A\u00ed Qual \u00e9 o Plano?",
-        "url": "https://open.spotify.com/album/0rZQI2wpjiNTxeVCSyZI0M"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "Mc Luki",
-          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
-        },
-        {
-          "name": "MC GH do 7",
-          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
-        },
-        {
-          "name": "MC Nego Micha",
-          "url": "https://open.spotify.com/artist/6SsSYKLEsf8EfDbFAi5GET"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 703157,
-      "name": "Diz A\u00ed Qual \u00e9 o Plano?",
-      "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
-    },
-    {
-      "added_at": "2024-08-09 17:43:42",
-      "album": {
         "name": "Qual \u00e9 seu desejo?",
         "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
       },
@@ -731,6 +675,62 @@
       "duration_ms": 615810,
       "name": "Ritmista 1.0",
       "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
+    },
+    {
+      "added_at": "2024-08-09 17:43:42",
+      "album": {
+        "name": "Diz A\u00ed Qual \u00e9 o Plano?",
+        "url": "https://open.spotify.com/album/0rZQI2wpjiNTxeVCSyZI0M"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        },
+        {
+          "name": "MC Nego Micha",
+          "url": "https://open.spotify.com/artist/6SsSYKLEsf8EfDbFAi5GET"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 703157,
+      "name": "Diz A\u00ed Qual \u00e9 o Plano?",
+      "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
     },
     {
       "added_at": "2024-08-09 17:43:42",
@@ -883,34 +883,6 @@
     {
       "added_at": "2024-08-09 17:43:42",
       "album": {
-        "name": "Todo Mundo Odeia o IG",
-        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 271058,
-      "name": "\u00c9 Isso Beb\u00ea, T\u00e1 Certa!",
-      "url": "https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5"
-    },
-    {
-      "added_at": "2024-08-09 17:43:42",
-      "album": {
         "name": "Desacato",
         "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
       },
@@ -947,6 +919,34 @@
       "duration_ms": 438748,
       "name": "Desacato",
       "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
+    },
+    {
+      "added_at": "2024-08-09 17:43:42",
+      "album": {
+        "name": "Todo Mundo Odeia o IG",
+        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 271058,
+      "name": "\u00c9 Isso Beb\u00ea, T\u00e1 Certa!",
+      "url": "https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5"
     },
     {
       "added_at": "2024-08-09 17:43:42",
@@ -1143,6 +1143,74 @@
     {
       "added_at": "2024-08-09 17:43:42",
       "album": {
+        "name": "442",
+        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 125760,
+      "name": "Vida Rasa",
+      "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
+    },
+    {
+      "added_at": "2024-08-09 17:43:42",
+      "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/0kmLncRA0tEjCwDJQb1Dcc"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        }
+      ],
+      "duration_ms": 300487,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/0Ce7kkIjy9gkXAaMAZAI9w"
+    },
+    {
+      "added_at": "2024-08-09 17:43:42",
+      "album": {
         "name": "M\u00f3 Temp\u00e3o Que Tu N\u00e3o Fala Comigo",
         "url": "https://open.spotify.com/album/6KgnlBPf54hiTXIBNtfYcJ"
       },
@@ -1223,74 +1291,6 @@
     {
       "added_at": "2024-08-09 17:43:42",
       "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/0kmLncRA0tEjCwDJQb1Dcc"
-      },
-      "artists": [
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        }
-      ],
-      "duration_ms": 300487,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/0Ce7kkIjy9gkXAaMAZAI9w"
-    },
-    {
-      "added_at": "2024-08-09 17:43:42",
-      "album": {
-        "name": "442",
-        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 125760,
-      "name": "Vida Rasa",
-      "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
-    },
-    {
-      "added_at": "2024-08-09 17:43:42",
-      "album": {
         "name": "Banco do Carona",
         "url": "https://open.spotify.com/album/2asMgD4QCIQOJ8OiaB9Brw"
       },
@@ -1331,6 +1331,58 @@
       "duration_ms": 450410,
       "name": "Banco do Carona",
       "url": "https://open.spotify.com/track/7bz3kEKKtEONtzxB6jrnb5"
+    },
+    {
+      "added_at": "2024-08-09 17:43:42",
+      "album": {
+        "name": "Assault (Carro Bicho)",
+        "url": "https://open.spotify.com/album/5ft3Gzo8bWvAHoofPH9bd5"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Shenlong",
+          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mvk",
+          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Mc Filh\u00e3o",
+          "url": "https://open.spotify.com/artist/0bRPXWabRuRy4RqnycT5ne"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 409846,
+      "name": "Assault (Carro Bicho)",
+      "url": "https://open.spotify.com/track/52K0daI216x97EPGrSA7jB"
     },
     {
       "added_at": "2024-08-09 17:43:42",
@@ -1423,6 +1475,46 @@
     {
       "added_at": "2024-08-09 17:43:42",
       "album": {
+        "name": "M\u00eddia",
+        "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "A$IX",
+          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
+        }
+      ],
+      "duration_ms": 233181,
+      "name": "M\u00eddia",
+      "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
+    },
+    {
+      "added_at": "2024-08-09 17:43:42",
+      "album": {
         "name": "Fernando de Noronha",
         "url": "https://open.spotify.com/album/1txWGY681VHHA99JdD7LcH"
       },
@@ -1479,46 +1571,6 @@
     {
       "added_at": "2024-08-09 17:43:42",
       "album": {
-        "name": "M\u00eddia",
-        "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        },
-        {
-          "name": "A$IX",
-          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
-        }
-      ],
-      "duration_ms": 233181,
-      "name": "M\u00eddia",
-      "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
-    },
-    {
-      "added_at": "2024-08-09 17:43:42",
-      "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
@@ -1543,58 +1595,6 @@
       "duration_ms": 150616,
       "name": "Disk P@#$%&!",
       "url": "https://open.spotify.com/track/6X8aYB2eFCge9jpkgjecPR"
-    },
-    {
-      "added_at": "2024-08-09 17:43:42",
-      "album": {
-        "name": "Assault (Carro Bicho)",
-        "url": "https://open.spotify.com/album/5ft3Gzo8bWvAHoofPH9bd5"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Shenlong",
-          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mvk",
-          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Mc Filh\u00e3o",
-          "url": "https://open.spotify.com/artist/0bRPXWabRuRy4RqnycT5ne"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 409846,
-      "name": "Assault (Carro Bicho)",
-      "url": "https://open.spotify.com/track/52K0daI216x97EPGrSA7jB"
     },
     {
       "added_at": "2024-08-09 17:43:42",

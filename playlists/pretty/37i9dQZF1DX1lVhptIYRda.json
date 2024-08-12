@@ -1,15 +1,31 @@
 {
-  "description": "Today's top country hits. Cover: Ella Langley",
-  "num_followers": 7533961,
+  "description": "Celebrating Chris Stapleton's \"Tennessee Whiskey\" hitting 1 BILLION streams on Spotify! ",
+  "num_followers": 7534979,
   "original_name": "Hot Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZreckAAAAACfr7PNIVk9tueYx35Dk801",
+  "snapshot_id": "ZrkBUwAAAAAjrk+FpfeVrOjOPeOYEKHj",
   "tracks": [
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+    },
+    {
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "you look like you love me (feat. Riley Green)",
         "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Lies Lies Lies",
         "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Out of Oklahoma (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "We All Grow Up",
         "url": "https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Livin' My Best Life (Still)",
         "url": "https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "shot in the dark",
         "url": "https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Relapse",
         "url": "https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Wind Up Missin' You",
         "url": "https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Beautiful As You",
         "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "I Tried A Ring On",
         "url": "https://open.spotify.com/album/6R8KPrq6T7SpQFvJoEOlKI"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/6ouFl8UDdMc9zuzmzvmh7v"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Holy Smokes",
         "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Wranglers",
         "url": "https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Old No. 7",
         "url": "https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Lonely Road (with Jelly Roll)",
         "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Way Out Here",
         "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Guy For That",
         "url": "https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Hell is a Dance Floor",
         "url": "https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/5ULNiLtUzRZIpbdHz47DkL"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
         "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Pink Skies",
         "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Deeper Well: Deeper into the Well",
         "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Arkansas Diamond",
         "url": "https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa"
@@ -469,7 +485,7 @@
       "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Think I\u2019m In Love With You",
         "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "I Am Not Okay",
         "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Wanna Be Loved",
         "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Hang Tight Honey",
         "url": "https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/2z3R7CZ04HkT7425h5xyNV"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/2JyM1u6xSHBJVpbeFrC4B5"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Single Again",
         "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "High Road (feat. Jessie Murph)",
         "url": "https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Bigger Houses",
         "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Am I Okay?",
         "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "MESSED UP AS ME",
         "url": "https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/4Znwf3U6xJsQrj0UveLpOx"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
         "url": "https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Maxed Out",
         "url": "https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Make It Look Easy",
         "url": "https://open.spotify.com/album/1ylXu63fdiBSoVrdnx6YXE"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/2g6WCOlZS7mePH81Bxxa9s"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Killed The Cowboy",
         "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Whiskey Blues",
         "url": "https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Devil You Know",
         "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Love You, Miss You, Mean It",
         "url": "https://open.spotify.com/album/3KhdXmuYsUQZUtd16wVJIE"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/2b98AhAxuK5i4YUHaQ7eQR"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "Called Crazy",
         "url": "https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt"
     },
     {
-      "added_at": "2024-08-10 17:00:00",
+      "added_at": "2024-08-11 18:22:10",
       "album": {
         "name": "A Cigarette",
         "url": "https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u"

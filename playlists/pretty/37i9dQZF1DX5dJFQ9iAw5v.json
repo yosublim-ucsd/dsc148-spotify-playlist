@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 32229,
+  "num_followers": 32237,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
-        "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
-      },
-      "artists": [
-        {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
         "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 114760,
       "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
       "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
+        "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
+      },
+      "artists": [
+        {
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -183,38 +183,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 395117,
-      "name": "Chacafrik",
-      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Boticario de Amor",
-        "url": "https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL"
-      },
-      "artists": [
-        {
-          "name": "Hot Shooters",
-          "url": "https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr"
-        }
-      ],
-      "duration_ms": 185194,
-      "name": "NO LA VI VENIR",
-      "url": "https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5"
       },
@@ -227,6 +195,22 @@
       "duration_ms": 169586,
       "name": "Tico Tico No Fub\u00e0",
       "url": "https://open.spotify.com/track/3Q8ZbV1ebQ1vVZHcst39I8"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 395117,
+      "name": "Chacafrik",
+      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -247,6 +231,22 @@
       "duration_ms": 301893,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Boticario de Amor",
+        "url": "https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL"
+      },
+      "artists": [
+        {
+          "name": "Hot Shooters",
+          "url": "https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr"
+        }
+      ],
+      "duration_ms": 185194,
+      "name": "NO LA VI VENIR",
+      "url": "https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 468087,
-      "name": "Sol La, Al Sol",
-      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "ONTOLOGY",
         "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
       },
@@ -339,22 +323,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 104195,
-      "name": "Brilliant Corners",
-      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Camino",
         "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
       },
@@ -367,6 +335,22 @@
       "duration_ms": 220532,
       "name": "Lago de Forma Mia",
       "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 104195,
+      "name": "Brilliant Corners",
+      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -387,18 +371,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Jazz Argentino",
-        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
       "artists": [
         {
-          "name": "Baby L\u00f3pez Furst",
-          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
         }
       ],
-      "duration_ms": 303186,
-      "name": "Una Abeja Durmiente",
-      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
+      "duration_ms": 468087,
+      "name": "Sol La, Al Sol",
+      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -415,6 +399,22 @@
       "duration_ms": 140213,
       "name": "I'm Beginning to See the Light",
       "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Jazz Argentino",
+        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
+      },
+      "artists": [
+        {
+          "name": "Baby L\u00f3pez Furst",
+          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
+        }
+      ],
+      "duration_ms": 303186,
+      "name": "Una Abeja Durmiente",
+      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -443,6 +443,26 @@
       "duration_ms": 471146,
       "name": "Promesas Sobre el Bidet",
       "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Cinemateca Finlandesa",
+        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Adri\u00e1n Iaies",
+          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Viernes 3AM",
+      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -479,26 +499,6 @@
       "duration_ms": 306999,
       "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
       "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Cinemateca Finlandesa",
-        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Adri\u00e1n Iaies",
-          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "Viernes 3AM",
-      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
-        }
-      ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Rata",
         "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 237240,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+        }
+      ],
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -603,6 +603,26 @@
       "duration_ms": 280635,
       "name": "Pop",
       "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
+        "url": "https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Ni\u00f1o Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        }
+      ],
+      "duration_ms": 363986,
+      "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
+      "url": "https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -643,26 +663,6 @@
       "duration_ms": 493933,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
-        "url": "https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Ni\u00f1o Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        }
-      ],
-      "duration_ms": 363986,
-      "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
-      "url": "https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Studio 2",
-        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
+        "name": "Grabaciones In\u00e9ditas Vol. 1",
+        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
       },
       "artists": [
         {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+          "name": "Enrique \"Mono\" Villegas",
+          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
         }
       ],
-      "duration_ms": 327520,
-      "name": "Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
+      "duration_ms": 254120,
+      "name": "In a Middle Tone",
+      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Grabaciones In\u00e9ditas Vol. 1",
-        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
+        "name": "Studio 2",
+        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
       },
       "artists": [
         {
-          "name": "Enrique \"Mono\" Villegas",
-          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
         }
       ],
-      "duration_ms": 254120,
-      "name": "In a Middle Tone",
-      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
+      "duration_ms": 327520,
+      "name": "Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Mezcalero",
-        "url": "https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj"
-      },
-      "artists": [
-        {
-          "name": "Manto de Carne",
-          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
-        },
-        {
-          "name": "Mart\u00edn Telechanski",
-          "url": "https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Mezcalero",
-      "url": "https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Bye Bye Blackbird",
         "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
       },
@@ -1043,22 +1023,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "ESCALECTRIC",
-        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 286798,
-      "name": "Parque Chas",
-      "url": "https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Polacos",
         "url": "https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi"
       },
@@ -1071,6 +1035,42 @@
       "duration_ms": 188773,
       "name": "Polacos",
       "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Mezcalero",
+        "url": "https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj"
+      },
+      "artists": [
+        {
+          "name": "Manto de Carne",
+          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
+        },
+        {
+          "name": "Mart\u00edn Telechanski",
+          "url": "https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Mezcalero",
+      "url": "https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "ESCALECTRIC",
+        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 286798,
+      "name": "Parque Chas",
+      "url": "https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1095,34 +1095,6 @@
       "duration_ms": 495746,
       "name": "Cabrera's Blues",
       "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Tr\u00edas",
-        "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
-      },
-      "artists": [
-        {
-          "name": "Juan Cruz De Urquiza",
-          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Carlos Alvarez",
-          "url": "https://open.spotify.com/artist/3n4bsQdUztlsnOwCfEYsSI"
-        },
-        {
-          "name": "Carto Brand\u00e1n",
-          "url": "https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB"
-        }
-      ],
-      "duration_ms": 640853,
-      "name": "Trias",
-      "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1167,18 +1139,46 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Enero",
-        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
+        "name": "Tr\u00edas",
+        "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
       },
       "artists": [
         {
-          "name": "Commodore",
-          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
+          "name": "Juan Cruz De Urquiza",
+          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Carlos Alvarez",
+          "url": "https://open.spotify.com/artist/3n4bsQdUztlsnOwCfEYsSI"
+        },
+        {
+          "name": "Carto Brand\u00e1n",
+          "url": "https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB"
         }
       ],
-      "duration_ms": 412693,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
+      "duration_ms": 640853,
+      "name": "Trias",
+      "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "En el fondo del mar",
+        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 367797,
+      "name": "En el fondo del mar",
+      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
+      },
+      "artists": [
+        {
+          "name": "Commodore",
+          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
+        }
+      ],
+      "duration_ms": 412693,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Here\u00b4s That Rainy Day",
         "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 192615,
       "name": "Here\u00b4s That Rainy Day",
       "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "En el fondo del mar",
-        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 367797,
-      "name": "En el fondo del mar",
-      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "El Drag\u00f3n Blanco",
-        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
-      },
-      "artists": [
-        {
-          "name": "Patricio Carpossi",
-          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Afropuertas",
         "url": "https://open.spotify.com/album/5tb3c9O1yhD6wMzacCPwDp"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
+        "name": "El Drag\u00f3n Blanco",
+        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
       },
       "artists": [
         {
-          "name": "Hern\u00e1n Merlo",
-          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
+          "name": "Patricio Carpossi",
+          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
         }
       ],
-      "duration_ms": 342480,
-      "name": "Comrade Conrad",
-      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
+      "duration_ms": 286373,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Lentes",
-        "url": "https://open.spotify.com/album/3nQvu36vQOrnLla0fEd7gy"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
       },
       "artists": [
         {
-          "name": "Juan Cruz De Urquiza",
-          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
+          "name": "Hern\u00e1n Merlo",
+          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
         }
       ],
-      "duration_ms": 544146,
-      "name": "Trapos Colgantes",
-      "url": "https://open.spotify.com/track/77e7WFSnVtgafRllsTW89d"
+      "duration_ms": 342480,
+      "name": "Comrade Conrad",
+      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1399,6 +1383,22 @@
       "duration_ms": 298880,
       "name": "Ausencias",
       "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Lentes",
+        "url": "https://open.spotify.com/album/3nQvu36vQOrnLla0fEd7gy"
+      },
+      "artists": [
+        {
+          "name": "Juan Cruz De Urquiza",
+          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
+        }
+      ],
+      "duration_ms": 544146,
+      "name": "Trapos Colgantes",
+      "url": "https://open.spotify.com/track/77e7WFSnVtgafRllsTW89d"
     },
     {
       "added_at": "2023-12-08 00:22:41",

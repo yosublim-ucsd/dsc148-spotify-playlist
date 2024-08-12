@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: This is a Campus Romance Series\(대충 캠퍼스로맨스임\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-209 songs - 12 hr 43 min
+210 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Missing you at the night](https://open.spotify.com/track/2yligKIUYBMtw9XW8CfjN2) | [Geum Nara](https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7) | [Oh, Boy! OST Part.18 \(Soundtrack\)](https://open.spotify.com/album/1uhGglTdvY0sFWq99dCEyw) | 3:18 | 2023-06-13 | 2024-08-11 |
 | [Monologue](https://open.spotify.com/track/28xcjPuYAgPcFRtGSWk2SP) | [JaeHan](https://open.spotify.com/artist/0DbPKVg9CKEzdN1nlolnZv) | [A Shoulder to Cry On \(Original Audio Drama Soundtrack\)](https://open.spotify.com/album/6zB6OXYBLrYfk9lQhXiarC) | 3:13 | 2024-04-05 |  |
 | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/track/5VMzbtKYJUMwE358F4aa9Z) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/album/3NyfTWpWxCZD0kI0zmBITJ) | 3:14 | 2022-05-09 | 2024-05-10 |
+| [Moonlit Nights](https://open.spotify.com/track/0qOCfz4ZOaZcEyLsO9igVm) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [Naver Webtoon Nano Machine OST Part\. 1](https://open.spotify.com/album/5qqWPVuJ70t82SMsADUdW2) | 4:15 | 2024-08-10 |  |
 | [My 20th Twenty](https://open.spotify.com/track/6EbXl39EhKldo6XU4q9MCe) | [Park Jin Joo](https://open.spotify.com/artist/05AYUT9lXm5E4N2Z2wVlXm) | [My 20th Twenty \(Original Webdrama Sountrack, Pt\. 1\)](https://open.spotify.com/album/71EhGfqFpVNw0fsLfgyyfx) | 3:42 | 2023-04-18 |  |
 | [My Highlight](https://open.spotify.com/track/5ssGTjB8goLwsqed8YxcGT) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [True Beauty Season 1, Part.1 \(Original Soundtrack\)](https://open.spotify.com/album/7q2nSEWTAAFPZSZy0g6hwa) | 2:55 | 2024-07-24 |  |
 | [My Love is Pain](https://open.spotify.com/track/4de2K1NmgYTYiuCp1EioYs) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Love is Pain \(Marriage Or Death X Mad Clown, Sondia\)](https://open.spotify.com/album/7glE3yJAC0V371XkEJYVqf) | 3:42 | 2022-05-09 | 2023-12-11 |

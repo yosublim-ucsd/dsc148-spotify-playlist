@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : Raayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,962 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,013 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Water Packet \(From "Raayan"\)](https://open.spotify.com/track/1hHrBEkN0JIaeFPegy4Xak) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Gana Kadhar](https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Water Packet \(From "Raayan"\)](https://open.spotify.com/album/7JFHHTttxtJtGG9S2lAfob) | 4:06 |
+| 1 | [Water Packet \(From "Raayan"\)](https://open.spotify.com/track/1hHrBEkN0JIaeFPegy4Xak) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Gana Kadhar](https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh) | [Water Packet \(From "Raayan"\)](https://open.spotify.com/album/7JFHHTttxtJtGG9S2lAfob) | 4:06 |
 | 2 | [Minikki Minikki \(From "Thangalaan"\) \- Tamil](https://open.spotify.com/track/35qzjEf7XtwRM7cjfgF55n) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO), [Uma Devi](https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo) | [Minikki Minikki \(From "Thangalaan"\) \[Tamil\]](https://open.spotify.com/album/391E7jC3uToRpCTCrJn7LS) | 3:22 |
 | 3 | [Poruthhiru Selva \(From "Raghu Thatha"\)](https://open.spotify.com/track/5iO5h2B45Ta3adx9wyreXi) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Manoj Kumar Kalaivanan](https://open.spotify.com/artist/33AeobQwuNEGbcr8fhVV2m) | [Poruthhiru Selva \(From "Raghu Thatha"\)](https://open.spotify.com/album/2XdXelEJXHlDVVVWobKAD6) | 3:14 |
 | 4 | [Chinna Chinna Kangal \(From "The Greatest Of All Time"\)](https://open.spotify.com/track/45INGwihwyL537U2JdGuzW) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Raja Bhavatharini](https://open.spotify.com/artist/6abqwiPNT4niDf1GcS8qWK) | [Chinna Chinna Kangal \(From "The Greatest Of All Time"\)](https://open.spotify.com/album/469IlT5XtPKdVyYYKxNzWK) | 4:29 |

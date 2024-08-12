@@ -1,12 +1,12 @@
 {
-  "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 705626,
+  "description": "This Is Natanael Cano. Los temas esenciales, todos en una lista.",
+  "num_followers": 706064,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAD7sjbXzIZASQBd2go9WdKF",
+  "snapshot_id": "ZratgAAAAACSaATGYRWiZLYPw0e50m96",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 174522,
-      "name": "CARNAL",
-      "url": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 165351,
       "name": "Como Es Arriba Es Abajo",
       "url": "https://open.spotify.com/track/3KTExsIhHiqNHW9XBbTTZd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 174522,
+      "name": "CARNAL",
+      "url": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Tumbados",
-        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 187352,
-      "name": "Disfruto Lo Malo",
-      "url": "https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 150974,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Tumbados",
+        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 187352,
+      "name": "Disfruto Lo Malo",
+      "url": "https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy El Nata",
-        "url": "https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 146549,
-      "name": "Se Muri\u00f3",
-      "url": "https://open.spotify.com/track/4QOequf0gyDi53EEoecUp7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Nuevo Yo",
         "url": "https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 177583,
       "name": "Compa Bladi",
       "url": "https://open.spotify.com/track/6OXDTduxjhhvcuqhapshMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy El Nata",
+        "url": "https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 146549,
+      "name": "Se Muri\u00f3",
+      "url": "https://open.spotify.com/track/4QOequf0gyDi53EEoecUp7"
     },
     {
       "added_at": null,

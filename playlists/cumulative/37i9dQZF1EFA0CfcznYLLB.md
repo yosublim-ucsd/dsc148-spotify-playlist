@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-347 songs - 18 hr 14 min
+348 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,8 @@
 | [Novacane](https://open.spotify.com/track/6hljbMoAdhLkH9Zs36n9RO) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Keep God First](https://open.spotify.com/album/0ecR68heNFl1trGt4WFUzc) | 2:53 | 2024-05-20 | 2024-05-22 |
 | [Novacane](https://open.spotify.com/track/3autIySOEzceIx7kKp0P1V) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Novacane](https://open.spotify.com/album/7JRWPjH1IDKuw2jxMcEhLh) | 2:54 | 2023-12-13 |  |
 | [November Rain](https://open.spotify.com/track/58ZdT5NQIAkeSWUxNneBg8) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:13 | 2023-12-13 |  |
-| [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/2rYyq0b3XWwmWl0k727OVG) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/album/5tJjXZhkwWQYginKpNGFte) | 3:04 | 2023-12-13 |  |
+| [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/2KQdxByLeH5HvuqG2MPbg7) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [96 Months](https://open.spotify.com/album/5uRY0boZn48gDio0ASlgI0) | 3:04 | 2024-08-11 |  |
+| [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/2rYyq0b3XWwmWl0k727OVG) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/album/5tJjXZhkwWQYginKpNGFte) | 3:04 | 2023-12-13 | 2024-08-12 |
 | [Offended \(feat\. Young Thug & 21 Savage\)](https://open.spotify.com/track/40WxFAbt8UEK7jKLmIxRNY) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [DC4](https://open.spotify.com/album/6sNbRwX0lZREkdmUSDsVzo) | 4:15 | 2023-12-13 |  |
 | [Oh No](https://open.spotify.com/track/3luKdBrlAm7wnJqMtqVQjk) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [Oh No](https://open.spotify.com/album/0qOUerwZomSGDHIdfyLeTT) | 2:59 | 2023-12-13 |  |
 | [On Em](https://open.spotify.com/track/3AEymnHQj2xn4sROfEvDB6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [300 Days 300 Nights](https://open.spotify.com/album/7dgbUj8qhJGj7tYsM67JM3) | 3:30 | 2023-12-13 |  |

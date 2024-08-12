@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,954 likes - 167 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,131 likes - 167 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

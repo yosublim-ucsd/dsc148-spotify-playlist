@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ulices Chaidez. Los temas esenciales, todos en una lista.",
-  "num_followers": 47258,
+  "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
+  "num_followers": 47265,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAADfrw6hAuO7AOBoHmNjQB9f",
+  "snapshot_id": "ZratgAAAAAAt+mOvsZpCptuJN3xVB+kW",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 150605,
-      "name": "Mi Bello \u00c1ngel",
-      "url": "https://open.spotify.com/track/31FzCxz4Iys6DXWgWPIw18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Ti Pap\u00e1",
         "url": "https://open.spotify.com/album/383d57AAMCzhhvbc1RKGZU"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 254250,
       "name": "Para Ti Pap\u00e1",
       "url": "https://open.spotify.com/track/1kqSCTQ2KReQ2bzmEcFvnI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 150605,
+      "name": "Mi Bello \u00c1ngel",
+      "url": "https://open.spotify.com/track/31FzCxz4Iys6DXWgWPIw18"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Ma\u00f1ana Muero",
-        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 279359,
-      "name": "Si Ma\u00f1ana Muero",
-      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
+      "duration_ms": 193150,
+      "name": "D\u00e9jame Decirle",
+      "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+        "name": "Si Ma\u00f1ana Muero",
+        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 193150,
-      "name": "D\u00e9jame Decirle",
-      "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
+      "duration_ms": 279359,
+      "name": "Si Ma\u00f1ana Muero",
+      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
     },
     {
       "added_at": null,
@@ -791,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+        "name": "Si Alg\u00fan D\u00eda Te Encuentro",
+        "url": "https://open.spotify.com/album/1yFgCBjroSGNKS1wRiEndz"
       },
       "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        },
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 238979,
-      "name": "Te Robar\u00e9 Una Noche",
-      "url": "https://open.spotify.com/track/0mFqbVgfpiDN4K56YCPuAz"
+      "duration_ms": 216503,
+      "name": "Si Alg\u00fan D\u00eda Te Encuentro",
+      "url": "https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR"
     },
     {
       "added_at": null,
@@ -843,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Alg\u00fan D\u00eda Te Encuentro",
-        "url": "https://open.spotify.com/album/1yFgCBjroSGNKS1wRiEndz"
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
       "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        },
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 216503,
-      "name": "Si Alg\u00fan D\u00eda Te Encuentro",
-      "url": "https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR"
+      "duration_ms": 238979,
+      "name": "Te Robar\u00e9 Una Noche",
+      "url": "https://open.spotify.com/track/0mFqbVgfpiDN4K56YCPuAz"
     },
     {
       "added_at": null,
@@ -879,18 +879,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
+        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
       },
       "artists": [
         {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
         }
       ],
-      "duration_ms": 208443,
-      "name": "Como los Vaqueros",
-      "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
+      "duration_ms": 326320,
+      "name": "El Sr. Mayo Zambada, El Ni\u00f1o De La Tuna, El Cajoncito - En Vivo",
+      "url": "https://open.spotify.com/track/5Bkcg7dxX6UiOv5ObUGzoJ"
     }
   ],
   "unique_name": "This Is Ulices Chaidez",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Aug 16:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Aug 16:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1822,6 +1822,24 @@
       "duration_ms": 208439,
       "name": "Aw, Shoot!",
       "url": "https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c"
+    },
+    {
+      "album": {
+        "name": "Awesome",
+        "url": "https://open.spotify.com/album/42aV4AB78LAsZ8rB9Nglk7"
+      },
+      "artists": [
+        {
+          "name": "Laker",
+          "url": "https://open.spotify.com/artist/4lExj6JVOUnxR9epOMvyd1"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Awesome",
+      "url": "https://open.spotify.com/track/3hyidQDv0dm1SlZb1wEpQL"
     },
     {
       "album": {
@@ -11382,7 +11400,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 123641,
       "name": "Hash Ketama",
       "url": "https://open.spotify.com/track/4VzekhXawWFZyry0hND4nx"
@@ -18142,7 +18160,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 194526,
       "name": "Never Like Me",
       "url": "https://open.spotify.com/track/7gJ4fxyVlsTvk9deROJc0F"
@@ -19167,6 +19185,32 @@
     },
     {
       "album": {
+        "name": "On The Other Side (FNAF: Into The Pit Song)",
+        "url": "https://open.spotify.com/album/2viGcebaGs6zDUmPQ43407"
+      },
+      "artists": [
+        {
+          "name": "LongestSoloEver",
+          "url": "https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca"
+        },
+        {
+          "name": "KryFuZe",
+          "url": "https://open.spotify.com/artist/3Lh4732M2pvWBoMljgh0P2"
+        },
+        {
+          "name": "McGwire",
+          "url": "https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208931,
+      "name": "On The Other Side (FNAF: Into The Pit Song)",
+      "url": "https://open.spotify.com/track/0gcyVffFXCdlOm5IYbMk3z"
+    },
+    {
+      "album": {
         "name": "On This Hill",
         "url": "https://open.spotify.com/album/5StpVKqlHLWZwdlivpSMpo"
       },
@@ -19670,7 +19714,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 256216,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/6Vh4JhSWrW4xUpfd3sgp3L"
@@ -24295,6 +24339,24 @@
     },
     {
       "album": {
+        "name": "Sorry Boo",
+        "url": "https://open.spotify.com/album/3jh9wURi9DYilP5RwdsUeR"
+      },
+      "artists": [
+        {
+          "name": "Duwap Kaine",
+          "url": "https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122462,
+      "name": "Sorry Boo",
+      "url": "https://open.spotify.com/track/1QkCRybEvQiHS58SPvZOrK"
+    },
+    {
+      "album": {
         "name": "Sorry For Saying the N-Word",
         "url": "https://open.spotify.com/album/4u7V4af7XKzpiDYQ9RidQg"
       },
@@ -28498,7 +28560,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 300000,
       "name": "Untold",
       "url": "https://open.spotify.com/track/4a2GN04ljotwF4LVB7DFA8"
@@ -31060,6 +31122,24 @@
       "duration_ms": 289648,
       "name": "\u307e\u3060\u65e9\u3044\u679c\u7269",
       "url": "https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc / Re:Re:",
+        "url": "https://open.spotify.com/album/5GVdkWBl18UeBJL2gR6L4H"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219280,
+      "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc",
+      "url": "https://open.spotify.com/track/5xpsKfVMWMQZuTo3msJDC2"
     },
     {
       "album": {

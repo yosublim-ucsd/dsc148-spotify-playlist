@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,728 likes - 452 songs - 1 day 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,745 likes - 452 songs - 1 day 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,8 +265,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 255 | [🪐](https://open.spotify.com/track/1a3G9SNslcKsPAOuIikaxd) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 0:53 |
 | 256 | [I Got You](https://open.spotify.com/track/0moAF4KC0g0U1ukeb83Ld2) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 3:45 |
 | 257 | [It's My Life / Confessions Part II](https://open.spotify.com/track/5bxDbhozwbW0iDm7OYAtY5) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee LGBTQIA+ Pride](https://open.spotify.com/album/6ndWxNXkozcZLcsCAVBctE) | 1:51 |
-| 258 | [\(Hey Why\) Miss You Sometime](https://open.spotify.com/track/0l6lfl4PcrbPmBE08I6zp2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 3:23 |
-| 259 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/36aoiqTQcBGDb7bAO3n5XO) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Dawn FM \- Alternate World](https://open.spotify.com/album/0A8SNVB9aIWEW3rm2OgwOB) | 4:35 |
+| 258 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/36aoiqTQcBGDb7bAO3n5XO) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Dawn FM \- Alternate World](https://open.spotify.com/album/0A8SNVB9aIWEW3rm2OgwOB) | 4:35 |
+| 259 | [\(Hey Why\) Miss You Sometime](https://open.spotify.com/track/0l6lfl4PcrbPmBE08I6zp2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 3:23 |
 | 260 | [Cloud Number Nine](https://open.spotify.com/track/1sdz3nsrkX4Yo42KLPrmYV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:45 |
 | 261 | [✨](https://open.spotify.com/track/1danObd53GynoY83wRz3Ua) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 0:53 |
 | 262 | [Sleeping In](https://open.spotify.com/track/1R7siqhHn4yYe3g6FGkt8s) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/4SvSiE8d8TGEq38vsjCPyS) | 3:00 |
@@ -461,4 +461,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 451 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 452 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `AbZE+QAAAABTxzT8Fb0pyojan8OpXzmM`
+Snapshot ID: `AbZKmQAAAAAYnqpafOMlnXXoUkfFwECC`

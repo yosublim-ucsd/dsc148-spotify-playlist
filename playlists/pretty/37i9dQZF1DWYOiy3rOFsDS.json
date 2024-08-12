@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Jos\u00e9 y El Toro en portada.",
-  "num_followers": 535427,
+  "num_followers": 535449,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
         "name": "Serenatas Frente al Mar",
         "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
       },
@@ -595,38 +611,6 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "La Trenza",
-      "url": "https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
         "name": "El Madrile\u00f1o (La Sobremesa)",
         "url": "https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 187693,
       "name": "Te Venero",
       "url": "https://open.spotify.com/track/4JdoNXs8MyxoovRv4g9udm"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "La Trenza",
+      "url": "https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "La Sonora Santanera en Su 60 Aniversario",
-        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Amor de Cabaret (with R\u00edo Roma)",
-      "url": "https://open.spotify.com/track/5JeyXbf7CrVQ8DqwFikN0P"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
       },
@@ -707,18 +687,22 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+        "name": "La Sonora Santanera en Su 60 Aniversario",
+        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
         }
       ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
+      "duration_ms": 183026,
+      "name": "Amor de Cabaret (with R\u00edo Roma)",
+      "url": "https://open.spotify.com/track/5JeyXbf7CrVQ8DqwFikN0P"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -735,6 +719,38 @@
       "duration_ms": 207817,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 181853,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -775,42 +791,6 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 181853,
-      "name": "El Reloj",
-      "url": "https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
       },
@@ -823,6 +803,38 @@
       "duration_ms": 196614,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 268096,
+      "name": "Adoracion",
+      "url": "https://open.spotify.com/track/6W9Q073oJTne3KQedw1f73"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "No Me Platiques M\u00e1s",
+      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -843,22 +855,6 @@
       "duration_ms": 189066,
       "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/29Jjqh0aEF2GG06fl5AKpv"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 268096,
-      "name": "Adoracion",
-      "url": "https://open.spotify.com/track/6W9Q073oJTne3KQedw1f73"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -911,18 +907,22 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 211440,
-      "name": "No Me Platiques M\u00e1s",
-      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Farolito (with Gilberto Gil)",
-      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
         "name": "Solo Boleros",
         "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
       },
@@ -1155,22 +1135,6 @@
       "duration_ms": 178925,
       "name": "Cuando Vuelva a Tu Lado",
       "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1191,6 +1155,66 @@
       "duration_ms": 199296,
       "name": "Mexicana (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
+        "name": "Me Vuelves Loca",
+        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+        }
+      ],
+      "duration_ms": 268146,
+      "name": "Me Vuelves Loca",
+      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Farolito (with Gilberto Gil)",
+      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1247,30 +1271,6 @@
       "duration_ms": 182733,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
-        "name": "Me Vuelves Loca",
-        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        },
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
-        }
-      ],
-      "duration_ms": 268146,
-      "name": "Me Vuelves Loca",
-      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "La Copa Rota",
-        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
         "name": "Armando Manzanero Duetos 2",
         "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
       },
@@ -1395,22 +1379,6 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "Tiempo al Tiempo",
-      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
         "name": "Los Boleros de Oro de la M\u00fasica Tropical",
         "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
       },
@@ -1423,6 +1391,38 @@
       "duration_ms": 165173,
       "name": "En la Orilla del Mar",
       "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
+        "name": "La Copa Rota",
+        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "Tiempo al Tiempo",
+      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
+        "name": "M\u00e1s Que Ella",
+        "url": "https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Santiago En La Guitarra",
+          "url": "https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "M\u00e1s Que Ella",
+      "url": "https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
         "name": "Tu Camisa",
         "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
-        "name": "M\u00e1s Que Ella",
-        "url": "https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Santiago En La Guitarra",
-          "url": "https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "M\u00e1s Que Ella",
-      "url": "https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "Lo esencial de Or\u00edgenes: El Bolero",
-        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "No me reproches",
-      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
         "name": "Si T\u00fa Supieras (En Vivo Desde El Teatro Real)",
         "url": "https://open.spotify.com/album/3yTrEqEPA6T9qjbJUIGCJU"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 328320,
       "name": "Si T\u00fa Supieras - En Vivo Desde El Teatro Real",
       "url": "https://open.spotify.com/track/5X84dG9aZCTtlNx32WHPQD"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
+        "name": "Lo esencial de Or\u00edgenes: El Bolero",
+        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "No me reproches",
+      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
     },
     {
       "added_at": "2024-07-26 13:35:38",

@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 52798,
+  "num_followers": 52814,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 145443,
+      "name": "Lovin' Machine",
+      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -159,6 +175,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Wild Wild Young Men",
+      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Roy Milton And His Solid Senders",
         "url": "https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO"
       },
@@ -171,22 +203,6 @@
       "duration_ms": 163840,
       "name": "Big Fat Mama",
       "url": "https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 145443,
-      "name": "Lovin' Machine",
-      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -223,18 +239,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
       },
       "artists": [
         {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
         }
       ],
-      "duration_ms": 153293,
-      "name": "Wild Wild Young Men",
-      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
+      "duration_ms": 173466,
+      "name": "Keep On Churnin' (Till The Butter Come)",
+      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -315,22 +331,6 @@
       "duration_ms": 202933,
       "name": "Hey! Ba-Ba-Re-Bop - Single Version",
       "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Keep On Churnin' (Till The Butter Come)",
-      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Jack, You're Dead: The Essential Blue Archive",
+        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "The Complete Imperial Recordings: 1950-1954",
         "url": "https://open.spotify.com/album/2aFmMoshdIDguX9ds0mMe2"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Jack, You're Dead: The Essential Blue Archive",
-        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0Dwycst55CZdI6R6kXhN8c"
       },
       "artists": [
         {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
         }
       ],
-      "duration_ms": 163506,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9"
+      "duration_ms": 162386,
+      "name": "Bloodshot Eyes",
+      "url": "https://open.spotify.com/track/3T4py44BDlu7wO3pqrxWl9"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -779,22 +795,6 @@
       "duration_ms": 324453,
       "name": "Saturday Night Fish Fry - Pts. 1 & 2",
       "url": "https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0Dwycst55CZdI6R6kXhN8c"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 162386,
-      "name": "Bloodshot Eyes",
-      "url": "https://open.spotify.com/track/3T4py44BDlu7wO3pqrxWl9"
     },
     {
       "added_at": "2022-03-28 19:44:25",

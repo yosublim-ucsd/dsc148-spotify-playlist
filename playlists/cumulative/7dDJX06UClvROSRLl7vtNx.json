@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 148500,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/256duzyAQ2cgNI0Bh89K0m"
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 176705,
       "name": "Daydreams",
       "url": "https://open.spotify.com/track/5LsKH0xvpdlKdE0RUR023Q"
@@ -3017,6 +3017,36 @@
     },
     {
       "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/4d2RFZnAF0wQiITHaR8nQ2"
+      },
+      "artists": [
+        {
+          "name": "Dawilk",
+          "url": "https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf"
+        },
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        },
+        {
+          "name": "Westerlund",
+          "url": "https://open.spotify.com/artist/2E2I4XqkMhd2eoJv7ExGlO"
+        },
+        {
+          "name": "Jaime Deraz",
+          "url": "https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128274,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/2uo74aELPqpxYjpmgG3wZx"
+    },
+    {
+      "album": {
         "name": "Flashing Lights",
         "url": "https://open.spotify.com/album/3NSoH3XUxT3jJFReqaljst"
       },
@@ -3072,7 +3102,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 181000,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/3guKSfvUk8BpbHfbEWPxB2"
@@ -4474,6 +4504,32 @@
       "duration_ms": 141453,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/5UYEyQjDOOXhb9Kjlu7q22"
+    },
+    {
+      "album": {
+        "name": "I Say a Little Prayer",
+        "url": "https://open.spotify.com/album/4ocNjBLkTh4GWdHQUSSACm"
+      },
+      "artists": [
+        {
+          "name": "Shoby",
+          "url": "https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT"
+        },
+        {
+          "name": "Yann Muller",
+          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
+        },
+        {
+          "name": "Izzie Naylor",
+          "url": "https://open.spotify.com/artist/3CDi2vo2UbAileXJ3ZIsQK"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155357,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/0jz0imELhqlyfbmHKgmc48"
     },
     {
       "album": {
@@ -7522,7 +7578,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 150000,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/2PrnX9N1vqBGIRVbWv7GCL"
@@ -8032,7 +8088,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 127200,
       "name": "Rockstars",
       "url": "https://open.spotify.com/track/6uNH63cQYv2wfRo9iTaGQS"
@@ -8928,7 +8984,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 147566,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/2ebnQEpk6lDZ5ujBHE3S0b"
@@ -9074,6 +9130,32 @@
       "duration_ms": 142095,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/0MP8D9PQsFcx23hEwz5ZMO"
+    },
+    {
+      "album": {
+        "name": "Streets Of Paris",
+        "url": "https://open.spotify.com/album/5lCOk1JARXunmXP8d8HPhD"
+      },
+      "artists": [
+        {
+          "name": "Honest Regrets",
+          "url": "https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg"
+        },
+        {
+          "name": "Thomas Geelens",
+          "url": "https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz"
+        },
+        {
+          "name": "Namt\u00e9",
+          "url": "https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Streets Of Paris",
+      "url": "https://open.spotify.com/track/0dBuY7FFheYCzaZZ0Vy9oS"
     },
     {
       "album": {
@@ -9674,7 +9756,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 137694,
       "name": "Talk About Us",
       "url": "https://open.spotify.com/track/2aGi8MHh1WR0le7LEqzEga"
@@ -10472,7 +10554,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 179500,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/168j21rfvVnyptl3ctjO5h"
@@ -10656,7 +10738,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 143437,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6L6Me26P5PGKzqmA3vVrsb"

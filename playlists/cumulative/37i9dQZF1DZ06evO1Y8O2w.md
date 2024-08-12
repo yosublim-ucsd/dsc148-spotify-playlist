@@ -2,7 +2,7 @@
 
 ### [This Is Phyllis Hyman](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Y8O2w)
 
-> This is Phyllis Hyman\. The essential tracks, all in one playlist.
+> This is Phyllis Hyman\. Todos os maiores hits em uma só playlist.
 
 92 songs - 7 hr 15 min
 
@@ -38,14 +38,14 @@
 | [Here's That Rainy Day](https://open.spotify.com/track/7u1TGBkS8n8r88oNiA84fO) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 3:04 | 2023-12-29 |  |
 | [Hold On](https://open.spotify.com/track/4A7MYo7tQyJfZMptVJ7IZh) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:13 | 2022-05-26 | 2022-10-12 |
 | [Hurry up This Way Again](https://open.spotify.com/track/0ZO2hnswG8lteyIf6G4FFn) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:22 | 2022-05-25 |  |
-| [I Ain't Asking](https://open.spotify.com/track/4T5FdL1wOaydngJjPLHyBb) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 4:02 | 2022-05-25 | 2023-03-25 |
+| [I Ain't Asking](https://open.spotify.com/track/4T5FdL1wOaydngJjPLHyBb) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 4:02 | 2022-05-25 |  |
 | [I Can't Take It Anymore](https://open.spotify.com/track/4UpYbeKgedoORPEMefqi5a) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 4:21 | 2022-07-03 | 2022-10-11 |
 | [I Don't Want to Lose You](https://open.spotify.com/track/5I8feSnTQYGtQ3fHzAuGZ5) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Essential Phyllis Hyman](https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC) | 5:28 | 2022-05-26 | 2022-06-20 |
 | [I Don't Want to Lose You](https://open.spotify.com/track/0anlJjyEo8JQTtOyhawl9G) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 5:28 | 2022-06-21 |  |
 | [I Found Love](https://open.spotify.com/track/5K3PneofTHEwyxmk3WBKW9) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 4:26 | 2022-05-26 |  |
 | [I Refuse to Be Lonely](https://open.spotify.com/track/7ExBN9mMlaGDymm6SIZDPz) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 3:58 | 2022-05-25 |  |
 | [I'm Calling You](https://open.spotify.com/track/26JxIeSiCMikxLmEeZHwus) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:59 | 2022-06-18 |  |
-| [I'm Truly Yours](https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:39 | 2022-06-01 |  |
+| [I'm Truly Yours](https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:39 | 2022-06-01 | 2024-08-12 |
 | [If You Want Me](https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:19 | 2022-05-25 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 3:26 | 2022-05-25 |  |
 | [In Between the Heartaches](https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:45 | 2022-06-03 | 2024-05-14 |

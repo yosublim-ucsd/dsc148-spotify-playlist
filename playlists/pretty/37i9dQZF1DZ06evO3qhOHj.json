@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 27663,
+  "num_followers": 27665,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABimTQd3dWKLOV0BfagMes9",
+  "snapshot_id": "ZratgAAAAABGpa5EmorMQoxWUBwvMmcF",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 256790,
-      "name": "Sunday Morning Kinda Girl",
-      "url": "https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx"
+      "duration_ms": 198470,
+      "name": "What Were You Thinking",
+      "url": "https://open.spotify.com/track/6z6RHWh4mk0MXg3gFWJDpw"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 198470,
-      "name": "What Were You Thinking",
-      "url": "https://open.spotify.com/track/6z6RHWh4mk0MXg3gFWJDpw"
+      "duration_ms": 256790,
+      "name": "Sunday Morning Kinda Girl",
+      "url": "https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 288600,
-      "name": "If That's What It Takes",
-      "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 229160,
       "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
       "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 288600,
+      "name": "If That's What It Takes",
+      "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
     },
     {
       "added_at": null,
@@ -548,25 +548,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 236481,
-      "name": "The Frame",
-      "url": "https://open.spotify.com/track/1MfAMk1x64kkm8GLk2V45G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "Colorado Bulldog - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
+      "duration_ms": 251900,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/17AdKvkNwCHuSPmTn6l4aA"
     },
     {
       "added_at": null,
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
       "artists": [
         {
@@ -596,9 +580,25 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 288746,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
+      "duration_ms": 252533,
+      "name": "My Kinda Woman - 2021 Remastered",
+      "url": "https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "Colorado Bulldog - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "My Kinda Woman - 2021 Remastered",
-      "url": "https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 222506,
       "name": "Strike Like Lightning - Remastered",
       "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
     },
     {
       "added_at": null,
@@ -676,25 +676,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 239173,
-      "name": "Road to Ruin - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Stranger In My Life",
-      "url": "https://open.spotify.com/track/1SgrsREYlgqJIGWvMU8GGK"
+      "duration_ms": 247093,
+      "name": "Voodoo Kiss - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 226706,
       "name": "The Chain",
       "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Stranger In My Life",
+      "url": "https://open.spotify.com/track/1SgrsREYlgqJIGWvMU8GGK"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 247093,
-      "name": "Voodoo Kiss - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
+      "duration_ms": 239173,
+      "name": "Road to Ruin - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
     },
     {
       "added_at": null,

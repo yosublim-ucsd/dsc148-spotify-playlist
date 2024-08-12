@@ -1,6 +1,6 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 797686,
+  "num_followers": 797853,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZrRuhQAAAAARwolCaJ49gRh1l8O0Mrgn",
   "tracks": [
-    {
-      "added_at": "2024-08-08 07:06:45",
-      "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
-    },
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "added_at": "2024-08-08 07:06:45",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
+        "name": "Golden Rope",
+        "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
+      },
+      "artists": [
+        {
+          "name": "Bulgarian Cartrader",
+          "url": "https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx"
+        }
+      ],
+      "duration_ms": 220275,
+      "name": "Golden Rope",
+      "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
+    },
+    {
+      "added_at": "2024-08-08 07:06:45",
+      "album": {
         "name": "Ocean Wide",
         "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 184515,
       "name": "Ocean Wide",
       "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
-    },
-    {
-      "added_at": "2024-08-08 07:06:45",
-      "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
-        "name": "Golden Rope",
-        "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
       },
       "artists": [
         {
-          "name": "Bulgarian Cartrader",
-          "url": "https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 220275,
-      "name": "Golden Rope",
-      "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
-      "added_at": "2024-08-08 07:06:45",
-      "album": {
         "name": "Unpack Your Bags (Radio Edit)",
         "url": "https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
-        "name": "Oh the Agony, Oh the Ecstasy",
-        "url": "https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO"
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
       "artists": [
         {
-          "name": "Charlotte OC",
-          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 203076,
-      "name": "Blue Eyes Forever",
-      "url": "https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6"
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -659,6 +643,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2024-08-08 07:06:45",
+      "album": {
+        "name": "Oh the Agony, Oh the Ecstasy",
+        "url": "https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO"
+      },
+      "artists": [
+        {
+          "name": "Charlotte OC",
+          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Blue Eyes Forever",
+      "url": "https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
-        "name": "Old Bone / Trust No Man",
-        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Old Bone",
-      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
-    },
-    {
-      "added_at": "2024-08-08 07:06:45",
-      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 202361,
       "name": "Breach",
       "url": "https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj"
+    },
+    {
+      "added_at": "2024-08-08 07:06:45",
+      "album": {
+        "name": "Old Bone / Trust No Man",
+        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Old Bone",
+      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 171890,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS"
-    },
-    {
-      "added_at": "2024-08-08 07:06:45",
-      "album": {
         "name": "Young & Free",
         "url": "https://open.spotify.com/album/1B3U0viHf0iGTpmEogZNie"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 230352,
       "name": "Young & Free",
       "url": "https://open.spotify.com/track/0GMYdEuNaZtcEW014gbv9L"
+    },
+    {
+      "added_at": "2024-08-08 07:06:45",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 171890,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
-        "name": "Rich Man",
-        "url": "https://open.spotify.com/album/6SWwS2mmFaQIU1vE3mEEh1"
-      },
-      "artists": [
-        {
-          "name": "KE\u00d8MA",
-          "url": "https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U"
-        }
-      ],
-      "duration_ms": 236750,
-      "name": "Rich Man",
-      "url": "https://open.spotify.com/track/34batHUDkMhFuUjkxAUmfH"
-    },
-    {
-      "added_at": "2024-08-08 07:06:45",
-      "album": {
         "name": "Vagabond",
         "url": "https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 308072,
       "name": "Too Timid",
       "url": "https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg"
+    },
+    {
+      "added_at": "2024-08-08 07:06:45",
+      "album": {
+        "name": "Rich Man",
+        "url": "https://open.spotify.com/album/6SWwS2mmFaQIU1vE3mEEh1"
+      },
+      "artists": [
+        {
+          "name": "KE\u00d8MA",
+          "url": "https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "Rich Man",
+      "url": "https://open.spotify.com/track/34batHUDkMhFuUjkxAUmfH"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
-        "name": "The Only Thing That's Real",
-        "url": "https://open.spotify.com/album/6t7VVjUGmFJklgrg4BzqJn"
-      },
-      "artists": [
-        {
-          "name": "A Tale of Golden Keys",
-          "url": "https://open.spotify.com/artist/0i4t71X76r7XeeDN9iGqTY"
-        }
-      ],
-      "duration_ms": 197614,
-      "name": "Cars",
-      "url": "https://open.spotify.com/track/1tc5X4yxo5W9Y2mwnWig8Q"
-    },
-    {
-      "added_at": "2024-08-08 07:06:45",
-      "album": {
         "name": "Echo of Youth",
         "url": "https://open.spotify.com/album/2arypATxnVXJDLa10gaBT9"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 195266,
       "name": "Youth",
       "url": "https://open.spotify.com/track/040biVya1wdxHojlYhlcpK"
+    },
+    {
+      "added_at": "2024-08-08 07:06:45",
+      "album": {
+        "name": "The Only Thing That's Real",
+        "url": "https://open.spotify.com/album/6t7VVjUGmFJklgrg4BzqJn"
+      },
+      "artists": [
+        {
+          "name": "A Tale of Golden Keys",
+          "url": "https://open.spotify.com/artist/0i4t71X76r7XeeDN9iGqTY"
+        }
+      ],
+      "duration_ms": 197614,
+      "name": "Cars",
+      "url": "https://open.spotify.com/track/1tc5X4yxo5W9Y2mwnWig8Q"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9"
+      },
+      "artists": [
+        {
+          "name": "M. Byrd",
+          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
+        }
+      ],
+      "duration_ms": 217749,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk"
+    },
+    {
+      "added_at": "2024-08-08 07:06:45",
+      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/5KIGF4CBVpQv2NknBTa3Gu"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9"
+        "name": "Tuscan Sun",
+        "url": "https://open.spotify.com/album/2pNPvs9j5gTqExGiZcHs6X"
       },
       "artists": [
         {
-          "name": "M. Byrd",
-          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
         }
       ],
-      "duration_ms": 217749,
-      "name": "Orion",
-      "url": "https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk"
+      "duration_ms": 231540,
+      "name": "Tuscan Sun",
+      "url": "https://open.spotify.com/track/7Lk0RmNpKQxQdJb1xeUy7O"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
-        "name": "Tuscan Sun",
-        "url": "https://open.spotify.com/album/2pNPvs9j5gTqExGiZcHs6X"
-      },
-      "artists": [
-        {
-          "name": "L'aupaire",
-          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
-        }
-      ],
-      "duration_ms": 231540,
-      "name": "Tuscan Sun",
-      "url": "https://open.spotify.com/track/7Lk0RmNpKQxQdJb1xeUy7O"
-    },
-    {
-      "added_at": "2024-08-08 07:06:45",
-      "album": {
         "name": "By the Book",
         "url": "https://open.spotify.com/album/7mwzvVnuhnFaQk0cLbi3A6"
       },
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
-        "name": "Rose Pink Cadillac",
-        "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm"
       },
       "artists": [
         {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 261911,
-      "name": "Rose Pink Cadillac",
-      "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
+      "duration_ms": 188080,
+      "name": "Line of Fire",
+      "url": "https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G"
     }
   ],
   "unique_name": "Van Life",

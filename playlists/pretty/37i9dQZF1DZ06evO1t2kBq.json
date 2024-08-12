@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 77618,
+  "num_followers": 77627,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAD0UBYhbSB+Yi4SGJyHPdds",
+  "snapshot_id": "ZratgAAAAAAGG8ZLs+oCv5q/T4qTQI5T",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 95466,
-      "name": "Social Suicide",
-      "url": "https://open.spotify.com/track/5zZgoYzUjsLINdPEt7VoWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 107323,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 95466,
+      "name": "Social Suicide",
+      "url": "https://open.spotify.com/track/5zZgoYzUjsLINdPEt7VoWO"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 113598,
-      "name": "Sinister Rouge",
-      "url": "https://open.spotify.com/track/36aS89QHtfR02T1oHRBOe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 81793,
       "name": "You Are (The Government)",
       "url": "https://open.spotify.com/track/4uKMHiWSI5omiZrSAUjrH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 113598,
+      "name": "Sinister Rouge",
+      "url": "https://open.spotify.com/track/36aS89QHtfR02T1oHRBOe3"
     },
     {
       "added_at": null,

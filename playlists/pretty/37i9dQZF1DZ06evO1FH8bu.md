@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 
 > This is Neck Deep\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,308 likes - 46 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,324 likes - 46 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 | 5 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 |
 | 6 | [Can't Kick Up The Roots](https://open.spotify.com/track/1iKjPM2YygFxUqjUakAI4n) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:49 |
 | 7 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 |
-| 8 | [Sort Yourself Out](https://open.spotify.com/track/60wZ1Xej8lpqK5t9LEH9Qp) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:13 |
+| 8 | [Heartbreak Of The Century](https://open.spotify.com/track/4ijqpIWc6VhVRTvHPJlBMw) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:49 |
 | 9 | [Motion Sickness](https://open.spotify.com/track/2JcQF1cSeyFx34F8ItVTRN) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:25 |
 | 10 | [Gold Steps](https://open.spotify.com/track/3wcT7Bndd1w4dVsKhEXcEm) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 3:12 |
 | 11 | [Torn](https://open.spotify.com/track/55SMBnlZaMebqCYUkFU2dT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Torn](https://open.spotify.com/album/5zF5pEzJQgwu97Qze67WRL) | 4:04 |
-| 12 | [Heartbreak Of The Century](https://open.spotify.com/track/4ijqpIWc6VhVRTvHPJlBMw) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:49 |
+| 12 | [Sort Yourself Out](https://open.spotify.com/track/60wZ1Xej8lpqK5t9LEH9Qp) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:13 |
 | 13 | [Parachute](https://open.spotify.com/track/1gXAB8LVnrNFVkj4kBdaSE) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:40 |
 | 14 | [Kali Ma](https://open.spotify.com/track/4HsWOiIPuQ6tCT3suvGWMK) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:50 |
 | 15 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 | 29 | [Sonderland](https://open.spotify.com/track/04XjMCR9EiZeKIrR0LZcjq) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:39 |
 | 30 | [What Did You Expect?](https://open.spotify.com/track/5v1NSDUgJ2NiNGKqu7LPxN) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July / A History Of Bad Decisions](https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8) | 3:18 |
 | 31 | [Candour](https://open.spotify.com/track/4CAfO7bz0J4AN0bQaUZ4vR) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 3:17 |
-| 32 | [Beautiful Madness](https://open.spotify.com/track/2lMAqXqsAgOp3oT47lnW2y) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The B Sides](https://open.spotify.com/album/1tzhqvKVJutPd4TkiUK7Br) | 3:09 |
+| 32 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5RbRkgIzbdWdrzodyOasIj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Boulevard of Broken Dreams](https://open.spotify.com/album/0ED1EFdYpBU4qj4iWFW0sg) | 3:40 |
 | 33 | [Sick Joke](https://open.spotify.com/track/7shZE88Gj8XrpHvwtN0CEl) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:47 |
-| 34 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5RbRkgIzbdWdrzodyOasIj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Boulevard of Broken Dreams](https://open.spotify.com/album/0ED1EFdYpBU4qj4iWFW0sg) | 3:40 |
+| 34 | [Beautiful Madness](https://open.spotify.com/track/2lMAqXqsAgOp3oT47lnW2y) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The B Sides](https://open.spotify.com/album/1tzhqvKVJutPd4TkiUK7Br) | 3:09 |
 | 35 | [Losing Teeth](https://open.spotify.com/track/2igkrp986MU4maviUzLiVO) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 2:59 |
 | 36 | [Head To The Ground](https://open.spotify.com/track/6tbMy64dgE8zz6SAdXqhS6) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July / A History Of Bad Decisions](https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8) | 2:40 |
 | 37 | [Little Dove](https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:04 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 | 45 | [Kick It](https://open.spotify.com/track/54u8VbDveaKMQVTj0NDzrT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July](https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT) | 1:34 |
 | 46 | [Damsel In Distress](https://open.spotify.com/track/7HuZXpNRta1mVgOmqCJssL) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 3:22 |
 
-Snapshot ID: `ZrVcAAAAAADr/UgOPcM/SohOCk9NnBAC`
+Snapshot ID: `ZratgAAAAAC0ro/6n8TU+lnijSIhMQ/d`

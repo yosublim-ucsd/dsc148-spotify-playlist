@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,133 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,153 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 5 | [ELLERİM BOŞ](https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ELLERİM BOŞ](https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj) | 2:04 |
 | 6 | [Wicked Styley](https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Wicked Styley](https://open.spotify.com/album/1H5rc0kUITrP2PfdQyypUX) | 2:32 |
 | 7 | [Na Na Na](https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Na Na Na](https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0) | 1:40 |
-| 8 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 |
+| 8 | [Waste My Time](https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/5hf83mN1IFFHq3JYTJZLeE) | 3:00 |
 | 9 | [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 |
 | 10 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 |
-| 11 | [Waste My Time](https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/5hf83mN1IFFHq3JYTJZLeE) | 3:00 |
+| 11 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 |
 | 12 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
 | 13 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 |
 | 14 | [jersey luv](https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/6z30pC8bxK3JIWRhLLbXwr) | 3:51 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 96 | [let me go\*](https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [let me go\*](https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK) | 2:19 |
 | 97 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
 | 98 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
-| 99 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 |
-| 100 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 |
+| 99 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
+| 100 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 |
 
 Snapshot ID: `ZZ7AiwAAAACuQRi8+Muln0lirQ9M+uHe`

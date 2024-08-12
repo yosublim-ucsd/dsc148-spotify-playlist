@@ -1,12 +1,12 @@
 {
   "description": "This Is Ariel Camacho y Los Plebes Del Rancho. Los temas esenciales, todos en una lista.",
-  "num_followers": 408608,
+  "num_followers": 408680,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAA0AsLYTQ1FyTsvUa2Y349g",
+  "snapshot_id": "ZratgAAAAABPoPep+0GSBq1t7NPYMQr4",
   "tracks": [
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enfiestados En Culiacan",
-        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
-      },
-      "artists": [
-        {
-          "name": "Banda Culiacancito",
-          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
-        },
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "El Toro Encartado",
-      "url": "https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Relatos de Jefes",
         "url": "https://open.spotify.com/album/4k2TGFs6r9LSWdDk86Wg6o"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 211533,
       "name": "El Guero de Guamuchil",
       "url": "https://open.spotify.com/track/07Elm8YRCmlAZcz8YVA7dV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enfiestados En Culiacan",
+        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
+      },
+      "artists": [
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        },
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "El Toro Encartado",
+      "url": "https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 231523,
+      "name": "El Empanada",
+      "url": "https://open.spotify.com/track/6LnzPOhhFghlgEm74aNqTG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enfiestados En Culiacan",
         "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta En El Cielo Vol 1",
-        "url": "https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 231523,
-      "name": "El Empanada",
-      "url": "https://open.spotify.com/track/6LnzPOhhFghlgEm74aNqTG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recuerdos Para Pistear (En Vivo)",
         "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 183028,
       "name": "Los Principios - En Vivo",
       "url": "https://open.spotify.com/track/4zkVf0U3iKwA9KzPgkWJvg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 252107,
+      "name": "La Muerte Del Cardenal",
+      "url": "https://open.spotify.com/track/7GUf9Tdckybkkyr52eZfK4"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
       "duration_ms": 246428,
       "name": "El Rey De Corazones",
       "url": "https://open.spotify.com/track/6N11HRZvYMon459IGNv3gF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiesta En El Cielo Vol 1",
-        "url": "https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 252107,
-      "name": "La Muerte Del Cardenal",
-      "url": "https://open.spotify.com/track/7GUf9Tdckybkkyr52eZfK4"
     },
     {
       "added_at": null,

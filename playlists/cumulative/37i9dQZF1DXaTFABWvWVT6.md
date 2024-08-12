@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-183 songs - 10 hr 30 min
+184 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 | 2022-07-18 | 2023-10-25 |
 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 | 2024-07-05 |  |
 | [Blow My Mind](https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Blow My Mind](https://open.spotify.com/album/1slkHMzVPHaSr0OIhMrxZ1) | 2:31 | 2024-05-23 |  |
+| [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 | 2024-08-09 |  |
 | [BREAK IT DOWN \(ON THE BASSLINE\)](https://open.spotify.com/track/1poGDt4f2MB2q9m1lsBwAB) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [BREAK IT DOWN \(ON THE BASSLINE\)](https://open.spotify.com/album/35HrIn0UbaHzkoLNMusEo1) | 2:34 | 2024-07-19 | 2024-07-27 |
 | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5) | 4:05 | 2024-07-05 |  |
 | [Bussin'](https://open.spotify.com/track/7o7Bd4gXTMMEWjGshr0pkH) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [Bussin'](https://open.spotify.com/album/7Ly4erXy2nfDMwRpey9z3h) | 2:39 | 2024-07-26 |  |
@@ -150,7 +151,7 @@
 | [Ring The Alarm](https://open.spotify.com/track/6EACtpp2xlqbs2rViFRXDO) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Ring The Alarm](https://open.spotify.com/album/7dLyeT8MWlaGoG0v1yxSLA) | 3:04 | 2023-09-22 | 2023-10-06 |
 | [Riverside MF](https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Riverside MF](https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ) | 2:35 | 2024-03-01 | 2024-05-17 |
 | [Role Model](https://open.spotify.com/track/5CSfhQ8ql3ofBE8PsQnQfR) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS), [Luca Guerrieri](https://open.spotify.com/artist/0kSI1cgEztfBxr2QUYlU7c) | [Role Model](https://open.spotify.com/album/3sxeCXtywWoYIcpGj5aGKm) | 3:26 | 2024-05-17 | 2024-08-05 |
-| [saving flowers](https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [saving flowers](https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd) | 3:30 | 2024-05-23 |  |
+| [saving flowers](https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [saving flowers](https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd) | 3:30 | 2024-05-23 | 2024-08-12 |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-06 | 2024-07-27 |
 | [Saving Up \- Odd Mob Remix](https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Saving Up \(Odd Mob Remix\)](https://open.spotify.com/album/2WfWidStgwclhlTuXxTqMz) | 3:13 | 2024-03-01 | 2024-06-15 |
 | [Shake My Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake My Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 | 2022-07-18 | 2023-05-20 |

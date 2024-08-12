@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 263786,
       "name": "Adventure of a Lifetime",
       "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2020-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 231013,
       "name": "Animals",
       "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
@@ -3410,7 +3410,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -13678,7 +13678,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
@@ -17187,6 +17187,28 @@
     },
     {
       "album": {
+        "name": "96 Months",
+        "url": "https://open.spotify.com/album/1CfqWSAyfmYzHU9ktHxUqd"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/76dIZzTdrNO15mGBrU3MHi"
+    },
+    {
+      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -17256,7 +17278,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 219546,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6cpk00i5TxCqSeqNi2HuIe"
@@ -17590,7 +17612,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"
@@ -19976,7 +19998,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
@@ -20662,7 +20684,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 192586,
       "name": "Single Ladies (Put a Ring on It)",
       "url": "https://open.spotify.com/track/557un1HgwYMuqfWGSTmnxw"
@@ -23980,7 +24002,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
@@ -25776,7 +25798,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 199849,
       "name": "What Lovers Do",
       "url": "https://open.spotify.com/track/0ExtPzAWi4arQz6kaabm02"

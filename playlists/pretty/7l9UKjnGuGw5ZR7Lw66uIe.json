@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 63,
+  "num_followers": 64,
   "original_name": "Works by Mert \u00c7odur ",
   "owner": {
     "name": "Mert \u00c7odur",
     "url": "https://open.spotify.com/user/mertcodur"
   },
-  "snapshot_id": "AAAAWojA8U7Vb5y7C4bWEI4hLT/M/p7M",
+  "snapshot_id": "AAAAYP51FK8wX3LWEX0cWyKoOhu1m1j6",
   "tracks": [
     {
       "added_at": "2024-08-02 06:16:39",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC"
     },
     {
+      "added_at": "2024-01-26 00:16:00",
+      "album": {
+        "name": "yine bana kal",
+        "url": "https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "duration_ms": 183900,
+      "name": "yine bana kal",
+      "url": "https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2"
+    },
+    {
       "added_at": "2022-07-27 11:18:26",
       "album": {
         "name": "Harbi G\u00fczel",
@@ -41,10 +57,10 @@
       "url": "https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN"
     },
     {
-      "added_at": "2024-01-26 00:16:00",
+      "added_at": "2022-07-27 11:18:38",
       "album": {
-        "name": "yine bana kal",
-        "url": "https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX"
+        "name": "serseri tesad\u00fcf",
+        "url": "https://open.spotify.com/album/2DMpopdYjf8JNJR4HhyvCe"
       },
       "artists": [
         {
@@ -52,9 +68,41 @@
           "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
         }
       ],
-      "duration_ms": 183900,
-      "name": "yine bana kal",
-      "url": "https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2"
+      "duration_ms": 146119,
+      "name": "serseri tesad\u00fcf",
+      "url": "https://open.spotify.com/track/3lTwSeaCQWfJD2YjCZCYPs"
+    },
+    {
+      "added_at": "2024-03-01 14:48:03",
+      "album": {
+        "name": "Benim Hatam",
+        "url": "https://open.spotify.com/album/2KKKUPW7ouGBxrEjQSuDjQ"
+      },
+      "artists": [
+        {
+          "name": "Gizem",
+          "url": "https://open.spotify.com/artist/3igRNd6ybREmpQOjHnWZyU"
+        }
+      ],
+      "duration_ms": 128039,
+      "name": "Benim Hatam",
+      "url": "https://open.spotify.com/track/46Ebc31kxd3o3FVM2PovWy"
+    },
+    {
+      "added_at": "2024-03-22 09:29:36",
+      "album": {
+        "name": "senli sevda",
+        "url": "https://open.spotify.com/album/5N0pN6uF6MGeHlkNcKPJaw"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "senli sevda",
+      "url": "https://open.spotify.com/track/2COpBVUNsMs075MZGDhXi4"
     },
     {
       "added_at": "2023-10-12 23:35:23",
@@ -73,20 +121,20 @@
       "url": "https://open.spotify.com/track/0QH13vxepuaLmJvBFRwDDD"
     },
     {
-      "added_at": "2024-03-01 14:48:03",
+      "added_at": "2023-07-14 05:17:25",
       "album": {
-        "name": "Benim Hatam",
-        "url": "https://open.spotify.com/album/2KKKUPW7ouGBxrEjQSuDjQ"
+        "name": "\u0130zleri Belli",
+        "url": "https://open.spotify.com/album/04Rdyug1KAnC4aooCmLgJ8"
       },
       "artists": [
         {
-          "name": "Gizem",
-          "url": "https://open.spotify.com/artist/3igRNd6ybREmpQOjHnWZyU"
+          "name": "Ozan Bayra\u015fa",
+          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
         }
       ],
-      "duration_ms": 128039,
-      "name": "Benim Hatam",
-      "url": "https://open.spotify.com/track/46Ebc31kxd3o3FVM2PovWy"
+      "duration_ms": 168948,
+      "name": "\u0130zleri Belli",
+      "url": "https://open.spotify.com/track/2dxXmAftbqWGxsxYdMkmS3"
     },
     {
       "added_at": "2023-07-20 21:41:56",
@@ -121,38 +169,6 @@
       "url": "https://open.spotify.com/track/65jBnp5troNslpir74QATL"
     },
     {
-      "added_at": "2024-03-22 09:29:36",
-      "album": {
-        "name": "senli sevda",
-        "url": "https://open.spotify.com/album/5N0pN6uF6MGeHlkNcKPJaw"
-      },
-      "artists": [
-        {
-          "name": "Mert \u00c7odur",
-          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "senli sevda",
-      "url": "https://open.spotify.com/track/2COpBVUNsMs075MZGDhXi4"
-    },
-    {
-      "added_at": "2022-07-27 11:18:38",
-      "album": {
-        "name": "serseri tesad\u00fcf",
-        "url": "https://open.spotify.com/album/2DMpopdYjf8JNJR4HhyvCe"
-      },
-      "artists": [
-        {
-          "name": "Mert \u00c7odur",
-          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
-        }
-      ],
-      "duration_ms": 146119,
-      "name": "serseri tesad\u00fcf",
-      "url": "https://open.spotify.com/track/3lTwSeaCQWfJD2YjCZCYPs"
-    },
-    {
       "added_at": "2022-07-29 11:24:38",
       "album": {
         "name": "al\u0131\u015ft\u0131m zehrine",
@@ -167,22 +183,6 @@
       "duration_ms": 159350,
       "name": "al\u0131\u015ft\u0131m zehrine",
       "url": "https://open.spotify.com/track/3jkf9V7EeZCXkUiXaklsPO"
-    },
-    {
-      "added_at": "2023-07-14 05:17:25",
-      "album": {
-        "name": "\u0130zleri Belli",
-        "url": "https://open.spotify.com/album/04Rdyug1KAnC4aooCmLgJ8"
-      },
-      "artists": [
-        {
-          "name": "Ozan Bayra\u015fa",
-          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
-        }
-      ],
-      "duration_ms": 168948,
-      "name": "\u0130zleri Belli",
-      "url": "https://open.spotify.com/track/2dxXmAftbqWGxsxYdMkmS3"
     },
     {
       "added_at": "2022-07-27 11:18:54",

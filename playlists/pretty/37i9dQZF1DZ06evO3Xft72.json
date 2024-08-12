@@ -1,12 +1,12 @@
 {
-  "description": "This Is Def Leppard. \u0412\u0441\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435.",
-  "num_followers": 275754,
+  "description": "This is Def Leppard. The essential tracks, all in one playlist.",
+  "num_followers": 275787,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAB0cQrTppqypopVifKzKYDF",
+  "snapshot_id": "ZratgAAAAADXVrUfj5AkJz0jT8RnEcHx",
   "tracks": [
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Through The Night",
-        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
+        "name": "Yeah!",
+        "url": "https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 225226,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd"
+      "duration_ms": 173101,
+      "name": "Rock On",
+      "url": "https://open.spotify.com/track/0v0sa5TgqCXMJcynzY8Sqp"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeah!",
-        "url": "https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K"
+        "name": "On Through The Night",
+        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 173101,
-      "name": "Rock On",
-      "url": "https://open.spotify.com/track/0v0sa5TgqCXMJcynzY8Sqp"
+      "duration_ms": 225226,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd"
     },
     {
       "added_at": null,

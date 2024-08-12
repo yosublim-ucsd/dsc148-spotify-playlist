@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-338 songs - 20 hr 6 min
+339 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,8 @@
 | [Walk Away](https://open.spotify.com/track/2zpWbK58RhiLysM201bT3W) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Daydreams](https://open.spotify.com/album/5R8yRYP7TqrGXsjV6xaLVJ) | 3:23 | 2022-07-06 | 2024-04-19 |
 | [Warning \(feat\. Stick Figure\)](https://open.spotify.com/track/0TGLKJiH9vHx4Xb8FVjWrO) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Warning \(feat\. Stick Figure\)](https://open.spotify.com/album/1GrDR9D9ugeclvN7XtOf4U) | 3:52 | 2021-12-10 | 2022-07-29 |
 | [Warning \(feat\. Stick Figure\)](https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Local Motion](https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0) | 3:52 | 2022-07-06 | 2024-04-19 |
-| [Wash Away](https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D) | [Wash Away](https://open.spotify.com/album/3RHj5lALLKsGYbaJzNKRVr) | 3:31 | 2021-12-10 |  |
+| [Wash Away](https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D) | [Wash Away](https://open.spotify.com/album/3RHj5lALLKsGYbaJzNKRVr) | 3:31 | 2021-12-10 | 2024-08-12 |
+| [Wasted Summer](https://open.spotify.com/track/1waR2OGINwOJpNRZyj5WhY) | [Cydeways](https://open.spotify.com/artist/398HIuiMcfxwWLwAUD5Z2G) | [Wasted Summer](https://open.spotify.com/album/5Lm5aKklugJnEiweimWZWq) | 2:42 | 2024-07-26 |  |
 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t) | 4:13 | 2022-06-14 |  |
 | [Way Too High for This](https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2) | [Kash'd Out](https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm) | [Way Too High for This](https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk) | 3:47 | 2021-12-10 |  |
 | [We All Walk Our Own Roads \(with Trevor Hall\)](https://open.spotify.com/track/4EY01dZOKdAx1vTp0Md4xc) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [We All Walk Our Own Roads \(with Trevor Hall\)](https://open.spotify.com/album/1MAt077R2bE48jyjmRmfgP) | 3:57 | 2021-12-10 |  |

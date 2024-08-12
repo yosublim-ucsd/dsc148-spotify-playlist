@@ -1,12 +1,12 @@
 {
   "description": "This Is Ximena Sari\u00f1ana. Los temas esenciales, todos en una lista.",
-  "num_followers": 60239,
+  "num_followers": 60248,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAACsLCjF722V9J+2HtpRVlWw",
+  "snapshot_id": "ZratgAAAAAAxRubptL5aLhwEq3Vja/HC",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ECOS",
-        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/1CPHQNAp1sZddA0Wr0Ty6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruzzicovers",
         "url": "https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 219086,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/51Qn4E2abqNQzL5XMzWEHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ECOS",
+        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/1CPHQNAp1sZddA0Wr0Ty6e"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuevos Aires",
-        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 212894,
-      "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
-      "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Para Ti",
         "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuevos Aires",
+        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 212894,
+      "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
+      "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Soy Tuya (M\u00fasica Original de \u201cLas Azules\u201d de Apple TV+) [Main Title]",
+        "url": "https://open.spotify.com/album/3nwgEgEjPZqqLthxVEr5Uw"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 191389,
+      "name": "No Soy Tuya - Main Title",
+      "url": "https://open.spotify.com/track/6soVui0dpsnaFegcclSdAg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 169090,
       "name": "Te Confieso",
       "url": "https://open.spotify.com/track/1syzaQgUf8zOeLwash8NT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Soy Tuya (M\u00fasica Original de \u201cLas Azules\u201d de Apple TV+) [Main Title]",
-        "url": "https://open.spotify.com/album/3nwgEgEjPZqqLthxVEr5Uw"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 191389,
-      "name": "No Soy Tuya - Main Title",
-      "url": "https://open.spotify.com/track/6soVui0dpsnaFegcclSdAg"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vu\u00e9lame el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 201471,
-      "name": "A un Paso de Baile de Ti",
-      "url": "https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 263386,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vu\u00e9lame el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 201471,
+      "name": "A un Paso de Baile de Ti",
+      "url": "https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX"
     },
     {
       "added_at": null,

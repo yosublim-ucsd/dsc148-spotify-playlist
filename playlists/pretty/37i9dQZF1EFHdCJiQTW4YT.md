@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 143 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 355 likes - 143 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 70 | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/track/3BkgCiyy0DQCCOWQwgzDlh) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/album/0CYqqFFdIDafAsrYEXkK5w) | 3:24 |
 | 71 | [Nirvana](https://open.spotify.com/track/7eFbvtQ85FfJGMwft9V1AP) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 4:22 |
 | 72 | [I Wrote a Song for You](https://open.spotify.com/track/5OGMCaxXH6EeTbLhXbFilK) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:45 |
-| 73 | [Muscle](https://open.spotify.com/track/1CVh1re4QmrSmZ47cDiwz3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:07 |
-| 74 | [we all could use some help](https://open.spotify.com/track/1soUBTe2GUzPzgPNOQH8aX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:23 |
+| 73 | [we all could use some help](https://open.spotify.com/track/1soUBTe2GUzPzgPNOQH8aX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:23 |
+| 74 | [Muscle](https://open.spotify.com/track/1CVh1re4QmrSmZ47cDiwz3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:07 |
 | 75 | [back to back](https://open.spotify.com/track/0DZC1MiUFjKMSnylbHlv8R) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:45 |
 | 76 | [Summer](https://open.spotify.com/track/3y0pDizVSNtDBPWFS2cXC2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:30 |
 | 77 | [Loud](https://open.spotify.com/track/0NZxAq2XRdNq90UnYOwzoB) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Let The Music Play](https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao) | 3:24 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 142 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 143 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `AbZFCAAAAAC9B2IZm252g6hzkVYen0m1`
+Snapshot ID: `AbZKbAAAAAA0m7ljQNO4XnmW0aSaiHIb`

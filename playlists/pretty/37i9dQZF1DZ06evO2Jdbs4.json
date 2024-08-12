@@ -1,12 +1,12 @@
 {
-  "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 27262,
+  "description": "This is: Bobby Pulido. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 27268,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAD7sDa2Na8bcfXI457wIUhX",
+  "snapshot_id": "ZratgAAAAAAfz33wMv7+gr+Kp5vjk5LX",
   "tracks": [
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Muri\u00f3 de Amor",
-        "url": "https://open.spotify.com/album/4KGkWwBSQh4i4uT8HWt4vd"
-      },
-      "artists": [
-        {
-          "name": "Guardianes Del Amor De Arturo Rodriguez",
-          "url": "https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 218767,
-      "name": "Se Muri\u00f3 de Amor",
-      "url": "https://open.spotify.com/track/1f5N7QP1ZNz5sw0ZD34YwD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde las Vegas",
         "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 181448,
       "name": "Ya No Te Amo",
       "url": "https://open.spotify.com/track/691UfJ3B3IVa4Hsj3DVfvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Muri\u00f3 de Amor",
+        "url": "https://open.spotify.com/album/4KGkWwBSQh4i4uT8HWt4vd"
+      },
+      "artists": [
+        {
+          "name": "Guardianes Del Amor De Arturo Rodriguez",
+          "url": "https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 218767,
+      "name": "Se Muri\u00f3 de Amor",
+      "url": "https://open.spotify.com/track/1f5N7QP1ZNz5sw0ZD34YwD"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
       },
@@ -883,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
       "artists": [
         {
@@ -892,9 +876,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 169000,
-      "name": "No S\u00e9 Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
+      "duration_ms": 217333,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
     },
     {
       "added_at": null,
@@ -911,6 +895,22 @@
       "duration_ms": 186459,
       "name": "Ll\u00f3rame",
       "url": "https://open.spotify.com/track/2uBdikf4ImGwMP4UZCpt0W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "No S\u00e9 Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
     },
     {
       "added_at": null,

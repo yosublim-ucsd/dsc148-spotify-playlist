@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 247842,
+  "num_followers": 247852,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAChn2lzzEPn4njNXDjcjt5S",
+  "snapshot_id": "ZratgAAAAAAwXkz4uQSq+hHPbijm6zwm",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 235053,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
     },
     {
       "added_at": null,
@@ -851,26 +851,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
-        "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
+        "name": "Destinations and Fun Places",
+        "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
       },
       "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 267859,
-      "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
-      "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
+      "duration_ms": 256924,
+      "name": "Take Me Home Country Roads",
+      "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
     },
     {
       "added_at": null,
@@ -911,6 +911,30 @@
       "duration_ms": 188266,
       "name": "Mule Skinner Blues (Blue Yodel No. 8)",
       "url": "https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
+        "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
+      "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
     },
     {
       "added_at": null,
@@ -979,26 +1003,6 @@
       "duration_ms": 261269,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To All The Girls...",
-        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "From Here to the Moon and Back (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
     }
   ],
   "unique_name": "This Is Dolly Parton",

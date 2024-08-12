@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 264323,
+  "num_followers": 264410,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAD+GYIwN20/ck2A77RiAhmp",
+  "snapshot_id": "ZratgAAAAACX+HS/z/WBjl0FyOsmPY4R",
   "tracks": [
     {
       "added_at": null,
@@ -603,46 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Audaz",
-        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 210943,
-      "name": "Louco Pra Voltar",
-      "url": "https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
-        }
-      ],
-      "duration_ms": 250775,
-      "name": "Libert\u00e1rios N\u00e3o Morrem",
-      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica #12 Pra Sempre",
         "url": "https://open.spotify.com/album/61xLtRmRm1NmfHA703fPuX"
       },
@@ -691,6 +651,46 @@
       "duration_ms": 472173,
       "name": "Poesia Ac\u00fastica #12 Pra Sempre",
       "url": "https://open.spotify.com/track/0DNeNR89rtydtYHL6B0qqz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+        }
+      ],
+      "duration_ms": 250775,
+      "name": "Libert\u00e1rios N\u00e3o Morrem",
+      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 210943,
+      "name": "Louco Pra Voltar",
+      "url": "https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc"
     },
     {
       "added_at": null,
@@ -839,30 +839,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+        "name": "Poesia Ac\u00fastica 16",
+        "url": "https://open.spotify.com/album/4KmL1W9yrbIlpKOO3L976y"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
         },
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
         }
       ],
-      "duration_ms": 191999,
-      "name": "Richard Mille",
-      "url": "https://open.spotify.com/track/3MNNDtNV2IUJRVBrBs07Cp"
+      "duration_ms": 757611,
+      "name": "Poesia Ac\u00fastica 16",
+      "url": "https://open.spotify.com/track/20oDX6ZLQmWIipsWKdADyw"
     },
     {
       "added_at": null,
@@ -887,6 +915,34 @@
       "duration_ms": 150697,
       "name": "Konteiner",
       "url": "https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "Richard Mille",
+      "url": "https://open.spotify.com/track/3MNNDtNV2IUJRVBrBs07Cp"
     },
     {
       "added_at": null,
@@ -1019,6 +1075,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00eddia",
+        "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "A$IX",
+          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
+        }
+      ],
+      "duration_ms": 233181,
+      "name": "M\u00eddia",
+      "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Audaz",
         "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
       },
@@ -1075,46 +1171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00eddia",
-        "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        },
-        {
-          "name": "A$IX",
-          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
-        }
-      ],
-      "duration_ms": 233181,
-      "name": "M\u00eddia",
-      "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FRXV (Ao Vivo)",
         "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
       },
@@ -1127,26 +1183,6 @@
       "duration_ms": 195066,
       "name": "Me Sinto Aben\u00e7oado - Ao Vivo",
       "url": "https://open.spotify.com/track/3bysApQ8IhtbbfQKGWFHSy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Audaz",
-        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 168167,
-      "name": "A Libertina",
-      "url": "https://open.spotify.com/track/3SB6agr5USMImS0LZrEyNm"
     },
     {
       "added_at": null,
@@ -1171,6 +1207,62 @@
       "duration_ms": 234614,
       "name": "Dutumob",
       "url": "https://open.spotify.com/track/048DxjBJekj6Ipk7OxtkF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 168167,
+      "name": "A Libertina",
+      "url": "https://open.spotify.com/track/3SB6agr5USMImS0LZrEyNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MTG N\u00f3s Combina",
+        "url": "https://open.spotify.com/album/6EVu4EIUUniOk1VUsQmc9r"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DJ RENAN DA BL",
+          "url": "https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc"
+        },
+        {
+          "name": "2L Motta",
+          "url": "https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm"
+        },
+        {
+          "name": "DJ MK De Niter\u00f3i",
+          "url": "https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 84812,
+      "name": "MTG N\u00f3s Combina",
+      "url": "https://open.spotify.com/track/3WKBWUn1RlwITiF0ka6Wf1"
     },
     {
       "added_at": null,
@@ -1219,42 +1311,6 @@
       "duration_ms": 225600,
       "name": "EU SOU O TREM",
       "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MTG N\u00f3s Combina",
-        "url": "https://open.spotify.com/album/6EVu4EIUUniOk1VUsQmc9r"
-      },
-      "artists": [
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "DJ RENAN DA BL",
-          "url": "https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc"
-        },
-        {
-          "name": "2L Motta",
-          "url": "https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm"
-        },
-        {
-          "name": "DJ MK De Niter\u00f3i",
-          "url": "https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 84812,
-      "name": "MTG N\u00f3s Combina",
-      "url": "https://open.spotify.com/track/3WKBWUn1RlwITiF0ka6Wf1"
     },
     {
       "added_at": null,
@@ -1319,62 +1375,6 @@
       "duration_ms": 190241,
       "name": "Nova Sorte",
       "url": "https://open.spotify.com/track/12TzgWqlNFtPXO4hwCusiV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poesia Ac\u00fastica 16",
-        "url": "https://open.spotify.com/album/4KmL1W9yrbIlpKOO3L976y"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 757611,
-      "name": "Poesia Ac\u00fastica 16",
-      "url": "https://open.spotify.com/track/20oDX6ZLQmWIipsWKdADyw"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59199,
+  "num_followers": 59197,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/70rzzUTCO7zObGgNl4tkvA"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 161782,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/0OSrRgvrRmmWyCQPeJa6XI"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Copium",
         "url": "https://open.spotify.com/album/3W4rMKjMNt7AfTPnkHoYGC"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 139836,
       "name": "Maskinen \u00e4r tillbaka",
       "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Red Light",
-        "url": "https://open.spotify.com/album/70rzzUTCO7zObGgNl4tkvA"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 161782,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/0OSrRgvrRmmWyCQPeJa6XI"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "duration_ms": 203339,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Stj\u00e4rnorna inatt",
         "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 225394,
       "name": "Vem?",
       "url": "https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
-      },
-      "artists": [
-        {
-          "name": "total tommy",
-          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
-        }
-      ],
-      "duration_ms": 203339,
-      "name": "REAL",
-      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Kyss mig snabbt i otakt",
+        "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "F\u00f6rlora",
+      "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Go Fast Go Slow",
         "url": "https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG"
       },
@@ -607,18 +623,26 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "En F\u00f6rsta Dans",
-        "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
+        "name": "Hils Din Mor (feat. Anne Linnet)",
+        "url": "https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe"
       },
       "artists": [
         {
-          "name": "UPPENBARA",
-          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+          "name": "Freja Kirk",
+          "url": "https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG"
+        },
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "Anne Linnet",
+          "url": "https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY"
         }
       ],
-      "duration_ms": 130285,
-      "name": "En F\u00f6rsta Dans",
-      "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
+      "duration_ms": 172998,
+      "name": "Hils Din Mor (feat. Anne Linnet)",
+      "url": "https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -635,6 +659,22 @@
       "duration_ms": 217294,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "En F\u00f6rsta Dans",
+        "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "En F\u00f6rsta Dans",
+      "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -723,22 +763,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Kyss mig snabbt i otakt",
-        "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "F\u00f6rlora",
-      "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/7btOxSw2OQWoUXzl8kwTar"
       },
@@ -771,22 +795,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Above Love",
-        "url": "https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj"
-      },
-      "artists": [
-        {
-          "name": "Say Lou Lou",
-          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Above Love",
-      "url": "https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Ordna sig",
         "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
       },
@@ -799,6 +807,22 @@
       "duration_ms": 151072,
       "name": "Ordna sig",
       "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Above Love",
+        "url": "https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Above Love",
+      "url": "https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -855,26 +879,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Hils Din Mor (feat. Anne Linnet)",
-        "url": "https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe"
+        "name": "Som En Sol",
+        "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
       },
       "artists": [
         {
-          "name": "Freja Kirk",
-          "url": "https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG"
-        },
-        {
-          "name": "Silvana Imam",
-          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
-        },
-        {
-          "name": "Anne Linnet",
-          "url": "https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY"
+          "name": "Toxe",
+          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
         }
       ],
-      "duration_ms": 172998,
-      "name": "Hils Din Mor (feat. Anne Linnet)",
-      "url": "https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8"
+      "duration_ms": 175384,
+      "name": "Som En Sol",
+      "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -891,22 +907,6 @@
       "duration_ms": 177200,
       "name": "Flyttat d\u00e4rifr\u00e5n",
       "url": "https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Som En Sol",
-        "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
-      },
-      "artists": [
-        {
-          "name": "Toxe",
-          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Som En Sol",
-      "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Love Myself",
-        "url": "https://open.spotify.com/album/4r7m1oNgT25nPU1v0GTbAP"
-      },
-      "artists": [
-        {
-          "name": "Graham Lake",
-          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
-        }
-      ],
-      "duration_ms": 161474,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/6aKgsDfYyCS7LtkCPNelBg"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "My Hands In The Water",
         "url": "https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 276746,
       "name": "My Hands In The Water",
       "url": "https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Love Myself",
+        "url": "https://open.spotify.com/album/4r7m1oNgT25nPU1v0GTbAP"
+      },
+      "artists": [
+        {
+          "name": "Graham Lake",
+          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
+        }
+      ],
+      "duration_ms": 161474,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/6aKgsDfYyCS7LtkCPNelBg"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Might Destroy You",
+        "url": "https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe"
+      },
+      "artists": [
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Might Destroy You",
+      "url": "https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Pl\u00e5stret",
         "url": "https://open.spotify.com/album/68mz74xN3EE3nUKVvYevUq"
       },
@@ -1215,38 +1231,6 @@
       "duration_ms": 202776,
       "name": "Pl\u00e5stret",
       "url": "https://open.spotify.com/track/6Byvrc6ct2PIIQKEhmcVhF"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Babymoma",
-        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
-      },
-      "artists": [
-        {
-          "name": "Felix Sandman",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Babymoma",
-      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Alltid f\u00f6r alltid",
-        "url": "https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO"
-      },
-      "artists": [
-        {
-          "name": "Tiger",
-          "url": "https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ"
-        }
-      ],
-      "duration_ms": 200857,
-      "name": "Alltid f\u00f6r alltid",
-      "url": "https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1299,6 +1283,38 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Alltid f\u00f6r alltid",
+        "url": "https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO"
+      },
+      "artists": [
+        {
+          "name": "Tiger",
+          "url": "https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ"
+        }
+      ],
+      "duration_ms": 200857,
+      "name": "Alltid f\u00f6r alltid",
+      "url": "https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Babymoma",
+        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
+      },
+      "artists": [
+        {
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Babymoma",
+      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Slutscen",
         "url": "https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ"
       },
@@ -1311,54 +1327,6 @@
       "duration_ms": 187142,
       "name": "Tillbaka till Stockholm",
       "url": "https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "I HATE IT!",
-        "url": "https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82"
-      },
-      "artists": [
-        {
-          "name": "Hanna Mel",
-          "url": "https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8"
-        }
-      ],
-      "duration_ms": 178701,
-      "name": "I HATE IT!",
-      "url": "https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Hey Little Love",
-        "url": "https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Hey Little Love",
-      "url": "https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Waterworks",
-        "url": "https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cy",
-          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
-        }
-      ],
-      "duration_ms": 128920,
-      "name": "BeReal",
-      "url": "https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1379,6 +1347,54 @@
       "duration_ms": 284917,
       "name": "Till h\u00e4lften m\u00e4nniska, till h\u00e4lften moderat",
       "url": "https://open.spotify.com/track/6X1QmXwBadartUpzhUfgjS"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Hey Little Love",
+        "url": "https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Hey Little Love",
+      "url": "https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "I HATE IT!",
+        "url": "https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82"
+      },
+      "artists": [
+        {
+          "name": "Hanna Mel",
+          "url": "https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8"
+        }
+      ],
+      "duration_ms": 178701,
+      "name": "I HATE IT!",
+      "url": "https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Waterworks",
+        "url": "https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+        }
+      ],
+      "duration_ms": 128920,
+      "name": "BeReal",
+      "url": "https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1479,22 +1495,6 @@
       "duration_ms": 218666,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Might Destroy You",
-        "url": "https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe"
-      },
-      "artists": [
-        {
-          "name": "Hanne Mj\u00f8en",
-          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Might Destroy You",
-      "url": "https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Se p\u00e5 oss",
+        "url": "https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY"
+      },
+      "artists": [
+        {
+          "name": "Far\u00e5ker",
+          "url": "https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt"
+        }
+      ],
+      "duration_ms": 209327,
+      "name": "Se p\u00e5 oss",
+      "url": "https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Dance Melancholia",
         "url": "https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX"
       },
@@ -1623,6 +1639,26 @@
       "duration_ms": 202134,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "I Miss My Adidas",
+        "url": "https://open.spotify.com/album/3zj3iOABTpniQ7gpa69Ex4"
+      },
+      "artists": [
+        {
+          "name": "Gina Hannuksela",
+          "url": "https://open.spotify.com/artist/4UzbWXKuUlOMtrsUaVyQcs"
+        },
+        {
+          "name": "CharlyC",
+          "url": "https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "I Miss My Adidas",
+      "url": "https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1659,22 +1695,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Se p\u00e5 oss",
-        "url": "https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY"
-      },
-      "artists": [
-        {
-          "name": "Far\u00e5ker",
-          "url": "https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt"
-        }
-      ],
-      "duration_ms": 209327,
-      "name": "Se p\u00e5 oss",
-      "url": "https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "ALL OVER",
         "url": "https://open.spotify.com/album/0ufEl4mTVplg46TrT5owzB"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 223000,
       "name": "ALL OVER",
       "url": "https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "I Miss My Adidas",
-        "url": "https://open.spotify.com/album/3zj3iOABTpniQ7gpa69Ex4"
-      },
-      "artists": [
-        {
-          "name": "Gina Hannuksela",
-          "url": "https://open.spotify.com/artist/4UzbWXKuUlOMtrsUaVyQcs"
-        },
-        {
-          "name": "CharlyC",
-          "url": "https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "I Miss My Adidas",
-      "url": "https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lou",
+          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "NOSTALGI",
         "url": "https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 227739,
       "name": "Hayaku",
       "url": "https://open.spotify.com/track/4RAKxRPufWs8zWDsjslNBP"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V"
-      },
-      "artists": [
-        {
-          "name": "Lucky Lou",
-          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy"
     },
     {
       "added_at": "2024-08-08 22:00:00",

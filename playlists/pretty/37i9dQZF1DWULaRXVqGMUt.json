@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 52207,
+  "num_followers": 52218,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Boogie Woogie Country Man",
+        "url": "https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Boogie Woogie Country Man",
+      "url": "https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -159,6 +175,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Two-Fisted Mama!",
+        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
+      },
+      "artists": [
+        {
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "C.Q. Boogie",
+      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Piano Brotherhood (feat. Dani Gugolz, Peter M\u00fcller)",
         "url": "https://open.spotify.com/album/2CNgsFsRSxb6Yoo0PaRowl"
       },
@@ -183,38 +215,6 @@
       "duration_ms": 221626,
       "name": "Boogie Woogie Blues",
       "url": "https://open.spotify.com/track/3yJ1aTo6qNkCNfDHiQ2vfX"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Boogie Woogie Country Man",
-        "url": "https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Boogie Woogie Country Man",
-      "url": "https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Two-Fisted Mama!",
-        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
-      },
-      "artists": [
-        {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "C.Q. Boogie",
-      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Blues On The Prowl",
-        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 217720,
-      "name": "Booker's Boogie",
-      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 179893,
       "name": "Down The Road Apiece",
       "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Blues On The Prowl",
+        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Booker's Boogie",
+      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "New Way",
-        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
-      },
-      "artists": [
-        {
-          "name": "Luca Sestak",
-          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
-        }
-      ],
-      "duration_ms": 332400,
-      "name": "Laci's Boogie",
-      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "The Very Best Of Boogie Woogie",
         "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 162600,
       "name": "Boogie Woogie Man",
       "url": "https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "New Way",
+        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
+      },
+      "artists": [
+        {
+          "name": "Luca Sestak",
+          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
+        }
+      ],
+      "duration_ms": 332400,
+      "name": "Laci's Boogie",
+      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 238315,
-      "name": "Mac's Boogie",
-      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Let's Have A Party! (The Aladdin Recordings)",
         "url": "https://open.spotify.com/album/7iDour2LtChLy6IyUYD6JF"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 167786,
       "name": "Let Me Go Home Whiskey",
       "url": "https://open.spotify.com/track/33343QHpDEcf022acPZMw8"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 238315,
+      "name": "Mac's Boogie",
+      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Boogie Woogie Kid",
+        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+      },
+      "artists": [
+        {
+          "name": "Boogie Woogie Kid",
+          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Five Stacked High",
+      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -619,18 +635,26 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
       },
       "artists": [
         {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+          "name": "Ella Mae Morse",
+          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
+        },
+        {
+          "name": "Freddie Slack And His Orchestra",
+          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
+        },
+        {
+          "name": "Don Raye",
+          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Five Stacked High",
-      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
+      "duration_ms": 173293,
+      "name": "The House of Blue Lights",
+      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -667,26 +691,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
+        "name": "Cincinnati Stomp",
+        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
       },
       "artists": [
         {
-          "name": "Ella Mae Morse",
-          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
-        },
-        {
-          "name": "Freddie Slack And His Orchestra",
-          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
-        },
-        {
-          "name": "Don Raye",
-          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
+          "name": "Big Joe Duskin",
+          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
         }
       ],
-      "duration_ms": 173293,
-      "name": "The House of Blue Lights",
-      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
+      "duration_ms": 146066,
+      "name": "Dollar Bill Boogie",
+      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -707,22 +723,6 @@
       "duration_ms": 170040,
       "name": "Rocket Boogie \"88\" (Pt. 1)",
       "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Cincinnati Stomp",
-        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Duskin",
-          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "Dollar Bill Boogie",
-      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Flip, Flop And Fly 1951-1955",
+        "url": "https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "The Boogie Woogie Trio vol. 1",
         "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 115582,
       "name": "Quarter Bass Boogie",
       "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Flip, Flop And Fly 1951-1955",
-        "url": "https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM"
     },
     {
       "added_at": "2024-05-30 16:27:59",

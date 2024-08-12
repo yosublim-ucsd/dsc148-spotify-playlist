@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,019 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,023 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 | 33 | [Find Yourself](https://open.spotify.com/track/2i1KtcXyO29XedKX8JTC5w) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 4:09 |
 | 34 | [グラデュエーション](https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:56 |
 | 35 | [I'll Be There](https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 4:37 |
-| 36 | [143 \(Kelly's Song\)](https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 4:26 |
-| 37 | [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 |
+| 36 | [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 |
+| 37 | [143 \(Kelly's Song\)](https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 4:26 |
 | 38 | [フラガール](https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:44 |
 | 39 | [Happy Day](https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj) | [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Time For Three](https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF) | 3:59 |
 | 40 | [Hula Girl\(LIVE\)](https://open.spotify.com/track/19nr74Chrn65xHbdmDfInV) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:27 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 | 42 | [ブリーズ \- Solo](https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:41 |
 | 43 | [一期一会](https://open.spotify.com/track/4WAHtGtBYeHgo0pRkZBKvI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [YEAH.](https://open.spotify.com/album/4chfGXfXVl3RxJykwNNxIC) | 5:10 |
 | 44 | [NADA SOUSOU\(LIVE\)](https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:52 |
-| 45 | [アイス・クリーム](https://open.spotify.com/track/3gGxkaGQL44CQbqRqUe1cH) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 4:06 |
+| 45 | [ザ・ダンス](https://open.spotify.com/track/5cSeRkCQaQ7ByIse0QmYfc) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:33 |
 | 46 | [ウィッシュ・オン・マイ・スター \- Solo](https://open.spotify.com/track/0ALdiZoLjRAuLjvvIygb6k) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:49 |
-| 47 | [ザ・ダンス](https://open.spotify.com/track/5cSeRkCQaQ7ByIse0QmYfc) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:33 |
+| 47 | [アイス・クリーム](https://open.spotify.com/track/3gGxkaGQL44CQbqRqUe1cH) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 4:06 |
 | 48 | [Oama](https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:59 |
 | 49 | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK) | 4:20 |
 | 50 | [ホワイル・マイ・ギター・ジェントリー・ウィープス \- Solo](https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:06 |
 | 51 | [Celtic Tune](https://open.spotify.com/track/7oR07ngXeGVfsQihGsaHd6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nashville Sessions](https://open.spotify.com/album/0BOfytlIqA5WlJNcNN5J5o) | 2:22 |
 
-Snapshot ID: `ZrVcAAAAAACahYLQHdeG17WIvxo30rMa`
+Snapshot ID: `ZratgAAAAABoO9+YMaPit8IU+iwlJeAE`

@@ -7980,7 +7980,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 199951,
       "name": "Her Melodie - Edit",
       "url": "https://open.spotify.com/track/0QtkgwXj1KZC3FZlsDgILh"
@@ -8002,6 +8002,24 @@
       "duration_ms": 221250,
       "name": "Here 4 U",
       "url": "https://open.spotify.com/track/5CW6pxSxI4DLSf6VgtluVA"
+    },
+    {
+      "album": {
+        "name": "Here I Am",
+        "url": "https://open.spotify.com/album/3kQD69BPkZRFy4MIssW54j"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187534,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/6GH9l0byJ9UTc3BqUtesNP"
     },
     {
       "album": {

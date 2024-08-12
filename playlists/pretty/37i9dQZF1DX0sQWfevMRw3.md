@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > EFTERFEST PÅ MIN BALKONG!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,245 likes - 98 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,278 likes - 98 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

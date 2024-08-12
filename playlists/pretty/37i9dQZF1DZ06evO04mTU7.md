@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 ### [This Is Ajuliacosta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04mTU7)
 
-> This is Ajuliacosta\. The essential tracks, all in one playlist.
+> This is Ajuliacosta\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,255 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,269 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Set Ajc 2](https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Set Ajc 2](https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm) | 4:25 |
-| 2 | [Eles Me Odeiam](https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [SEMRÉH \(FINAL SPRINT\)](https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9) | 3:07 |
+| 1 | [Eles Me Odeiam](https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [SEMRÉH \(FINAL SPRINT\)](https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9) | 3:07 |
+| 2 | [Set Ajc 2](https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Set Ajc 2](https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm) | 4:25 |
 | 3 | [Você Parece Com Vergonha](https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Você Parece Com Vergonha](https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy) | 3:03 |
 | 4 | [Poetisas no Topo 3](https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Sodomita](https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr) | [Poetisas no Topo 3](https://open.spotify.com/album/59B1Leein60p2cEODo6OHl) | 6:14 |
 | 5 | [3AM \(PXT4 RASA\) \- Remix](https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [3AM \(PXT4 RASA\) \[Remix\]](https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r) | 2:02 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 29 | [Aju](https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:33 |
 | 30 | [Brutas Também Choram](https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:02 |
 
-Snapshot ID: `ZrVcAAAAAAA7zSoT3kLh/6l4xx8jmjdm`
+Snapshot ID: `ZratgAAAAABHEL+MqLuJHuKjQ2xhcbsL`

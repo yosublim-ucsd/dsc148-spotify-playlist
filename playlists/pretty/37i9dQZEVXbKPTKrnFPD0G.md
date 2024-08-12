@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,541 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,569 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 4 | [UN SIGLO SIN TI](https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [UN SIGLO SIN TI](https://open.spotify.com/album/4SoT5hvuP9LLXZM2QuV2Pz) | 2:34 |
 | 5 | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8) | 3:38 |
 | 6 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
-| 7 | [TERAPIA DE CHOQUE](https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TERAPIA DE CHOQUE](https://open.spotify.com/album/1iyOjIeFTikF2Tr5nqhGNc) | 2:44 |
+| 7 | [Terapia de Choque \- Remix](https://open.spotify.com/track/4Fjwt9hDxbVHQcEU8vzL3x) | [La Fiesta DJs](https://open.spotify.com/artist/7dE37G6rw3R7ZTRrmYk3xH) | [Terapia de Choque \- Remix](https://open.spotify.com/album/4mx6q9Cpgok2XR68owog2k) | 2:49 |
 | 8 | [Tu Foto \- En Vivo](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 |
 | 9 | [SAN TURRONA](https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [SAN TURRONA](https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd) | 2:04 |
 | 10 | [QUE ME FALTE TODO](https://open.spotify.com/track/1TyBUtMxdmRfXhW3MmbxtQ) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:45 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 34 | [30 Grados](https://open.spotify.com/track/6IRRoV7AbjHT8JWP4uFrD5) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [30 Grados](https://open.spotify.com/album/60gvJYHZGLyxwiZSlETv56) | 2:31 |
 | 35 | [Ese Maldito Momento](https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:05 |
 | 36 | [Mil Preguntas](https://open.spotify.com/track/4YntVuBqggRsASIbBoWT3F) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Mil Preguntas](https://open.spotify.com/album/5ougKjEm8bDDKJQSEsWSSR) | 2:57 |
-| 37 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 |
+| 37 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
 | 38 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 39 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 |
 | 40 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP) | 2:35 |
 | 50 | [Por Mil Noches](https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/7GqNN5mgkE38TFBjU8vKCd) | 4:43 |
 
-Snapshot ID: `LkrVSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LkwkcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

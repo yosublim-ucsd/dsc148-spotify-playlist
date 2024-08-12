@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Danielle Bradbery",
-  "num_followers": 200075,
+  "num_followers": 200225,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -627,42 +627,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Memory",
-        "url": "https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 153337,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "This Is the Heavy",
-        "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "We Got History",
-      "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -683,6 +647,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "This Is the Heavy",
+        "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "We Got History",
+      "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Dancin' In The Country",
         "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
       },
@@ -699,6 +679,26 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 153337,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Rolling Up the Welcome Mat",
         "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
@@ -711,6 +711,26 @@
       "duration_ms": 170906,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Texas (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Texas (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -735,26 +755,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
-        "url": "https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 165619,
-      "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
-      "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Whiskey Blues",
         "url": "https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y"
       },
@@ -771,22 +771,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Texas (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
+        "url": "https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         },
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Texas (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
+      "duration_ms": 165619,
+      "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
+      "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Wind Up Missin' You",
-        "url": "https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG"
-      },
-      "artists": [
-        {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "Wind Up Missin' You",
-      "url": "https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Glad You Exist",
         "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 144533,
       "name": "Glad You Exist",
       "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Wind Up Missin' You",
+        "url": "https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "Wind Up Missin' You",
+      "url": "https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "Steal My Love",
+      "url": "https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Good Beer",
         "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
       },
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 162120,
-      "name": "Steal My Love",
-      "url": "https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Home Sweet",
         "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
       },
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil (Deluxe)",
+        "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "duration_ms": 150909,
+      "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Date Night (feat. Morgan Evans)",
         "url": "https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN"
       },
@@ -1667,26 +1687,6 @@
       "duration_ms": 207800,
       "name": "Nothing Compares To You (Feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil (Deluxe)",
-        "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        }
-      ],
-      "duration_ms": 150909,
-      "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
-      "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1759,26 +1759,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "HIXTAPE: Vol. 1",
-        "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
+        "name": "Praise The Lord (feat. Thomas Rhett)",
+        "url": "https://open.spotify.com/album/19IBYeeXLti2wekxA8913l"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         },
         {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        },
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 173173,
-      "name": "ONE BEER",
-      "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
+      "duration_ms": 160289,
+      "name": "Praise the Lord (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U"
     }
   ],
   "unique_name": "Pop Country",

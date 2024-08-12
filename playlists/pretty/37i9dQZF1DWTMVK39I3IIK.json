@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik\ud83d\udd2a Dos Santos p\u00e5 coveret",
-  "num_followers": 23365,
+  "num_followers": 23368,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
-        "name": "Smelter Under M\u00e5nen",
-        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 198388,
-      "name": "Smelter Under M\u00e5nen",
-      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
         "name": "Halsk\u00e6de",
         "url": "https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 157373,
       "name": "Halsk\u00e6de",
       "url": "https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
+        "name": "Smelter Under M\u00e5nen",
+        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 198388,
+      "name": "Smelter Under M\u00e5nen",
+      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
     },
     {
       "added_at": "2024-08-09 08:11:03",
@@ -243,38 +243,6 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
-        "name": "Under Din Sne",
-        "url": "https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 264335,
-      "name": "Under Din Sne",
-      "url": "https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
-        "name": "Til Solen Er Sort",
-        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 224175,
-      "name": "Til Solen Er Sort",
-      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
         "name": "Dans I Morgen",
         "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
       },
@@ -311,6 +279,38 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
+        "name": "Under Din Sne",
+        "url": "https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 264335,
+      "name": "Under Din Sne",
+      "url": "https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
+        "name": "Til Solen Er Sort",
+        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 224175,
+      "name": "Til Solen Er Sort",
+      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
         "name": "Jaloux",
         "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 227698,
       "name": "Det er din k\u00e6rlighed",
       "url": "https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2024-08-09 08:11:03",
@@ -411,18 +395,18 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
-        "name": "Elendig Software",
-        "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
       },
       "artists": [
         {
-          "name": "Zar Paulo",
-          "url": "https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 243312,
-      "name": "T\u00e6t P\u00e5 Paradis",
-      "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2024-08-09 08:11:03",
@@ -439,6 +423,22 @@
       "duration_ms": 199930,
       "name": "Det\u00b4 kun vigtigt, hvad det er",
       "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
+        "name": "Elendig Software",
+        "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
+      },
+      "artists": [
+        {
+          "name": "Zar Paulo",
+          "url": "https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2"
+        }
+      ],
+      "duration_ms": 243312,
+      "name": "T\u00e6t P\u00e5 Paradis",
+      "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
     },
     {
       "added_at": "2024-08-09 08:11:03",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
+        "name": "Dem, Vi Plejede At V\u00e6re",
+        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 188460,
+      "name": "Br\u00e6nder Stadig",
+      "url": "https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
         "name": "1000 H\u00e6nder",
         "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
       },
@@ -543,18 +559,18 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
-        "name": "Dem, Vi Plejede At V\u00e6re",
-        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
+        "name": "SHE-REX",
+        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
       "artists": [
         {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
         }
       ],
-      "duration_ms": 188460,
-      "name": "Br\u00e6nder Stadig",
-      "url": "https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf"
+      "duration_ms": 232465,
+      "name": "promise to pick up the phone",
+      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
     },
     {
       "added_at": "2024-08-09 08:11:03",
@@ -591,22 +607,6 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 232465,
-      "name": "promise to pick up the phone",
-      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
         "name": "ENGLE & BLAA MAERKER",
         "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
-        "name": "K\u00e6rligheden Vinder",
-        "url": "https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 212589,
-      "name": "K\u00e6rligheden Vinder",
-      "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 185729,
       "name": "The Game",
       "url": "https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
+        "name": "K\u00e6rligheden Vinder",
+        "url": "https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt"
+      },
+      "artists": [
+        {
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+        }
+      ],
+      "duration_ms": 212589,
+      "name": "K\u00e6rligheden Vinder",
+      "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
     },
     {
       "added_at": "2024-08-09 08:11:03",
@@ -739,6 +739,38 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
+        "name": "grib mig hvis jeg falder",
+        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
+      },
+      "artists": [
+        {
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+        }
+      ],
+      "duration_ms": 193981,
+      "name": "Gennemsku Mig Nu",
+      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
+        "name": "Dopa min",
+        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "duration_ms": 161911,
+      "name": "Dopa min",
+      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
         "name": "</3",
         "url": "https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq"
       },
@@ -755,22 +787,6 @@
       "duration_ms": 203218,
       "name": "Til Mit Hjerte Stopper (feat. Kundo)",
       "url": "https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
-        "name": "grib mig hvis jeg falder",
-        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
-      },
-      "artists": [
-        {
-          "name": "KALASET",
-          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
-        }
-      ],
-      "duration_ms": 193981,
-      "name": "Gennemsku Mig Nu",
-      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
     },
     {
       "added_at": "2024-08-09 08:11:03",
@@ -795,22 +811,6 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
-        "name": "Dopa min",
-        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 161911,
-      "name": "Dopa min",
-      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
         "name": "ENDORFINER (JEG VIL IKKE VIDE DU FINDES)",
         "url": "https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg"
       },
@@ -823,38 +823,6 @@
       "duration_ms": 188408,
       "name": "ENDORFINER",
       "url": "https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
-        "name": "Lander Et Sted",
-        "url": "https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
-        }
-      ],
-      "duration_ms": 173508,
-      "name": "Lander Et Sted",
-      "url": "https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
-        "name": "Ung & Smuk",
-        "url": "https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 160974,
-      "name": "Ung & Smuk",
-      "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
     },
     {
       "added_at": "2024-08-09 08:11:03",
@@ -875,6 +843,22 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
+        "name": "Lander Et Sted",
+        "url": "https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
+        }
+      ],
+      "duration_ms": 173508,
+      "name": "Lander Et Sted",
+      "url": "https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
         "name": "Lyden Af Livet",
         "url": "https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 230125,
       "name": "Lyden Af Livet",
       "url": "https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
+        "name": "Ung & Smuk",
+        "url": "https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3"
+      },
+      "artists": [
+        {
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+        }
+      ],
+      "duration_ms": 160974,
+      "name": "Ung & Smuk",
+      "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
     },
     {
       "added_at": "2024-08-09 08:11:03",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
-        }
-      ],
-      "duration_ms": 169783,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
         "name": "Ny Og N\u00e6",
         "url": "https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 191437,
       "name": "Ny Og N\u00e6",
       "url": "https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
+        }
+      ],
+      "duration_ms": 169783,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH"
     },
     {
       "added_at": "2024-08-09 08:11:03",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-08-09 08:11:03",
       "album": {
-        "name": "Piratradio",
-        "url": "https://open.spotify.com/album/355gSMNGokAKgdynsIfQ43"
-      },
-      "artists": [
-        {
-          "name": "Elsked",
-          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Kemisk",
-      "url": "https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt"
-    },
-    {
-      "added_at": "2024-08-09 08:11:03",
-      "album": {
         "name": "Bedre",
         "url": "https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 204000,
       "name": "Noget For Nogen",
       "url": "https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT"
+    },
+    {
+      "added_at": "2024-08-09 08:11:03",
+      "album": {
+        "name": "Piratradio",
+        "url": "https://open.spotify.com/album/355gSMNGokAKgdynsIfQ43"
+      },
+      "artists": [
+        {
+          "name": "Elsked",
+          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Kemisk",
+      "url": "https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt"
     }
   ],
   "unique_name": "ung kniv ",

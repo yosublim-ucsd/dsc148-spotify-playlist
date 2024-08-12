@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1402194,
+  "num_followers": 1402312,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAADa9NaT5FirB86hyGVdg0Jg",
+  "snapshot_id": "ZratgAAAAAAl73grf8oDwd6UxWWs2Q/9",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "Titanium (feat. Sia)",
-      "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Icarus Falls",
         "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 239000,
       "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
       "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Titanium (feat. Sia)",
+      "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
     },
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "She Wolf (Falling to Pieces) [feat. Sia]",
-      "url": "https://open.spotify.com/track/1SgdUjvppHnIp6L7DZSnwc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 172246,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "She Wolf (Falling to Pieces) [feat. Sia]",
+      "url": "https://open.spotify.com/track/1SgdUjvppHnIp6L7DZSnwc"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Bird Set Free",
-      "url": "https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 338279,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Bird Set Free",
+      "url": "https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 205207,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Marshall Mathers LP2 (Deluxe)",
         "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
       },
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
       },
       "artists": [
         {
@@ -768,9 +752,9 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 210613,
-      "name": "Big Girls Cry",
-      "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
+      "duration_ms": 205207,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 177800,
       "name": "Floating Through Space",
       "url": "https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Big Girls Cry",
+      "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
     },
     {
       "added_at": null,
@@ -827,6 +827,30 @@
       "duration_ms": 136946,
       "name": "Muddy Feet (feat. Sia)",
       "url": "https://open.spotify.com/track/6QSR2OrZOICOXfFB5Wswt1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Again",
+        "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Bang My Head (feat. Sia & Fetty Wap)",
+      "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
     },
     {
       "added_at": null,
@@ -887,30 +911,6 @@
       "duration_ms": 198920,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/4ZK786lHXz8nZ8NwODGc6L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen Again",
-        "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Bang My Head (feat. Sia & Fetty Wap)",
-      "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
     },
     {
       "added_at": null,

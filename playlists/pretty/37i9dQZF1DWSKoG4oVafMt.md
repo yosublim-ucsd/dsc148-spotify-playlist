@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,021 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,090 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 12 | [Tu](https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Tu](https://open.spotify.com/album/7JWCWWOkIr1AFB7jxjRgQ9) | 2:12 |
 | 13 | [IDK HOW](https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 2:55 |
 | 14 | [Fear of Love](https://open.spotify.com/track/3ijYvTY2qRlaiAn6LMmabp) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Shraddha Patray](https://open.spotify.com/artist/19L69xME7li2nHPJBGbvKg), [Prince 810](https://open.spotify.com/artist/5L9ygnSgy5W0Is4m8iRTM1) | [Fear of Love](https://open.spotify.com/album/1NgFiNTVtkJxYsdH9J7j95) | 3:19 |
-| 15 | [Duur Na Karin \(From "Khel Khel Mein"\)](https://open.spotify.com/track/3bCIiDZn3wpwRWYdKvnSdW) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Duur Na Karin \(From "Khel Khel Mein"\)](https://open.spotify.com/album/5fOT2byqgf4rPp1UXOYHym) | 3:35 |
+| 15 | [Duur Na Karin \(From "Khel Khel Mein"\)](https://open.spotify.com/track/3bCIiDZn3wpwRWYdKvnSdW) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Duur Na Karin \(From "Khel Khel Mein"\)](https://open.spotify.com/album/5fOT2byqgf4rPp1UXOYHym) | 3:35 |
 | 16 | [Mug Shots](https://open.spotify.com/track/2pSLDrKB0bc7QF09WBKwmi) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [MIXBYDOLCE](https://open.spotify.com/artist/4tcqUfUJ97wTStbNVYK9ul) | [Mug Shots](https://open.spotify.com/album/7dVfseIDNJ4uqVKpvTz3eU) | 2:29 |
 | 17 | [Tu Jo Mileya](https://open.spotify.com/track/40EeTvfmNYoXbY2iyWC542) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Tu Jo Mileya](https://open.spotify.com/album/3k6gm4SfQtgCPhunnsJTKz) | 2:38 |
 | 18 | [Chorni](https://open.spotify.com/track/0E5ZAOPHtBvDVJ7FwQHo9p) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:18 |

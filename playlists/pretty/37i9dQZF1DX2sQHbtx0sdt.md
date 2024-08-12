@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Hanumankind 🇮🇳
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,553 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,756 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 10 | [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 |
 | 11 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 |
 | 12 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Mr Reload It](https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 |
-| 13 | [MOZZA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Stage 1: Denial](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 2:28 |
+| 13 | [MOZZA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 2:28 |
 | 14 | [gen z luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [gen z luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
 | 15 | [Mehndi](https://open.spotify.com/track/7El9mpOjyn5bdHRZTZ2deR) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [East to West](https://open.spotify.com/album/3aUaSqIu0FdVJj9QwaTD0N) | 2:27 |
 | 16 | [WYA](https://open.spotify.com/track/0pWe6arB3oGxI8msYHObbA) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [WYA](https://open.spotify.com/album/7I5lABeFEjFJcdgrVltGr7) | 2:16 |

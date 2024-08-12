@@ -4,7 +4,7 @@
 
 > Get in the zone with these current jams!
 
-733 songs - 1 day 13 hr 35 min
+734 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-06-30 | 2023-07-29 |
 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 | 2021-12-17 |  |
 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 |  |
+| [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-09 |  |
 | [curita](https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [curita](https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ) | 2:25 | 2024-03-08 | 2024-05-25 |
 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 | 2024-06-21 | 2024-08-07 |
 | [Damn It Feels Good To Be Me](https://open.spotify.com/track/3LymIBUSWRoxxm7W5UQlXl) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Damn It Feels Good To Be Me](https://open.spotify.com/album/4gi9J69znig8ZUb9OhdUCs) | 2:18 | 2021-12-17 | 2022-06-16 |
@@ -437,7 +438,7 @@
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-06-14 | 2024-06-22 |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-05-13 | 2022-11-13 |
 | [Me Myself & I](https://open.spotify.com/track/78Qk1m8zbvvvrmWH2M1yxT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:57 | 2022-11-22 | 2023-05-06 |
-| [Melt](https://open.spotify.com/track/65OuiV65csFjciXDCRmWir) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Melt](https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm) | 3:32 | 2024-06-28 |  |
+| [Melt](https://open.spotify.com/track/65OuiV65csFjciXDCRmWir) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Melt](https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm) | 3:32 | 2024-06-28 | 2024-08-12 |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-06-16 | 2023-08-05 |
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-04-28 | 2023-06-18 |
 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 | 2022-03-25 | 2022-04-21 |

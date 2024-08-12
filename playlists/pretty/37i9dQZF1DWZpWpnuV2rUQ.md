@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,485 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,512 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

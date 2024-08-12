@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,370 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,377 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Paraíso](https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Paraíso](https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt) | 2:43 |
 | 50 | [Cavalgada](https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Cavalgada](https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ) | 2:01 |
 
-Snapshot ID: `ZrVcAAAAAABFAdoiyok97CI3J9N8z9h9`
+Snapshot ID: `ZratgAAAAAAUDj+F8ENdKB0ZB8pM4VtH`

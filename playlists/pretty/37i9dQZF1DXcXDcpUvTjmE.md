@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,769 likes - 68 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,778 likes - 68 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 26 | [Scary Good \- From "Vampirina"](https://open.spotify.com/track/5pzBPsAvmrAkchXgMonnk8) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music Halloween Party](https://open.spotify.com/album/3awlLv7HZZb7ybbuunC8r9) | 1:05 |
 | 27 | [Exploration \(Coraline\) \[feat\. Julia K\]](https://open.spotify.com/track/24AX9XecMUvVKzQjir6Xpl) | [Amy Turk](https://open.spotify.com/artist/69EWJ8UVSlytt27VsEsQAw), [Julia K](https://open.spotify.com/artist/6loVeBatIksL5ZkGD1i4So) | [Exploration \(Coraline\) \[feat\. Julia K\]](https://open.spotify.com/album/6F97IrZ8PASCkKyzJD3TAj) | 2:02 |
 | 28 | [Listos Ya](https://open.spotify.com/track/3bO3rmXC6Phq5sDO68DzE0) | [Carlos Petrel](https://open.spotify.com/artist/6GRpQSfSpLhn3eOQJupFTf), [Rosanelda Aguirre](https://open.spotify.com/artist/6kz1gH0PaYV0zvTsph9l5U), [Jesús Barrero](https://open.spotify.com/artist/54CJwyIvWPWGYULtfow9tW) | [El Rey León \(Edición Especial\)](https://open.spotify.com/album/6IIvkElgulAfbEy4H9edjw) | 3:38 |
-| 29 | [Ghostbusters](https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \[2016\]](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 4:05 |
+| 29 | [Ghostbusters](https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \- 2016](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 4:05 |
 | 30 | [El Vampiro Manolo](https://open.spotify.com/track/4j9Sjsj04Vkwfy3GazKtMb) | [Billy Boom Band](https://open.spotify.com/artist/1ScDhsYvIByaTyeOMfPQNE) | [Sueña Despierto](https://open.spotify.com/album/56G9wuuD9UH9hH9KuFB2tb) | 4:27 |
 | 31 | [Hauntleyween \- From "Vampirina"](https://open.spotify.com/track/60Nl4HhnIWzY8F9KjglRhN) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music Halloween Party](https://open.spotify.com/album/3awlLv7HZZb7ybbuunC8r9) | 1:00 |
 | 32 | [Arwrarwrirwrarwro \- Bombi](https://open.spotify.com/track/52sBVHcmAvQ2ng79ZImC1q) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/3lhrBqbQbfPx4aMfP0pbkK) | 2:29 |

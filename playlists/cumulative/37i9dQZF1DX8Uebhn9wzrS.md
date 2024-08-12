@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,022 songs - 3 day 5 hr 2 min
+2,024 songs - 3 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Backdrop](https://open.spotify.com/track/5fqDXVrqZRCtyOVFQBONc6) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Outer](https://open.spotify.com/album/3HhrVvPGMBPZxBZYhfCQzn) | 2:29 | 2022-05-27 | 2022-11-12 |
 | [Backwards](https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W) | [Lazy Lama](https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ) | [Backwards](https://open.spotify.com/album/4uRWNT5GJ4dq1Nym8N1uFN) | 2:42 | 2023-08-17 |  |
 | [bad checks](https://open.spotify.com/track/02aGT8vsA26xHDNLkvhN50) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [bad checks](https://open.spotify.com/album/6ha63yZVl5uhEIlCAVSHUg) | 1:48 | 2022-10-28 | 2023-03-25 |
+| [BAGS](https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ) | [Seame](https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU) | [BAGS](https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52) | 2:21 | 2024-08-09 |  |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-08 |  |
 | [Ballin](https://open.spotify.com/track/5wkhCoKLTfmGzpOxj2xGSo) | [Meet$](https://open.spotify.com/artist/2HxYou8ZSMwWRYB1bZaL0K), [lofi boyz](https://open.spotify.com/artist/4MGcmCTE0ifSg3In5uyD1u) | [Ballin](https://open.spotify.com/album/5YJYSDXsFhzbNQU29VMHVO) | 2:12 | 2022-04-15 | 2022-12-03 |
 | [Balloon](https://open.spotify.com/track/2SVXLCEy97fwoUK43FGdC2) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Balloon](https://open.spotify.com/album/3m7TO5D8LgZi7r8intoakb) | 1:34 | 2023-06-06 | 2024-05-18 |
@@ -271,6 +272,7 @@
 | [Cameleon](https://open.spotify.com/track/2z9CyOsKP6VkZAh32ERYSz) | [JIMI O’HARA](https://open.spotify.com/artist/4ZjTiyXDnLJmJRmaxg5sFQ) | [CAMOUFLAGE](https://open.spotify.com/album/4QGUYHCw96ZtEKTWOlDj1i) | 1:55 | 2022-04-15 | 2022-06-25 |
 | [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 | 2023-10-27 |  |
 | [camping trip](https://open.spotify.com/track/1SadNNfKugUYlaXTZO9g7c) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [camping trip](https://open.spotify.com/album/3lnVeBLRm0cAmHwiAZt5yI) | 2:39 | 2024-01-19 |  |
+| [Can't Stop](https://open.spotify.com/track/4UWgHP5mf1Bp1oguCvOG7n) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Can't Stop](https://open.spotify.com/album/1VlRVqoTU5iPWpqtVlti60) | 2:10 | 2024-08-09 |  |
 | [Candor](https://open.spotify.com/track/1nTCeX3GsGLyh9TQtQpbOl) | [Sileon](https://open.spotify.com/artist/0wmKKwWn8zNrBnRpOkvcSH) | [Zone](https://open.spotify.com/album/2XiYnl7gqdERJbJcMR8bl9) | 1:58 | 2022-04-15 | 2022-05-13 |
 | [Candy Clouds](https://open.spotify.com/track/0Z4O3yTtmqdLXzCxSX9XPt) | [Airship River](https://open.spotify.com/artist/6v5wK0vEKyLP05vV9dvly6) | [Lemo](https://open.spotify.com/album/0rA6rd8ashXD1xaAQkbZRI) | 3:12 | 2022-04-15 | 2022-09-23 |
 | [Candy Shop](https://open.spotify.com/track/5qq7KECX28pBbnR1h938jV) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Candy Shop](https://open.spotify.com/album/4MLe2toeIB8t3RiYcTUJ1t) | 2:19 | 2022-04-22 | 2024-05-14 |
@@ -1076,7 +1078,7 @@
 | [matcha latte](https://open.spotify.com/track/2GjPR5XcxmzIBkzGen3BMO) | [Class Klown](https://open.spotify.com/artist/6PUoOVrUeJn9d65VoXghgd) | [matcha latte](https://open.spotify.com/album/3rfSyh5x2FO3eqyoC4tohR) | 3:25 | 2023-11-17 |  |
 | [Matter](https://open.spotify.com/track/3HuDqJGKJA8ahPtlBes06z) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [Matter](https://open.spotify.com/album/0iAQ4hyyLoQYQ6PtzORG09) | 2:19 | 2022-12-16 | 2023-08-18 |
 | [Maya](https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Niña](https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2) | 2:02 | 2022-09-16 | 2023-01-07 |
-| [maybe or maybe](https://open.spotify.com/track/1GRBea14szlPf66aUR1Yaz) | [Meringuemanic](https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn) | [maybe or maybe](https://open.spotify.com/album/2mmMqObElCavRETBc3NGVg) | 2:08 | 2023-01-06 |  |
+| [maybe or maybe](https://open.spotify.com/track/1GRBea14szlPf66aUR1Yaz) | [Meringuemanic](https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn) | [maybe or maybe](https://open.spotify.com/album/2mmMqObElCavRETBc3NGVg) | 2:08 | 2023-01-06 | 2024-08-12 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 | 2022-04-15 | 2022-05-13 |
 | [Meadow](https://open.spotify.com/track/7Fqob7QxvquyjU27F0v3DL) | [fickle fool](https://open.spotify.com/artist/2FTGZQUnPiR0EqCJb3PEBK) | [Meadow](https://open.spotify.com/album/7dijB1jb8GJaT8C4rkgz81) | 1:58 | 2022-07-15 | 2023-01-13 |
 | [Meadow](https://open.spotify.com/track/456sBaOMMyVzIexMVyd1UP) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Meadow](https://open.spotify.com/album/0XWPqJT49KK33sv9QiN4Q4) | 2:35 | 2022-07-01 | 2022-11-26 |
@@ -1498,7 +1500,7 @@
 | [Rutine](https://open.spotify.com/track/1rfz8agfjrpNkMYbtLPvoU) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Rutine](https://open.spotify.com/album/1FEtSRDR2Gm5Jw0dqgCBab) | 1:33 | 2022-12-02 | 2023-09-16 |
 | [Sad Resentment](https://open.spotify.com/track/4azrL9oyS2uhiLXkP6nC6R) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Sad Resentment](https://open.spotify.com/album/6oqyQ9hEFtNK7QOxOL2FyR) | 2:36 | 2022-04-15 | 2022-10-01 |
 | [Safe In This Place](https://open.spotify.com/track/11yf3OWkbIm6YoTI64jSgg) | [relax bass hunter](https://open.spotify.com/artist/3lMMb0zp3LvloWspXX1DCQ) | [Wave Story](https://open.spotify.com/album/11tKeLS5ezVCCp9ibNtkf8) | 1:38 | 2022-04-15 | 2023-08-18 |
-| [Safety](https://open.spotify.com/track/2sH1SgochD5ojGRiKeXVR1) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Safety](https://open.spotify.com/album/6KFiLNXIzRmIF8qOwkAyqa) | 1:54 | 2024-04-26 |  |
+| [Safety](https://open.spotify.com/track/2sH1SgochD5ojGRiKeXVR1) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Safety](https://open.spotify.com/album/6KFiLNXIzRmIF8qOwkAyqa) | 1:54 | 2024-04-26 | 2024-08-12 |
 | [Sail](https://open.spotify.com/track/2UoBC0BW1IAylLqjoFcb8X) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Etherealplcs](https://open.spotify.com/artist/0Xw0uyIbAWD1B7RZdUGHl7) | [Sail](https://open.spotify.com/album/39oKw9IrGpEpBmDT0HOZDE) | 2:36 | 2022-06-24 | 2022-11-20 |
 | [Sail](https://open.spotify.com/track/5KImYDn0L8ugwoSbyxtBxy) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Etherealplcs](https://open.spotify.com/artist/0Xw0uyIbAWD1B7RZdUGHl7) | [Sail](https://open.spotify.com/album/0GrzxYkpyYvmlYiuZW3Sob) | 2:36 | 2022-11-18 | 2022-11-26 |
 | [Sailing](https://open.spotify.com/track/5QsGleCZwHTKv5skFISkV7) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Sailing](https://open.spotify.com/album/2qerwyKXdsGZaXjvVjlpvi) | 1:58 | 2022-06-24 | 2022-11-26 |

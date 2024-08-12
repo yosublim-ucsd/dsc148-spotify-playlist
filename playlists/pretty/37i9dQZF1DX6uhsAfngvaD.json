@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 309353,
+  "num_followers": 309378,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 160700,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
     },
     {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "Flying Wig",
-        "url": "https://open.spotify.com/album/7vvTyj4ORSliWgfqdBspYp"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 268659,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/46JwWkm9rEycvh5mI4lpCx"
-    },
-    {
       "added_at": "2024-02-21 11:35:46",
       "album": {
         "name": "baby's out of luck again",
@@ -629,20 +613,20 @@
       "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
     },
     {
-      "added_at": "2023-07-21 10:37:28",
+      "added_at": "2023-09-29 10:51:04",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw"
+        "name": "Flying Wig",
+        "url": "https://open.spotify.com/album/7vvTyj4ORSliWgfqdBspYp"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
         }
       ],
-      "duration_ms": 389948,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/1rtlnLhySfda2ZgY5sRpEH"
+      "duration_ms": 268659,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/46JwWkm9rEycvh5mI4lpCx"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -659,6 +643,22 @@
       "duration_ms": 188560,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 389948,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/1rtlnLhySfda2ZgY5sRpEH"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -761,36 +761,20 @@
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
     },
     {
-      "added_at": "2024-02-09 00:00:00",
+      "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "2016",
-        "url": "https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA"
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
       },
       "artists": [
         {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
         }
       ],
-      "duration_ms": 180033,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
-    },
-    {
-      "added_at": "2024-01-26 00:52:30",
-      "album": {
-        "name": "Heaven Sent (Between Heavens B-Sides)",
-        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
-      },
-      "artists": [
-        {
-          "name": "Ruby Haunt",
-          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Nadine",
-      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -811,22 +795,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
@@ -841,20 +809,36 @@
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
     },
     {
-      "added_at": "2023-07-21 10:37:28",
+      "added_at": "2024-01-26 00:52:30",
       "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+        "name": "Heaven Sent (Between Heavens B-Sides)",
+        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
         }
       ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
+      "duration_ms": 199413,
+      "name": "Nadine",
+      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 180033,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -871,6 +855,22 @@
       "duration_ms": 322840,
       "name": "So Humble the Afternoon",
       "url": "https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "rest up",
+        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 204464,
+      "name": "rest up",
+      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
     },
     {
       "added_at": "2024-01-26 00:52:30",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH"
     },
     {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Damn I'm Tired",
-        "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 225732,
-      "name": "Damn I'm Tired",
-      "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
-    },
-    {
       "added_at": "2024-02-21 11:35:46",
       "album": {
         "name": "Standard Tuning",
@@ -1167,6 +1151,22 @@
       "duration_ms": 264279,
       "name": "Standard Tuning",
       "url": "https://open.spotify.com/track/61MO0SkYsYMeREzLNqFI2p"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Damn I'm Tired",
+        "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 225732,
+      "name": "Damn I'm Tired",
+      "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1199,6 +1199,22 @@
       "duration_ms": 190148,
       "name": "the lonely girl",
       "url": "https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "The Heart",
+        "url": "https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 277492,
+      "name": "The Heart",
+      "url": "https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1247,22 +1263,6 @@
       "duration_ms": 228522,
       "name": "what if love isn't enough",
       "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "The Heart",
-        "url": "https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 277492,
-      "name": "The Heart",
-      "url": "https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "All We've Ever Known",
+        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Heathers",
         "url": "https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 194947,
       "name": "Ohio Blue Tips",
       "url": "https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "1990",
-        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
     }
   ],
   "unique_name": "Dreampop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,534 likes - 32 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,537 likes - 32 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 6 | [WAKING UP DOWN](https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:21 |
 | 7 | [One More](https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [One More](https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt) | 3:22 |
 | 8 | [Guap](https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 5:40 |
-| 9 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 |
+| 9 | [Done \(Let's Get It\)](https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:52 |
 | 10 | [Drink I’m Sippin On](https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:21 |
 | 11 | [29](https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 3:48 |
 | 12 | [Feel It Out](https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Feel It Out](https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9) | 3:16 |
-| 13 | [Done \(Let's Get It\)](https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:52 |
+| 13 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 |
 | 14 | [Enough For Love \- Yaeji heart+beat Remix](https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 2:29 |
 | 15 | [Year to Year](https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 4:14 |
 | 16 | [After That](https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:38 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 31 | [Swim Me](https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5) | [Ellie Herring](https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [What a Joy](https://open.spotify.com/album/66awLlAFni3514drN79wdh) | 3:28 |
 | 32 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 |
 
-Snapshot ID: `ZrVcAAAAAABFGqVQqgl080i54/D4tanv`
+Snapshot ID: `ZratgAAAAABr2O34XvTSfo2pgT8sfM68`

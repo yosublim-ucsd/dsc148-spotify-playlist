@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,282 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,300 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 38 | [Le coeur nous anime](https://open.spotify.com/track/2ZoTMDhc30xptF6GntTLnC) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Paradis](https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL) | 2:44 |
 | 39 | [Sunflower](https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p) | 4:23 |
 | 40 | [Sharpness](https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Making Time](https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq) | 3:27 |
-| 41 | [You and Me](https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 3:12 |
-| 42 | [4 And 20](https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Colour Me Free](https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL) | 5:06 |
-| 43 | [Backseat Driver](https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Backseat Driver](https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG) | 3:16 |
-| 44 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 |
+| 41 | [4 And 20](https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Colour Me Free](https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL) | 5:06 |
+| 42 | [You and Me](https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 3:12 |
+| 43 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 |
+| 44 | [Backseat Driver](https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Backseat Driver](https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG) | 3:16 |
 | 45 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 |
 | 46 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
 | 47 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 53 | [Il neige](https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les bruits de la ville](https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI) | 4:24 |
 | 54 | [Come on By](https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Come on By](https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX) | 3:25 |
 | 55 | [Elle laisse \- Radio Edit](https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Elle laisse \(Radio Edit\)](https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr) | 3:28 |
-| 56 | [Jolene](https://open.spotify.com/track/7udUBZMgHJcaf7ByUr0l8a) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/1UGWZxOlDi4dU5GLXbow0b) | 4:10 |
-| 57 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
-| 58 | [Sonatine](https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Sonatine](https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb) | 3:53 |
+| 56 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
+| 57 | [Sonatine](https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Sonatine](https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb) | 3:53 |
+| 58 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:12 |
 | 59 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 |
-| 60 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:12 |
+| 60 | [Jolene](https://open.spotify.com/track/7udUBZMgHJcaf7ByUr0l8a) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/1UGWZxOlDi4dU5GLXbow0b) | 4:10 |
 | 61 | [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 |
 | 62 | [Miedo](https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [SANTS](https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N) | 2:15 |
 | 63 | [Future Ghosts](https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Future Ghosts](https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I) | 3:28 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 71 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 |
 | 72 | [Loneliness](https://open.spotify.com/track/4VAzUwIL69PDIMjmhzBwMD) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Loneliness](https://open.spotify.com/album/0YBjEXcSYKyZ1UGzTfvWEf) | 4:03 |
 | 73 | [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 |
-| 74 | [Lonely with Our Love](https://open.spotify.com/track/3r62SofIEN6oRBL9964egb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Lonely with Our Love](https://open.spotify.com/album/6pqseUHCpd1LOVWURaEH9X) | 3:28 |
-| 75 | [Vie varda](https://open.spotify.com/track/29IxKD6j2B9TOBOSrtkv6Y) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Panorama](https://open.spotify.com/album/01noIpXbHsMP2fm8DpuPkd) | 3:54 |
+| 74 | [Vie varda](https://open.spotify.com/track/29IxKD6j2B9TOBOSrtkv6Y) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Panorama](https://open.spotify.com/album/01noIpXbHsMP2fm8DpuPkd) | 3:54 |
+| 75 | [Lonely with Our Love](https://open.spotify.com/track/3r62SofIEN6oRBL9964egb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Lonely with Our Love](https://open.spotify.com/album/6pqseUHCpd1LOVWURaEH9X) | 3:28 |
 | 76 | [My Favourite Faded Fantasy](https://open.spotify.com/track/7tDS5ATQal5W6BqH2w9uS3) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 6:11 |
 | 77 | [Don't](https://open.spotify.com/track/3pn8w3wjxC8oLDTqGXz8nA) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Part\. 1](https://open.spotify.com/album/3YWOLd19yXqawMTWvsxPgd) | 2:46 |
 | 78 | [Helsinki](https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [My Name](https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w) | 5:07 |

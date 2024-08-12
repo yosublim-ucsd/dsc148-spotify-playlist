@@ -11145,6 +11145,24 @@
     },
     {
       "album": {
+        "name": "Shampoo",
+        "url": "https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131213,
+      "name": "Shampoo",
+      "url": "https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU"
+    },
+    {
+      "album": {
         "name": "Shane Battier",
         "url": "https://open.spotify.com/album/2hnS7N1TdftRB55sFR4mSz"
       },

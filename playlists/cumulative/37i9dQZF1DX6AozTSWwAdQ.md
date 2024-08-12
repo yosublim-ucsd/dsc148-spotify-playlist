@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-397 songs - 20 hr 54 min
+399 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Break Her Heart](https://open.spotify.com/track/0dN4xcgktuAmQNGaPQR5Fz) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Break Her Heart](https://open.spotify.com/album/2wFl2VCAHpU7eGqhwoF2Ye) | 2:59 | 2022-07-18 | 2022-07-20 |
 | [Break My Heart](https://open.spotify.com/track/6KMkEX692kOyqJ7WuPhRab) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart](https://open.spotify.com/album/0kNjRXrrBrXGUFkGhf2HVI) | 2:59 | 2022-06-06 | 2022-07-29 |
 | [Breakaway](https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:43 | 2022-06-07 | 2022-07-29 |
+| [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-12 |  |
 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 | 2022-07-25 | 2024-04-19 |
 | [Broken & Beautiful](https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Broken & Beautiful](https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj) | 3:38 | 2022-06-06 |  |
 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 | 2023-09-25 | 2024-07-05 |
@@ -98,8 +99,9 @@
 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:49 | 2022-06-13 | 2022-07-22 |
 | [Don't Call Me A Friend](https://open.spotify.com/track/42CbU4IOINfy3jqXJa2BUQ) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Don't Call Me A Friend](https://open.spotify.com/album/0nqRDLcgNPQyuDHaFWH4EX) | 2:36 | 2022-06-06 | 2022-07-27 |
 | [Don't Get Me Wrong](https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Don't Get Me Wrong](https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm) | 2:53 | 2023-05-08 | 2023-05-16 |
-| [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 | 2022-08-29 |  |
+| [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 | 2022-08-29 | 2024-08-12 |
 | [Dressed to Kill](https://open.spotify.com/track/6j7s4efnQGF19g6Jp2HE9D) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/2YoatZbkNsBRrfmX0pq9Ay) | 2:52 | 2022-11-21 | 2022-11-29 |
+| [Dull \(feat\. Softcult\)](https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dull \(feat\. Softcult\)](https://open.spotify.com/album/3gmtr45Lzb7GjzQFXe49C8) | 3:15 | 2024-08-12 |  |
 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 | 2024-01-22 | 2024-01-29 |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2022-10-17 | 2023-10-26 |
 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 | 2023-04-11 | 2023-04-18 |
@@ -283,7 +285,7 @@
 | [Polaroids](https://open.spotify.com/track/6Kz16KUmMnaneddIVyod87) | [Thomas Meilstrup](https://open.spotify.com/artist/4CyyiV7VCIqZ2e0vAm51tP) | [Polaroids](https://open.spotify.com/album/0RxfmoMRaWou5q6GEFyPr9) | 2:44 | 2023-11-06 | 2023-11-13 |
 | [Portland Rocks](https://open.spotify.com/track/28z4ex2Y5VJpY7vbjiOEdj) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Interplay](https://open.spotify.com/album/1c4LaTbETiMvWC8y6afvld) | 5:02 | 2024-04-01 | 2024-04-08 |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-05-15 | 2024-03-01 |
-| [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-03-06 |  |
+| [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-03-06 | 2024-08-12 |
 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 | 2023-08-21 | 2023-08-29 |
 | [Prozac Perfect](https://open.spotify.com/track/563jToCyviTyNpeHIqCy5Y) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [There Goes the Neighborhood](https://open.spotify.com/album/6OxMJtj17OEYzMQ62aH7cG) | 3:12 | 2023-02-27 | 2023-03-07 |
 | [Put A Light On Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2022-12-12 | 2022-12-20 |

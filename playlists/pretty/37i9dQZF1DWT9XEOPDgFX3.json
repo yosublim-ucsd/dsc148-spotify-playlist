@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Ruby Waters",
-  "num_followers": 99745,
+  "num_followers": 99758,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 164224,
+      "name": "zombie girl",
+      "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Sierra Vista",
         "url": "https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr"
       },
@@ -283,38 +299,6 @@
       "duration_ms": 155000,
       "name": "Sierra Vista",
       "url": "https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 343360,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Simulation Swarm",
-      "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -335,18 +319,34 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 164224,
-      "name": "zombie girl",
-      "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
+      "duration_ms": 252733,
+      "name": "Simulation Swarm",
+      "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 343360,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Just Another Diamond Day",
-        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 135453,
-      "name": "I'd Like To Walk Around In Your Mind",
-      "url": "https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Just Another Diamond Day",
+        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 135453,
+      "name": "I'd Like To Walk Around In Your Mind",
+      "url": "https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Wasting Your Love",
         "url": "https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 163611,
       "name": "Wasting Your Love",
       "url": "https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Chaos Angel",
-        "url": "https://open.spotify.com/album/5AyYM1rZBAiLO0EcgLEaJ2"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Big Idea",
-      "url": "https://open.spotify.com/track/6H8zVCDkxJVx7MPDLQGvtQ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Mudroom",
         "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 209634,
       "name": "Let The Radio Play",
       "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Chaos Angel",
+        "url": "https://open.spotify.com/album/5AyYM1rZBAiLO0EcgLEaJ2"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Big Idea",
+      "url": "https://open.spotify.com/track/6H8zVCDkxJVx7MPDLQGvtQ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Hovvdy",
-        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "whore",
         "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 163384,
       "name": "whore",
       "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Hovvdy",
+        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Milk Town / Mr. Carter",
-        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 77032,
-      "name": "Milk Town / Mr. Carter",
-      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Dark",
         "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 195884,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Granny Music",
-        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Come June",
         "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 216964,
       "name": "Come June",
       "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Granny Music",
+        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Garment Bag",
+        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 145308,
+      "name": "Garment Bag",
+      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Scorpions Don't Live Forever",
         "url": "https://open.spotify.com/album/01UB7yLLhdvHKtETrr0VgM"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 272000,
       "name": "Scorpions Don't Live Forever",
       "url": "https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "what we leave behind",
-        "url": "https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 259314,
-      "name": "bloomington",
-      "url": "https://open.spotify.com/track/4Iyma8CFiTD2s2PGgOtsF6"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1931,34 +1931,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Garment Bag",
-        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+        "name": "what we leave behind",
+        "url": "https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
         }
       ],
-      "duration_ms": 145308,
-      "name": "Garment Bag",
-      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "squirrel song",
-        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 108794,
-      "name": "squirrel song",
-      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
+      "duration_ms": 259314,
+      "name": "bloomington",
+      "url": "https://open.spotify.com/track/4Iyma8CFiTD2s2PGgOtsF6"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1991,6 +1975,22 @@
       "duration_ms": 356474,
       "name": "no fun/party",
       "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "squirrel song",
+        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 108794,
+      "name": "squirrel song",
+      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2024-06-07 04:00:00",

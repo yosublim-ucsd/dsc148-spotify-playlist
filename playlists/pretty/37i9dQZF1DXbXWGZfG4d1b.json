@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 22982,
+  "num_followers": 22985,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Llega llega llega",
-        "url": "https://open.spotify.com/album/4lH8Eq18PK6DufmL7BK3k1"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Llega llega llega",
-      "url": "https://open.spotify.com/track/2lOCxL2Z9fNjKD9FsOi3sS"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Yo Me Quedo / Todo El Bien",
         "url": "https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 174144,
       "name": "Yo Me Quedo",
       "url": "https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Llega llega llega",
+        "url": "https://open.spotify.com/album/4lH8Eq18PK6DufmL7BK3k1"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Llega llega llega",
+      "url": "https://open.spotify.com/track/2lOCxL2Z9fNjKD9FsOi3sS"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Such A Witch",
+        "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "Such A Witch",
+      "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "No Los Pueden Separar",
         "url": "https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 220350,
       "name": "La calma del cementerio",
       "url": "https://open.spotify.com/track/6SRGt0viZAd4poDhikoAPj"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Such A Witch",
-        "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
-      },
-      "artists": [
-        {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Such A Witch",
-      "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Caminar en Cristal",
-        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
+        "name": "El Hit",
+        "url": "https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7"
       },
       "artists": [
         {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
         }
       ],
-      "duration_ms": 144179,
-      "name": "Caminar en Cristal",
-      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
+      "duration_ms": 193928,
+      "name": "El Hit",
+      "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "El Hit",
-        "url": "https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7"
+        "name": "Caminar en Cristal",
+        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
       },
       "artists": [
         {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
         }
       ],
-      "duration_ms": 193928,
-      "name": "El Hit",
-      "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
+      "duration_ms": 144179,
+      "name": "Caminar en Cristal",
+      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Habla Sola / Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
-      },
-      "artists": [
-        {
-          "name": "Sakatumba",
-          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
-        }
-      ],
-      "duration_ms": 234562,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 196751,
       "name": "Olas Negras",
       "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Habla Sola / Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
+      },
+      "artists": [
+        {
+          "name": "Sakatumba",
+          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+        }
+      ],
+      "duration_ms": 234562,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Puedo ver el mar en tus ojos",
-        "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
-      },
-      "artists": [
-        {
-          "name": "Buenos Vampiros",
-          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
-        }
-      ],
-      "duration_ms": 181495,
-      "name": "Puedo ver el mar en tus ojos",
-      "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "D\u00eda del Trabajador",
         "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 285176,
       "name": "Eso no es Amor",
       "url": "https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Puedo ver el mar en tus ojos",
+        "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
+      },
+      "artists": [
+        {
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+        }
+      ],
+      "duration_ms": 181495,
+      "name": "Puedo ver el mar en tus ojos",
+      "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -703,18 +703,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Las Palomas",
-        "url": "https://open.spotify.com/album/08k3nUDklrv3aQOnIsWCjp"
+        "name": "Malambo de Acero",
+        "url": "https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP"
       },
       "artists": [
         {
-          "name": "Et\u00e9 & Los Problems",
-          "url": "https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk"
+          "name": "Hojas por el Barrio",
+          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+        },
+        {
+          "name": "Tom Quintans",
+          "url": "https://open.spotify.com/artist/2aO59eRQnXY18brq14hmkn"
         }
       ],
-      "duration_ms": 221843,
-      "name": "Las Palomas",
-      "url": "https://open.spotify.com/track/4qI9iwfb7U9Q14HSylzy0l"
+      "duration_ms": 164236,
+      "name": "Malambo de Acero",
+      "url": "https://open.spotify.com/track/4EPXBJ33pPf3o8y4tpZe2N"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -731,6 +735,22 @@
       "duration_ms": 162605,
       "name": "Frutillas con Crema",
       "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Las Palomas",
+        "url": "https://open.spotify.com/album/08k3nUDklrv3aQOnIsWCjp"
+      },
+      "artists": [
+        {
+          "name": "Et\u00e9 & Los Problems",
+          "url": "https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk"
+        }
+      ],
+      "duration_ms": 221843,
+      "name": "Las Palomas",
+      "url": "https://open.spotify.com/track/4qI9iwfb7U9Q14HSylzy0l"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -755,22 +775,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Malambo de Acero",
-        "url": "https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP"
+        "name": "Los Halcones",
+        "url": "https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz"
       },
       "artists": [
         {
-          "name": "Hojas por el Barrio",
-          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
         },
         {
-          "name": "Tom Quintans",
-          "url": "https://open.spotify.com/artist/2aO59eRQnXY18brq14hmkn"
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
         }
       ],
-      "duration_ms": 164236,
-      "name": "Malambo de Acero",
-      "url": "https://open.spotify.com/track/4EPXBJ33pPf3o8y4tpZe2N"
+      "duration_ms": 326973,
+      "name": "Los Halcones",
+      "url": "https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -795,22 +815,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Los Halcones",
-        "url": "https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz"
+        "name": "Ochocientos Envolventes al Sol",
+        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
       },
       "artists": [
         {
-          "name": "Santiago Moraes",
-          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        },
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+          "name": "Juan Mango",
+          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
         }
       ],
-      "duration_ms": 326973,
-      "name": "Los Halcones",
-      "url": "https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j"
+      "duration_ms": 250517,
+      "name": "800 Vueltas Envolventes",
+      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 135189,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Ochocientos Envolventes al Sol",
-        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
-      },
-      "artists": [
-        {
-          "name": "Juan Mango",
-          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
-        }
-      ],
-      "duration_ms": 250517,
-      "name": "800 Vueltas Envolventes",
-      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "\u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA"
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
       "artists": [
         {
-          "name": "Alem",
-          "url": "https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS"
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
         }
       ],
-      "duration_ms": 178000,
-      "name": "\u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg"
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA"
       },
       "artists": [
         {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+          "name": "Alem",
+          "url": "https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS"
         }
       ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+      "duration_ms": 178000,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Desconsuelo",
-        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
-      },
-      "artists": [
-        {
-          "name": "DOJO",
-          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
-        }
-      ],
-      "duration_ms": 243126,
-      "name": "Desconsuelo",
-      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
-        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
+        "name": "Desconsuelo",
+        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
       },
       "artists": [
         {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+          "name": "DOJO",
+          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
         }
       ],
-      "duration_ms": 220473,
-      "name": "Haku - Bonus Track",
-      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
+      "duration_ms": 243126,
+      "name": "Desconsuelo",
+      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1103,6 +1087,22 @@
       "duration_ms": 171882,
       "name": "Romance Con la Luna",
       "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
+        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 220473,
+      "name": "Haku - Bonus Track",
+      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Lago Eterno",
-        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 128802,
-      "name": "Lago Eterno",
-      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Lapso",
         "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
-        "url": "https://open.spotify.com/album/0PnriiCEp6ekPu6twNZ0SD"
+        "name": "Lago Eterno",
+        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
       },
       "artists": [
         {
-          "name": "Diosque",
-          "url": "https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh"
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
         }
       ],
-      "duration_ms": 212631,
-      "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
-      "url": "https://open.spotify.com/track/3roK3VKbe71yEtR7QnOAZB"
+      "duration_ms": 128802,
+      "name": "Lago Eterno",
+      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
+        "url": "https://open.spotify.com/album/0PnriiCEp6ekPu6twNZ0SD"
+      },
+      "artists": [
+        {
+          "name": "Diosque",
+          "url": "https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh"
+        }
+      ],
+      "duration_ms": 212631,
+      "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
+      "url": "https://open.spotify.com/track/3roK3VKbe71yEtR7QnOAZB"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Lo Que Queda",
-        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 224737,
-      "name": "Lo Que Queda",
-      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "No hay tiempo",
         "url": "https://open.spotify.com/album/4qK4DPTYmND7rWUAvIPmn0"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 202027,
       "name": "No hay tiempo",
       "url": "https://open.spotify.com/track/15eJY3sym1GzpPT13YbXxe"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Lo Que Queda",
+        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 224737,
+      "name": "Lo Que Queda",
+      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Habladur\u00edas",
-        "url": "https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W"
-      },
-      "artists": [
-        {
-          "name": "Ficci\u00f3n",
-          "url": "https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD"
-        }
-      ],
-      "duration_ms": 189231,
-      "name": "Habladur\u00edas",
-      "url": "https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Congelado",
         "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 147053,
       "name": "Congelado",
       "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Habladur\u00edas",
+        "url": "https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W"
+      },
+      "artists": [
+        {
+          "name": "Ficci\u00f3n",
+          "url": "https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD"
+        }
+      ],
+      "duration_ms": 189231,
+      "name": "Habladur\u00edas",
+      "url": "https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO"
     },
     {
       "added_at": "2024-08-02 03:00:00",

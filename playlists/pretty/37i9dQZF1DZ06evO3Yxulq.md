@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 ### [This Is Christine D'Clario](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Yxulq)
 
-> This Is Christine D'Clario\. Los temas esenciales, todos en una lista.
+> This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,351 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,361 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 17 | [Lugar Secreto \- Español](https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV) | 5:34 |
 | 18 | [Fidelidad \(Grande Es Tu Fidelidad\)](https://open.spotify.com/track/1ybRNixD4WbiPwGOKbRtCh) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 4:56 |
 | 19 | [Incomparable Dios](https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 5:48 |
-| 20 | [Dios de Maravillas](https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 8:33 |
-| 21 | [Cómo No Voy A Creer](https://open.spotify.com/track/1RxTsEdn5cQWdsz8fJrPmC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/1kifdLXic75PKnWsDOVgru) | 10:33 |
+| 20 | [Cómo No Voy A Creer](https://open.spotify.com/track/1RxTsEdn5cQWdsz8fJrPmC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/1kifdLXic75PKnWsDOVgru) | 10:33 |
+| 21 | [Dios de Maravillas](https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 8:33 |
 | 22 | [Redención \(Redenção\)](https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Redención](https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5) | 4:33 |
 | 23 | [Por la Eternidad](https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 4:26 |
 | 24 | [Solo En Jesús](https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo En Jesús](https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Santo \(Tu Nombre Es\)](https://open.spotify.com/track/3zZVyvL9DGymP5ICt9bmsf) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 4:02 |
 | 50 | [Me Rindo \(feat\. Karen Espinosa & Christine D'Clario\)](https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Venga Tu Reino](https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4) | 7:33 |
 
-Snapshot ID: `ZrVcAAAAAAClbKdaBR4k4aIrfRkXLjU9`
+Snapshot ID: `ZratgAAAAACSDymf8UtdfroL2OiL7+Wg`

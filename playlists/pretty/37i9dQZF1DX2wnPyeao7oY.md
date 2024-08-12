@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: GASKET, Artwork: Nejc Prah
 
-[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 55 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 588 likes - 55 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

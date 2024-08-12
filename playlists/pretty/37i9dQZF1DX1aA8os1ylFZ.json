@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 242669,
+  "num_followers": 242675,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
       },
@@ -311,22 +327,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "act iv: fckin u again (18+)",
         "url": "https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 195528,
       "name": "act iv: fckin u again (18+)",
       "url": "https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 175656,
-      "name": "Bruce Lee",
-      "url": "https://open.spotify.com/track/5AeEH69Mp87Zx3wNmyeAK0"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -411,6 +395,22 @@
       "duration_ms": 224187,
       "name": "R e s e n t m e n t",
       "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 175656,
+      "name": "Bruce Lee",
+      "url": "https://open.spotify.com/track/5AeEH69Mp87Zx3wNmyeAK0"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "Obsidian",
         "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 161529,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
         "name": "Don't Give It Away",
         "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 206143,
       "name": "Don't Give It Away (with Chris Brown)",
       "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
-        "name": "Marking My Time",
-        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "FIRST PLACE",
-        "url": "https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo"
-      },
-      "artists": [
-        {
-          "name": "Lavils",
-          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
-        }
-      ],
-      "duration_ms": 121211,
-      "name": "FIRST PLACE",
-      "url": "https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "Unfiltered",
         "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 109270,
       "name": "Solutions",
       "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
+        "name": "FIRST PLACE",
+        "url": "https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo"
+      },
+      "artists": [
+        {
+          "name": "Lavils",
+          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
+        }
+      ],
+      "duration_ms": 121211,
+      "name": "FIRST PLACE",
+      "url": "https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 170129,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "L o s e M y M i n d",
-        "url": "https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 183990,
-      "name": "L o s e M y M i n d",
-      "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "who's loving you?",
         "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 238178,
       "name": "MUSE FREESTYLE",
       "url": "https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
+        "name": "L o s e M y M i n d",
+        "url": "https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 183990,
+      "name": "L o s e M y M i n d",
+      "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "Drop In",
-        "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
-      },
-      "artists": [
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 206511,
-      "name": "Drop In",
-      "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "Make You Remember Me",
         "url": "https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz"
       },
@@ -1423,22 +1407,18 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "Emotionally Unavailable",
-        "url": "https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws"
+        "name": "Drop In",
+        "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
       },
       "artists": [
         {
-          "name": "Alice Aera",
-          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
-        },
-        {
-          "name": "Khalil",
-          "url": "https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4"
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
         }
       ],
-      "duration_ms": 142857,
-      "name": "Emotionally Unavailable",
-      "url": "https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu"
+      "duration_ms": 206511,
+      "name": "Drop In",
+      "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1479,6 +1459,26 @@
       "duration_ms": 189024,
       "name": "Say You Do",
       "url": "https://open.spotify.com/track/2sC5Cdda0VyNHJGhGKey0L"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
+        "name": "Emotionally Unavailable",
+        "url": "https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        },
+        {
+          "name": "Khalil",
+          "url": "https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Emotionally Unavailable",
+      "url": "https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
+        "name": "Private",
+        "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "Bad\u00ed",
+          "url": "https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa"
+        }
+      ],
+      "duration_ms": 158901,
+      "name": "Private",
+      "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/6OskzKNJss2nReEKRchfiy"
       },
@@ -1731,26 +1751,6 @@
       "duration_ms": 160944,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
-        "name": "Private",
-        "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        },
-        {
-          "name": "Bad\u00ed",
-          "url": "https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa"
-        }
-      ],
-      "duration_ms": 158901,
-      "name": "Private",
-      "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
     }
   ],
   "unique_name": "R&B Magic",

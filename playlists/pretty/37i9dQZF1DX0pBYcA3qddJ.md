@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,426 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,425 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 85 | [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 |
 | 86 | [δ](https://open.spotify.com/track/5H6WX29XQMNE4oZVooEGeH) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 0:36 |
 | 87 | [ブラームス : ピアノ三重奏曲 第1番 ロ長調 作品8 \(改訂版\)　I.アレグロ・コン・ブリオ](https://open.spotify.com/track/1sHttxtGdviF0KDuwARDZt) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [中村太地](https://open.spotify.com/artist/3NCVteZ4MxcZFZOHMBJIrQ), [辻󠄀本玲](https://open.spotify.com/artist/0uuUSlQkhniHDw2v3ziUHg), [佐藤卓史](https://open.spotify.com/artist/4KBVGFOgBM0fFaX5naFYr3) | [ヨハネス・ブラームス＆クララ・シューマン：ピアノ・トリオ](https://open.spotify.com/album/5dnLSF8bbmIjvLUoeFdp6z) | 14:20 |
-| 88 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 |
+| 88 | [Lakmé: Flower Duet \(Arr\. Naoumoff for Piano\)](https://open.spotify.com/track/4u0eCzsxpHtu7ESBe24cL9) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Delibes: Lakmé: Flower Duet \(Arr\. Naoumoff for Piano\)](https://open.spotify.com/album/64w9xv7aEMPYbcI59PHm8V) | 2:13 |
 | 89 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 |
-| 90 | [Lakmé: Flower Duet \(Arr\. Naoumoff for Piano\)](https://open.spotify.com/track/4u0eCzsxpHtu7ESBe24cL9) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Delibes: Lakmé: Flower Duet \(Arr\. Naoumoff for Piano\)](https://open.spotify.com/album/64w9xv7aEMPYbcI59PHm8V) | 2:13 |
+| 90 | [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 3:55 |
 | 91 | [City Lights](https://open.spotify.com/track/0VJAIkt9hYubij6WfLdxr0) | [katsuya mouri](https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2) | [City Lights](https://open.spotify.com/album/23ga5xwu3OEsKE6mfP66Yg) | 3:42 |
-| 92 | [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 3:55 |
+| 92 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 |
 | 93 | [Útdautt lag](https://open.spotify.com/track/4c2ZfeVn6yfmRGG0Iox06s) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Útdautt lag](https://open.spotify.com/album/0oR164CmvsVSVENz3p5GK5) | 3:40 |
 | 94 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
 | 95 | [Solaris](https://open.spotify.com/track/3mw4OxKGvEG542yNl5Ypi3) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Solaris](https://open.spotify.com/album/6cBibsodTbuM4xuFfUNcjK) | 3:42 |

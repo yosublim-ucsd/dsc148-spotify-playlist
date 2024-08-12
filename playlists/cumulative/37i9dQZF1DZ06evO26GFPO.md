@@ -2,9 +2,9 @@
 
 ### [This Is LUDMILLA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26GFPO)
 
-> This is LUDMILLA。アーティストの代表曲をひとつのプレイリストに。
+> This is LUDMILLA\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 40 min
+78 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 | 2024-01-18 | 2024-02-24 |
 | [Ritmo Do Crime](https://open.spotify.com/track/5yjd0lAp6zahxFdqWeI8qM) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Ritmo Do Crime](https://open.spotify.com/album/3eGzFoARBUyPBPe5rOP9La) | 2:49 | 2023-10-10 | 2024-01-03 |
 | [Sacanagenzinha \- Ao Vivo](https://open.spotify.com/track/4ZjyyujX7GqzGqWO8bLUKY) | [XANDDY HARMONIA](https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Harmonia \#AMSM \(Ao Vivo\)](https://open.spotify.com/album/4xagqZnst5qSrmIQ0WS0IT) | 2:16 | 2024-02-13 | 2024-02-24 |
+| [Saudade da Gente \(Ao Vivo na Resenha Pagode e Chinelo\)](https://open.spotify.com/track/0SzZVQw0tEazwNko6bdKwS) | [Grupo BalacoBaco](https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Saudade da Gente \(Ao Vivo na Resenha Pagode e Chinelo\)](https://open.spotify.com/album/39IY5gyzMAY6N8ufNZKP93) | 2:47 | 2024-08-12 |  |
 | [Saudade da Gente \- Ao Vivo](https://open.spotify.com/track/7zD6UkCZatI0QhTr3Q9c59) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:07 | 2024-02-23 |  |
 | [Se Não Chorar com Pagode \- Ao Vivo](https://open.spotify.com/track/4BB3adxRhL1lTK5WpB1eo1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:56 | 2024-02-23 |  |
 | [Señales](https://open.spotify.com/track/2t8GffKl3m6MWa0lPqjtqs) | [Nyno Vargas](https://open.spotify.com/artist/2dkbKcHXhN7ooFBdqAV76G), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Señales](https://open.spotify.com/album/582fES9o6jKWw9wsefl9Ef) | 3:38 | 2024-07-03 |  |
@@ -83,6 +84,7 @@
 | [Vai Sentando](https://open.spotify.com/track/4UlkRoC6xPCDXehTyW21BF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Vai Sentando \(FAST X Soundtrack\)](https://open.spotify.com/album/08rwl7AoPbs22LGky7hgdu) | 2:14 | 2023-10-10 | 2024-02-06 |
 | [Vida \- Ao Vivo](https://open.spotify.com/track/3rTg5u0gjZVZW8OGphOlcU) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [MF No Rio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ) | 3:01 | 2023-10-10 | 2024-01-21 |
 | [Você Não Sabe o Que é Amor \- Ao Vivo](https://open.spotify.com/track/7r1VxuU92S2GKWvEX6ivqF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:24 | 2024-02-23 |  |
+| [Whine](https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:58 | 2024-08-12 |  |
 | [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 | 2023-10-10 | 2024-02-24 |
 
 \*This playlist was first scraped on 2023-10-11. Prior content cannot be recovered.

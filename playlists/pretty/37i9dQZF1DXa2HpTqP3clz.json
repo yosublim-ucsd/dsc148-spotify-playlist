@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tony Trischka",
-  "num_followers": 162876,
+  "num_followers": 162887,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Brown's Ferry Blues",
-        "url": "https://open.spotify.com/album/0qXUsQ7JyqZH3CUN3AgCvT"
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
       },
       "artists": [
         {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 226955,
-      "name": "Brown's Ferry Blues",
-      "url": "https://open.spotify.com/track/7aV13wf4P3pvrNAl1DtXVr"
+      "duration_ms": 258217,
+      "name": "Brace for Impact (Live a Little)",
+      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -251,18 +247,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+        "name": "Brown's Ferry Blues",
+        "url": "https://open.spotify.com/album/0qXUsQ7JyqZH3CUN3AgCvT"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 258217,
-      "name": "Brace for Impact (Live a Little)",
-      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
+      "duration_ms": 226955,
+      "name": "Brown's Ferry Blues",
+      "url": "https://open.spotify.com/track/7aV13wf4P3pvrNAl1DtXVr"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 220727,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "The More I Learn",
         "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 149346,
       "name": "Squareneck Soul",
       "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 220727,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Heading East to West Virginia",
+        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
+      },
+      "artists": [
+        {
+          "name": "Russell Moore & IIIrd Tyme Out",
+          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
+        }
+      ],
+      "duration_ms": 156536,
+      "name": "Heading East to West Virginia",
+      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Can't Live Without Love",
         "url": "https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 200400,
       "name": "Can't Live Without Love",
       "url": "https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Heading East to West Virginia",
-        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
-      },
-      "artists": [
-        {
-          "name": "Russell Moore & IIIrd Tyme Out",
-          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
-        }
-      ],
-      "duration_ms": 156536,
-      "name": "Heading East to West Virginia",
-      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
-      },
-      "artists": [
-        {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 151466,
       "name": "Coalmine",
       "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Living In A Song",
         "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
       },
       "artists": [
         {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1231,22 +1247,6 @@
       "duration_ms": 190764,
       "name": "Hillside",
       "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1271,6 +1271,22 @@
       "duration_ms": 191813,
       "name": "Sunny Days (Are Comin' Once Again)",
       "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Kentucky Highway",
+        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
+      },
+      "artists": [
+        {
+          "name": "Williamson Branch",
+          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Kentucky Highway",
+      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 201051,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5m9cwQGKeurtZ5P9CqFo1o"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Kentucky Highway",
-        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
-      },
-      "artists": [
-        {
-          "name": "Williamson Branch",
-          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Kentucky Highway",
-      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Just Let Me Know",
-        "url": "https://open.spotify.com/album/6bfTQn4NFP7pDjwNqcJPpg"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Just Let Me Know",
-      "url": "https://open.spotify.com/track/6YwqHK6OUiTvkcKNnH48nZ"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Mary Ann is a Pistol",
         "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 161333,
       "name": "Mary Ann is a Pistol",
       "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
+      },
+      "artists": [
+        {
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1687,18 +1687,34 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
+        "name": "Just Let Me Know",
+        "url": "https://open.spotify.com/album/6bfTQn4NFP7pDjwNqcJPpg"
       },
       "artists": [
         {
-          "name": "Chatham Rabbits",
-          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
+      "duration_ms": 168000,
+      "name": "Just Let Me Know",
+      "url": "https://open.spotify.com/track/6YwqHK6OUiTvkcKNnH48nZ"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "When It All Falls Apart",
+        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "duration_ms": 189086,
+      "name": "When It All Falls Apart",
+      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1719,18 +1735,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "When It All Falls Apart",
-        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
       "artists": [
         {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 189086,
-      "name": "When It All Falls Apart",
-      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1763,26 +1783,6 @@
       "duration_ms": 159427,
       "name": "Blues Are Close at Hand",
       "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
     },
     {
       "added_at": "2024-08-09 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Make Them Suffer on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,510,134 likes - 77 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,510,247 likes - 77 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

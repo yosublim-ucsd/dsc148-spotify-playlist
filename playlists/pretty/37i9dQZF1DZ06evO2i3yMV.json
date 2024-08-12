@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAACfN4eZcIQcdKNkI8PIJU7O",
+  "snapshot_id": "ZratgAAAAAAQ5Olcbk0vDIkc+jiL8XxF",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cosmic Intoxication",
+        "url": "https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Switch It",
         "url": "https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 183263,
       "name": "Switch It",
       "url": "https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cosmic Intoxication",
-        "url": "https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Smoke & Mirrors",
-      "url": "https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Invited",
-        "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
-        }
-      ],
-      "duration_ms": 220934,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 191233,
       "name": "Fried for the Night",
       "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "duration_ms": 220934,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
     },
     {
       "added_at": null,
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 266345,
+      "name": "House of Dal",
+      "url": "https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 93929,
       "name": "2nd Boom",
       "url": "https://open.spotify.com/track/1ezQ8Q9pYUXaJ5lAFtoWw7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 186708,
-      "name": "Sa Mo Jung",
-      "url": "https://open.spotify.com/track/0hzDTl4D0iK3VUqcQ2rBIB"
     }
   ],
   "unique_name": "This Is TOKiMONSTA",

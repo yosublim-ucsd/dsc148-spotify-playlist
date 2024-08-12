@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,766 likes - 47 songs - 2 hr 27 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,765 likes - 47 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 25 | [Survive It](https://open.spotify.com/track/5iq8BZoCP05ihLpMVUB6VA) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Survive It](https://open.spotify.com/album/2zN2U5xYnIrWYx4vl4wW6Y) | 2:53 |
 | 26 | [Half Light](https://open.spotify.com/track/4SFnsEwWLkBS44EJdNOkj9) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Half Light](https://open.spotify.com/album/5Rs1G3NWK3jq7NU4v8adsf) | 3:49 |
 | 27 | [Can't Let You Go](https://open.spotify.com/track/3AQsOVkdBgPMODxH1exZMR) | [JYH](https://open.spotify.com/artist/36R62sqgB3eyqLawx6Qqgc) | [Can't Let You Go](https://open.spotify.com/album/4jAbNZ4ZDQE4RueceSFgMz) | 3:13 |
-| 28 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
+| 28 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
 | 29 | [Bring Me Your Fire \- Radio Edit](https://open.spotify.com/track/02NMBle2RDkEJyUIhjFxs2) | [MentalBass](https://open.spotify.com/artist/5E7Ie4cln6iVbXPi6gaD05), [HIGHER RECORDINGS](https://open.spotify.com/artist/6EgxosqZ1catzkFs46gpHB) | [Bring Me Your Fire \(Radio Edit\)](https://open.spotify.com/album/1goYtKYKCbtMt1ubEgBE4l) | 2:38 |
 | 30 | [Soft Bliss](https://open.spotify.com/track/25smhIrrsESf2Xt0fNbeJU) | [Vanillaz](https://open.spotify.com/artist/24gnQWn25ndZMSOoE1p0yL) | [Soft Bliss](https://open.spotify.com/album/15tJiExMx4gTcG9pGjww2z) | 2:48 |
 | 31 | [So I Can Rave](https://open.spotify.com/track/4ONt5EZQAPz1RxKcFntole) | [Apollo George](https://open.spotify.com/artist/50AvTBK750fC6fQdoAP0a2) | [So I Can Rave](https://open.spotify.com/album/5iAqft26y9y4EVuli3ShkE) | 2:19 |

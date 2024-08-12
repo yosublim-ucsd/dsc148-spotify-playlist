@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 125727,
+  "num_followers": 125753,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
-        "url": "https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 251175,
-      "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
-      "url": "https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "\u5409\u4ed6\u624b",
         "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 263173,
       "name": "\u592a\u8070\u660e",
       "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
+        "url": "https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 251175,
+      "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
+      "url": "https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "DEPART",
-        "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 250898,
-      "name": "\u8ba9\u6d6a\u6f2b\u4f5c\u4e3b",
-      "url": "https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "\u592a\u967d\u96e8",
         "url": "https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
+        "name": "DEPART",
+        "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 250898,
+      "name": "\u8ba9\u6d6a\u6f2b\u4f5c\u4e3b",
+      "url": "https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
         "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
         "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
       },
@@ -323,22 +323,6 @@
       "duration_ms": 236020,
       "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
       "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
-        "name": "\u5e95\u7247\u88e1\u7684\u590f\u5361\u723e",
-        "url": "https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb \u96de\u4e01",
-          "url": "https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon"
-        }
-      ],
-      "duration_ms": 300215,
-      "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
-      "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -359,34 +343,18 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
-        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
+        "name": "\u5e95\u7247\u88e1\u7684\u590f\u5361\u723e",
+        "url": "https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4"
       },
       "artists": [
         {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+          "name": "\u7406\u60f3\u6df7\u86cb \u96de\u4e01",
+          "url": "https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon"
         }
       ],
-      "duration_ms": 260958,
-      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
-      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
-        "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
-        "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
+      "duration_ms": 300215,
+      "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
+      "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -419,6 +387,38 @@
       "duration_ms": 249417,
       "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
       "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
+        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 260958,
+      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
+      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -487,38 +487,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "\u7d66",
-        "url": "https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa"
-      },
-      "artists": [
-        {
-          "name": "LaLa Hsu",
-          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
-        }
-      ],
-      "duration_ms": 280097,
-      "name": "\u6c92\u6709\u7b2c\u4e09\u8005\u7684\u5206\u624b",
-      "url": "https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
-        "name": "\u4f60\u8981\u7684\u611b (\u5fc3\u52d5\u7248)",
-        "url": "https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a"
-      },
-      "artists": [
-        {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
-        }
-      ],
-      "duration_ms": 235743,
-      "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
-      "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "\u773c\u6dda",
         "url": "https://open.spotify.com/album/1iT1Z70Gwr7jrShnTYccov"
       },
@@ -535,6 +503,22 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
+        "name": "\u7d66",
+        "url": "https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "duration_ms": 280097,
+      "name": "\u6c92\u6709\u7b2c\u4e09\u8005\u7684\u5206\u624b",
+      "url": "https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
         "name": "\u6211\u9019\u500b\u4eba (\u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 290022,
       "name": "\u6211\u9019\u500b\u4eba - \u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "\u4f60\u8981\u7684\u611b (\u5fc3\u52d5\u7248)",
+        "url": "https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a"
+      },
+      "artists": [
+        {
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+        }
+      ],
+      "duration_ms": 235743,
+      "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
+      "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
+        "name": "\u5c0f\u6642\u5019\u7684\u6211\u5011",
+        "url": "https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "\u5176\u5be6\u4f60\u4e26\u6c92\u90a3\u9ebc\u5b64\u55ae",
+      "url": "https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
         "name": "\u539f\u4f86\u6211\u5f88\u611b\u4f60 (\u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u540c\u540d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 220032,
       "name": "\u539f\u4f86\u6211\u5f88\u611b\u4f60 - \u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u540c\u540d\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "\u966a\u8457\u4f60",
-      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "\u5c0f\u6642\u5019\u7684\u6211\u5011",
-        "url": "https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 184607,
-      "name": "\u5176\u5be6\u4f60\u4e26\u6c92\u90a3\u9ebc\u5b64\u55ae",
-      "url": "https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "CHIN UP!",
         "url": "https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 189500,
       "name": "\u7a7a\u57ce\u8a18",
       "url": "https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "\u966a\u8457\u4f60",
+      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "\u57cb\uff08\u300aRecall\uff1aEmpty Wishes \u7a7a\u9858\u300b\u904a\u6232\u4e3b\u984c\u66f2\uff09",
-        "url": "https://open.spotify.com/album/3wjO4kP1WKLlFkBEe70A1h"
-      },
-      "artists": [
-        {
-          "name": "Good Band",
-          "url": "https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ"
-        }
-      ],
-      "duration_ms": 228857,
-      "name": "\u57cb\uff08\u300aRecall\uff1aEmpty Wishes \u7a7a\u9858\u300b\u904a\u6232\u4e3b\u984c\u66f2\uff09",
-      "url": "https://open.spotify.com/track/0uPTAbTiu5swm1QlwUWEnj"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "\u6211\u88ab\u653e\u4e0a\u5929\u7a7a",
         "url": "https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 266085,
       "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
       "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "\u57cb\uff08\u300aRecall\uff1aEmpty Wishes \u7a7a\u9858\u300b\u904a\u6232\u4e3b\u984c\u66f2\uff09",
+        "url": "https://open.spotify.com/album/3wjO4kP1WKLlFkBEe70A1h"
+      },
+      "artists": [
+        {
+          "name": "Good Band",
+          "url": "https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ"
+        }
+      ],
+      "duration_ms": 228857,
+      "name": "\u57cb\uff08\u300aRecall\uff1aEmpty Wishes \u7a7a\u9858\u300b\u904a\u6232\u4e3b\u984c\u66f2\uff09",
+      "url": "https://open.spotify.com/track/0uPTAbTiu5swm1QlwUWEnj"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Kisnue(\ud0a4\uc2a4\ub204)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 238576,
+  "num_followers": 238642,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -39,6 +39,26 @@
       "duration_ms": 220096,
       "name": "Save me",
       "url": "https://open.spotify.com/track/42i24oTxRFR53ezroofUtx"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
+        "name": "SLOW",
+        "url": "https://open.spotify.com/album/4gWygxgd6ECSQvnFyu0sAX"
+      },
+      "artists": [
+        {
+          "name": "Big Ocean",
+          "url": "https://open.spotify.com/artist/0ly1nCJ50by9Vc0UxPHvwY"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 180813,
+      "name": "SLOW (Feat. Young K (DAY6))",
+      "url": "https://open.spotify.com/track/6sjceL2bHRC67mZB1p7h2n"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -315,6 +335,22 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 163886,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293"
       },
@@ -383,22 +419,6 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
-        "name": "minisode 3: TOMORROW",
-        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 163886,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
         "name": "Lovely Runner, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP"
       },
@@ -415,22 +435,6 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
@@ -443,6 +447,22 @@
       "duration_ms": 166491,
       "name": "No Celestial",
       "url": "https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -543,22 +563,6 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
         "name": "The Name Chapter: FREEFALL",
         "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
       },
@@ -575,6 +579,22 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
       },
@@ -587,6 +607,22 @@
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -619,38 +655,6 @@
       "duration_ms": 217067,
       "name": "Welcome to the Show",
       "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Ballroom Extravaganza",
-      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -691,54 +695,6 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
-        "name": "Episode",
-        "url": "https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 205213,
-      "name": "Episode",
-      "url": "https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
         "name": "Moodswings in This Order",
         "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
@@ -755,6 +711,22 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 205213,
+      "name": "Episode",
+      "url": "https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
         "name": "[Dystopia : Lose Myself]",
         "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
       },
@@ -767,6 +739,22 @@
       "duration_ms": 189546,
       "name": "BOCA",
       "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -819,6 +807,22 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
       },
@@ -855,38 +859,6 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
-        "name": "The Book of Us : The Demon",
-        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 235175,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/6DHPaizkhWLCUxDgrYZI0f"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
       },
@@ -899,22 +871,6 @@
       "duration_ms": 244986,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
-        "name": "Golden Hour - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
-      },
-      "artists": [
-        {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 199621,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -951,6 +907,38 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
+        "name": "Golden Hour - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "duration_ms": 199621,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
         "name": "Black Eye",
         "url": "https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9"
       },
@@ -979,6 +967,22 @@
       "duration_ms": 219453,
       "name": "WAY 4 LUV",
       "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
+        "name": "The Book of Us : The Demon",
+        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -1015,6 +1019,22 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
+        "name": "Troubleshooting",
+        "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 212774,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
         "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
         "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
       },
@@ -1031,22 +1051,18 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
-        "name": "Lips (Feat. GISELLE)",
-        "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
       },
       "artists": [
         {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "GISELLE",
-          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 182693,
-      "name": "Lips (Feat. GISELLE)",
-      "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
+      "duration_ms": 235175,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/6DHPaizkhWLCUxDgrYZI0f"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -1071,6 +1087,26 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
+        "name": "Lips (Feat. GISELLE)",
+        "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "GISELLE",
+          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Lips (Feat. GISELLE)",
+      "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
       },
@@ -1083,22 +1119,6 @@
       "duration_ms": 153546,
       "name": "Doll",
       "url": "https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
-        "name": "Troubleshooting",
-        "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 212774,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -1167,38 +1187,6 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 237512,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
-        "name": "[Apocalypse : From us]",
-        "url": "https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 213506,
-      "name": "BONVOYAGE",
-      "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
         "name": "Deadlock",
         "url": "https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG"
       },
@@ -1215,6 +1203,22 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 237512,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
         "name": "NAN CHUN",
         "url": "https://open.spotify.com/album/10vZm1P5k6mIJSlPg127eb"
       },
@@ -1227,6 +1231,22 @@
       "duration_ms": 229493,
       "name": "NAN CHUN",
       "url": "https://open.spotify.com/track/4TBHfv2isYco3fNKjQ8oSI"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
+        "name": "[Apocalypse : From us]",
+        "url": "https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 213506,
+      "name": "BONVOYAGE",
+      "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -1311,22 +1331,6 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
-        "name": "Regret of the Times (2024 aespa Remake Version) - SM STATION",
-        "url": "https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "Regret of the Times - 2024 aespa Remake Version",
-      "url": "https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
@@ -1355,6 +1359,22 @@
       "duration_ms": 176186,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/6piqcwymeAa2yyqIP8AjNj"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
+        "name": "Regret of the Times (2024 aespa Remake Version) - SM STATION",
+        "url": "https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Regret of the Times - 2024 aespa Remake Version",
+      "url": "https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -1391,6 +1411,22 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
+        "name": "ASTERUM",
+        "url": "https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 231986,
+      "name": "Wait for you",
+      "url": "https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO"
       },
@@ -1419,22 +1455,6 @@
       "duration_ms": 215093,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
-        "name": "ASTERUM",
-        "url": "https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 231986,
-      "name": "Wait for you",
-      "url": "https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -1487,6 +1507,22 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
         "name": "Peanut Butter & Tears",
         "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
       },
@@ -1503,18 +1539,18 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+        "name": "better (with you)",
+        "url": "https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn"
       },
       "artists": [
         {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+          "name": "Crying City",
+          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
+      "duration_ms": 146250,
+      "name": "better (with you)",
+      "url": "https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm"
     },
     {
       "added_at": "2024-08-10 15:49:04",
@@ -1555,22 +1591,6 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
-        "name": "better (with you)",
-        "url": "https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn"
-      },
-      "artists": [
-        {
-          "name": "Crying City",
-          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "better (with you)",
-      "url": "https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
         "name": "Livelock",
         "url": "https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh"
       },
@@ -1603,22 +1623,6 @@
     {
       "added_at": "2024-08-10 15:49:04",
       "album": {
-        "name": "ONLY LOVERS LEFT",
-        "url": "https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "WAITING",
-      "url": "https://open.spotify.com/track/4TMVuENexY9u0083CqMphE"
-    },
-    {
-      "added_at": "2024-08-10 15:49:04",
-      "album": {
         "name": "Goddess of Despair",
         "url": "https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv"
       },
@@ -1631,6 +1635,22 @@
       "duration_ms": 219760,
       "name": "Goddess of Despair",
       "url": "https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf"
+    },
+    {
+      "added_at": "2024-08-10 15:49:04",
+      "album": {
+        "name": "dried flower",
+        "url": "https://open.spotify.com/album/2I3cgfx30fAcg5OPyLRWmC"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "dried flower",
+      "url": "https://open.spotify.com/track/00lg2EJeEw5SQbqtLWrGOz"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

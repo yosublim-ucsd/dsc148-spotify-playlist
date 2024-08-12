@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Orion Sun
 
-1,258 songs - 2 day 18 hr 33 min
+1,259 songs - 2 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-06-10 | 2022-11-05 |
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-01-28 | 2022-07-29 |
 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 | 2021-03-19 | 2022-07-05 |
-| [CIRCLE](https://open.spotify.com/track/6MsNRRTP7BIOUg0VnyGSEP) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CIRCLE](https://open.spotify.com/album/0mhdhua5RuMwZWhrcshvEJ) | 1:30 | 2024-06-07 |  |
+| [CIRCLE](https://open.spotify.com/track/6MsNRRTP7BIOUg0VnyGSEP) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CIRCLE](https://open.spotify.com/album/0mhdhua5RuMwZWhrcshvEJ) | 1:30 | 2024-06-07 | 2024-08-12 |
 | [circles](https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [circles](https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc) | 2:28 | 2024-03-08 | 2024-03-24 |
 | [circles](https://open.spotify.com/track/5snFgC1DedpQ5yhJINZ70A) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:28 | 2024-03-08 | 2024-04-19 |
 | [City of Angels](https://open.spotify.com/track/6dQ2LusAx9Lr7NwkwHkYIC) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [City of Angels](https://open.spotify.com/album/7LuzVcbZIaIH3MYWo81k2q) | 2:10 | 2022-08-12 | 2022-10-10 |
@@ -605,6 +605,7 @@
 | [Killing Me Softly With His Song \- Spotify Singles](https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 3:46 | 2024-05-24 |  |
 | [Kisses](https://open.spotify.com/track/2BeBl5zIuOINV0v3AYTVTD) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Luvr](https://open.spotify.com/album/2sKQrhLFA3O4N1I47S39vO) | 2:24 | 2024-07-19 |  |
 | [Klei](https://open.spotify.com/track/2umvKO03mTOKrrtxUh5vUU) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Klei](https://open.spotify.com/album/6rLDaLzmu8NLg9Odlhm0dT) | 1:53 | 2023-07-28 | 2024-06-29 |
+| [KNOW YOU \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5KWU5lAXpJNxWhTX5nDTVm) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [CRYBABY](https://open.spotify.com/album/5ixcAtS032Nfn3Begu5I1y) | 3:04 | 2024-08-09 |  |
 | [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-16 | 2024-07-19 |
 | [Laced](https://open.spotify.com/track/1tPRKLfPLxNtvhRUplkR2y) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Laced](https://open.spotify.com/album/76L61SeO76C6nsQHhNd47d) | 3:40 | 2022-04-01 | 2022-04-05 |
 | [Lady](https://open.spotify.com/track/25a355X1ftClDfOnvAN3YS) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lady](https://open.spotify.com/album/1VVky8OBzNrxJC4ggqxzvS) | 3:06 | 2024-07-26 | 2024-08-03 |

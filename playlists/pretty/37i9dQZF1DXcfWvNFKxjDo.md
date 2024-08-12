@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Ely Oaks, LAVINIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,369 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,419 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 32 | [Tainted Love](https://open.spotify.com/track/4Qgcx3CfIfObK0aWuCk92A) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6), [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [Tainted Love](https://open.spotify.com/album/69kkHtQ3FVCHPSTLKlxL9B) | 2:32 |
 | 33 | [One On One \(feat\. marlonbeats\)](https://open.spotify.com/track/5UeW8R15toXJcw6Vk5dBb8) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [marlonbeats](https://open.spotify.com/artist/5CgKRZNH68S6yctIBLPOmx), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ) | [One On One \(feat\. marlonbeats\)](https://open.spotify.com/album/08QI4r07qv4sCiNGNp3DSF) | 2:18 |
 | 34 | [Axel F \(Take It To The Floor\) \(with Gabry Ponte\)](https://open.spotify.com/track/69akic9gR26niltxBY8pFm) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Axel F \(Take It To The Floor\) \(with Gabry Ponte\)](https://open.spotify.com/album/1j7bXnp1uQSvoiL3AFu1WD) | 2:19 |
-| 35 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
+| 35 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
 | 36 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 |
 | 37 | [Shining](https://open.spotify.com/track/3a6XCejgvWGJTaw4T5YUmn) | [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [Jan Liva](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX), [nuca3](https://open.spotify.com/artist/3lIAxiWtfGU7JPBKY9OsJz) | [Shining](https://open.spotify.com/album/34wjx21Q7skSezX9HSiOiT) | 2:28 |
 | 38 | [Turn Around \(Total Eclipse\)](https://open.spotify.com/track/7Bi5AMaTCsPWpVDtf2ctkg) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Turn Around \(Total Eclipse\)](https://open.spotify.com/album/2ZNt6ady9nPUnv7yLC4au8) | 2:29 |

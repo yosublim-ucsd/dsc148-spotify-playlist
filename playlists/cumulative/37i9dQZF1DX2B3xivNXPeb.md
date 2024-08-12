@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-444 songs - 1 day 2 hr 17 min
+445 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 | 2023-01-10 | 2023-03-18 |
 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 | 2023-03-17 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-10 |  |
+| [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-09 |  |
 | [I Love You](https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY) | [Karriem](https://open.spotify.com/artist/0NadnuC5kb7WZgpZcqqM2d) | [I Love You](https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN) | 6:55 | 2022-12-28 | 2023-01-11 |
 | [I Need \- Mav's Version](https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lonely Are the Brave \(Mav's Version\)](https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph) | 3:59 | 2023-01-10 | 2024-05-18 |
 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2023-01-10 | 2024-03-09 |
@@ -239,7 +240,7 @@
 | [Last 100](https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:00 | 2022-02-14 | 2022-07-23 |
 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 | 2024-05-31 |  |
 | [Learn To Fly](https://open.spotify.com/track/518miTxc3a15X7HB8FgJUW) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Learn To Fly \(with Elton John\)](https://open.spotify.com/album/0smKCfZ1XlApoqIg3AG3Dc) | 3:29 | 2022-02-14 | 2022-12-28 |
-| [let go of me slowly](https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [let go of me slowly](https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T) | 3:27 | 2024-04-11 |  |
+| [let go of me slowly](https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [let go of me slowly](https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T) | 3:27 | 2024-04-11 | 2024-08-12 |
 | [Let Love Flow On](https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t) | [Sonya Spence](https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ) | [Sings Love](https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd) | 3:42 | 2022-12-28 | 2023-01-11 |
 | [Let Me Let You Go](https://open.spotify.com/track/5uFKO19VWXkT5FgdrKnKRB) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Let Me Let You Go](https://open.spotify.com/album/3HzMam8I1NUVU4yC4aBaCk) | 2:50 | 2022-02-14 | 2022-12-28 |
 | [Let You Go](https://open.spotify.com/track/5VbZRQxhOxUzehxgAWeGWI) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Let You Go](https://open.spotify.com/album/3rUAJkxNvm0olHdthZnDSB) | 2:56 | 2024-06-21 | 2024-08-11 |

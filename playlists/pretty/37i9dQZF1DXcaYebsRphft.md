@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > メンバーからの音声メッセージ入り『LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S \- JAPAN』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,403 likes - 15 songs - 29 min 24 sec
+[Spotify](https://open.spotify.com/user/spotify) - 19,385 likes - 15 songs - 29 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

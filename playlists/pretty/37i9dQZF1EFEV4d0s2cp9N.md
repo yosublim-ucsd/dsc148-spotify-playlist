@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">BLVSH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168 likes - 54 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 169 likes - 54 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 25 | [Too Weak](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Coming Home](https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc) | 4:00 |
 | 26 | [a little bit bored \[Feat\. ruuth\]](https://open.spotify.com/track/3BPDK5eBtT6BMYEXs5QzUV) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [a little bit bored \(feat\. ruuth\)](https://open.spotify.com/album/0VkZUsWOnskXe0wS5Toi2X) | 2:59 |
 | 27 | [Now You're a Home \(feat\. Ruuth\)](https://open.spotify.com/track/5mKekqQb3G8OK23LVzqJHB) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB) | [Finding Home](https://open.spotify.com/album/0XG9zBVuCGGnvCK5bD4222) | 3:42 |
-| 28 | [Fragile](https://open.spotify.com/track/7FUA7YopOZWJ38Z4bvagWw) | [S$DD](https://open.spotify.com/artist/1WekWbvgbqnfThxOixlYHw), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4), [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ) | [Fragile](https://open.spotify.com/album/6U4OhqiXPlHvnLwGtNkGlu) | 4:09 |
-| 29 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 |
+| 28 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 |
+| 29 | [Fragile](https://open.spotify.com/track/7FUA7YopOZWJ38Z4bvagWw) | [S$DD](https://open.spotify.com/artist/1WekWbvgbqnfThxOixlYHw), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4), [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ) | [Fragile](https://open.spotify.com/album/6U4OhqiXPlHvnLwGtNkGlu) | 4:09 |
 | 30 | [Feeling](https://open.spotify.com/track/6FAlvEVVjghOb5WjWRuknl) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Timofey](https://open.spotify.com/artist/6MteslgsqpOUtewd6Pw1Uq) | [Feeling](https://open.spotify.com/album/68YUOdsBc9jRCAidJjSmM5) | 2:48 |
 | 31 | [BORN TO BREAK YOUR HEART](https://open.spotify.com/track/4wiaFodiDW7oug9P3Xz7Rc) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [BORN TO BREAK YOUR HEART](https://open.spotify.com/album/4fKw1At9ArifrcL94AdsdS) | 2:39 |
 | 32 | [Turn off the Lights](https://open.spotify.com/track/3TeieiG5zeormUCyJIcF5Z) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [Turn off the Lights](https://open.spotify.com/album/2EsmUBEmNSpSPAUW65C6ng) | 3:08 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 53 | [Lean In \- Interlude](https://open.spotify.com/track/3oMmlRcDyZjCedCuKqJGjC) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:44 |
 | 54 | [Gasoline \- Intro](https://open.spotify.com/track/6T0jiuBv0IMS9ON1MxNIhv) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:15 |
 
-Snapshot ID: `AbZE+wAAAAD7nWT+qEZwYlOr5O7UTr2h`
+Snapshot ID: `AbZKmwAAAAC/gjl8Fs9viYPSAWAB/cwJ`

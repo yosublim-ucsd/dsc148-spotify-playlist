@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 11989,
+  "num_followers": 11993,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABe1F87gPwlP8O9/D60193a",
+  "snapshot_id": "ZratgAAAAACufBs+ZQrDq487NOfFeGNa",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chocolate y Nata",
-        "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
+        "name": "\u00bfY C\u00f3mo?",
+        "url": "https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo"
       },
       "artists": [
         {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Chocolate y Nata",
-      "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
+      "duration_ms": 212866,
+      "name": "\u00bfY C\u00f3mo?",
+      "url": "https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF"
     },
     {
       "added_at": null,
@@ -407,22 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfY C\u00f3mo?",
-        "url": "https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo"
+        "name": "Chocolate y Nata",
+        "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
         },
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 212866,
-      "name": "\u00bfY C\u00f3mo?",
-      "url": "https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF"
+      "duration_ms": 181384,
+      "name": "Chocolate y Nata",
+      "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 219666,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/1VH2uRGNHYNdgXnZ0dyX6k"
+      "duration_ms": 163560,
+      "name": "Nada Que Decir",
+      "url": "https://open.spotify.com/track/0a8Tk3RxN3UK4rw5iqBtWP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,577 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,597 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 12 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
 | 13 | [VOLVER \(instrumental\)](https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [DATA \(Instrumental\)](https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR) | 3:00 |
 | 14 | [The Visit](https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Alt\-Mobeat](https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI) | 1:41 |
-| 15 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
-| 16 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
+| 15 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
+| 16 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
 | 17 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
 | 18 | [Head Above The Parakeets](https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 7:16 |
 | 19 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 24 | [Virtual Forrest](https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4) | [Unblinded Society](https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp) | [Us, In Between The Blinded](https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT) | 2:37 |
 | 25 | [Praha](https://open.spotify.com/track/4PKcsaOmKOrfVXCJCqDOIK) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B), [TM404](https://open.spotify.com/artist/14mCD4JJYKhPl2nLqrjkZ7) | [In The Afterworld](https://open.spotify.com/album/02iBaExXa9p10DT4JlwSU0) | 4:59 |
 | 26 | [Zan](https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn) | [Max Graef](https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55) | [Zan](https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub) | 4:45 |
-| 27 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
-| 28 | [Pigeon Barron](https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 6:39 |
+| 27 | [Pigeon Barron](https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 6:39 |
+| 28 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
 | 29 | [The Precision Of Infinity](https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Precision of Infinity](https://open.spotify.com/album/0hHU32niIoAZ5zu8IceapV) | 4:40 |
 | 30 | [Don't Know What You Are Thinking](https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa) | [Serge Geyzel](https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy) | [As Fallen Leaves](https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3) | 4:59 |
 | 31 | [ITSAME \[group hugg\]](https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [ITSAME](https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx) | 7:41 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 44 | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s) | 6:01 |
 | 45 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
 | 46 | [In Your Head \- Subxet Remix](https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [SUBXET](https://open.spotify.com/artist/2qhMUAZvXDDWWpukApVXwX) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 4:47 |
-| 47 | [Bliss](https://open.spotify.com/track/5brVyVzaMQT3Qtrsc0nvBx) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [More Truth](https://open.spotify.com/album/47KjErxlfKd7C4KO7Xhtg4) | 3:20 |
-| 48 | [Flooding Meadow](https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh) | [Doc Sleep](https://open.spotify.com/artist/5o1pKpYbHcqZanSu2DCrJI) | [Flooding Meadow](https://open.spotify.com/album/53VcxaUbWyXPn47Wzl89bn) | 4:50 |
+| 47 | [Flooding Meadow](https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh) | [Doc Sleep](https://open.spotify.com/artist/5o1pKpYbHcqZanSu2DCrJI) | [Flooding Meadow](https://open.spotify.com/album/53VcxaUbWyXPn47Wzl89bn) | 4:50 |
+| 48 | [Bliss](https://open.spotify.com/track/5brVyVzaMQT3Qtrsc0nvBx) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [More Truth](https://open.spotify.com/album/47KjErxlfKd7C4KO7Xhtg4) | 3:20 |
 | 49 | [Transactional Relationship](https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK) | 3:13 |
 | 50 | [Surrounded By Neighbours](https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [GRIT.](https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB) | 5:31 |
 

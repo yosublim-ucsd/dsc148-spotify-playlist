@@ -2771,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "BAGS",
+        "url": "https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52"
+      },
+      "artists": [
+        {
+          "name": "Seame",
+          "url": "https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "BAGS",
+      "url": "https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ"
+    },
+    {
+      "album": {
         "name": "Baleari",
         "url": "https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y"
       },
@@ -5020,6 +5038,24 @@
       "duration_ms": 159750,
       "name": "camping trip",
       "url": "https://open.spotify.com/track/1SadNNfKugUYlaXTZO9g7c"
+    },
+    {
+      "album": {
+        "name": "Can't Stop",
+        "url": "https://open.spotify.com/album/1VlRVqoTU5iPWpqtVlti60"
+      },
+      "artists": [
+        {
+          "name": "Akkoro",
+          "url": "https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/4UWgHP5mf1Bp1oguCvOG7n"
     },
     {
       "album": {
@@ -20220,7 +20256,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 128000,
       "name": "maybe or maybe",
       "url": "https://open.spotify.com/track/1GRBea14szlPf66aUR1Yaz"
@@ -28120,7 +28156,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 114580,
       "name": "Safety",
       "url": "https://open.spotify.com/track/2sH1SgochD5ojGRiKeXVR1"

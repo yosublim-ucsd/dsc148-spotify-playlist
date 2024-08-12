@@ -1,12 +1,12 @@
 {
-  "description": "This Is Yuridia. Sus mejores \u00e9xitos, todos en una playlist.",
-  "num_followers": 454891,
+  "description": "This is Yuridia. The essential tracks, all in one playlist.",
+  "num_followers": 455024,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAACHf1Rs6z+ikzewO3im4xDi",
+  "snapshot_id": "ZratgAAAAABSWuDeoy+m1TlV0yHuXCli",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Literal",
+        "url": "https://open.spotify.com/album/4B9zs7Fm6Ae314vkEohzJR"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Literal",
+      "url": "https://open.spotify.com/track/4M4tWXiF87o7z2y1OkHzQw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pensando Positivo",
         "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 193300,
       "name": "Pensando Positivo",
       "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Literal",
-        "url": "https://open.spotify.com/album/4B9zs7Fm6Ae314vkEohzJR"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Literal",
-      "url": "https://open.spotify.com/track/4M4tWXiF87o7z2y1OkHzQw"
     },
     {
       "added_at": null,
@@ -675,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habla el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Patricio Borghetti",
-          "url": "https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP"
         }
       ],
-      "duration_ms": 324493,
-      "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
-      "url": "https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2"
+      "duration_ms": 236906,
+      "name": "D\u00e9jame Volver Contigo",
+      "url": "https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls"
     },
     {
       "added_at": null,
@@ -711,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+        "name": "Habla el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Patricio Borghetti",
+          "url": "https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP"
         }
       ],
-      "duration_ms": 236906,
-      "name": "D\u00e9jame Volver Contigo",
-      "url": "https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls"
+      "duration_ms": 324493,
+      "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
+      "url": "https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2"
     },
     {
       "added_at": null,

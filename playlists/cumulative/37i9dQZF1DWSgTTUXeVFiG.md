@@ -4,7 +4,7 @@
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-86 songs - 9 hr 1 min
+87 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Detalles \- Live](https://open.spotify.com/track/65lf9GOGo5pjHUqImIGwPv) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 4:41 | 2022-03-18 |  |
 | [Discúlpeme Señora \- Live Version](https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS) | [El Canario](https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:49 | 2024-03-19 |  |
 | [El Cantante \- Live](https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 2:57 | 2022-03-18 | 2024-04-16 |
-| [El Menú en Vivo](https://open.spotify.com/track/7dF41Y5HHJHruHkr0QxTQV) | [Gran Combo](https://open.spotify.com/artist/2JJhi6pG6YnyotZIslUMCY) | [Pa Recordar Bailando](https://open.spotify.com/album/1zxqF4M97k9vACCsbkHNK3) | 5:46 | 2024-03-19 |  |
+| [El Menú en Vivo](https://open.spotify.com/track/7dF41Y5HHJHruHkr0QxTQV) | [Gran Combo](https://open.spotify.com/artist/2JJhi6pG6YnyotZIslUMCY) | [Pa Recordar Bailando](https://open.spotify.com/album/1zxqF4M97k9vACCsbkHNK3) | 5:46 | 2024-03-19 | 2024-08-12 |
+| [El Padre Antonio \- Live](https://open.spotify.com/track/4RUalJiPWxAs6oCvWLfA7s) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Ruben Blades Y Son Del Solar...Live!](https://open.spotify.com/album/2U4HAfJgw4mYV9ILruwt3u) | 8:46 | 2024-03-19 |  |
 | [Ella Es \- En Vivo](https://open.spotify.com/track/718X6sjlHdmOzdTfJv4tUc) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 4:56 | 2022-03-18 | 2024-04-19 |
 | [Esa Mujer \- En Vivo](https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 5:51 | 2022-03-18 | 2024-04-19 |
 | [Estrellas de Fania \- Live At The Cheetah Club / New York, NY / August 26, 1971](https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Live At The Cheetah, Vol\. 2](https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ) | 7:24 | 2022-03-18 |  |

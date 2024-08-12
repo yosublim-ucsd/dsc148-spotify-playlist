@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 11761,
+  "num_followers": 11763,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAADu9N7zEH6nMPohi0sAd/CC",
+  "snapshot_id": "ZratgAAAAAC+cWvlu+685S1uIYjZ1HLt",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soro",
-        "url": "https://open.spotify.com/album/0f9D2ul5epWCta3847KfNR"
+        "name": "Moffou (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 361960,
-      "name": "Cono",
-      "url": "https://open.spotify.com/track/3HMQXE2tma5gy9LOcgf0QR"
+      "duration_ms": 196613,
+      "name": "Souvent",
+      "url": "https://open.spotify.com/track/3wlOX0L9jxeWLphs0giYOI"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moffou (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/0f9D2ul5epWCta3847KfNR"
       },
       "artists": [
         {
@@ -712,25 +712,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 196613,
-      "name": "Souvent",
-      "url": "https://open.spotify.com/track/3wlOX0L9jxeWLphs0giYOI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folon",
-        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 637493,
-      "name": "Mandjou",
-      "url": "https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl"
+      "duration_ms": 361960,
+      "name": "Cono",
+      "url": "https://open.spotify.com/track/3HMQXE2tma5gy9LOcgf0QR"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moffou (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 283520,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/4CLtnYlDBvlgPA10boQdxH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
       },
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moffou (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
+        "name": "Folon",
+        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 283520,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/4CLtnYlDBvlgPA10boQdxH"
+      "duration_ms": 637493,
+      "name": "Mandjou",
+      "url": "https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl"
     },
     {
       "added_at": null,

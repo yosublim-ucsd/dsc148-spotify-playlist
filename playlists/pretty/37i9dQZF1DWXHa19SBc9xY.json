@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 96539,
+  "num_followers": 96590,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Ana",
-        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 226243,
-      "name": "X",
-      "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Bateu",
         "url": "https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 206511,
       "name": "Bateu",
       "url": "https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Ana",
+        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 226243,
+      "name": "X",
+      "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -327,6 +327,30 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Te Vi Na Rua",
+        "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "RDD",
+          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
+        }
+      ],
+      "duration_ms": 174310,
+      "name": "Te Vi Na Rua",
+      "url": "https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Beleza Rara",
         "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
       },
@@ -355,46 +379,6 @@
       "duration_ms": 141452,
       "name": "Planeta Para",
       "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Mundo Novo",
-        "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "Sem Medo",
-      "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Te Vi Na Rua",
-        "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "RDD",
-          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
-        }
-      ],
-      "duration_ms": 174310,
-      "name": "Te Vi Na Rua",
-      "url": "https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -439,6 +423,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Mundo Novo",
+        "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "Sem Medo",
+      "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Rua Tr\u00eas",
         "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 154647,
       "name": "Rua Tr\u00eas",
       "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "O Amor Descansa Na Varanda",
+        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 204998,
+      "name": "O Amor Descansa Na Varanda",
+      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -475,38 +491,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "O Amor Descansa Na Varanda",
-        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 204998,
-      "name": "O Amor Descansa Na Varanda",
-      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "raiz",
         "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 180394,
-      "name": "Vem de L\u00e1",
-      "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 180394,
+      "name": "Vem de L\u00e1",
+      "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Gente",
         "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
       },
@@ -587,6 +587,26 @@
       "duration_ms": 196546,
       "name": "Que Sorte",
       "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "N\u00f3s Dois Aqui",
+        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        }
+      ],
+      "duration_ms": 241572,
+      "name": "N\u00f3s Dois Aqui",
+      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -643,26 +663,6 @@
       "duration_ms": 145377,
       "name": "Bem Me Queira",
       "url": "https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "N\u00f3s Dois Aqui",
-        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        }
-      ],
-      "duration_ms": 241572,
-      "name": "N\u00f3s Dois Aqui",
-      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Somos Instantes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
       },
@@ -771,22 +755,6 @@
       "duration_ms": 271293,
       "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
       "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "In\u00edcio",
-        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 192371,
-      "name": "Conto as Horas",
-      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -827,6 +795,38 @@
       "duration_ms": 158478,
       "name": "Te Amar \u00c9 F\u00e1cil",
       "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Somos Instantes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 224687,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "In\u00edcio",
+        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 192371,
+      "name": "Conto as Horas",
+      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -935,6 +935,26 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Rainha da Minha Bateria",
+        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Juliano Moreira",
+          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
+        }
+      ],
+      "duration_ms": 243850,
+      "name": "Rainha da Minha Bateria",
+      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Dend\u00ea",
         "url": "https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH"
       },
@@ -971,42 +991,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "borboletas",
-        "url": "https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi"
-      },
-      "artists": [
-        {
-          "name": "VELINO",
-          "url": "https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3"
-        }
-      ],
-      "duration_ms": 175038,
-      "name": "borboletas",
-      "url": "https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Rainha da Minha Bateria",
-        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Juliano Moreira",
-          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
-        }
-      ],
-      "duration_ms": 243850,
-      "name": "Rainha da Minha Bateria",
-      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Andar Leve",
         "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 165408,
       "name": "Andar Leve",
       "url": "https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "borboletas",
+        "url": "https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi"
+      },
+      "artists": [
+        {
+          "name": "VELINO",
+          "url": "https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3"
+        }
+      ],
+      "duration_ms": 175038,
+      "name": "borboletas",
+      "url": "https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "samba do mo\u00e7o bonito",
-        "url": "https://open.spotify.com/album/1m7YxyY5M89ksdvOwuKc0e"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 197090,
-      "name": "samba do mo\u00e7o bonito",
-      "url": "https://open.spotify.com/track/4eskR9gFtgYA2lY09lgqly"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Amor das Minhas Vidas",
         "url": "https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 177343,
       "name": "Amor das Minhas Vidas",
       "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "samba do mo\u00e7o bonito",
+        "url": "https://open.spotify.com/album/1m7YxyY5M89ksdvOwuKc0e"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 197090,
+      "name": "samba do mo\u00e7o bonito",
+      "url": "https://open.spotify.com/track/4eskR9gFtgYA2lY09lgqly"
     },
     {
       "added_at": "2023-11-24 08:42:40",

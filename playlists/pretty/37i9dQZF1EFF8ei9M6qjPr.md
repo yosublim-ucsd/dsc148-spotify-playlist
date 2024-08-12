@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344 likes - 136 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 350 likes - 136 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 63 | [Wildflower](https://open.spotify.com/track/5HEfenabh2FfPUOO4xa89L) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Wildflower](https://open.spotify.com/album/5MX0G9hlDVOUsY6zRDFMq0) | 2:41 |
 | 64 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 |
 | 65 | [Cotton Candy Lemonade \(Anna Lunoe Remix\)](https://open.spotify.com/track/2wmkq5eX7OJIkXkT9Qy673) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade \(Anna Lunoe Remix\)](https://open.spotify.com/album/45qgHRxk8NBzdsxkTk9If5) | 4:07 |
-| 66 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 |
-| 67 | [Warning Shot](https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Warning Shot](https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8) | 2:25 |
+| 66 | [Warning Shot](https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Warning Shot](https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8) | 2:25 |
+| 67 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 |
 | 68 | [Adrenaline](https://open.spotify.com/track/1XtKDLAUMpkP7d5As2tMdo) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Adrenaline](https://open.spotify.com/album/2XB9irMRwGVnLswejrbG0b) | 2:26 |
 | 69 | [i drive me mad \- Mike Shinoda Mix](https://open.spotify.com/track/0DplYafqAQYY1fcx3XY3hv) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [i drive me mad \(Mike Shinoda Mix\)](https://open.spotify.com/album/74eZ7jc74TkCSI8esb81xd) | 2:48 |
 | 70 | [Come Home](https://open.spotify.com/track/1fMpSEEm9DWTmgxB4f7DXx) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:18 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 135 | [Freakshow](https://open.spotify.com/track/4WceOz4GIcG7FyYvkpcNQj) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/1JfiOjHXTPhks1hpToVbLX) | 2:24 |
 | 136 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 |
 
-Snapshot ID: `AbZFCAAAAACqDG/9b1Q8kWIV5K2j50+T`
+Snapshot ID: `AbZKbAAAAAC6Nua0ewhowNbWU/cxPI7d`

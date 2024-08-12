@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Zaynara, Pabllo Vittar",
-  "num_followers": 372312,
+  "num_followers": 372300,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,46 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
-        "name": "recadin no espelho",
-        "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 124312,
-      "name": "recadin no espelho",
-      "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
+      "duration_ms": 202955,
+      "name": "NOSSA M\u00daSICA",
+      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
+        "name": "Hotel Caro",
+        "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 221857,
+      "name": "Hotel Caro",
+      "url": "https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -223,50 +247,6 @@
       "duration_ms": 103384,
       "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
       "url": "https://open.spotify.com/track/4zDaVEHAvqPiIQN7jKtmhM"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
-        "name": "Hotel Caro",
-        "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 221857,
-      "name": "Hotel Caro",
-      "url": "https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 202955,
-      "name": "NOSSA M\u00daSICA",
-      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -307,6 +287,26 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
+        "name": "recadin no espelho",
+        "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 124312,
+      "name": "recadin no espelho",
+      "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
         "name": "Vagabundo de Luxo",
         "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
+        "name": "FETICHE",
+        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 165379,
+      "name": "sodade",
+      "url": "https://open.spotify.com/track/1fXFNDgwUEXQObh7A9XN10"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -411,18 +427,26 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
-        "name": "FETICHE",
-        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
+        "name": "Joga Pra Lua",
+        "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
       },
       "artists": [
         {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         }
       ],
-      "duration_ms": 165379,
-      "name": "sodade",
-      "url": "https://open.spotify.com/track/1fXFNDgwUEXQObh7A9XN10"
+      "duration_ms": 125108,
+      "name": "Joga Pra Lua",
+      "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -459,70 +483,6 @@
       "duration_ms": 180009,
       "name": "Raio X - Ao Vivo",
       "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
-        "name": "Joga Pra Lua",
-        "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 125108,
-      "name": "Joga Pra Lua",
-      "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Me Lambe",
-      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
-        "name": "FUTURO FLUXO",
-        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 165111,
-      "name": "DA BRABA",
-      "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -567,6 +527,46 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 165111,
+      "name": "DA BRABA",
+      "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 175086,
+      "name": "Me Lambe",
+      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
         "name": "C\u00e9u Ros\u00e9",
         "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
@@ -583,6 +583,42 @@
       "duration_ms": 164237,
       "name": "C\u00e9u Ros\u00e9",
       "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 205111,
+      "name": "Dano Sarrada",
+      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
+        "name": "Quase N\u00e3o Namoro",
+        "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 135456,
+      "name": "Quase N\u00e3o Namoro",
+      "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -611,18 +647,26 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 205111,
-      "name": "Dano Sarrada",
-      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -647,46 +691,22 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
-        "name": "Quase N\u00e3o Namoro",
-        "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
       "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        },
         {
           "name": "Marina Sena",
           "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 135456,
-      "name": "Quase N\u00e3o Namoro",
-      "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         },
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
         }
       ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+      "duration_ms": 190000,
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -739,6 +759,26 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
+        "name": "Aceita (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/6QXjrHkPxuk3N8ZINvq3le"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Aceita - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/5neNUN5qPB1hkJzhT823rO"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
         "name": "Deixa",
         "url": "https://open.spotify.com/album/3ojDsD2W4VEB3XKXIDAxIc"
       },
@@ -771,46 +811,6 @@
       "duration_ms": 132439,
       "name": "C\u00f3cegas",
       "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
-        "name": "Aceita (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/6QXjrHkPxuk3N8ZINvq3le"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Aceita - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/5neNUN5qPB1hkJzhT823rO"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Que Tal",
-      "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -971,30 +971,6 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
-        "name": "PROIBIDO N\u00c3O GOSTAR",
-        "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
-      },
-      "artists": [
-        {
-          "name": "Duda Brack",
-          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        },
-        {
-          "name": "Felipe Cordeiro",
-          "url": "https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
         "name": "METamorFOSE",
         "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
       },
@@ -1023,6 +999,30 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
+        "name": "PROIBIDO N\u00c3O GOSTAR",
+        "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
+      },
+      "artists": [
+        {
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        },
+        {
+          "name": "Felipe Cordeiro",
+          "url": "https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
         "name": "o \u00faltimo",
         "url": "https://open.spotify.com/album/0h7quIDwRpxnwkg8kA4OXD"
       },
@@ -1035,6 +1035,34 @@
       "duration_ms": 145233,
       "name": "o \u00faltimo",
       "url": "https://open.spotify.com/track/0QSnslyJGNhl1kNyJeBQAa"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
+        "name": "Do Jeito Que Ela Gosta",
+        "url": "https://open.spotify.com/album/5N3dIozEwpzQnN6AlBStiz"
+      },
+      "artists": [
+        {
+          "name": "Anna",
+          "url": "https://open.spotify.com/artist/3sLh7xqgu6RxVYokUj0nEx"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "Sucre",
+          "url": "https://open.spotify.com/artist/6SdlX8i3HPpAGh7FMAh9KF"
+        },
+        {
+          "name": "Zain",
+          "url": "https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp"
+        }
+      ],
+      "duration_ms": 143762,
+      "name": "Do Jeito Que Ela Gosta",
+      "url": "https://open.spotify.com/track/6jhYRLgXWe5tqeGT3QkQds"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -1075,34 +1103,6 @@
       "duration_ms": 290902,
       "name": "Para De Dizer Que N\u00e3o Me Ama - Ao Vivo",
       "url": "https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
-        "name": "Do Jeito Que Ela Gosta",
-        "url": "https://open.spotify.com/album/5N3dIozEwpzQnN6AlBStiz"
-      },
-      "artists": [
-        {
-          "name": "Anna",
-          "url": "https://open.spotify.com/artist/3sLh7xqgu6RxVYokUj0nEx"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        },
-        {
-          "name": "Sucre",
-          "url": "https://open.spotify.com/artist/6SdlX8i3HPpAGh7FMAh9KF"
-        },
-        {
-          "name": "Zain",
-          "url": "https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp"
-        }
-      ],
-      "duration_ms": 143762,
-      "name": "Do Jeito Que Ela Gosta",
-      "url": "https://open.spotify.com/track/6jhYRLgXWe5tqeGT3QkQds"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
+      },
+      "artists": [
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 128904,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
         "name": "A Vida De Uma Gostosa",
         "url": "https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 157200,
       "name": "A Vida De Uma Gostosa",
       "url": "https://open.spotify.com/track/5kENXCermYSISd7l9rSBNf"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
-        "name": "Miragem",
-        "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
-      },
-      "artists": [
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 128904,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
+        "name": "me ama",
+        "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 226461,
+      "name": "me ama",
+      "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
         "name": "Deusa",
         "url": "https://open.spotify.com/album/2sCCmE3wj6hxouVqdYWn69"
       },
@@ -1443,6 +1459,30 @@
       "duration_ms": 193194,
       "name": "O Que Tem Por Vir",
       "url": "https://open.spotify.com/track/3hexwXMaoMiBlz3W7ZIOH3"
+    },
+    {
+      "added_at": "2024-08-09 14:35:59",
+      "album": {
+        "name": "Calor Dobrado",
+        "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Calor Dobrado",
+      "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
     },
     {
       "added_at": "2024-08-09 14:35:59",
@@ -1487,22 +1527,6 @@
     {
       "added_at": "2024-08-09 14:35:59",
       "album": {
-        "name": "me ama",
-        "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
-      },
-      "artists": [
-        {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
-        }
-      ],
-      "duration_ms": 226461,
-      "name": "me ama",
-      "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
         "name": "Meus Gostos",
         "url": "https://open.spotify.com/album/0zmmeosdFMUp97fVS7p9Sb"
       },
@@ -1519,30 +1543,6 @@
       "duration_ms": 168576,
       "name": "Ariana",
       "url": "https://open.spotify.com/track/0mDcEQc2cjNbK0BXIunJli"
-    },
-    {
-      "added_at": "2024-08-09 14:35:59",
-      "album": {
-        "name": "Calor Dobrado",
-        "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Calor Dobrado",
-      "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
     },
     {
       "added_at": "2024-08-09 14:35:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,698 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,731 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 49 | [ESPECIALISTA](https://open.spotify.com/track/2ZIOwWa5HiQWTzOagFGdao) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 2:52 |
 | 50 | [.38](https://open.spotify.com/track/4DT1XyJfezpWVgf11fiq3v) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [CONFIA](https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3) | 2:06 |
 
-Snapshot ID: `ZrVcAAAAAAC6a1EmbnbWOgxStTBEoMfF`
+Snapshot ID: `ZratgAAAAACdpQn3aggg6sG/vComa0kd`

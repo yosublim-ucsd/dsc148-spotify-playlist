@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,988 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,001 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 16 | [Bottle Up & Go](https://open.spotify.com/track/0X1w7fhjareYB8kfqW25Rf) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serves You Right To Suffer](https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV) | 2:25 |
 | 17 | [This is Hip \- Remastered](https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 2:25 |
 | 18 | [Same Old Blues Again \(2007 \- Remaster\)](https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN) | 6:13 |
-| 19 | [The Motor City Is Burning](https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Blues Legend](https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w) | 2:51 |
-| 20 | [Don't Look Back \(feat\. Van Morrison\)](https://open.spotify.com/track/7CTBrlgx4l9JXfJellaBOE) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 6:44 |
+| 19 | [Don't Look Back \(feat\. Van Morrison\)](https://open.spotify.com/track/7CTBrlgx4l9JXfJellaBOE) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 6:44 |
+| 20 | [The Motor City Is Burning](https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Blues Legend](https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w) | 2:51 |
 | 21 | [Cry Before I Go](https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:38 |
 | 22 | [I Cover the Waterfront \(feat\. Booker T\. Jones\)](https://open.spotify.com/track/050GP3PZhpslbb83CBhzIR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U) | [Mr\. Lucky](https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ) | 6:44 |
 | 23 | [Wednesday Evenin' Blues](https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 3:34 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 38 | [Annie Mae \(2007 \- Remaster\)](https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 5:19 |
 | 39 | [It Serves Me Right](https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [In Person](https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz) | 3:32 |
 | 40 | [Cuttin' Out \(feat\. Canned Heat\)](https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:37 |
-| 41 | [You Know, I Know](https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:53 |
-| 42 | [No Shoes](https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Travelin'](https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ) | 2:25 |
+| 41 | [No Shoes](https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Travelin'](https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ) | 2:25 |
+| 42 | [You Know, I Know](https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:53 |
 | 43 | [I Can't Quit You Baby](https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [More Real Folk Blues: The Missing Album](https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11) | 3:28 |
 | 44 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 |
 | 45 | [I Got My Eyes On You](https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [Messin' With The Hook](https://open.spotify.com/track/1R1NIZpyN47AJa3to8vu0x) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 3:23 |
 | 50 | [I Wanna Walk](https://open.spotify.com/track/2OigRCY3ff6sAmQRrJwMGC) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Travelin'](https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ) | 2:14 |
 
-Snapshot ID: `ZrVcAAAAAAAowjkycrXgUDXQQvn4CRhT`
+Snapshot ID: `ZratgAAAAACxi7dlHWQ1iW9dr3gooheh`

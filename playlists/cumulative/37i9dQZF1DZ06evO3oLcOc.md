@@ -2,9 +2,9 @@
 
 ### [This Is Tyga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3oLcOc)
 
-> This Is Tyga\. Los temas esenciales, todos en una lista.
+> This is Tyga\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 19 min
+85 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 | 2023-06-07 |  |
 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 | 2023-06-07 |  |
 | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL) | 2:43 | 2023-06-07 |  |
-| [SWISH](https://open.spotify.com/track/55GiOwtxNajXVbpjjIzMnD) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [SWISH](https://open.spotify.com/album/4RH1KjpPQxqtOTyV6WikPh) | 3:14 | 2023-06-07 |  |
+| [SWISH](https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Legendary \(Deluxe Edition\)](https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr) | 3:14 | 2024-08-12 |  |
+| [SWISH](https://open.spotify.com/track/55GiOwtxNajXVbpjjIzMnD) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [SWISH](https://open.spotify.com/album/4RH1KjpPQxqtOTyV6WikPh) | 3:14 | 2023-06-07 | 2024-08-12 |
 | [Switch Lanes](https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Hotel California \(Deluxe\)](https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7) | 3:41 | 2023-06-07 |  |
 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:49 | 2023-06-07 |  |
 | [Thumpin](https://open.spotify.com/track/5mA0smotoPkiLuXDKOIYDB) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Hit Me When U Leave The Klub: The Playlist](https://open.spotify.com/album/46ewpqal8NF1SSkarlK7FZ) | 2:41 | 2023-11-10 | 2024-02-10 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 ### [This Is Teddy Pendergrass](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Cn8UU)
 
-> This is: Teddy Pendergrass\. Alle wichtigen Tracks in einer Playlist.
+> This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,872 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,886 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 39 | [It's Time for Love](https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 5:57 |
 | 40 | [Believe In Love \- Phat Phili Mix](https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Believe In Love](https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN) | 4:18 |
 | 41 | [Can't We Try](https://open.spotify.com/track/16fL0EBjZAqAVASav7A6Rl) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 5:03 |
-| 42 | [Easy, Easy, Got To Take It Easy](https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:52 |
-| 43 | [I Want My Baby Back](https://open.spotify.com/track/466Nltju0Om75oImtmEyR5) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Heaven Only Knows](https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK) | 4:00 |
+| 42 | [I Want My Baby Back](https://open.spotify.com/track/466Nltju0Om75oImtmEyR5) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Heaven Only Knows](https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK) | 4:00 |
+| 43 | [Easy, Easy, Got To Take It Easy](https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:52 |
 | 44 | [Tell the World How I Feel About 'Cha Baby \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 5:52 |
 | 45 | [Is It Still Good to Ya](https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:34 |
 | 46 | [I Can't Live Without Your Love](https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 49 | [You're My Choice Tonight \(Choose Me\)](https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 4:49 |
 | 50 | [Two Hearts](https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Stephanie](https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6) | 4:43 |
 
-Snapshot ID: `ZrVcAAAAAAC01oOMwrM0M5NxAiq+/ta9`
+Snapshot ID: `ZratgAAAAAAb316sw+lWYJgQvGOjjcRV`

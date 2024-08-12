@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Paloma Possi",
-  "num_followers": 121989,
+  "num_followers": 122002,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-08-09 18:27:00",
       "album": {
-        "name": "Recursos",
-        "url": "https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 346495,
-      "name": "Recursos",
-      "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
-    },
-    {
-      "added_at": "2024-08-09 18:27:00",
-      "album": {
         "name": "Ele Vem",
         "url": "https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 549181,
       "name": "Emanuel",
       "url": "https://open.spotify.com/track/17fYhMm4mxOnbo5vDn7567"
+    },
+    {
+      "added_at": "2024-08-09 18:27:00",
+      "album": {
+        "name": "Recursos",
+        "url": "https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 346495,
+      "name": "Recursos",
+      "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
     },
     {
       "added_at": "2024-08-09 18:27:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-08-09 18:27:00",
       "album": {
-        "name": "Me Mostra Tua Face",
-        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
-      },
-      "artists": [
-        {
-          "name": "RL Worship",
-          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
-        }
-      ],
-      "duration_ms": 384724,
-      "name": "Me Mostra Tua Face",
-      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
-    },
-    {
-      "added_at": "2024-08-09 18:27:00",
-      "album": {
         "name": "Deus Te Chama",
         "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2024-08-09 18:27:00",
       "album": {
-        "name": "Mesmo Sem Entender",
-        "url": "https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR"
+        "name": "Me Mostra Tua Face",
+        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
       },
       "artists": [
         {
-          "name": "Milena Pina",
-          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
+          "name": "RL Worship",
+          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Mesmo Sem Entender",
-      "url": "https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3"
+      "duration_ms": 384724,
+      "name": "Me Mostra Tua Face",
+      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
     },
     {
       "added_at": "2024-08-09 18:27:00",
@@ -551,6 +535,22 @@
       "duration_ms": 288857,
       "name": "Pra Que Eu Fosse Livre",
       "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
+    },
+    {
+      "added_at": "2024-08-09 18:27:00",
+      "album": {
+        "name": "Mesmo Sem Entender",
+        "url": "https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR"
+      },
+      "artists": [
+        {
+          "name": "Milena Pina",
+          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mesmo Sem Entender",
+      "url": "https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3"
     },
     {
       "added_at": "2024-08-09 18:27:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-08-09 18:27:00",
       "album": {
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+      },
+      "artists": [
+        {
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+        }
+      ],
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+    },
+    {
+      "added_at": "2024-08-09 18:27:00",
+      "album": {
         "name": "Destemida",
         "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-08-09 18:27:00",
       "album": {
-        "name": "Quem \u00e9 Esse?",
-        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
-      },
-      "artists": [
-        {
-          "name": "Naara e Sarah",
-          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
-        }
-      ],
-      "duration_ms": 319577,
-      "name": "Quem \u00e9 Esse?",
-      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
-    },
-    {
-      "added_at": "2024-08-09 18:27:00",
-      "album": {
         "name": "Quando o Eterno For Real",
         "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 290222,
       "name": "Quando o Eterno For Real",
       "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
-    },
-    {
-      "added_at": "2024-08-09 18:27:00",
-      "album": {
-        "name": "Basta Uma Palavra",
-        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Basta Uma Palavra",
-      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
     },
     {
       "added_at": "2024-08-09 18:27:00",
@@ -791,6 +775,22 @@
       "duration_ms": 291253,
       "name": "Vest\u00edgios",
       "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
+    },
+    {
+      "added_at": "2024-08-09 18:27:00",
+      "album": {
+        "name": "Basta Uma Palavra",
+        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
     },
     {
       "added_at": "2024-08-09 18:27:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-09 18:27:00",
       "album": {
-        "name": "Tu \u00c9s Real",
-        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
-      },
-      "artists": [
-        {
-          "name": "Tamires Sabotage",
-          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
-        }
-      ],
-      "duration_ms": 302769,
-      "name": "Tu \u00c9s Real",
-      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
-    },
-    {
-      "added_at": "2024-08-09 18:27:00",
-      "album": {
         "name": "N\u00e3o Serei o Mesmo",
         "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 397096,
       "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
       "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
+    },
+    {
+      "added_at": "2024-08-09 18:27:00",
+      "album": {
+        "name": "Tu \u00c9s Real",
+        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
+      },
+      "artists": [
+        {
+          "name": "Tamires Sabotage",
+          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
+        }
+      ],
+      "duration_ms": 302769,
+      "name": "Tu \u00c9s Real",
+      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
     },
     {
       "added_at": "2024-08-09 18:27:00",

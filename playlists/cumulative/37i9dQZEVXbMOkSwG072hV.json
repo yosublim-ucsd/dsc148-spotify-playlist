@@ -10825,6 +10825,28 @@
     },
     {
       "album": {
+        "name": "Como Flecha",
+        "url": "https://open.spotify.com/album/5sEDJUKZTMvChisYraNVQB"
+      },
+      "artists": [
+        {
+          "name": "Samuel Dias",
+          "url": "https://open.spotify.com/artist/0hJ3Y7nOHR6ibLnMABe3TK"
+        },
+        {
+          "name": "Carol Braga",
+          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296995,
+      "name": "Como Flecha",
+      "url": "https://open.spotify.com/track/1QJ9w4EatzA9VXBt3OBNX2"
+    },
+    {
+      "album": {
         "name": "Como Um Beijo",
         "url": "https://open.spotify.com/album/0v9tio4n9EmZr960giD6Q4"
       },
@@ -31892,7 +31914,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -34350,7 +34372,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 330431,
       "name": "Nois J\u00e1 T\u00e1 Rico",
       "url": "https://open.spotify.com/track/07sMt82ZS8ChcQhZ0P098t"
@@ -42392,7 +42414,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 198370,
       "name": "Relaxa a Bct Mulher",
       "url": "https://open.spotify.com/track/3rhCQVwAYYdcc0yFLQi3Kb"

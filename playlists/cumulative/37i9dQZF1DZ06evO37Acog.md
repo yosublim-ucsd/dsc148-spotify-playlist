@@ -2,9 +2,9 @@
 
 ### [This Is Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO37Acog)
 
-> This Is Ramon Ayala Y Sus Bravos Del Norte\. Los temas esenciales, todos en una lista.
+> This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 25 min
+105 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,10 +36,11 @@
 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/3uLPwbEVinsPoM1XAeMOIh) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:31 | 2023-12-13 | 2024-02-29 |
 | [Dos Monedas](https://open.spotify.com/track/7eVY9hPDlrY6M23hiR239q) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:23 | 2022-06-01 | 2023-01-03 |
 | [Dos Monedas](https://open.spotify.com/track/4epespdttWqUpIk35qEoMY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:29 | 2023-01-02 |  |
+| [El Bandido De Amores](https://open.spotify.com/track/3I3syqdZUQ0P8VDVWXBgch) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Autenticos](https://open.spotify.com/album/58oq7ubxQKCUxOVvha9mZL) | 3:24 | 2024-08-12 |  |
 | [El Disgusto](https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Relampagueando \- En Memoria De Cornelio Reyna 25 Años Después](https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy) | 2:24 | 2022-06-01 |  |
 | [El Disgusto](https://open.spotify.com/track/6vFceYiO9H6rsW5pLKF3Tv) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lo Mejor De Los Relámpagos Con](https://open.spotify.com/album/5Alc676cqJGN5rqCWY4tl1) | 2:26 | 2022-06-25 | 2024-04-06 |
 | [El Federal De Caminos](https://open.spotify.com/track/2P9XuggCZbHMOHI6Upkahb) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Con](https://open.spotify.com/album/4hOI70GYvjg7PXpcyowngB) | 3:08 | 2022-06-01 |  |
-| [El Retén](https://open.spotify.com/track/1YWy4nUHysy7EhTbldcMmH) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [El Retén](https://open.spotify.com/album/6POuZHyrJbMslvhuFwprTF) | 3:40 | 2024-03-09 |  |
+| [El Retén](https://open.spotify.com/track/1YWy4nUHysy7EhTbldcMmH) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [El Retén](https://open.spotify.com/album/6POuZHyrJbMslvhuFwprTF) | 3:40 | 2024-03-09 | 2024-08-12 |
 | [El Tonto Que Te Amó](https://open.spotify.com/track/0U8vL1iTfY59FNyUNeVQxx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amigos Del Alma](https://open.spotify.com/album/1ec2ZvSs6ZXYW2PxyfaS1t) | 2:40 | 2022-06-01 | 2023-04-12 |
 | [Enséñame A Olvidar](https://open.spotify.com/track/60omHo4CkdXorYTrOzZQUO) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:28 | 2022-06-15 | 2023-11-11 |
 | [Enséñame A Olvidar](https://open.spotify.com/track/4hFXPOaJg12M1NT67WlHCa) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:27 | 2023-11-10 | 2024-03-03 |

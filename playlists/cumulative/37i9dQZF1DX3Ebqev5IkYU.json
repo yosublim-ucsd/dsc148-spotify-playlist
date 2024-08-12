@@ -2893,6 +2893,32 @@
     },
     {
       "album": {
+        "name": "Summer Of Love",
+        "url": "https://open.spotify.com/album/3dfw820L9e1avL7i8zwvUU"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g"
+    },
+    {
+      "album": {
         "name": "Summertime Friends",
         "url": "https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV"
       },
@@ -3476,7 +3502,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"

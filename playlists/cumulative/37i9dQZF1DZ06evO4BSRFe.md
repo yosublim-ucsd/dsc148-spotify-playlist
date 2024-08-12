@@ -2,7 +2,7 @@
 
 ### [This Is Banda Machos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BSRFe)
 
-> This is Banda Machos\. The essential tracks, all in one playlist.
+> This Is Banda Machos\. Los temas esenciales, todos en una lista.
 
 79 songs - 3 hr 51 min
 

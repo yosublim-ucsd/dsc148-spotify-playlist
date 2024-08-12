@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Morgan Wallen",
-  "num_followers": 564310,
+  "num_followers": 564505,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Country Boy's Dream Girl",
         "url": "https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "3 Songs At A Time Sampler",
-        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Coal",
         "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 194440,
       "name": "Coal",
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "3 Songs At A Time Sampler",
+        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Fathers & Sons",
-        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 236055,
-      "name": "Remember Him That Way",
-      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 206106,
       "name": "She Had Me At Heads Carolina",
       "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 236055,
+      "name": "Remember Him That Way",
+      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -427,6 +427,22 @@
       "duration_ms": 181498,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Human The Double Album",
+        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 224213,
+      "name": "'Til You Can't",
+      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -475,22 +491,6 @@
       "duration_ms": 183919,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Human The Double Album",
-        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 224213,
-      "name": "'Til You Can't",
-      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Jack and Diet Coke",
-        "url": "https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
       "artists": [
         {
-          "name": "Redferrin",
-          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 193399,
-      "name": "Jack and Diet Coke",
-      "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
+      "duration_ms": 178440,
+      "name": "Halfway To Hell",
+      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -579,34 +579,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "Jack and Diet Coke",
+        "url": "https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Halfway To Hell",
-      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Indifferent",
-        "url": "https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 176022,
-      "name": "Indifferent",
-      "url": "https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk"
+      "duration_ms": 193399,
+      "name": "Jack and Diet Coke",
+      "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 182706,
       "name": "Outskirts",
       "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Indifferent",
+        "url": "https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 176022,
+      "name": "Indifferent",
+      "url": "https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
-      },
-      "artists": [
-        {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
-        }
-      ],
-      "duration_ms": 228144,
-      "name": "23",
-      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Bigger Houses",
+        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Bigger Houses",
+      "url": "https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Bigger Houses",
-        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
+        "name": "23",
+        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
         }
       ],
-      "duration_ms": 197066,
-      "name": "Bigger Houses",
-      "url": "https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk"
+      "duration_ms": 228144,
+      "name": "23",
+      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Damn Near Normal",
-        "url": "https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7"
+        "name": "Wildflowers and Wild Horses",
+        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 224695,
-      "name": "Damn Near Normal",
-      "url": "https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x"
+      "duration_ms": 216573,
+      "name": "Wildflowers and Wild Horses (Single Version)",
+      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Wildflowers and Wild Horses",
-        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Wildflowers and Wild Horses (Single Version)",
-      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 166035,
       "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
       "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Damn Near Normal",
+        "url": "https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 224695,
+      "name": "Damn Near Normal",
+      "url": "https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 167534,
-      "name": "TRUCK BED",
-      "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Family Ties",
-        "url": "https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6"
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX"
       },
       "artists": [
         {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 228346,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX"
+      "duration_ms": 174992,
+      "name": "Different 'Round Here",
+      "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX"
+        "name": "Family Ties",
+        "url": "https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6"
       },
       "artists": [
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
         }
       ],
-      "duration_ms": 174992,
-      "name": "Different 'Round Here",
-      "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
+      "duration_ms": 228346,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Penthouse",
-      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Creek Will Rise",
         "url": "https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Not Today",
-        "url": "https://open.spotify.com/album/2epE1rVic0zyxzUhRUPUgc"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/4BcyEkCZwZSJvgMcAnfbsj"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "She Likes It (feat. Jake Scott)",
         "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 163311,
       "name": "She Likes It (feat. Jake Scott)",
       "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/2epE1rVic0zyxzUhRUPUgc"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/4BcyEkCZwZSJvgMcAnfbsj"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Breakin' in Boots",
-        "url": "https://open.spotify.com/album/1sHuCLfs5sMWVneNgcCoqS"
+        "name": "Burn It Down (Radio Edit)",
+        "url": "https://open.spotify.com/album/113muW4YS82jqoS39y5Jgl"
       },
       "artists": [
         {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 155173,
-      "name": "Breakin' in Boots",
-      "url": "https://open.spotify.com/track/4usnf7irdy9PrVsmb82BXI"
+      "duration_ms": 216673,
+      "name": "Burn It Down - Radio Edit",
+      "url": "https://open.spotify.com/track/4bARASJEokNacSYtEhoNBp"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Burn It Down (Radio Edit)",
-        "url": "https://open.spotify.com/album/113muW4YS82jqoS39y5Jgl"
+        "name": "Breakin' in Boots",
+        "url": "https://open.spotify.com/album/1sHuCLfs5sMWVneNgcCoqS"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
         }
       ],
-      "duration_ms": 216673,
-      "name": "Burn It Down - Radio Edit",
-      "url": "https://open.spotify.com/track/4bARASJEokNacSYtEhoNBp"
+      "duration_ms": 155173,
+      "name": "Breakin' in Boots",
+      "url": "https://open.spotify.com/track/4usnf7irdy9PrVsmb82BXI"
     },
     {
       "added_at": "2024-08-09 04:00:00",

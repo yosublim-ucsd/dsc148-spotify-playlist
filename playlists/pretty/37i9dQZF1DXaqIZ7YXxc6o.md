@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: FISHER & Flowdan
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,096 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,108 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 32 | [Switch](https://open.spotify.com/track/5l9wqqfosStld3rOPimbDw) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Switch](https://open.spotify.com/album/6L2qyexv1IleiJkkcYl4zT) | 3:09 |
 | 33 | [Let Him Cook](https://open.spotify.com/track/659HsYIigde5UOaIvVESO3) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Let Him Cook](https://open.spotify.com/album/2EoHpyGqhjlkDiqeWq9EJI) | 2:37 |
 | 34 | [I Just Wanted to Dance](https://open.spotify.com/track/40MgmjkoAwZNg6gsGrgWlI) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [I Just Wanted to Dance](https://open.spotify.com/album/5Ija1CLcqnWugFIdyJaiPD) | 3:08 |
-| 35 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
+| 35 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
 | 36 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 |
 | 37 | [If I Stay](https://open.spotify.com/track/3bjL4dOZv3rXciUCcNknow) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [Delilah](https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv) | [If I Stay](https://open.spotify.com/album/08rgWv8wBhDJeg9Lso1awd) | 2:50 |
 | 38 | [SO WHAT](https://open.spotify.com/track/2rYv2giHFPi4UDRlNUWh6D) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [SO WHAT](https://open.spotify.com/album/26OBK5ltVNsRhw9EtCtYa1) | 3:15 |

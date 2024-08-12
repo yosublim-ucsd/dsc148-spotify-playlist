@@ -2,7 +2,7 @@
 
 ### [This Is Ebony](https://open.spotify.com/playlist/37i9dQZF1DZ06evO14TklP)
 
-> This Is Ebony\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Ebony\. Track\-track unggulan, semuanya dalam satu playlist.
 
 60 songs - 3 hr 0 min
 

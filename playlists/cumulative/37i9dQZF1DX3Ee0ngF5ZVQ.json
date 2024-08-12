@@ -6342,7 +6342,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 216382,
       "name": "Luckiest Guy I Know",
       "url": "https://open.spotify.com/track/7GCYZzOEKcSPbWqG8dN3Uo"
@@ -11204,6 +11204,24 @@
       "duration_ms": 183613,
       "name": "When My Baby\u2019s In Boots",
       "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
+    },
+    {
+      "album": {
+        "name": "When She Kissed Me",
+        "url": "https://open.spotify.com/album/51gRM3NuaQhiJc5NCiut8t"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244161,
+      "name": "When She Kissed Me",
+      "url": "https://open.spotify.com/track/1vnsvAfJiIvX3S9YM01l2V"
     },
     {
       "album": {

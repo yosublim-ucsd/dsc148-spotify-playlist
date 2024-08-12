@@ -2,7 +2,7 @@
 
 ### [This Is Luísa Sonza](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PMJGB)
 
-> This is Luísa Sonza\. Todos os maiores hits em uma só playlist.
+> This Is Luísa Sonza\. Los temas esenciales, todos en una lista.
 
 61 songs - 3 hr 13 min
 

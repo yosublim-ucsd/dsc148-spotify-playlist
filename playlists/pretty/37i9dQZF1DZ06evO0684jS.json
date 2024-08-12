@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 864157,
+  "num_followers": 864213,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAADWtp67n3vI0h9Y+WjrwBQA",
+  "snapshot_id": "ZratgAAAAACFH0ZbehFQPy9LrulsGUrZ",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 226160,
       "name": "Side To Side",
       "url": "https://open.spotify.com/track/44ONERBHALxftQNWq6dmyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
+        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "High School",
+      "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -659,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
-        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "High School",
-      "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Time I Saw You",
-        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 216347,
-      "name": "Last Time I Saw You",
-      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Witness (Deluxe)",
         "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 242520,
       "name": "Swish Swish",
       "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "added_at": null,
@@ -819,46 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Love (Remix)",
-        "url": "https://open.spotify.com/album/7ghSWpMQsrdOH8icfRKsk9"
-      },
-      "artists": [
-        {
-          "name": "August Alsina",
-          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/7ewfvLrlI0VNht4vEnoTMh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Bed (feat. Ariana Grande)",
-      "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Major Key",
         "url": "https://open.spotify.com/album/6ZQyMrmlg95L8gy63Pnm33"
       },
@@ -895,6 +855,46 @@
       "duration_ms": 325614,
       "name": "Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)",
       "url": "https://open.spotify.com/track/6ezg5Mm5UEEi3Oqsbb7Cjn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Bed (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Love (Remix)",
+        "url": "https://open.spotify.com/album/7ghSWpMQsrdOH8icfRKsk9"
+      },
+      "artists": [
+        {
+          "name": "August Alsina",
+          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/7ewfvLrlI0VNht4vEnoTMh"
     },
     {
       "added_at": null,

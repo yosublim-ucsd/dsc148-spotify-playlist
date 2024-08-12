@@ -1,6 +1,6 @@
 {
   "description": "entering my reputation era",
-  "num_followers": 1314568,
+  "num_followers": 1314539,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Paint The Town Red",
-        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 251240,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 165833,
-      "name": "all-american bitch",
-      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
@@ -595,6 +579,22 @@
       "duration_ms": 334084,
       "name": "Who\u2019s Afraid of Little Old Me?",
       "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "all-american bitch",
+      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "No Time To Die",
-        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 242265,
-      "name": "No Time To Die",
-      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "GODS",
         "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "No Time To Die",
+        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 242265,
+      "name": "No Time To Die",
+      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "Wars In A Wonderland",
+        "url": "https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
         }
       ],
-      "duration_ms": 164801,
-      "name": "Vigilante Shit",
-      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+      "duration_ms": 168000,
+      "name": "DARKSIDE",
+      "url": "https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Wars In A Wonderland",
-        "url": "https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "DARKSIDE",
-      "url": "https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "I See Red",
         "url": "https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 230613,
       "name": "I See Red",
       "url": "https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 164801,
+      "name": "Vigilante Shit",
+      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Cavetown",
         "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 179955,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1051,22 +1051,6 @@
       "duration_ms": 201520,
       "name": "Mad Hatter",
       "url": "https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 168839,
-      "name": "all the good girls go to hell",
-      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 168839,
+      "name": "all the good girls go to hell",
+      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "The Animals",
         "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
       },
@@ -1175,18 +1175,30 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "K-12",
-        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
+        "name": "Descendants 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
       },
       "artists": [
         {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        },
+        {
+          "name": "Thomas Doherty",
+          "url": "https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg"
+        },
+        {
+          "name": "Dylan Playfair",
+          "url": "https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 161064,
-      "name": "Class Fight",
-      "url": "https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X"
+      "duration_ms": 190720,
+      "name": "What's My Name",
+      "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1223,30 +1235,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Descendants 2 (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
+        "name": "K-12",
+        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
       },
       "artists": [
         {
-          "name": "China Anne McClain",
-          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
-        },
-        {
-          "name": "Thomas Doherty",
-          "url": "https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg"
-        },
-        {
-          "name": "Dylan Playfair",
-          "url": "https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 190720,
-      "name": "What's My Name",
-      "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"
+      "duration_ms": 161064,
+      "name": "Class Fight",
+      "url": "https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "PORTALS",
-        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 246294,
-      "name": "EVIL",
-      "url": "https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "ALL OUT",
         "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Build a Bitch",
-        "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
       },
       "artists": [
         {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 122772,
-      "name": "Build a Bitch",
-      "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
+      "duration_ms": 246294,
+      "name": "EVIL",
+      "url": "https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1439,6 +1423,22 @@
       "duration_ms": 214761,
       "name": "Control",
       "url": "https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Build a Bitch",
+        "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 122772,
+      "name": "Build a Bitch",
+      "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
     },
     {
       "added_at": "2024-02-22 03:52:54",

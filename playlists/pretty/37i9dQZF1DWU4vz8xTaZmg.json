@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 71421,
+  "num_followers": 71426,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 244444,
       "name": "Otro Atardecer",
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 217925,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 279986,
       "name": "Vasos Vac\u00edos - Remasterizado 2008",
       "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 217925,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "Hello Nasty (Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "Intergalactic - Remastered 2009",
+      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 193026,
       "name": "Hot (feat. Gunna)",
       "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "Hello Nasty (Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "Intergalactic - Remastered 2009",
-      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -903,6 +903,42 @@
       "duration_ms": 250141,
       "name": "WHAT TO DO? (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/4AO1XhrgJczQ9bNVxdfKQe"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208079,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "Easy (Remix)",
+        "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -939,42 +975,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "Easy (Remix)",
-        "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208079,
-      "name": "Estamos Bien",
-      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "Mucho",
         "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 240520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Frijolero",
-      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1023,6 +1007,22 @@
       "duration_ms": 149040,
       "name": "Bad Bad Bad (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Frijolero",
+      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 143291,
-      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -1203,6 +1183,22 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "CARAVANA",
+        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 176394,
+      "name": "MEL\u00d3N VINO",
+      "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "POST MORTEM",
         "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
       },
@@ -1215,6 +1211,26 @@
       "duration_ms": 176568,
       "name": "220",
       "url": "https://open.spotify.com/track/6ZvsmvXknoN8uK2MSEGpwT"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 143291,
+      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1263,38 +1279,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 176394,
-      "name": "MEL\u00d3N VINO",
-      "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 183011,
-      "name": "Woah",
-      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "Clics Modernos",
         "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
       },
@@ -1311,22 +1295,34 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "Morad: Bzrp Music Sessions, Vol. 47",
-        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
+        "name": "TRES PUNTOS SUSPENSIVOS",
+        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 177583,
-      "name": "Morad: Bzrp Music Sessions, Vol. 47",
-      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
+      "duration_ms": 173913,
+      "name": "ALMA DINAMITA",
+      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 183011,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1383,6 +1379,26 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "Morad: Bzrp Music Sessions, Vol. 47",
+        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 177583,
+      "name": "Morad: Bzrp Music Sessions, Vol. 47",
+      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -1415,42 +1431,6 @@
       "duration_ms": 169932,
       "name": "Cicuta - Remix",
       "url": "https://open.spotify.com/track/6qqeq1UoryAxgud2JfF76t"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "TRES PUNTOS SUSPENSIVOS",
-        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "ALMA DINAMITA",
-      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1531,6 +1511,26 @@
       "duration_ms": 292800,
       "name": "Sentimiento Original",
       "url": "https://open.spotify.com/track/2dz5G8cubIlwFN6SJtj0rg"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1627,42 +1627,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "One Hot Minute (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 285066,
-      "name": "Aeroplane",
-      "url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 198850,
-      "name": "Plegarias",
-      "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -1711,6 +1675,42 @@
       "duration_ms": 217866,
       "name": "Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/5WnfnSpuNEGXyEt78PBA6d"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 198850,
+      "name": "Plegarias",
+      "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
     },
     {
       "added_at": "2024-06-12 23:38:10",

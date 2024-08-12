@@ -1,29 +1,13 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 33266,
+  "num_followers": 33274,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAACWWZvt9MASqJCdsFGnH2xb",
+  "snapshot_id": "ZratgAAAAAAyYYklwENtkXhHkJY6n9/D",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hijos de la Tierra",
-        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "Hijos de la Tierra",
-      "url": "https://open.spotify.com/track/1rXl4pZQWZva8whEQENrI9"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 286506,
       "name": "Sube a Nacer Conmigo Hermano",
       "url": "https://open.spotify.com/track/0gWHg31biasRElqCjQ8RuM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "Hijos de la Tierra",
+      "url": "https://open.spotify.com/track/1rXl4pZQWZva8whEQENrI9"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 306026,
-      "name": "Violeta Ausente",
-      "url": "https://open.spotify.com/track/2QrqeZRrMHhj8POCWHDYyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aconcagua",
         "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 306026,
+      "name": "Violeta Ausente",
+      "url": "https://open.spotify.com/track/2QrqeZRrMHhj8POCWHDYyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alturas de Macchu Picchu",
         "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
       },
@@ -383,26 +383,6 @@
       "duration_ms": 339000,
       "name": "Antigua Am\u00e9rica",
       "url": "https://open.spotify.com/track/08d3JzTtDDivrdsOGuiv35"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trilog\u00eda el Rencuentro",
-        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        },
-        {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
-        }
-      ],
-      "duration_ms": 304933,
-      "name": "La Centinela (Versi\u00f3n 1997)",
-      "url": "https://open.spotify.com/track/20S5GtOi4DT7suYJ3ifd3F"
     },
     {
       "added_at": null,
@@ -435,6 +415,26 @@
       "duration_ms": 209800,
       "name": "Debajo de las Higueras",
       "url": "https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "duration_ms": 304933,
+      "name": "La Centinela (Versi\u00f3n 1997)",
+      "url": "https://open.spotify.com/track/20S5GtOi4DT7suYJ3ifd3F"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
-        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 334282,
-      "name": "La Quebr\u00e1 del Aj\u00ed (En Vivo) - 2024 Remasterizado",
-      "url": "https://open.spotify.com/track/01lR96aXi7yDhQib5gDGa5"
+      "duration_ms": 314000,
+      "name": "Run Run Se Fue Pa'l Norte",
+      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
+        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
       },
       "artists": [
         {
@@ -528,25 +528,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 314000,
-      "name": "Run Run Se Fue Pa'l Norte",
-      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Que o la Tumba Ser\u00e1s",
-      "url": "https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC"
+      "duration_ms": 334282,
+      "name": "La Quebr\u00e1 del Aj\u00ed (En Vivo) - 2024 Remasterizado",
+      "url": "https://open.spotify.com/track/01lR96aXi7yDhQib5gDGa5"
     },
     {
       "added_at": null,
@@ -563,6 +547,22 @@
       "duration_ms": 479186,
       "name": "Guajira Cosmica",
       "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Que o la Tumba Ser\u00e1s",
+      "url": "https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
-        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 415653,
-      "name": "Cerro de la Virgen",
-      "url": "https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arrebol",
         "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
       },
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
-        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 337793,
-      "name": "Como Tus R\u00edos Te Recorren (En Vivo) - 2024 Remasterizado",
-      "url": "https://open.spotify.com/track/6bmUW30tjqsBbWJAVaezuH"
+      "duration_ms": 415653,
+      "name": "Cerro de la Virgen",
+      "url": "https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 302560,
       "name": "Cholito Pantal\u00f3n Blanco",
       "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
+        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 337793,
+      "name": "Como Tus R\u00edos Te Recorren (En Vivo) - 2024 Remasterizado",
+      "url": "https://open.spotify.com/track/6bmUW30tjqsBbWJAVaezuH"
     },
     {
       "added_at": null,

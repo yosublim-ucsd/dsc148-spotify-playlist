@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-327 songs - 17 hr 33 min
+328 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,9 +114,10 @@
 | [Freeway](https://open.spotify.com/track/2GfkYe0wCV0Rq9ri81Jo9e) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [Freeway](https://open.spotify.com/album/7o1TfO6fioQSLVNXttMa8o) | 3:19 | 2022-10-25 | 2022-11-08 |
 | [Fresh Feelings \(feat\. J.Sheon\)](https://open.spotify.com/track/3WRYvBdzmWUg3ccLdwRJ9U) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [Fresh Feelings \(feat\. J.Sheon\)](https://open.spotify.com/album/7FuyF09HbzIg81wIcOg5Mj) | 3:05 | 2022-06-06 | 2022-07-29 |
 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 | 2023-03-20 | 2023-03-28 |
+| [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2024-08-12 |  |
 | [Get Over Him](https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Get Over Him](https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA) | 3:06 | 2024-06-03 | 2024-06-10 |
 | [get2know](https://open.spotify.com/track/4PjMMVmd9Sxe4K3EiAFnfQ) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [get2know](https://open.spotify.com/album/4ZRUUWKt8BonBz7fh1QDHJ) | 3:01 | 2022-06-06 | 2022-07-29 |
-| [Gidget \(feat\. Anderson .Paak & T.Nava\)](https://open.spotify.com/track/1UrxBDCv9kDRIBUc2oskNR) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:39 | 2024-04-08 |  |
+| [Gidget \(feat\. Anderson .Paak & T.Nava\)](https://open.spotify.com/track/1UrxBDCv9kDRIBUc2oskNR) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:39 | 2024-04-08 | 2024-08-12 |
 | [Girl In The Orchestra](https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Girl In The Orchestra](https://open.spotify.com/album/0Wgw9J708bA5yoIR87bJAC) | 3:12 | 2024-06-17 | 2024-06-19 |
 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2023-01-23 |  |
 | [Green Green Grass](https://open.spotify.com/track/6UbM3KyXtvfZr06ixZhea1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 2:47 | 2023-12-04 | 2024-01-04 |

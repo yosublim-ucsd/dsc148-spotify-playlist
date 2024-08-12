@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,383 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,646 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

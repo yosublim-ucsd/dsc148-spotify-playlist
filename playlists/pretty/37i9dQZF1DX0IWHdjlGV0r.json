@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Lazza",
-  "num_followers": 124457,
+  "num_followers": 124481,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,34 @@
     {
       "added_at": "2024-08-08 10:43:17",
       "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        },
+        {
+          "name": "Geenaro & Ghana Beats",
+          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "SI STAT\u2019 TU",
+      "url": "https://open.spotify.com/track/6s5DJ2zRf9T3A2VidCCHxZ"
+    },
+    {
+      "added_at": "2024-08-08 10:43:17",
+      "album": {
         "name": "M' Manc (con Geolier & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm"
       },
@@ -311,34 +339,6 @@
     {
       "added_at": "2024-08-08 10:43:17",
       "album": {
-        "name": "DIO LO SA",
-        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Dat Boi Dee",
-          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
-        },
-        {
-          "name": "Poison Beatz",
-          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
-        },
-        {
-          "name": "Geenaro & Ghana Beats",
-          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "SI STAT\u2019 TU",
-      "url": "https://open.spotify.com/track/6s5DJ2zRf9T3A2VidCCHxZ"
-    },
-    {
-      "added_at": "2024-08-08 10:43:17",
-      "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
@@ -351,6 +351,22 @@
       "duration_ms": 167880,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
+    },
+    {
+      "added_at": "2024-08-08 10:43:17",
+      "album": {
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
     },
     {
       "added_at": "2024-08-08 10:43:17",
@@ -379,22 +395,6 @@
     {
       "added_at": "2024-08-08 10:43:17",
       "album": {
-        "name": "Hustle Mixtape",
-        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Capri Sun",
-      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
-    },
-    {
-      "added_at": "2024-08-08 10:43:17",
-      "album": {
         "name": "HABITAT : tour",
         "url": "https://open.spotify.com/album/3hC8Ul139lIFkmtmX8B8XL"
       },
@@ -411,6 +411,26 @@
       "duration_ms": 167727,
       "name": "Dimenticare",
       "url": "https://open.spotify.com/track/5EOJ7bFZhGQv61R7vTFXk3"
+    },
+    {
+      "added_at": "2024-08-08 10:43:17",
+      "album": {
+        "name": "I P\u2019 ME, TU P\u2019 TE",
+        "url": "https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
+        }
+      ],
+      "duration_ms": 187881,
+      "name": "I P\u2019 ME, TU P\u2019 TE",
+      "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
     },
     {
       "added_at": "2024-08-08 10:43:17",
@@ -463,26 +483,6 @@
       "duration_ms": 227693,
       "name": "Brivido",
       "url": "https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC"
-    },
-    {
-      "added_at": "2024-08-08 10:43:17",
-      "album": {
-        "name": "I P\u2019 ME, TU P\u2019 TE",
-        "url": "https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Michelangelo",
-          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
-        }
-      ],
-      "duration_ms": 187881,
-      "name": "I P\u2019 ME, TU P\u2019 TE",
-      "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
     },
     {
       "added_at": "2024-08-08 10:43:17",
@@ -599,22 +599,18 @@
     {
       "added_at": "2024-08-08 10:43:17",
       "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 183439,
-      "name": "I Miss U (feat. Tony Boy)",
-      "url": "https://open.spotify.com/track/52vA7mR6kKFJTaMzRUKMmk"
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
       "added_at": "2024-08-08 10:43:17",
@@ -631,6 +627,46 @@
       "duration_ms": 186008,
       "name": "Ciao Baby",
       "url": "https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV"
+    },
+    {
+      "added_at": "2024-08-08 10:43:17",
+      "album": {
+        "name": "Santana Season",
+        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Un milione di volte (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
+    },
+    {
+      "added_at": "2024-08-08 10:43:17",
+      "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 183439,
+      "name": "I Miss U (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/52vA7mR6kKFJTaMzRUKMmk"
     },
     {
       "added_at": "2024-08-08 10:43:17",
@@ -659,22 +695,6 @@
     {
       "added_at": "2024-08-08 10:43:17",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "COME VUOI",
-      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
-    },
-    {
-      "added_at": "2024-08-08 10:43:17",
-      "album": {
         "name": "Fenice",
         "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 212640,
       "name": "Chic",
       "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
-    },
-    {
-      "added_at": "2024-08-08 10:43:17",
-      "album": {
-        "name": "Santana Season",
-        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Un milione di volte (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
     },
     {
       "added_at": "2024-08-08 10:43:17",
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-08-08 10:43:17",
       "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "duration_ms": 211840,
+      "name": "2% (feat. Frah Quintale)",
+      "url": "https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25"
+    },
+    {
+      "added_at": "2024-08-08 10:43:17",
+      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -783,22 +803,6 @@
       "duration_ms": 215421,
       "name": "X CASO (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
-    },
-    {
-      "added_at": "2024-08-08 10:43:17",
-      "album": {
-        "name": "PLAZA",
-        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Non Fare Cos\u00ec",
-      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
     },
     {
       "added_at": "2024-08-08 10:43:17",
@@ -823,22 +827,18 @@
     {
       "added_at": "2024-08-08 10:43:17",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
+        "name": "PLAZA",
+        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 211840,
-      "name": "2% (feat. Frah Quintale)",
-      "url": "https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25"
+      "duration_ms": 192786,
+      "name": "Non Fare Cos\u00ec",
+      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
     },
     {
       "added_at": "2024-08-08 10:43:17",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-08-08 10:43:17",
       "album": {
+        "name": "GVESVS",
+        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "Veleno",
+      "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
+    },
+    {
+      "added_at": "2024-08-08 10:43:17",
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
@@ -927,34 +943,18 @@
     {
       "added_at": "2024-08-08 10:43:17",
       "album": {
-        "name": "FLOP",
-        "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 170018,
-      "name": "KUMITE",
-      "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
-    },
-    {
-      "added_at": "2024-08-08 10:43:17",
-      "album": {
-        "name": "Ancora",
-        "url": "https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 171775,
-      "name": "Ancora",
-      "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     }
   ],
   "unique_name": "Arsenico ",

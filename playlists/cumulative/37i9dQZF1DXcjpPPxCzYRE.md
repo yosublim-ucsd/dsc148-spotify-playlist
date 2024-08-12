@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-284 songs - 16 hr 30 min
+285 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [5AM](https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT) | [Volver](https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy) | [5AM](https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4) | 3:36 | 2024-06-21 | 2024-06-23 |
 | [\_El Infinito](https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB) | [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [\_BCN626](https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA) | 3:04 | 2024-05-02 |  |
 | [A Song With No Name](https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 4:03 | 2023-12-28 | 2024-04-19 |
+| [Adélia](https://open.spotify.com/track/2sGSEql9SuT6cdRTDN5TQ6) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [HAĒMA](https://open.spotify.com/artist/2XhPH41LVitp1CM3NS5pzw) | [Adélia](https://open.spotify.com/album/2pSIXz2becSFLT1KfHgNaQ) | 4:18 | 2024-08-02 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2022-11-11 |  |
 | [Aire](https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Aire](https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e) | 4:31 | 2024-04-11 |  |
 | [Al Alba](https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Dolores](https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C) | 3:23 | 2024-06-21 |  |
@@ -77,7 +78,7 @@
 | [Dirty Old Town](https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\)](https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd) | 4:06 | 2022-11-11 | 2024-04-19 |
 | [Don't You Cry For Me \- Acoustic](https://open.spotify.com/track/2okaCGJegLC7oK8z7OXutm) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Don't You Cry For Me \(Acoustic\)](https://open.spotify.com/album/2YK6l9mVcjDHrw7cLyT7j7) | 4:35 | 2024-04-11 | 2024-06-22 |
 | [Donde El Verano Seas Tú](https://open.spotify.com/track/278SoIuUjZ2w2IcRSPjbwm) | [Belapalma](https://open.spotify.com/artist/3Pi1Q9bVKMJRc9mM80kwTY) | [Donde El Verano Seas Tú](https://open.spotify.com/album/4Pz72AICDOht0fzxkRYInb) | 2:34 | 2024-06-21 |  |
-| [Dos Lágrimas, Dos Peces](https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Dos Lágrimas, Dos Peces](https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE) | 3:40 | 2024-06-21 |  |
+| [Dos Lágrimas, Dos Peces](https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Dos Lágrimas, Dos Peces](https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE) | 3:40 | 2024-06-21 | 2024-08-12 |
 | [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 | 2023-08-18 | 2024-03-15 |
 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 | 2024-04-11 |  |
 | [El Amor](https://open.spotify.com/track/1Ml84YcdHdi34tYc3QEXxf) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Es el Momento](https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY) | 3:40 | 2024-04-11 |  |

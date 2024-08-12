@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Yasir Miy x Batuhan Kordel
 
-112 songs - 5 hr 39 min
+113 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Dünya Hevesi](https://open.spotify.com/track/5lH26p9ycFKgsjzmkGFmHp) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Dünya Hevesi](https://open.spotify.com/album/7u9u9vazmcEszj6k1G3TVE) | 3:30 | 2024-06-27 | 2024-07-08 |
 | [Geçiyor Zaman](https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:38 | 2024-08-08 |  |
 | [Gidelim Mi Buralardan](https://open.spotify.com/track/2vsqjcIGoGK4opKEhVWqf0) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Gidelim Mi Buralardan](https://open.spotify.com/album/6J3syGa0knTEtQnndxxAfa) | 2:40 | 2024-08-06 |  |
-| [Girdap](https://open.spotify.com/track/21S4rAoDEikVpfrxewfVnq) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Girdap](https://open.spotify.com/album/6dVplTK1BBrgvLjmjfCpJT) | 2:37 | 2024-06-27 |  |
+| [Girdap](https://open.spotify.com/track/21S4rAoDEikVpfrxewfVnq) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Girdap](https://open.spotify.com/album/6dVplTK1BBrgvLjmjfCpJT) | 2:37 | 2024-06-27 | 2024-08-12 |
 | [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 | 2024-06-27 |  |
 | [Gülü Sevdim Dikeni Battı](https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [MELODRAM](https://open.spotify.com/album/0zPAdLw028RRFlspv6SV8H) | 2:20 | 2024-06-27 |  |
 | [Hain](https://open.spotify.com/track/7ABENqYsfEzv1KHpnlV3Vj) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Hain](https://open.spotify.com/album/6QQvURc9aYL6RTOEfwF1KD) | 3:21 | 2024-06-27 | 2024-08-04 |
@@ -80,6 +80,7 @@
 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 | 2024-06-27 |  |
 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 | 2024-08-01 |  |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-06-27 | 2024-08-02 |
+| [Sahte Sonbahar](https://open.spotify.com/track/1ACI7zmoUY34xcrKrYeypb) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:55 | 2024-08-08 |  |
 | [Salla](https://open.spotify.com/track/62Hh7prEpSyMMd8wNxsOQO) | [Kerimcan Durmaz](https://open.spotify.com/artist/6SuvCvIgTchPW2bcuXSKzM) | [Salla](https://open.spotify.com/album/3iKLt0m03n8zSm9Dkw3eY5) | 2:36 | 2024-06-27 | 2024-08-07 |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-06-27 |  |
 | [Saygı Duruşu](https://open.spotify.com/track/76BUgBlvg4rNl4MBcUnhAw) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Saygı Duruşu](https://open.spotify.com/album/16vEQO5wX6EuWeq6OpQi88) | 2:49 | 2024-06-27 |  |

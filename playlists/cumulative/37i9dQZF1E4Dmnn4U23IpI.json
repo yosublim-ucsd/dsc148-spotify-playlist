@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "'85 Again (feat. Miss K)",
       "url": "https://open.spotify.com/track/55ACS6JsMV0OXSaLswoIEw"
@@ -5178,7 +5178,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 362410,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/2dXpyz3Vlc0PRlaCJG0ZPr"
@@ -5512,7 +5512,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 327213,
       "name": "Dark All Day",
       "url": "https://open.spotify.com/track/4GBJomKlZNRnODfpL299pw"
@@ -9738,7 +9738,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 227272,
       "name": "Georgetown",
       "url": "https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia"
@@ -11926,7 +11926,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 292664,
       "name": "In Love",
       "url": "https://open.spotify.com/track/0XpKc2COn2AyhAFWCUVD8Z"
@@ -12494,7 +12494,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 323684,
       "name": "Interspace",
       "url": "https://open.spotify.com/track/4sZ3hUbwzxGo2ERNoekmzI"
@@ -15398,6 +15398,24 @@
     {
       "album": {
         "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/0ZbnBDVUkpegVOfgPFr1wr"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379100,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2eVxKjnZkVBbjCzVZ6PFm3"
+    },
+    {
+      "album": {
+        "name": "Endless Summer",
         "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
       },
       "artists": [
@@ -15618,7 +15636,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 238000,
       "name": "Midnight FM",
       "url": "https://open.spotify.com/track/0G8BB5FLiZGgR44L5AzcHL"
@@ -23094,7 +23112,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 254056,
       "name": "Somewhere in This City",
       "url": "https://open.spotify.com/track/2KTLz5nTACcUHuvGygMK1G"
@@ -28498,7 +28516,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 218000,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/0WkVBNfptu21IW0ubJZLLY"
@@ -28844,7 +28862,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 274219,
       "name": "Who You Run To",
       "url": "https://open.spotify.com/track/7gJyqHkm6sCcagFvyat3zC"
@@ -29066,7 +29084,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 307213,
       "name": "Woken Furies",
       "url": "https://open.spotify.com/track/1gGNnSJrFVe4LCnP0nCbDJ"

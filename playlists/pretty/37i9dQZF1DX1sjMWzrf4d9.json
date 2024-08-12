@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ\">Ziwe Fumudoh</a>",
-  "num_followers": 1599,
+  "num_followers": 1600,
   "original_name": "Ziwe's Taste ",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -259,42 +243,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Am I Gay? - Single",
-        "url": "https://open.spotify.com/album/1HTFFIR6wPWMuvQ1AEAVLX"
-      },
-      "artists": [
-        {
-          "name": "ziwe",
-          "url": "https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib"
-        },
-        {
-          "name": "Jen Goma",
-          "url": "https://open.spotify.com/artist/5k82r3hAQ8j4CEpnbQHNS6"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Am I Gay? (feat. Jen Goma)",
-      "url": "https://open.spotify.com/track/60plBCQE49eGPVtHrhQhR3"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "ELEMENT.",
-      "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Yo x Ti, Tu x Mi",
         "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
       },
@@ -315,6 +263,58 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Am I Gay? - Single",
+        "url": "https://open.spotify.com/album/1HTFFIR6wPWMuvQ1AEAVLX"
+      },
+      "artists": [
+        {
+          "name": "ziwe",
+          "url": "https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib"
+        },
+        {
+          "name": "Jen Goma",
+          "url": "https://open.spotify.com/artist/5k82r3hAQ8j4CEpnbQHNS6"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Am I Gay? (feat. Jen Goma)",
+      "url": "https://open.spotify.com/track/60plBCQE49eGPVtHrhQhR3"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "ELEMENT.",
+      "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "KOD",
         "url": "https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 200309,
       "name": "Kevin\u2019s Heart",
       "url": "https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -347,22 +363,6 @@
       "duration_ms": 161066,
       "name": "Consideration",
       "url": "https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "needy",
-      "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 244792,
-      "name": "THIQUE",
-      "url": "https://open.spotify.com/track/1LCm0lFnEsxR2oPqyHLGX9"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 167810,
       "name": "Can I",
       "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 244792,
+      "name": "THIQUE",
+      "url": "https://open.spotify.com/track/1LCm0lFnEsxR2oPqyHLGX9"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "What A Time To Be Alive",
-        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 314631,
-      "name": "Diamonds Dancing",
-      "url": "https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Hard II Love",
         "url": "https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 228613,
       "name": "No Limit (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1CDBn2Lm7E63XKQDsdCq6O"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 314631,
+      "name": "Diamonds Dancing",
+      "url": "https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -839,22 +839,18 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+        "name": "When It's All Said And Done",
+        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "The-Dream",
-          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 419306,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/3d8PDk3B4am5c6TsUCznUW"
+      "duration_ms": 177445,
+      "name": "Still Your Best",
+      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -879,38 +875,38 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
         }
       ],
-      "duration_ms": 177445,
-      "name": "Still Your Best",
-      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
+      "duration_ms": 419306,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/3d8PDk3B4am5c6TsUCznUW"
     },
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+        "name": "Aquarius",
+        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 201520,
-      "name": "honda (feat. pa salieu)",
-      "url": "https://open.spotify.com/track/6kZsTttxl7h4BLGSRWQnTp"
+      "duration_ms": 221040,
+      "name": "All Hands on Deck",
+      "url": "https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj"
     }
   ],
   "unique_name": "Ziwe's Taste ",

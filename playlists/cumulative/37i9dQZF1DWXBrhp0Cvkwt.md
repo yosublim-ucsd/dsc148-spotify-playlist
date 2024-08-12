@@ -4,7 +4,7 @@
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-231 songs - 13 hr 15 min
+232 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2022-05-31 | 2022-06-24 |
 | [Even is the Lie](https://open.spotify.com/track/06ROgKWslcLeQaHUUnxMsE) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA \(Deluxe\)](https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL) | 4:06 | 2022-05-25 | 2022-07-26 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-15 |  |
+| [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 | 2024-07-12 |  |
 | [Fall in Love with You.](https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Fall in Love with You.](https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc) | 2:12 | 2022-05-25 | 2022-07-29 |
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-05-31 | 2024-04-19 |
 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 | 2022-05-25 | 2022-07-20 |
@@ -233,7 +234,7 @@
 | [Who Really Gets What They Want](https://open.spotify.com/track/4NVOFGJ607d2zJYcv4hv1M) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [Who Really Gets What They Want](https://open.spotify.com/album/4KV71zjahmcWQZivu4ADPJ) | 3:01 | 2023-04-20 | 2023-05-13 |
 | [Working for the Knife](https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Working for the Knife](https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE) | 2:38 | 2022-05-25 | 2022-07-29 |
 | [worldstar money \(interlude\)](https://open.spotify.com/track/0baNzeUcPQnQSagpe8T0mD) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [In Tongues \(Deluxe\)](https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ) | 2:06 | 2022-05-25 |  |
-| [Writer In The Dark](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:36 | 2022-05-25 |  |
+| [Writer In The Dark](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:36 | 2022-05-25 | 2024-08-12 |
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2022-09-09 | 2023-04-29 |
 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 | 2022-05-31 | 2023-04-27 |
 | [Young](https://open.spotify.com/track/3OP8UeYimRl9HCNxMg7Ihl) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/58Zq3iYZFzaW4sm5Z8iwyt) | 3:09 | 2022-05-25 | 2022-07-28 |

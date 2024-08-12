@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: badactress
 
-111 songs - 5 hr 32 min
+112 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Айстри](https://open.spotify.com/track/1NiB0lmZ7KUnDspnZjYr5H) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [La Dame Blanche](https://open.spotify.com/album/5RGMLdor9nnZCQVRk11vZb) | 2:48 | 2024-06-27 |  |
 | [антиутопія](https://open.spotify.com/track/30LTUnfJ8GsMkmufwSlZQy) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [антиутопія](https://open.spotify.com/album/4ofEbzZHdlvdSAA0YUseds) | 4:05 | 2024-07-12 | 2024-07-27 |
 | [Брат Сестра](https://open.spotify.com/track/45yfszx0vwD36WBWD1HrPH) | [Схожа](https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC), [Марний](https://open.spotify.com/artist/4VnECM6avO6XogtNebPh0M) | [Брат Сестра](https://open.spotify.com/album/06PQehMV8qO6zBKzHB7XCD) | 4:25 | 2024-06-27 | 2024-07-27 |
-| [бруд](https://open.spotify.com/track/56FUWh0cpu9tlx2Uw1NL6G) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi) | [бруд](https://open.spotify.com/album/6OZf02ojrAg51iSBhtkX3o) | 2:34 | 2024-07-12 |  |
+| [бруд](https://open.spotify.com/track/56FUWh0cpu9tlx2Uw1NL6G) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi) | [бруд](https://open.spotify.com/album/6OZf02ojrAg51iSBhtkX3o) | 2:34 | 2024-07-12 | 2024-08-12 |
 | [більше ніж здається](https://open.spotify.com/track/2HllpojdmP0If39UA6BACR) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [більше ніж здається](https://open.spotify.com/album/2KTMSSHuMJyKXaWoaOYuDH) | 2:40 | 2024-07-12 |  |
 | [Весна](https://open.spotify.com/track/4iaR3PBjWEV68xGJRkQPBV) | [Пиріг і Батіг](https://open.spotify.com/artist/72WPri6uCSfr6l9WdgZ2D6) | [Зелений](https://open.spotify.com/album/5kvB3QO1QL8cwceCw7LHGo) | 3:22 | 2024-06-27 | 2024-07-13 |
 | [Всі дев'ять життів з тобою](https://open.spotify.com/track/4ui8FVsvFZufsHFDkXWof7) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he) | [Всі дев’ять життів з тобою](https://open.spotify.com/album/5FJx43SxLGLRFy75tGUmwY) | 2:32 | 2024-07-26 |  |
@@ -45,6 +45,7 @@
 | [Зупиняти кров](https://open.spotify.com/track/118w7P41WH2GEKrscAiUU5) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Зупиняти кров](https://open.spotify.com/album/3xzpyOqDj7t8hwodw1EnXV) | 3:36 | 2024-06-27 | 2024-08-04 |
 | [Квартали](https://open.spotify.com/track/1x2CbvlWtd8GAX9A1gZV3S) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Квартали](https://open.spotify.com/album/1G8H3PamI9TrUcoHBbOGhn) | 2:51 | 2024-06-27 |  |
 | [Ким я стану?](https://open.spotify.com/track/3vqpY6Gyp0mozUbMzU3xw8) | [Я Тоня](https://open.spotify.com/artist/5XTKx5IOWJHQcAll31CY5a) | [Ким я стану?](https://open.spotify.com/album/0eOvZWvQBNSuw6tuMEckV7) | 2:46 | 2024-06-27 | 2024-07-27 |
+| [Киця злиже](https://open.spotify.com/track/2PrwY0j7aRvbpdTLDtRkzt) | [Stereopalto](https://open.spotify.com/artist/5fxahF5Bcx1DRkCRlU3B5Y) | [Киця злиже](https://open.spotify.com/album/5A2YHpnLFpl7y9GDGYLa5F) | 2:10 | 2024-07-26 |  |
 | [Кошенята](https://open.spotify.com/track/6I4cPoBwb34VYc69MlUJ6a) | [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Кошенята](https://open.spotify.com/album/0Ttcj9hFr2X2gz8HQmzETd) | 2:31 | 2024-06-27 | 2024-07-13 |
 | [Луги](https://open.spotify.com/track/2A6RrJHuuKUvGKbDoPqSDW) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Луги](https://open.spotify.com/album/7rFdDzZpQkzXw48uhQ7Owm) | 3:07 | 2024-06-27 | 2024-07-13 |
 | [Літо](https://open.spotify.com/track/6rEc1q1piCjkv5nQoUkPHJ) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Літо](https://open.spotify.com/album/019UYD8c4sKIZD35H36nlc) | 3:05 | 2024-07-26 |  |

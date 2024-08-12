@@ -1,6 +1,6 @@
 {
   "description": "El toque que le faltaba a tu caf\u00e9. \n",
-  "num_followers": 63687,
+  "num_followers": 63707,
   "original_name": "cafeter\u00eda ",
   "owner": {
     "name": "Spotify",
@@ -91,38 +91,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -151,6 +119,38 @@
       "duration_ms": 200626,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "The Papas & The Mamas",
+        "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5"
     },
     {
       "added_at": "2024-05-03 16:55:28",
@@ -187,34 +187,34 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "The Papas & The Mamas",
-        "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
       "artists": [
         {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 194426,
-      "name": "Dream A Little Dream Of Me",
-      "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5"
+      "duration_ms": 285240,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Carpenters",
-        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
       "artists": [
         {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 218893,
-      "name": "Rainy Days And Mondays",
-      "url": "https://open.spotify.com/track/5cbZDpFu1hTwaU7hDQpf13"
+      "duration_ms": 383502,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
     },
     {
       "added_at": "2023-10-19 16:59:00",
@@ -539,18 +539,34 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 383502,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Carpenters",
+        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "Rainy Days And Mondays",
+      "url": "https://open.spotify.com/track/5cbZDpFu1hTwaU7hDQpf13"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -571,22 +587,6 @@
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Green & Gold",
+      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
         "name": "de l'accordeoniste a milord",
         "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
+        "name": "Pleasantville -Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Green & Gold",
-      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
+      "duration_ms": 307333,
+      "name": "Across the Universe",
+      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -811,18 +827,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Pleasantville -Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
       "artists": [
         {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 307333,
-      "name": "Across the Universe",
-      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
+      "duration_ms": 221120,
+      "name": "Satellite of Love",
+      "url": "https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -839,22 +855,6 @@
       "duration_ms": 216933,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Satellite of Love",
-      "url": "https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
     },
     {
+      "added_at": "2023-08-14 15:33:44",
+      "album": {
+        "name": "Time After Time (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 219648,
+      "name": "Time After Time - Spotify Singles",
+      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
+    },
+    {
       "added_at": "2023-07-10 17:37:38",
       "album": {
         "name": "Kind Of Blue (Legacy Edition)",
@@ -983,38 +999,6 @@
       "duration_ms": 284560,
       "name": "Stella By Starlight (feat. John Coltrane & Bill Evans)",
       "url": "https://open.spotify.com/track/4zxd4tiXPlWMqoJltbVTbE"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
-    },
-    {
-      "added_at": "2023-08-14 15:33:44",
-      "album": {
-        "name": "Time After Time (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 219648,
-      "name": "Time After Time - Spotify Singles",
-      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -1051,6 +1035,22 @@
       "duration_ms": 174866,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/6ZMrpXuvDO8T13QVrshXlL"
     },
     {
-      "added_at": "2023-12-20 18:48:46",
-      "album": {
-        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 178630,
-      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
-    },
-    {
       "added_at": "2023-07-10 17:37:38",
       "album": {
         "name": "T\u00fa Ve",
@@ -1151,6 +1135,22 @@
       "duration_ms": 238068,
       "name": "T\u00fa Ve",
       "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
+    },
+    {
+      "added_at": "2023-12-20 18:48:46",
+      "album": {
+        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 178630,
+      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
     },
     {
       "added_at": "2023-07-10 17:37:38",

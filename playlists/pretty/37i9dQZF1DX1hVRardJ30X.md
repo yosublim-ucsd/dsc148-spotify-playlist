@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by J Balvin, Peso Pluma & Titi Double P, Manuel Turizo, and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,880 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,033 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Pensando en si Regresaras](https://open.spotify.com/track/08rWqv6nB8zQ9m7qgDYbwe) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [Jorge Tapia](https://open.spotify.com/artist/64leBQqTcH4QSdO2yegHfd) | [Pensando en si Regresaras](https://open.spotify.com/album/5USyQh5qQI1m8vRk14ysOv) | 2:59 |
 | 51 | [San Mike](https://open.spotify.com/track/5ox6dSwn0tjfcGHNo1LjRW) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [San Mike](https://open.spotify.com/album/2kMmUCIQkcxy4Lufx8RgXn) | 3:04 |
 | 52 | [Tu Patrona \- Remix](https://open.spotify.com/track/5y0yDtyND4IpREM9dPEPMI) | [Dj Matias ACuña Remix](https://open.spotify.com/artist/4a3nb7TzmfmzNK6zwXTRM8) | [Tu Patrona \- Remix](https://open.spotify.com/album/41puWJGsUZuuiJEIDrYAZ0) | 2:36 |
-| 53 | [Pa´Las Joyas](https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Pa´Las Joyas](https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO) | 2:44 |
+| 53 | [PA´ LAS JOYAS](https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [PA´ LAS JOYAS](https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO) | 2:44 |
 | 54 | [Hechizado](https://open.spotify.com/track/6IqqPa90DqA4LtgpF0ON0U) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hechizado](https://open.spotify.com/album/6RyCdyp0xSKFZHPGvsRH78) | 2:30 |
 | 55 | [REWIND](https://open.spotify.com/track/4ftd7yHL6WyeBVvGQHIoJl) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [GANGSTA LOVE](https://open.spotify.com/album/1dRAMRY0meZGMHo1zKhqR3) | 2:36 |
 | 56 | [Quien Me Cuida](https://open.spotify.com/track/2BcKrzHceEvh9MUdXiCzNi) | [Andres Levin](https://open.spotify.com/artist/69CvT8y8zQ5mngmmBSuxhr), [Betomonte](https://open.spotify.com/artist/3aAVHDGT5oIwTbppEcR7sb), [Ceci Bastida](https://open.spotify.com/artist/7xKtg8mN9eQ8jBiLRnbq8U), [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [Regreso a Gondwana](https://open.spotify.com/album/3QP0g6uUXDd5udCn2tmCgf) | 3:45 |

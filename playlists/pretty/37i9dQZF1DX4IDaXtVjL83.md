@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: BE:FIRST X ATEEZ\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: ATEEZ, G\-Eazy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,299 likes - 111 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,273 likes - 111 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 110 | [When The Sun Goes Down](https://open.spotify.com/track/4ag3PFjrtBvPkAXWvDpBng) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [When The Sun Goes Down](https://open.spotify.com/album/1Diw0Vc2BRsiATDrRveAOq) | 3:15 |
 | 111 | [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 |
 
-Snapshot ID: `ZreREgAAAACsbTJ7LXB76JJfExnYdpS4`
+Snapshot ID: `ZrllqgAAAACHaSuLjbxudJ340OBykQCY`

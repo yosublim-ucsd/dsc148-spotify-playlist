@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,647 likes - 150 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,648 likes - 150 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 92 | [Another day in America \(with Ozuna\)](https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Another day in America \(with Ozuna\)](https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW) | 2:47 |
 | 93 | [Funk Total: Vai danada](https://open.spotify.com/track/2B0m7HYBaT5alq24RHSLhg) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz) | [Funk Total: Vai danada](https://open.spotify.com/album/0yLHbBPsTZQaibDA5DOkyC) | 2:44 |
 | 94 | [BIEN CANIJO](https://open.spotify.com/track/2c1PXctrxMCsvYgMhbztVe) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:58 |
-| 95 | [Las estrellas / Si tu me love me](https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 5:09 |
-| 96 | [ECHÁNDOTE DE MENOS](https://open.spotify.com/track/1WOkxgqXnHQRiVGLpnmluF) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:06 |
+| 95 | [ECHÁNDOTE DE MENOS](https://open.spotify.com/track/1WOkxgqXnHQRiVGLpnmluF) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:06 |
+| 96 | [Las estrellas / Si tu me love me](https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 5:09 |
 | 97 | [Esta Noche \(feat\. Big One\)](https://open.spotify.com/track/39ezu6wWxEDAdboRfcjxzO) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Esta Noche \(feat\. Big One\)](https://open.spotify.com/album/2wGhjjn7Znpu8PZ22TojDk) | 3:14 |
 | 98 | [Enredaos](https://open.spotify.com/track/5jFCZboaqwjQdv21sJjJY5) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:12 |
 | 99 | [NADA QUE DECIR](https://open.spotify.com/track/3s517OY43flGYhwMVRXU2F) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 1:57 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 128 | [Tu Canción](https://open.spotify.com/track/7luRwvd1VnAkqzA9cNQ0ad) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 2:50 |
 | 129 | [Karma](https://open.spotify.com/track/4GhOUUmIG4HggOP6IKqgRl) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRO NIVEL](https://open.spotify.com/album/3DGyBlglOLup5uVRKy8uSd) | 2:29 |
 | 130 | [VALLENATO](https://open.spotify.com/track/4k1GiKvD0VD2PeUKn8Uw8a) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [ELENA ROSE](https://open.spotify.com/artist/5qrmOTte5VKyomdTJtBrFH) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 4:24 |
-| 131 | [Exclusivos](https://open.spotify.com/track/0mgWP7XJ4yxwZzUmRX0HGW) | [Periko & Jessi Leon](https://open.spotify.com/artist/31d96XTKL3soxtdxzUVEP6) | [Exclusivos](https://open.spotify.com/album/3H10cEHm6jQyozDBn3NiAe) | 2:50 |
-| 132 | [Pimienta](https://open.spotify.com/track/1SyVu9E0u0FfGpuzNHtQ9a) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Pimienta](https://open.spotify.com/album/01ZZUMyrr1tCKd07boAatk) | 3:12 |
+| 131 | [Pimienta](https://open.spotify.com/track/1SyVu9E0u0FfGpuzNHtQ9a) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Pimienta](https://open.spotify.com/album/01ZZUMyrr1tCKd07boAatk) | 3:12 |
+| 132 | [Exclusivos](https://open.spotify.com/track/0mgWP7XJ4yxwZzUmRX0HGW) | [Periko & Jessi Leon](https://open.spotify.com/artist/31d96XTKL3soxtdxzUVEP6) | [Exclusivos](https://open.spotify.com/album/3H10cEHm6jQyozDBn3NiAe) | 2:50 |
 | 133 | [De Donde Vengo](https://open.spotify.com/track/1zxO2zDpTbOkzxNkxxk5S2) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:34 |
 | 134 | [Para Ti No](https://open.spotify.com/track/4S6uEOfuwiz7qLBOTd58Nt) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/2V0pmwbM5QL3sbb0tVVDMB) | 3:19 |
 | 135 | [Vogue](https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Vogue](https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy) | 3:02 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 149 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 150 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AbZFBwAAAAA5IvN7ftgr/o4yNq8dEyK9`
+Snapshot ID: `AbZKpwAAAACGtdnI0Eojq8SfydDAgZKV`

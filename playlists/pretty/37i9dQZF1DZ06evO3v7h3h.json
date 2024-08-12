@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46284,
+  "num_followers": 46285,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAACbOyRXW9HUvSSbNKStCURc",
+  "snapshot_id": "ZratgAAAAAC/OC3PRWFCdnBi8SpjYO/j",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+        }
+      ],
+      "duration_ms": 184445,
+      "name": "Sem Norte",
+      "url": "https://open.spotify.com/track/5oz9GKNnBNLqnGOVIt5Gmm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cairo",
         "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
       },
@@ -236,17 +260,17 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
         },
         {
-          "name": "Ruxell",
-          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
         }
       ],
-      "duration_ms": 184445,
-      "name": "Sem Norte",
-      "url": "https://open.spotify.com/track/5oz9GKNnBNLqnGOVIt5Gmm"
+      "duration_ms": 219294,
+      "name": "Levante",
+      "url": "https://open.spotify.com/track/09tODjIWVm1d08ZstMQs7d"
     },
     {
       "added_at": null,
@@ -324,13 +348,13 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
         }
       ],
-      "duration_ms": 261478,
-      "name": "Um Tom de Azul",
-      "url": "https://open.spotify.com/track/0KU4mayaRz3gGeAKo8M7wG"
+      "duration_ms": 280864,
+      "name": "Castelos de Papel",
+      "url": "https://open.spotify.com/track/6mKlfMjTfgYdXZ2EuiXdqK"
     },
     {
       "added_at": null,
@@ -406,15 +430,11 @@
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/4GrdXr0BcktZbtGHFeAey1"
         }
       ],
-      "duration_ms": 252279,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/4bX1GDvKQ237I6cEGLsV08"
+      "duration_ms": 187384,
+      "name": "Frustra\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1xKDCXGgQvox1Kv4ez7hs4"
     },
     {
       "added_at": null,
@@ -500,17 +520,13 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/4GrdXr0BcktZbtGHFeAey1"
         }
       ],
-      "duration_ms": 219294,
-      "name": "Levante",
-      "url": "https://open.spotify.com/track/09tODjIWVm1d08ZstMQs7d"
+      "duration_ms": 252279,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/4bX1GDvKQ237I6cEGLsV08"
     },
     {
       "added_at": null,
@@ -604,13 +620,13 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 280864,
-      "name": "Castelos de Papel",
-      "url": "https://open.spotify.com/track/6mKlfMjTfgYdXZ2EuiXdqK"
+      "duration_ms": 261478,
+      "name": "Um Tom de Azul",
+      "url": "https://open.spotify.com/track/0KU4mayaRz3gGeAKo8M7wG"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "Frustra\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1xKDCXGgQvox1Kv4ez7hs4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Milenar Arte De Meter O Louco",
         "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 273320,
-      "name": "E Se",
-      "url": "https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 261642,
       "name": "Virando a Mesa",
       "url": "https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 273320,
+      "name": "E Se",
+      "url": "https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ"
     },
     {
       "added_at": null,
@@ -851,6 +851,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Di\u00e1rio de Bordo 6",
+        "url": "https://open.spotify.com/album/3NbugjuhlSg3UudBeYxnu5"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        },
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        }
+      ],
+      "duration_ms": 265763,
+      "name": "Di\u00e1rio de Bordo 6",
+      "url": "https://open.spotify.com/track/1NhKsK3kPy49YfFyrXaks2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 242384,
+      "name": "N\u00e3o Sabem de Nada",
+      "url": "https://open.spotify.com/track/0kOg2SOsNaHnrcPCC2diFf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Azz Veizz",
         "url": "https://open.spotify.com/album/4sGPPuO7iZv7qXr7ace65g"
       },
@@ -883,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
       },
       "artists": [
         {
@@ -892,33 +932,9 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 242384,
-      "name": "N\u00e3o Sabem de Nada",
-      "url": "https://open.spotify.com/track/0kOg2SOsNaHnrcPCC2diFf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Di\u00e1rio de Bordo 6",
-        "url": "https://open.spotify.com/album/3NbugjuhlSg3UudBeYxnu5"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        },
-        {
-          "name": "DJ Caique",
-          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
-        }
-      ],
-      "duration_ms": 265763,
-      "name": "Di\u00e1rio de Bordo 6",
-      "url": "https://open.spotify.com/track/1NhKsK3kPy49YfFyrXaks2"
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
     },
     {
       "added_at": null,
@@ -935,22 +951,6 @@
       "duration_ms": 265896,
       "name": "Tudo Ou Nada",
       "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
     },
     {
       "added_at": null,
@@ -987,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "T\u00e3o Real",
+      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Non Ducor Duco",
         "url": "https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 243400,
       "name": "Porque Eu Rimo",
       "url": "https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "T\u00e3o Real",
-      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
     },
     {
       "added_at": null,
@@ -1067,22 +1067,6 @@
       "duration_ms": 286570,
       "name": "Estere\u00f3tipo",
       "url": "https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 177679,
-      "name": "Vagabundo Qualquer",
-      "url": "https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj"
     },
     {
       "added_at": null,
@@ -1127,6 +1111,22 @@
       "duration_ms": 464853,
       "name": "L\u00edngua dos Campe\u00f5es",
       "url": "https://open.spotify.com/track/0Uq6l0gRWpsUzoDPklSPmp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 177679,
+      "name": "Vagabundo Qualquer",
+      "url": "https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj"
     }
   ],
   "unique_name": "This Is Rashid",

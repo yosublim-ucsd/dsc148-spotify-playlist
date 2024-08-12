@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "Es La Primera Vez",
+      "url": "https://open.spotify.com/track/0athu9zrufS1z143dq8gQQ"
+    },
+    {
+      "album": {
         "name": "Caliente, Caliente",
         "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
       },

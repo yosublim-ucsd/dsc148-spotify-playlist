@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 ### [This Is RENEE](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1niegE)
 
-> This is RENEE\. The essential tracks, all in one playlist.
+> This Is RENEE\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,562 likes - 46 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,565 likes - 46 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 24 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
 | 25 | [Casual \(YTQDV\)](https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:10 |
 | 26 | [así no funciona](https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:23 |
-| 27 | [Como Quisiera](https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 4:36 |
+| 27 | [Vivir En Silencio](https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:54 |
 | 28 | [El Club](https://open.spotify.com/track/3DbPK8G0VblHrWSjuT8xFG) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:38 |
 | 29 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
 | 30 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 |
-| 31 | [Vivir En Silencio](https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:54 |
+| 31 | [Como Quisiera](https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 4:36 |
 | 32 | [No Me Digas Qué Hacer](https://open.spotify.com/track/1fBip2frsNLgliGzaZiYeI) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 1:53 |
 | 33 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
 | 34 | [VHS](https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Retrofuturismo](https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O) | 2:56 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 45 | [Día De Abril](https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 2:56 |
 | 46 | [fior](https://open.spotify.com/track/6GtWgDj1nK1TBahvOwYLvg) | [Efelante](https://open.spotify.com/artist/2RBUJpND98jnw4EwFCJiiX), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [fior](https://open.spotify.com/album/6zbSHO2tNXiuCTOIjhgZnD) | 5:11 |
 
-Snapshot ID: `ZrVcAAAAAACs7gqvi2AMUSncYZQJzSII`
+Snapshot ID: `ZratgAAAAAAMhLajRfsUPJ1bbZBikCo5`

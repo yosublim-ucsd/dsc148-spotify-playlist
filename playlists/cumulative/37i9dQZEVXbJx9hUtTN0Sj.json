@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 212183,
       "name": "3 D\u00c9FAUTS",
       "url": "https://open.spotify.com/track/1Ik7PTKQ5vcw3UU9UY57SL"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 161001,
       "name": "BAD!",
       "url": "https://open.spotify.com/track/5asnJ8gN6EStpEmZSEYjyC"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 248571,
       "name": "Bombalaya - Blooom Remix",
       "url": "https://open.spotify.com/track/5utINKwnXh1drV2vI9cnze"
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -3556,7 +3556,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 162058,
       "name": "ESTE",
       "url": "https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l"
@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 267733,
       "name": "Etoile filante",
       "url": "https://open.spotify.com/track/2BCWKRZH8pXkwVzZgbep7z"
@@ -3636,7 +3636,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 267733,
       "name": "Etoile filante",
       "url": "https://open.spotify.com/track/2CuuO2clMcQHYK0Sx0chvu"
@@ -3654,7 +3654,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 159755,
       "name": "Eu Quero Tchu Eu Quero Tcha",
       "url": "https://open.spotify.com/track/3xrYgdz1QEj2q3f5T1OGxb"
@@ -3672,7 +3672,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 161346,
       "name": "Eu Quero Tchu, Eu Quero Tcha - Single Version",
       "url": "https://open.spotify.com/track/36JlLKH7LEhEqsRljgtoW4"
@@ -7711,6 +7711,24 @@
     },
     {
       "album": {
+        "name": "Mahboul Ana",
+        "url": "https://open.spotify.com/album/5MM2Wa6hlvuiwun1RgvRlm"
+      },
+      "artists": [
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Mahboul Ana",
+      "url": "https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1"
+    },
+    {
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
@@ -7740,7 +7758,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 192182,
       "name": "Malya",
       "url": "https://open.spotify.com/track/5XRSmVzOdT0dd3mMEWFnQC"
@@ -8142,7 +8160,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 150229,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/0kCq0C9Wr7Prr5PLrW4jqq"
@@ -8574,6 +8592,24 @@
       "duration_ms": 169853,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
+    },
+    {
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165813,
+      "name": "No lo s\u00e9",
+      "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
     },
     {
       "album": {
@@ -10664,7 +10700,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Si Ai",
       "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"

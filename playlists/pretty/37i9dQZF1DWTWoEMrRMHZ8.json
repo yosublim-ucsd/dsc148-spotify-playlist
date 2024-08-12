@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Nando Reis",
-  "num_followers": 346147,
+  "num_followers": 346194,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,26 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
+        "name": "D\u00e1 Pra Ser Feliz",
+        "url": "https://open.spotify.com/album/590OSdBmlpEOe8rVsLYVJs"
+      },
+      "artists": [
+        {
+          "name": "Gina Garcia",
+          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "D\u00e1 Pra Ser Feliz",
+      "url": "https://open.spotify.com/track/4jU74AgC3F0M63YcCJKZGh"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
         "name": "Antes Que O Mundo Acabe",
         "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 149000,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "D\u00e1 Pra Ser Feliz",
-        "url": "https://open.spotify.com/album/590OSdBmlpEOe8rVsLYVJs"
-      },
-      "artists": [
-        {
-          "name": "Gina Garcia",
-          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "D\u00e1 Pra Ser Feliz",
-      "url": "https://open.spotify.com/track/4jU74AgC3F0M63YcCJKZGh"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -559,38 +559,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Como Vai Voc\u00ea",
-        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 181169,
-      "name": "Como Vai Voc\u00ea",
-      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Mundo Paralelo",
         "url": "https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw"
       },
@@ -619,6 +587,38 @@
       "duration_ms": 191166,
       "name": "A Donzela Se Casou",
       "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Como Vai Voc\u00ea",
+        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 181169,
+      "name": "Como Vai Voc\u00ea",
+      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Quando a Gente Existe",
-        "url": "https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Quando a Gente Existe",
-      "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Planos do C\u00e9u",
         "url": "https://open.spotify.com/album/1x9Nsd4WRdCtvuRWwk075V"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 247146,
       "name": "Planos do C\u00e9u",
       "url": "https://open.spotify.com/track/7cw9ocbl12GVol9IZFDjRT"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Quando a Gente Existe",
+        "url": "https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Quando a Gente Existe",
+      "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Apazigua",
+      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
         "name": "BabyBaby",
         "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
       },
@@ -883,26 +903,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Apazigua",
-      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "N\u00e3o vejo a hora",
         "url": "https://open.spotify.com/album/4iuOtGlTt5485mrjYelXSA"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Na Can\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2eLJBKPl926NFmQu5ml8CR"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 145416,
       "name": "Na Can\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6qftJ4GM7f7kuU3ZtcDs0V"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Esque\u00e7a Tudo",
-        "url": "https://open.spotify.com/album/1PugCRv3I48m1IgsbVytRF"
-      },
-      "artists": [
-        {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        }
-      ],
-      "duration_ms": 189206,
-      "name": "Esque\u00e7a Tudo",
-      "url": "https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Cheguei pra ficar",
         "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 150394,
       "name": "Cheguei pra ficar",
       "url": "https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Esque\u00e7a Tudo",
+        "url": "https://open.spotify.com/album/1PugCRv3I48m1IgsbVytRF"
+      },
+      "artists": [
+        {
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+        }
+      ],
+      "duration_ms": 189206,
+      "name": "Esque\u00e7a Tudo",
+      "url": "https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1219,6 +1219,22 @@
       "duration_ms": 244500,
       "name": "Absurdo",
       "url": "https://open.spotify.com/track/27D2NN2jAY8FR9Y3YPdGN2"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "duration_ms": 232714,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
+        "name": "Misteriosa",
+        "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
       },
       "artists": [
         {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 232714,
-      "name": "AURORA",
-      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
+      "duration_ms": 348000,
+      "name": "Macap\u00e1",
+      "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1307,6 +1323,30 @@
       "duration_ms": 232576,
       "name": "Porvir",
       "url": "https://open.spotify.com/track/3kgdKvRXZ9CJg3n1RnIwn1"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Tem Barata Voadora Que Se Acha Borboleta",
+        "url": "https://open.spotify.com/album/6Swn45UtkLg3tshqguoBqO"
+      },
+      "artists": [
+        {
+          "name": "NAT\u00d6",
+          "url": "https://open.spotify.com/artist/5tcibVee711ANTnnmW4gr6"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        },
+        {
+          "name": "CRIS.",
+          "url": "https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "Tem Barata Voadora Que Se Acha Borboleta",
+      "url": "https://open.spotify.com/track/58oLSDXQwxHVb7SAVtSgpg"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1355,30 +1395,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Tem Barata Voadora Que Se Acha Borboleta",
-        "url": "https://open.spotify.com/album/6Swn45UtkLg3tshqguoBqO"
-      },
-      "artists": [
-        {
-          "name": "NAT\u00d6",
-          "url": "https://open.spotify.com/artist/5tcibVee711ANTnnmW4gr6"
-        },
-        {
-          "name": "Skeeter Beats",
-          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
-        },
-        {
-          "name": "CRIS.",
-          "url": "https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "Tem Barata Voadora Que Se Acha Borboleta",
-      "url": "https://open.spotify.com/track/58oLSDXQwxHVb7SAVtSgpg"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Universo de Paix\u00e3o",
         "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Caminho de Quem Passa",
-        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 208572,
-      "name": "Caminho de Quem Passa",
-      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Hoje Eu S\u00f3 Queria Ser o Amor de Algu\u00e9m",
         "url": "https://open.spotify.com/album/5epkj5XIM0JLgmkiIr7sxm"
       },
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Vento Leva",
-        "url": "https://open.spotify.com/album/3aQcIWCb8gamT5efAa4iIu"
+        "name": "Caminho de Quem Passa",
+        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
       },
       "artists": [
         {
-          "name": "Becca Perret",
-          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Vento Leva",
-      "url": "https://open.spotify.com/track/0UdCw6cxeNwYjGjS531p2T"
+      "duration_ms": 208572,
+      "name": "Caminho de Quem Passa",
+      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1479,18 +1479,38 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Misteriosa",
-        "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
+        "name": "Vento Leva",
+        "url": "https://open.spotify.com/album/3aQcIWCb8gamT5efAa4iIu"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Becca Perret",
+          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
         }
       ],
-      "duration_ms": 348000,
-      "name": "Macap\u00e1",
-      "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
+      "duration_ms": 177706,
+      "name": "Vento Leva",
+      "url": "https://open.spotify.com/track/0UdCw6cxeNwYjGjS531p2T"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Me Beija",
+        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
+      },
+      "artists": [
+        {
+          "name": "Renato Piau",
+          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Me Beija",
+      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1567,26 +1587,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Me Beija",
-        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
-      },
-      "artists": [
-        {
-          "name": "Renato Piau",
-          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "Me Beija",
-      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Talism\u00e3",
         "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 229090,
       "name": "Talism\u00e3",
       "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "N\u00c3O ME CHAME DE AMOR",
+        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "duration_ms": 278033,
+      "name": "N\u00c3O ME CHAME DE AMOR",
+      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1631,22 +1647,6 @@
       "duration_ms": 224000,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0dSvKFk6NR0ZFUZFJWs96C"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "N\u00c3O ME CHAME DE AMOR",
-        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        }
-      ],
-      "duration_ms": 278033,
-      "name": "N\u00c3O ME CHAME DE AMOR",
-      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
     },
     {
       "added_at": "2024-08-09 15:15:51",

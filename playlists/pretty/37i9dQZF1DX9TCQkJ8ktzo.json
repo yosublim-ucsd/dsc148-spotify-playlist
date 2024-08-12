@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 39516,
+  "num_followers": 39537,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Vicente Fernandez",
         "url": "https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 173560,
       "name": "Vete Con Ella (Chappel of Love)",
       "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Los \u00c9xitos en Espa\u00f1ol y Franc\u00e9s",
         "url": "https://open.spotify.com/album/6wjhvF4EuYuZFcs5PpKzRn"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 146440,
       "name": "Tu Seras Mi Baby",
       "url": "https://open.spotify.com/track/4tko6GvGRI2Ege56DN9QNa"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "El Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 180986,
-      "name": "Vas a Llorar",
-      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
+      "duration_ms": 166066,
+      "name": "El Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 148546,
+      "name": "Palabra de Rey",
+      "url": "https://open.spotify.com/track/0PNEOLOyCdZLTfbvajXJIa"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Corridos Y Rancheras",
         "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 148546,
-      "name": "Palabra de Rey",
-      "url": "https://open.spotify.com/track/0PNEOLOyCdZLTfbvajXJIa"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy"
       },
@@ -483,54 +483,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Rock Con los Locos del Ritmo",
-        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 126096,
-      "name": "Chica Alborotada",
-      "url": "https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "A Mi Amor Con Mi Amor",
-        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Ven Que Te Quiero",
-        "url": "https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP"
-      },
-      "artists": [
-        {
-          "name": "Los Impala",
-          "url": "https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto"
-        }
-      ],
-      "duration_ms": 193782,
-      "name": "Ven Que Te Quiero",
-      "url": "https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Las 100 Clasicas Vol. 2",
         "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
@@ -543,6 +495,22 @@
       "duration_ms": 141240,
       "name": "Muchacha Bonita",
       "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 126096,
+      "name": "Chica Alborotada",
+      "url": "https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -563,6 +531,54 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Ven Que Te Quiero",
+        "url": "https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP"
+      },
+      "artists": [
+        {
+          "name": "Los Impala",
+          "url": "https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto"
+        }
+      ],
+      "duration_ms": 193782,
+      "name": "Ven Que Te Quiero",
+      "url": "https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
         "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 144666,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/0hE2ejWHfg5OpdoOnMjePG"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Para Mi Siempre Amor...",
-        "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 115853,
-      "name": "Para Cuando Regreses",
-      "url": "https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+        "name": "Para Mi Siempre Amor...",
+        "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
         }
       ],
-      "duration_ms": 150333,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
+      "duration_ms": 115853,
+      "name": "Para Cuando Regreses",
+      "url": "https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -655,6 +655,22 @@
       "duration_ms": 157880,
       "name": "M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "El Malquerido",
+      "url": "https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -703,22 +719,6 @@
       "duration_ms": 159760,
       "name": "Locamente Te Amar\u00e9",
       "url": "https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 163120,
-      "name": "El Malquerido",
-      "url": "https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -787,34 +787,38 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
-        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
+        "name": "Cuba y Puerto Rico",
+        "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
       },
       "artists": [
         {
-          "name": "Armando Manzanero Y Su Piano",
-          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 157160,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
+      "duration_ms": 191053,
+      "name": "Herencia Gitana",
+      "url": "https://open.spotify.com/track/71OaY7celWpuQh00OlDrls"
     },
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ"
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj"
       },
       "artists": [
         {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
         }
       ],
-      "duration_ms": 202840,
-      "name": "Pensaba en Ti",
-      "url": "https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm"
+      "duration_ms": 152508,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/15F0WHXpKYQQGUXkSVnOkJ"
     }
   ],
   "unique_name": "Los 60s",

@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 571779,
+  "num_followers": 571801,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABDEH4lRHivDnLttwYppVKJ",
+  "snapshot_id": "ZratgAAAAADvq2XQE2rc0CuaA06W0eHt",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 411133,
-      "name": "Flawless (Go to the City)",
-      "url": "https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr"
+      "duration_ms": 230508,
+      "name": "Let Her Down Easy - Live",
+      "url": "https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
       "duration_ms": 434733,
       "name": "Cowboys and Angels - Remastered",
       "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 411133,
+      "name": "Flawless (Go to the City)",
+      "url": "https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr"
     },
     {
       "added_at": null,
@@ -551,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 230508,
-      "name": "Let Her Down Easy - Live",
-      "url": "https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 557293,
       "name": "I Want Your Sex - Pts. 1 & 2 Remastered",
       "url": "https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 285361,
+      "name": "Going To A Town - Live",
+      "url": "https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2"
     },
     {
       "added_at": null,
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 285361,
-      "name": "Going To A Town - Live",
-      "url": "https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 313595,
       "name": "Everything She Wants - Live",
       "url": "https://open.spotify.com/track/2kaDIOcZx2WARb52smVMt4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 195957,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 195957,
-      "name": "Feeling Good - Live",
-      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 105946,
-      "name": "My Baby Just Cares for Me",
-      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 355733,
       "name": "Round Here",
       "url": "https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 105946,
+      "name": "My Baby Just Cares for Me",
+      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 159546,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 239174,
       "name": "Mothers Pride - Remastered",
       "url": "https://open.spotify.com/track/2q1lPD9JAnCo5TDDrbC9Tm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 159546,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
     },
     {
       "added_at": null,

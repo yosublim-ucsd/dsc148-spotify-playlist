@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 6941,
+  "num_followers": 6946,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAAK2zr9z2aTmNWaBLmfp4vU",
+  "snapshot_id": "ZratgAAAAABWfmEK3hHrrUtGpWNgIBqK",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alubarika",
+        "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Alubarika",
+      "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gift And Grace",
         "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
@@ -647,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Bom Bom",
-      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
@@ -679,22 +683,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alubarika",
-        "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
       },
       "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 235440,
-      "name": "Alubarika",
-      "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
+      "duration_ms": 218466,
+      "name": "Bom Bom",
+      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Something Must to Kill a Man",
+      "url": "https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 135186,
       "name": "Inside",
       "url": "https://open.spotify.com/track/6hoUqY7KzLKbS5y8FE6dAz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Something Must to Kill a Man",
-      "url": "https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M.O.N.E.Y",
-        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "M.O.N.E.Y",
-      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ah Blem Blem",
         "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 206160,
       "name": "Ah Blem Blem",
       "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
       "duration_ms": 162222,
       "name": "Tomato",
       "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get My Money Right",
+        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 177088,
+      "name": "Get My Money Right",
+      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
     },
     {
       "added_at": null,
@@ -903,22 +919,6 @@
       "duration_ms": 154616,
       "name": "Givin Dem",
       "url": "https://open.spotify.com/track/4HDdq1RWhIBgAm5xOrqN32"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get My Money Right",
-        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 177088,
-      "name": "Get My Money Right",
-      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
     },
     {
       "added_at": null,

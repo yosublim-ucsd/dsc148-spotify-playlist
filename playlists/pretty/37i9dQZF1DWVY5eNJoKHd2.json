@@ -1,6 +1,6 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 1330204,
+  "num_followers": 1330724,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
-      "added_at": "2024-06-26 20:19:40",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 298440,
-      "name": "BITTERSUITE",
-      "url": "https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU"
-    },
-    {
       "added_at": "2024-05-22 11:00:00",
       "album": {
         "name": "Good Looking",
@@ -319,6 +303,22 @@
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
+    },
+    {
+      "added_at": "2024-06-26 20:19:40",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 298440,
+      "name": "BITTERSUITE",
+      "url": "https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 196071,
+      "name": "Kyle (i found you)",
+      "url": "https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "My House Is Not A Home",
         "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
       },
@@ -1223,38 +1239,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 196071,
-      "name": "Kyle (i found you)",
-      "url": "https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 281960,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1341,10 +1341,10 @@
       "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
     },
     {
-      "added_at": "2024-05-31 05:00:00",
+      "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
       "artists": [
         {
@@ -1352,25 +1352,9 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 209426,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Dark Vacay",
-        "url": "https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Dark Vacay",
-      "url": "https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r"
+      "duration_ms": 170893,
+      "name": "Only in My Dreams",
+      "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1395,6 +1379,22 @@
       "duration_ms": 282812,
       "name": "You & Me - Flume Remix",
       "url": "https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Dark Vacay",
+        "url": "https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Dark Vacay",
+      "url": "https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1431,8 +1431,24 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 77374,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC"
+    },
+    {
+      "added_at": "2024-05-31 05:00:00",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
       "artists": [
         {
@@ -1440,9 +1456,9 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 170893,
-      "name": "Only in My Dreams",
-      "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
+      "duration_ms": 209426,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "CHASE",
-        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
-      },
-      "artists": [
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        }
-      ],
-      "duration_ms": 77374,
-      "name": "Make It",
-      "url": "https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Miss Summer",
         "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 162376,
       "name": "Miss Summer",
       "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Invincible EP",
-        "url": "https://open.spotify.com/album/78ROcR5rkK56FnSYxBo40L"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Invincible EP",
+        "url": "https://open.spotify.com/album/78ROcR5rkK56FnSYxBo40L"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS"
     },
     {
       "added_at": "2024-05-22 11:00:00",

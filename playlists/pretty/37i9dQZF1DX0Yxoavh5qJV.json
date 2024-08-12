@@ -1,6 +1,6 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5553955,
+  "num_followers": 5553584,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
@@ -707,18 +707,22 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g"
+      "duration_ms": 175333,
+      "name": "Mele Kalikimaka (Merry Christmas)",
+      "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
     },
     {
       "added_at": "2024-07-08 19:06:00",
@@ -739,22 +743,18 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Mele Kalikimaka (Merry Christmas)",
-      "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g"
     },
     {
       "added_at": "2024-07-08 19:06:00",
@@ -779,6 +779,38 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
+        "name": "The Works",
+        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 240213,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ"
+    },
+    {
+      "added_at": "2024-07-08 19:06:00",
+      "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Do You Hear What I Hear? - Remastered 2006",
+      "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
+    },
+    {
+      "added_at": "2024-07-08 19:06:00",
+      "album": {
         "name": "The Beach Boys' Christmas Album",
         "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
       },
@@ -795,18 +827,34 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
-        "name": "The Works",
-        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 240213,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ"
+      "duration_ms": 171093,
+      "name": "Santa Claus Is Coming to Town",
+      "url": "https://open.spotify.com/track/1RMDXedcRno6rDBCbNHDJf"
+    },
+    {
+      "added_at": "2024-07-08 19:06:00",
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
+      "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
     },
     {
       "added_at": "2024-07-08 19:06:00",
@@ -843,38 +891,6 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
-      "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
-    },
-    {
-      "added_at": "2024-07-08 19:06:00",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Santa Claus Is Coming to Town",
-      "url": "https://open.spotify.com/track/1RMDXedcRno6rDBCbNHDJf"
-    },
-    {
-      "added_at": "2024-07-08 19:06:00",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 170964,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
-    },
-    {
-      "added_at": "2024-07-08 19:06:00",
-      "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Do You Hear What I Hear? - Remastered 2006",
-      "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
     },
     {
       "added_at": "2024-07-08 19:06:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 122160,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/4KV9bM7a1KDc7b7OakFZic"
-    },
-    {
-      "added_at": "2024-07-08 19:06:00",
-      "album": {
         "name": "Tougher Than Leather (Expanded Edition)",
         "url": "https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 144253,
       "name": "Winter Wonderland - Remastered 2006",
       "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
+    },
+    {
+      "added_at": "2024-07-08 19:06:00",
+      "album": {
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 122160,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/4KV9bM7a1KDc7b7OakFZic"
     },
     {
       "added_at": "2024-07-08 19:06:00",
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 216906,
-      "name": "Wrapped in Red",
-      "url": "https://open.spotify.com/track/2nMZx7QHerfo4Wv37xNUEC"
+      "duration_ms": 160226,
+      "name": "What Christmas Means to Me (feat. Stevie Wonder)",
+      "url": "https://open.spotify.com/track/13XMz3rpVYITzjFIsSYlZ1"
     },
     {
       "added_at": "2024-07-08 19:06:00",
@@ -1359,22 +1363,18 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
-        "name": "A Legendary Christmas",
-        "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 160226,
-      "name": "What Christmas Means to Me (feat. Stevie Wonder)",
-      "url": "https://open.spotify.com/track/13XMz3rpVYITzjFIsSYlZ1"
+      "duration_ms": 216906,
+      "name": "Wrapped in Red",
+      "url": "https://open.spotify.com/track/2nMZx7QHerfo4Wv37xNUEC"
     },
     {
       "added_at": "2024-07-08 19:06:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
-        "name": "Christmas With Nat, Dean And Bing",
-        "url": "https://open.spotify.com/album/5nn0oYdYM0JOQjSdGDUh5Z"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 85226,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/5jjsm4Jjq8xjDaue3rW9Go"
-    },
-    {
-      "added_at": "2024-07-08 19:06:00",
-      "album": {
         "name": "Someday At Christmas",
         "url": "https://open.spotify.com/album/0zdNmxXNCOFIFsTpJ4Q6uq"
       },
@@ -1675,18 +1659,34 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/47R6Qd78zYkPWvNebvnA4e"
+        "name": "Christmas With Nat, Dean And Bing",
+        "url": "https://open.spotify.com/album/5nn0oYdYM0JOQjSdGDUh5Z"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 267226,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/6Lv9ozIdb06duB01e6ZpNQ"
+      "duration_ms": 85226,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/5jjsm4Jjq8xjDaue3rW9Go"
+    },
+    {
+      "added_at": "2024-07-08 19:06:00",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 175986,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/79a2ejVzj2SpXkpWdfv1Co"
     }
   ],
   "unique_name": "Christmas Hits",

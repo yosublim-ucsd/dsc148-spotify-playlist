@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Skillibeng
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,562 likes - 68 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,550 likes - 68 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

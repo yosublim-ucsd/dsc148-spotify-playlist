@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,917 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,915 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 16 | [Bailarina](https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:05 |
 | 17 | [Dios Te Cuide](https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dios Te Cuide](https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M) | 3:18 |
 | 18 | [LA MARINA STA MORENA](https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [LA MARINA STA MORENA](https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw) | 2:11 |
-| 19 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
-| 20 | [Potra Salvaje](https://open.spotify.com/track/3YdO85gX8HaetzvHCaFIQM) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3) | [Potra Salvaje](https://open.spotify.com/album/3D9wp2XCEWWoZMCS271WzI) | 3:19 |
+| 19 | [Potra Salvaje](https://open.spotify.com/track/3YdO85gX8HaetzvHCaFIQM) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3) | [Potra Salvaje](https://open.spotify.com/album/3D9wp2XCEWWoZMCS271WzI) | 3:19 |
+| 20 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
 | 21 | [RUEDA](https://open.spotify.com/track/5oRbyHwMdgnCZhgqlubRiB) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [EL TIBURÓN](https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3) | 3:33 |
-| 22 | [La Razón](https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Razón](https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg) | 2:42 |
+| 22 | [Tienes Que Saber](https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Tienes Que Saber](https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5) | 3:00 |
 | 23 | [KOMBOLEWA \- Remix](https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq) | [Suzete](https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [KOMBOLEWA \(Remix\)](https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST) | 2:51 |
-| 24 | [Dime Solo Si Has Pensao](https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Dime Solo Si Has Pensao](https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX) | 2:55 |
-| 25 | [Tienes Que Saber](https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Tienes Que Saber](https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5) | 3:00 |
+| 24 | [La Razón](https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Razón](https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg) | 2:42 |
+| 25 | [Dime Solo Si Has Pensao](https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Dime Solo Si Has Pensao](https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX) | 2:55 |
 | 26 | [Cupido](https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Cupido](https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E) | 2:44 |
 | 27 | [Hermosa Casualidad](https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Hermosa Casualidad](https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj) | 3:25 |
 | 28 | [Mil preguntas](https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Mil preguntas](https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq) | 3:19 |

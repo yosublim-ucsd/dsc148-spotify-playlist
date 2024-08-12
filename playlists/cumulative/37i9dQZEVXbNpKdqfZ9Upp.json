@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 203618,
       "name": "365",
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
@@ -4328,7 +4328,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -10400,7 +10400,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
@@ -16309,6 +16309,24 @@
     },
     {
       "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216568,
+      "name": "Herida Abierta",
+      "url": "https://open.spotify.com/track/1xvuA42QBl5ssBHvCwHXwK"
+    },
+    {
+      "album": {
         "name": "Que Siga la Cumbia",
         "url": "https://open.spotify.com/album/2QJB8XbiOyWl32fu3fXLW1"
       },
@@ -18920,7 +18938,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -23286,6 +23304,24 @@
       "duration_ms": 187510,
       "name": "Me Levant\u00e9",
       "url": "https://open.spotify.com/track/5dQVCKjXLD4GdnWnrTswJO"
+    },
+    {
+      "album": {
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
       "album": {
@@ -29702,7 +29738,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -39222,7 +39258,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 170480,
       "name": "Tu Silueta",
       "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"

@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Lua de Santana.",
-  "num_followers": 18406,
+  "num_followers": 18433,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -103,18 +103,18 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Nada Importa Tanto",
-        "url": "https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4"
+        "name": "SAHARA",
+        "url": "https://open.spotify.com/album/7B5RSeXqwIBWobYh3GRTjk"
       },
       "artists": [
         {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
         }
       ],
-      "duration_ms": 179946,
-      "name": "Nada Importa Tanto",
-      "url": "https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd"
+      "duration_ms": 146938,
+      "name": "SAHARA",
+      "url": "https://open.spotify.com/track/4NuYE4exbvPeJgr4gJiFUS"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -135,18 +135,18 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "SAHARA",
-        "url": "https://open.spotify.com/album/7B5RSeXqwIBWobYh3GRTjk"
+        "name": "Nada Importa Tanto",
+        "url": "https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4"
       },
       "artists": [
         {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
         }
       ],
-      "duration_ms": 146938,
-      "name": "SAHARA",
-      "url": "https://open.spotify.com/track/4NuYE4exbvPeJgr4gJiFUS"
+      "duration_ms": 179946,
+      "name": "Nada Importa Tanto",
+      "url": "https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "B2B",
-        "url": "https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 182948,
-      "name": "B2B",
-      "url": "https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
         "name": "Mocatriz",
         "url": "https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 237228,
       "name": "Mocatriz",
       "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "Dame 10:36 Minutos",
+        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 131376,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Dame 10:36 Minutos",
-        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
         }
       ],
-      "duration_ms": 131376,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
+      "duration_ms": 182948,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Todos Miran",
-        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 147222,
-      "name": "Todos Miran",
-      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
         "name": "\u00bfQui\u00e9n es Billie Max?",
         "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
       },
@@ -451,22 +435,6 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Morreo (feat. The Calorettes)",
-        "url": "https://open.spotify.com/album/38ESuk2hs3XlGRWfat9CRI"
-      },
-      "artists": [
-        {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
-        }
-      ],
-      "duration_ms": 193100,
-      "name": "Morreo (feat. The Calorettes)",
-      "url": "https://open.spotify.com/track/1RhBu9BaN4GAUZbAPbuKhP"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
         "name": "Special K",
         "url": "https://open.spotify.com/album/3IlmoET8hmw33UHeZFyscK"
       },
@@ -495,18 +463,34 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Nunca Llega 05",
-        "url": "https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f"
+        "name": "Morreo (feat. The Calorettes)",
+        "url": "https://open.spotify.com/album/38ESuk2hs3XlGRWfat9CRI"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
         }
       ],
-      "duration_ms": 159056,
-      "name": "Nunca Llega 05",
-      "url": "https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf"
+      "duration_ms": 193100,
+      "name": "Morreo (feat. The Calorettes)",
+      "url": "https://open.spotify.com/track/1RhBu9BaN4GAUZbAPbuKhP"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "Todos Miran",
+        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 147222,
+      "name": "Todos Miran",
+      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -527,6 +511,22 @@
       "duration_ms": 188000,
       "name": "Reggaeton Cristiano",
       "url": "https://open.spotify.com/track/3AxnNLgUlAX4tCmyAkN420"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "Nunca Llega 05",
+        "url": "https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 159056,
+      "name": "Nunca Llega 05",
+      "url": "https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Queri\u00f3",
-        "url": "https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8"
-      },
-      "artists": [
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
-        }
-      ],
-      "duration_ms": 133253,
-      "name": "Queri\u00f3",
-      "url": "https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
         "name": "En el cielo",
         "url": "https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 143620,
       "name": "En el cielo",
       "url": "https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "Queri\u00f3",
+        "url": "https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8"
+      },
+      "artists": [
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "duration_ms": 133253,
+      "name": "Queri\u00f3",
+      "url": "https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Confieso",
-        "url": "https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU"
-      },
-      "artists": [
-        {
-          "name": "K!ngdom",
-          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
-        }
-      ],
-      "duration_ms": 180481,
-      "name": "Confieso",
-      "url": "https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
         "name": "MADRE M\u00cdA EL ASCO QUE ME DAS",
         "url": "https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 219740,
       "name": "MADRE M\u00cdA EL ASCO QUE ME DAS",
       "url": "https://open.spotify.com/track/30J1epk1XS8p0pFttAPZ4b"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "Confieso",
+        "url": "https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU"
+      },
+      "artists": [
+        {
+          "name": "K!ngdom",
+          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
+        }
+      ],
+      "duration_ms": 180481,
+      "name": "Confieso",
+      "url": "https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe"
     },
     {
       "added_at": "2024-08-06 22:00:00",

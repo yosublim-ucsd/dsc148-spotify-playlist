@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232101,
+  "num_followers": 232094,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Eu Sou O Samba",
-        "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "Foi Um Rio Que Passou Em Minha Vida",
-      "url": "https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -351,22 +335,6 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
         "name": "S\u00e9rie Documento - Nelson Cavaquinho",
         "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
       },
@@ -379,6 +347,22 @@
       "duration_ms": 207786,
       "name": "Quando Eu Me Chamar Saudade",
       "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Eu Sou O Samba",
+        "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Foi Um Rio Que Passou Em Minha Vida",
+      "url": "https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -491,6 +475,38 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Sentimento Brasileiro",
+        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 171293,
+      "name": "Quando o povo entra na dan\u00e7a",
+      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
         "name": "Gostoso Veneno",
         "url": "https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Sentimento Brasileiro",
-        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "Quando o povo entra na dan\u00e7a",
-      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
         "name": "Argumento",
         "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 192893,
       "name": "Argumento",
       "url": "https://open.spotify.com/track/5SK175I291bHHcroTHUwQn"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
-        "name": "Nova Bis - Clara Nunes",
-        "url": "https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "\u00ca Baiana",
-      "url": "https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -599,6 +583,22 @@
       "duration_ms": 185706,
       "name": "Est\u00e1cio Eu e Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Nova Bis - Clara Nunes",
+        "url": "https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "\u00ca Baiana",
+      "url": "https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
-        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Nogueira",
-          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Boteco do Arlindo",
-      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
         "name": "Zeca Pagodinho",
         "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Marcelo D2 - Canta Bezerra Da Silva",
-        "url": "https://open.spotify.com/album/3I564AuHICCCnWEBHbvtoP"
+        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
+        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
       },
       "artists": [
         {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+          "name": "Jo\u00e3o Nogueira",
+          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
         }
       ],
-      "duration_ms": 222600,
-      "name": "Partideiro Sem N\u00f3 Na Garganta",
-      "url": "https://open.spotify.com/track/4vrcEe4iwNrGJi0ODXljvx"
+      "duration_ms": 168560,
+      "name": "Boteco do Arlindo",
+      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -827,6 +811,22 @@
       "duration_ms": 233346,
       "name": "Tive Raz\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Marcelo D2 - Canta Bezerra Da Silva",
+        "url": "https://open.spotify.com/album/3I564AuHICCCnWEBHbvtoP"
+      },
+      "artists": [
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Partideiro Sem N\u00f3 Na Garganta",
+      "url": "https://open.spotify.com/track/4vrcEe4iwNrGJi0ODXljvx"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "O Samba Em Mim (Ao Vivo Na Lapa)",
-        "url": "https://open.spotify.com/album/2wv5WDVgqmtwqCcVok5eyr"
+        "name": "Cora\u00e7\u00e3o Leviano",
+        "url": "https://open.spotify.com/album/22OU59k6Hqx07gF2tqd7cy"
       },
       "artists": [
         {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
         }
       ],
-      "duration_ms": 226694,
-      "name": "\u00c9 Corpo, \u00c9 Alma, \u00c9 Religi\u00e3o - Ao Vivo Na Lapa",
-      "url": "https://open.spotify.com/track/1Titm76tFsIqqjjITUYRfx"
+      "duration_ms": 172329,
+      "name": "Cora\u00e7\u00e3o Leviano",
+      "url": "https://open.spotify.com/track/3byAfeclgYBN1cdyVc76Uh"
     }
   ],
   "unique_name": "Caipirinha",

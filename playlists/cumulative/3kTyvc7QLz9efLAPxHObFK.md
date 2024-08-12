@@ -4,12 +4,13 @@
 
 > 
 
-1,582 songs - 3 day 13 hr 43 min
+1,583 songs - 3 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#FakeBitch](https://open.spotify.com/track/1FGn2fUXUo25gIMI2Goc4v) | [Imperial](https://open.spotify.com/artist/2qx5TM5UVg3th3ZQ9Vkj2X) | [\#FakeBitch](https://open.spotify.com/album/2XLqSh3om07VYOgYG5B9OF) | 2:44 | 2022-11-29 |  |
 | [\#FearTheGear \- Aversion Edit](https://open.spotify.com/track/6rV53eYM30EJInmSjOccs4) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1), [MC Focus](https://open.spotify.com/artist/2WZK4ltsxqMCsLbsjzfGyY), [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [\#FearTheGear \(Aversion Edit\)](https://open.spotify.com/album/3bAgmC9y3MvSWev1Ixb5Ln) | 1:27 | 2023-10-20 |  |
+| [\#I\_WANNA\_DANCE\_ALL\_NIGHT](https://open.spotify.com/track/0luSQGmAEidjU6cuBFzjrl) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [\#I\_WANNA\_DANCE\_ALL\_NIGHT](https://open.spotify.com/album/4Oo9Pjv7iumcJQXp0Zbaxc) | 2:46 | 2024-08-11 |  |
 | [\#I\_WNNA\_B\_WIZ\_U](https://open.spotify.com/track/2fLAYWesjcHaSMOA49YBaY) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [\#I\_WNNA\_B\_WIZ\_U](https://open.spotify.com/album/41hBgvSsZwxUqkQKgc3mi3) | 5:38 | 2022-08-14 |  |
 | [\#PoppinChampagne](https://open.spotify.com/track/0PfVcIp4jThRha907z8hH5) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Imperial](https://open.spotify.com/artist/2qx5TM5UVg3th3ZQ9Vkj2X) | [\#PoppinChampagne](https://open.spotify.com/album/2eH00sZczSWEuc2cKqogL5) | 2:47 | 2022-09-12 |  |
 | [\#WH4T3V3R](https://open.spotify.com/track/3YjbVGQuRNzydH398sSQpD) | [Kagetora.](https://open.spotify.com/artist/6yQPAyyBvQEVwy3w2YHsUZ) | [Glorious](https://open.spotify.com/album/1XRXe7ZJzatPdwCWKEshBk) | 3:29 | 2023-11-21 |  |

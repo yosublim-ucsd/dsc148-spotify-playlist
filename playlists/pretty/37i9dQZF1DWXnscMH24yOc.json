@@ -1,6 +1,6 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 472485,
+  "num_followers": 472551,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/5bwhlXoiRJorQ0bCavednq"
+      },
+      "artists": [
+        {
+          "name": "Lia Rose",
+          "url": "https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0"
+        }
+      ],
+      "duration_ms": 208345,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/5idADky7mHihopJGObd4hf"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Final Song",
         "url": "https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 141212,
       "name": "Final Song",
       "url": "https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/5bwhlXoiRJorQ0bCavednq"
-      },
-      "artists": [
-        {
-          "name": "Lia Rose",
-          "url": "https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0"
-        }
-      ],
-      "duration_ms": 208345,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/5idADky7mHihopJGObd4hf"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/0rHBGPkCOQBu6WyfSDmvjh"
-      },
-      "artists": [
-        {
-          "name": "Kris Orlowski",
-          "url": "https://open.spotify.com/artist/05TVdmW8p3d5yYIyvw6B3w"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2ixTmOHffy8b5Qh29ctald"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Holy / Intentions",
         "url": "https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 180845,
       "name": "Holy / Intentions",
       "url": "https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/0rHBGPkCOQBu6WyfSDmvjh"
+      },
+      "artists": [
+        {
+          "name": "Kris Orlowski",
+          "url": "https://open.spotify.com/artist/05TVdmW8p3d5yYIyvw6B3w"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2ixTmOHffy8b5Qh29ctald"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Blank Space",
-        "url": "https://open.spotify.com/album/1HozJh2kGkfP40jiGSNndN"
+        "name": "Savior Complex",
+        "url": "https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI"
       },
       "artists": [
         {
-          "name": "RHODES",
-          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
         }
       ],
-      "duration_ms": 245053,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/282mpJjzXHueMKalP5ifxT"
+      "duration_ms": 232493,
+      "name": "Savior Complex",
+      "url": "https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Savior Complex",
-        "url": "https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI"
+        "name": "Blank Space",
+        "url": "https://open.spotify.com/album/1HozJh2kGkfP40jiGSNndN"
       },
       "artists": [
         {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
         }
       ],
-      "duration_ms": 232493,
-      "name": "Savior Complex",
-      "url": "https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn"
+      "duration_ms": 245053,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/282mpJjzXHueMKalP5ifxT"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Tea, Milk & Honey",
-        "url": "https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 304424,
-      "name": "Tea, Milk & Honey",
-      "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Sleeping on the Ground",
         "url": "https://open.spotify.com/album/4aJ3DahrixMsErIem1NFM9"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 218505,
       "name": "Love Is A Stranger",
       "url": "https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Tea, Milk & Honey",
+        "url": "https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 304424,
+      "name": "Tea, Milk & Honey",
+      "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
     },
     {
       "added_at": "2022-03-22 14:40:29",

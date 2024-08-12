@@ -1,6 +1,6 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 79581,
+  "num_followers": 79574,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Fear No More",
         "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Pat Barrett",
+        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Pat Barrett",
-        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
       "artists": [
         {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 244893,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
+      "duration_ms": 305426,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "And If Our God Is For Us...",
-        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Our God",
-      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "If We're Honest (Deluxe Version)",
         "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
       },
@@ -379,22 +363,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 333386,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Neon Steeple",
         "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
       },
@@ -407,6 +375,22 @@
       "duration_ms": 289746,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -443,6 +427,22 @@
       "duration_ms": 318693,
       "name": "How He Loves",
       "url": "https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Our God",
+      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "At The Cross (Love Ran Red)",
-      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Restart",
         "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "At The Cross (Love Ran Red)",
+      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Overcomer",
         "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 223626,
       "name": "Overcomer",
       "url": "https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -659,22 +675,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Lifer",
         "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 179120,
       "name": "Best News Ever",
       "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Greatest Hymns, Vol. 2",
+        "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 231866,
+      "name": "Wonderful, Merciful Savior",
+      "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -719,22 +735,6 @@
       "duration_ms": 300026,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "Greatest Hymns, Vol. 2",
-        "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 231866,
-      "name": "Wonderful, Merciful Savior",
-      "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Good News (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "Nailed To The Cross",
-      "url": "https://open.spotify.com/track/4GTkBqQwkjGpOjwgCPnabN"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "These Simple Truths",
         "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
       },
@@ -1011,22 +995,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Inheritance",
-        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 278779,
-      "name": "Even Unto Death",
-      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Cornerstone (Live)",
         "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
       },
@@ -1047,6 +1015,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 278779,
+      "name": "Even Unto Death",
+      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "I Will Follow",
         "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 277280,
       "name": "Same Power",
       "url": "https://open.spotify.com/track/7AlFRA7zpc30NM8LO3ZcE4"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Good News (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "Nailed To The Cross",
+      "url": "https://open.spotify.com/track/4GTkBqQwkjGpOjwgCPnabN"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Even So Come (Radio Version/Live)",
         "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 254373,
       "name": "Even So Come - Radio Version/Live",
       "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1491,26 +1491,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+        "name": "My Hope Secure",
+        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
       },
       "artists": [
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Wonder Grace Gretzinger",
-          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 266826,
-      "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
-      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+      "duration_ms": 256734,
+      "name": "My Hope Secure",
+      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1531,18 +1523,26 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "My Hope Secure",
-        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
       "artists": [
         {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Wonder Grace Gretzinger",
+          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
         }
       ],
-      "duration_ms": 256734,
-      "name": "My Hope Secure",
-      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
+      "duration_ms": 266826,
+      "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
+      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 329720,
-      "name": "The Power Of The Cross",
-      "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Covered: Alive In Asia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 256127,
       "name": "Glory & Grace",
       "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 329720,
+      "name": "The Power Of The Cross",
+      "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        }
-      ],
-      "duration_ms": 497560,
-      "name": "All Hail King Jesus",
-      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "The Answer",
         "url": "https://open.spotify.com/album/7MvLqEJ066ULDEcqrQUGIM"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 265286,
       "name": "God You Are (feat. Josh Baldwin)",
       "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "duration_ms": 497560,
+      "name": "All Hail King Jesus",
+      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "My Weapon",
-        "url": "https://open.spotify.com/album/4aa25Bj7KAhlasScyTGaP5"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "My Weapon",
-      "url": "https://open.spotify.com/track/0EkyU9Ms0g7F2RJJgoypHa"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "The Hymns",
         "url": "https://open.spotify.com/album/7i8SdLdKus9UP5WufzYwiN"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 242240,
       "name": "The Old Rugged Cross",
       "url": "https://open.spotify.com/track/07N7sIm0fVSeyHA4O8Hv9u"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "My Weapon",
+        "url": "https://open.spotify.com/album/4aa25Bj7KAhlasScyTGaP5"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "My Weapon",
+      "url": "https://open.spotify.com/track/0EkyU9Ms0g7F2RJJgoypHa"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 280179,
-      "name": "Greater Things",
-      "url": "https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Love Remains",
         "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 237866,
       "name": "Untitled Hymn (Come To Jesus)",
       "url": "https://open.spotify.com/track/7CC5wCbUKZtyfrruQgp86v"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 280179,
+      "name": "Greater Things",
+      "url": "https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2591,22 +2591,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 283746,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Two Coasts for Comfort",
         "url": "https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi"
       },
@@ -2619,6 +2603,22 @@
       "duration_ms": 205026,
       "name": "Were You There",
       "url": "https://open.spotify.com/track/59NpCm0lOMObumSe0soohI"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 283746,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
     }
   ],
   "unique_name": "Easter",

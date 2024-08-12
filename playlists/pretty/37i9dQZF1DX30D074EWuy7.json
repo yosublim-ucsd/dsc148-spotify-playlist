@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 29922,
+  "num_followers": 29932,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "10 situazioni",
-        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
-      },
-      "artists": [
-        {
-          "name": "Sestetto Dino Piana & Oscar Valdambrini",
-          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
-        }
-      ],
-      "duration_ms": 167694,
-      "name": "Omaca",
-      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Zenzero",
         "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 250002,
       "name": "Zenzero",
       "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "10 situazioni",
+        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
+      },
+      "artists": [
+        {
+          "name": "Sestetto Dino Piana & Oscar Valdambrini",
+          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
+        }
+      ],
+      "duration_ms": 167694,
+      "name": "Omaca",
+      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "QMQS / Cannel\u00e9",
-        "url": "https://open.spotify.com/album/0TYLIzitRWHPw1ELnpTpmJ"
-      },
-      "artists": [
-        {
-          "name": "Allez Kiki Fermentation",
-          "url": "https://open.spotify.com/artist/7M56nxBuga54hAus5FBZ9Q"
-        }
-      ],
-      "duration_ms": 270081,
-      "name": "QMQS",
-      "url": "https://open.spotify.com/track/1bHf80TBUprSwpQzM2l4jd"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "QMQS / Cannel\u00e9",
+        "url": "https://open.spotify.com/album/0TYLIzitRWHPw1ELnpTpmJ"
+      },
+      "artists": [
+        {
+          "name": "Allez Kiki Fermentation",
+          "url": "https://open.spotify.com/artist/7M56nxBuga54hAus5FBZ9Q"
+        }
+      ],
+      "duration_ms": 270081,
+      "name": "QMQS",
+      "url": "https://open.spotify.com/track/1bHf80TBUprSwpQzM2l4jd"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Impulsi",
-        "url": "https://open.spotify.com/album/5Yimn2Kv6tcODUaPOsNy6t"
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
       "artists": [
         {
-          "name": "Sofia Trio",
-          "url": "https://open.spotify.com/artist/0oG6YXfxoK5hrNtD4ee7Mg"
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
         }
       ],
-      "duration_ms": 326817,
-      "name": "Javier",
-      "url": "https://open.spotify.com/track/7lETJyf7RkzZxANVgSdcIZ"
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+        "name": "Impulsi",
+        "url": "https://open.spotify.com/album/5Yimn2Kv6tcODUaPOsNy6t"
       },
       "artists": [
         {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+          "name": "Sofia Trio",
+          "url": "https://open.spotify.com/artist/0oG6YXfxoK5hrNtD4ee7Mg"
         }
       ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+      "duration_ms": 326817,
+      "name": "Javier",
+      "url": "https://open.spotify.com/track/7lETJyf7RkzZxANVgSdcIZ"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+      },
+      "artists": [
+        {
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+        }
+      ],
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "NAXOS",
         "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "For Those I Never Knew",
-        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
-      },
-      "artists": [
-        {
-          "name": "Luca Flores",
-          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
-        }
-      ],
-      "duration_ms": 269139,
-      "name": "How Far Can You Fly? (Ladder) - Original Version",
-      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Racconti mediterranei",
         "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
       },
@@ -1543,6 +1543,30 @@
       "duration_ms": 454173,
       "name": "Canzone di Nausicaa",
       "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Norma (Arr. for Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Jazz del Mediterraneo",
+          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Paolo Silvestri",
+          "url": "https://open.spotify.com/artist/211mBSaPYcZCx1F9sfDsVr"
+        }
+      ],
+      "duration_ms": 584075,
+      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
+      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1571,30 +1595,6 @@
       "duration_ms": 210494,
       "name": "Over and again",
       "url": "https://open.spotify.com/track/5nEX3zvnR4jWfwgjGIJr1j"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Norma (Arr. for Jazz Orchestra)",
-        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
-      },
-      "artists": [
-        {
-          "name": "Orchestra Jazz del Mediterraneo",
-          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Paolo Silvestri",
-          "url": "https://open.spotify.com/artist/211mBSaPYcZCx1F9sfDsVr"
-        }
-      ],
-      "duration_ms": 584075,
-      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
-      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "My Songbook",
-        "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
-      },
-      "artists": [
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Simona Severini",
-          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
-        }
-      ],
-      "duration_ms": 340493,
-      "name": "My Heart in a Song",
-      "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Desertico",
         "url": "https://open.spotify.com/album/7HQw3tDo1g6tyTLQdjIPQt"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 353310,
       "name": "Desertico",
       "url": "https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "My Songbook",
+        "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Simona Severini",
+          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
+        }
+      ],
+      "duration_ms": 340493,
+      "name": "My Heart in a Song",
+      "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Stefano Di Battista",
-        "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
-      },
-      "artists": [
-        {
-          "name": "Stefano Di Battista",
-          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
-        }
-      ],
-      "duration_ms": 310480,
-      "name": "Anastasia",
-      "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Integra",
         "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 254773,
       "name": "Vibrare",
       "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Stefano Di Battista",
+        "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
+      },
+      "artists": [
+        {
+          "name": "Stefano Di Battista",
+          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
+        }
+      ],
+      "duration_ms": 310480,
+      "name": "Anastasia",
+      "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Ampia",
-        "url": "https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 370080,
-      "name": "Traspare",
-      "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Brasita",
         "url": "https://open.spotify.com/album/5z78fFp4kacMx9EORj0Xat"
       },
@@ -1919,6 +1903,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Ampia",
+        "url": "https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "duration_ms": 370080,
+      "name": "Traspare",
+      "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Ipotesi",
         "url": "https://open.spotify.com/album/4QE0ufj8ESMinJTSR2DRUa"
       },
@@ -1935,18 +1935,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Cratere Centrale",
-        "url": "https://open.spotify.com/album/5VdV9S4HoedNeuLPTOxyhX"
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/04mcwadpwSaYynroTEqYJg"
       },
       "artists": [
         {
-          "name": "Cratere Centrale",
-          "url": "https://open.spotify.com/artist/6OOqYmtw4mK6PQd20NyddO"
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        },
+        {
+          "name": "Stefano Maurizi",
+          "url": "https://open.spotify.com/artist/2dcgy7gYodUcL5l1V16qan"
+        },
+        {
+          "name": "Mirco Mariottini",
+          "url": "https://open.spotify.com/artist/59pnlMKJa3phDabIFCfQeN"
         }
       ],
-      "duration_ms": 340093,
-      "name": "Catania Experiment",
-      "url": "https://open.spotify.com/track/4EZNflW5g6YyicH1yZmtZL"
+      "duration_ms": 270902,
+      "name": "Tribal Dance",
+      "url": "https://open.spotify.com/track/63Bq1F9wKFzn7OZhYR3WCh"
     }
   ],
   "unique_name": "Jazz Italia",

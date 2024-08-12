@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 339661,
+  "num_followers": 339679,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
       },
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
-      },
-      "artists": [
-        {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
-        },
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 158181,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+      },
+      "artists": [
+        {
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
+        },
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Another Level (ft. Lovespeake)",
-        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
-        }
-      ],
-      "duration_ms": 145941,
-      "name": "Another Level (ft. Lovespeake)",
-      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Alone Again (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 157560,
       "name": "Alone Again (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Another Level (ft. Lovespeake)",
+        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "duration_ms": 145941,
+      "name": "Another Level (ft. Lovespeake)",
+      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Skippin",
-        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
-      },
-      "artists": [
-        {
-          "name": "MAXAM",
-          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
-        },
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        }
-      ],
-      "duration_ms": 157446,
-      "name": "Skippin",
-      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 172500,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Skippin",
+        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
+      },
+      "artists": [
+        {
+          "name": "MAXAM",
+          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "duration_ms": 157446,
+      "name": "Skippin",
+      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
     },
     {
       "added_at": "2024-06-14 04:00:00",

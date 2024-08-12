@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4 Lokura.",
-  "num_followers": 710970,
+  "num_followers": 710993,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,26 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "Otro D\u00eda M\u00e1s",
-        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
+        "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+        "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         },
         {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 202342,
-      "name": "Otro D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
+      "duration_ms": 204000,
+      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+      "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -511,26 +515,22 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
-        "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
+        "name": "Otro D\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
       },
       "artists": [
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
           "name": "Ke Personajes",
           "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
-      "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
+      "duration_ms": 202342,
+      "name": "Otro D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "Nominado",
-        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Quiereme",
-      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
         "name": "Latidos",
         "url": "https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
+        "name": "Nominado",
+        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
         "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
         "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
@@ -715,38 +715,6 @@
       "duration_ms": 244266,
       "name": "Por lo que yo te quiero",
       "url": "https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 344280,
-      "name": "Amor Clasificado",
-      "url": "https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
-        "name": "Tal Para Cual",
-        "url": "https://open.spotify.com/album/6gEwNqWEiYAWO5ownctwQv"
-      },
-      "artists": [
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 155990,
-      "name": "Tal Para Cual",
-      "url": "https://open.spotify.com/track/6GCDZ6Y0sk1D4pZBxQyfLf"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -767,22 +735,18 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "Si Fuera Tan F\u00e1cil",
-        "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
+        "name": "Tal Para Cual",
+        "url": "https://open.spotify.com/album/6gEwNqWEiYAWO5ownctwQv"
       },
       "artists": [
         {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
         }
       ],
-      "duration_ms": 207843,
-      "name": "Si Fuera Tan F\u00e1cil",
-      "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
+      "duration_ms": 155990,
+      "name": "Tal Para Cual",
+      "url": "https://open.spotify.com/track/6GCDZ6Y0sk1D4pZBxQyfLf"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -807,6 +771,62 @@
       "duration_ms": 193358,
       "name": "Olvidarte de Mi Jamas Podras",
       "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 344280,
+      "name": "Amor Clasificado",
+      "url": "https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 217072,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "Si Fuera Tan F\u00e1cil",
+        "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 207843,
+      "name": "Si Fuera Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -843,42 +863,6 @@
       "duration_ms": 209453,
       "name": "Mi Cama No Habla",
       "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Fuego y Pasion",
-      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 217072,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -931,22 +915,6 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "Soy Cordobes",
-      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
         "name": "Bien Ah\u00ed !",
         "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
@@ -967,18 +935,18 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "Tu Amante En Secreto",
-        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Piensa en M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
+      "duration_ms": 261066,
+      "name": "Fuego y Pasion",
+      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -999,6 +967,38 @@
       "duration_ms": 202160,
       "name": "Tus Botellas",
       "url": "https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 220753,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "Tu Amante En Secreto",
+        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Piensa en M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -1039,54 +1039,6 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 220753,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 251280,
-      "name": "Que Ironia",
-      "url": "https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
-        "name": "Trilog\u00eda: 1er acto",
-        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        }
-      ],
-      "duration_ms": 373773,
-      "name": "El Federal",
-      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
         "name": "S\u00e9 que no",
         "url": "https://open.spotify.com/album/6G9ePXswL4DvdSJINyqQxC"
       },
@@ -1111,6 +1063,38 @@
       "duration_ms": 180250,
       "name": "S\u00e9 que no",
       "url": "https://open.spotify.com/track/1WNdMGHxYL2j0jC2yevSJe"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 302800,
+      "name": "Soy Cordobes",
+      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "Trilog\u00eda: 1er acto",
+        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "duration_ms": 373773,
+      "name": "El Federal",
+      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
         "name": "simplemente un ex",
         "url": "https://open.spotify.com/album/6j7R6pnJKBk2LaTClv5ASB"
       },
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 152432,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+      "duration_ms": 251280,
+      "name": "Que Ironia",
+      "url": "https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
+        "name": "Dejame Intentar",
+        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 121551,
+      "name": "Dejame Intentar",
+      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
         "name": "A Toda Fiesta",
         "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
       },
@@ -1403,6 +1419,22 @@
       "duration_ms": 208906,
       "name": "Amor Infiel",
       "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "Loca de Amor - Vestido Azul",
+        "url": "https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "duration_ms": 366368,
+      "name": "Loca de Amor - Vestido Azul",
+      "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -1423,38 +1455,6 @@
       "duration_ms": 193160,
       "name": "Paloma loca",
       "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
-        "name": "Dejame Intentar",
-        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 121551,
-      "name": "Dejame Intentar",
-      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
-        "name": "Loca de Amor - Vestido Azul",
-        "url": "https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        }
-      ],
-      "duration_ms": 366368,
-      "name": "Loca de Amor - Vestido Azul",
-      "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -1491,6 +1491,26 @@
       "duration_ms": 362817,
       "name": "Provenza / Te Felicito / Despechao",
       "url": "https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "No Dire Que Si",
+        "url": "https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        },
+        {
+          "name": "Pia Ka",
+          "url": "https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "No Dire Que Si",
+      "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -1543,22 +1563,6 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "Completamente Un Incompleto",
-        "url": "https://open.spotify.com/album/1JasZQXnVOyfk7XLYLg5G7"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 176993,
-      "name": "Completamente Un Incompleto",
-      "url": "https://open.spotify.com/track/0HP1mKw7pFBvFgZDIVMBX1"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
         "name": "En El Gran Rex",
         "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
       },
@@ -1571,6 +1575,22 @@
       "duration_ms": 194920,
       "name": "Un Mill\u00f3n de Rosas",
       "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "Completamente Un Incompleto",
+        "url": "https://open.spotify.com/album/1JasZQXnVOyfk7XLYLg5G7"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 176993,
+      "name": "Completamente Un Incompleto",
+      "url": "https://open.spotify.com/track/0HP1mKw7pFBvFgZDIVMBX1"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -1591,26 +1611,6 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "No Dire Que Si",
-        "url": "https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        },
-        {
-          "name": "Pia Ka",
-          "url": "https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "No Dire Que Si",
-      "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
         "name": "Libre al Fin",
         "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
       },
@@ -1627,8 +1627,24 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "Como La Primera Vez",
-        "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
+        "name": "Luis",
+        "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 263986,
+      "name": "Luis",
+      "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
       },
       "artists": [
         {
@@ -1636,9 +1652,9 @@
           "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
         }
       ],
-      "duration_ms": 233720,
-      "name": "Como La Primera Vez",
-      "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
+      "duration_ms": 169589,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "Luis",
-        "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 263986,
-      "name": "Luis",
-      "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
         "name": "Chachach\u00e1",
         "url": "https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e"
       },
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
+        "name": "Sigan Bailando",
+        "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 387552,
+      "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
+      "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
         "name": "La Vagancia Cuartetera",
         "url": "https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 211250,
       "name": "La Vagancia Cuartetera",
       "url": "https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 169589,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
     },
     {
       "added_at": "2024-08-09 15:28:35",
@@ -1799,8 +1799,40 @@
     {
       "added_at": "2024-08-09 15:28:35",
       "album": {
-        "name": "Sigan Bailando",
-        "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
+        "name": "Como La Primera Vez",
+        "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Como La Primera Vez",
+      "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/0HzyU2gL1sMMkkkJwiE5YH"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0XVsiJUIo8kvErfwsNJQwH"
+    },
+    {
+      "added_at": "2024-08-09 15:28:35",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
       },
       "artists": [
         {
@@ -1808,45 +1840,9 @@
           "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
         }
       ],
-      "duration_ms": 387552,
-      "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
-      "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
-        "name": "Un Nuevo Tiempo",
-        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
-      },
-      "artists": [
-        {
-          "name": "Ale Ceberio",
-          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
-        }
-      ],
-      "duration_ms": 136318,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
-    },
-    {
-      "added_at": "2024-08-09 15:28:35",
-      "album": {
-        "name": "Amor Secreto",
-        "url": "https://open.spotify.com/album/1qFNf8L4IPmAykJSk9AON2"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        },
-        {
-          "name": "Facu Y La Fuerza",
-          "url": "https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU"
-        }
-      ],
-      "duration_ms": 184375,
-      "name": "Amor Secreto",
-      "url": "https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd"
+      "duration_ms": 178816,
+      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
     }
   ],
   "unique_name": "100% Cuarteto",

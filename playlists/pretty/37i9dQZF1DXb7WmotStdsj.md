@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,814 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,996 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fatou Liyam](https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Fatou Liyam](https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5) | 5:24 |
-| 2 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 |
-| 3 | [Chwiya Wa9t W Nensak](https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [Chwiya Wa9t W Nensak](https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR) | 5:37 |
-| 4 | [GALBI RAH MEDRAR](https://open.spotify.com/track/5CTSZ5c4U3PJF2uQNDpCVa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [GALBI RAH MEDRAR](https://open.spotify.com/album/0UDVHc4u4lYGc0ZpMK9WGW) | 5:20 |
+| 2 | [GALBI RAH MEDRAR](https://open.spotify.com/track/5CTSZ5c4U3PJF2uQNDpCVa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [GALBI RAH MEDRAR](https://open.spotify.com/album/0UDVHc4u4lYGc0ZpMK9WGW) | 5:20 |
+| 3 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 |
+| 4 | [Chwiya Wa9t W Nensak](https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [Chwiya Wa9t W Nensak](https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR) | 5:37 |
 | 5 | [Elissa fel good](https://open.spotify.com/track/5C9lvIZ8QZaCP39a69D3uf) | [Djamel Milano](https://open.spotify.com/artist/7AYCOTouVoJVDngBBo37We), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Elissa fel good](https://open.spotify.com/album/7yYPwBJl01qJLCMSKw2wi6) | 5:07 |
 | 6 | [مات القلب لي كان يبغيك \(Cheb Rami\)](https://open.spotify.com/track/4rGaYXD74tlRyWYLPwv9Hm) | [Mounder Boustila](https://open.spotify.com/artist/38PWS86isakS814pTNY68V) | [مات القلب لي كان يبغيك \(Cheb Rami\)](https://open.spotify.com/album/31gMVWdImmX8FvtFIQjzp9) | 6:09 |
 | 7 | [L'milieux jayah](https://open.spotify.com/track/3PxgyxxrPccFPtGQxpYoO5) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [L'milieux jayah](https://open.spotify.com/album/0gR0p46v0H0BQtFrlMe3iu) | 4:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 |
 | 60 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 |
 
-Snapshot ID: `ZrM/GQAAAACNCFIipo6L2oLZ9CLjDr9t`
+Snapshot ID: `ZrjFRQAAAAD0239SVMEPT/fHq2bTED4F`

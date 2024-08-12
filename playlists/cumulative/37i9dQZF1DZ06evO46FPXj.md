@@ -2,7 +2,7 @@
 
 ### [This Is Autechre](https://open.spotify.com/playlist/37i9dQZF1DZ06evO46FPXj)
 
-> This is Autechre\. The essential tracks, all in one playlist.
+> This is: Autechre\. Alle wichtigen Tracks in einer Playlist.
 
 222 songs - 1 day 1 hr 35 min
 
@@ -68,7 +68,7 @@
 | [Djarum](https://open.spotify.com/track/5ylj6BzNbDXAhGyNehYD7n) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anti](https://open.spotify.com/album/3RdJbIoZIJEG5rZvpxY8a8) | 7:19 | 2022-09-06 | 2022-09-09 |
 | [Doctrine](https://open.spotify.com/track/3cCrc0SbTlwqB4BrROpIMR) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 7:48 | 2022-06-03 | 2022-10-12 |
 | [Drane2](https://open.spotify.com/track/23zitpl7nfCR3XbeKR5Y6w) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 23:19 | 2022-05-30 | 2022-09-30 |
-| [Dropp](https://open.spotify.com/track/7LnWrs01JxzL67Q0oUPECh) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [EP7](https://open.spotify.com/album/2SthTfQKOf6AMzU4QajZfW) | 3:16 | 2023-03-07 |  |
+| [Dropp](https://open.spotify.com/track/7LnWrs01JxzL67Q0oUPECh) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [EP7](https://open.spotify.com/album/2SthTfQKOf6AMzU4QajZfW) | 3:16 | 2023-03-07 | 2024-08-12 |
 | [Dropp](https://open.spotify.com/track/2dr40Mh5nBfFj3U2qKrs1e) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [EP7](https://open.spotify.com/album/1KaTIdAepIJDxbSEEL3M2z) | 3:16 | 2022-06-01 | 2022-12-28 |
 | [ecol4](https://open.spotify.com/track/0Yjw3B7Tbml7Dtj7PQIv2i) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [PLUS](https://open.spotify.com/album/5V9HrJ2u1noLUk0V4HF8uM) | 14:51 | 2022-11-07 | 2022-11-09 |
 | [Eggshell](https://open.spotify.com/track/2YS5BqGuQwXbDvCn5U8I0e) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 9:02 | 2022-05-29 | 2023-02-15 |
@@ -175,7 +175,7 @@
 | [recks on](https://open.spotify.com/track/7twSQzitabpjcrxBi1a8fz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/0vczEfoTXdjFAERCLMrc0Z) | 9:21 | 2022-07-31 | 2022-08-03 |
 | [Recury](https://open.spotify.com/track/2EYkcwG4sC73I4zjl6yhXy) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 9:44 | 2022-05-29 | 2022-10-13 |
 | [Rettic AC](https://open.spotify.com/track/3QyfMPXAuzX6x1bgkgjuoV) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 2:07 | 2022-06-17 | 2022-12-20 |
-| [Rettic AC](https://open.spotify.com/track/6iJbc5LvusfogQcxKnFgcu) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB) | 2:07 | 2024-07-27 | 2024-08-11 |
+| [Rettic AC](https://open.spotify.com/track/6iJbc5LvusfogQcxKnFgcu) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB) | 2:07 | 2024-07-27 |  |
 | [Rotar](https://open.spotify.com/track/1UI8F0Kz7zrKYZmjb9LeHt) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 8:04 | 2022-05-29 | 2022-10-13 |
 | [Rotar](https://open.spotify.com/track/7gK0WYSlNXlSd2Cp3ukyCt) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 8:04 | 2023-03-28 |  |
 | [Rpeg](https://open.spotify.com/track/2Q9vfN92vj9TQgnN5Mq9CK) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [EP7](https://open.spotify.com/album/1KaTIdAepIJDxbSEEL3M2z) | 6:00 | 2022-05-30 | 2022-09-29 |

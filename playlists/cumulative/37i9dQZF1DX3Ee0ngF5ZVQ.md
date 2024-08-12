@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Silverada
 
-642 songs - 1 day 14 hr 19 min
+643 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [Lovin' Not Leavin'](https://open.spotify.com/track/5rdW1DHY49AjT38jP4NZhf) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Lovin' Not Leavin'](https://open.spotify.com/album/6mc464jvzmrvUJBwlLdExy) | 4:41 | 2023-09-15 | 2023-10-29 |
 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 | 2021-12-17 | 2022-03-19 |
 | [Lowdown & Lonesome](https://open.spotify.com/track/4fRtgLI8kltC4EdU37Cahx) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Lowdown & Lonesome](https://open.spotify.com/album/7e8Ka3g62QpJTm23DYLLm5) | 4:31 | 2023-06-30 | 2023-09-30 |
-| [Luckiest Guy I Know](https://open.spotify.com/track/7GCYZzOEKcSPbWqG8dN3Uo) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Luckiest Guy I Know](https://open.spotify.com/album/1xPO9BetrzEAnYGYmNNYp4) | 3:36 | 2024-06-28 |  |
+| [Luckiest Guy I Know](https://open.spotify.com/track/7GCYZzOEKcSPbWqG8dN3Uo) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Luckiest Guy I Know](https://open.spotify.com/album/1xPO9BetrzEAnYGYmNNYp4) | 3:36 | 2024-06-28 | 2024-08-12 |
 | [Made In Texas](https://open.spotify.com/track/0ba2g72aL4NG7gxuvbp0my) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Made In Texas](https://open.spotify.com/album/29ZuaXy94yR0uWdsLsHxbJ) | 2:24 | 2024-04-26 | 2024-07-27 |
 | [Madison](https://open.spotify.com/track/33BaBCFqa8DrV9pj2pUDer) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [Madison](https://open.spotify.com/album/6WA8s9UiGc4r7WJWz66VZc) | 4:44 | 2023-08-25 | 2023-09-30 |
 | [Makin' It By](https://open.spotify.com/track/6kEKSLnQOsNsP5E3Xv0Vun) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Makin' It By \(Side B\)](https://open.spotify.com/album/0du8vLQfYBy17zx3Evef9F) | 3:32 | 2022-03-25 | 2022-05-14 |
@@ -609,6 +609,7 @@
 | [When I See You](https://open.spotify.com/track/3q1K2sy4cleHRdaSWpwmlt) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/6I6ykKV4SbTOK7ecmTtjDw) | 3:20 | 2022-03-11 | 2022-06-18 |
 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 | 2021-12-17 | 2022-05-20 |
 | [When My Baby’s In Boots](https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [When My Baby’s In Boots](https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q) | 3:03 | 2023-05-05 |  |
+| [When She Kissed Me](https://open.spotify.com/track/1vnsvAfJiIvX3S9YM01l2V) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [When She Kissed Me](https://open.spotify.com/album/51gRM3NuaQhiJc5NCiut8t) | 4:04 | 2024-08-09 |  |
 | [When the Good Ol Boys Age Out](https://open.spotify.com/track/5LAbNvWjVcWgVCkiLdTrfR) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [When the Good Ol Boys Age Out](https://open.spotify.com/album/4XeY6zjxs6rQ19UeeNo6jY) | 4:16 | 2023-08-04 | 2023-10-14 |
 | [When You Love Me](https://open.spotify.com/track/16wqJpp4cDPlrntWaV5v5S) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [When You Love Me](https://open.spotify.com/album/15El8KMYlj68oMrLUv9HFu) | 3:16 | 2023-09-22 | 2023-10-07 |
 | [When You Love Me](https://open.spotify.com/track/2Z3b4wnusCLmYFPQG7TLvZ) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [When You Love Me](https://open.spotify.com/album/6RkNkSfZSQOEq7Gq5Z0Qsv) | 3:16 | 2023-06-16 | 2023-09-23 |

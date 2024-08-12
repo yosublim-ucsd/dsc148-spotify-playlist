@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Avec pas d'casque",
-  "num_followers": 41463,
+  "num_followers": 41465,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "SD Night",
+        "url": "https://open.spotify.com/album/4hQDYoPdi19Fkd0BJPLhp6"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "SD Night",
+      "url": "https://open.spotify.com/track/7E8RJY17lUK5W7J1TDFd6z"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 149000,
       "name": "Vrais salauds (feat. Gazo & Kore)",
       "url": "https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "SD Night",
-        "url": "https://open.spotify.com/album/4hQDYoPdi19Fkd0BJPLhp6"
-      },
-      "artists": [
-        {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "SD Night",
-      "url": "https://open.spotify.com/track/7E8RJY17lUK5W7J1TDFd6z"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Miss France",
-        "url": "https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Miss France",
-      "url": "https://open.spotify.com/track/015YmEj4dMrDwUga7QEN46"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Mise \u00e0 jour",
         "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 161666,
       "name": "Shayo",
       "url": "https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Miss France",
+        "url": "https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Miss France",
+      "url": "https://open.spotify.com/track/015YmEj4dMrDwUga7QEN46"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Chor\u00e9",
-        "url": "https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "duration_ms": 180228,
-      "name": "Chor\u00e9",
-      "url": "https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Maylin",
         "url": "https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 174222,
       "name": "Maylin",
       "url": "https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Chor\u00e9",
+        "url": "https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "duration_ms": 180228,
+      "name": "Chor\u00e9",
+      "url": "https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -711,6 +711,22 @@
       "duration_ms": 159287,
       "name": "Ah ahah",
       "url": "https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Solide",
+        "url": "https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 135593,
+      "name": "Solide",
+      "url": "https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -807,22 +823,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Solide",
-        "url": "https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 135593,
-      "name": "Solide",
-      "url": "https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "J'ai l'impression",
         "url": "https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO"
       },
@@ -891,22 +891,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
+        "name": "Mandat de D\u00e9p\u00f4t",
+        "url": "https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L"
       },
       "artists": [
         {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        },
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
         }
       ],
-      "duration_ms": 180827,
-      "name": "LORO PIANA",
-      "url": "https://open.spotify.com/track/5CJmBOAgae1IAiWiyvtezR"
+      "duration_ms": 192468,
+      "name": "Darement",
+      "url": "https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

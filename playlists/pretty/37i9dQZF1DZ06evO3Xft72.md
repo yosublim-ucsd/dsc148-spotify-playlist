@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 ### [This Is Def Leppard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Xft72)
 
-> This Is Def Leppard\. Все лучшие треки в одном плейлисте.
+> This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,754 likes - 51 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,787 likes - 51 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 33 | [Mirror Mirror \(Look Into My Eyes\)](https://open.spotify.com/track/67vJBne1NXsWAyjWb96m6p) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:07 |
 | 34 | [Don't Shoot Shot Gun](https://open.spotify.com/track/4IB9c8FQ2VNutSWdgkw0Ys) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:26 |
 | 35 | [Stand Up \(Kick Love Into Motion\)](https://open.spotify.com/track/0dr71rw5oIcPtUHRJES6gP) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:32 |
-| 36 | [Wasted](https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 3:45 |
+| 36 | [Rock On](https://open.spotify.com/track/0v0sa5TgqCXMJcynzY8Sqp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Yeah!](https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K) | 2:53 |
 | 37 | [Another Hit And Run](https://open.spotify.com/track/1XMIfgwtEm6Bd2mahFPaqb) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:58 |
-| 38 | [Rock On](https://open.spotify.com/track/0v0sa5TgqCXMJcynzY8Sqp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Yeah!](https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K) | 2:53 |
+| 38 | [Wasted](https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 3:45 |
 | 39 | [Make Love Like A Man](https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:15 |
 | 40 | [Hysteria](https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR) | 5:55 |
 | 41 | [All I Want Is Everything](https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 5:20 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 50 | [Dangerous](https://open.spotify.com/track/3o49Lb4VSVmuT0yzLYuxHo) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Def Leppard](https://open.spotify.com/album/2GpOJTgMzlHlqIREzGh7he) | 3:26 |
 | 51 | [Undefeated](https://open.spotify.com/track/7w2W2XIem4XdNfgSQzbypm) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Mirror Ball – Live & More](https://open.spotify.com/album/3dAgxpN9US0pj3OB3hOq32) | 4:40 |
 
-Snapshot ID: `ZrVcAAAAAAB0cQrTppqypopVifKzKYDF`
+Snapshot ID: `ZratgAAAAADXVrUfj5AkJz0jT8RnEcHx`

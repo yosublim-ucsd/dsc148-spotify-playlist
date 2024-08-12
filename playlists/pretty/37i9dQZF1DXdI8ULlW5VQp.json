@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Lila Downs, Ni\u00f1a Pastori y Soledad en portada.",
-  "num_followers": 70693,
+  "num_followers": 70709,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Cu\u00e1ntas Veces",
         "url": "https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj"
       },
@@ -455,6 +455,26 @@
       "duration_ms": 194127,
       "name": "Cu\u00e1ntas Veces",
       "url": "https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -515,26 +535,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "C\u00d3MO RESPIRAR???",
         "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
       },
@@ -567,42 +567,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "El Cielo A\u00fan Espera",
-        "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "El Cielo A\u00fan Espera",
-      "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
-        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
-        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 226481,
-      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
-      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Sincer\u00e1ndome",
         "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
       },
@@ -627,6 +591,26 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
+        "name": "El Cielo A\u00fan Espera",
+        "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "El Cielo A\u00fan Espera",
+      "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
         "name": "Cuatro Estaciones",
         "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 192066,
       "name": "Subt\u00edtulos",
       "url": "https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 226481,
+      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
+        "name": "Entre La Maleza",
+        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 215956,
+      "name": "Entre La Maleza",
+      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
         "name": "Un Viaje a Todas Partes",
         "url": "https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 203836,
       "name": "Un Viaje a Todas Partes",
       "url": "https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
-        "name": "Entre La Maleza",
-        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 215956,
-      "name": "Entre La Maleza",
-      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 274601,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Tuvimos Futuro",
         "url": "https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 211030,
       "name": "Tuvimos Futuro",
       "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 274601,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -1247,46 +1247,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "moneda sin valor",
-        "url": "https://open.spotify.com/album/4Qwp5iSfODw3HnJZsLwFM7"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 174612,
-      "name": "moneda sin valor",
-      "url": "https://open.spotify.com/track/1NfGatqpE4QWyLg1VzWRbD"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
-        "name": "nunca y despu\u00e9s",
-        "url": "https://open.spotify.com/album/3JZKpaOiDOoanRYQc1nMOq"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Rafa Arregu\u00edn",
-          "url": "https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ"
-        }
-      ],
-      "duration_ms": 211006,
-      "name": "nunca y despu\u00e9s",
-      "url": "https://open.spotify.com/track/5M0quwzJafA2xYHv2fjk6e"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Solo Los Amantes Sobreviven",
         "url": "https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx"
       },
@@ -1307,6 +1267,26 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
+        "name": "moneda sin valor",
+        "url": "https://open.spotify.com/album/4Qwp5iSfODw3HnJZsLwFM7"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 174612,
+      "name": "moneda sin valor",
+      "url": "https://open.spotify.com/track/1NfGatqpE4QWyLg1VzWRbD"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
         "name": "c\u00f3mo acaba",
         "url": "https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "nunca y despu\u00e9s",
+        "url": "https://open.spotify.com/album/3JZKpaOiDOoanRYQc1nMOq"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Rafa Arregu\u00edn",
+          "url": "https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ"
+        }
+      ],
+      "duration_ms": 211006,
+      "name": "nunca y despu\u00e9s",
+      "url": "https://open.spotify.com/track/5M0quwzJafA2xYHv2fjk6e"
     },
     {
       "added_at": "2024-07-11 02:20:32",

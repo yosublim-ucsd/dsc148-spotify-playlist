@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,075 likes - 290 songs - 15 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,076 likes - 290 songs - 15 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 103 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 |
 | 104 | [That's What I Get](https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [That's What I Get](https://open.spotify.com/album/2ot1e7ExW9qF6G82rIJc1f) | 2:30 |
 | 105 | [Echo \(feat\. blackbear\)](https://open.spotify.com/track/54WpJSyO81dpA40MKJHd0C) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:58 |
-| 106 | [I Don't Think About You](https://open.spotify.com/track/0LV7IsFZF2rm2CI52uSWra) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:44 |
-| 107 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 |
+| 106 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 |
+| 107 | [I Don't Think About You](https://open.spotify.com/track/0LV7IsFZF2rm2CI52uSWra) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:44 |
 | 108 | [Imperfections](https://open.spotify.com/track/2d6wvZdvJ0bGJ4Olfm1lsp) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:59 |
 | 109 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 |
 | 110 | [I'll Never Not Love You](https://open.spotify.com/track/0LJIVYOer8mlCmTrKoP9Kh) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:38 |
@@ -207,8 +207,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 197 | [Conflicted](https://open.spotify.com/track/33e3om2LnwbpMvLrII4Iuw) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:29 |
 | 198 | [childhood bedroom](https://open.spotify.com/track/3GndP4EReJb9DdA4ByUZeF) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:17 |
 | 199 | [Minute](https://open.spotify.com/track/5T9oCNxslGlodgZd282juI) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 3:05 |
-| 200 | [Heartbreak Can Wait](https://open.spotify.com/track/2Yil4R2nh93IZEvdUyYWDc) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:21 |
-| 201 | [Never Not Love You](https://open.spotify.com/track/7Jx9gIEAsr32gtg2UJd9Gv) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:14 |
+| 200 | [Never Not Love You](https://open.spotify.com/track/7Jx9gIEAsr32gtg2UJd9Gv) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:14 |
+| 201 | [Heartbreak Can Wait](https://open.spotify.com/track/2Yil4R2nh93IZEvdUyYWDc) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:21 |
 | 202 | [That's The Kind Of Woman](https://open.spotify.com/track/3LS7eIJfb4eajXcqbnlN2b) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:14 |
 | 203 | [leave my mind](https://open.spotify.com/track/1Z5nR7epPPmldWTOcUF8Iz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:18 |
 | 204 | [I Don't Love You Like I Used To](https://open.spotify.com/track/5TOUVsGgdv3MBkfey1QcE3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:13 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 289 | [Aliens](https://open.spotify.com/track/3n5lE0vC4SOb3tKP1h1fVD) | [The Dudley Corporation](https://open.spotify.com/artist/7Ch6Iyny8xZOqGcKbg1TEd) | [What a Human Does](https://open.spotify.com/album/3QdQhjtaMNBpwNgK1VwAR4) | 2:19 |
 | 290 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 |
 
-Snapshot ID: `AbZFBAAAAAD+ZEK4yk5vDvE/0FA9Hh+g`
+Snapshot ID: `AbZKpAAAAADqyZsPKOXhOi0Y38NTsn8T`

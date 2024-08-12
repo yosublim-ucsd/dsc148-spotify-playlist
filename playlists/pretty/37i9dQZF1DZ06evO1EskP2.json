@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2661,
+  "num_followers": 2663,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABpQ2eYNY+en3bQ3plih1PH",
+  "snapshot_id": "ZratgAAAAAAhbE5S/DGmDJ3e0l9KztFo",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Island Inside Me",
-      "url": "https://open.spotify.com/track/6OwueibIYT4JEQCm3U2EKX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Butterflies: Live",
         "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 274656,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/4fEYB07ZQlCS57QYD4puMy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Island Inside Me",
+      "url": "https://open.spotify.com/track/6OwueibIYT4JEQCm3U2EKX"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Man In The World (feat. Tarrus Riley)",
-        "url": "https://open.spotify.com/album/2Vye5SVOBSo95kZKtqIIXB"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "Only Man In The World - feat. Tarrus Riley",
-      "url": "https://open.spotify.com/track/3hdBa2RmmyWbQQNOdG5e3T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Galaxy",
         "url": "https://open.spotify.com/album/6GXMiqtk8ME5GWZ6snXvWp"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 236934,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/62sAt5CA4yGYbmkQvLVKwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only Man In The World (feat. Tarrus Riley)",
+        "url": "https://open.spotify.com/album/2Vye5SVOBSo95kZKtqIIXB"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "Only Man In The World - feat. Tarrus Riley",
+      "url": "https://open.spotify.com/track/3hdBa2RmmyWbQQNOdG5e3T"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maui Rain",
+        "url": "https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 217077,
+      "name": "Maui Rain",
+      "url": "https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spam Musubi Song",
         "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maui Rain",
-        "url": "https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 217077,
-      "name": "Maui Rain",
-      "url": "https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mana Maoli, Volume V - Hui Na Moku",
         "url": "https://open.spotify.com/album/1acebQxhPagBiWionPJtrm"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Remix)",
-        "url": "https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Follow Me (Remix)",
-      "url": "https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moku Soul",
         "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
       },
@@ -731,6 +715,58 @@
       "duration_ms": 190463,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me (Remix)",
+        "url": "https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Follow Me (Remix)",
+      "url": "https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red, Gold & Green",
+        "url": "https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Kimi\u00e9 Miner",
+          "url": "https://open.spotify.com/artist/5Cp5wDJmbemEQsC3XA83Mg"
+        }
+      ],
+      "duration_ms": 229845,
+      "name": "Red, Gold & Green",
+      "url": "https://open.spotify.com/track/6CIxSkIqHnaN7ZiZQxMNwC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 284680,
+      "name": "Right Love, Wrong Time",
+      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
     },
     {
       "added_at": null,
@@ -760,29 +796,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 284680,
-      "name": "Right Love, Wrong Time",
-      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red, Gold & Green",
-        "url": "https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "Kimi\u00e9 Miner",
-          "url": "https://open.spotify.com/artist/5Cp5wDJmbemEQsC3XA83Mg"
-        }
-      ],
-      "duration_ms": 229845,
-      "name": "Red, Gold & Green",
-      "url": "https://open.spotify.com/track/6CIxSkIqHnaN7ZiZQxMNwC"
+      "duration_ms": 213480,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 226185,
       "name": "Walk on Water",
       "url": "https://open.spotify.com/track/4s23CQT2CMFhIxYn9MyNLw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB"
     },
     {
       "added_at": null,

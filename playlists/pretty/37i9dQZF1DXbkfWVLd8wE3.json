@@ -1,6 +1,6 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 221855,
+  "num_followers": 221914,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,42 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 237706,
+      "name": "Just A Lil Bit",
+      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -179,26 +215,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "The Next Episode",
-      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Rolling Papers",
         "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 217666,
       "name": "Black and Yellow",
       "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 237706,
-      "name": "Just A Lil Bit",
-      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -247,6 +247,26 @@
       "duration_ms": 235533,
       "name": "How We Do",
       "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -299,22 +319,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "The Chronic",
-        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 237573,
-      "name": "Nuthin' But A \"G\" Thang",
-      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
+      "duration_ms": 214226,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -339,22 +355,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Disco Inferno",
-      "url": "https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -423,6 +423,22 @@
       "duration_ms": 193733,
       "name": "Jesus Walks",
       "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "If I Can't",
+      "url": "https://open.spotify.com/track/6mcu7D7QuABVwUGDwovOEh"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -515,22 +531,6 @@
       "duration_ms": 283066,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 196626,
-      "name": "If I Can't",
-      "url": "https://open.spotify.com/track/6mcu7D7QuABVwUGDwovOEh"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5"
     },
     {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Return to the 36 Chambers: The Dirty Version",
-        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
-      },
-      "artists": [
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Shimmy Shimmy Ya",
-      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
-    },
-    {
       "added_at": "2023-08-14 04:00:00",
       "album": {
         "name": "Hood Hop",
@@ -771,6 +755,22 @@
       "duration_ms": 243226,
       "name": "Tipsy - Club Mix",
       "url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Shimmy Shimmy Ya",
+      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "The Blueprint (Explicit Version)",
-        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Izzo (H.O.V.A.)",
-      "url": "https://open.spotify.com/track/4h5KBcltGefua73AUPYps7"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Here Comes The Fuzz",
         "url": "https://open.spotify.com/album/62Qu5QoNx3De0p5qQT0u7o"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 238600,
       "name": "Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix",
       "url": "https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Izzo (H.O.V.A.)",
+      "url": "https://open.spotify.com/track/4h5KBcltGefua73AUPYps7"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "The Black Album",
-        "url": "https://open.spotify.com/album/6vT81iUtDPLkfHDAwoRNpu"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Dirt Off Your Shoulder",
-      "url": "https://open.spotify.com/track/4DqgmnzCCIv0dbzlFDPJZq"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Amplified",
         "url": "https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW"
       },
@@ -1555,22 +1539,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "B2K Presents \"You Got Served\" Soundtrack",
-        "url": "https://open.spotify.com/album/56m66MCo7QzlpVr2EwGuHT"
-      },
-      "artists": [
-        {
-          "name": "M.O.P.",
-          "url": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Ante Up (Robbin Hoodz Theory)",
-      "url": "https://open.spotify.com/track/55MzgLFlIz9I5s5CwAWXeE"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
@@ -1591,6 +1559,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "The Black Album",
+        "url": "https://open.spotify.com/album/6vT81iUtDPLkfHDAwoRNpu"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Dirt Off Your Shoulder",
+      "url": "https://open.spotify.com/track/4DqgmnzCCIv0dbzlFDPJZq"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "The Saga Continues...",
         "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 234773,
       "name": "Diddy (feat. The Neptunes)",
       "url": "https://open.spotify.com/track/3829CDK1kzOgjRU3nNXqFQ"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "B2K Presents \"You Got Served\" Soundtrack",
+        "url": "https://open.spotify.com/album/56m66MCo7QzlpVr2EwGuHT"
+      },
+      "artists": [
+        {
+          "name": "M.O.P.",
+          "url": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Ante Up (Robbin Hoodz Theory)",
+      "url": "https://open.spotify.com/track/55MzgLFlIz9I5s5CwAWXeE"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "The Jump Off (feat. Mr. Cheeks) [Remixes]",
+        "url": "https://open.spotify.com/album/4ODmc5z57TpFAVTSe6PVSE"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "Mr. Cheeks",
+          "url": "https://open.spotify.com/artist/0UeVxCKyBypjQvDCT889zt"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "The Jump Off (feat. Mr. Cheeks) - Remix",
+      "url": "https://open.spotify.com/track/3CZlTOyNnKVMb021IYEY6r"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "R&G (Rhythm & Gangsta): The Masterpiece",
         "url": "https://open.spotify.com/album/6cpp6a0RDlZhHUa2C1ArN3"
       },
@@ -1727,22 +1747,6 @@
       "duration_ms": 266066,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/70ludZZEUJy1aFVkPI0Kpi"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/4fzsfWzRhPawzqhX8Qt9F3"
     }
   ],
   "unique_name": "Hip-Hop Classics Party",

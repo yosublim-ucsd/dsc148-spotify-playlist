@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Aradan \u00c7ok Y\u0131llar Ge\u00e7ti",
+        "url": "https://open.spotify.com/album/4rsN93FJo8QLv2MLSiMivc"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011f\u00e7e Kandemir",
+          "url": "https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170490,
+      "name": "Aradan \u00c7ok Y\u0131llar Ge\u00e7ti",
+      "url": "https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0"
+    },
+    {
+      "album": {
         "name": "ART DECO (TEKKNO)",
         "url": "https://open.spotify.com/album/4cPDwpxho889ZbeQiLLK8o"
       },
@@ -3116,7 +3134,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
@@ -4680,7 +4698,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 176867,
       "name": "gasleuchte",
       "url": "https://open.spotify.com/track/4cpxlpWGIvesl4sYRN8Re5"
@@ -5814,6 +5832,32 @@
       "duration_ms": 226760,
       "name": "I am from Austria",
       "url": "https://open.spotify.com/track/1JIaXY2yUMPHs0eAzPUjsP"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Know",
+        "url": "https://open.spotify.com/album/7LKvDGzevXWkxJYYvM0vi7"
+      },
+      "artists": [
+        {
+          "name": "Buzz Low",
+          "url": "https://open.spotify.com/artist/0tytC9SBvhGJFUA0MPHucY"
+        },
+        {
+          "name": "BACOLE",
+          "url": "https://open.spotify.com/artist/0L4qbCVTh5Rox6JU4Ez5LX"
+        },
+        {
+          "name": "Kuala",
+          "url": "https://open.spotify.com/artist/2uMnogCIZC4nsRgavacAkv"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/5nUlevjEAdIKeMBKxpSEHm"
     },
     {
       "album": {
@@ -7956,7 +8000,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 173168,
       "name": "Love Potions",
       "url": "https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY"
@@ -9158,7 +9202,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-12",
       "duration_ms": 194217,
       "name": "Nein!",
       "url": "https://open.spotify.com/track/2wvUmObLQbxClXFsuhw8Ns"

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-983 songs - 2 day 12 hr 20 min
+988 songs - 2 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Duhhhhhhhhhhhhhhhhh](https://open.spotify.com/track/1SHOlAdcna7plmlXYRWWEu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Wallsocket](https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv) | 4:07 | 2024-06-17 |  |
 | [DUSTCUTTER](https://open.spotify.com/track/1BJjqtZir1VxnFMe4E668u) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:44 | 2024-02-16 |  |
 | [DUSTCUTTER](https://open.spotify.com/track/4tF7eNvagIc6tqftcomhr2) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD II](https://open.spotify.com/album/62GII8VrNxo2Z6Wr80AeKl) | 2:44 | 2023-10-30 |  |
+| [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2024-08-11 |  |
 | [Dying In A Hot Tub](https://open.spotify.com/track/0kwbhAzmXoEfv1XAccsLGh) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Boom Boom Room \(Side B\)](https://open.spotify.com/album/6R8AAzKYJ7KrmYx0DYosy3) | 3:48 | 2022-01-30 |  |
 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 | 2022-07-13 |  |
 | [EASIER](https://open.spotify.com/track/1wfYQUXZvieW0yaQ7rgPEJ) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD III](https://open.spotify.com/album/75KQkIcV2XhO8qygJgvE4I) | 3:25 | 2023-11-22 |  |
@@ -725,6 +726,7 @@
 | [Seventyseven dog years](https://open.spotify.com/track/3irkFAVOrI6hy6PB0C725w) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Wallsocket](https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv) | 4:35 | 2024-06-17 |  |
 | [Shades](https://open.spotify.com/track/62IQSAGpdUI2NK1UcRCCgQ) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Belladonna of Sadness](https://open.spotify.com/album/7zo4kiBFeJ6fTRJLTKo7XU) | 3:50 | 2022-07-22 |  |
 | [Shades of Us](https://open.spotify.com/track/1EXlrwfb7ikamp4vUCJ5Y9) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 2:57 | 2021-03-31 |  |
+| [Shadow](https://open.spotify.com/track/4urzTwD9Ewbi0qIqKWDne1) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Nocturne](https://open.spotify.com/album/7A2iT7NcC9lcvhGu1pP0UA) | 4:18 | 2024-08-11 |  |
 | [Shakedown](https://open.spotify.com/track/4Ba1J8qxhOWi1ihiyaFQk9) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Quaranta](https://open.spotify.com/album/2aswMmRN4vXGalI39pDsMb) | 3:28 | 2023-11-17 |  |
 | [Shampoo Bottles](https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:44 | 2020-04-03 |  |
 | [Shavambacu](https://open.spotify.com/track/6BY1NFsM97eT9FksbQChMX) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Coup De Grace](https://open.spotify.com/album/6aeQVwrZZu7wDpFMtTApyC) | 3:34 | 2021-01-24 |  |
@@ -752,6 +754,7 @@
 | [Skin and Bones](https://open.spotify.com/track/4CZgQq8KJYWGh1bM3sqGmd) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:34 | 2022-06-05 |  |
 | [Slither](https://open.spotify.com/track/4G5CriyBG4VBHz2UHxGi2J) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 1:50 | 2022-09-18 |  |
 | [Smiling at the Ground](https://open.spotify.com/track/3OuAE6PfmdmwrOtleACuGB) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 3:46 | 2021-03-31 |  |
+| [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 | 2024-08-11 |  |
 | [Snap Back](https://open.spotify.com/track/5QPGnFslbDUQ7mDteKn3By) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:30 | 2024-05-23 |  |
 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 | 2021-08-15 |  |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2022-12-10 |  |
@@ -837,6 +840,7 @@
 | [The Craving \(Jenna's version\)](https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 2:54 | 2024-05-23 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-22 |  |
 | [The Dream Synopsis](https://open.spotify.com/track/1iPeDwic3VEt0T75NyVoaG) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:03 | 2020-09-22 |  |
+| [The Dreamers](https://open.spotify.com/track/4reynFf5XLDuBHw4pFemEw) | [Gold Celeste](https://open.spotify.com/artist/0k7JGk03ntbFvfURT2hWmu) | [The Glow](https://open.spotify.com/album/45ghFsmrFTp9V6Q49grJlx) | 4:46 | 2024-08-11 |  |
 | [The Element Of Surprise](https://open.spotify.com/track/1JuflrFpkx9mhDwZ08Txx7) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 2:52 | 2024-06-17 |  |
 | [The Everglades \(For Leonard\)](https://open.spotify.com/track/5TztAWoMbNwmAxMR7sNpjD) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 2:56 | 2024-01-30 |  |
 | [The Feeling of Drifting Apart](https://open.spotify.com/track/34KbKD39tNltI27Duvdm0M) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You \(Deluxe\)](https://open.spotify.com/album/3ttPsHix6tJ7mqV8BcwOFp) | 3:05 | 2021-11-03 |  |
@@ -949,6 +953,7 @@
 | [WHARF TALK \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2023-03-31 |  |
 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 | 2023-03-31 |  |
 | [What If You Were Right The First Time?](https://open.spotify.com/track/3acb2sXcXrUQGFYJE2qHs8) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Brianstorm](https://open.spotify.com/album/3wes7jJ9Ig44rYtlYGwAh9) | 3:02 | 2020-07-22 |  |
+| [What The World Needs Now Is Love](https://open.spotify.com/track/0RGL4xoWE5bakfcJuhi5cp) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [I Who Have Nothing](https://open.spotify.com/album/2Um9ftNNHVdWbnOgZOcyOn) | 2:36 | 2024-08-11 |  |
 | [What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:09 | 2022-07-03 |  |
 | [What You Need](https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 3:26 | 2022-12-17 |  |
 | [WHAT'S GOOD](https://open.spotify.com/track/6bOkaEXc5CopinGazSLokx) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:25 | 2022-07-13 |  |

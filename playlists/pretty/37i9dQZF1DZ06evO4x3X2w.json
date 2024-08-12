@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 688965,
+  "num_followers": 689082,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABlD6htPqsrovaBQ23NkeUx",
+  "snapshot_id": "ZratgAAAAABXqk7sPGGAdVOvE2lS7+yO",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 300672,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq"
+      "duration_ms": 205923,
+      "name": "Falling In Love (Is Hard On The Knees)",
+      "url": "https://open.spotify.com/track/798M8UpxnEqKotUBuiDqhR"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 205923,
-      "name": "Falling In Love (Is Hard On The Knees)",
-      "url": "https://open.spotify.com/track/798M8UpxnEqKotUBuiDqhR"
+      "duration_ms": 300672,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock In A Hard Place",
-        "url": "https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 266749,
-      "name": "Lightning Strikes",
-      "url": "https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nine Lives",
         "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 241294,
       "name": "Nine Lives",
       "url": "https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock In A Hard Place",
+        "url": "https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 266749,
+      "name": "Lightning Strikes",
+      "url": "https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q"
     }
   ],
   "unique_name": "This Is Aerosmith",

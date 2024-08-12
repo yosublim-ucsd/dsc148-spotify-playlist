@@ -1,6 +1,6 @@
 {
   "description": "Sommersola er her <3\n",
-  "num_followers": 89340,
+  "num_followers": 89346,
   "original_name": "Sommersol",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 158511,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 212466,
       "name": "Better Days (feat. John Mayer)",
       "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 158511,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -259,22 +259,6 @@
       "duration_ms": 194275,
       "name": "Dance All Over Me",
       "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Josefin",
-        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Josefin",
-      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -367,6 +351,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Josefin",
+        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Josefin",
+      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "A Potion For Love",
         "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Kor e du?",
-        "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
-      },
-      "artists": [
-        {
-          "name": "Sondre Justad",
-          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
-        }
-      ],
-      "duration_ms": 200798,
-      "name": "Kor e du?",
-      "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Over Deg",
         "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 147093,
       "name": "Over Deg",
       "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Kor e du?",
+        "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
+      },
+      "artists": [
+        {
+          "name": "Sondre Justad",
+          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
+        }
+      ],
+      "duration_ms": 200798,
+      "name": "Kor e du?",
+      "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 135480,
-      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Hvit sommer",
         "url": "https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 148509,
       "name": "Hvit sommer",
       "url": "https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 135480,
+      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Fy Faen S\u00e5 Deilig",
-        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
-      },
-      "artists": [
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        }
-      ],
-      "duration_ms": 156913,
-      "name": "Fy Faen S\u00e5 Deilig",
-      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Thunder in my heart (music from the series)",
         "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 169241,
       "name": "Thunder in my heart (music from the series)",
       "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Fy Faen S\u00e5 Deilig",
+        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "duration_ms": 156913,
+      "name": "Fy Faen S\u00e5 Deilig",
+      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Keeps Me Going",
-        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Keeps Me Going",
-      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "S\u00e5nn som deg",
         "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
       },
@@ -1035,22 +1019,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Klisje",
-        "url": "https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA"
+        "name": "Keeps Me Going",
+        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
       },
       "artists": [
         {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        },
-        {
-          "name": "Celine Madelen",
-          "url": "https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE"
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
         }
       ],
-      "duration_ms": 138632,
-      "name": "Klisje",
-      "url": "https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2"
+      "duration_ms": 199500,
+      "name": "Keeps Me Going",
+      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1115,6 +1095,26 @@
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Klisje",
+        "url": "https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        },
+        {
+          "name": "Celine Madelen",
+          "url": "https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE"
+        }
+      ],
+      "duration_ms": 138632,
+      "name": "Klisje",
+      "url": "https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Sommerfugl",
-        "url": "https://open.spotify.com/album/4KwC2kDErFQk2s2CVepIzu"
-      },
-      "artists": [
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        }
-      ],
-      "duration_ms": 172162,
-      "name": "Sommerfugl",
-      "url": "https://open.spotify.com/track/70WspLgBLUsL4THi8bCdUv"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
         "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 195202,
       "name": "Noen som forst\u00e5r",
       "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Sommerfugl",
+        "url": "https://open.spotify.com/album/4KwC2kDErFQk2s2CVepIzu"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "duration_ms": 172162,
+      "name": "Sommerfugl",
+      "url": "https://open.spotify.com/track/70WspLgBLUsL4THi8bCdUv"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Tre sekunder",
-        "url": "https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "Tre sekunder",
-      "url": "https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "People Come And Go",
         "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Tre sekunder",
+        "url": "https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "Tre sekunder",
+      "url": "https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Trodde aldri",
         "url": "https://open.spotify.com/album/2m4xkVRWuBOmWKInYu60dC"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Vil ikke hjem",
-        "url": "https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 161139,
-      "name": "Vil ikke hjem",
-      "url": "https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "ELLE",
         "url": "https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 185061,
       "name": "Hate Being Alone",
       "url": "https://open.spotify.com/track/3GMVYiGXxzDanIfoowfBOa"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Vil ikke hjem",
+        "url": "https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 161139,
+      "name": "Vil ikke hjem",
+      "url": "https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw"
     },
     {
       "added_at": "2024-08-08 22:00:00",

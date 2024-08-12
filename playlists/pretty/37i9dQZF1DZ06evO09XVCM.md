@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,202 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,210 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [See Dem Fake Leaders](https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:58 |
 | 50 | [Personal Revolution](https://open.spotify.com/track/2wtbphcz9aYNU8ONf8OkrB) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/3c7fo7FWxD6XqTlJ77uF0r) | 4:54 |
 
-Snapshot ID: `ZrVcAAAAAACQmw7ZcQIIY0cA59r/4v39`
+Snapshot ID: `ZratgAAAAACE+VcQvDwGgzI2M+9DlOh+`

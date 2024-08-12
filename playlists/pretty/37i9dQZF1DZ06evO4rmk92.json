@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 115151,
+  "num_followers": 115159,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAABHroVbFjOg4/LuDN4NCFO8",
+  "snapshot_id": "ZratgAAAAABz15Sioj5WaFiBNM3IcqzQ",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "(I Love You) For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is The Thing",
         "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 190773,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "(I Love You) For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "Orange Colored Sky",
-      "url": "https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is The Thing",
         "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 195573,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/3npHR2nReF5bhCvvGiNwcL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "Orange Colored Sky",
+      "url": "https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173533,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cole Espanol",
         "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 165600,
       "name": "Quizas, Quizas, Quizas (Perhaps, Perhaps, Perhaps)",
       "url": "https://open.spotify.com/track/6VuJLPtBlEOaR5oYI51ueN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173533,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
     },
     {
       "added_at": null,
@@ -303,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natalie Cole En Espa\u00f1ol (Track By Track Commentary)",
-        "url": "https://open.spotify.com/album/4neGAu0qprh1ghFDhH824H"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        },
         {
           "name": "Nat King Cole",
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 167546,
-      "name": "Ac\u00e9rcate M\u00e1s",
-      "url": "https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ"
+      "duration_ms": 204626,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd"
     },
     {
       "added_at": null,
@@ -339,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "Natalie Cole En Espa\u00f1ol (Track By Track Commentary)",
+        "url": "https://open.spotify.com/album/4neGAu0qprh1ghFDhH824H"
       },
       "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        },
         {
           "name": "Nat King Cole",
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 204626,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd"
+      "duration_ms": 167546,
+      "name": "Ac\u00e9rcate M\u00e1s",
+      "url": "https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ"
     },
     {
       "added_at": null,
@@ -491,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ultimate Nat King Cole",
+        "url": "https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mis Amigos",
         "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 154026,
       "name": "Around The World - Remastered",
       "url": "https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ultimate Nat King Cole",
-        "url": "https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sings For Two In Love",
         "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 168520,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want To Be Hurt Anymore",
-        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "You're My Everything",
-      "url": "https://open.spotify.com/track/0TRQeUKT5X3gWA4LUZsrvc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cole Espanol",
         "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 170346,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/68XbEHDqjefcO6fVfNssfb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Want To Be Hurt Anymore",
+        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "You're My Everything",
+      "url": "https://open.spotify.com/track/0TRQeUKT5X3gWA4LUZsrvc"
     },
     {
       "added_at": null,

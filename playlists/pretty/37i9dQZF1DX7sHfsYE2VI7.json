@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 58083,
+  "num_followers": 58093,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "At the River",
+      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
         "name": "Ritual Union",
         "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 280488,
       "name": "Four to the Floor - Thin White Duke Mix; Short Version",
       "url": "https://open.spotify.com/track/0Hx249i8UGY4cWLjmo1eIH"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 393640,
-      "name": "At the River",
-      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/4XxbBFfKlXY2E5PN3dHAfz"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 253160,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/0lOzGDHcPlUB1ZvXMWQ0Oh"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/4XxbBFfKlXY2E5PN3dHAfz"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
-        "name": "Adventures Beyond The Ultraworld",
-        "url": "https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Little Fluffy Clouds",
-      "url": "https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
         "name": "Sixteen Oceans",
         "url": "https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 264464,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
+        "name": "Adventures Beyond The Ultraworld",
+        "url": "https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Little Fluffy Clouds",
+      "url": "https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
-        "name": "Machine Dreams",
-        "url": "https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 293786,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
         "name": "Goodbye Country (Hello Nightclub)",
         "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 391000,
       "name": "Suntoucher",
       "url": "https://open.spotify.com/track/4OUvfa7eO5jvFMIMOU7MTb"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
+        "name": "Machine Dreams",
+        "url": "https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 293786,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
+        "name": "Destroy Rock & Roll",
+        "url": "https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E"
+      },
+      "artists": [
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Drop The Pressure",
+      "url": "https://open.spotify.com/track/4ctPexpFIKzjWl4sI7pxeR"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/1pDAZ6iRky6Vmv9xDJezoc"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 324693,
       "name": "Kota",
       "url": "https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
-        "name": "Destroy Rock & Roll",
-        "url": "https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E"
-      },
-      "artists": [
-        {
-          "name": "Mylo",
-          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Drop The Pressure",
-      "url": "https://open.spotify.com/track/4ctPexpFIKzjWl4sI7pxeR"
     },
     {
       "added_at": "2024-08-05 06:16:01",

@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Eminem
 
-445 songs - 22 hr 54 min
+446 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Let's Get It \(Remix\) \[feat\. 21 Savage\]](https://open.spotify.com/track/1NVp7VnSVUJalgIBCIkh0w) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Let's Get It \(Remix\) \[feat\. 21 Savage\]](https://open.spotify.com/album/2ERLWOp7Bh4lAsoR7NytHu) | 2:36 | 2022-07-27 | 2023-02-17 |
 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 | 2024-04-12 | 2024-08-02 |
 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 | 2022-10-07 | 2023-11-11 |
+| [LGLG](https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LGLG](https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5) | 2:56 | 2024-08-08 |  |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-29 |  |
 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-03-01 | 2024-08-02 |
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-07-27 | 2023-02-11 |
@@ -368,7 +369,7 @@
 | [She Want Some More \(Feat\. Ken Carson & Lil Tecca\)](https://open.spotify.com/track/1IzxkqDIsmiFxTjaNdsiqn) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [She Want Some More \(Feat\. Ken Carson & Lil Tecca\)](https://open.spotify.com/album/2nJN8TOJACDkgOlhs5RplJ) | 3:04 | 2022-07-27 | 2022-09-10 |
 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:17 | 2022-09-23 | 2023-02-17 |
 | [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 | 2023-10-13 | 2023-11-11 |
-| [Shut Up](https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Shut Up](https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j) | 3:12 | 2024-04-05 |  |
+| [Shut Up](https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Shut Up](https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j) | 3:12 | 2024-04-05 | 2024-08-12 |
 | [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-07-28 | 2023-08-08 |
 | [Silent Hill](https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:40 | 2022-07-27 | 2022-10-08 |
 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2022-11-04 | 2022-12-02 |

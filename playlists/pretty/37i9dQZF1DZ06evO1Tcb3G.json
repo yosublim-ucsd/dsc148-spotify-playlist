@@ -1,12 +1,12 @@
 {
-  "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 476554,
+  "description": "This Is Mumford & Sons. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 476599,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcAAAAAAAwtjWhlQRW1cZQbXHdyJTh",
+  "snapshot_id": "ZratgAAAAAAP9Hh3B4XG9ynaK9Tux4Xb",
   "tracks": [
     {
       "added_at": null,
@@ -508,7 +508,7 @@
       "added_at": null,
       "album": {
         "name": "Delta",
-        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 223685,
-      "name": "October Skies",
-      "url": "https://open.spotify.com/track/4O7kxdfjLOFUwIB6Q63ScX"
+      "duration_ms": 276780,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/29u2jPjN6ZEKf31W0eEbx7"
     },
     {
       "added_at": null,
@@ -584,7 +584,7 @@
       "added_at": null,
       "album": {
         "name": "Delta",
-        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 276780,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/29u2jPjN6ZEKf31W0eEbx7"
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/4O7kxdfjLOFUwIB6Q63ScX"
     },
     {
       "added_at": null,

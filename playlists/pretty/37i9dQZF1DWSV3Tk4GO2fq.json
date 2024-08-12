@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1794750,
+  "num_followers": 1794927,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 211533,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 207826,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
+      "duration_ms": 177400,
+      "name": "You Make Me Feel So Young - Remastered 1998",
+      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 177400,
-      "name": "You Make Me Feel So Young - Remastered 1998",
-      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
+      "duration_ms": 141133,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 141133,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
+      "duration_ms": 207826,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "Rock Around The Clock",
         "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 129893,
       "name": "(We're Gonna) Rock Around The Clock",
       "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Songs For Young Lovers",
-        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
+        "name": "Songs For Young Lovers",
+        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 179640,
       "name": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
       "url": "https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 127560,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Ain't That A Shame",
+      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -723,18 +739,18 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 152200,
-      "name": "Ain't That A Shame",
-      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -787,8 +803,8 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
         {
@@ -796,25 +812,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 185280,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
-        "name": "Moanin' The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "I'm So Lonesome I Could Cry",
-      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
+      "duration_ms": 185586,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "Ricky Nelson (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 153933,
       "name": "Poor Little Fool - Remastered",
       "url": "https://open.spotify.com/track/5ayybTSXNwcarDtxQKqvWX"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "Moanin' The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "I'm So Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -899,38 +899,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "The Call Of The Wildest (Expanded Edition)",
         "url": "https://open.spotify.com/album/5RDBugAE4cU2vbLZj0dvmf"
       },
@@ -947,6 +915,22 @@
       "duration_ms": 141666,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/4tmy6FB76bR5eLmx0zO1mn"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Crazy He Calls Me",
+      "url": "https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 123520,
-      "name": "Wake up Little Susie",
-      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "The Coasters",
         "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 196466,
       "name": "Down in Mexico",
       "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "Wake up Little Susie",
+      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "For Collectors Only",
-        "url": "https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6"
-      },
-      "artists": [
-        {
-          "name": "The Five Satins",
-          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "In The Still of the Night",
-      "url": "https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 162840,
       "name": "Love Is Here To Stay - Remastered 1998",
       "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "For Collectors Only",
+        "url": "https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6"
+      },
+      "artists": [
+        {
+          "name": "The Five Satins",
+          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "In The Still of the Night",
+      "url": "https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "The Platters",
-        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "My Prayer",
-      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "The Best Of The Diamonds",
         "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 129333,
       "name": "Little Darlin'",
       "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "The Platters",
+        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "My Prayer",
+      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
+        "name": "Lonely Teardrops",
+        "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "Lonely Teardrops",
+      "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 165266,
       "name": "Lovesick Blues",
       "url": "https://open.spotify.com/track/1x4iqHqbgf9oHsQJ6FGnCy"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
-        "name": "Lonely Teardrops",
-        "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Lonely Teardrops",
-      "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
     },
     {
       "added_at": "2024-05-25 00:26:38",
