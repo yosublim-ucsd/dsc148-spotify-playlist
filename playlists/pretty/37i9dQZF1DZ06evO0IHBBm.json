@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 29678,
+  "num_followers": 29685,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAABiXXtmKymJKo6dmGzmAUYJ",
+  "snapshot_id": "Zrf/AAAAAAAXEmpMzP9CyX69tNrjjuwi",
   "tracks": [
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1gina Virada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
+        "name": "Di\u00e1rio de um Vencedor",
+        "url": "https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 423916,
-      "name": "P\u00e1gina Virada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
+      "duration_ms": 324520,
+      "name": "Di\u00e1rio de um Vencedor",
+      "url": "https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Di\u00e1rio de um Vencedor",
-        "url": "https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco"
+        "name": "P\u00e1gina Virada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 324520,
-      "name": "Di\u00e1rio de um Vencedor",
-      "url": "https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds"
+      "duration_ms": 423916,
+      "name": "P\u00e1gina Virada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 323200,
+      "name": "Sou o Que Sou",
+      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tudo Volta ao Seu Lugar",
         "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 391352,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 323200,
-      "name": "Sou o Que Sou",
-      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
     },
     {
       "added_at": null,

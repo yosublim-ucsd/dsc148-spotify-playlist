@@ -1517,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "BANDITOS",
+        "url": "https://open.spotify.com/album/5xiqrVDSfipSAwShfSfVEK"
+      },
+      "artists": [
+        {
+          "name": "Ason",
+          "url": "https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa"
+        },
+        {
+          "name": "Frank Casino",
+          "url": "https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202590,
+      "name": "BANDITOS",
+      "url": "https://open.spotify.com/track/2QSuaU3ejY9mmMNfnlGOTZ"
+    },
+    {
+      "album": {
         "name": "Bank Account",
         "url": "https://open.spotify.com/album/6IbSsi4TaYE9yFIZaCf3K2"
       },
@@ -2428,6 +2450,24 @@
       "duration_ms": 196066,
       "name": "Bread Winner",
       "url": "https://open.spotify.com/track/2nbRCmg3AbFRCUsaH518ME"
+    },
+    {
+      "album": {
+        "name": "BROKE",
+        "url": "https://open.spotify.com/album/7cl1SBT5UfCAlxIqbjGhm6"
+      },
+      "artists": [
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120466,
+      "name": "BROKE",
+      "url": "https://open.spotify.com/track/7ttN8WgLAZ3BSvZUaqBoJW"
     },
     {
       "album": {
@@ -5312,7 +5352,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 196056,
       "name": "GALAXY GALLERY (feat. BENJAMIN)",
       "url": "https://open.spotify.com/track/7GtnJtpBoOfbRw1AwBMx05"
@@ -8404,7 +8444,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 186971,
       "name": "Life Or Death",
       "url": "https://open.spotify.com/track/3S4xRlMwColjoVELvY172S"
@@ -15311,6 +15351,32 @@
     },
     {
       "album": {
+        "name": "Tittewyt",
+        "url": "https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        },
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        },
+        {
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Tittewyt",
+      "url": "https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu"
+    },
+    {
+      "album": {
         "name": "Death Row Africa",
         "url": "https://open.spotify.com/album/1mpqILNXy1y0njIE0OdVkB"
       },
@@ -16828,7 +16894,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 295706,
       "name": "Where's Reason?",
       "url": "https://open.spotify.com/track/2PDA3LgLfquPTz1zgfH4Gl"

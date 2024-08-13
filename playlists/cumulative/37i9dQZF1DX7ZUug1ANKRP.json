@@ -1551,6 +1551,32 @@
     },
     {
       "album": {
+        "name": "Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/1KZIiURBJs63wz3uuCapCu"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Robin White",
+          "url": "https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160471,
+      "name": "Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/61H6DK37r2uyNryJAqUAXf"
+    },
+    {
+      "album": {
         "name": "BLACK WIDOW",
         "url": "https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK"
       },
@@ -5210,7 +5236,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 165931,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/70jAESz42ftg7bQsihU6hL"
@@ -6365,6 +6391,28 @@
     },
     {
       "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137222,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ"
+    },
+    {
+      "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
       },
@@ -6989,6 +7037,24 @@
     },
     {
       "album": {
+        "name": "Little Do You Know - Techno Version",
+        "url": "https://open.spotify.com/album/0sHpgapkIb1yv4DJmAW1hR"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121084,
+      "name": "Little Do You Know - Techno Version",
+      "url": "https://open.spotify.com/track/2PUVc5dzb7xkgE1Ld6UhF5"
+    },
+    {
+      "album": {
         "name": "Live 4 Ever",
         "url": "https://open.spotify.com/album/4RT18SyW0vxHw7pjmfEQZS"
       },
@@ -7210,7 +7276,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 153683,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6"
@@ -9586,7 +9652,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 155238,
       "name": "Permission",
       "url": "https://open.spotify.com/track/1aKASOozYerKL6WwYtqqbj"
@@ -11110,7 +11176,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 214153,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH"
@@ -13288,6 +13354,36 @@
       "duration_ms": 176693,
       "name": "Weak - Nicolas Julian Remix",
       "url": "https://open.spotify.com/track/77rxRq4cs2HsaFiozPPt8d"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/2yAk2MMYwNiQnI9iBGHsTB"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        },
+        {
+          "name": "Z\u03a9RBA",
+          "url": "https://open.spotify.com/artist/6Ws3dOGjmr0Na9n8aTzHgw"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150306,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/45oj9RdqbdJjgZzV776NkY"
     },
     {
       "album": {

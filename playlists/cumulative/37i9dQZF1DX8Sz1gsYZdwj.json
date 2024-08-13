@@ -3311,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "The Story of Forever",
+        "url": "https://open.spotify.com/album/0HrNXsDWQIBntoUwfhjaVW"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223494,
+      "name": "The Story of Forever",
+      "url": "https://open.spotify.com/track/31qeus61ieZE3s9VU3OOPU"
+    },
+    {
+      "album": {
         "name": "The Tree",
         "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
       },

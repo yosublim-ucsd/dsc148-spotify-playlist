@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Shawn Mendes.
 
-155 songs - 7 hr 41 min
+156 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 | 2024-07-26 |  |
 | [Aurinkoon](https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Aurinkoon](https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj) | 2:27 | 2024-07-02 |  |
 | [Baddie](https://open.spotify.com/track/3rigBKJ6rkvbBnH95Gn6jf) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Baddie](https://open.spotify.com/album/6hboIqWwRiPMYaLWYfDHjq) | 2:27 | 2024-07-02 | 2024-08-10 |
+| [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-12 |  |
 | [Caliente](https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Caliente](https://open.spotify.com/album/1z209B6YRUcVRRz94ogicP) | 2:31 | 2024-08-09 |  |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-07-02 | 2024-07-12 |
 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 | 2024-07-11 | 2024-08-02 |
@@ -142,7 +143,7 @@
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-08-02 |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 |  |
 | [Tuli mitä vaan](https://open.spotify.com/track/5O37M1e9u0BvcMOVedVbYx) | [Ida Paul & Kalle Lindroth](https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0), [Kalle Lindroth](https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi) | [Tuli mitä vaan](https://open.spotify.com/album/0pZfxk1Qim7Ul3HaF6RkJB) | 3:17 | 2024-07-04 |  |
-| [Tuuks mukaan?](https://open.spotify.com/track/0ZRyotx5QQOb1PeIoi0lGP) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Tuuks mukaan?](https://open.spotify.com/album/26MOcz03KNxPMx9S00vz6w) | 3:04 | 2024-08-01 |  |
+| [Tuuks mukaan?](https://open.spotify.com/track/0ZRyotx5QQOb1PeIoi0lGP) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Tuuks mukaan?](https://open.spotify.com/album/26MOcz03KNxPMx9S00vz6w) | 3:04 | 2024-08-01 | 2024-08-13 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-02 | 2024-08-02 |
 | [Vaarallinen Nainen](https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vaarallinen Nainen](https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua) | 2:35 | 2024-07-11 |  |
 | [valssi](https://open.spotify.com/track/5enVWJXH9X2Biou4niupoJ) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [soittorasia](https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu) | 3:57 | 2024-07-23 |  |

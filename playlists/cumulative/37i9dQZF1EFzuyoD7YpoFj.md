@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-405 songs - 21 hr 35 min
+406 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,8 @@
 | [Too Bad \- Single Edit](https://open.spotify.com/track/2W4sO74zIbkgqXLcCpJCoQ) | [Gladius James](https://open.spotify.com/artist/6aUGlRUfGKww4IwhbK7yjY) | [Too Bad](https://open.spotify.com/album/5ZfmENeXhL7NEARlXa3EKS) | 2:54 | 2024-07-24 |  |
 | [Too Close For Comfort](https://open.spotify.com/track/2NR4gz6KIyQ8tlsv6e6n5v) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Decca Years](https://open.spotify.com/album/653NffdK42IKzsD3goAEHg) | 2:20 | 2024-07-24 |  |
 | [Too Darn Hot](https://open.spotify.com/track/0ZP5fnIUj0dQJpulOreMW8) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:49 | 2024-07-24 |  |
-| [True Love](https://open.spotify.com/track/1ofDB7PXhHez9ewlJdqGaF) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Hollywood Musicals](https://open.spotify.com/album/7cyUYpjcFWylXVrupufK8i) | 3:06 | 2024-07-24 |  |
+| [True Love](https://open.spotify.com/track/4HBOfp5qLud5NEULKIjFMz) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Hollywood Musicals](https://open.spotify.com/album/4SiEq6vI3dlK58uGyOQeHf) | 3:05 | 2024-08-12 |  |
+| [True Love](https://open.spotify.com/track/1ofDB7PXhHez9ewlJdqGaF) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Hollywood Musicals](https://open.spotify.com/album/7cyUYpjcFWylXVrupufK8i) | 3:06 | 2024-07-24 | 2024-08-13 |
 | [True Love](https://open.spotify.com/track/3Dx9SxuLcGCV1lSwGQqjr7) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:09 | 2024-07-24 |  |
 | [Trust Your Destiny To Your Star](https://open.spotify.com/track/33Z39OcUkuuRP37WfJw4uW) | [Dennis King](https://open.spotify.com/artist/5VbWEIYKi6Xx4rWXDWMWZV) | [Cole Porter's Aladdin](https://open.spotify.com/album/33nD6TAu9nI4y3bO7HjX6h) | 3:01 | 2024-07-24 |  |
 | [Träume heißen du \- I Concentrate on You \- Remastered](https://open.spotify.com/track/5NWgSeLUcp4jDlj2wWMlDO) | [Hildegard Knef](https://open.spotify.com/artist/66aVJ4ocSmKcdrRUCXR8j0) | [Hildegard Knef singt Cole Porter \(Remastered\)](https://open.spotify.com/album/33AGapq36esdBwQwgbFFoL) | 3:28 | 2024-07-24 |  |

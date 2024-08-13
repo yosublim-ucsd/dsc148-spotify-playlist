@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0627\u0648\u0644\u0649: \u0625\u0646\u0643\u0627\u0631",
+        "url": "https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225714,
+      "name": "AMOT ANA",
+      "url": "https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY"
+    },
+    {
+      "album": {
         "name": "And We",
         "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
       },
@@ -1669,7 +1687,7 @@
         },
         {
           "name": "Awich",
-          "url": "https://open.spotify.com/artist/1Ranzvm74JsAjcWMWpXclc"
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
         }
       ],
       "date_added": "2024-08-09",
@@ -6676,24 +6694,6 @@
       "duration_ms": 180374,
       "name": "Movezz en silencio",
       "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
-    },
-    {
-      "album": {
-        "name": "\u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0627\u0648\u0644\u0649: \u0625\u0646\u0643\u0627\u0631",
-        "url": "https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr"
-      },
-      "artists": [
-        {
-          "name": "Marwan Moussa",
-          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
-        }
-      ],
-      "date_added": "2024-08-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148767,
-      "name": "MOZZA",
-      "url": "https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: jeebanoff\(지바노프\)\)
 
-387 songs - 21 hr 20 min
+389 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [B.T](https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK) | [YUN HYUN JI](https://open.spotify.com/artist/0zmxxS5g5lmEfxak05ciq2) | [B.T](https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1) | 3:17 | 2023-07-14 | 2023-11-03 |
 | [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 | 2023-11-16 | 2024-05-01 |
 | [BAD \(Feat\. Moon Sujin, Joh!\)](https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [BAD](https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD) | 3:12 | 2024-08-09 |  |
-| [Bad Time \(feat\. NOA\)](https://open.spotify.com/track/1Mj4QMH6sPI4hVnoJu6GV2) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Bad Time \(feat\. NOA\)](https://open.spotify.com/album/3cGuMUrUKepD18H2uvxpkq) | 2:42 | 2024-05-24 |  |
+| [Bad Time \(feat\. NOA\)](https://open.spotify.com/track/1Mj4QMH6sPI4hVnoJu6GV2) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Bad Time \(feat\. NOA\)](https://open.spotify.com/album/3cGuMUrUKepD18H2uvxpkq) | 2:42 | 2024-05-24 | 2024-08-13 |
 | [BAD TRIP](https://open.spotify.com/track/3jdtoXjgDfPtyKBxrEiM6P) | [7uly Seven](https://open.spotify.com/artist/5RQPrdXEhZOc0kvHMlGlOL), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [BAD TRIP](https://open.spotify.com/album/4bdeyL4F2LmyGslFssegMc) | 2:12 | 2023-07-07 | 2023-10-28 |
 | [Bake](https://open.spotify.com/track/4hKgaRwrkPLU0lfRb543UE) | [9wall](https://open.spotify.com/artist/6rqYMINHw5oUTaS8K17k2D) | [Bake](https://open.spotify.com/album/0lMKr6wiAPCfF2IY91dS14) | 2:49 | 2024-08-10 |  |
 | [Be there](https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Be there](https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf) | 3:43 | 2022-10-07 | 2023-03-28 |
@@ -190,6 +190,7 @@
 | [In My Place](https://open.spotify.com/track/3YpqXTPxHMazmpUf34XTr7) | [Jane B](https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1) | [DESIRE](https://open.spotify.com/album/5dQaplWsYS1xh6LRUAq6GW) | 2:44 | 2024-08-05 |  |
 | [In The Mood](https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [IN the mood](https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet) | 2:48 | 2023-10-13 | 2024-03-09 |
 | [insomnia \(feat\. KURO\)](https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [insomnia \(feat\. KURO\)](https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs) | 3:47 | 2023-07-14 | 2023-10-21 |
+| [into u](https://open.spotify.com/track/0wRqnpc9lB5hBIomfPpIFJ) | [savvy](https://open.spotify.com/artist/4m9eUa7s8GbFgEzVAFDuTb) | [into u](https://open.spotify.com/album/39mya9cvYpyUSp3IOL4wg4) | 3:28 | 2024-08-12 |  |
 | [INVU](https://open.spotify.com/track/7d3plYwBTEDTGaMJFihbcW) | [BAMSOOSUNG](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [INVU](https://open.spotify.com/album/0ToIkUqka6WWsMQw3TETdw) | 3:04 | 2023-10-20 | 2024-03-09 |
 | [it's my fault](https://open.spotify.com/track/3CQJRcZf9yNgIDCQBllfxx) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [gimbap](https://open.spotify.com/album/50xp8elLZomzlu6uE4RebW) | 3:30 | 2024-07-29 |  |
 | [izzana \(Feat\. OLNL\)](https://open.spotify.com/track/3WZzMC6xb14FRUWcnWDL9b) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [izzana \(Feat\. OLNL\)](https://open.spotify.com/album/0pVFUTRcXEnGA3d5BkPj6N) | 3:32 | 2024-04-30 | 2024-08-11 |
@@ -277,7 +278,7 @@
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 | 2023-11-29 |
 | [Rainy Season \(The Last 10 Years X Whee In\)](https://open.spotify.com/track/3R0MJY27A02NNakf4Kgbka) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Rainy Season \(The Last 10 Years X Whee In\)](https://open.spotify.com/album/06k52VffVztZNVAkF1fENg) | 4:08 | 2024-03-15 | 2024-08-02 |
 | [Re \(Feat\. Leellamarz\)](https://open.spotify.com/track/489WdoslgFRu6bgI3CGKOF) | [Urban Fisher](https://open.spotify.com/artist/2kGf1F2GuQecSJRhzRLyPQ), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Re \(Feat\. Leellamarz\)](https://open.spotify.com/album/5z4KcU9tzN8s2vS61RMwnX) | 3:17 | 2024-04-19 | 2024-08-07 |
-| [Re\-back](https://open.spotify.com/track/0SmhVSccWVbjcuNkMrsBsV) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Re\-back](https://open.spotify.com/album/2TYVuGJboMg8mvM3vUplxE) | 3:20 | 2024-05-17 |  |
+| [Re\-back](https://open.spotify.com/track/0SmhVSccWVbjcuNkMrsBsV) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Re\-back](https://open.spotify.com/album/2TYVuGJboMg8mvM3vUplxE) | 3:20 | 2024-05-17 | 2024-08-13 |
 | [Re: 14 \(feat\. Minjeong\)](https://open.spotify.com/track/4DmGa6XvEJuWdywgs6mxlK) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [New Edition 49](https://open.spotify.com/album/5I95HLTug1H3xEj0mx3tSP) | 3:30 | 2023-03-27 | 2023-04-28 |
 | [Reed](https://open.spotify.com/track/0aPq9xDq5OWNiCRvDjBUVI) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [SLO](https://open.spotify.com/artist/0OxLdB5E14KIM16YBcJ3sj) | [Reed](https://open.spotify.com/album/2ODXFLBbWprQ5Eq7ONM6St) | 3:12 | 2024-05-16 | 2024-08-11 |
 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 | 2022-07-04 | 2022-11-15 |
@@ -331,6 +332,7 @@
 | [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-10-28 | 2023-03-28 |
 | [Teach Me](https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Teach Me](https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd) | 2:53 | 2023-06-01 | 2023-10-28 |
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-05-28 | 2022-06-21 |
+| [The Night Of You & Me](https://open.spotify.com/track/3nPqJUSXNjvdsqaQuWsc6d) | [Rosoulful](https://open.spotify.com/artist/6FeHW0Ct6VvBPOoHrXjRcH) | [The Night Of You & Me](https://open.spotify.com/album/3wVzpdrpWDDac6g2Jgkenz) | 2:32 | 2024-08-12 |  |
 | [The One I Love](https://open.spotify.com/track/6C1e3Fl3BHzlRNZk6ubm6C) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU) | [The One I Love](https://open.spotify.com/album/7IWphRN26CJeRDB6BjnYBl) | 2:56 | 2022-08-18 | 2022-12-16 |
 | [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 | 2024-01-19 | 2024-05-28 |
 | [This Moment Here With You](https://open.spotify.com/track/6iSrr1z0D85A0hLKkjkCvH) | [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [This Moment Here With You](https://open.spotify.com/album/5utByaMBaKrdlbV7FrOtNX) | 5:15 | 2023-11-02 | 2024-04-05 |

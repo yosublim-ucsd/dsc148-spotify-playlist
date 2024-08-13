@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: AKRIILA, TAICHU
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,696 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,706 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 17 | [Hábitos](https://open.spotify.com/track/1eAU9My8o0abs1CJ2ZNaS1) | [KAIISITO](https://open.spotify.com/artist/5f4C4xS08FHKOQrtyx5YCh) | [Hábitos](https://open.spotify.com/album/19gaaklTA10p6WURLDq3lm) | 1:37 |
 | 18 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
 | 19 | [Sal de Playa](https://open.spotify.com/track/6GQ6LfdASmu0W3jSUVw9CQ) | [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn), [FRAN](https://open.spotify.com/artist/3kFlxPXZ31culc2QluDVLC) | [Sal de Playa](https://open.spotify.com/album/063zK3ZynuhImsK6oy3jnY) | 3:06 |
-| 20 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
+| 20 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 |
 | 21 | [Su Mirada](https://open.spotify.com/track/1MOaqR0xrws9MZ3Yf57f9C) | [Don Kila](https://open.spotify.com/artist/2Ccy32OrB8C3KTfwpD5nui), [ELOCK](https://open.spotify.com/artist/4Jm5DmScIBNV66mvwMx7t9), [Dobble](https://open.spotify.com/artist/2cUPc5nStERPfcSlK2z6ws), [K\-BO](https://open.spotify.com/artist/34lEWpozHuvD8b3cAQHnzQ) | [Su Mirada](https://open.spotify.com/album/30VzYxItBPxQndd3ImIPCX) | 4:00 |
-| 22 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 |
+| 22 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
 | 23 | [q macizo te valgo vrga](https://open.spotify.com/track/1ldKQrLChHxRskT8p5uvkh) | [Luis Mint](https://open.spotify.com/artist/1kGLVoWLKArhbWhADndMKu) | [q macizo te valgo vrga](https://open.spotify.com/album/167Ybro29cAmgra8lwmRJh) | 1:54 |
 | 24 | [FBI](https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [FBI](https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL) | 2:32 |
 | 25 | [FOTITOS X DM](https://open.spotify.com/track/68gGjajzOvXdkybl51Ia9T) | [Lexxx Torres](https://open.spotify.com/artist/5JUJKO2egZMEcwR3fB3u0w) | [FOTITOS X DM](https://open.spotify.com/album/53oeLJB3gVKrNY6zxSD6qX) | 3:03 |

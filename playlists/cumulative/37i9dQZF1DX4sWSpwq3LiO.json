@@ -748,7 +748,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 179253,
       "name": "A subtle joy",
       "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
@@ -8163,6 +8163,24 @@
     },
     {
       "album": {
+        "name": "Falling Rain",
+        "url": "https://open.spotify.com/album/7pd29NkHnAS6cOJDlNOSTc"
+      },
+      "artists": [
+        {
+          "name": "Matthew L. Fisher",
+          "url": "https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158062,
+      "name": "Falling Rain",
+      "url": "https://open.spotify.com/track/2ccbSytqRFWAl5WSFZbZmC"
+    },
+    {
+      "album": {
         "name": "Familiar Grounds",
         "url": "https://open.spotify.com/album/1mnr05Zq0I3QtYuxziqGjj"
       },
@@ -10922,7 +10940,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 122125,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8"
@@ -11592,7 +11610,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 192816,
       "name": "in a room full of you",
       "url": "https://open.spotify.com/track/0BZLKyvqypWnn5kfysaNPt"
@@ -19887,6 +19905,24 @@
     },
     {
       "album": {
+        "name": "Pine Scent",
+        "url": "https://open.spotify.com/album/3R5ljw2npySClY689m2qri"
+      },
+      "artists": [
+        {
+          "name": "Anthony Sullivan",
+          "url": "https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126401,
+      "name": "Pine Scent",
+      "url": "https://open.spotify.com/track/3qdrO68GxXO9YFzXeiYdZI"
+    },
+    {
+      "album": {
         "name": "Pines and Cedars",
         "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
       },
@@ -26934,6 +26970,24 @@
       "duration_ms": 111500,
       "name": "The stars are listening",
       "url": "https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP"
+    },
+    {
+      "album": {
+        "name": "The Story of Forever",
+        "url": "https://open.spotify.com/album/0HrNXsDWQIBntoUwfhjaVW"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223494,
+      "name": "The Story of Forever",
+      "url": "https://open.spotify.com/track/31qeus61ieZE3s9VU3OOPU"
     },
     {
       "album": {

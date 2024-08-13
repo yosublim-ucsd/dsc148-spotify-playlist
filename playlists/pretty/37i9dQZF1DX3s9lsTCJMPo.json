@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 112168,
+  "num_followers": 112214,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 1998",
-        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
-      },
-      "artists": [
-        {
-          "name": "Allison Hinds",
-          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "In The Mean Time",
-      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Pure Soca",
         "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 364066,
       "name": "This Is How",
       "url": "https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold 1998",
+        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
+      },
+      "artists": [
+        {
+          "name": "Allison Hinds",
+          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
+        }
+      ],
+      "duration_ms": 256826,
+      "name": "In The Mean Time",
+      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "The Mighty Duke Classic Collection 1986-1990",
-        "url": "https://open.spotify.com/album/5Xeh8aExQtQo9KCaTIa0Z1"
-      },
-      "artists": [
-        {
-          "name": "Mighty Duke",
-          "url": "https://open.spotify.com/artist/75ZMUQrdutA8Dn2vzO2mCx"
-        }
-      ],
-      "duration_ms": 410644,
-      "name": "Total Dis Order",
-      "url": "https://open.spotify.com/track/5lGu6LnHAbZJyVyVk9cD8U"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Calypsoca 2002",
         "url": "https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+        "name": "The Mighty Duke Classic Collection 1986-1990",
+        "url": "https://open.spotify.com/album/5Xeh8aExQtQo9KCaTIa0Z1"
       },
       "artists": [
         {
-          "name": "Spice & Co.",
-          "url": "https://open.spotify.com/artist/1Iz2YzkS477m4Jd3lvf7S9"
+          "name": "Mighty Duke",
+          "url": "https://open.spotify.com/artist/75ZMUQrdutA8Dn2vzO2mCx"
         }
       ],
-      "duration_ms": 260600,
-      "name": "Lift Ya Leg Up",
-      "url": "https://open.spotify.com/track/6pHBIt92RkPztpBh3PW2v1"
+      "duration_ms": 410644,
+      "name": "Total Dis Order",
+      "url": "https://open.spotify.com/track/5lGu6LnHAbZJyVyVk9cD8U"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -799,6 +783,22 @@
       "duration_ms": 438600,
       "name": "Doh Wine",
       "url": "https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Spice & Co.",
+          "url": "https://open.spotify.com/artist/1Iz2YzkS477m4Jd3lvf7S9"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "Lift Ya Leg Up",
+      "url": "https://open.spotify.com/track/6pHBIt92RkPztpBh3PW2v1"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Explosion",
-        "url": "https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P"
-      },
-      "artists": [
-        {
-          "name": "Explainer",
-          "url": "https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H"
-        }
-      ],
-      "duration_ms": 256306,
-      "name": "In the Party",
-      "url": "https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Greatest Hitz",
         "url": "https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 203933,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Explosion",
+        "url": "https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P"
+      },
+      "artists": [
+        {
+          "name": "Explainer",
+          "url": "https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H"
+        }
+      ],
+      "duration_ms": 256306,
+      "name": "In the Party",
+      "url": "https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY"
     },
     {
       "added_at": "2024-08-06 01:00:53",

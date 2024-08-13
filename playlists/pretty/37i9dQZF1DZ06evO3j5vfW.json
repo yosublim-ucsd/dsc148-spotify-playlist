@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71514,
+  "num_followers": 71516,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAAAGSXiLwHQWLASm/obTDlI+",
+  "snapshot_id": "Zrf/AAAAAADXaeQ77v4oPYxOTsVO8vdP",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 238636,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 245538,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 238636,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0"
     },
     {
       "added_at": null,
@@ -651,30 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite (Dr Phunk Remix)",
-        "url": "https://open.spotify.com/album/6AlAzaSbnPBDn3DbT8l1M0"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Amba Shepherd",
-          "url": "https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj"
-        },
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dynamite - Dr Phunk Remix",
-      "url": "https://open.spotify.com/track/4rgfKB6ujLdyuXgA9kAgcu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
         "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
       },
@@ -699,6 +675,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dynamite (Dr Phunk Remix)",
+        "url": "https://open.spotify.com/album/6AlAzaSbnPBDn3DbT8l1M0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Amba Shepherd",
+          "url": "https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Dynamite - Dr Phunk Remix",
+      "url": "https://open.spotify.com/track/4rgfKB6ujLdyuXgA9kAgcu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -715,26 +715,6 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Nighttrain",
-        "url": "https://open.spotify.com/album/4t5mdjfkRkRPwQmHmXRx1v"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Maitland",
-          "url": "https://open.spotify.com/artist/0Q73yVxsPyLsllS3ILTEZL"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "The Nighttrain",
-      "url": "https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2"
     },
     {
       "added_at": null,
@@ -759,6 +739,26 @@
       "duration_ms": 192380,
       "name": "Hero - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nighttrain",
+        "url": "https://open.spotify.com/album/4t5mdjfkRkRPwQmHmXRx1v"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Maitland",
+          "url": "https://open.spotify.com/artist/0Q73yVxsPyLsllS3ILTEZL"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "The Nighttrain",
+      "url": "https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/5NqGASv5yESq6lk0qkE2iI"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 190078,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4SlkCNvosh6H75Cx46Y4K0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
       },
@@ -987,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love",
-        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/5NqGASv5yESq6lk0qkE2iI"
       },
       "artists": [
         {
@@ -996,13 +976,13 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Almero",
-          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         }
       ],
-      "duration_ms": 191520,
-      "name": "So Much Love",
-      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
+      "duration_ms": 190078,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4SlkCNvosh6H75Cx46Y4K0"
     },
     {
       "added_at": null,
@@ -1047,6 +1027,26 @@
       "duration_ms": 198281,
       "name": "Be Somebody (feat. Kiiara)",
       "url": "https://open.spotify.com/track/0YnJVay1kDxknXcIigPSvn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Love",
+        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "So Much Love",
+      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
     },
     {
       "added_at": null,

@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 148536,
       "name": "Charcha",
       "url": "https://open.spotify.com/track/4vIbgvmbj6pFoLenVnzCdS"
@@ -3841,6 +3841,32 @@
     },
     {
       "album": {
+        "name": "Hisaab Kitab",
+        "url": "https://open.spotify.com/album/10nmf47rEVpfdUiUTAlkzh"
+      },
+      "artists": [
+        {
+          "name": "Deep Saab",
+          "url": "https://open.spotify.com/artist/6udnyEXo26gYI9Cx4G81Py"
+        },
+        {
+          "name": "Freak singh",
+          "url": "https://open.spotify.com/artist/4TP5x2vBuTodGUHXr8sPUv"
+        },
+        {
+          "name": "Mahla Kot",
+          "url": "https://open.spotify.com/artist/5kBnS6WReOcjbXrei12di6"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134666,
+      "name": "Hisaab Kitab",
+      "url": "https://open.spotify.com/track/2bL287Q0RTDyVpqMjZoSIe"
+    },
+    {
+      "album": {
         "name": "Hockiyan",
         "url": "https://open.spotify.com/album/7yvR42jkZ8CuVnPFI76ek2"
       },
@@ -4368,7 +4394,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 180307,
       "name": "Issa Flex",
       "url": "https://open.spotify.com/track/0chF5H6p4exI8iUO8OIBUU"
@@ -5333,6 +5359,28 @@
     },
     {
       "album": {
+        "name": "Laareyan",
+        "url": "https://open.spotify.com/album/5faxscqEzI3hb6gSSVVHdP"
+      },
+      "artists": [
+        {
+          "name": "Vicky sandhu",
+          "url": "https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "Laareyan",
+      "url": "https://open.spotify.com/track/1YGV9xfXsIF93WYyQzwcCZ"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -5904,7 +5952,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 163404,
       "name": "Mittran Di Tohr",
       "url": "https://open.spotify.com/track/3ZHt5EVUy4bIAWXjEJQKkf"
@@ -7069,6 +7117,32 @@
     },
     {
       "album": {
+        "name": "Pindan Aale",
+        "url": "https://open.spotify.com/album/7cw7zQh0pg48ooMQicWvrX"
+      },
+      "artists": [
+        {
+          "name": "Ekam Chanoli",
+          "url": "https://open.spotify.com/artist/2RR7qfIt6G3IOX0yp50aik"
+        },
+        {
+          "name": "Ruby Chatha",
+          "url": "https://open.spotify.com/artist/0FtxhV7S1fH5nB7aQXLNiN"
+        },
+        {
+          "name": "IRIS Music",
+          "url": "https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252903,
+      "name": "Pindan Aale",
+      "url": "https://open.spotify.com/track/5CyXssn2W8QqeXolleUepo"
+    },
+    {
+      "album": {
         "name": "PMCM",
         "url": "https://open.spotify.com/album/370ByUPt1uNGn2erT5vYdd"
       },
@@ -7632,6 +7706,32 @@
       "duration_ms": 197503,
       "name": "Sardaar Munde",
       "url": "https://open.spotify.com/track/3TK4iqlePK0Vqo5gV0EEQy"
+    },
+    {
+      "album": {
+        "name": "Sau Khake",
+        "url": "https://open.spotify.com/album/64AYljsLZ2J8o9LTsVpTzT"
+      },
+      "artists": [
+        {
+          "name": "Harf Cheema",
+          "url": "https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172509,
+      "name": "Sau Khake",
+      "url": "https://open.spotify.com/track/0OCzZFjrgk9TYbWpGfllvC"
     },
     {
       "album": {
@@ -8531,6 +8631,24 @@
     },
     {
       "album": {
+        "name": "Taur",
+        "url": "https://open.spotify.com/album/2v0Y3f6WyNTwOh8N4CGP4q"
+      },
+      "artists": [
+        {
+          "name": "Hunar Sidhu",
+          "url": "https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166051,
+      "name": "Taur",
+      "url": "https://open.spotify.com/track/5G3hG4zOr1GcFAMCkMswCv"
+    },
+    {
+      "album": {
         "name": "Taur Jattan Di",
         "url": "https://open.spotify.com/album/2bc7sswbaQOshk7bppuP4K"
       },
@@ -8616,7 +8734,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 181340,
       "name": "Thaa",
       "url": "https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb"
@@ -9476,7 +9594,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 135000,
       "name": "WHIPZ",
       "url": "https://open.spotify.com/track/6iXe41VKKp4qhUHkck3PLn"

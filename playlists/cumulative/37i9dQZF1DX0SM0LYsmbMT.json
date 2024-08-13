@@ -4344,7 +4344,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 132750,
       "name": "Astrologer",
       "url": "https://open.spotify.com/track/4lW2qgYegmaWKP6ynbL8M4"
@@ -4388,7 +4388,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 134594,
       "name": "At Eventide",
       "url": "https://open.spotify.com/track/19NGKR9VbsWUgf7RfAkm71"
@@ -9866,7 +9866,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 105542,
       "name": "Brightly",
       "url": "https://open.spotify.com/track/3yxSrw45IzjWwz70XqUV8j"
@@ -14876,7 +14876,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 104723,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/7m8QYu9Lu10U5LmovXIcev"
@@ -30676,7 +30676,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 132972,
       "name": "Hideouts",
       "url": "https://open.spotify.com/track/0VD1obEexRZeAfYMluwSox"
@@ -36420,7 +36420,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 133150,
       "name": "Journey To You",
       "url": "https://open.spotify.com/track/7Ii2mkafTtDriFhzwYAU7U"
@@ -48078,7 +48078,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 155076,
       "name": "My Ambience",
       "url": "https://open.spotify.com/track/12UTyr0aX6Wk5u4LHSbACd"
@@ -59314,7 +59314,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 148421,
       "name": "Repose",
       "url": "https://open.spotify.com/track/3bmPz3l9em8dqdwhpzb8Tf"
@@ -65210,7 +65210,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 155294,
       "name": "Smoked",
       "url": "https://open.spotify.com/track/0wND5DO78fUn6bavabLy43"
@@ -70528,7 +70528,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 110666,
       "name": "Sundial",
       "url": "https://open.spotify.com/track/1iTIlFTIOwLoNvMnzcIyVB"
@@ -81352,7 +81352,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 121558,
       "name": "way home",
       "url": "https://open.spotify.com/track/3qFu1A9mh9eG8xIGhYjOmR"
@@ -84630,6 +84630,28 @@
       "duration_ms": 88822,
       "name": "Zzz... Sleep Mode",
       "url": "https://open.spotify.com/track/4aFOWbkh2R4u4KLuGNIaTN"
+    },
+    {
+      "album": {
+        "name": "Z\u00e9phyr",
+        "url": "https://open.spotify.com/album/46q4CN0GLVszjmsFGn8AQH"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "Bastien Brison",
+          "url": "https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Z\u00e9phyr",
+      "url": "https://open.spotify.com/track/4xHgQMqsBVA4EvfEZsLi8F"
     },
     {
       "album": {

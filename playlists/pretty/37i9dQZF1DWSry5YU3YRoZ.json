@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 5470,
+  "num_followers": 5472,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "My Old Story",
-        "url": "https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL"
-      },
-      "artists": [
-        {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
-        }
-      ],
-      "duration_ms": 236080,
-      "name": "My Old Story",
-      "url": "https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
         "name": "Flowering",
         "url": "https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 208500,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
+        "name": "My Old Story",
+        "url": "https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "duration_ms": 236080,
+      "name": "My Old Story",
+      "url": "https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 155000,
-      "name": "In Other Words",
-      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
+      "duration_ms": 245000,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -451,38 +451,6 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 325066,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
         "name": "Do You Know My Heart",
         "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 201151,
       "name": "Do You Know My Heart (Feat. NUITNUIT)",
       "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 325066,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "I can't sleep",
-        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "I can't sleep",
-      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
         "name": "For my little one",
         "url": "https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198088,
       "name": "For my little one (with Jeon sohyeon)",
       "url": "https://open.spotify.com/track/6oDLxxBH9gOUiwQxoP0qlh"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
+        "name": "I can't sleep",
+        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "I can't sleep",
+      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "dearmybaby",
-        "url": "https://open.spotify.com/album/63sAdYCnKjCI5GcGKBPvoW"
-      },
-      "artists": [
-        {
-          "name": "saevom",
-          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
-        },
-        {
-          "name": "Kim Boo Kyung",
-          "url": "https://open.spotify.com/artist/6S3TceBtRpTrwT15bQZjYd"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "dearmybaby (with Kim Boo Kyung)",
-      "url": "https://open.spotify.com/track/0fI28Yupfm9UuUPUZ7UdF3"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/66jcalDfukwwC85IUvWwvZ"
       },
@@ -827,6 +807,22 @@
       "duration_ms": 197146,
       "name": "love letter",
       "url": "https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
+        "name": "Summer Inn.",
+        "url": "https://open.spotify.com/album/56dQ3wbqTPGuli9hJxhZy3"
+      },
+      "artists": [
+        {
+          "name": "JOONIL JUNG",
+          "url": "https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS"
+        }
+      ],
+      "duration_ms": 175582,
+      "name": "Summer christmas",
+      "url": "https://open.spotify.com/track/4g2OdIK8z0fKDQG3UOapi4"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

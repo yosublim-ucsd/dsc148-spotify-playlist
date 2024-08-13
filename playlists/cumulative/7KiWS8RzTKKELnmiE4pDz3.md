@@ -4,7 +4,7 @@
 
 > 
 
-738 songs - 1 day 11 hr 21 min
+739 songs - 1 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Counterfeit](https://open.spotify.com/track/0nKvSEAxTM0CeWllXv0Ay8) | [Spree Wilson](https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy) | [Counterfeit](https://open.spotify.com/album/40FEBKHuLtVrh8s06x3fek) | 3:36 | 2024-02-15 |  |
 | [Crawl](https://open.spotify.com/track/5wWW7oHGBRgVAaKEoGFvOf) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3F10bARKBtqRdRywrjwAti) | 3:50 | 2024-03-04 |  |
 | [Cray Cray](https://open.spotify.com/track/1jZn0LEE00LiubbExRchKM) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 2:25 | 2022-06-30 | 2023-05-09 |
+| [Cruise Ship](https://open.spotify.com/track/3C4FUqrrjuvWoHwsumWfIu) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [SUPER SLIMEY](https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm) | 2:46 | 2024-08-12 |  |
 | [Crunch Time](https://open.spotify.com/track/3xnbJVx4QqsOYip8Cn6OrN) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Crunch Time](https://open.spotify.com/album/6ONa9tLkPc0Unfj273RsAW) | 3:53 | 2023-02-06 | 2023-04-12 |
 | [Danny Phantom Feat\. Ken Car$on](https://open.spotify.com/track/2lOMj6dBqU13JOS5OglScH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Lite Fortunato](https://open.spotify.com/artist/1u6pg7JgRnNX5g91p6BD1w) | [Fatal Attraction](https://open.spotify.com/album/3UIHAda8Frxxmm1PnnGtgA) | 1:55 | 2023-01-07 | 2023-05-09 |
 | [DARK BROTHERHOOD \(feat\. Lil Baby\)](https://open.spotify.com/track/2q2HyvGHcDbIgHi9o5gpFQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:39 | 2023-01-20 | 2023-04-24 |

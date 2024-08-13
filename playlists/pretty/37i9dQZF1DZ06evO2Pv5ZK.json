@@ -1,12 +1,12 @@
 {
-  "description": "This is Vangelis. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 105925,
+  "description": "This is Vangelis\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 105938,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAAAJ7p4o7F3rN4NbBKlvCqZa",
+  "snapshot_id": "Zrf/AAAAAABlul9lesb/T5IqBE+tlRem",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariangela",
-        "url": "https://open.spotify.com/album/6ax0VRKI8Maf6OyNIKUX4J"
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
       "artists": [
-        {
-          "name": "Mariangela Celeste",
-          "url": "https://open.spotify.com/artist/2zuG4hA1xyS484HTQWx9Ih"
-        },
         {
           "name": "Vangelis",
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 221622,
-      "name": "My Dear Life",
-      "url": "https://open.spotify.com/track/52Wvl8ZDJKrmLYpnr9aT4C"
+      "duration_ms": 152906,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
     },
     {
       "added_at": null,
@@ -675,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+        "name": "Mariangela",
+        "url": "https://open.spotify.com/album/6ax0VRKI8Maf6OyNIKUX4J"
       },
       "artists": [
+        {
+          "name": "Mariangela Celeste",
+          "url": "https://open.spotify.com/artist/2zuG4hA1xyS484HTQWx9Ih"
+        },
         {
           "name": "Vangelis",
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 152906,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
+      "duration_ms": 221622,
+      "name": "My Dear Life",
+      "url": "https://open.spotify.com/track/52Wvl8ZDJKrmLYpnr9aT4C"
     },
     {
       "added_at": null,

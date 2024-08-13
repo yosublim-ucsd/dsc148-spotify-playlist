@@ -2,9 +2,9 @@
 
 ### [La French Touch](https://open.spotify.com/playlist/37i9dQZF1DX9cbNxuNYT3d)
 
-> Some of the biggest french touch classics! Cover: Daft Punk
+> Some of the biggest french touch classics! Cover: Air
 
-97 songs - 8 hr 2 min
+99 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amour](https://open.spotify.com/track/4ynBONkE7gUFvWJQyvMSyF) | [House Master](https://open.spotify.com/artist/4LkWmfnid2my4kgYMCr4Sv), [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Defected Presents House Masters: DJ Gregory & Julien Jabre](https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr) | 5:52 | 2022-01-11 |  |
 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 | 2022-01-11 |  |
 | [Baby I'm Yours](https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 3:35 | 2022-01-11 |  |
-| [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/track/3ovilBTxhYtCNeH92D0uu8) | [Bel Amour](https://open.spotify.com/artist/7eFsGtN5h45mGFpi75IjKo) | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/album/6TnjDo2gzEmY0KCMsyJWrA) | 5:24 | 2022-01-11 |  |
+| [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/track/3ovilBTxhYtCNeH92D0uu8) | [Bel Amour](https://open.spotify.com/artist/7eFsGtN5h45mGFpi75IjKo) | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/album/6TnjDo2gzEmY0KCMsyJWrA) | 5:24 | 2022-01-11 | 2024-08-13 |
 | [Breathe](https://open.spotify.com/track/46LwAOzg3UYvxiXyyaFedz) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF) | [genetic world](https://open.spotify.com/album/401DhjeJg1yVIfBN2A55JY) | 4:56 | 2022-01-11 |  |
 | [Breathe](https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:42 | 2022-07-10 | 2024-04-19 |
 | [Breathe](https://open.spotify.com/track/5Hkfzomvg0jyKDesjouvSK) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Chill Pop](https://open.spotify.com/album/5Fz1tkcLCNKWHluFgiC5P3) | 4:42 | 2022-09-02 | 2022-11-13 |
@@ -72,6 +72,7 @@
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2022-01-11 |  |
 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 | 2023-05-11 | 2023-08-26 |
 | [Peace and Tranquility to Earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [Listener's Digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 | 2022-01-11 |  |
+| [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2024-08-12 |  |
 | [Pocket Piano](https://open.spotify.com/track/2RlVZuLA03wfdcOgjSUoCu) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [ED REC Vol.3](https://open.spotify.com/album/06ouh4WbMgwgk5dbsiH8oV) | 4:33 | 2022-09-02 | 2022-11-13 |
 | [Pocket Piano](https://open.spotify.com/track/6XFzZqAuJKpbPvU2IFBvxK) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Pocket Piano](https://open.spotify.com/album/5Eqtp8axXrFe0R4VU8yPWm) | 4:33 | 2022-01-11 |  |
 | [Pocket Piano](https://open.spotify.com/track/4oyQ6vDzJMFYhmO9p5qrjE) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Pocket Piano](https://open.spotify.com/album/5dMTP9ZttPAmkLpgYR18Ax) | 4:34 | 2022-07-10 | 2024-04-19 |
@@ -83,7 +84,7 @@
 | [Que Sera](https://open.spotify.com/track/6TSDRzJGwbK9cajVbtqlPV) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [Tales of the Forgotten Melodies](https://open.spotify.com/album/15fB97DqVW1K7Jy1vpkYRZ) | 2:44 | 2022-01-11 |  |
 | [Roche](https://open.spotify.com/track/43clCmiuxugZg3Jdn6R26c) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA) | 5:01 | 2023-05-11 | 2023-08-26 |
 | [Sacré français](https://open.spotify.com/track/4wjj2eNX7iELAhCh4X40Dj) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Yellow Productions: 20 Years of Music](https://open.spotify.com/album/1VOyqL5y9mvfiWh8Gk1Ty5) | 4:54 | 2022-01-11 |  |
-| [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 | 2022-01-11 |  |
+| [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 | 2022-01-11 | 2024-08-13 |
 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/16KsLLVY50usR4urQYmSQP) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Boy At Night](https://open.spotify.com/album/7vKadQtVqp973qUGS9yPvA) | 3:38 | 2022-01-11 |  |
 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 3:38 | 2022-07-10 | 2024-04-19 |
 | [Smile \(feat\. Alex Gopher & Asher Roth\) \- Vocal Mix](https://open.spotify.com/track/4SpXkrjuPnyErjE504cnFE) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Smile \(feat\. Alex Gopher & Asher Roth\) \[Vocal Mix\]](https://open.spotify.com/album/2cjuifDt6OjHxPj3NINWje) | 3:26 | 2022-01-11 |  |
@@ -103,6 +104,7 @@
 | [Veridis Quo](https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:45 | 2023-05-11 | 2023-08-26 |
 | [Voyager](https://open.spotify.com/track/7cMFjxhbXBpOlais7KMF3j) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:47 | 2022-01-11 |  |
 | [Wake Up](https://open.spotify.com/track/6NV92uKrUBhgesDlgEjwYj) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [A bout de souffle \- EP](https://open.spotify.com/album/0mhVUCE794VwDpB3n9hF3G) | 7:38 | 2022-01-11 | 2023-05-12 |
+| [Walkman](https://open.spotify.com/track/3vPpGtZWKVevB6FtZc9Aiv) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Ross Ross Ross](https://open.spotify.com/album/341yoHp5PzASrdmqCug1wv) | 4:59 | 2024-08-12 |  |
 | [You Are My High \- 2024 Remastered](https://open.spotify.com/track/4HUMMFH06dIfzUG2ht1BJN) | [Demon](https://open.spotify.com/artist/4LiDDSfUo671okhAa6OSHY) | [Midnight Funk](https://open.spotify.com/album/3QiAIhmPhyyTWhFoqXexat) | 3:49 | 2022-01-11 |  |
 | [Zdarlight](https://open.spotify.com/track/2loA8ulmO8Ec34aaSqzimz) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 5:40 | 2022-01-11 | 2023-08-26 |
 

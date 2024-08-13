@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: Alex Izenberg
 
-1,015 songs - 2 day 21 hr 54 min
+1,016 songs - 2 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [Passed Tense \- DJ Shadow Future Passed Remix](https://open.spotify.com/track/4qvhaiO7G73mxH4YEjniE1) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense \(DJ Shadow Future Passed Remix\)](https://open.spotify.com/album/5agwUqU194EtMa7KUVRbM3) | 4:09 | 2023-11-15 | 2024-01-18 |
 | [Peach Fuzz](https://open.spotify.com/track/3vwt67u7F205Ajl7kDdLJc) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [i've seen a way](https://open.spotify.com/album/4oMlaPrzjAHEHh26MkR6DB) | 4:44 | 2023-05-24 | 2023-07-06 |
 | [Pearl](https://open.spotify.com/track/79tNL18U9ZQ2dKk2BxfNp6) | [Empty Country](https://open.spotify.com/artist/6EaW3JpcbKgWbfGCAD16oK) | [Pearl](https://open.spotify.com/album/2tOV9qwquwwAVFsd7mdEMg) | 5:42 | 2023-07-05 | 2023-08-31 |
+| [Peligro \(Danger\) \- Mariachi 2000 de Cutberto Perez Version](https://open.spotify.com/track/7iHf1VheSsGZbGRdZOxaDD) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI), [Mariachi 2000 de Cutberto Pérez](https://open.spotify.com/artist/2zuzlDjpiL13KS95cZGGjI) | [Reset Mariachi EP](https://open.spotify.com/album/0NCCLK5RqnGNMvRON2hDjf) | 5:17 | 2024-08-12 |  |
 | [People To The River! \- Warmduscher Remix](https://open.spotify.com/track/7Bi4Bes5dzT9lTdLG6lKl9) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU), [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR) | [Take The People To The River!](https://open.spotify.com/album/6N5FwgOqIqgb4SfOn4lQQk) | 6:54 | 2024-07-31 |  |
 | [Permeated Secrets](https://open.spotify.com/track/7FoFRgk1C8aIHTB0f8JZay) | [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Permeated Secrets](https://open.spotify.com/album/3rboAOUNobwIRB4f8i1hnJ) | 3:25 | 2022-07-13 | 2022-08-18 |
 | [Pharmacist](https://open.spotify.com/track/496m2W1Vjj7Ki5T9arlT1w) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/2FgR8jCa16HIBnkMb2crb6) | 2:04 | 2022-07-13 | 2022-08-25 |

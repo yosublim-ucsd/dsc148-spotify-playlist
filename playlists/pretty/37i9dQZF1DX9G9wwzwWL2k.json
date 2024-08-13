@@ -1,6 +1,6 @@
 {
   "description": "Lend a little drama to the occasion with this collection of truly epic classical music.",
-  "num_followers": 627063,
+  "num_followers": 627224,
   "original_name": "Epic Classical",
   "owner": {
     "name": "Spotify",
@@ -44,16 +44,16 @@
           "url": "https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze"
         },
         {
-          "name": "The Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
           "name": "Michael Tilson Thomas",
           "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
         },
         {
           "name": "The Cleveland Orchestra Chorus",
           "url": "https://open.spotify.com/artist/7i7P0aNPsW6hJVtHQUk2fm"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
         }
       ],
       "duration_ms": 144360,

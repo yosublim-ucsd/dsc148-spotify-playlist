@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Andreas Habibi, Panos Kiamos",
-  "num_followers": 31801,
+  "num_followers": 31815,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -591,30 +591,6 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
-        "name": "Fyllo Kai Ftero",
-        "url": "https://open.spotify.com/album/3zvUBesfwfXVJONg28SHx4"
-      },
-      "artists": [
-        {
-          "name": "Ilias Vrettos",
-          "url": "https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1"
-        },
-        {
-          "name": "KG",
-          "url": "https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj"
-        },
-        {
-          "name": "Teo Tzimas",
-          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
-        }
-      ],
-      "duration_ms": 182771,
-      "name": "Fyllo Kai Ftero",
-      "url": "https://open.spotify.com/track/2Yic3iwPa1h8DH4grovGcX"
-    },
-    {
-      "added_at": "2024-08-08 21:00:00",
-      "album": {
         "name": "Ti Sou Kanei",
         "url": "https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 199551,
       "name": "Ti Sou Kanei",
       "url": "https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "Fyllo Kai Ftero",
+        "url": "https://open.spotify.com/album/3zvUBesfwfXVJONg28SHx4"
+      },
+      "artists": [
+        {
+          "name": "Ilias Vrettos",
+          "url": "https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1"
+        },
+        {
+          "name": "KG",
+          "url": "https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "duration_ms": 182771,
+      "name": "Fyllo Kai Ftero",
+      "url": "https://open.spotify.com/track/2Yic3iwPa1h8DH4grovGcX"
     },
     {
       "added_at": "2024-08-08 21:00:00",

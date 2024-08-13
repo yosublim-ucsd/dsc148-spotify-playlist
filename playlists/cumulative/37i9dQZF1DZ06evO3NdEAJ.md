@@ -2,7 +2,7 @@
 
 ### [This Is La Fiera de Ojinaga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NdEAJ)
 
-> This is La Fiera de Ojinaga\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
+> This is La Fiera de Ojinaga\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 53 songs - 2 hr 38 min
 

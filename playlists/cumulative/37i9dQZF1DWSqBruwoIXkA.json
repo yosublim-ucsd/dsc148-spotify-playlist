@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 213866,
       "name": "Backfire",
       "url": "https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU"
@@ -10846,6 +10846,24 @@
       "duration_ms": 192887,
       "name": "Skinny Dipping - Acoustic",
       "url": "https://open.spotify.com/track/5pIjrMZ0B7hmuQBIG1hNQP"
+    },
+    {
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
     },
     {
       "album": {

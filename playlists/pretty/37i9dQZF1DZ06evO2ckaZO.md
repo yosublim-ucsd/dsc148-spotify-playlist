@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 
 ### [This Is Ice Spice](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ckaZO)
 
-> This is Ice Spice\. The essential tracks, all in one playlist.
+> This Is Ice Spice\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,180 likes - 31 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,248 likes - 31 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 | 30 | [Gimmie A Light](https://open.spotify.com/track/2OanF8uRWtK74rlBlz9VMI) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:06 |
 | 31 | [On The Radar \- Bonus](https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:04 |
 
-Snapshot ID: `ZratgAAAAAAKyxmlZAosFi7vVb6axl5V`
+Snapshot ID: `Zrf/AAAAAACXOZOixQ6ty3+Q7jjR0Wz6`

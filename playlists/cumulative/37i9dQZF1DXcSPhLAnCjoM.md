@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Ton regard" de Joseph Kamel est le Grand Hit de la semaine.
+> "La symphonie des éclairs" de Zaho de Sagazan est le Grand Hit de la semaine.
 
 168 songs - 8 hr 38 min
 

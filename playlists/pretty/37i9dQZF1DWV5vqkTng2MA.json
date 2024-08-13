@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 403895,
+  "num_followers": 404012,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Life and Life Only",
-        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "Go Down River",
-      "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "S.O.B.",
         "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 247426,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "Life and Life Only",
+        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "Go Down River",
+      "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -843,8 +843,8 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "No One Gets Out Alive",
-        "url": "https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0"
+        "name": "Have a Seat",
+        "url": "https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
         }
       ],
-      "duration_ms": 229289,
-      "name": "Under The Sun",
-      "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
+      "duration_ms": 231506,
+      "name": "For Your Consideration",
+      "url": "https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Will I Ever Know",
-      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "Hard Working Americans",
         "url": "https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN"
       },
@@ -923,8 +907,24 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Have a Seat",
-        "url": "https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ"
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Will I Ever Know",
+      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "No One Gets Out Alive",
+        "url": "https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
         }
       ],
-      "duration_ms": 231506,
-      "name": "For Your Consideration",
-      "url": "https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp"
+      "duration_ms": 229289,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
-        "url": "https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8"
+        "name": "Something In The Water",
+        "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
       },
       "artists": [
         {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        },
-        {
-          "name": "The McCrary Sisters",
-          "url": "https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq"
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
         }
       ],
-      "duration_ms": 215986,
-      "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
-      "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
+      "duration_ms": 203986,
+      "name": "Something In The Water",
+      "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -1067,6 +1063,26 @@
       "duration_ms": 220346,
       "name": "Riot In The Streets",
       "url": "https://open.spotify.com/track/0eLCcBWdvRM6yJSKMte1cj"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
+        "url": "https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8"
+      },
+      "artists": [
+        {
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+        },
+        {
+          "name": "The McCrary Sisters",
+          "url": "https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
+      "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -1187,6 +1203,22 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
+        "name": "Sister Andre",
+        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 185583,
+      "name": "Sister Andre",
+      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
         "name": "King of Bohemia",
         "url": "https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0"
       },
@@ -1199,22 +1231,6 @@
       "duration_ms": 218749,
       "name": "King of Bohemia",
       "url": "https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
-        "name": "Something In The Water",
-        "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Something In The Water",
-      "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -1295,22 +1311,6 @@
       "duration_ms": 185033,
       "name": "Washashore Cowgirl",
       "url": "https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
-        "name": "Sister Andre",
-        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 185583,
-      "name": "Sister Andre",
-      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Real Contender",
-        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Real Contender",
-      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "Painted Image",
         "url": "https://open.spotify.com/album/7hpHTYklBroOzIjIwXs4CI"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Love You Anyway",
-        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
+        "name": "Real Contender",
+        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
       },
       "artists": [
         {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 209360,
-      "name": "Better Broken",
-      "url": "https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs"
+      "duration_ms": 201933,
+      "name": "Real Contender",
+      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -1471,6 +1455,22 @@
       "duration_ms": 224266,
       "name": "Waterfallin'",
       "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "Love You Anyway",
+        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Better Broken",
+      "url": "https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs"
     }
   ],
   "unique_name": "the new retro",

@@ -382,10 +382,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 217322,
       "name": "Aceita o Fim",
       "url": "https://open.spotify.com/track/2N9UfStemkKeyn6MaLQk9e"
+    },
+    {
+      "album": {
+        "name": "Na Estrada, Vol. 1",
+        "url": "https://open.spotify.com/album/0cpORSyBdzogaRNk3WDwxR"
+      },
+      "artists": [
+        {
+          "name": "Rayan Barreto",
+          "url": "https://open.spotify.com/artist/3QhRw1jq90DoutnuZCC5hS"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217322,
+      "name": "Aceita o Fim",
+      "url": "https://open.spotify.com/track/6LEkRF8NUefgToo9VTz0dX"
     },
     {
       "album": {
@@ -614,7 +632,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 168777,
       "name": "Ali te ama",
       "url": "https://open.spotify.com/track/0FeV19uDTGI3Ib5A54WgZ0"
@@ -9866,10 +9884,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 163297,
       "name": "Vai Dando Perdido",
       "url": "https://open.spotify.com/track/4lzHKKP91M2orrSFrb3RxQ"
+    },
+    {
+      "album": {
+        "name": "Vai Dando Perdido",
+        "url": "https://open.spotify.com/album/4PH3YMv1ypHGt1NKEGyZTk"
+      },
+      "artists": [
+        {
+          "name": "Rayan Barreto",
+          "url": "https://open.spotify.com/artist/3QhRw1jq90DoutnuZCC5hS"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163297,
+      "name": "Vai Dando Perdido",
+      "url": "https://open.spotify.com/track/6MKo8rYs7I8oZM9HkyGk5o"
     },
     {
       "album": {

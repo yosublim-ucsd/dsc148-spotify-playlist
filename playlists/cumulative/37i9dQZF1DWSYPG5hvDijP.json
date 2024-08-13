@@ -4930,7 +4930,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 279528,
       "name": "MANTO",
       "url": "https://open.spotify.com/track/7Gu0awrdJUvfRNDoXIIAMF"
@@ -5462,6 +5462,32 @@
       "duration_ms": 171500,
       "name": "Naam Mera Young Nik",
       "url": "https://open.spotify.com/track/6cg3mBodjqwLr0zGmemoz2"
+    },
+    {
+      "album": {
+        "name": "Nacho Re",
+        "url": "https://open.spotify.com/album/5AbYRFnhbzaV5kx1Ew26SW"
+      },
+      "artists": [
+        {
+          "name": "Sickflip",
+          "url": "https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ"
+        },
+        {
+          "name": "Kaam Bhaari",
+          "url": "https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3"
+        },
+        {
+          "name": "Malishka",
+          "url": "https://open.spotify.com/artist/0C7UmcLQbwXiE9RSUmdo9W"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Nacho Re",
+      "url": "https://open.spotify.com/track/5QZi9mzhAz2VCttIgKDMBa"
     },
     {
       "album": {

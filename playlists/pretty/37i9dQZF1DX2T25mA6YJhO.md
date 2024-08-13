@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Barder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,525 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,529 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 7 | [Cardio y caladas](https://open.spotify.com/track/7N32rP2LvQh0IJw9qRmbCe) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO), [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [Cardio y caladas](https://open.spotify.com/album/5Ovc1AHGFdDn3m03phgIHU) | 2:29 |
 | 8 | [Bailaremos](https://open.spotify.com/track/6NKepMBqaJaR2DLpZgROgY) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Calle Liberación](https://open.spotify.com/album/4CpKVhjbOlHsTu9kblFMMQ) | 3:44 |
 | 9 | [Joderse La Vida](https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Joderse La Vida](https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7) | 2:45 |
-| 10 | [¿Quién Quiere Más?](https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [¿Quién Quiere Más?](https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj) | 3:13 |
-| 11 | [Momento PULP](https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx), [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [Momento PULP](https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U) | 2:12 |
+| 10 | [Silla de Mimbre](https://open.spotify.com/track/6ycJdHZMueNIA3ZM1rvBwB) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Silla de Mimbre](https://open.spotify.com/album/00KBXaGYuIZmX4KprFEam8) | 3:36 |
+| 11 | [¿Quién Quiere Más?](https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [¿Quién Quiere Más?](https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj) | 3:13 |
 | 12 | [La edad que tengo](https://open.spotify.com/track/365MK5X3FgXaW7IWmNzNV5) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [La edad que tengo](https://open.spotify.com/album/4K6OaFr9gVOzPPBgjvyVn4) | 2:54 |
 | 13 | [La Vida Cañón](https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 2:32 |
 | 14 | [El Entusiasmo](https://open.spotify.com/track/5RxNfmqP8XBkOJKn7lwp12) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [El Entusiasmo](https://open.spotify.com/album/5guyB3dpp9juIda0gs3wzO) | 2:58 |
 | 15 | [Decidí Desaparecer](https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Decidí Desaparecer](https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO) | 2:43 |
-| 16 | [Silla de Mimbre](https://open.spotify.com/track/6ycJdHZMueNIA3ZM1rvBwB) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Silla de Mimbre](https://open.spotify.com/album/00KBXaGYuIZmX4KprFEam8) | 3:36 |
+| 16 | [Momento PULP](https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx), [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [Momento PULP](https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U) | 2:12 |
 | 17 | [Por si te pierdes](https://open.spotify.com/track/3fCHni7hNDvWU66HdUp2q6) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [Por si te pierdes](https://open.spotify.com/album/28HsLIkRmdYm1C0sW1kgoE) | 3:08 |
 | 18 | [La matanza de Texas](https://open.spotify.com/track/4SgXWK4j9rKd1gVk1Ul0WY) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa), [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO), [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [La matanza de Texas](https://open.spotify.com/album/1HOwpCbsknfSwH6ZBFM6WR) | 3:00 |
 | 19 | [Arder en Fuego](https://open.spotify.com/track/3JHcfsP9SZP77qZ7ueGbuk) | [Ojos Pardos](https://open.spotify.com/artist/60KgmRLqSZArlIE22XoBgb) | [Arder en Fuego](https://open.spotify.com/album/79Q52YHjjoTEgzpiOrA2ZB) | 3:50 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 75 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 |
 | 76 | [Madrid Nos Pertenece](https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [Madrid Nos Pertenece](https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6) | 3:41 |
 | 77 | [Patrón de las causas imposibles](https://open.spotify.com/track/6opK17p2ZFqidUkLqlsCl4) | [María Jesús Y Su Hijo](https://open.spotify.com/artist/6u6tjnHJ5CGecNVi2Wfwx9) | [Patrón de las causas imposibles](https://open.spotify.com/album/2fiz7SgjkMp3JNVDCV0tVN) | 5:29 |
-| 78 | [Sin Más](https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Sin Más](https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ) | 3:18 |
-| 79 | [La Carretera Nocturna](https://open.spotify.com/track/1PJpxElpWQucgRdV8voVRA) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [La Carretera Nocturna](https://open.spotify.com/album/0y63H2mHzKyQJnTR8sGkD9) | 3:24 |
+| 78 | [La Carretera Nocturna](https://open.spotify.com/track/1PJpxElpWQucgRdV8voVRA) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [La Carretera Nocturna](https://open.spotify.com/album/0y63H2mHzKyQJnTR8sGkD9) | 3:24 |
+| 79 | [Sin Más](https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Sin Más](https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ) | 3:18 |
 | 80 | [Hago lo que quiero](https://open.spotify.com/track/3ovVn2nRqhzrIIUJsUnDl8) | [Los Vinagres](https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS) | [Hago lo que quiero](https://open.spotify.com/album/6tGbYLMLltcvrohfxWayvp) | 2:52 |
 | 81 | [p0pper](https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [p0pper](https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl) | 3:33 |
 | 82 | [Nuestro Mejor Momento](https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Reconciliación](https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA) | 2:34 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 91 | [Si Piensas en Mí](https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Si Piensas En Mí](https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ) | 4:04 |
 | 92 | [La Bachata](https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B) | [Santa Engracia](https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF) | [La Bachata](https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt) | 3:01 |
 | 93 | [Apuntando a tu sien](https://open.spotify.com/track/54f5xQWeTgoZ9T28xS3no1) | [Mi Capitán](https://open.spotify.com/artist/5IFjdKpLNCRPCRxdeXlFY9) | [Como Ladrones Sorprendidos](https://open.spotify.com/album/515qU2fMggG3p2WD50Axhs) | 3:26 |
-| 94 | [Formigal](https://open.spotify.com/track/24HJLq3JqAZYEgNINk7kiJ) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Formigal](https://open.spotify.com/album/31ppFEmznUBBKpXRkcERws) | 1:54 |
-| 95 | [agosto](https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX) | [garbí](https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM) | [agosto](https://open.spotify.com/album/0eIk5M7jExLB3SLpmgitMz) | 3:28 |
+| 94 | [agosto](https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX) | [garbí](https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM) | [agosto](https://open.spotify.com/album/0eIk5M7jExLB3SLpmgitMz) | 3:28 |
+| 95 | [Formigal](https://open.spotify.com/track/24HJLq3JqAZYEgNINk7kiJ) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Formigal](https://open.spotify.com/album/31ppFEmznUBBKpXRkcERws) | 1:54 |
 | 96 | [Fin de Semana](https://open.spotify.com/track/5yxMN1xhn6zH2HCjOEecGH) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Fin de Semana](https://open.spotify.com/album/7eqUFhcdJMROi1LdAq73gK) | 3:47 |
 | 97 | [Los Muertos](https://open.spotify.com/track/0DofQePTXespQrIKQfLXuc) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Bohemian Rhapsody 2](https://open.spotify.com/album/1WS2BvZ4C1tt7s7PTYYx8e) | 2:50 |
 | 98 | [Deconstrucción](https://open.spotify.com/track/3Idd0RLLacT6ZRcM4Aj0KP) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Deconstrucción](https://open.spotify.com/album/5Zpuijy5w6Pxbe3IrCn0wU) | 4:40 |

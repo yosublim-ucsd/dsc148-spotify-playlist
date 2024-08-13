@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-201 songs - 9 hr 4 min
+203 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Eyes Wide Open](https://open.spotify.com/track/3o0nYjICwbD7jKROK5JEge) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Eyes Wide Open](https://open.spotify.com/album/1etlxLTVSydAOiaLSAPX0m) | 2:37 | 2022-12-06 |  |
 | [F Sharp For You](https://open.spotify.com/track/2J6iktYw8vLp2QzxffSNxV) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [F Sharp For You](https://open.spotify.com/album/5X3DST59ra3NlevOvLCyyz) | 2:14 | 2022-08-26 | 2022-09-17 |
 | [F Sharp For You](https://open.spotify.com/track/5W0szJ8oYW28sGOtfUvYij) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Pieces For Claudia](https://open.spotify.com/album/50FfwgvW88CLcZUsRluNYD) | 2:14 | 2022-09-12 |  |
+| [Falling Rain](https://open.spotify.com/track/2ccbSytqRFWAl5WSFZbZmC) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Falling Rain](https://open.spotify.com/album/7pd29NkHnAS6cOJDlNOSTc) | 2:38 | 2024-08-12 |  |
 | [Felt Improv No\. 4](https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 4](https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4) | 2:05 | 2023-09-11 |  |
 | [Fidèle](https://open.spotify.com/track/49DsHmqQ3x4rz7BZTaHoks) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Veluwe Suite](https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB) | 3:23 | 2023-01-26 | 2024-04-19 |
 | [Fidèle](https://open.spotify.com/track/6yxunWDpHjHw33lhfMCdha) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Fidèle](https://open.spotify.com/album/6mMQd8GdvPdq6QDScKV3PP) | 3:23 | 2022-08-03 |  |
@@ -102,7 +103,7 @@
 | [Last Waltz](https://open.spotify.com/track/1LJHL7STYRtnth0VHkANFf) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [Last Waltz](https://open.spotify.com/album/3NyiAsTrnAgIWmWyw60mgb) | 2:34 | 2022-08-03 |  |
 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 | 2023-09-26 | 2024-04-19 |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-08-03 | 2023-11-03 |
-| [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 | 2024-04-03 |  |
+| [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 | 2024-04-03 | 2024-08-13 |
 | [Le monde d'après](https://open.spotify.com/track/2LogPLwx0fU2tmZAWeFt51) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Le monde d'après](https://open.spotify.com/album/6901ySIfnXwtujC3E67JuE) | 3:27 | 2022-08-03 | 2023-06-21 |
 | [Leiting](https://open.spotify.com/track/1PX6YVAs4nULKjBpuFSrUR) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Leiting](https://open.spotify.com/album/0E0k45Lz3OaMJSwtI5cPSd) | 2:38 | 2022-08-03 |  |
 | [Letters](https://open.spotify.com/track/4wNj7wubtz1KnGaFg2VwcU) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Invisible EP](https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO) | 2:01 | 2022-08-03 |  |
@@ -139,6 +140,7 @@
 | [Passagio](https://open.spotify.com/track/3vWbxJ46hMwj3XsiEnKH19) | [Luisa Leonetti](https://open.spotify.com/artist/5qpXgVpKpeKe5j4ENTQOwq) | [Passagio](https://open.spotify.com/album/3y5HHPF2VgKt5GOEKEIFzO) | 2:46 | 2023-09-11 |  |
 | [Persistence Of Lost Time](https://open.spotify.com/track/1tTWdpNyr5tlQpmRSkkWOe) | [How It All Ends](https://open.spotify.com/artist/78nAIN5HSq9vvW2NTsnv7j), [Arthur Baptista Galvão](https://open.spotify.com/artist/1Kf5YJ4yaDOSOBbkkzaQ2V) | [Persistence Of Lost Time](https://open.spotify.com/album/43inTGMMSmUjfbWzJ0rBzd) | 1:48 | 2022-08-03 |  |
 | [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 | 2022-09-12 |  |
+| [Pine Scent](https://open.spotify.com/track/3qdrO68GxXO9YFzXeiYdZI) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [Pine Scent](https://open.spotify.com/album/3R5ljw2npySClY689m2qri) | 2:06 | 2024-08-12 |  |
 | [Plus Profond](https://open.spotify.com/track/7tEmaNEsEkAsYIcOvnPaa9) | [Nore April](https://open.spotify.com/artist/1kG5JVjVfcLdz5E97ZatfM) | [Plus Profond](https://open.spotify.com/album/7GksUrM626mfLSL5NFfFEY) | 1:54 | 2022-08-03 |  |
 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 | 2023-01-26 |  |
 | [Poets night](https://open.spotify.com/track/3tBaAnnYtDovnTsohJxGby) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Poets night](https://open.spotify.com/album/0WtuAtlDonPKHRCRCTJE7a) | 3:22 | 2022-08-29 |  |
@@ -196,7 +198,7 @@
 | [Tournon](https://open.spotify.com/track/7eKZVHMsyq7BtPJA2O2xvE) | [Pazice](https://open.spotify.com/artist/5so0FZWVgBOL7MDkSueVCj) | [Tournon](https://open.spotify.com/album/0Wk3Fd60WAcDGFZf5esowg) | 2:09 | 2022-08-03 |  |
 | [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2023-04-05 |  |
 | [Trzymaj Mnie](https://open.spotify.com/track/75aSMYjVgAcknIrIJ9JEvA) | [Zygmunt Czarnecki](https://open.spotify.com/artist/1uKeHKFusnucKrl8BLDoXM) | [Trzymaj Mnie](https://open.spotify.com/album/6jDUMlLOOr5BU6O42NV8Ip) | 2:06 | 2022-08-03 |  |
-| [Tuesday](https://open.spotify.com/track/3TXgtWFkb8MlIqtzBtyI5D) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Hertz](https://open.spotify.com/album/7jmsYzJVkPjYDhsesqBqHD) | 3:11 | 2022-08-03 |  |
+| [Tuesday](https://open.spotify.com/track/3TXgtWFkb8MlIqtzBtyI5D) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Hertz](https://open.spotify.com/album/7jmsYzJVkPjYDhsesqBqHD) | 3:11 | 2022-08-03 | 2024-08-13 |
 | [Un esprit vide](https://open.spotify.com/track/70hhkbMZsG1d0sEwMPzMfk) | [Chordialilies](https://open.spotify.com/artist/52Zsdd1lO36Y5DdJ19YVwp) | [Un esprit vide](https://open.spotify.com/album/28xxY2jYebRL2x24Qa3jTE) | 3:03 | 2022-12-06 |  |
 | [Under a tree](https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Under a tree](https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn) | 2:18 | 2023-09-26 |  |
 | [vierde moment](https://open.spotify.com/track/1IqWZERE8ZOVtgE3fmekFv) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0wVbGonjdCw4QHcJ4HnRRM) | 3:21 | 2022-08-03 | 2024-04-19 |

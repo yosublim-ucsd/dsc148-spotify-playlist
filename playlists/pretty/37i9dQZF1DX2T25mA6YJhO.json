@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Barder.",
-  "num_followers": 19525,
+  "num_followers": 19529,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Silla de Mimbre",
+        "url": "https://open.spotify.com/album/00KBXaGYuIZmX4KprFEam8"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "duration_ms": 216445,
+      "name": "Silla de Mimbre",
+      "url": "https://open.spotify.com/track/6ycJdHZMueNIA3ZM1rvBwB"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
         "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
       },
@@ -183,26 +199,6 @@
       "duration_ms": 193423,
       "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
       "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Momento PULP",
-        "url": "https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U"
-      },
-      "artists": [
-        {
-          "name": "Mediapunta",
-          "url": "https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx"
-        },
-        {
-          "name": "Sidonie",
-          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
-        }
-      ],
-      "duration_ms": 132980,
-      "name": "Momento PULP",
-      "url": "https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -271,18 +267,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Silla de Mimbre",
-        "url": "https://open.spotify.com/album/00KBXaGYuIZmX4KprFEam8"
+        "name": "Momento PULP",
+        "url": "https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U"
       },
       "artists": [
         {
-          "name": "Ultraligera",
-          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+          "name": "Mediapunta",
+          "url": "https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx"
+        },
+        {
+          "name": "Sidonie",
+          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
         }
       ],
-      "duration_ms": 216445,
-      "name": "Silla de Mimbre",
-      "url": "https://open.spotify.com/track/6ycJdHZMueNIA3ZM1rvBwB"
+      "duration_ms": 132980,
+      "name": "Momento PULP",
+      "url": "https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Sin M\u00e1s",
-        "url": "https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ"
-      },
-      "artists": [
-        {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
-        }
-      ],
-      "duration_ms": 198958,
-      "name": "Sin M\u00e1s",
-      "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "La Carretera Nocturna",
         "url": "https://open.spotify.com/album/0y63H2mHzKyQJnTR8sGkD9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 204173,
       "name": "La Carretera Nocturna",
       "url": "https://open.spotify.com/track/1PJpxElpWQucgRdV8voVRA"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Sin M\u00e1s",
+        "url": "https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ"
+      },
+      "artists": [
+        {
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+        }
+      ],
+      "duration_ms": 198958,
+      "name": "Sin M\u00e1s",
+      "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Formigal",
-        "url": "https://open.spotify.com/album/31ppFEmznUBBKpXRkcERws"
-      },
-      "artists": [
-        {
-          "name": "Toldos Verdes",
-          "url": "https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw"
-        }
-      ],
-      "duration_ms": 114276,
-      "name": "Formigal",
-      "url": "https://open.spotify.com/track/24HJLq3JqAZYEgNINk7kiJ"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "agosto",
         "url": "https://open.spotify.com/album/0eIk5M7jExLB3SLpmgitMz"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 208862,
       "name": "agosto",
       "url": "https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Formigal",
+        "url": "https://open.spotify.com/album/31ppFEmznUBBKpXRkcERws"
+      },
+      "artists": [
+        {
+          "name": "Toldos Verdes",
+          "url": "https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw"
+        }
+      ],
+      "duration_ms": 114276,
+      "name": "Formigal",
+      "url": "https://open.spotify.com/track/24HJLq3JqAZYEgNINk7kiJ"
     },
     {
       "added_at": "2024-08-08 22:00:00",

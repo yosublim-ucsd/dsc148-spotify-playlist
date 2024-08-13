@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 
 > Floor fillers and big streamers of 2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,271 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,343 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 | 26 | [Five More Hours](https://open.spotify.com/track/6YwLgicpvVuMt1eE2OldwQ) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Five More Hours](https://open.spotify.com/album/1j4y4oErsQ2dIiZXClg1Zc) | 3:31 |
 | 27 | [Peanut Butter Jelly](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:23 |
 | 28 | [For A Better Day](https://open.spotify.com/track/7kbTZWt7DnzIzbkyzFE1PW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:26 |
-| 29 | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/track/5M9jOReAKGZ2AttVefFjTY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/album/7e4eCJT5ON1FpJD5Si341e) | 3:43 |
-| 30 | [Catch & Release \- Deepend Remix](https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Catch & Release](https://open.spotify.com/album/3GXs3mom2sIaz3FMjPTrxv) | 3:16 |
+| 29 | [Catch & Release \- Deepend Remix](https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Catch & Release](https://open.spotify.com/album/3GXs3mom2sIaz3FMjPTrxv) | 3:16 |
+| 30 | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/track/5M9jOReAKGZ2AttVefFjTY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/album/7e4eCJT5ON1FpJD5Si341e) | 3:43 |
 | 31 | [Magnets](https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 3:19 |
 | 32 | [Ghost Town](https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:28 |
 | 33 | [Stay \(feat\. Maty Noyes\)](https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:59 |

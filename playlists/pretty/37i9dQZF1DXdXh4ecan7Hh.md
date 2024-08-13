@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: mgk at Spotify House
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,267 likes - 78 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,285 likes - 78 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

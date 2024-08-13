@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Natalia Lacunza.",
-  "num_followers": 194670,
+  "num_followers": 194672,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Y SI SE ABREN LOS CIELOS",
-        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Y SI SE ABREN LOS CIELOS",
-      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Con otra cabeza",
         "url": "https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 149352,
       "name": "Con otra cabeza",
       "url": "https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Y SI SE ABREN LOS CIELOS",
+        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Y SI SE ABREN LOS CIELOS",
+      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Quiero Hacer M\u00fasica",
-        "url": "https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc"
-      },
-      "artists": [
-        {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 200437,
-      "name": "Quiero Hacer M\u00fasica",
-      "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "So payaso",
         "url": "https://open.spotify.com/album/1SJJG2C7MHBWA3FQyHrLXZ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 186040,
       "name": "So payaso",
       "url": "https://open.spotify.com/track/3OSIzpGBWIcygaZNcp099X"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Quiero Hacer M\u00fasica",
+        "url": "https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc"
+      },
+      "artists": [
+        {
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "duration_ms": 200437,
+      "name": "Quiero Hacer M\u00fasica",
+      "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Espera",
+        "url": "https://open.spotify.com/album/7HSbL3TYnAZnOSNGHHs4IT"
+      },
+      "artists": [
+        {
+          "name": "Carmen 113",
+          "url": "https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe"
+        },
+        {
+          "name": "Modelo",
+          "url": "https://open.spotify.com/artist/3xcGSLQmwbzsQMHqjmJlht"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Espera",
+      "url": "https://open.spotify.com/track/1UqwvHN3GzqQ8E1JRQZ5w6"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "HELLO PITI",
         "url": "https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p"
       },
@@ -967,22 +987,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Espera",
-        "url": "https://open.spotify.com/album/7HSbL3TYnAZnOSNGHHs4IT"
+        "name": "Lo Que Llevo Dentro",
+        "url": "https://open.spotify.com/album/3K7wtLyCYZ65eGkZpfKZal"
       },
       "artists": [
         {
-          "name": "Carmen 113",
-          "url": "https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe"
-        },
-        {
-          "name": "Modelo",
-          "url": "https://open.spotify.com/artist/3xcGSLQmwbzsQMHqjmJlht"
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Espera",
-      "url": "https://open.spotify.com/track/1UqwvHN3GzqQ8E1JRQZ5w6"
+      "duration_ms": 267198,
+      "name": "Lo Que Llevo Dentro",
+      "url": "https://open.spotify.com/track/33k1gWL9jqQVDhjd515rhM"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1015,22 +1031,6 @@
       "duration_ms": 218779,
       "name": "Al infierno",
       "url": "https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Lo Que Llevo Dentro",
-        "url": "https://open.spotify.com/album/3K7wtLyCYZ65eGkZpfKZal"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 267198,
-      "name": "Lo Que Llevo Dentro",
-      "url": "https://open.spotify.com/track/33k1gWL9jqQVDhjd515rhM"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Sin Morir Espero",
-        "url": "https://open.spotify.com/album/27KNT9vF7Z74yjcAIJMZF7"
-      },
-      "artists": [
-        {
-          "name": "Alba Morena",
-          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
-        }
-      ],
-      "duration_ms": 159925,
-      "name": "Sin Morir Espero",
-      "url": "https://open.spotify.com/track/54OlnFeQ7GvVciKv7yUavv"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Acostumbrarme",
         "url": "https://open.spotify.com/album/5MyUQPlTNw14prHdnhRKaS"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 143989,
       "name": "Acostumbrarme",
       "url": "https://open.spotify.com/track/38dLVGQiAwEXCHK69UVVbZ"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Sin Morir Espero",
+        "url": "https://open.spotify.com/album/27KNT9vF7Z74yjcAIJMZF7"
+      },
+      "artists": [
+        {
+          "name": "Alba Morena",
+          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
+        }
+      ],
+      "duration_ms": 159925,
+      "name": "Sin Morir Espero",
+      "url": "https://open.spotify.com/track/54OlnFeQ7GvVciKv7yUavv"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "No Te Voy a Besar",
-        "url": "https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp"
-      },
-      "artists": [
-        {
-          "name": "Venga, Bea",
-          "url": "https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM"
-        },
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "No Te Voy a Besar",
-      "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Ez Nintzen Ni Izango (Esa No Ser\u00eda Yo)",
         "url": "https://open.spotify.com/album/2eIfbE9QY4rESyCsu3JFUu"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 203893,
       "name": "Ez Nintzen Ni Izango (Esa No Ser\u00eda Yo)",
       "url": "https://open.spotify.com/track/1LeD6LjLKzEb4Zo7l48Pw5"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "No Te Voy a Besar",
+        "url": "https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp"
+      },
+      "artists": [
+        {
+          "name": "Venga, Bea",
+          "url": "https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM"
+        },
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "No Te Voy a Besar",
+      "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "KORAJE",
-        "url": "https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE"
-      },
-      "artists": [
-        {
-          "name": "Malva Vela",
-          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
-        }
-      ],
-      "duration_ms": 226549,
-      "name": "KORAJE",
-      "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Bomba de humo",
         "url": "https://open.spotify.com/album/06BlOopUvZxtb5vcRGAejC"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 192516,
       "name": "Cre\u00ed que era eterno",
       "url": "https://open.spotify.com/track/0Tg0GZmGnB7nozNRy8OMxX"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "KORAJE",
+        "url": "https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE"
+      },
+      "artists": [
+        {
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        }
+      ],
+      "duration_ms": 226549,
+      "name": "KORAJE",
+      "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/2SLOxCeXdq9A8HQtUcq6IX"
-      },
-      "artists": [
-        {
-          "name": "Vezinos",
-          "url": "https://open.spotify.com/artist/3zDTzz45AQFJEOl3OhH8Xp"
-        }
-      ],
-      "duration_ms": 221959,
-      "name": "Buckingham",
-      "url": "https://open.spotify.com/track/3tnZP7bdapECC5IZT8bwtR"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
         "url": "https://open.spotify.com/album/3aYPdrenPlKJpMcE6lUNFH"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 222755,
       "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
       "url": "https://open.spotify.com/track/73oQIXIzoLHl9A3ra8GIIo"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/2SLOxCeXdq9A8HQtUcq6IX"
+      },
+      "artists": [
+        {
+          "name": "Vezinos",
+          "url": "https://open.spotify.com/artist/3zDTzz45AQFJEOl3OhH8Xp"
+        }
+      ],
+      "duration_ms": 221959,
+      "name": "Buckingham",
+      "url": "https://open.spotify.com/track/3tnZP7bdapECC5IZT8bwtR"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Medias Brillantes",
-        "url": "https://open.spotify.com/album/5BcPmB0HTXYGqXIPr95INE"
+        "name": "Ajedrez",
+        "url": "https://open.spotify.com/album/6ig55uXsdJVqspmTyw2ibt"
       },
       "artists": [
         {
-          "name": "Cabiria",
-          "url": "https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC"
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
         }
       ],
-      "duration_ms": 215598,
-      "name": "Medias Brillantes",
-      "url": "https://open.spotify.com/track/5bGCyURMcLEhoijhaz10qw"
+      "duration_ms": 202413,
+      "name": "Ajedrez",
+      "url": "https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04"
     }
   ],
   "unique_name": "Radar Indie",

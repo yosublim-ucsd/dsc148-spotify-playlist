@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 33171,
+  "num_followers": 33187,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Sonido Digital Bailables",
-        "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
+        "name": "Historia Musical de la Sonora Cordobesa",
+        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
       },
       "artists": [
         {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        },
-        {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+          "name": "La Sonora Cordobesa",
+          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
+      "duration_ms": 160606,
+      "name": "Bocachico Sinuano",
+      "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1435,18 +1431,38 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Cordobesa",
-        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
+        "name": "Sonido Digital Bailables",
+        "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
       },
       "artists": [
         {
-          "name": "La Sonora Cordobesa",
-          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
         }
       ],
-      "duration_ms": 160606,
-      "name": "Bocachico Sinuano",
-      "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
+      "duration_ms": 209266,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
+      },
+      "artists": [
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Charanga Campesina",
+      "url": "https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1467,22 +1483,6 @@
       "duration_ms": 376372,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/5EPQzXqUhEOhLW2aRXxAei"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
-      },
-      "artists": [
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Charanga Campesina",
-      "url": "https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 248206,
+      "name": "La Marcha del Pato",
+      "url": "https://open.spotify.com/track/7kvgk6wxb1o9sB2Vkr7UQd"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
         "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 342959,
       "name": "Qui\u00e9reme, Qui\u00e9reme",
       "url": "https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 248206,
-      "name": "La Marcha del Pato",
-      "url": "https://open.spotify.com/track/7kvgk6wxb1o9sB2Vkr7UQd"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 148536,
+      "name": "El Eco y el Carretero",
+      "url": "https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de Lisandro Meza: 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/4pdipU1bAg54lJjG8i0bTo"
       },
@@ -1623,26 +1639,6 @@
       "duration_ms": 149996,
       "name": "Cumbia Indigena",
       "url": "https://open.spotify.com/track/6ldMNUXJpdxFcPecYTHNU5"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de 14 Vallenatos Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U"
-      },
-      "artists": [
-        {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "La Nueva Generaci\u00f3n",
-          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
-        }
-      ],
-      "duration_ms": 278691,
-      "name": "Muero por Verla",
-      "url": "https://open.spotify.com/track/2CIWM6twdjSFIsw2LSVKyc"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1683,18 +1679,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
+        "name": "Historia Musical de 14 Vallenatos Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U"
       },
       "artists": [
         {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "La Nueva Generaci\u00f3n",
+          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
         }
       ],
-      "duration_ms": 148536,
-      "name": "El Eco y el Carretero",
-      "url": "https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl"
+      "duration_ms": 278691,
+      "name": "Muero por Verla",
+      "url": "https://open.spotify.com/track/2CIWM6twdjSFIsw2LSVKyc"
     },
     {
       "added_at": "2024-07-12 23:11:55",

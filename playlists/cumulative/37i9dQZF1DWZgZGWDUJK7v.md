@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: This is a Campus Romance Series\(대충 캠퍼스로맨스임\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-210 songs - 12 hr 47 min
+211 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [I still miss you](https://open.spotify.com/track/707JA03fZSI9FJGSzenyMf) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [Coffee Fox Kim Sam Wol OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/2E2XzUwbkkjeOkCVIScLmO) | 3:57 | 2022-10-18 | 2023-12-11 |
 | [I wait for you without knowing](https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU) | [Tae Hwa Yoon](https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M) | [Coffee Fox Kim Sam Wol OST Part.10 \(Soundtrack\)](https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM) | 3:43 | 2022-12-21 | 2024-08-11 |
 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 | 2022-05-09 | 2023-12-11 |
+| [I'll talk to you \(The Moon during the Day X Gummy\)](https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [I'll talk to you \(The Moon during the Day X Gummy\)](https://open.spotify.com/album/0AGHJEmZCaxOFzuTC2UGD2) | 3:51 | 2024-08-12 |  |
 | [I'M BACK](https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [I'M BACK \(Killer Peter X BLASÉ\)\[Original Webtoon Soundtrack\]](https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h) | 2:56 | 2023-10-10 |  |
 | [I'm into you, I mean Love you](https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i) | [Webtoon YeonNom OST Part.4](https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT) | 4:04 | 2022-05-09 |  |
 | [If we…](https://open.spotify.com/track/3hN9w8H3x1Aufiz5gjug2a) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [The Holy Idol \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4xeGSyUIJISiEF5jdD3rix) | 3:02 | 2023-01-26 | 2024-08-11 |
@@ -181,7 +182,7 @@
 | [Way too young](https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp) | [Geum Nara](https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7) | [Coffee Fox Kim Sam Wol OST Part.11 \(Soundtrack\)](https://open.spotify.com/album/3y7lANNak9KN0BLeNFIWEs) | 3:20 | 2022-11-16 | 2024-08-11 |
 | [Wego Wego](https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Wego Wego \(Killer Peter X Xdinary Heroes\) \[Original Webtoon Soundtrack\]](https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264) | 3:08 | 2024-03-08 |  |
 | [What I want](https://open.spotify.com/track/2ScUp6vBAjf54kK6nxSHdo) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [What I want \(From "Odd Girl Out" \[Original Soundtrack\]\)](https://open.spotify.com/album/3lWs144DBXJa8j6hERrwQK) | 3:58 | 2022-05-09 | 2023-02-23 |
-| [When We Were Young](https://open.spotify.com/track/7EbqPyHFpXmcTTewbsX9hz) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [When We Were Young \(Good Doctor X XIA\)](https://open.spotify.com/album/5PF1OECcTJ7s3XhEHr1lNd) | 3:18 | 2022-08-25 |  |
+| [When We Were Young](https://open.spotify.com/track/7EbqPyHFpXmcTTewbsX9hz) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [When We Were Young \(Good Doctor X XIA\)](https://open.spotify.com/album/5PF1OECcTJ7s3XhEHr1lNd) | 3:18 | 2022-08-25 | 2024-08-13 |
 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 | 2022-11-10 |  |
 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 | 2022-05-09 |  |
 | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5) | 4:20 | 2022-05-09 |  |

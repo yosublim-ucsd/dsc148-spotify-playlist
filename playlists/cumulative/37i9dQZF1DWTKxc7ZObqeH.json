@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 212794,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 265172,
       "name": "Dave\u2019s Waltz",
       "url": "https://open.spotify.com/track/3iy07tO59bZ6YkKk49eLbr"
@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "I'm Easy Goin'",
+        "url": "https://open.spotify.com/album/1Nr9Xutqwqwrz6kzNLCkrQ"
+      },
+      "artists": [
+        {
+          "name": "The North Sea Trio",
+          "url": "https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "I'm Easy Goin'",
+      "url": "https://open.spotify.com/track/1Lk50bFmFIM9wQ5zx6pnCe"
+    },
+    {
+      "album": {
         "name": "I'm in the Mood for Love",
         "url": "https://open.spotify.com/album/7ps9PviK3EPPUJbZ7hPrsi"
       },
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 254666,
       "name": "I'm in the Mood for Love",
       "url": "https://open.spotify.com/track/5mmeNg2rN1v5VPvgO43uRT"
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 215814,
       "name": "I\u00b4ll Be Around",
       "url": "https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv"
@@ -2455,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Looking At Stars",
+        "url": "https://open.spotify.com/album/2iT554owkVqNwH1BcPTC6t"
+      },
+      "artists": [
+        {
+          "name": "Webb Trio",
+          "url": "https://open.spotify.com/artist/2sCB8fxXchR8s1mnHghn6y"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256424,
+      "name": "Looking At Stars",
+      "url": "https://open.spotify.com/track/2jR6fh4E32yt77WuKXg6QL"
+    },
+    {
+      "album": {
         "name": "Love by the Shore",
         "url": "https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0"
       },
@@ -2574,7 +2610,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 203294,
       "name": "L\u00c4TT",
       "url": "https://open.spotify.com/track/1n14U1Pxf9SHlIKqW5WJj7"
@@ -2682,7 +2718,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 192554,
       "name": "Mean To Me",
       "url": "https://open.spotify.com/track/4QEPK8VmIJsxw6ymP93gCS"
@@ -4590,7 +4626,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 310981,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf"
@@ -4662,7 +4698,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 353243,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/3npmUkmkDOhavOSuGdXUuQ"
@@ -5098,7 +5134,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 198424,
       "name": "What Is This Thing Called Love",
       "url": "https://open.spotify.com/track/3cXOEALLyoASwgS6a57sz3"
@@ -5228,6 +5264,24 @@
       "duration_ms": 198701,
       "name": "Winchester In Apple Blossom Time",
       "url": "https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR"
+    },
+    {
+      "album": {
+        "name": "Wine and Dine",
+        "url": "https://open.spotify.com/album/1MZ3rFL8EnAabX0xYf6B6h"
+      },
+      "artists": [
+        {
+          "name": "Black Door Band",
+          "url": "https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188424,
+      "name": "Wine and Dine",
+      "url": "https://open.spotify.com/track/1HmkzrpKw75c4dL1rC05Qs"
     },
     {
       "album": {
@@ -5390,6 +5444,24 @@
       "duration_ms": 179160,
       "name": "You Turned The Tables On Me",
       "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
+    },
+    {
+      "album": {
+        "name": "Younger Than Springtime",
+        "url": "https://open.spotify.com/album/0x77MXLgRQ4lJSc0YEeZ4T"
+      },
+      "artists": [
+        {
+          "name": "Chestnut Street Trio",
+          "url": "https://open.spotify.com/artist/2XyIoQNaBNpu3ucMG4euc8"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223325,
+      "name": "Younger Than Springtime",
+      "url": "https://open.spotify.com/track/1ZpBuSsDgudYCcYB40dFWm"
     },
     {
       "album": {

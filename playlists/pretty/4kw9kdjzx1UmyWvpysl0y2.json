@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125831,
+  "num_followers": 125828,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS0Geob+MpiQFjKuZMUgI6K2AaqCo3",
+  "snapshot_id": "AAAS0SjmVadZycouzL+lzci/1ihcQLv2",
   "tracks": [
+    {
+      "added_at": "2024-08-12 13:44:33",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/0upBLCWzxoULIoP6oiMNab"
+      },
+      "artists": [
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        },
+        {
+          "name": "Laminar",
+          "url": "https://open.spotify.com/artist/7KR2Kk6DSExT2gK5vDHgTr"
+        },
+        {
+          "name": "Purple Velvet Curtains",
+          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
+        }
+      ],
+      "duration_ms": 255172,
+      "name": "Movements",
+      "url": "https://open.spotify.com/track/7lMYRwvhweOmiuVfKFf0Sq"
+    },
     {
       "added_at": "2024-08-09 13:41:19",
       "album": {

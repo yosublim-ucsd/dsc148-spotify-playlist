@@ -2,9 +2,9 @@
 
 ### [indelectro](https://open.spotify.com/playlist/37i9dQZF1DX7xNd2fNATsx)
 
-> Quand l'indie et l'electro ne font qu'un.
+> Quand l'indie et l'electro ne font qu'un\. Photo : Kavinsky
 
-98 songs - 6 hr 45 min
+99 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Furia Electronica](https://open.spotify.com/track/5cHjMM0sX3nOME4JHIJfJq) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Furia Electronica](https://open.spotify.com/album/29AEcGabeudmQqN03ReQcs) | 4:50 | 2024-02-16 |  |
 | [Future](https://open.spotify.com/track/1L44XODDvPjK4Tl9airKLy) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Bright Like Neon Love](https://open.spotify.com/album/4AyAxuQiwiloLye3qxuXq4) | 5:12 | 2023-02-07 |  |
 | [Get Myself Into It](https://open.spotify.com/track/0ZbNQQtAbdQoTWxt4avi2w) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Pieces Of The People We Love](https://open.spotify.com/album/1IjCAQlroTjoaRMayE3Unf) | 4:39 | 2023-02-07 | 2024-02-17 |
-| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-25 |  |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-25 | 2024-08-13 |
 | [Hard Dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard Dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 | 2024-03-01 |  |
 | [Heartbreaker](https://open.spotify.com/track/6DaYun5YOndnPYkwn6KwU8) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/00KfMW922SvIZ1FPWU7bzF) | 3:12 | 2023-11-29 | 2024-02-17 |
 | [Heartbreaker \(feat\. John Legend\)](https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize) | 3:12 | 2023-02-07 | 2023-12-13 |
@@ -74,6 +74,7 @@
 | [Never Be Like You](https://open.spotify.com/track/476j7IDRIDRvv1Xu71EVc8) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr) | 3:53 | 2024-03-08 |  |
 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 3:54 | 2023-02-07 | 2024-04-19 |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-04-25 |  |
+| [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2024-08-12 |  |
 | [O.N.E.](https://open.spotify.com/track/5IN6s1ESshNEs5cCKMGcfc) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/4OTfa7TIDrZjGKCDu8dUqG) | 5:23 | 2023-02-07 | 2024-03-09 |
 | [Oceans Niagara](https://open.spotify.com/track/57zPzYQf43mAewduTJPJLp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:31 | 2023-02-07 | 2023-10-17 |
 | [Odessa](https://open.spotify.com/track/305tGJy16yTTFe6Ya9nMKJ) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/198uSF0lTPBy7PtflbPhGT) | 5:15 | 2024-03-08 |  |

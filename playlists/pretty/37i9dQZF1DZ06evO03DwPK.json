@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 3886520,
+  "num_followers": 3887591,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAABKb20K8upFIVU2E06hdgVw",
+  "snapshot_id": "Zrf/AAAAAABTONg5Nb2Tm68SIm5JGY3J",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
+        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 228300,
+      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
+      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leave The Door Open (Live)",
         "url": "https://open.spotify.com/album/4rRB9bAIwawVcrdLXuq9Qu"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 260269,
       "name": "Leave The Door Open - Live",
       "url": "https://open.spotify.com/track/1Ffw1qFqCw2IaozOJ5mL2O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
-        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 228300,
-      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
-      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
     },
     {
       "added_at": null,

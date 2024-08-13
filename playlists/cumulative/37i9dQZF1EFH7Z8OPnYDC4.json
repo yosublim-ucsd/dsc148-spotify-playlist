@@ -4431,6 +4431,28 @@
     },
     {
       "album": {
+        "name": "On Your Toes",
+        "url": "https://open.spotify.com/album/2GoLdCbLd4ezFVRa4qW7dV"
+      },
+      "artists": [
+        {
+          "name": "Jack Cassidy",
+          "url": "https://open.spotify.com/artist/79vGXDbP2XvW4mco6SWexk"
+        },
+        {
+          "name": "On Your Toes Ensemble (1952)",
+          "url": "https://open.spotify.com/artist/4evJOowZJaSWvJ7aR8jIpq"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Questions and Answers",
+      "url": "https://open.spotify.com/track/2V6hLl08CgVtninX6bMaGN"
+    },
+    {
+      "album": {
         "name": "On Your Toes (1983 Broadway Revival Cast)",
         "url": "https://open.spotify.com/album/5TCuPTuv2FWmtIdxGiXPBP"
       },

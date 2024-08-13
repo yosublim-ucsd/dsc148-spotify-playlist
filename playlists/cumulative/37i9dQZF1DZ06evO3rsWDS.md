@@ -2,7 +2,7 @@
 
 ### [This Is Chiquis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rsWDS)
 
-> This is Chiquis\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
+> This is Chiquis\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 75 songs - 3 hr 44 min
 

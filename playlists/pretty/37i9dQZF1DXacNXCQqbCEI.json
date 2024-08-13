@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 353199,
+  "num_followers": 353200,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Tranquillitas",
-        "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
+        "name": "Sonic Forest",
+        "url": "https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
         },
         {
-          "name": "Wabi Sabi",
-          "url": "https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
         }
       ],
-      "duration_ms": 373333,
-      "name": "Mojanda (feat. Wabi Sabi)",
-      "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
+      "duration_ms": 169094,
+      "name": "Sonic Forest (D\u00e9jame Respirar)",
+      "url": "https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -179,26 +183,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Sonic Forest",
-        "url": "https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6"
+        "name": "Tranquillitas",
+        "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
       },
       "artists": [
         {
-          "name": "Monte",
-          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
         },
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Nidia Gongora",
-          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+          "name": "Wabi Sabi",
+          "url": "https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS"
         }
       ],
-      "duration_ms": 169094,
-      "name": "Sonic Forest (D\u00e9jame Respirar)",
-      "url": "https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3"
+      "duration_ms": 373333,
+      "name": "Mojanda (feat. Wabi Sabi)",
+      "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Efecto Manglar",
-        "url": "https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz"
-      },
-      "artists": [
-        {
-          "name": "Black Mambo",
-          "url": "https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ"
-        },
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
-        }
-      ],
-      "duration_ms": 308213,
-      "name": "Efecto Manglar",
-      "url": "https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "ATO 3: Am\u00e9rica do Sol",
         "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 157746,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Efecto Manglar",
+        "url": "https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz"
+      },
+      "artists": [
+        {
+          "name": "Black Mambo",
+          "url": "https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ"
+        },
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+        }
+      ],
+      "duration_ms": 308213,
+      "name": "Efecto Manglar",
+      "url": "https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Fuego Nuevo",
-        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Levanta Muertos",
-      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Fuego Nuevo",
+        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Levanta Muertos",
+      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Chinito Rulo (Remix)",
-        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
-      },
-      "artists": [
-        {
-          "name": "Shushupe",
-          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
-        },
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 187198,
-      "name": "Chinito Rulo (Remix)",
-      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Alientos",
         "url": "https://open.spotify.com/album/6hBvd81RW9NF5epZx07lfH"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 283636,
       "name": "Alientos",
       "url": "https://open.spotify.com/track/0rWM6crTli6lBYVqRvH2oW"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Chinito Rulo (Remix)",
+        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
+      },
+      "artists": [
+        {
+          "name": "Shushupe",
+          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 187198,
+      "name": "Chinito Rulo (Remix)",
+      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
     },
     {
       "added_at": "2024-07-12 22:50:04",

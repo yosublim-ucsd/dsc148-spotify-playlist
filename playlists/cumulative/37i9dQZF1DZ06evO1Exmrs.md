@@ -2,7 +2,7 @@
 
 ### [This Is Noah Kahan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Exmrs)
 
-> This is Noah Kahan\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
+> This Is Noah Kahan\. Los temas esenciales, todos en una lista.
 
 74 songs - 4 hr 35 min
 

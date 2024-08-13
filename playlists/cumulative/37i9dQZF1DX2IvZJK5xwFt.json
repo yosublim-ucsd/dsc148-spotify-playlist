@@ -2067,6 +2067,24 @@
     },
     {
       "album": {
+        "name": "Dark and Velvet Nights",
+        "url": "https://open.spotify.com/album/1O8UYt3PsVMGDFLkuyYPa4"
+      },
+      "artists": [
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284600,
+      "name": "Dark and Velvet Nights",
+      "url": "https://open.spotify.com/track/2smb660jl1saiHkmbqLWi1"
+    },
+    {
+      "album": {
         "name": "Darkest Lullaby",
         "url": "https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH"
       },
@@ -7144,7 +7162,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 212310,
       "name": "Paralyzed (feat. Attack Attack!)",
       "url": "https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga"

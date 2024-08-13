@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "album": {
         "name": "SEMMI",
         "url": "https://open.spotify.com/album/1Rchnvg8ARhvC8IX4Rq0Dn"
       },
@@ -410,7 +432,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 153191,
       "name": "DEF",
       "url": "https://open.spotify.com/track/60u35BNjZAqpHKyidj4WZ5"
@@ -494,6 +516,68 @@
       "duration_ms": 183741,
       "name": "Doomsday Blue",
       "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
+    },
+    {
+      "album": {
+        "name": "rabiga",
+        "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135818,
+      "name": "d\u00edva",
+      "url": "https://open.spotify.com/track/52kBWybNy033009vfeYu5n"
+    },
+    {
+      "album": {
+        "name": "rabiga",
+        "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170751,
+      "name": "egyszer\u0171",
+      "url": "https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n"
+    },
+    {
+      "album": {
+        "name": "Eyvallah",
+        "url": "https://open.spotify.com/album/5SiC3rTRbWG81miyo2hBOd"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        },
+        {
+          "name": "Kretz",
+          "url": "https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "El vagy kan\u00e1szodva",
+      "url": "https://open.spotify.com/track/30n9LCdSKhCILZjrmDrnGw"
     },
     {
       "album": {
@@ -654,7 +738,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 187687,
       "name": "FURA VAGYOK",
       "url": "https://open.spotify.com/track/4YPkNBhIRREvJmAqErcr7o"
@@ -752,7 +836,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 204500,
       "name": "Ha re\u00e1m s\u00fct",
       "url": "https://open.spotify.com/track/5i4iq0eLK1JlrkKgTpQwR3"
@@ -770,7 +854,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 187884,
       "name": "Ha te tudn\u00e1d",
       "url": "https://open.spotify.com/track/3CwJd4XmwAYZ0bBi1PpCyy"
@@ -810,6 +894,24 @@
       "duration_ms": 134886,
       "name": "Haramia",
       "url": "https://open.spotify.com/track/6nLt2P4qTu9T787DlfbVi7"
+    },
+    {
+      "album": {
+        "name": "Hazudik a Szemed",
+        "url": "https://open.spotify.com/album/7gMApV49WRceUTnE1CJTvS"
+      },
+      "artists": [
+        {
+          "name": "ATISxIMIR",
+          "url": "https://open.spotify.com/artist/36MHfDZleD6FIGaqTVdfAJ"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210815,
+      "name": "Hazudik a Szemed",
+      "url": "https://open.spotify.com/track/5Yde7h9ABeyGnhXclP1FxH"
     },
     {
       "album": {
@@ -972,7 +1074,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 212000,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3rgG3IkojZxKQjoh0wdt6X"
@@ -994,6 +1096,24 @@
       "duration_ms": 187711,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
+    },
+    {
+      "album": {
+        "name": "Kegyelem",
+        "url": "https://open.spotify.com/album/5qVNybRIR5eZYZjNtVJZi0"
+      },
+      "artists": [
+        {
+          "name": "Curtis",
+          "url": "https://open.spotify.com/artist/2cFK15y135mg47RIgsS43E"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196357,
+      "name": "Kegyelem",
+      "url": "https://open.spotify.com/track/7j4ypcze7yGg5tmVrFnzIB"
     },
     {
       "album": {
@@ -1096,6 +1216,24 @@
       "duration_ms": 171428,
       "name": "lost tiki",
       "url": "https://open.spotify.com/track/1VPU7SKdABCb3gNCNjMFIZ"
+    },
+    {
+      "album": {
+        "name": "l\u00e1nc",
+        "url": "https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159512,
+      "name": "l\u00e1nc",
+      "url": "https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb"
     },
     {
       "album": {
@@ -1354,7 +1492,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 154838,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/2B45fcJD8otDpQWLBdEqZA"
@@ -1528,10 +1666,36 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 161025,
       "name": "Pakiszt\u00e1ni/popo",
       "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
+    },
+    {
+      "album": {
+        "name": "BAKPAKK",
+        "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147120,
+      "name": "PANNONIA",
+      "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
     },
     {
       "album": {
@@ -1734,7 +1898,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 176000,
       "name": "ROSSZ \u00d6TLET",
       "url": "https://open.spotify.com/track/5oMm7nr3dQsNDnVNzgeFeg"

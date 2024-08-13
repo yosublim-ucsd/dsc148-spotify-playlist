@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-368 songs - 19 hr 5 min
+369 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Mallika](https://open.spotify.com/track/173nYuVjLhF6kdFTCA0huj) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Mallika](https://open.spotify.com/album/42jjlqtU48ozL5wCaRVDJW) | 3:24 | 2023-10-27 | 2023-11-18 |
 | [Maniac](https://open.spotify.com/track/4jufysure6VG7dplQ5x7ud) | [SlowCheeta](https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Scene Main Bawaal](https://open.spotify.com/album/49Fu8ZrbMFu9yZ61esgHwo) | 2:52 | 2024-04-26 | 2024-05-15 |
 | [MANKA](https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [MANKA](https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV) | 4:21 | 2024-04-19 | 2024-07-13 |
-| [MANTO](https://open.spotify.com/track/7Gu0awrdJUvfRNDoXIIAMF) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6) | [MANTO](https://open.spotify.com/album/59yhLJyas2piQCsJ74N5SL) | 4:39 | 2024-07-12 |  |
+| [MANTO](https://open.spotify.com/track/7Gu0awrdJUvfRNDoXIIAMF) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6) | [MANTO](https://open.spotify.com/album/59yhLJyas2piQCsJ74N5SL) | 4:39 | 2024-07-12 | 2024-08-13 |
 | [Mar Jaayega](https://open.spotify.com/track/4IkkAPhs4otYakD7FAYSqv) | [Dhruv Sthetick](https://open.spotify.com/artist/4g8Z4if0DrwN5H83ZGpZ44), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Mar Jaayega](https://open.spotify.com/album/1LojtEahZCJwHFFClFp1iz) | 4:03 | 2023-03-29 | 2023-07-21 |
 | [Masroor](https://open.spotify.com/track/4fKz9mqdGS6pqhv0F1VjGj) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Katoptris](https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI) | [Masroor](https://open.spotify.com/album/28lPquTGiDRyQtWD1Wt9pJ) | 3:00 | 2023-07-04 | 2023-11-18 |
 | [Mastikhor](https://open.spotify.com/track/05s9rHSjYuhM5jWL7OWMro) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:10 | 2024-02-08 | 2024-07-13 |
@@ -258,6 +258,7 @@
 | [My Turn](https://open.spotify.com/track/4Qh0pDlwC1ribqHXp5hNH6) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [My Turn](https://open.spotify.com/album/5Moz7WfWGct5vrzZeK1Fqy) | 3:37 | 2023-12-06 | 2024-07-13 |
 | [NAACH](https://open.spotify.com/track/26NYGk5ZLw1MkICybMV6mC) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr) | [NAACH](https://open.spotify.com/album/6Utv4sG6z1BMAAjKMF5B9R) | 3:14 | 2023-11-17 | 2023-12-07 |
 | [Naam Mera Young Nik](https://open.spotify.com/track/6cg3mBodjqwLr0zGmemoz2) | [Young Nik](https://open.spotify.com/artist/600CpGQB2XVttaLORD1vre) | [Naam Mera Young Nik](https://open.spotify.com/album/2e9zFmhWGG1X616q65hQUD) | 2:51 | 2024-06-10 | 2024-06-15 |
+| [Nacho Re](https://open.spotify.com/track/5QZi9mzhAz2VCttIgKDMBa) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Malishka](https://open.spotify.com/artist/0C7UmcLQbwXiE9RSUmdo9W) | [Nacho Re](https://open.spotify.com/album/5AbYRFnhbzaV5kx1Ew26SW) | 2:52 | 2024-08-12 |  |
 | [Naina](https://open.spotify.com/track/0kdErH3y2RpZJXxsLmBWgf) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Naina](https://open.spotify.com/album/4psLiGQKUug3krI0RcKlZI) | 2:45 | 2023-03-29 | 2023-06-02 |
 | [NAZAR](https://open.spotify.com/track/2suAYGhBT7vR26s5dNy9OL) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Bhaari Beatz](https://open.spotify.com/artist/6v9M80x40ECfeJwd7RH8Vk) | [NAZAR](https://open.spotify.com/album/1JDJOJc1gOg4oo5ljm9siA) | 2:38 | 2023-04-04 | 2024-04-02 |
 | [NEECH LOG](https://open.spotify.com/track/6ObVUyVRoWuJp8klRdVI2n) | [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V) | [NEECH LOG](https://open.spotify.com/album/4cgMsm8REiO6eXUxH1w6yC) | 3:10 | 2024-06-28 | 2024-07-19 |

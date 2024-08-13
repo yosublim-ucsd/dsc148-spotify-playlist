@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-348 songs - 13 hr 49 min
+350 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Glimmer](https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Glimmer](https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf) | 2:40 | 2023-11-28 |  |
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-05-15 |  |
 | [Her Joy Was Complete](https://open.spotify.com/track/7tUQIhueKYGnKThIseP69M) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Many Beautiful Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02gOHdj3c67CUwXb4s9jzy) | 3:02 | 2021-06-27 | 2023-05-16 |
+| [Here Comes the Rain Again](https://open.spotify.com/track/0NKXMhwFfn5mnMhoWFyL3N) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Here Comes the Rain Again](https://open.spotify.com/album/4bmvPZxTLO2LZmSKcQlPIQ) | 2:27 | 2024-08-12 |  |
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-05-15 |  |
 | [Hoarfrost](https://open.spotify.com/track/035cErPCPOVn4L3USUtBc9) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [20023](https://open.spotify.com/album/32zg3pyWlp7g2lvJ2CN68Z) | 2:31 | 2023-06-19 | 2024-04-19 |
 | [Hoarfrost](https://open.spotify.com/track/7raJ9hPFYeCf8o43g176zS) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Hoarfrost](https://open.spotify.com/album/6DaDlbh2nSPJoD3Qj3pjXS) | 2:31 | 2023-05-15 |  |
@@ -295,6 +296,7 @@
 | [Smukke SmåTing](https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Smukke Små Ting](https://open.spotify.com/album/5LRfR2qy1MHU0Zbl6tIjDv) | 2:00 | 2023-05-15 |  |
 | [Softly, Gently](https://open.spotify.com/track/0wmmFkwOtzaanH4T5vMMLz) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [Softly, Gently](https://open.spotify.com/album/5el3jiphgAIadKL7FcB09G) | 2:00 | 2022-07-05 | 2023-05-16 |
 | [Softly, Gently](https://open.spotify.com/track/5JwtahJeHWFPETXjxBH74B) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [Softly, Gently](https://open.spotify.com/album/1Q7Yfz4VUJoZrJPuo2ePIj) | 2:00 | 2021-06-27 | 2022-07-29 |
+| [Somewhere Else](https://open.spotify.com/track/62d61kCTywtaW5PnY2NJ1T) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Somewhere Else](https://open.spotify.com/album/3SGeZuQNVjCqyo2gtVMKvZ) | 2:21 | 2024-08-12 |  |
 | [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 | 2023-11-28 |  |
 | [Somewhere In Between](https://open.spotify.com/track/1dWtAobHBqAxNS4W495gda) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/5ElKIzZRCQYV6AlyLHOmPj) | 2:31 | 2022-07-05 | 2022-11-13 |
 | [Somewhere In Between](https://open.spotify.com/track/5kHMqwwwlHCdt24t2e7pEq) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:31 | 2022-07-05 | 2023-05-16 |

@@ -2,7 +2,7 @@
 
 ### [This Is Joy Crookes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3w1CV3)
 
-> This is Joy Crookes\. The essential tracks, all in one playlist.
+> This is Joy Crookes。アーティストの代表曲をひとつのプレイリストに。
 
 30 songs - 1 hr 40 min
 

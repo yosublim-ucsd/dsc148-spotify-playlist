@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=n9niGeSvRG\-eXg1eKDeCmA">Lwah Ndlunkulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,399 likes - 54 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,493 likes - 54 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

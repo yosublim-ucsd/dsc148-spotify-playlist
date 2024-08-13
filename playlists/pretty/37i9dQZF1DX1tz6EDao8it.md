@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,514 likes - 107 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,732 likes - 107 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 32 | [The Imitation Game](https://open.spotify.com/track/0o9ivTBX7mjTnaUYF4Gk6t) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [The Imitation Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2CsfKW5tze2DZKq49iARk1) | 2:37 |
 | 33 | [The Breaking of the Fellowship \(feat\. "In Dreams"\)](https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Edward Ross](https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 7:20 |
 | 34 | [Final Ascent](https://open.spotify.com/track/7nERpoaVj6tizE9dKnbpgp) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 7:25 |
-| 35 | [Epilogue \- From "Frozen"/Score](https://open.spotify.com/track/0EUodO4zn5fiWhADyOxiC9) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:06 |
+| 35 | [Epilogue \- From "Frozen"/Score](https://open.spotify.com/track/0EUodO4zn5fiWhADyOxiC9) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \- Original Motion Picture Soundtrack](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:06 |
 | 36 | [La leçon particulière \- Bande originale du film "La leçon particulière"](https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Christian Gaubert](https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT) | [Mayerling](https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz) | 1:45 |
 | 37 | [Main Title](https://open.spotify.com/track/4Rhue1CTPr3n1P3Zs0jPwU) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [Alien](https://open.spotify.com/album/2ubcKYeOHGJ5UHHNBAuaKb) | 4:12 |
 | 38 | [Logos / The Matrix Main Title](https://open.spotify.com/track/1FwhTB4R0lOWII5tc6cl9P) | [Don Davis](https://open.spotify.com/artist/3eCpCUtYdBCM1twAb4mk8I) | [The Matrix \(The Complete Score\)](https://open.spotify.com/album/6D2bGAKmIYtMQtL14c4vAb) | 0:53 |

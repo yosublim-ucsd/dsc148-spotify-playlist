@@ -4,7 +4,7 @@
 
 > aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: Pedro Sampaio, DJ Topo
 
-316 songs - 14 hr 54 min
+317 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 | 2023-05-15 | 2023-08-03 |
 | [Piloto](https://open.spotify.com/track/6oybmVKREkXrVF9EPHBh80) | [Arthur Diniz](https://open.spotify.com/artist/6jzMs6d8ZBWusxRUCB04gh) | [Piloto](https://open.spotify.com/album/7nZtJVWFRMwyQaNquhohim) | 2:20 | 2023-11-17 | 2024-01-05 |
 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 | 2023-10-16 | 2024-07-19 |
-| [Piloto](https://open.spotify.com/track/6ENiNztKLqbAKCJpk2yXaI) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Piloto](https://open.spotify.com/album/5L36YBGqoD7axD0oKKUzuJ) | 2:07 | 2023-11-24 |  |
+| [Piloto](https://open.spotify.com/track/6ENiNztKLqbAKCJpk2yXaI) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Piloto](https://open.spotify.com/album/5L36YBGqoD7axD0oKKUzuJ) | 2:07 | 2023-11-24 | 2024-08-13 |
 | [Piseiro Tocando Alto](https://open.spotify.com/track/5YzDpppJHCB6dbR409n2nh) | [Forró do HF](https://open.spotify.com/artist/3Yaa2NJiGdT82KIJMnHUZ7) | [Piseiro Tocando Alto](https://open.spotify.com/album/6VOKwtYZfHOrw2agENG9jH) | 1:48 | 2024-02-20 | 2024-04-19 |
 | [Piseiro Tocando Alto](https://open.spotify.com/track/74DKhVs1mFJGpdcpWOntVT) | [Forró do HF](https://open.spotify.com/artist/3Yaa2NJiGdT82KIJMnHUZ7) | [Piseiro Tocando Alto](https://open.spotify.com/album/0ys6ZnPJnccUAvK4p5L34X) | 1:48 | 2023-05-15 |  |
 | [Pitbull Enraivado](https://open.spotify.com/track/7jWEgucKOoKvzrV9dV2E3Q) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [POLLY HITMADO](https://open.spotify.com/album/2iQVaMwqHCSOtQaWvALe80) | 4:11 | 2023-05-16 | 2023-09-26 |
@@ -273,6 +273,7 @@
 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 | 2023-11-27 | 2024-02-10 |
 | [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 | 2024-07-23 |  |
 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 | 2023-05-15 | 2023-10-24 |
+| [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 | 2024-08-12 |  |
 | [Só Pra Você Lembrar](https://open.spotify.com/track/3Q1cgeQz4f0PXCZcXBjDBw) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Só Pra Você Lembrar](https://open.spotify.com/album/3TMXUEDR7AjyPCSFm1uHDB) | 3:06 | 2024-03-22 | 2024-04-13 |
 | [Só um Pagode \- Ao Vivo](https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Só um Pagode \(Ao Vivo\)](https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ) | 2:21 | 2023-05-15 |  |
 | [Tchuco Nela](https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Tchuco Nela](https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L) | 2:50 | 2023-05-15 | 2024-06-01 |

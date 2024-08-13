@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-521 songs - 22 hr 18 min
+522 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Her](https://open.spotify.com/track/1h5J39FupEgSwZn43lSqgp) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Dreamer](https://open.spotify.com/album/3slCbiuCaDhabpOf7PWrHN) | 2:34 | 2022-07-19 | 2023-10-05 |
 | [Her](https://open.spotify.com/track/7z9zhEtAOSL3DeQgORiFnH) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Her](https://open.spotify.com/album/6jpSamLHeNpMZX6IUeWTr5) | 2:34 | 2021-12-07 | 2022-07-29 |
 | [Herald](https://open.spotify.com/track/5DmCoazpQN9id60LYIFqCj) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Herald](https://open.spotify.com/album/5l1LblT9yXaajjWm80L68J) | 2:43 | 2023-10-23 |  |
+| [Here Comes the Rain Again](https://open.spotify.com/track/0NKXMhwFfn5mnMhoWFyL3N) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Here Comes the Rain Again](https://open.spotify.com/album/4bmvPZxTLO2LZmSKcQlPIQ) | 2:27 | 2024-08-12 |  |
 | [Heritage](https://open.spotify.com/track/1T5PUpmbV63BiM1Fnjgr3T) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Heritage](https://open.spotify.com/album/0OQEmpVFAKhgTjnrHFksfE) | 2:50 | 2023-11-06 |  |
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-02-14 | 2024-05-24 |
 | [Hidcote Garden](https://open.spotify.com/track/0sh3udsRO3AesM270ctQZR) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Bathtub Chill](https://open.spotify.com/album/7syBT7D7kHTJEvzterZLVJ) | 2:42 | 2022-10-14 | 2022-11-13 |

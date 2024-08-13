@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,729 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,696 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 37 | [Shots & Squats](https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Tham Sway](https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv) | [Shots & Squats](https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA) | 2:51 |
 | 38 | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/track/5uiQAY4i9oTGf79rgcf5jr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/album/3vN2jv2disCD8vZEzZIv5Q) | 2:45 |
 | 39 | [UNGA & FRIA](https://open.spotify.com/track/2ArX0SzCSHXytmAg36BIev) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [UNGA & FRIA](https://open.spotify.com/album/07w87eimESXFgxpCI191vp) | 3:02 |
-| 40 | [Kung för en dag](https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Uggla Box](https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx) | 3:18 |
-| 41 | [FULLA](https://open.spotify.com/track/2elQQCpDbMJZyFntQB8jFM) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [FULLA](https://open.spotify.com/album/2yxZKoAqVmePN35Txs3L0n) | 2:21 |
+| 40 | [FULLA](https://open.spotify.com/track/2elQQCpDbMJZyFntQB8jFM) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [FULLA](https://open.spotify.com/album/2yxZKoAqVmePN35Txs3L0n) | 2:21 |
+| 41 | [Kung för en dag](https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Uggla Box](https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx) | 3:18 |
 | 42 | [Din tid kommer \- Otto Knows Remix](https://open.spotify.com/track/04LHuPqOMSpnHFaziPq1qO) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Din tid kommer \(Otto Knows Remix\)](https://open.spotify.com/album/1L25xMsuDCuBcb0rJnggWr) | 4:46 |
 | 43 | [Heaven](https://open.spotify.com/track/70jAESz42ftg7bQsihU6hL) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Heaven](https://open.spotify.com/album/0wX0I9s2XCXV6IODVIwIkA) | 2:45 |
 | 44 | [Sun Goes Up](https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Sun Goes Up](https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT) | 2:13 |

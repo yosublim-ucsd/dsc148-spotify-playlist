@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,526 likes - 80 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,703 likes - 80 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 55 | [Never Ending Story \- 12'' Dance Mix](https://open.spotify.com/track/0MnpVLnTeduZTulhqaU3kU) | [Limahl](https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D) | [Never Ending Story](https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD) | 6:08 |
 | 56 | [The Promise You Made \- Extended Version](https://open.spotify.com/track/0AOdzRbFxbSjVKFC3flCvA) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Cock Robin \(Expanded Edition\)](https://open.spotify.com/album/3rGS1WQSfZA9ES458g9gP4) | 6:38 |
 | 57 | [Sweet Dreams \(Are Made of This\) \- Hot Remix / Remastered Version](https://open.spotify.com/track/1AgCHF8ZUnAFgyCbK82AwI) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Boxed](https://open.spotify.com/album/0H0gECNGQQ9RE3HZL2Z9AH) | 5:19 |
-| 58 | [Loverboy \- Extended Mix](https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Suddenly \- Expanded Edition](https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo) | 8:08 |
-| 59 | [Take Me Home \- Extended Remix](https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [12"ers](https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5) | 8:06 |
+| 58 | [Take Me Home \- Extended Remix](https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [12"ers](https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5) | 8:06 |
+| 59 | [Loverboy \- Extended Mix](https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Suddenly \- Expanded Edition](https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo) | 8:08 |
 | 60 | [C'est la ouate \- Extended Version](https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 6:03 |
 | 61 | [Owner of a Lonely Heart \- Extended Remix](https://open.spotify.com/track/65oXAEPde2ARDKkg9A13gZ) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 7:02 |
 | 62 | [Beat Dis \- 12" Version](https://open.spotify.com/track/3hWbM5cGgUiTUUkfSfD1kd) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [Beat Dis: The Very Best Of](https://open.spotify.com/album/0gs16qVEj1k1NAD1WdEnaN) | 5:57 |

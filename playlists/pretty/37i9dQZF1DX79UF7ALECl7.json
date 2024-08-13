@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121781,
+  "num_followers": 121779,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
       },
       "artists": [
         {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        },
-        {
-          "name": "R.O",
-          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
+      "duration_ms": 156774,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -539,18 +535,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "You Know",
-        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
       },
       "artists": [
         {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        },
+        {
+          "name": "R.O",
+          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
         }
       ],
-      "duration_ms": 156774,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
+      "duration_ms": 220800,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Fleur d'Hiver",
+        "url": "https://open.spotify.com/album/4sBW2Pcr7KlMa28FxpAf6e"
+      },
+      "artists": [
+        {
+          "name": "Bootie Grove",
+          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Fleur d'Hiver",
+      "url": "https://open.spotify.com/track/6vr5tDOUOTgtRHWCLrTEtX"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Fleur d'Hiver",
-        "url": "https://open.spotify.com/album/4sBW2Pcr7KlMa28FxpAf6e"
+        "name": "Cherry Skies",
+        "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
       },
       "artists": [
         {
-          "name": "Bootie Grove",
-          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 231500,
-      "name": "Fleur d'Hiver",
-      "url": "https://open.spotify.com/track/6vr5tDOUOTgtRHWCLrTEtX"
+      "duration_ms": 210000,
+      "name": "Cherry Skies",
+      "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -743,22 +759,6 @@
       "duration_ms": 176000,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Cherry Skies",
-        "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Cherry Skies",
-      "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Killer Machine",
         "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
       },
@@ -855,18 +835,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
       },
       "artists": [
         {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
         }
       ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -903,6 +887,22 @@
       "duration_ms": 176356,
       "name": "Infinity (SLCT Remix) - Instrumental Version",
       "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "The Universe Is Magic",
-        "url": "https://open.spotify.com/album/4wP6VlBoVqWkb6ZIM5Xv6K"
-      },
-      "artists": [
-        {
-          "name": "Han Litz",
-          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
-        },
-        {
-          "name": "Kid Sublime",
-          "url": "https://open.spotify.com/artist/18zi2twij4DU0Z3nm4tVUX"
-        }
-      ],
-      "duration_ms": 330379,
-      "name": "Love Is The Key",
-      "url": "https://open.spotify.com/track/0I5PC3HmM8CP0LmnPyF94B"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Anima",
         "url": "https://open.spotify.com/album/0XJNZA4EavYZ26GZl69o66"
       },
@@ -1091,22 +1071,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
+        "name": "The Universe Is Magic",
+        "url": "https://open.spotify.com/album/4wP6VlBoVqWkb6ZIM5Xv6K"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+          "name": "Han Litz",
+          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
         },
         {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+          "name": "Kid Sublime",
+          "url": "https://open.spotify.com/artist/18zi2twij4DU0Z3nm4tVUX"
         }
       ],
-      "duration_ms": 280888,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
+      "duration_ms": 330379,
+      "name": "Love Is The Key",
+      "url": "https://open.spotify.com/track/0I5PC3HmM8CP0LmnPyF94B"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1123,6 +1103,26 @@
       "duration_ms": 252234,
       "name": "Reconnect",
       "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "duration_ms": 280888,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1231,30 +1231,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Blue Ridge",
-        "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
-      },
-      "artists": [
-        {
-          "name": "Luis Le\u00f3n",
-          "url": "https://open.spotify.com/artist/4Od4bfY2gFy7VrSlaLe9lo"
-        },
-        {
-          "name": "In2Deep",
-          "url": "https://open.spotify.com/artist/6AqbaHLS9HRjM1cXsnZr5m"
-        },
-        {
-          "name": "Artphorm",
-          "url": "https://open.spotify.com/artist/0qnsjwLSoQMjC3tZLLxgsO"
-        }
-      ],
-      "duration_ms": 410483,
-      "name": "Blue Ridge - Artphorm Remix",
-      "url": "https://open.spotify.com/track/2eERY2J3WWJhUdwo06MbGC"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Late Night Obsession",
         "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
@@ -1287,22 +1263,26 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Fading Memories",
-        "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
+        "name": "Blue Ridge",
+        "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
       "artists": [
         {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+          "name": "Luis Le\u00f3n",
+          "url": "https://open.spotify.com/artist/4Od4bfY2gFy7VrSlaLe9lo"
         },
         {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+          "name": "In2Deep",
+          "url": "https://open.spotify.com/artist/6AqbaHLS9HRjM1cXsnZr5m"
+        },
+        {
+          "name": "Artphorm",
+          "url": "https://open.spotify.com/artist/0qnsjwLSoQMjC3tZLLxgsO"
         }
       ],
-      "duration_ms": 483808,
-      "name": "Fading Memories",
-      "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
+      "duration_ms": 410483,
+      "name": "Blue Ridge - Artphorm Remix",
+      "url": "https://open.spotify.com/track/2eERY2J3WWJhUdwo06MbGC"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1319,6 +1299,26 @@
       "duration_ms": 182686,
       "name": "Ngoni",
       "url": "https://open.spotify.com/track/3hPm5lbKRPLPt2JCcezKlX"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Fading Memories",
+        "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 483808,
+      "name": "Fading Memories",
+      "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Coffee (Edit)",
+        "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        }
+      ],
+      "duration_ms": 235039,
+      "name": "Coffee - Edit",
+      "url": "https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "small talk",
         "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 237947,
       "name": "Moraine",
       "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Coffee (Edit)",
-        "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
-      },
-      "artists": [
-        {
-          "name": "Fouk",
-          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
-        }
-      ],
-      "duration_ms": 235039,
-      "name": "Coffee - Edit",
-      "url": "https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB"
     },
     {
       "added_at": "2024-06-03 13:14:44",

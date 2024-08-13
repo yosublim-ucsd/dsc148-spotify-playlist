@@ -24953,6 +24953,24 @@
     },
     {
       "album": {
+        "name": "lord have mercer",
+        "url": "https://open.spotify.com/album/3mrxaispR5lIqvERzzmxGW"
+      },
+      "artists": [
+        {
+          "name": "CLIFFDIVER",
+          "url": "https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226573,
+      "name": "lord have mercer",
+      "url": "https://open.spotify.com/track/1lqmKTqstzskMaj8nwKLkJ"
+    },
+    {
+      "album": {
         "name": "Lose You (feat. Soccer Mommy)",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },

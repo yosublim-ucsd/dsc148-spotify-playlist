@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:1alcdAcSxQfrx5GmgWAqGk\">RAF</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:27cGum5CmUlUoCKxaiKqnn\">Elena</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 239354,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 220000,
       "name": "Dziewczyna z NASA",
       "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "glorious",
+        "url": "https://open.spotify.com/album/0ZpLYh6IYYig3Dc7jKTFv3"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kluza",
+          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "glorious",
+      "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
+    },
+    {
+      "album": {
         "name": "Haiku",
         "url": "https://open.spotify.com/album/1utL1XsLZYrQEiLQX8o3qu"
       },
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 202759,
       "name": "HOTEL PLAZA",
       "url": "https://open.spotify.com/track/3ANmOXEnDDgaW6L6URD7O3"
@@ -1847,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "\u00c9CHO",
+        "url": "https://open.spotify.com/album/6T3TiVHvEfu7Oz8pjieI95"
+      },
+      "artists": [
+        {
+          "name": "Madox",
+          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279999,
+      "name": "les roses noires",
+      "url": "https://open.spotify.com/track/22GboJxbPd0ifja8gUQflF"
+    },
+    {
+      "album": {
         "name": "Lesbijski Groove",
         "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
       },
@@ -2006,6 +2042,24 @@
       "duration_ms": 137166,
       "name": "MAJU\u015a",
       "url": "https://open.spotify.com/track/5fPPFNftcGOcQOFerDTRwY"
+    },
+    {
+      "album": {
+        "name": "mam ci\u0119 na oku",
+        "url": "https://open.spotify.com/album/6jBc00kDUGTmwtGVcxls0y"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "mam ci\u0119 na oku",
+      "url": "https://open.spotify.com/track/3322tQszVawkGwzFfu3JVf"
     },
     {
       "album": {
@@ -2324,6 +2378,24 @@
       "duration_ms": 265346,
       "name": "nie ma (rework)",
       "url": "https://open.spotify.com/track/5XcFRF3kIu6uV0OKNXpU5Q"
+    },
+    {
+      "album": {
+        "name": "Nie ma szans",
+        "url": "https://open.spotify.com/album/0gkHfzqnX6zc3eTEHAOhBN"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215629,
+      "name": "Nie ma szans",
+      "url": "https://open.spotify.com/track/6ugIQaWAeUcgfiUJItQiCb"
     },
     {
       "album": {
@@ -3204,7 +3276,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 238000,
       "name": "Raj",
       "url": "https://open.spotify.com/track/2rogt6ZAO25BkUtcM3Bz7h"
@@ -3276,7 +3348,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 178890,
       "name": "Re\u017cyser",
       "url": "https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl"
@@ -3388,6 +3460,28 @@
       "duration_ms": 184218,
       "name": "Rozkosz",
       "url": "https://open.spotify.com/track/4bymysBJGx0jxLDb47dVYO"
+    },
+    {
+      "album": {
+        "name": "PARADOKS LP",
+        "url": "https://open.spotify.com/album/4ApLaVSGtglh0DYmPpEkCJ"
+      },
+      "artists": [
+        {
+          "name": "shane.",
+          "url": "https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT"
+        },
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229639,
+      "name": "rozum/serce",
+      "url": "https://open.spotify.com/track/6JE7556vi3OAyL4McVtLN8"
     },
     {
       "album": {

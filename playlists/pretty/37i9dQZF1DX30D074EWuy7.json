@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 29932,
+  "num_followers": 29936,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -147,34 +147,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
+        "name": "Libidine (Orginal Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4FYs2SbGNF8Di9iAedjuml"
       },
       "artists": [
         {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+          "name": "Nora Orlandi",
+          "url": "https://open.spotify.com/artist/3p6nLdwfXNkENb2NplCvyv"
         },
         {
-          "name": "Piero Odorici",
-          "url": "https://open.spotify.com/artist/5rECEZfFS5a06goUq2vL1c"
-        },
-        {
-          "name": "Nicola Barbon",
-          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
-        },
-        {
-          "name": "Alessandro Buzzi",
-          "url": "https://open.spotify.com/artist/6qOSfEAYQemTcpVwnyLKAu"
-        },
-        {
-          "name": "Davide Palladin",
-          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
+          "name": "Stelvio Cipriani",
+          "url": "https://open.spotify.com/artist/32GAlFg8ZU34WZLFjAUAGQ"
         }
       ],
-      "duration_ms": 276862,
-      "name": "It's Easy to Remember",
-      "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
+      "duration_ms": 263520,
+      "name": "Libidine 8",
+      "url": "https://open.spotify.com/track/3xiZ0cV7Q50inH4RDYHN4m"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -235,22 +223,34 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Libidine (Orginal Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4FYs2SbGNF8Di9iAedjuml"
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
       },
       "artists": [
         {
-          "name": "Nora Orlandi",
-          "url": "https://open.spotify.com/artist/3p6nLdwfXNkENb2NplCvyv"
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
         },
         {
-          "name": "Stelvio Cipriani",
-          "url": "https://open.spotify.com/artist/32GAlFg8ZU34WZLFjAUAGQ"
+          "name": "Piero Odorici",
+          "url": "https://open.spotify.com/artist/5rECEZfFS5a06goUq2vL1c"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Alessandro Buzzi",
+          "url": "https://open.spotify.com/artist/6qOSfEAYQemTcpVwnyLKAu"
+        },
+        {
+          "name": "Davide Palladin",
+          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
         }
       ],
-      "duration_ms": 263520,
-      "name": "Libidine 8",
-      "url": "https://open.spotify.com/track/3xiZ0cV7Q50inH4RDYHN4m"
+      "duration_ms": 276862,
+      "name": "It's Easy to Remember",
+      "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -539,6 +539,42 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Prati Bagnati Del Monte Analogo",
+        "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
+      },
+      "artists": [
+        {
+          "name": "Raul Lovisoni",
+          "url": "https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48"
+        },
+        {
+          "name": "Francesco Messina",
+          "url": "https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj"
+        }
+      ],
+      "duration_ms": 566966,
+      "name": "Hula Om",
+      "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "M\u0100Y\u0100",
+        "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        }
+      ],
+      "duration_ms": 487573,
+      "name": "IL VELO DI M\u0100Y\u0100 \u109f",
+      "url": "https://open.spotify.com/track/5eOKasgnQVQzmEdhtArSn6"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -571,38 +607,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "M\u0100Y\u0100",
-        "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
+        "name": "IMMA TATARANNI Sostituto Procuratore, Seconda Stagione (Colonna sonora originale della Serie TV)",
+        "url": "https://open.spotify.com/album/73FP2aV57Q08P4HlV2QdYN"
       },
       "artists": [
         {
-          "name": "MACE",
-          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
-        }
-      ],
-      "duration_ms": 487573,
-      "name": "IL VELO DI M\u0100Y\u0100 \u109f",
-      "url": "https://open.spotify.com/track/5eOKasgnQVQzmEdhtArSn6"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Prati Bagnati Del Monte Analogo",
-        "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
-      },
-      "artists": [
-        {
-          "name": "Raul Lovisoni",
-          "url": "https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48"
+          "name": "Andrea Farri",
+          "url": "https://open.spotify.com/artist/53UG4rUlSm5H3F8C9pXls2"
         },
         {
-          "name": "Francesco Messina",
-          "url": "https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj"
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
         }
       ],
-      "duration_ms": 566966,
-      "name": "Hula Om",
-      "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
+      "duration_ms": 177124,
+      "name": "Perdiamoci",
+      "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -635,26 +655,6 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "IMMA TATARANNI Sostituto Procuratore, Seconda Stagione (Colonna sonora originale della Serie TV)",
-        "url": "https://open.spotify.com/album/73FP2aV57Q08P4HlV2QdYN"
-      },
-      "artists": [
-        {
-          "name": "Andrea Farri",
-          "url": "https://open.spotify.com/artist/53UG4rUlSm5H3F8C9pXls2"
-        },
-        {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
-        }
-      ],
-      "duration_ms": 177124,
-      "name": "Perdiamoci",
-      "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Studio Murena",
-        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Long John Silver",
-      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Quando le canzoni finiscono",
         "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 238043,
       "name": "Un giardino",
       "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Studio Murena",
+        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Long John Silver",
+      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Maison Maravilha",
+        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
+      },
+      "artists": [
+        {
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+        }
+      ],
+      "duration_ms": 310466,
+      "name": "Normalmente",
+      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Maison Maravilha",
-        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
-      },
-      "artists": [
-        {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
-        }
-      ],
-      "duration_ms": 310466,
-      "name": "Normalmente",
-      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
-      },
-      "artists": [
-        {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Sfiorire",
         "url": "https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA"
       },
@@ -1203,22 +1187,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "L'AMANTE BUGIARDO",
-        "url": "https://open.spotify.com/album/0RPLTYJMUU6fMKpwRKnzmv"
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
       },
       "artists": [
         {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Uri Caine",
-          "url": "https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA"
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
         }
       ],
-      "duration_ms": 256560,
-      "name": "L'AMANTE BUGIARDO",
-      "url": "https://open.spotify.com/track/5Ek1lMjwxJ24Bb1vBAbPqD"
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1235,6 +1215,26 @@
       "duration_ms": 208066,
       "name": "That Old Black Magic",
       "url": "https://open.spotify.com/track/6u1M0I5QpMequyfFxna5fL"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "L'AMANTE BUGIARDO",
+        "url": "https://open.spotify.com/album/0RPLTYJMUU6fMKpwRKnzmv"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Uri Caine",
+          "url": "https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "L'AMANTE BUGIARDO",
+      "url": "https://open.spotify.com/track/5Ek1lMjwxJ24Bb1vBAbPqD"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+      },
+      "artists": [
+        {
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+        }
+      ],
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Sounds Like Freedom",
         "url": "https://open.spotify.com/album/6mlrg0FuPmj4hY1f6zUDjc"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 299787,
       "name": "Habibi Baby",
       "url": "https://open.spotify.com/track/0pCfYzmqBqZN9uRoVfErBF"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
-      },
-      "artists": [
-        {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
-        }
-      ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
-      },
-      "artists": [
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "IRA",
         "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
       },
@@ -1399,6 +1383,26 @@
       "duration_ms": 662586,
       "name": "hajar",
       "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Joyful",
+        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
+      },
+      "artists": [
+        {
+          "name": "Flavio Boltro",
+          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
+        },
+        {
+          "name": "Alex Ligertwood",
+          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1435,22 +1439,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Joyful",
-        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
       },
       "artists": [
         {
-          "name": "Flavio Boltro",
-          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
-        },
-        {
-          "name": "Alex Ligertwood",
-          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
         }
       ],
-      "duration_ms": 240466,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "For Those I Never Knew",
-        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+        "name": "Franco Cerri Jazz",
+        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
       },
       "artists": [
         {
-          "name": "Luca Flores",
-          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+          "name": "Franco Cerri",
+          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
         }
       ],
-      "duration_ms": 269139,
-      "name": "How Far Can You Fly? (Ladder) - Original Version",
-      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
+      "duration_ms": 79041,
+      "name": "Generazia",
+      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Franco Cerri Jazz",
-        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
       },
       "artists": [
         {
-          "name": "Franco Cerri",
-          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
         }
       ],
-      "duration_ms": 79041,
-      "name": "Generazia",
-      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Integra",
+        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Vibrare",
+      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "NON-BACKGROUND MUSIC",
         "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 137613,
       "name": "Napule \u00c8",
       "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Integra",
-        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Vibrare",
-      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "First Name: Oona",
-        "url": "https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ"
+        "name": "Ampia",
+        "url": "https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw"
       },
       "artists": [
         {
-          "name": "Oona Rea",
-          "url": "https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb"
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
         }
       ],
-      "duration_ms": 138653,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE"
+      "duration_ms": 370080,
+      "name": "Traspare",
+      "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1835,6 +1835,22 @@
       "duration_ms": 388693,
       "name": "Lucignolo",
       "url": "https://open.spotify.com/track/0awnjSleN0JiwdTw31ffK9"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "First Name: Oona",
+        "url": "https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ"
+      },
+      "artists": [
+        {
+          "name": "Oona Rea",
+          "url": "https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb"
+        }
+      ],
+      "duration_ms": 138653,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Ampia",
-        "url": "https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 370080,
-      "name": "Traspare",
-      "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Ipotesi",
         "url": "https://open.spotify.com/album/4QE0ufj8ESMinJTSR2DRUa"
       },
@@ -1935,26 +1935,30 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Dialogues",
-        "url": "https://open.spotify.com/album/04mcwadpwSaYynroTEqYJg"
+        "name": "Ten Stops",
+        "url": "https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG"
       },
       "artists": [
         {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+          "name": "Simone Locarni",
+          "url": "https://open.spotify.com/artist/3csUj3ZIE3yX1maghB7MZ5"
         },
         {
-          "name": "Stefano Maurizi",
-          "url": "https://open.spotify.com/artist/2dcgy7gYodUcL5l1V16qan"
+          "name": "Andrea Dulbecco",
+          "url": "https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL"
         },
         {
-          "name": "Mirco Mariottini",
-          "url": "https://open.spotify.com/artist/59pnlMKJa3phDabIFCfQeN"
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        },
+        {
+          "name": "Riccardo Fioravanti",
+          "url": "https://open.spotify.com/artist/6efZd8coYQR0z5g2PTyshf"
         }
       ],
-      "duration_ms": 270902,
-      "name": "Tribal Dance",
-      "url": "https://open.spotify.com/track/63Bq1F9wKFzn7OZhYR3WCh"
+      "duration_ms": 344596,
+      "name": "Ten Stops",
+      "url": "https://open.spotify.com/track/0hlprOV51kOSzcJm2c2KOR"
     }
   ],
   "unique_name": "Jazz Italia",

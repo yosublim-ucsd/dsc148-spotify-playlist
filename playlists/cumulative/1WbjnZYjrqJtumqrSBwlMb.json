@@ -2471,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "Eli & Harry",
+        "url": "https://open.spotify.com/album/1CYU3DuCTjz4IkthZBr6cY"
+      },
+      "artists": [
+        {
+          "name": "The Breathing Effect",
+          "url": "https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229237,
+      "name": "Carbon Capture",
+      "url": "https://open.spotify.com/track/3mhwZ4UDrfyW3ZyrGvAH04"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -13186,6 +13204,24 @@
       "duration_ms": 179776,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3VzxWfP2YFDYJUCPtKt9Ob"
+    },
+    {
+      "album": {
+        "name": "Easy Listening",
+        "url": "https://open.spotify.com/album/7tC9rKANwW84UPxA22zbzo"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179776,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5bW2vSniuAqxj4BW6O0DmD"
     },
     {
       "album": {

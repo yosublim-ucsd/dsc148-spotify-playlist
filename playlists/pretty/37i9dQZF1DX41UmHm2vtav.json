@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 469629,
+  "num_followers": 469644,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-08-09 13:47:44",
       "album": {
-        "name": "Sucker",
-        "url": "https://open.spotify.com/album/1tSHJ1U4wbL5zu20x4ku7i"
-      },
-      "artists": [
-        {
-          "name": "Lone Tusker",
-          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
-        },
-        {
-          "name": "Chaz Mazzota",
-          "url": "https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM"
-        }
-      ],
-      "duration_ms": 172876,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/3I5Xmqmng3glL1DtRYb4pD"
-    },
-    {
-      "added_at": "2024-08-09 13:47:44",
-      "album": {
         "name": "It's Your Life",
         "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+    },
+    {
+      "added_at": "2024-08-09 13:47:44",
+      "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/1tSHJ1U4wbL5zu20x4ku7i"
+      },
+      "artists": [
+        {
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+        },
+        {
+          "name": "Chaz Mazzota",
+          "url": "https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM"
+        }
+      ],
+      "duration_ms": 172876,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/3I5Xmqmng3glL1DtRYb4pD"
     },
     {
       "added_at": "2024-08-09 13:47:44",
@@ -1459,30 +1459,6 @@
     {
       "added_at": "2024-08-09 13:47:44",
       "album": {
-        "name": "Manh\u00e3 de Sol (Zuffo Remix)",
-        "url": "https://open.spotify.com/album/2nQB0p59wzrIfuY0keh1bW"
-      },
-      "artists": [
-        {
-          "name": "Zuffo",
-          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
-        },
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Manh\u00e3 de Sol - Zuffo Remix",
-      "url": "https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp"
-    },
-    {
-      "added_at": "2024-08-09 13:47:44",
-      "album": {
         "name": "A Dois Passos do Para\u00edso (Remix)",
         "url": "https://open.spotify.com/album/1at0bvTPBCtDv2a9nPnlRB"
       },
@@ -1507,6 +1483,30 @@
       "duration_ms": 209014,
       "name": "A Dois Passos do Para\u00edso - Remix",
       "url": "https://open.spotify.com/track/1pXXIiYHe8sqZlE1yKQG6b"
+    },
+    {
+      "added_at": "2024-08-09 13:47:44",
+      "album": {
+        "name": "Manh\u00e3 de Sol (Zuffo Remix)",
+        "url": "https://open.spotify.com/album/2nQB0p59wzrIfuY0keh1bW"
+      },
+      "artists": [
+        {
+          "name": "Zuffo",
+          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
+        },
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Manh\u00e3 de Sol - Zuffo Remix",
+      "url": "https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp"
     },
     {
       "added_at": "2024-08-09 13:47:44",

@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-111 songs - 5 hr 36 min
+112 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 | 2024-05-05 |  |
 | [Panama](https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:45 | 2024-04-18 |  |
 | [Paprika](https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Paprika](https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6) | 2:28 | 2024-05-10 | 2024-07-04 |
+| [PAQUETA](https://open.spotify.com/track/5kvA2FZtSuUSZFMhezTJa3) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [PAQUETA](https://open.spotify.com/album/0qw2LFdyOFWvWUc2GGBBNS) | 2:29 | 2024-08-12 |  |
 | [Parle Pas](https://open.spotify.com/track/2yNX0x2kAXhfjWvaTYCYN5) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Parle Pas](https://open.spotify.com/album/3TAVQ5zRFrmvhZgloRjQPJ) | 3:02 | 2024-07-03 |  |
 | [París Como Hakimi](https://open.spotify.com/track/0vYhUMxQbxYzvjx82707U9) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [París Como Hakimi](https://open.spotify.com/album/6EGdF6PPqUdepFkHiWam87) | 3:05 | 2024-03-26 | 2024-06-02 |
 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-03-26 |  |
@@ -94,7 +95,7 @@
 | [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 | 2024-07-08 |  |
 | [S7aba](https://open.spotify.com/track/1ilM1fLpgTmrErtPrWjCP0) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [S7aba](https://open.spotify.com/album/1USAkcnuETLU0G7pdOXe6v) | 2:41 | 2024-07-03 | 2024-07-19 |
 | [Safi Safi \(feat\. Draganov\)](https://open.spotify.com/track/6f8PWwc97weAep3rXAeXyv) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:45 | 2024-03-26 | 2024-07-04 |
-| [Samira](https://open.spotify.com/track/0Ey3GrVLmtUuOdFSWoYhc1) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Samira](https://open.spotify.com/album/2WrIHAV81oNqgoMikM6kFJ) | 2:53 | 2024-06-14 |  |
+| [Samira](https://open.spotify.com/track/0Ey3GrVLmtUuOdFSWoYhc1) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Samira](https://open.spotify.com/album/2WrIHAV81oNqgoMikM6kFJ) | 2:53 | 2024-06-14 | 2024-08-13 |
 | [Shayo](https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:41 | 2024-06-14 |  |
 | [Si Si](https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Leska](https://open.spotify.com/artist/0kRb2OhvXmS14Bop8FzFoS) | [Si Si](https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3) | 3:00 | 2024-06-14 | 2024-08-02 |
 | [SO HIGH](https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:56 | 2024-03-26 |  |

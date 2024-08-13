@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28CRGk.md) - [plain]
 
 ### [This Is Marco Polo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28CRGk)
 
-> This is Marco Polo\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Marco Polo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28CRGk.md) - [plain]
 | 36 | [BK 2 NJ](https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Das EFX](https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG) | [Newport Authority 2](https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O) | 3:18 |
 | 37 | [More Danger](https://open.spotify.com/track/5UUbhrtXsYKo2KeFPj7K4b) | [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Midnight Run](https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK) | 2:09 |
 | 38 | [American Me](https://open.spotify.com/track/5F3xdzFq5PZeBsQ281WCml) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [A Breukelen Story](https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth) | 3:14 |
-| 39 | [Count Em Up](https://open.spotify.com/track/5pADObkRApXpf8R8TMnaE7) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Lil Fame](https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u) | [A Breukelen Story \(Deluxe Edition\)](https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw) | 3:49 |
+| 39 | [Corporal Punishment](https://open.spotify.com/track/2PHFvMWtHTnoXITzj1fOgl) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Elzhi](https://open.spotify.com/artist/6OwOuTjrLVrlMH1nxxIjbT) | [A Breukelen Story \(Deluxe Edition\)](https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw) | 3:23 |
 | 40 | [G.U.R.U.](https://open.spotify.com/track/1lCCn7sRZQSPzHZP8tNzd7) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [G.U.R.U.](https://open.spotify.com/album/2zGzjKOL0cjNipoqjXRaLg) | 4:28 |
 | 41 | [Miejmy To za Sobą](https://open.spotify.com/track/1sSB4QeES1fDkaBeC7MPVM) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 3:48 |
 | 42 | [Get Busy](https://open.spotify.com/track/5GJAJ214LcuJOztQMJKoqP) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Copywrite](https://open.spotify.com/artist/05YQdfjpG35u5fmVn7Y0sc) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 4:24 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28CRGk.md) - [plain]
 | 44 | [Danger](https://open.spotify.com/track/7lRvPKj9HX2vyiolG2uP48) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0) | [Double Barrel](https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY) | 3:00 |
 | 45 | [Przyjaciel Diabła](https://open.spotify.com/track/0h8DtGEXqTMkHnUZn0ZELH) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 3:58 |
 | 46 | [War](https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 3:56 |
-| 47 | [Nite & Day](https://open.spotify.com/track/0m3osdhVkpzPUNojzC7xo1) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Newport Authority 2](https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O) | 3:34 |
-| 48 | [Nightmare on Fro Street](https://open.spotify.com/track/5PwQr0inF40AnQ9c3RnCuX) | [A\-F\-R\-O](https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [A\-F\-R\-O POLO](https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3) | 3:07 |
+| 47 | [Nightmare on Fro Street](https://open.spotify.com/track/5PwQr0inF40AnQ9c3RnCuX) | [A\-F\-R\-O](https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [A\-F\-R\-O POLO](https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3) | 3:07 |
+| 48 | [Nite & Day](https://open.spotify.com/track/0m3osdhVkpzPUNojzC7xo1) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Newport Authority 2](https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O) | 3:34 |
 | 49 | [Hołd Bloków Absolwentom](https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 3:26 |
 | 50 | [Double Barrel](https://open.spotify.com/track/7G44SyqP1cQqyeKcje7f3k) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [DJ Revolution](https://open.spotify.com/artist/5OsTd4JBco0XckFuy3vCql) | [Double Barrel](https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY) | 3:24 |
 
-Snapshot ID: `ZratgAAAAACM5gv0L0GDpwIw3iBakA4O`
+Snapshot ID: `Zrf/AAAAAACEIcMvsiSQ2/cz7GZzH2JQ`

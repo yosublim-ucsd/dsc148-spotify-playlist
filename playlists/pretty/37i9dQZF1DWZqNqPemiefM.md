@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,771 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,769 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 75 | [Terra Recipe](https://open.spotify.com/track/2GWNKsZ7cqicbvWynbOkaW) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 3:50 |
 | 76 | [Mirror\#1](https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Reflections](https://open.spotify.com/album/22Nb42QDmyNSEsiAUBAo3c) | 6:01 |
 | 77 | [Still Dreaming](https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:27 |
-| 78 | [SLEEP](https://open.spotify.com/track/1aw0BaQEC2PGp8kmYYHvyP) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green \(SFX Version\)](https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w) | 6:50 |
-| 79 | [Holy Delay](https://open.spotify.com/track/3wN7BJJcU4tJsqF57GRt9M) | [Susumu Hirasawa](https://open.spotify.com/artist/6kaueP97pX7WZoOwF8XsI2) | [SIREN \(セイレーン\)](https://open.spotify.com/album/32NYvrETcA5iKorC3Sk1z9) | 5:23 |
+| 78 | [Holy Delay](https://open.spotify.com/track/3wN7BJJcU4tJsqF57GRt9M) | [Susumu Hirasawa](https://open.spotify.com/artist/6kaueP97pX7WZoOwF8XsI2) | [SIREN \(セイレーン\)](https://open.spotify.com/album/32NYvrETcA5iKorC3Sk1z9) | 5:23 |
+| 79 | [SLEEP](https://open.spotify.com/track/1aw0BaQEC2PGp8kmYYHvyP) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green \(SFX Version\)](https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w) | 6:50 |
 | 80 | [霧中夢](https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 6:59 |
 | 81 | [That world](https://open.spotify.com/track/6OnL0UQxLi3CO8eJH4Iabq) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Anoyo](https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T) | 9:10 |
 | 82 | [Marginalia \#119](https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs) | 6:09 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 93 | [Zhan\-ti\-sui Temple](https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg) | [6 roads](https://open.spotify.com/album/0wvuqxZa7jZHv4N57qbJih) | 4:14 |
 | 94 | [Slowly Diving](https://open.spotify.com/track/19RiT2dZ8TkHvL6cPaFP1A) | [Takuro Okada](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm), [葛西敏彦](https://open.spotify.com/artist/2lDaAvUzZP2ux1i12xuH6Y), [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47) | [To Waters of Lethe](https://open.spotify.com/album/5bbc9oYHs1OcOVrc6pwC1g) | 4:20 |
 | 95 | [KI\-KI\-KI](https://open.spotify.com/track/7C7nnQSwudlE7K7zKVks0b) | [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n) | [MSCTY X V&A Dundee](https://open.spotify.com/album/75SHGWcZLS9bpcCB3kgIEe) | 13:39 |
-| 96 | [Li Ma Li](https://open.spotify.com/track/0iQZ81pN5ykDwDVOE98vpU) | [Tō Yō](https://open.spotify.com/artist/1HsbWI9eeccgUpzffKCYQT) | [Stray Birds From The Far East](https://open.spotify.com/album/6Fj8AWo4WMh7Qc5R8DEc8I) | 6:17 |
-| 97 | [True Life Again](https://open.spotify.com/track/7h3Jac9a1L6S745rl0mC59) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [True Life](https://open.spotify.com/album/5yE9lcwFUv5i7pvfNm7EGm) | 3:55 |
-| 98 | [あなたは猫です](https://open.spotify.com/track/4B8y9ZGZeWoCV0KOIzFSoU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [猫は抱くもの \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/5inaGyoHpfa8ImmeriboUB) | 3:15 |
+| 96 | [あなたは猫です](https://open.spotify.com/track/4B8y9ZGZeWoCV0KOIzFSoU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [猫は抱くもの \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/5inaGyoHpfa8ImmeriboUB) | 3:15 |
+| 97 | [Li Ma Li](https://open.spotify.com/track/0iQZ81pN5ykDwDVOE98vpU) | [Tō Yō](https://open.spotify.com/artist/1HsbWI9eeccgUpzffKCYQT) | [Stray Birds From The Far East](https://open.spotify.com/album/6Fj8AWo4WMh7Qc5R8DEc8I) | 6:17 |
+| 98 | [True Life Again](https://open.spotify.com/track/7h3Jac9a1L6S745rl0mC59) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [True Life](https://open.spotify.com/album/5yE9lcwFUv5i7pvfNm7EGm) | 3:55 |
 | 99 | [Memory Sketches](https://open.spotify.com/track/5JQMan7GM7qVZDlIqsVcgc) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Memory Sketches](https://open.spotify.com/album/5la7iDphAuUuUjv8TSeKd3) | 3:59 |
 | 100 | [the end](https://open.spotify.com/track/7vbxgYOAUfYKDHxIGWvVSW) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 1:15 |
 

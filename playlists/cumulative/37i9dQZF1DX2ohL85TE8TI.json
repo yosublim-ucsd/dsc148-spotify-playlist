@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Profitable Cage OST Part.27 (Soundtrack)",
+        "url": "https://open.spotify.com/album/4TkuKr3osv60cweuDrliJc"
+      },
+      "artists": [
+        {
+          "name": "Yeoeun",
+          "url": "https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214410,
+      "name": "A day with you",
+      "url": "https://open.spotify.com/track/4w0m4BgmvgB59e6ZjGhzKp"
+    },
+    {
+      "album": {
         "name": "Work Later Drink Now, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3DLShW88DMjx9CI0atcdHQ"
       },
@@ -6194,7 +6212,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 221477,
       "name": "I'm not ready to say goodbye",
       "url": "https://open.spotify.com/track/0B7KQE4dmOWmIxkz1QFBoz"
@@ -7262,7 +7280,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 214600,
       "name": "Last minute",
       "url": "https://open.spotify.com/track/7lNskvQuQ4fxtXpAa3I7nt"
@@ -9721,6 +9739,24 @@
     },
     {
       "album": {
+        "name": "Romance in the House (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/4JmbCcuAGJm10DtWJRUMrY"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/4bUOvMzcR9G6qE3qqIMgmd"
+    },
+    {
+      "album": {
         "name": "Lies hidden in my garden, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0z67WGg4tbjLo6gZkpaFYy"
       },
@@ -10846,7 +10882,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 241333,
       "name": "Reaching You",
       "url": "https://open.spotify.com/track/3FuvkSCzfWyIubkWgYnqrM"
@@ -13193,6 +13229,24 @@
     },
     {
       "album": {
+        "name": "Beauty and Romantic OST Part.20 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3FPK08MTJimkaXNJWAF93E"
+      },
+      "artists": [
+        {
+          "name": "Woo Eun Mi",
+          "url": "https://open.spotify.com/artist/3A6pL3y2Oj3BDRj370VsE9"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219108,
+      "name": "The one person who made me laugh",
+      "url": "https://open.spotify.com/track/15OalEnnbILCk6xGJBh1Tz"
+    },
+    {
+      "album": {
         "name": "Now, We Are Breaking Up (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/45AZsZfx4wTLps1b1DVdRX"
       },
@@ -14498,7 +14552,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 219133,
       "name": "We\u2032re done - Female Version",
       "url": "https://open.spotify.com/track/1vGB8HUVBeNOA6sc85mA9r"
@@ -16096,6 +16150,28 @@
       "duration_ms": 231837,
       "name": "\uc548\uac1c \uc18d \uc5b4\ub514\ub85c",
       "url": "https://open.spotify.com/track/6EzhxjPONekJoXQbe2u7W0"
+    },
+    {
+      "album": {
+        "name": "\uc5f0\uc560\ucd08\ubc18 (\ub098\uc05c \uae30\uc5b5 \uc9c0\uc6b0\uac1c X \ube48\uc13c\ud2b8\ube14\ub8e8, \ub9ac\ubc0b (Limit)) - Soundtrack",
+        "url": "https://open.spotify.com/album/7eEVkSStrPKy1j9qO66EAA"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        },
+        {
+          "name": "Limit",
+          "url": "https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228440,
+      "name": "\uc5f0\uc560\ucd08\ubc18",
+      "url": "https://open.spotify.com/track/2SkeRyhSD3QQwcLegGLOuC"
     },
     {
       "album": {

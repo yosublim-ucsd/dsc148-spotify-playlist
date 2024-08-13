@@ -4,7 +4,7 @@
 
 > blir det en hvit sommer?
 
-369 songs - 16 hr 54 min
+370 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Medbrakt](https://open.spotify.com/track/0anBi4abqUhf7qvGrk5ALE) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Medbrakt](https://open.spotify.com/album/3tWVpKIfVPosF7LLi5fcOG) | 2:11 | 2022-01-06 | 2022-07-29 |
 | [MEDVETSLÖS \- Ringnes\-Ronny Remix](https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [MEDVETSLÖS \(Ringnes\-Ronny Remix\)](https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv) | 3:06 | 2021-12-16 | 2024-02-16 |
 | [Mekke bil \(feat\. Tor\-Anders Ringnes\)](https://open.spotify.com/track/4dqrmHVAq0GtWgb0oGXGAA) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Tor\-Anders Ringnes](https://open.spotify.com/artist/1C6ztSfBUGTx9lZ65HjqqW) | [Mekke bil \(feat\. Tor\-Anders Ringnes\)](https://open.spotify.com/album/5KudautWOwAQOyFVWhrGRt) | 2:28 | 2024-03-14 |  |
-| [MERE BANJO!](https://open.spotify.com/track/79xNPAeIwCLYDiiqkYb2ve) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [MERE BANJO!](https://open.spotify.com/album/3KOcsWbjqW1IDCuEUId0q7) | 2:04 | 2024-06-27 |  |
+| [MERE BANJO!](https://open.spotify.com/track/79xNPAeIwCLYDiiqkYb2ve) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [MERE BANJO!](https://open.spotify.com/album/3KOcsWbjqW1IDCuEUId0q7) | 2:04 | 2024-06-27 | 2024-08-13 |
 | [MILLION](https://open.spotify.com/track/1BN63Kxnw30peKSp5xLVNl) | [KLØBB x FEED](https://open.spotify.com/artist/2MnF2E84PKJiRM88LfP1Gu), [Mr\. Millionish](https://open.spotify.com/artist/1HhLrlaAvKHqM1e6Lew5Ii) | [MILLION](https://open.spotify.com/album/0sCju8X4V2Ys9cRT2fuKY9) | 2:00 | 2022-07-14 | 2022-09-23 |
 | [Min psykolog](https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Min psykolog](https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf) | 2:30 | 2024-05-23 |  |
 | [MISSFÖRSTÅTT \- Roc Boyz Remix](https://open.spotify.com/track/5PnY5zibauLwrMFIBfmwM3) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [MISSFÖRSTÅTT \(Roc Boyz Remix\)](https://open.spotify.com/album/0MKKTiQSyTr116fbPq79vf) | 1:54 | 2022-07-14 | 2022-10-14 |
@@ -318,6 +318,7 @@
 | [Splitter Pine](https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c) | [Dumdum Boys](https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv) | [Splitter Pine \(Remastered 2015\)](https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee) | 4:27 | 2022-03-24 | 2024-02-09 |
 | [Sunnanvind – Spotify Singles](https://open.spotify.com/track/2wWa1fgvYOKr8GpD17hWKD) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Sunnanvind – Spotify Singles](https://open.spotify.com/album/3mSCGK6BTUkpmQZDol3GWE) | 2:49 | 2024-07-18 |  |
 | [Supa](https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Supa](https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG) | 2:52 | 2021-12-16 | 2024-04-22 |
+| [Sus & Dus \(feat\. Lothepus\)](https://open.spotify.com/track/0WVAxyXM6QKD6eyZiecgwM) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Lothepus](https://open.spotify.com/artist/2HEAdsUVqQO9KqF1wKmHOO) | [Sus & Dus \(feat\. Lothepus\)](https://open.spotify.com/album/6icNeVKB69STNb6TPBzfcW) | 2:30 | 2024-08-08 |  |
 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 | 2021-12-16 |  |
 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 | 2021-12-16 | 2022-11-16 |
 | [Sykepleierinnen \- Remix](https://open.spotify.com/track/7ysbOWocXnU71Td0ggrrGd) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sykepleierinnen \(Remix\)](https://open.spotify.com/album/1hF27RvzdmRbqHgJwaAxrt) | 3:35 | 2021-12-16 | 2022-01-17 |

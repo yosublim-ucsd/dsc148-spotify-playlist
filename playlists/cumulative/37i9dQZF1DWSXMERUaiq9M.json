@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "6 Million Ways To Die",
+        "url": "https://open.spotify.com/album/2GqZMIgoYFKSPsZyrZWupV"
+      },
+      "artists": [
+        {
+          "name": "NewTone",
+          "url": "https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387500,
+      "name": "6 Million Ways To Die",
+      "url": "https://open.spotify.com/track/5VaJXLs5GTseSZPpVqmoZn"
+    },
+    {
+      "album": {
         "name": "90s Baby",
         "url": "https://open.spotify.com/album/2l6173A8dMuQ7RyR16VMb3"
       },
@@ -86,6 +104,28 @@
       "duration_ms": 315723,
       "name": "90s Baby",
       "url": "https://open.spotify.com/track/6yBBevO7I1HTgUcNMSPbis"
+    },
+    {
+      "album": {
+        "name": "90s Bitch",
+        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196258,
+      "name": "90s Bitch",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "album": {
@@ -822,7 +862,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 139000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41"
@@ -1018,7 +1058,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 121800,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw"
@@ -1417,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Revised Rebels, Vol. 2",
+        "url": "https://open.spotify.com/album/0wblO2tO9LBV9IKAt3JgnF"
+      },
+      "artists": [
+        {
+          "name": "KX CHR",
+          "url": "https://open.spotify.com/artist/6q4BufN5u0ChOMqqxzPgGU"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263282,
+      "name": "Do You Wanna Dance",
+      "url": "https://open.spotify.com/track/1zwS4CGOFobHqCrBx7eZHD"
+    },
+    {
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O"
       },
@@ -1476,7 +1534,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 304500,
       "name": "Donkers",
       "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
@@ -1807,6 +1865,28 @@
     },
     {
       "album": {
+        "name": "Ever Been Punched",
+        "url": "https://open.spotify.com/album/4dXQcKAqasUFoPzKAF1hmg"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134392,
+      "name": "Ever Been Punched",
+      "url": "https://open.spotify.com/track/5ImCWFZ4baU82mNbKyTxCQ"
+    },
+    {
+      "album": {
         "name": "Everybody's Free (To Feel Good)",
         "url": "https://open.spotify.com/album/4XBjD0YdqN3FjIyPT48AxD"
       },
@@ -1826,7 +1906,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 131575,
       "name": "Everybody's Free (To Feel Good)",
       "url": "https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A"
@@ -2836,7 +2916,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 215096,
       "name": "It Ain't Over",
       "url": "https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG"
@@ -3031,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Kerala",
+        "url": "https://open.spotify.com/album/3xOvwpeoFQnUn7f0UzhCId"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209428,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/2kpeGK7obKW8xaN3p5lMMT"
+    },
+    {
+      "album": {
         "name": "KETA UND KRAWALL",
         "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
       },
@@ -3082,10 +3180,32 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 160000,
       "name": "La Batteria",
       "url": "https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0"
+    },
+    {
+      "album": {
+        "name": "La Batteria (X-COAST Remix)",
+        "url": "https://open.spotify.com/album/04unlS9H1Oxe5zFJrcHHgX"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        },
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242800,
+      "name": "La Batteria - X-COAST Remix",
+      "url": "https://open.spotify.com/track/6HClx0gNRN4CD4EzMKf7o9"
     },
     {
       "album": {
@@ -3147,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "DONGRHYTHM",
+        "url": "https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146867,
+      "name": "Let's go",
+      "url": "https://open.spotify.com/track/64o22Tm6YLaHqEwXbWYqZp"
+    },
+    {
+      "album": {
         "name": "Brilletje",
         "url": "https://open.spotify.com/album/2xmq2AcsQDHmSMRu6YGGsz"
       },
@@ -3165,6 +3303,28 @@
     },
     {
       "album": {
+        "name": "LIGHT IT UP",
+        "url": "https://open.spotify.com/album/3bdwPBIYg2JrDrMvKN5iUH"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        },
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140710,
+      "name": "LIGHT IT UP",
+      "url": "https://open.spotify.com/track/5fDMxAnUvFwVqIUPQjlGcV"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0VkJvDI13bCS5WJ6zNBp0m"
       },
@@ -3176,7 +3336,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 153458,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/0CtEQErgyA7Jp4Jb3LGC7S"
@@ -4225,6 +4385,32 @@
     },
     {
       "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/1iTxUzn9DqvScz3SJVjdgz"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Nik Sitz",
+          "url": "https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm"
+        },
+        {
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195100,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/2ABnWO87LfxTHsj2dewC7X"
+    },
+    {
+      "album": {
         "name": "WAXTAPE 2",
         "url": "https://open.spotify.com/album/1uHpC5qOXH6SYPXYEW1Jbh"
       },
@@ -5066,7 +5252,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 177324,
       "name": "So Lost",
       "url": "https://open.spotify.com/track/3d1pK4ShehtlaK3KqOsdsB"
@@ -5200,6 +5386,28 @@
       "duration_ms": 123316,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO"
+    },
+    {
+      "album": {
+        "name": "Survive It",
+        "url": "https://open.spotify.com/album/2zN2U5xYnIrWYx4vl4wW6Y"
+      },
+      "artists": [
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "Survive It",
+      "url": "https://open.spotify.com/track/5iq8BZoCP05ihLpMVUB6VA"
     },
     {
       "album": {
@@ -5856,7 +6064,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 173083,
       "name": "We Want More",
       "url": "https://open.spotify.com/track/7nfCb5stHePZ6OoE7HDTe2"
@@ -5874,7 +6082,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 188907,
       "name": "Wegen Dir",
       "url": "https://open.spotify.com/track/6kKoiRER3E74UgJDAI4C6N"
@@ -5922,7 +6130,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 164826,
       "name": "While U Sleep",
       "url": "https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX"
@@ -6082,7 +6290,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 371555,
       "name": "You're Toxic",
       "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"

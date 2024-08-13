@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 336393,
       "name": "Children - Mind Against & Dyzen Remix",
       "url": "https://open.spotify.com/track/5hr6v1jVSkiFaKq8ZvN7Md"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 218709,
       "name": "Delete Time",
       "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
@@ -2354,6 +2354,24 @@
       "duration_ms": 206000,
       "name": "Drop It Down",
       "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
+    },
+    {
+      "album": {
+        "name": "Dun Dun",
+        "url": "https://open.spotify.com/album/4Ycyp1cQVW9VPOzlEdSk83"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Dun Dun",
+      "url": "https://open.spotify.com/track/48XuAKxSzr3nJBeU1yf0KM"
     },
     {
       "album": {
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 373453,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/2P6RQguS7aEMz5wfJupyzQ"
@@ -4171,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249560,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
+    },
+    {
+      "album": {
         "name": "Len\u00e7\u00f3is (Love Me) [Cassian Remix]",
         "url": "https://open.spotify.com/album/5b9ZVkXeCwJ8v6NB0Bi77b"
       },
@@ -4204,7 +4240,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 300000,
       "name": "Let the Music",
       "url": "https://open.spotify.com/track/0K39LXoHYlmW0dsoRmu3gi"
@@ -5416,7 +5452,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 198688,
       "name": "Nothing That I Need",
       "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
@@ -7777,6 +7813,24 @@
     },
     {
       "album": {
+        "name": "The Puzzle",
+        "url": "https://open.spotify.com/album/7glWasnboeGETrKnJZ3CtZ"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334462,
+      "name": "The Puzzle",
+      "url": "https://open.spotify.com/track/6Fivn91TO0E7orLq2NcJwX"
+    },
+    {
+      "album": {
         "name": "The Rapture Pt.III",
         "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
       },
@@ -7818,6 +7872,24 @@
       "duration_ms": 414335,
       "name": "The Sky Is Red",
       "url": "https://open.spotify.com/track/2CYsjZ2oxUK9KhKqEAMTsL"
+    },
+    {
+      "album": {
+        "name": "The Telepath",
+        "url": "https://open.spotify.com/album/7MKlDCqLisacqJ2ynQ9FVQ"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216495,
+      "name": "The Telepath",
+      "url": "https://open.spotify.com/track/56rfbVxwhyZ8ru7uo1BJrJ"
     },
     {
       "album": {
@@ -8666,6 +8738,40 @@
       "duration_ms": 230945,
       "name": "Won't Forget You (Edit)",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "album": {
+        "name": "Yamore",
+        "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Ces\u00e1ria Evora",
+          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Yamore",
+      "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
       "album": {

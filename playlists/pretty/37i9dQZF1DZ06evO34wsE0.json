@@ -1,12 +1,12 @@
 {
-  "description": "This Is Shania Twain. Los temas esenciales, todos en una lista.",
-  "num_followers": 243887,
+  "description": "This is Shania Twain. The essential tracks, all in one playlist.",
+  "num_followers": 243902,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAADxttO+svcSE6DtdfW152W2",
+  "snapshot_id": "Zrf/AAAAAACqdCAMXmuN1yH7qd52YO7/",
   "tracks": [
     {
       "added_at": null,
@@ -643,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now (Deluxe)",
-        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb"
       },
       "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Swingin' With My Eyes Closed",
-      "url": "https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT"
+      "duration_ms": 200813,
+      "name": "Forever And Ever, Amen",
+      "url": "https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc"
     },
     {
       "added_at": null,
@@ -675,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb"
+        "name": "Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
       },
       "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 200813,
-      "name": "Forever And Ever, Amen",
-      "url": "https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc"
+      "duration_ms": 213093,
+      "name": "Swingin' With My Eyes Closed",
+      "url": "https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT"
     },
     {
       "added_at": null,

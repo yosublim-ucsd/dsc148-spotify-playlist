@@ -2,7 +2,7 @@
 
 ### [This Is thủy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fphZf)
 
-> This Is thủy\. Los temas esenciales, todos en una lista.
+> This is thủy\. The essential tracks, all in one playlist.
 
 52 songs - 2 hr 39 min
 

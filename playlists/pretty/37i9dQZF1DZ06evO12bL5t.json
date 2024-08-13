@@ -1,12 +1,12 @@
 {
-  "description": "This Is Herencia de Patrones. Los temas esenciales, todos en una lista.",
-  "num_followers": 123882,
+  "description": "This is Herencia de Patrones\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 123917,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAABcmeReYX9ELbM5PeNKXrE1",
+  "snapshot_id": "Zrf/AAAAAABANBpSKc7nOEnraSOXzNGh",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL KARMA",
-        "url": "https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 171749,
-      "name": "EL KARMA",
-      "url": "https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moreno 80 (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 182000,
       "name": "Moreno 80",
       "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL KARMA",
+        "url": "https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 171749,
+      "name": "EL KARMA",
+      "url": "https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Archivos",
+        "url": "https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 188265,
+      "name": "Payonazo",
+      "url": "https://open.spotify.com/track/0ZJ1fc3DkuUwrgqriASaSR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 137769,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0peDp43dtDzI4I5599gG02"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Archivos",
-        "url": "https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 188265,
-      "name": "Payonazo",
-      "url": "https://open.spotify.com/track/0ZJ1fc3DkuUwrgqriASaSR"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Archivos",
+        "url": "https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 262352,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/3MabVV3VuTSsYSLwRatx9g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde El Cant\u00f3n, Vol. II (En Vivo)",
         "url": "https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 247500,
       "name": "Siempre Activo - En Vivo",
       "url": "https://open.spotify.com/track/6mdGBWH1EZxW3cN2yj737v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Archivos",
-        "url": "https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 262352,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/3MabVV3VuTSsYSLwRatx9g"
     },
     {
       "added_at": null,

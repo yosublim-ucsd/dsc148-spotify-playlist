@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "I'll talk to you (The Moon during the Day X Gummy)",
+        "url": "https://open.spotify.com/album/0AGHJEmZCaxOFzuTC2UGD2"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231120,
+      "name": "I'll talk to you (The Moon during the Day X Gummy)",
+      "url": "https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1"
+    },
+    {
+      "album": {
         "name": "I'M BACK (Killer Peter X BLAS\u00c9)[Original Webtoon Soundtrack]",
         "url": "https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h"
       },
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 198040,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/7EbqPyHFpXmcTTewbsX9hz"

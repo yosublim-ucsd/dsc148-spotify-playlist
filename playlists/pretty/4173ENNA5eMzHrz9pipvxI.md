@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta x Afrojack
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,206 likes - 10 songs - 26 min 31 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,201 likes - 10 songs - 26 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrYdhQAAAAAER91Hv0uZDBRhHWUaeEtP",
+  "snapshot_id": "ZrnNDQAAAADNI5IEU9srGcVjqdTNb18/",
   "tracks": [
     {
       "added_at": "2024-07-29 07:04:31",
@@ -111,6 +111,26 @@
       "duration_ms": 155075,
       "name": "Sakkare",
       "url": "https://open.spotify.com/track/2wFS5t4oQI78R9uwZEVocD"
+    },
+    {
+      "added_at": "2024-08-12 08:51:12",
+      "album": {
+        "name": "Nilladu Ninna Kanasugalu",
+        "url": "https://open.spotify.com/album/2BaYQQfhXTzkqv7lVVoM1E"
+      },
+      "artists": [
+        {
+          "name": "Gayathri Prabhu",
+          "url": "https://open.spotify.com/artist/1aW8ffhA2JA3XL6er86jJa"
+        },
+        {
+          "name": "Kiran Manjunath",
+          "url": "https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz"
+        }
+      ],
+      "duration_ms": 266139,
+      "name": "Nilladu Ninna Kanasugalu",
+      "url": "https://open.spotify.com/track/0qUFTz8zMhY4s1tVlfIrH2"
     },
     {
       "added_at": "2024-08-07 11:23:13",
@@ -1407,50 +1427,6 @@
       "duration_ms": 146669,
       "name": "Neenire Jotheyalli",
       "url": "https://open.spotify.com/track/43J5iLiNYuyjOlN0hCMoU1"
-    },
-    {
-      "added_at": "2024-02-26 11:55:08",
-      "album": {
-        "name": "Good Vibe",
-        "url": "https://open.spotify.com/album/52RcOVDsrNbqrDAnCesUnq"
-      },
-      "artists": [
-        {
-          "name": "Paluz45",
-          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
-        },
-        {
-          "name": "Manu Rao",
-          "url": "https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ"
-        }
-      ],
-      "duration_ms": 137771,
-      "name": "Good Vibe",
-      "url": "https://open.spotify.com/track/1sAUWodQtglnQ3RqVbRLxj"
-    },
-    {
-      "added_at": "2023-09-13 11:53:53",
-      "album": {
-        "name": "Manasare",
-        "url": "https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1"
-      },
-      "artists": [
-        {
-          "name": "Vishwajeet Deshpande",
-          "url": "https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U"
-        },
-        {
-          "name": "Harsha Abbigeri",
-          "url": "https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr"
-        },
-        {
-          "name": "Amogh Malakannavar",
-          "url": "https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8"
-        }
-      ],
-      "duration_ms": 166941,
-      "name": "Manasare",
-      "url": "https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO"
     }
   ],
   "unique_name": "Kannada Indie",

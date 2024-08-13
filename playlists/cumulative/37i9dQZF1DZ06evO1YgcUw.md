@@ -2,7 +2,7 @@
 
 ### [This Is The Beach Boys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YgcUw)
 
-> This is The Beach Boys\. The essential tracks, all in one playlist.
+> This Is The Beach Boys\. Los temas esenciales, todos en una lista.
 
 124 songs - 5 hr 24 min
 
@@ -99,7 +99,7 @@
 | [Pet Sounds](https://open.spotify.com/track/1RDva71oSm8zSnRLMQm6Gx) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:37 | 2023-08-08 | 2024-05-29 |
 | [Please Let Me Wonder \- Remastered](https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys Today! \(Remastered\)](https://open.spotify.com/album/1xPtXzS5yCbDAqC7pxRCaF) | 2:47 | 2022-09-24 | 2024-07-24 |
 | [Rock And Roll Music \- Remastered 2012](https://open.spotify.com/track/0nmfRjxDxOhs2CggxvGPHS) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:29 | 2023-06-07 |  |
-| [Sail On, Sailor \- Remastered 2000](https://open.spotify.com/track/3U4hSjTlK6WU0wORlAne9H) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Holland \(Remastered 2000\)](https://open.spotify.com/album/56TmtkBepKW3eZKiRjEl0M) | 3:22 | 2022-09-17 |  |
+| [Sail On, Sailor \- Remastered 2000](https://open.spotify.com/track/3U4hSjTlK6WU0wORlAne9H) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Holland \- Remastered 2000](https://open.spotify.com/album/56TmtkBepKW3eZKiRjEl0M) | 3:22 | 2022-09-17 |  |
 | [She's Goin' Bald \- Remastered 2001](https://open.spotify.com/track/0xawCui2WxkhGdrUvxtZ9v) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 2:17 | 2023-12-13 | 2023-12-26 |
 | [Shut Down \- 2021 Stereo Mix](https://open.spotify.com/track/4b0l6em0uyxINXEHuKO5nG) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down / Good Vibrations \(2021 Stereo Mix\)](https://open.spotify.com/album/7o1TsJgTlyE5IspzERWwU6) | 1:51 | 2022-09-17 | 2023-07-31 |
 | [Shut Down \- Remastered 2001](https://open.spotify.com/track/3jZLwNteBDlGhgOCEgnuF2) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 1:51 | 2024-02-16 |  |

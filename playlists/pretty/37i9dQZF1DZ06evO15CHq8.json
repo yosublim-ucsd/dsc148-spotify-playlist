@@ -1,12 +1,12 @@
 {
-  "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 600232,
+  "description": "This Is $uicideboy$. Los temas esenciales, todos en una lista.",
+  "num_followers": 600447,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAACpx83ja+1KnpuJRZDG8kfJ",
+  "snapshot_id": "Zrf/AAAAAABhq5xiXaUcZ+swjOmklxsg",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Us Vs. Them",
-        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "Us Vs. Them",
-      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I No Longer Fear The Razor Guarding My Heel (V)",
         "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
       },
@@ -335,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 150942,
-      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
-      "url": "https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KILL YOURSELF Part XIII: The Atlantis Saga",
         "url": "https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u"
       },
@@ -363,6 +331,22 @@
       "duration_ms": 139246,
       "name": "New Chains, Same Shackles",
       "url": "https://open.spotify.com/track/1smeI4gqEuepGWxlSw3tnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 150942,
+      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+      "url": "https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah"
     },
     {
       "added_at": null,

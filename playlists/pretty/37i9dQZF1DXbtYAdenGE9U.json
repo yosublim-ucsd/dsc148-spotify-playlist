@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 594484,
+  "num_followers": 594738,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Trance Top 1000 - The Best Of",
+        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "duration_ms": 225841,
+      "name": "Universal Nation",
+      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Carte Blanche (Ilan Bluestone Remix)",
         "url": "https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 204396,
       "name": "Carte Blanche - FM Edit",
       "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Trance Top 1000 - The Best Of",
-        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        }
-      ],
-      "duration_ms": 225841,
-      "name": "Universal Nation",
-      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
     },
     {
       "added_at": "2024-07-23 09:55:55",

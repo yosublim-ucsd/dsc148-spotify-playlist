@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Adifa
+> Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  L/
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,574 likes - 111 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,579 likes - 111 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jatuh Lagi / Benci Lagi](https://open.spotify.com/track/7qcUbC8qA9eI6vgFIVaQD0) | [Adifa](https://open.spotify.com/artist/3ICnmyRuEXfjVutSh1pUbV) | [Jatuh Lagi / Benci Lagi](https://open.spotify.com/album/3y6g0Y2gOOSlR8UxSTDRPH) | 3:00 |
-| 2 | [Gantung Aku](https://open.spotify.com/track/3ZiKadU8FnJwKyDgTdb9hX) | [Aurla](https://open.spotify.com/artist/5aqBDf8HH7H0fduSKocH4Y) | [Gantung Aku](https://open.spotify.com/album/1LrW1BsfigrClXjZ1YjLtr) | 3:28 |
-| 3 | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/track/4PLY3JB1sPhgWiSxQdovCG) | [Iren Glory](https://open.spotify.com/artist/7tkbfHtHXuuUvs0kWfSwa0) | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/album/02s0GD3LaQu62L9dgG9b4T) | 2:16 |
-| 4 | [ASA](https://open.spotify.com/track/5La6LRE8J7ADZWxje32qEF) | [Féath](https://open.spotify.com/artist/0pZB44LLM58dQcY5xUkVRa), [Rizky Ananda](https://open.spotify.com/artist/1uUHtbvHnqjAfTnJI71yGW) | [ASA](https://open.spotify.com/album/6ergii3hAsLfJtPWiU0wvr) | 5:05 |
-| 5 | [Take It Slow](https://open.spotify.com/track/5DXX82PVYUYIdAb6czzR6l) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Take It Slow](https://open.spotify.com/album/5tmiUYxb4Xx7GgPC8D3LdZ) | 3:49 |
-| 6 | [I'll Pick You Home](https://open.spotify.com/track/5Llcv1rtBL5Xl0nOivpD4J) | [NAUC](https://open.spotify.com/artist/6Ij0k9raTSYgnHCYkOaaub) | [I'll Pick You Home](https://open.spotify.com/album/5dE70foq3nN8B9u0rm6j4q) | 3:39 |
-| 7 | [Khalish](https://open.spotify.com/track/00kcPnKFc2W2C2qSVZMtuh) | [Rama Natawidjaja](https://open.spotify.com/artist/1pY6FzuGjbvSwEiAiX0JM8) | [Khalish](https://open.spotify.com/album/11iYncr87grBeUYjODSbLu) | 3:43 |
-| 8 | [Seribu Tahun](https://open.spotify.com/track/03imO2DXi9eAD8bBcG05Kv) | [Danil Josse](https://open.spotify.com/artist/77Nahm64ws1CqWtDOe50xP) | [Seribu Tahun](https://open.spotify.com/album/2d2vssnFJK4cERkHfGrgMv) | 3:49 |
-| 9 | [Haunting Dreams](https://open.spotify.com/track/7DvKxy1fpz5d8riF1o6F5d) | [Fleeting Echo](https://open.spotify.com/artist/7bVJizir9RN4yN2pTmEasC) | [Haunting Dreams](https://open.spotify.com/album/0bSDwZtxhoyXCDCEu9sxAM) | 3:15 |
-| 10 | [Harus Berpisah](https://open.spotify.com/track/1XPiGkI4kfXVLZAb5AuWj8) | [Khaira Novia](https://open.spotify.com/artist/0gsEfJ503OngOmZXquiswU) | [Harus Berpisah](https://open.spotify.com/album/5rzyjQDLfZYuNcvgp8mAOj) | 3:51 |
-| 11 | [Jovial](https://open.spotify.com/track/15Gpfe9Dh8mqtunIOM6w9I) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Transition](https://open.spotify.com/album/4phil3Et5WiTENlaGUtOGG) | 3:39 |
-| 12 | [My Oh My](https://open.spotify.com/track/06xxOfQLy6h17HGCCDActq) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [My Oh My](https://open.spotify.com/album/3AAifF6LoKVlG08hquOz4a) | 3:27 |
-| 13 | [My Funny Guy](https://open.spotify.com/track/3571e0EPNI1NUpiVk7ZpOV) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Mar Vilaseca](https://open.spotify.com/artist/04LJBGqMl3Um7fFAxdMr0Y) | [My Funny Guy](https://open.spotify.com/album/7IIr2aHjaqAE0JQOxfePvy) | 4:03 |
-| 14 | [My Soul](https://open.spotify.com/track/2j3BQD9V8ukMRElZrvjb8B) | [PROBZ](https://open.spotify.com/artist/0RgvRGVhcdz4yUv6PhIC2f), [Bakhes](https://open.spotify.com/artist/0j79MISeDsUt0EoqdF2Yt2), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [My Soul](https://open.spotify.com/album/6aa9qyhThQWUReBRDUffbS) | 3:12 |
-| 15 | [ME NUH CARE](https://open.spotify.com/track/5i0YhHSN14SwQtPqrUyebG) | [Gbrand](https://open.spotify.com/artist/59t6QP0jd5vNknacUSoe5f) | [ME NUH CARE](https://open.spotify.com/album/7vqkr3ex9i2cCTj4ohIeCw) | 3:44 |
-| 16 | [Rawat Jalan](https://open.spotify.com/track/4PXOAbFIVHwP3B1zonLHQ0) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Kebun Rayaku](https://open.spotify.com/album/7pulPK1bhTeSOXG5J9pS1r) | 4:36 |
-| 17 | [1/4 Abad](https://open.spotify.com/track/3u1oInsDmRgFS2RQjj31Xw) | [Inas Hafizhah](https://open.spotify.com/artist/56TjIdgDbkfyq7XFyfOHhQ) | [1/4 Abad](https://open.spotify.com/album/70fxTYg33X4CFENLcZ146N) | 3:27 |
-| 18 | [Ayah](https://open.spotify.com/track/329d4APEgZF9tCGzq4UiDL) | [Sabrina Eben](https://open.spotify.com/artist/7hQO0u6UQrnAZ3VR5GusVo) | [Ayah](https://open.spotify.com/album/7EVqJsZzbIwqDQ5iSdXaVv) | 4:56 |
-| 19 | [Matematika](https://open.spotify.com/track/1qR4ZvuY2Bc9VkK1N7Sqnu) | [L/](https://open.spotify.com/artist/5Lk9FPpvHgvcr7L216AK30) | [Matematika](https://open.spotify.com/album/4z9voSEf6bok98Wanyqo3Q) | 3:29 |
+| 1 | [Matematika](https://open.spotify.com/track/1qR4ZvuY2Bc9VkK1N7Sqnu) | [L/](https://open.spotify.com/artist/5Lk9FPpvHgvcr7L216AK30) | [Matematika](https://open.spotify.com/album/4z9voSEf6bok98Wanyqo3Q) | 3:29 |
+| 2 | [Jatuh Lagi / Benci Lagi](https://open.spotify.com/track/7qcUbC8qA9eI6vgFIVaQD0) | [Adifa](https://open.spotify.com/artist/3ICnmyRuEXfjVutSh1pUbV) | [Jatuh Lagi / Benci Lagi](https://open.spotify.com/album/3y6g0Y2gOOSlR8UxSTDRPH) | 3:00 |
+| 3 | [Gantung Aku](https://open.spotify.com/track/3ZiKadU8FnJwKyDgTdb9hX) | [Aurla](https://open.spotify.com/artist/5aqBDf8HH7H0fduSKocH4Y) | [Gantung Aku](https://open.spotify.com/album/1LrW1BsfigrClXjZ1YjLtr) | 3:28 |
+| 4 | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/track/4PLY3JB1sPhgWiSxQdovCG) | [Iren Glory](https://open.spotify.com/artist/7tkbfHtHXuuUvs0kWfSwa0) | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/album/02s0GD3LaQu62L9dgG9b4T) | 2:16 |
+| 5 | [ASA](https://open.spotify.com/track/5La6LRE8J7ADZWxje32qEF) | [Féath](https://open.spotify.com/artist/0pZB44LLM58dQcY5xUkVRa), [Rizky Ananda](https://open.spotify.com/artist/1uUHtbvHnqjAfTnJI71yGW) | [ASA](https://open.spotify.com/album/6ergii3hAsLfJtPWiU0wvr) | 5:05 |
+| 6 | [Take It Slow](https://open.spotify.com/track/5DXX82PVYUYIdAb6czzR6l) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Take It Slow](https://open.spotify.com/album/5tmiUYxb4Xx7GgPC8D3LdZ) | 3:49 |
+| 7 | [I'll Pick You Home](https://open.spotify.com/track/5Llcv1rtBL5Xl0nOivpD4J) | [NAUC](https://open.spotify.com/artist/6Ij0k9raTSYgnHCYkOaaub) | [I'll Pick You Home](https://open.spotify.com/album/5dE70foq3nN8B9u0rm6j4q) | 3:39 |
+| 8 | [Khalish](https://open.spotify.com/track/00kcPnKFc2W2C2qSVZMtuh) | [Rama Natawidjaja](https://open.spotify.com/artist/1pY6FzuGjbvSwEiAiX0JM8) | [Khalish](https://open.spotify.com/album/11iYncr87grBeUYjODSbLu) | 3:43 |
+| 9 | [Seribu Tahun](https://open.spotify.com/track/03imO2DXi9eAD8bBcG05Kv) | [Danil Josse](https://open.spotify.com/artist/77Nahm64ws1CqWtDOe50xP) | [Seribu Tahun](https://open.spotify.com/album/2d2vssnFJK4cERkHfGrgMv) | 3:49 |
+| 10 | [Haunting Dreams](https://open.spotify.com/track/7DvKxy1fpz5d8riF1o6F5d) | [Fleeting Echo](https://open.spotify.com/artist/7bVJizir9RN4yN2pTmEasC) | [Haunting Dreams](https://open.spotify.com/album/0bSDwZtxhoyXCDCEu9sxAM) | 3:15 |
+| 11 | [Harus Berpisah](https://open.spotify.com/track/1XPiGkI4kfXVLZAb5AuWj8) | [Khaira Novia](https://open.spotify.com/artist/0gsEfJ503OngOmZXquiswU) | [Harus Berpisah](https://open.spotify.com/album/5rzyjQDLfZYuNcvgp8mAOj) | 3:51 |
+| 12 | [Jovial](https://open.spotify.com/track/15Gpfe9Dh8mqtunIOM6w9I) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Transition](https://open.spotify.com/album/4phil3Et5WiTENlaGUtOGG) | 3:39 |
+| 13 | [My Oh My](https://open.spotify.com/track/06xxOfQLy6h17HGCCDActq) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [My Oh My](https://open.spotify.com/album/3AAifF6LoKVlG08hquOz4a) | 3:27 |
+| 14 | [My Funny Guy](https://open.spotify.com/track/3571e0EPNI1NUpiVk7ZpOV) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Mar Vilaseca](https://open.spotify.com/artist/04LJBGqMl3Um7fFAxdMr0Y) | [My Funny Guy](https://open.spotify.com/album/7IIr2aHjaqAE0JQOxfePvy) | 4:03 |
+| 15 | [My Soul](https://open.spotify.com/track/2j3BQD9V8ukMRElZrvjb8B) | [PROBZ](https://open.spotify.com/artist/0RgvRGVhcdz4yUv6PhIC2f), [Bakhes](https://open.spotify.com/artist/0j79MISeDsUt0EoqdF2Yt2), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [My Soul](https://open.spotify.com/album/6aa9qyhThQWUReBRDUffbS) | 3:12 |
+| 16 | [ME NUH CARE](https://open.spotify.com/track/5i0YhHSN14SwQtPqrUyebG) | [Gbrand](https://open.spotify.com/artist/59t6QP0jd5vNknacUSoe5f) | [ME NUH CARE](https://open.spotify.com/album/7vqkr3ex9i2cCTj4ohIeCw) | 3:44 |
+| 17 | [Rawat Jalan](https://open.spotify.com/track/4PXOAbFIVHwP3B1zonLHQ0) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Kebun Rayaku](https://open.spotify.com/album/7pulPK1bhTeSOXG5J9pS1r) | 4:36 |
+| 18 | [1/4 Abad](https://open.spotify.com/track/3u1oInsDmRgFS2RQjj31Xw) | [Inas Hafizhah](https://open.spotify.com/artist/56TjIdgDbkfyq7XFyfOHhQ) | [1/4 Abad](https://open.spotify.com/album/70fxTYg33X4CFENLcZ146N) | 3:27 |
+| 19 | [Ayah](https://open.spotify.com/track/329d4APEgZF9tCGzq4UiDL) | [Sabrina Eben](https://open.spotify.com/artist/7hQO0u6UQrnAZ3VR5GusVo) | [Ayah](https://open.spotify.com/album/7EVqJsZzbIwqDQ5iSdXaVv) | 4:56 |
 | 20 | [Kak](https://open.spotify.com/track/1U6BE7RZzqQriHWFIswfVp) | [EJ Peace](https://open.spotify.com/artist/6iIYGfAGhAyTYsjq7L7muL) | [SIKLUS](https://open.spotify.com/album/2MopWLAkCQq2ZSwCYjc6t0) | 3:55 |
 | 21 | [Bersama Lagi](https://open.spotify.com/track/0af5NEGjg4mLCOaOqhBBCv) | [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Bersama Lagi](https://open.spotify.com/album/7MoR88Za93o77ecSCFw2XT) | 4:24 |
 | 22 | [Bersamamu](https://open.spotify.com/track/7ao9PNJRWyjM7FbJNWeaO8) | [Rega Poetra](https://open.spotify.com/artist/5MPk7LVQc13bWJCk0qc8bJ) | [Bersamamu](https://open.spotify.com/album/6UjpDRc1gm5okPQCxwRMAN) | 4:02 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 110 | [Empat Penjuru](https://open.spotify.com/track/49WlkOYv6HvogxJijGJi02) | [Generasi Muda Hebat](https://open.spotify.com/artist/0qVzCZVy3aB27YXCVxJevJ) | [Dari Nol](https://open.spotify.com/album/2HF2HhD1xJ35rMOZdZgcrn) | 3:44 |
 | 111 | [Lit Life](https://open.spotify.com/track/13WVs2LlfTdZ32GDT5qxc1) | [Sountave](https://open.spotify.com/artist/2qJlNlrMh4RucEgIqnU5Hq) | [Lit Life](https://open.spotify.com/album/0Yfo5HmuHZqno4gZ0eDneL) | 2:57 |
 
-Snapshot ID: `Zqx0oQAAAADCXaKqvMkQ7Wingbg7LG2I`
+Snapshot ID: `Zrl+8gAAAAB58LoFAP8ixMdTV6LPNmNL`

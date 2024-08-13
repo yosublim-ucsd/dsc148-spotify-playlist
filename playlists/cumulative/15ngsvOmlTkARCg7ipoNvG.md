@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,785 songs - 1 day 12 hr 50 min
+1,787 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/track/3KGeyPoru1o5I0v0uUDclf) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/album/2adPYyDCIgUncMi5II8H99) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Calm Solitude Arr\. For Strings](https://open.spotify.com/track/0oKpv6o8KJojLffylpR3Mr) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Calm Solitude Arr\. For Strings](https://open.spotify.com/album/6GAJrIXO6kZXDuobr95tNi) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Calm World](https://open.spotify.com/track/6RrMqrtAIHwfYZPJTmaAyk) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Calm World](https://open.spotify.com/album/224ipkjPTvQsivbMHHgtdB) | 1:00 | 2024-03-30 |  |
+| [Calming](https://open.spotify.com/track/3XKnpSnQ3CoHMUcDPrVhY4) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calming](https://open.spotify.com/album/0k1djjFgglB3z3S28ad36c) | 1:00 | 2024-08-12 |  |
 | [Calming Mind](https://open.spotify.com/track/2NxQ4PPTziWUBN8QLt1ITb) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Calming Mind](https://open.spotify.com/album/5feoVS46VwnkQZ8TSFqRxZ) | 1:00 | 2024-05-27 |  |
 | [Calming Presence](https://open.spotify.com/track/6fIN88old55oFuCYEwot88) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Calming Presence](https://open.spotify.com/album/7LsmlGRLLIbPMJ6FNU1oaa) | 1:02 | 2022-08-03 |  |
 | [Calming Waters](https://open.spotify.com/track/1ieXiW4KlaV8FSAKIBlKrV) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello](https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe) | 1:39 | 2022-01-20 |  |
@@ -612,6 +613,7 @@
 | [Flowing Hearts \- Cello Version](https://open.spotify.com/track/40NMGZpw1pVckxTGjJ99wA) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Flowing Hearts](https://open.spotify.com/album/3Uk6IT2tRbef3k7oAAOLgl) | 1:02 | 2022-04-17 | 2024-02-13 |
 | [Flying North Arr\. For Cello And Violin](https://open.spotify.com/track/3QsRwKdOM0DwtrTBLvP9EX) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Vista With Strings](https://open.spotify.com/album/1z1RTwjsaXZTvQvgPJ2QEz) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Folding Time](https://open.spotify.com/track/1rfLn5H06ihmjabPCk9mHR) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Folding Time](https://open.spotify.com/album/3pCObTXUDq7IKCKDns06MM) | 3:06 | 2022-01-12 | 2023-04-09 |
+| [Follow](https://open.spotify.com/track/0n9pWyu8skiljYbfjppYDi) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Follow](https://open.spotify.com/album/0BscjaQOywRRdexCGE9FaY) | 1:00 | 2024-08-12 |  |
 | [Following Footsteps](https://open.spotify.com/track/2pWKGL4Ighggiux03LpW6L) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space, Vol\. 2](https://open.spotify.com/album/4GxaVQ8iCn6g6WeVmFKSWn) | 1:04 | 2022-02-04 |  |
 | [Following the Light Arr\. For Cello and Piano](https://open.spotify.com/track/1X7tFUw0w4oVc7I2S0PnDR) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Following the Light Arr\. For Cello and Piano](https://open.spotify.com/album/4ypW4oveUMkDT15kKCBC1i) | 1:45 | 2022-01-20 | 2024-01-30 |
 | [Following Your Path](https://open.spotify.com/track/3KZ2lBq9Cc4SbYRTw1OtOs) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Here](https://open.spotify.com/album/7iNn2dwf5X85GZidRJWUoU) | 1:05 | 2022-02-24 | 2024-01-30 |

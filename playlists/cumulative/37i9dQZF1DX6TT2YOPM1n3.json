@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Kabhi Main Kabhi Tum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7BDuL4Ca5r5EHnyR8uJ6OY"
+      },
+      "artists": [
+        {
+          "name": "Usama Ali",
+          "url": "https://open.spotify.com/artist/2Q46xhKhgToVZzqEv5EFD9"
+        },
+        {
+          "name": "Ahad Khan",
+          "url": "https://open.spotify.com/artist/41vrLitcZP6aF5ZPNet0nj"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275200,
+      "name": "Chal Diye Tum Kahan",
+      "url": "https://open.spotify.com/track/6RRMrws5dVKALzhTvH8GFL"
+    },
+    {
+      "album": {
         "name": "Cham Cham",
         "url": "https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx"
       },

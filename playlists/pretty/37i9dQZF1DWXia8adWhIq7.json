@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 96987,
+  "num_followers": 97014,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,26 @@
     {
       "added_at": "2024-08-09 18:34:07",
       "album": {
+        "name": "Alegria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Silas Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
+        }
+      ],
+      "duration_ms": 298703,
+      "name": "Alegria - Ao Vivo",
+      "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
+    },
+    {
+      "added_at": "2024-08-09 18:34:07",
+      "album": {
         "name": "Bom \u00c2nimo",
         "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 191530,
       "name": "Gra\u00e7a Sobre Gra\u00e7a",
       "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
-    },
-    {
-      "added_at": "2024-08-09 18:34:07",
-      "album": {
-        "name": "Alegria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Silas Sim\u00f5es",
-          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
-        }
-      ],
-      "duration_ms": 298703,
-      "name": "Alegria - Ao Vivo",
-      "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
     },
     {
       "added_at": "2024-08-09 18:34:07",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-08-09 18:34:07",
       "album": {
-        "name": "Epifania",
-        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 207667,
-      "name": "A Chave",
-      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
-    },
-    {
-      "added_at": "2024-08-09 18:34:07",
-      "album": {
         "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
         "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 238826,
       "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
       "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
+    },
+    {
+      "added_at": "2024-08-09 18:34:07",
+      "album": {
+        "name": "Epifania",
+        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 207667,
+      "name": "A Chave",
+      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
     },
     {
       "added_at": "2024-08-09 18:34:07",

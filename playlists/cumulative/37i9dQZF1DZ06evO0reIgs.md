@@ -2,7 +2,7 @@
 
 ### [This Is Cynthia Luz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0reIgs)
 
-> This is Cynthia Luz\. The essential tracks, all in one playlist.
+> This Is Cynthia Luz\. Les titres incontournables, réunis dans une seule et même playlist.
 
 76 songs - 4 hr 59 min
 

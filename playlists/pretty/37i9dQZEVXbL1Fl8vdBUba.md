@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,347 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,350 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [YA NO VOLVERÁS](https://open.spotify.com/track/57B9XH31E2UYEnQ5mppQdz) | [Cris Valencia](https://open.spotify.com/artist/7xP0fQcNHEMD9yL5j4ERz1), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp) | [YA NO VOLVERÁS](https://open.spotify.com/album/0zDyw2Xv0AH3lx47RwjvdP) | 2:40 |
 | 50 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
 
-Snapshot ID: `LkwkcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lk118AAAAAAAAAAAAAAAAAAAAAAAAGVu`

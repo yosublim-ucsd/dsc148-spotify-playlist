@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05e0\u05d5\u05e2\u05d4 \u05e7\u05d9\u05e8\u05dc ",
-  "num_followers": 25639,
+  "num_followers": 25637,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -1527,18 +1527,26 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "\u05d1\u05e0\u05d5\u05ea \u05db\u05de\u05d5\u05e0\u05d9 \u05dc\u05d0 \u05d1\u05d5\u05db\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/7xlUbVX3KggFMOiLFyCrSM"
+        "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx"
       },
       "artists": [
         {
           "name": "Noa Kirel",
           "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
+        {
+          "name": "Forever Tel Aviv",
+          "url": "https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q"
+        },
+        {
+          "name": "Sagi Kariv",
+          "url": "https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a"
         }
       ],
-      "duration_ms": 156800,
-      "name": "\u05d1\u05e0\u05d5\u05ea \u05db\u05de\u05d5\u05e0\u05d9 \u05dc\u05d0 \u05d1\u05d5\u05db\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/2gwiDHH38cpSXuMU6Iu53d"
+      "duration_ms": 154921,
+      "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -1631,26 +1639,18 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
-        "url": "https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx"
+        "name": "\u05d1\u05e0\u05d5\u05ea \u05db\u05de\u05d5\u05e0\u05d9 \u05dc\u05d0 \u05d1\u05d5\u05db\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/7xlUbVX3KggFMOiLFyCrSM"
       },
       "artists": [
         {
           "name": "Noa Kirel",
           "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "Forever Tel Aviv",
-          "url": "https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q"
-        },
-        {
-          "name": "Sagi Kariv",
-          "url": "https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a"
         }
       ],
-      "duration_ms": 154921,
-      "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx"
+      "duration_ms": 156800,
+      "name": "\u05d1\u05e0\u05d5\u05ea \u05db\u05de\u05d5\u05e0\u05d9 \u05dc\u05d0 \u05d1\u05d5\u05db\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/2gwiDHH38cpSXuMU6Iu53d"
     },
     {
       "added_at": "2024-07-25 21:00:00",

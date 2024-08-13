@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-06-13",
-  "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
+  "description": "This Is Nat King Cole. Los temas esenciales, todos en una lista.",
   "name": "This Is Nat King Cole",
   "tracks": [
     {
@@ -830,7 +830,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 187640,
       "name": "It's All In The Game",
       "url": "https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 191186,
       "name": "My Kind Of Girl",
       "url": "https://open.spotify.com/track/3F4W9lrEsEcpVnlcGSBXb0"

@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Saya No\u00e9",
-  "num_followers": 13441,
+  "num_followers": 13446,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,26 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
+        "name": "Quatre Grapes",
+        "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "Quatre Grapes",
+      "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
+    },
+    {
+      "added_at": "2024-08-02 09:21:11",
+      "album": {
         "name": "n\u00e9ha-n\u00e9ha",
         "url": "https://open.spotify.com/album/4ozadBudxjgvEmKraTBPi8"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 201000,
       "name": "n\u00e9ha-n\u00e9ha",
       "url": "https://open.spotify.com/track/3d11FZAmFZ57EXpv0CgsGO"
-    },
-    {
-      "added_at": "2024-08-02 09:21:11",
-      "album": {
-        "name": "Quatre Grapes",
-        "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "Quatre Grapes",
-      "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
     },
     {
       "added_at": "2024-08-02 09:21:11",
@@ -731,22 +731,18 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
-        "name": "M\u00c1SHOGY F\u00daJ",
-        "url": "https://open.spotify.com/album/1arncekYqlfYkQDJXc11Je"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
       },
       "artists": [
         {
-          "name": "veryraredome",
-          "url": "https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv"
-        },
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+          "name": "Kov\u00e1cs Harmat",
+          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
         }
       ],
-      "duration_ms": 142500,
-      "name": "M\u00c1SHOGY F\u00daJ",
-      "url": "https://open.spotify.com/track/3AtfBJxq2HLnFHAD6PjKbj"
+      "duration_ms": 141666,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
     },
     {
       "added_at": "2024-08-02 09:21:11",
@@ -767,18 +763,22 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
+        "name": "M\u00c1SHOGY F\u00daJ",
+        "url": "https://open.spotify.com/album/1arncekYqlfYkQDJXc11Je"
       },
       "artists": [
         {
-          "name": "Kov\u00e1cs Harmat",
-          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
+          "name": "veryraredome",
+          "url": "https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv"
+        },
+        {
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
         }
       ],
-      "duration_ms": 141666,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
+      "duration_ms": 142500,
+      "name": "M\u00c1SHOGY F\u00daJ",
+      "url": "https://open.spotify.com/track/3AtfBJxq2HLnFHAD6PjKbj"
     },
     {
       "added_at": "2024-08-02 09:21:11",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
-        "name": "N\u00e9gyes-Hatos",
-        "url": "https://open.spotify.com/album/5xywbU931889LMT6JaCcWw"
-      },
-      "artists": [
-        {
-          "name": "Bankrupt",
-          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
-        }
-      ],
-      "duration_ms": 162099,
-      "name": "N\u00e9gyes-Hatos",
-      "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
-    },
-    {
-      "added_at": "2024-08-02 09:21:11",
-      "album": {
         "name": "Elment\u00e9l",
         "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 284368,
       "name": "Elment\u00e9l",
       "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
+    },
+    {
+      "added_at": "2024-08-02 09:21:11",
+      "album": {
+        "name": "N\u00e9gyes-Hatos",
+        "url": "https://open.spotify.com/album/5xywbU931889LMT6JaCcWw"
+      },
+      "artists": [
+        {
+          "name": "Bankrupt",
+          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
+        }
+      ],
+      "duration_ms": 162099,
+      "name": "N\u00e9gyes-Hatos",
+      "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
     },
     {
       "added_at": "2024-08-02 09:21:11",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
-        "name": "Engem szeretni neh\u00e9z",
-        "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
-      },
-      "artists": [
-        {
-          "name": "Wolf Kati",
-          "url": "https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r"
-        },
-        {
-          "name": "Wolf Kati Band",
-          "url": "https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8"
-        }
-      ],
-      "duration_ms": 242803,
-      "name": "Engem szeretni neh\u00e9z",
-      "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
-    },
-    {
-      "added_at": "2024-08-02 09:21:11",
-      "album": {
         "name": "El\u00e9g a tenger",
         "url": "https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT"
       },
@@ -1139,34 +1119,22 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
-        "name": "Romeo and Juliet",
-        "url": "https://open.spotify.com/album/7E1RYDo9HsSGefJI92cum9"
+        "name": "Engem szeretni neh\u00e9z",
+        "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
       },
       "artists": [
         {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "Romeo and Juliet",
-      "url": "https://open.spotify.com/track/5gRSdMYwjwS4TvnS4fRufp"
-    },
-    {
-      "added_at": "2024-08-02 09:21:11",
-      "album": {
-        "name": "Dreamgirl",
-        "url": "https://open.spotify.com/album/2jCYpMUl6kltjhUpxotxBO"
-      },
-      "artists": [
+          "name": "Wolf Kati",
+          "url": "https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r"
+        },
         {
-          "name": "Puzzls",
-          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+          "name": "Wolf Kati Band",
+          "url": "https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8"
         }
       ],
-      "duration_ms": 132727,
-      "name": "Dreamgirl",
-      "url": "https://open.spotify.com/track/4GaXyfHQd1grsMdL5y5N50"
+      "duration_ms": 242803,
+      "name": "Engem szeretni neh\u00e9z",
+      "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
     },
     {
       "added_at": "2024-08-02 09:21:11",
@@ -1195,6 +1163,22 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
+        "name": "Romeo and Juliet",
+        "url": "https://open.spotify.com/album/7E1RYDo9HsSGefJI92cum9"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "Romeo and Juliet",
+      "url": "https://open.spotify.com/track/5gRSdMYwjwS4TvnS4fRufp"
+    },
+    {
+      "added_at": "2024-08-02 09:21:11",
+      "album": {
         "name": "ENSO",
         "url": "https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH"
       },
@@ -1211,22 +1195,18 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
-        "name": "J\u00f6v\u0151 ny\u00e1ron",
-        "url": "https://open.spotify.com/album/5tKN9PO1ZgZUHWsIQctOCR"
+        "name": "Dreamgirl",
+        "url": "https://open.spotify.com/album/2jCYpMUl6kltjhUpxotxBO"
       },
       "artists": [
         {
-          "name": "MOVA",
-          "url": "https://open.spotify.com/artist/5pRuMhSXgVlVZoLgplJGlx"
-        },
-        {
-          "name": "DO\u00d3R",
-          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
         }
       ],
-      "duration_ms": 152080,
-      "name": "J\u00f6v\u0151 ny\u00e1ron",
-      "url": "https://open.spotify.com/track/7CTnQCxHEQetArx4SPc4nT"
+      "duration_ms": 132727,
+      "name": "Dreamgirl",
+      "url": "https://open.spotify.com/track/4GaXyfHQd1grsMdL5y5N50"
     },
     {
       "added_at": "2024-08-02 09:21:11",
@@ -1251,18 +1231,22 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
-        "name": "TIK-TAK",
-        "url": "https://open.spotify.com/album/0zKlCumrFYMC5lLVL42hRP"
+        "name": "J\u00f6v\u0151 ny\u00e1ron",
+        "url": "https://open.spotify.com/album/5tKN9PO1ZgZUHWsIQctOCR"
       },
       "artists": [
         {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+          "name": "MOVA",
+          "url": "https://open.spotify.com/artist/5pRuMhSXgVlVZoLgplJGlx"
+        },
+        {
+          "name": "DO\u00d3R",
+          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
         }
       ],
-      "duration_ms": 309252,
-      "name": "TIK-TAK",
-      "url": "https://open.spotify.com/track/4QsWsbAEdYMsT8Z0JlTRVK"
+      "duration_ms": 152080,
+      "name": "J\u00f6v\u0151 ny\u00e1ron",
+      "url": "https://open.spotify.com/track/7CTnQCxHEQetArx4SPc4nT"
     },
     {
       "added_at": "2024-08-02 09:21:11",
@@ -1279,6 +1263,22 @@
       "duration_ms": 223500,
       "name": "kapunyit\u00e1si p\u00e1nik",
       "url": "https://open.spotify.com/track/77cSEXTUwyFrOHnSbowhKn"
+    },
+    {
+      "added_at": "2024-08-02 09:21:11",
+      "album": {
+        "name": "TIK-TAK",
+        "url": "https://open.spotify.com/album/0zKlCumrFYMC5lLVL42hRP"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 309252,
+      "name": "TIK-TAK",
+      "url": "https://open.spotify.com/track/4QsWsbAEdYMsT8Z0JlTRVK"
     },
     {
       "added_at": "2024-08-02 09:21:11",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
-        "name": "Es\u0151 el\u0151tt",
-        "url": "https://open.spotify.com/album/7pPp3iMLWOeCKfRq3qYeCh"
+        "name": "l\u00e9lekveszt\u0151",
+        "url": "https://open.spotify.com/album/1kmRowYdtUySOuanW922gI"
       },
       "artists": [
         {
-          "name": "L\u00e1z\u00e1r tes\u00f3k",
-          "url": "https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO"
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
         }
       ],
-      "duration_ms": 170270,
-      "name": "A v\u00e9g\u00e9n \u00fagyis",
-      "url": "https://open.spotify.com/track/6co2nRBAZopdXDN1iZxdby"
+      "duration_ms": 195692,
+      "name": "l\u00e9lekveszt\u0151",
+      "url": "https://open.spotify.com/track/7dgFk7rFobeILxZRDfiCNC"
     }
   ],
   "unique_name": "Nemazapop",

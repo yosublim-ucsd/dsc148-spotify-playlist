@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 102665,
+  "num_followers": 102691,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,30 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Cuarto De Siglo",
+        "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
+      },
+      "artists": [
+        {
+          "name": "Skool 77",
+          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+        },
+        {
+          "name": "Zaheed Santana",
+          "url": "https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ"
+        },
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        }
+      ],
+      "duration_ms": 244177,
+      "name": "Cuarto De Siglo",
+      "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Vive Libre",
         "url": "https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h"
       },
@@ -1279,30 +1303,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Cuarto De Siglo",
-        "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
-      },
-      "artists": [
-        {
-          "name": "Skool 77",
-          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
-        },
-        {
-          "name": "Zaheed Santana",
-          "url": "https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ"
-        },
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        }
-      ],
-      "duration_ms": 244177,
-      "name": "Cuarto De Siglo",
-      "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Despiertas",
         "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "El Mundo en Abstinencia",
-        "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
-      },
-      "artists": [
-        {
-          "name": "La Era de Gomes",
-          "url": "https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "\u00bfPor Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Helarte",
         "url": "https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 203909,
       "name": "Helarte",
       "url": "https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "El Mundo en Abstinencia",
+        "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
+      },
+      "artists": [
+        {
+          "name": "La Era de Gomes",
+          "url": "https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "\u00bfPor Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Sigo Aqu\u00ed",
+        "url": "https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3"
+      },
+      "artists": [
+        {
+          "name": "Yhezid",
+          "url": "https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI"
+        }
+      ],
+      "duration_ms": 199833,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 173466,
       "name": "Merced",
       "url": "https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Sigo Aqu\u00ed",
-        "url": "https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3"
-      },
-      "artists": [
-        {
-          "name": "Yhezid",
-          "url": "https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI"
-        }
-      ],
-      "duration_ms": 199833,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Shhh",
+        "url": "https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        },
+        {
+          "name": "Magic Classic",
+          "url": "https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Jamming Sin Fronteras",
         "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Shhh",
-        "url": "https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        },
-        {
-          "name": "Magic Classic",
-          "url": "https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Siempreviva",
-        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 190528,
-      "name": "Bienvenidx",
-      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Algo Bien",
         "url": "https://open.spotify.com/album/6KUZQ0l1keA5Dlo3ovaYRW"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 271058,
       "name": "Algo Bien",
       "url": "https://open.spotify.com/track/6NJKTfYmo9AgGTtjkgKwr5"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Siempreviva",
+        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 190528,
+      "name": "Bienvenidx",
+      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "SE BUSCA",
-        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "El manual de la otredad",
         "url": "https://open.spotify.com/album/7z3yIRNWjZGM5cdNVGXSkB"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 221906,
       "name": "Autonomo",
       "url": "https://open.spotify.com/track/2fLiWIH8nhWH9BBdF0WnRH"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "SE BUSCA",
+        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 154450,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
     },
     {
       "added_at": "2024-06-21 06:01:00",

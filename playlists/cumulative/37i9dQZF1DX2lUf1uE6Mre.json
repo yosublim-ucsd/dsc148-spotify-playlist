@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Arielle",
+        "url": "https://open.spotify.com/album/2zQ64lwBVq4azIT08XjSBo"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "Albi",
+          "url": "https://open.spotify.com/artist/6WdjEdbgAoHeeXLwDsSgMg"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146876,
+      "name": "Arielle",
+      "url": "https://open.spotify.com/track/2z2mtUsSLJXYpoZgjA7qAR"
+    },
+    {
+      "album": {
         "name": "Auf dem Weg",
         "url": "https://open.spotify.com/album/5R4ufua6p5QmVsjiXXqCmU"
       },
@@ -329,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Best Life",
+        "url": "https://open.spotify.com/album/2rx2bUiHugP0iBBtqkInuZ"
+      },
+      "artists": [
+        {
+          "name": "Faroon",
+          "url": "https://open.spotify.com/artist/697ZbUKLJSEWWhtayAGxBY"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153303,
+      "name": "Best Life",
+      "url": "https://open.spotify.com/track/5I4SsIgLyQzduQsxrs09l7"
+    },
+    {
+      "album": {
         "name": "Bis zur Spree (feat. Juju)",
         "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
       },
@@ -476,7 +516,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 137719,
       "name": "B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/6sSau2ue4BBNsnn1Mv7tFG"
@@ -730,7 +770,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 143813,
       "name": "Dima Maghreb",
       "url": "https://open.spotify.com/track/41cbFeRwd5zCj2HqYIMeT1"
@@ -938,7 +978,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 145946,
       "name": "Harascho",
       "url": "https://open.spotify.com/track/69iBZUSh7Lo4g0qxYoXGov"
@@ -1063,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "KIWI",
+        "url": "https://open.spotify.com/album/51N5wyt8OKLIXI4lazjf8C"
+      },
+      "artists": [
+        {
+          "name": "Riccardo",
+          "url": "https://open.spotify.com/artist/72IlzE8lIeI5W1C4RTZAGv"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188354,
+      "name": "KIWI",
+      "url": "https://open.spotify.com/track/1i0Q1EMNlUIsNQloJbtPm8"
+    },
+    {
+      "album": {
         "name": "Kiyamasa / Body",
         "url": "https://open.spotify.com/album/4LdIZfwVOYpvwKrsmJzJo9"
       },
@@ -1148,7 +1206,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 154191,
       "name": "Lass es zu",
       "url": "https://open.spotify.com/track/2OcddgkDq1HKmtyRy41iYw"
@@ -1410,7 +1468,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 198347,
       "name": "Moneygram",
       "url": "https://open.spotify.com/track/5549emVzAX5wUXPNm6V43e"
@@ -1546,6 +1604,24 @@
       "duration_ms": 147500,
       "name": "On/Off",
       "url": "https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W"
+    },
+    {
+      "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/15DqWPxOLxClMpeKXhDGSP"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167847,
+      "name": "Out Of The Dark",
+      "url": "https://open.spotify.com/track/5tJVkABJRZkTq7Dqjv6xiz"
     },
     {
       "album": {
@@ -1762,6 +1838,40 @@
       "duration_ms": 158968,
       "name": "Safari",
       "url": "https://open.spotify.com/track/6hjck7ERXicpsW51UkdHCA"
+    },
+    {
+      "album": {
+        "name": "Schlimmer denn je (feat. Amo, Aymen, Nimo x SOTT)",
+        "url": "https://open.spotify.com/album/7GhjEYpDQQ8sEGwwBEeuWV"
+      },
+      "artists": [
+        {
+          "name": "Soufian",
+          "url": "https://open.spotify.com/artist/3Vnl7pKDxagUgRJ3NMtEcE"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        },
+        {
+          "name": "SOTT",
+          "url": "https://open.spotify.com/artist/4iusgX5y3xsAn824nywHVI"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199087,
+      "name": "Schlimmer denn je (feat. Amo, Aymen, Nimo x SOTT)",
+      "url": "https://open.spotify.com/track/0aUpHkYuEAT5DZkkuwmS9w"
     },
     {
       "album": {

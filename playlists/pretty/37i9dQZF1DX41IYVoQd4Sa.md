@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,990 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,997 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 44 | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL) | 3:46 |
 | 45 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 |
 | 46 | [Smile Again](https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER) | [Aviram](https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8) | [You Are What You Do](https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx) | 3:20 |
-| 47 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 |
-| 48 | [ילדים של אלוהים](https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [VuVuVu](https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP) | [ילדים של אלוהים](https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz) | 3:49 |
+| 47 | [ילדים של אלוהים](https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [VuVuVu](https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP) | [ילדים של אלוהים](https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz) | 3:49 |
+| 48 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 |
 | 49 | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh) | 2:48 |
-| 50 | [Wild Wonder](https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY) | [Wild Wonder](https://open.spotify.com/album/5ye1IukbFGXuGABrWuTMoB) | 4:08 |
-| 51 | [Fool For Your Smile](https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2) | [GADEE](https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0) | [Homesick](https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw) | 3:01 |
+| 50 | [Fool For Your Smile](https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2) | [GADEE](https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0) | [Homesick](https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw) | 3:01 |
+| 51 | [Wild Wonder](https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY) | [Wild Wonder](https://open.spotify.com/album/5ye1IukbFGXuGABrWuTMoB) | 4:08 |
 | 52 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
 | 53 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 |
-| 54 | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/track/116GDev72vb3hj162mjDGX) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR) | 2:54 |
-| 55 | [הכל פה משובש](https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [הכל פה משובש](https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6) | 3:39 |
+| 54 | [הכל פה משובש](https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [הכל פה משובש](https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6) | 3:39 |
+| 55 | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/track/116GDev72vb3hj162mjDGX) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR) | 2:54 |
 | 56 | [עמוק באדמה](https://open.spotify.com/track/311NxddQ4FbZxuhrnxBflc) | [Patrick Sebag](https://open.spotify.com/artist/7HVUcMJ2KO1lmcscDae1LC), [Erez Lev Ari](https://open.spotify.com/artist/6ixcPs7utvM6GEIY5Lq8HN) | [עמוק באדמה](https://open.spotify.com/album/3QzgiDKlOlWPOfY8oRIdhA) | 3:17 |
 | 57 | [תמיד ילדים](https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [Guy Mazig](https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R) | [תמיד ילדים](https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS) | 3:28 |
 | 58 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |

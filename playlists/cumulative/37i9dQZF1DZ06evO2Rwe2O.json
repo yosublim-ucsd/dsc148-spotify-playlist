@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 272053,
       "name": "Beautiful Offering",
       "url": "https://open.spotify.com/track/1Ne01Bjmgb3q08r6tdw3Oc"
@@ -530,6 +530,24 @@
       "duration_ms": 302120,
       "name": "It's All About You",
       "url": "https://open.spotify.com/track/2pnm4XSwVkbc6waMzF9odE"
+    },
+    {
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242466,
+      "name": "It's Already Done",
+      "url": "https://open.spotify.com/track/0EnkdtYpho0JOkqovQ7MZh"
     },
     {
       "album": {

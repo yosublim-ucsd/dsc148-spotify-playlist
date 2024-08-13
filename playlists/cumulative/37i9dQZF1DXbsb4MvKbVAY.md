@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 🌺 Kannessa Sara Bee.
 
-228 songs - 11 hr 18 min
+229 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Baddie](https://open.spotify.com/track/3rigBKJ6rkvbBnH95Gn6jf) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Baddie](https://open.spotify.com/album/6hboIqWwRiPMYaLWYfDHjq) | 2:27 | 2024-07-02 | 2024-07-05 |
 | [barbi ja ken](https://open.spotify.com/track/3GfmAxiaZZKYwyIR4YL6fR) | [beibi](https://open.spotify.com/artist/18nbG6xuN3bgVkZXoeoIZj) | [barbi ja ken](https://open.spotify.com/album/19o1zKf5fLwg3oDHtUkEjK) | 2:42 | 2024-07-04 | 2024-07-12 |
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-07-02 |  |
+| [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-12 |  |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-05 |  |
 | [Boys Cry](https://open.spotify.com/track/0H2YPnO2AAsuGFJyI4Uvte) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Boys Cry](https://open.spotify.com/album/5KvkQnJBrs9CoXbGosmpic) | 3:36 | 2024-07-11 | 2024-07-19 |
 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-08 |  |
@@ -61,7 +62,7 @@
 | [Espresso](https://open.spotify.com/track/5AWetbujvrKTwpALMO7urB) | [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30), [Nadeesha](https://open.spotify.com/artist/2qnUPP4y6YlKgQHh7E0LDp) | [Espresso](https://open.spotify.com/album/4C1nziXrqYsw8foNIvCsYZ) | 2:40 | 2024-07-18 | 2024-08-02 |
 | [Eteenpäin](https://open.spotify.com/track/2dXqVb4OpAG4NPYnjWXiaT) | [Pinja ja Pekka](https://open.spotify.com/artist/6sBsAs5emBwQleVx1SymoL) | [Eteenpäin](https://open.spotify.com/album/4qrEZbu6G33NNsP3zpadKf) | 2:27 | 2024-07-02 | 2024-07-05 |
 | [facing the giants](https://open.spotify.com/track/58yBBSB2QR0tGlbnkJh76Y) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [facing the giants](https://open.spotify.com/album/77Tx9Pg3P5kKcJQ1QQB69S) | 1:53 | 2024-08-01 | 2024-08-09 |
-| [Fakest Bitch](https://open.spotify.com/track/3H1EFwCIRO1NSPur549STB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Fakest Bitch](https://open.spotify.com/album/1eT1mmPEaaB7llhGwITJti) | 4:19 | 2024-08-08 |  |
+| [Fakest Bitch](https://open.spotify.com/track/3H1EFwCIRO1NSPur549STB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Fakest Bitch](https://open.spotify.com/album/1eT1mmPEaaB7llhGwITJti) | 4:19 | 2024-08-08 | 2024-08-13 |
 | [Falling Forever](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:43 | 2024-07-02 |  |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-08 |  |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-02 |  |
@@ -78,7 +79,7 @@
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-07-02 |  |
 | [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-07-02 |  |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 |  |
-| [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-08 |  |
+| [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-08 | 2024-08-13 |
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/40kmaQ1Dpddc9EUuUrPMP0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Healing \(Shattered Heart\)](https://open.spotify.com/album/3UImWW3XpXLzF5l9VsEft5) | 2:42 | 2024-07-02 | 2024-07-19 |
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-07-02 |  |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-08-01 |  |
@@ -215,7 +216,7 @@
 | [täydellinen](https://open.spotify.com/track/1WGQTj0FPCXzPQI07UcDqm) | [dreamilla](https://open.spotify.com/artist/4jlwU8ZSTDGkLnpJ8iQIaj) | [täydellinen](https://open.spotify.com/album/6IbpsKDTLFSIoCABryUsrl) | 3:02 | 2024-07-11 | 2024-07-19 |
 | [Unconditional](https://open.spotify.com/track/3zasq0wnqND2TcUPd88oiK) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Unconditional](https://open.spotify.com/album/6ROgHV7Q9LQrtpYAtCjPfq) | 2:51 | 2024-08-08 |  |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-02 |  |
-| [Vaarallinen Nainen](https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vaarallinen Nainen](https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua) | 2:35 | 2024-07-11 | 2024-08-09 |
+| [Vaarallinen Nainen](https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vaarallinen Nainen](https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua) | 2:35 | 2024-07-11 |  |
 | [Valheista kaunein](https://open.spotify.com/track/2W1fGOBi9irc3iLZb6D7Pp) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Valheista kaunein](https://open.spotify.com/album/2AtAyhsTL41uPOSyOo2AZz) | 2:40 | 2024-07-02 | 2024-07-07 |
 | [Valoo](https://open.spotify.com/track/6KdPIGub25sVLeDZRwB7U0) | [Maria Åman](https://open.spotify.com/artist/76DQ5O35CGy0Y0XyW3Oa2M) | [Valoo](https://open.spotify.com/album/3QhOrSODz6PUrFtcQnsxWh) | 2:25 | 2024-07-02 | 2024-07-05 |
 | [Vasta aamulla](https://open.spotify.com/track/149AoaNG8ZujYMDg02IDr3) | [MIKAYLA](https://open.spotify.com/artist/1HTqDkXCcdMUAalw6a3BK8) | [Vasta aamulla](https://open.spotify.com/album/2RvUPAoyS7JaZFLLThiLxs) | 3:10 | 2024-07-02 | 2024-07-05 |

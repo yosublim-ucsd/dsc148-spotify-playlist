@@ -1,12 +1,12 @@
 {
-  "description": "This is Zendaya. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
-  "num_followers": 24085,
+  "description": "This is Zendaya. The essential tracks, all in one playlist.",
+  "num_followers": 24090,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAACENcbtQ/Vvuh+vyjo4NKrj",
+  "snapshot_id": "Zrf/AAAAAACWbhNaHC+Xsdvc02IZ4br5",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 253346,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
+      "duration_ms": 218733,
+      "name": "Bottle You Up",
+      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 218733,
-      "name": "Bottle You Up",
-      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
+      "duration_ms": 253346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
     },
     {
       "added_at": null,

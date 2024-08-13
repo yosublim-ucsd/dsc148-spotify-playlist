@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115906,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj"
+    },
+    {
+      "album": {
         "name": "Automotivo Amar, Ma Ma Ma",
         "url": "https://open.spotify.com/album/4NLml3SPhSwPbg2suUAAcx"
       },
@@ -4198,7 +4216,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 80754,
       "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
       "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
@@ -4728,7 +4746,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -5584,6 +5602,32 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        },
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Mattyeux",
+          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222280,
+      "name": "Roi",
+      "url": "https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX"
     },
     {
       "album": {
@@ -6604,7 +6648,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 146384,
       "name": "The Spark",
       "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
@@ -6922,6 +6966,40 @@
       "duration_ms": 154331,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/49JTCQ1pv7BKWiE3xZvTWf"
+    },
+    {
+      "album": {
+        "name": "Chicago - Music From The Miramax Motion Picture",
+        "url": "https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP"
+      },
+      "artists": [
+        {
+          "name": "Christine Baranski",
+          "url": "https://open.spotify.com/artist/1L4nOFaQKejFy75REi9BKh"
+        },
+        {
+          "name": "Cleve Asbury",
+          "url": "https://open.spotify.com/artist/6wjokoKqfrA5kDbJq8PJz9"
+        },
+        {
+          "name": "Shaun Amyot",
+          "url": "https://open.spotify.com/artist/0Z487FdUNbwgAjUBQFUnEf"
+        },
+        {
+          "name": "Rick Negron",
+          "url": "https://open.spotify.com/artist/0WAdUXwBab1ocSTCgmWtOR"
+        },
+        {
+          "name": "Taye Diggs",
+          "url": "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "We Both Reached For The Gun",
+      "url": "https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID"
     },
     {
       "album": {
@@ -7818,7 +7896,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 170880,
       "name": "\u0410\u0441\u0444\u0430\u043b\u044c\u0442",
       "url": "https://open.spotify.com/track/4iHBUChicNYaHrO7vHkYtF"
@@ -9694,7 +9772,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 138724,
       "name": "\u041a\u043e\u0444\u0442\u0430 \u043f\u0430\u0445\u043d\u0435\u0442 \u0442\u0432\u043e\u0438\u043c \u0434\u043e\u043c\u043e\u043c",
       "url": "https://open.spotify.com/track/4yPtY1H0dfRtN7rwn9AcHS"
@@ -10774,7 +10852,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 80373,
       "name": "\u043e\u0442\u043a\u0443\u0441\u0438\u043b\u0430 \u043d\u043e\u0433\u0438",
       "url": "https://open.spotify.com/track/6sHxKLq7IUJPdTn2acOfiU"
@@ -11018,7 +11096,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 179540,
       "name": "\u041f\u043e\u0435\u0437\u0434\u0430",
       "url": "https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS"

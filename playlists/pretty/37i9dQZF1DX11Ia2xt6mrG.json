@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 58355,
+  "num_followers": 58368,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
-        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        },
-        {
-          "name": "C\u00f3dex F\u00e9nix",
-          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
-      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+        "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+      "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
-        "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
+        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
+        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
       },
       "artists": [
         {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         },
         {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+          "name": "C\u00f3dex F\u00e9nix",
+          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
         }
       ],
-      "duration_ms": 142677,
-      "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
-      "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
+      "duration_ms": 254386,
+      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
+      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1315,6 +1315,30 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "BOOM SHAKALAKA",
+        "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Karl Wine",
+          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "BOOM SHAKALAKA",
+      "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "El Trip",
         "url": "https://open.spotify.com/album/3vHEsJrncp28EjfC4OoDHW"
       },
@@ -1395,30 +1419,6 @@
       "duration_ms": 193846,
       "name": "Ancara Messi",
       "url": "https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "BOOM SHAKALAKA",
-        "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        },
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        },
-        {
-          "name": "Karl Wine",
-          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "BOOM SHAKALAKA",
-      "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
     },
     {
       "added_at": "2024-08-02 06:00:00",

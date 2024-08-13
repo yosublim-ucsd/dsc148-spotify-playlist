@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,217 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,213 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 56 | [Wonderful Time](https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N) | [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Wonderful Time](https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL) | 2:41 |
 | 57 | [I've Got My Love To Keep Me Warm \- Somni Remix](https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [I've Got My Love To Keep Me Warm \(Somni Remix\)](https://open.spotify.com/album/6VnBYqwkSLjmIXlHMjyd4N) | 2:36 |
 | 58 | [Hush Dear Santa](https://open.spotify.com/track/7uS0lTOVielpbtTmFz4xY4) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [Christmas With Yellow Claw](https://open.spotify.com/album/25bktrqlypnTwJ50DhC3n2) | 3:44 |
-| 59 | [Tropical Holiday](https://open.spotify.com/track/7lRGYkzXuyIX0rM4ADWcSu) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [Hoodboi](https://open.spotify.com/artist/1521R3ksLyQyFeqdtaSZUZ) | [A Very Decent Christmas 5](https://open.spotify.com/album/69Sc4UHlIvUwXORZ01gEaz) | 4:01 |
-| 60 | [It's Christmas Time](https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx) | [It's Christmas Time](https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q) | 2:43 |
+| 59 | [It's Christmas Time](https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx) | [It's Christmas Time](https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q) | 2:43 |
+| 60 | [Tropical Holiday](https://open.spotify.com/track/7lRGYkzXuyIX0rM4ADWcSu) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [Hoodboi](https://open.spotify.com/artist/1521R3ksLyQyFeqdtaSZUZ) | [A Very Decent Christmas 5](https://open.spotify.com/album/69Sc4UHlIvUwXORZ01gEaz) | 4:01 |
 
-Snapshot ID: `ZYUX0AAAAAD78bbO8RCxLEZJah53OzRo`
+Snapshot ID: `ZrppeAAAAADHfDKydyxnrPIhe61kH6S1`

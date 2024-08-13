@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-959 songs - 2 day 10 hr 2 min
+960 songs - 2 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [5000 Miles](https://open.spotify.com/track/3G5PWGVpzTCliUyJ720qLj) | [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG), [Bodine](https://open.spotify.com/artist/4w6oVQUBewDrvPthS07F4r) | [5000 Miles](https://open.spotify.com/album/3hNaKqqGi9U9CictEEeVrR) | 3:50 | 2021-12-17 | 2022-11-12 |
 | [9910](https://open.spotify.com/track/7FUzB86KZ2vKpDk9wLTFXT) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [9910](https://open.spotify.com/album/1WxWUsmCLB1M1grnwWetf1) | 3:25 | 2023-09-08 |  |
 | [A Big Life](https://open.spotify.com/track/1wC8NewPz9UC2omMzQx78S) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [A Big Life](https://open.spotify.com/album/68B29M8gbUTv0qSTjTIj7Q) | 3:47 | 2022-01-28 | 2023-02-25 |
-| [A Trillion Suns](https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo) | [Daniel Skyver](https://open.spotify.com/artist/3bVuL2ru6XQxHjUEb0Zo9y) | [A Trillion Suns](https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE) | 3:29 | 2024-02-16 |  |
+| [A Trillion Suns](https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo) | [Daniel Skyver](https://open.spotify.com/artist/3bVuL2ru6XQxHjUEb0Zo9y) | [A Trillion Suns](https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE) | 3:29 | 2024-02-16 | 2024-08-13 |
 | [Adagio For Strings](https://open.spotify.com/track/2Ju181y8kKeGQLTwnPNUoN) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Distorted Dreams](https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO) | [Adagio For Strings](https://open.spotify.com/album/35EeesCZ9SKPP3CGsza6AR) | 3:29 | 2023-02-10 |  |
 | [Adeya](https://open.spotify.com/track/36fEaJH2IJYy6MkUSmjrJa) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Adeya](https://open.spotify.com/album/4lMPUKhnqpTAWErS5sVVPm) | 2:42 | 2023-06-09 | 2023-12-09 |
 | [After All These Years](https://open.spotify.com/track/78xuHTyqhxLww1A8UBw87K) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [After All These Years](https://open.spotify.com/album/7p15zKW393QIKqc8R4CWmS) | 2:57 | 2024-01-05 |  |
@@ -856,6 +856,7 @@
 | [The Wave \(is Coming\) \(York Back To The Roots Mix\)](https://open.spotify.com/track/1EHa4jVUQri79NcoFeuzZG) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Torsten Stenzel](https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2) | [The Wave \(Is Coming\)](https://open.spotify.com/album/5823Cau4UyTySFTCdXGJgW) | 3:30 | 2023-10-27 |  |
 | [The Way It Goes](https://open.spotify.com/track/3O1YUsg20oMgQtoLautPwM) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [The Way It Goes](https://open.spotify.com/album/1y5ccrwPC7GMb9Qw7zR8Fm) | 3:47 | 2023-07-14 |  |
 | [The Wind in Your Face](https://open.spotify.com/track/4RERO3pHGa0M48863ndJB9) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [The Wind in Your Face](https://open.spotify.com/album/7s7TIvQnePhDTy8wmozDFg) | 4:06 | 2021-12-17 | 2022-07-29 |
+| [Thinking of You](https://open.spotify.com/track/4fGYcqTM8aBhtXU7yIxtcO) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Thinking of You](https://open.spotify.com/album/3JveJFifTrUnPjxARoZUgW) | 3:22 | 2024-08-09 |  |
 | [This Is Not The End](https://open.spotify.com/track/4nM12eRb7k6pylJGGivAQp) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Roddy Woomble](https://open.spotify.com/artist/313Xqjb7z7JBYcHgWiLvUv) | [This Is Not The End](https://open.spotify.com/album/43UWsAliOiQaroBO1H0aNl) | 3:18 | 2022-04-22 | 2022-12-10 |
 | [This Is Real](https://open.spotify.com/track/4YNkPVM9axWMaffM9Y3ovw) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [This Is Real](https://open.spotify.com/album/6JuzlHWoTILkAyLobUSG9H) | 3:48 | 2021-12-17 | 2022-01-08 |
 | [This Is Real \- Christopher Corrigan Remix](https://open.spotify.com/track/1rxfxybkU2MH5FPqE7UNqs) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y), [Christopher Corrigan](https://open.spotify.com/artist/2JJD0m0hYRMyHElA7d3tH8) | [This Is Real \(Christopher Corrigan Remix\)](https://open.spotify.com/album/3MvFKWuD9UdN5MmOFwxb2v) | 4:25 | 2023-06-09 | 2023-10-14 |

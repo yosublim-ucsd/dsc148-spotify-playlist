@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,483 songs - 3 day 18 hr 6 min
+1,484 songs - 3 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [Hanabi feat\. オカモトショウ \(Chaki Zulu Remix\)](https://open.spotify.com/track/7DCPmTlXtER3cs2aHXudQp) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [SHO OKAMOTO](https://open.spotify.com/artist/6Sh87t8almBljHAaBfKzaU), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [Hanabi feat\. オカモトショウ \(Chaki Zulu Remix\)](https://open.spotify.com/album/6ePzCvPeJ1mEUtOi3cv3Pd) | 3:36 | 2022-11-15 | 2022-11-17 |
 | [Hana炎](https://open.spotify.com/track/1DarVtvEs9DOwJBeVhCsMO) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [LISACHRIS](https://open.spotify.com/artist/2E738wjchAb3fUOxY3bxMr), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [Hana炎](https://open.spotify.com/album/4uiFrJYts1Rb9X2Kpczrwm) | 4:37 | 2022-07-26 | 2022-08-25 |
 | [HANDLE](https://open.spotify.com/track/1ad2WwhtOoNhB8W0KTveZL) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [HANDLE](https://open.spotify.com/album/4q4KHPSLPNjq7gucqUh3LN) | 2:37 | 2024-01-23 | 2024-02-14 |
-| [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 | 2023-08-10 |  |
+| [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 | 2023-08-10 | 2024-08-13 |
 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 | 2022-05-26 | 2022-10-05 |
 | [Hard Pool](https://open.spotify.com/track/4WVOYJcZi5QhrBVp7sSelj) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hard Pool](https://open.spotify.com/album/6iTuwCBoK9AHf5EaOAVDoo) | 4:36 | 2023-01-10 | 2023-02-24 |
 | [HATE](https://open.spotify.com/track/2vGzFBY2hxsSQq6i0DwKsI) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [TOMOSHIBI](https://open.spotify.com/album/1joJdTZveBD244bGKj994d) | 2:50 | 2022-11-19 | 2023-02-22 |
@@ -1269,6 +1269,7 @@
 | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/track/3V5WQGwq4PuaNHetIhTDbp) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [北里彰久](https://open.spotify.com/artist/6XwlOVm6zIIx9ZdSHnLOHu), [Alfred Beach Sandal](https://open.spotify.com/artist/1H2KvPR75UUpoQpRcnvn1I) | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/album/5DX3feFVO0hzjPE0Bzj3Wh) | 4:24 | 2023-11-21 | 2024-01-24 |
 | [パラダイス](https://open.spotify.com/track/03KcjFIt9f6XIBHEZG6fJm) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6), [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW) | [パラダイス](https://open.spotify.com/album/4j5osgmWRelsfge16wtEi6) | 4:47 | 2024-02-20 | 2024-03-06 |
 | [パラドックス](https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/53VEqiQkkbIbRXr6JfLGW9) | 3:24 | 2022-05-26 | 2022-06-24 |
+| [ビビデバ \- BloodPop® Remix](https://open.spotify.com/track/18hcCzQLI0umWvpitDff2J) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [ビビデバ \- BloodPop® Remix](https://open.spotify.com/album/3tdxjE4et0XjNEXCnOK8rt) | 2:56 | 2024-08-07 |  |
 | [ピンクの髪](https://open.spotify.com/track/56V7casJFyKngwOksqwWD0) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [ピンクの髪](https://open.spotify.com/album/2aBOY6hwasvx0aUj1OI28b) | 2:57 | 2023-02-14 | 2023-02-16 |
 | [ピント](https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [ピント](https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko) | 4:44 | 2022-10-18 | 2022-11-21 |
 | [ファジーサマー](https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [ファジーサマー](https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd) | 2:56 | 2022-07-12 | 2022-11-30 |

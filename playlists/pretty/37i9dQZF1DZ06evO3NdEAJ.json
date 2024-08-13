@@ -1,12 +1,12 @@
 {
-  "description": "This is La Fiera de Ojinaga. \u03a4\u03b1 \u03c0\u03b9\u03bf \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b1 \u03ba\u03bf\u03bc\u03bc\u03ac\u03c4\u03b9\u03b1, \u03c3\u03b5 \u03bc\u03af\u03b1 playlist.",
-  "num_followers": 45133,
+  "description": "This is La Fiera de Ojinaga. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "num_followers": 45148,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAACeI8OLd6TK18kvG3Kw4FKl",
+  "snapshot_id": "Zrf/AAAAAACFxKQ28rJAMb6FUCFCVOqP",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00edselo Con Sax",
-        "url": "https://open.spotify.com/album/6nAqAwEFAdgfmLsSpD9AIj"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 175210,
-      "name": "Qui\u00e9n Mejor Que T\u00fa",
-      "url": "https://open.spotify.com/track/3Rud1SXi9zzVZuCAFXWl3f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jalas o No Jalas, Vol.2",
         "url": "https://open.spotify.com/album/1W2Atto04JwV3G32tP5rPO"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 158741,
       "name": "Te Mereces",
       "url": "https://open.spotify.com/track/7MOsxXYlhSoQUSJhR09QGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00edselo Con Sax",
+        "url": "https://open.spotify.com/album/6nAqAwEFAdgfmLsSpD9AIj"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 175210,
+      "name": "Qui\u00e9n Mejor Que T\u00fa",
+      "url": "https://open.spotify.com/track/3Rud1SXi9zzVZuCAFXWl3f"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfDe Qu\u00e9 Me Perd\u00ed?",
-        "url": "https://open.spotify.com/album/2MJH3I5JcPmcFR9NyTfGiG"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 209276,
-      "name": "\u00bfDe Qu\u00e9 Me Perd\u00ed?",
-      "url": "https://open.spotify.com/track/1kbH8U4omcQFkgqRGfGiGs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Que No Te Acuerdes",
         "url": "https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 174027,
       "name": "Para Que No Te Acuerdes",
       "url": "https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfDe Qu\u00e9 Me Perd\u00ed?",
+        "url": "https://open.spotify.com/album/2MJH3I5JcPmcFR9NyTfGiG"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 209276,
+      "name": "\u00bfDe Qu\u00e9 Me Perd\u00ed?",
+      "url": "https://open.spotify.com/track/1kbH8U4omcQFkgqRGfGiGs"
     },
     {
       "added_at": null,

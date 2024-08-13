@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-200 songs - 9 hr 36 min
+201 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [The Gift](https://open.spotify.com/track/0PCduL4v5QEEKqeRUv7TEC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prehension](https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK) | 3:45 | 2021-11-09 | 2022-02-01 |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-09-29 |  |
 | [The Return](https://open.spotify.com/track/5wlUjXNwN62wxhAZWddA6B) | [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7) | [The Return](https://open.spotify.com/album/4nZ4sclyQYkBT2SlKBXvcJ) | 2:18 | 2021-11-09 |  |
+| [The Story of Forever](https://open.spotify.com/track/31qeus61ieZE3s9VU3OOPU) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Story of Forever](https://open.spotify.com/album/0HrNXsDWQIBntoUwfhjaVW) | 3:43 | 2024-08-12 |  |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-02-28 |  |
 | [This Night](https://open.spotify.com/track/0m8MYDal7eCEfjApR7hyUP) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/73VZPKqqn3KNK3gnmi1kTI) | 3:31 | 2021-11-09 |  |
 | [This Night](https://open.spotify.com/track/1MxO57a8Ttyb1izW1uKGVl) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/5ygHwLXWu8Ycx28wtAZvMA) | 3:31 | 2022-06-21 | 2024-04-19 |

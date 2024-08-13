@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Check out <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">three new Fresh Finds playlists</a> in the Fresh Finds hub\. Cover: total tommy, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204,526 likes - 200 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,573 likes - 200 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

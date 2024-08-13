@@ -2895,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166466,
+      "name": "Cruise Ship",
+      "url": "https://open.spotify.com/track/3C4FUqrrjuvWoHwsumWfIu"
+    },
+    {
+      "album": {
         "name": "Crunch Time",
         "url": "https://open.spotify.com/album/6ONa9tLkPc0Unfj273RsAW"
       },

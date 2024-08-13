@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 320100,
+  "num_followers": 320121,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Oliveira",
-          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
         "name": "Santa Terra",
         "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 276509,
       "name": "Santa Terra",
       "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Oliveira",
+          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "O Amor Venceu",
-        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
+        "name": "Corri Demais",
+        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
       "artists": [
         {
-          "name": "Luc DubWise",
-          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
+          "name": "Cau\u00ea Castro",
+          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
         }
       ],
-      "duration_ms": 187884,
-      "name": "O Amor Venceu",
-      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
+      "duration_ms": 178470,
+      "name": "Corri Demais",
+      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Corri Demais",
-        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
+        "name": "O Amor Venceu",
+        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
       },
       "artists": [
         {
-          "name": "Cau\u00ea Castro",
-          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
+          "name": "Luc DubWise",
+          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
         }
       ],
-      "duration_ms": 178470,
-      "name": "Corri Demais",
-      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+      "duration_ms": 187884,
+      "name": "O Amor Venceu",
+      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
     },
     {
       "added_at": "2024-08-02 12:19:43",

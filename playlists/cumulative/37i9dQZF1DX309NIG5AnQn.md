@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 RYAN
 
-226 songs - 12 hr 51 min
+228 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Fantasies \- Acoustic](https://open.spotify.com/track/7jXHB0oiaOwhwrGuPoSTaG) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Freak Scene: NAK Sessions](https://open.spotify.com/album/78c3cZ4RQJDdjIifB9burx) | 2:43 | 2024-03-08 |  |
 | [Fantasma](https://open.spotify.com/track/6asMMsmhA6YXxu7YrYI8vr) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Fantasma](https://open.spotify.com/album/02PKUPTxOOUw2aPJtvBHPo) | 3:20 | 2023-09-01 |  |
 | [Fantasmas](https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S) | [Los Jardines De Bruselas](https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8) | [Fantasmas](https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc) | 3:29 | 2022-03-25 | 2023-03-25 |
-| [Fax](https://open.spotify.com/track/5SODEL6YnaJqng9sIiiTjx) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Fax](https://open.spotify.com/album/2coynF5NZJ4v9qa1XLZELQ) | 3:11 | 2024-04-26 |  |
+| [Fax](https://open.spotify.com/track/5SODEL6YnaJqng9sIiiTjx) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Fax](https://open.spotify.com/album/2coynF5NZJ4v9qa1XLZELQ) | 3:11 | 2024-04-26 | 2024-08-13 |
 | [febrero](https://open.spotify.com/track/48htFaGFraVtzHSv3YeB4O) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [aeropuerto](https://open.spotify.com/album/3ugKv9ex4bNGJAEsBs8Igu) | 3:33 | 2023-03-31 |  |
 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 | 2023-05-05 |  |
 | [Gualicho](https://open.spotify.com/track/4T19ysiQ1owalfXXXcWZK5) | [Gativideo](https://open.spotify.com/artist/4syvKWgnIigkaQdgF4NNZM) | [Gualicho](https://open.spotify.com/album/2NeIHG0JddnTE6hAd5XzGM) | 3:32 | 2022-03-25 | 2023-03-25 |
@@ -205,7 +205,8 @@
 | [Soñé](https://open.spotify.com/track/2d6R7kgl5nhJLn71ErZAtv) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Soñé](https://open.spotify.com/album/5Fq4RZOFCKPFWBete3tCJM) | 2:50 | 2022-03-25 | 2023-03-25 |
 | [SSS](https://open.spotify.com/track/65oZKir6ny5i3WSfvb0sYu) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [SSS](https://open.spotify.com/album/37jCf1bbH4ObPuODgrgrSI) | 2:55 | 2022-03-25 | 2023-03-25 |
 | [Su Forma de Mirar](https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Su Forma de Mirar](https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb) | 4:50 | 2023-09-01 |  |
-| [Terremoto](https://open.spotify.com/track/50fHlG70LL8olJ2e2kbFLW) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DUM](https://open.spotify.com/album/2VHHU1Sr4sweqmFJXhk2dS) | 2:43 | 2023-03-23 |  |
+| [Such A Witch](https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Such A Witch](https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr) | 4:02 | 2024-08-12 |  |
+| [Terremoto](https://open.spotify.com/track/50fHlG70LL8olJ2e2kbFLW) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DUM](https://open.spotify.com/album/2VHHU1Sr4sweqmFJXhk2dS) | 2:43 | 2023-03-23 | 2024-08-13 |
 | [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 | 2023-03-23 |  |
 | [Todas las Nubes](https://open.spotify.com/track/5vMs9SODiQdFHxkIfy5i1W) | [almanaques](https://open.spotify.com/artist/5s21kUHcl27S6FKsCEhskk) | [Todas las Nubes](https://open.spotify.com/album/3M372tMWYHEr8m5rsIknB1) | 2:51 | 2023-06-30 |  |
 | [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 | 2022-03-25 | 2024-07-27 |
@@ -220,6 +221,7 @@
 | [Un Documental Sobre Mí](https://open.spotify.com/track/1zaSe09Z9HQQBSj3SjzSZj) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 4:40 | 2022-03-25 | 2023-03-25 |
 | [Un Rayo de Sol](https://open.spotify.com/track/0oAJBvPkXfLcA1Gh01jcdi) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [29:09:00](https://open.spotify.com/album/0jS4ed8WizhMKAqpafgrJf) | 4:54 | 2023-03-23 |  |
 | [Una Canción](https://open.spotify.com/track/6uEZio7p3zHhIPSUiTFnLC) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Una Canción](https://open.spotify.com/album/4AR7pIVOrcS7KYeVJF9BpG) | 2:42 | 2023-03-23 | 2023-07-29 |
+| [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 | 2024-08-12 |  |
 | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/track/0NWggrKGAMZvthO4SkCVky) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/album/5NHOtWzCEgxgdUZdsHtsz9) | 3:39 | 2022-03-25 | 2023-03-25 |
 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 | 2022-03-25 | 2023-03-25 |
 | [Voy a Explotar](https://open.spotify.com/track/31tWsQjBWejiJHa8nZxkiW) | [SINGULARES](https://open.spotify.com/artist/1T1jRBnri3kmiLINyCFkKN) | [Voy a Explotar](https://open.spotify.com/album/2sFTI7e9lwYYg2NyQTEcaH) | 3:02 | 2024-02-02 |  |

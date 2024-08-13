@@ -4,7 +4,7 @@
 
 > as gigantes da internê
 
-427 songs - 20 hr 9 min
+428 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Subindo e Descendo](https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Alcateia](https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok) | 3:12 | 2023-12-18 |  |
 | [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 | 2024-05-02 |  |
 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 | 2022-08-11 | 2023-05-11 |
+| [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 | 2024-08-12 |  |
 | [Tchau Obrigado 2](https://open.spotify.com/track/1rlwNQVWtrM96ufHPHCwLG) | [GS da norte](https://open.spotify.com/artist/7iBTuEdsP0rSiWkYBw5Mhp) | [Tchau Obrigado 2](https://open.spotify.com/album/3MNxprBrLtjrMfMo5XPk2b) | 7:46 | 2023-11-08 | 2023-11-23 |
 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 | 2022-09-19 | 2023-08-04 |
 | [Te Maceto Depois do Baile](https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ Lafon Do Md](https://open.spotify.com/artist/1zie7wOcoVwPHWLTJyEXG7), [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc) | [Te Maceto Depois do Baile](https://open.spotify.com/album/3S84WqT6S97NTnegU0gvtg) | 3:49 | 2024-06-06 | 2024-07-19 |
@@ -376,7 +377,7 @@
 | [Tiffany](https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo) | 2:32 | 2022-07-28 | 2022-09-22 |
 | [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 1:49 | 2023-11-08 | 2023-12-21 |
 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 1:49 | 2023-12-18 |  |
-| [to bem](https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Ontem Eu Tinha Certeza \(Hoje Eu Tenho Mais\)](https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo) | 2:35 | 2024-05-28 |  |
+| [to bem](https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Ontem Eu Tinha Certeza \(Hoje Eu Tenho Mais\)](https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo) | 2:35 | 2024-05-28 | 2024-08-13 |
 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 | 2022-12-23 | 2024-03-27 |
 | [Toque Carinhoso](https://open.spotify.com/track/6s10JhCg5l6ckm8sdviEea) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Jhony Carvalho](https://open.spotify.com/artist/3klWRLFvprNcghYABkzIlY), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Toque Carinhoso](https://open.spotify.com/album/7kuchmS0xo9mmBQ6aO4dS4) | 3:06 | 2024-07-01 |  |
 | [Trava na Pose, Chama no Zoom, Da um Close \(feat\. Mc Rennan\)](https://open.spotify.com/track/5aqmWrDgnyQ2OVn6UgBko3) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Dj Olliver](https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy), [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS) | [Trava na Pose, Chama no Zoom, Da um Close](https://open.spotify.com/album/5FY0hhzRFgldlHh2U8stHw) | 3:34 | 2022-07-28 | 2022-09-22 |

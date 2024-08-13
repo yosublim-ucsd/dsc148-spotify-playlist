@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "A\u00e7\u0131k Yara",
+        "url": "https://open.spotify.com/album/4yOeweMxMdGxJ901dZeyAt"
+      },
+      "artists": [
+        {
+          "name": "Bayhan",
+          "url": "https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183696,
+      "name": "A\u00e7\u0131k Yara",
+      "url": "https://open.spotify.com/track/5TWN91FA8QYkXYoo8zYQEb"
+    },
+    {
+      "album": {
         "name": "Bal",
         "url": "https://open.spotify.com/album/33CZvHcrejXTOA7lx1Nb7D"
       },
@@ -1212,7 +1230,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 169989,
       "name": "Nadide",
       "url": "https://open.spotify.com/track/5qhr709zn63OZeb4y73vEI"

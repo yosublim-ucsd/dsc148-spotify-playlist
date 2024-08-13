@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 127914,
+  "num_followers": 128036,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAAA023RwEVpuOndDeNrQWymH",
+  "snapshot_id": "Zrf/AAAAAACE+bBTuOQBMRZd5oDURFZz",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo T\u00fa - En Vivo",
-        "url": "https://open.spotify.com/album/51YYGt4Dbu8lRv3Tyv2hAf"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 187989,
-      "name": "S\u00f3lo T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/5dCVcwNmuSIP6eTyArSc3S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fea",
         "url": "https://open.spotify.com/album/0GqDAplr6kDDLQeqoajRNY"
       },
@@ -287,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pocho 43",
-        "url": "https://open.spotify.com/album/7pZlwL9vBGDR5sMDXHrvSh"
+        "name": "S\u00f3lo T\u00fa - En Vivo",
+        "url": "https://open.spotify.com/album/51YYGt4Dbu8lRv3Tyv2hAf"
       },
       "artists": [
         {
@@ -296,9 +280,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 227860,
-      "name": "El Pocho 43",
-      "url": "https://open.spotify.com/track/6GpUIhRCjIwKBLVt4pvcZo"
+      "duration_ms": 187989,
+      "name": "S\u00f3lo T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/5dCVcwNmuSIP6eTyArSc3S"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
       "duration_ms": 210383,
       "name": "Don (En Vivo)",
       "url": "https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pocho 43",
+        "url": "https://open.spotify.com/album/7pZlwL9vBGDR5sMDXHrvSh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 227860,
+      "name": "El Pocho 43",
+      "url": "https://open.spotify.com/track/6GpUIhRCjIwKBLVt4pvcZo"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chico - En Vivo",
-        "url": "https://open.spotify.com/album/7wZ8CgOGPMikdBgb833Tq2"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 147602,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/7o7Ms4ivCjMu0D1HqCCEC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuentes De Ortiz",
         "url": "https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Chico - En Vivo",
+        "url": "https://open.spotify.com/album/7wZ8CgOGPMikdBgb833Tq2"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 147602,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/7o7Ms4ivCjMu0D1HqCCEC8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 229584,
       "name": "Nestor (El Nini)",
       "url": "https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Proveedor",
+        "url": "https://open.spotify.com/album/7jOpehP0DGSfoG5314Im7v"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 231402,
+      "name": "El Proveedor",
+      "url": "https://open.spotify.com/track/3AVEHsmsDr6MuGLRZS8Pev"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 259976,
       "name": "Hoy Ya Me Voy",
       "url": "https://open.spotify.com/track/5oBed9LF8gyRsVVKZsnwSp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Proveedor",
-        "url": "https://open.spotify.com/album/7jOpehP0DGSfoG5314Im7v"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 231402,
-      "name": "El Proveedor",
-      "url": "https://open.spotify.com/track/3AVEHsmsDr6MuGLRZS8Pev"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seraf\u00edn",
-        "url": "https://open.spotify.com/album/6d6lprZdfdYRoyy1aOtNLU"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 240605,
-      "name": "Seraf\u00edn",
-      "url": "https://open.spotify.com/track/0iZyo2AttarFOrslWbJTiU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Que Amarre (En Vivo)",
         "url": "https://open.spotify.com/album/1gLP7AqIXc00rEWnAKE066"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 256519,
       "name": "Seraf\u00edn - En Vivo",
       "url": "https://open.spotify.com/track/6aFS8Lvqlbtgt0EchjOsd2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seraf\u00edn",
+        "url": "https://open.spotify.com/album/6d6lprZdfdYRoyy1aOtNLU"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 240605,
+      "name": "Seraf\u00edn",
+      "url": "https://open.spotify.com/track/0iZyo2AttarFOrslWbJTiU"
     },
     {
       "added_at": null,

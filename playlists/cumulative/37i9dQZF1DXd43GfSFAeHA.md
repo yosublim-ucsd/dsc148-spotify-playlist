@@ -2,9 +2,9 @@
 
 ### [Arab Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DXd43GfSFAeHA)
 
-> A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: Synaptik
+> A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: The Synaptik
 
-451 songs - 23 hr 21 min
+451 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [ALOHA!](https://open.spotify.com/track/5IMUKe8HaCXbSszy8dnjqb) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 3:15 | 2022-07-28 | 2022-08-24 |
 | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/album/1oOFKHuth7o9cNeAZp3ms0) | 4:16 | 2024-02-13 | 2024-06-30 |
 | [Amar](https://open.spotify.com/track/19QZmE8ctW3y569h1TkL5W) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 3:12 | 2023-08-02 | 2023-09-06 |
+| [AMOT ANA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:45 | 2024-08-08 |  |
 | [Amrikkka](https://open.spotify.com/track/55LLrj5aARUqCLoDEwAp7v) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [Amrikkka](https://open.spotify.com/album/6NE77IxMk4wzSQjFWlFAte) | 3:25 | 2022-05-08 | 2022-08-24 |
 | [Ana Busy](https://open.spotify.com/track/0ao7ZxcDLl536cT0R0bWTL) | [Jode Skate](https://open.spotify.com/artist/3V1BlZ4P06ErQ2cKGaErL0), [Beki](https://open.spotify.com/artist/14H7d4XmFpPq94cgJdqcN4), [Adamillion](https://open.spotify.com/artist/7IC5eTsRVvvL654OEbtpm9) | [Ana Busy](https://open.spotify.com/album/7L0rgBdxtRAgRjeewzaa6J) | 2:49 | 2022-05-08 | 2022-08-24 |
 | [ANA DEAL](https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [ANA DEAL](https://open.spotify.com/album/2WMRjvOdsTaYJbOf6tQ0tL) | 3:15 | 2022-10-29 | 2023-01-12 |
@@ -258,7 +259,6 @@
 | [MORAL](https://open.spotify.com/track/7xrIIxFmBpIozEoEHBs3YY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [MORAL](https://open.spotify.com/album/03p4HxzW5x6yIGAnyhqppm) | 3:22 | 2022-05-08 | 2022-08-24 |
 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 | 2022-11-28 | 2023-06-01 |
 | [Move](https://open.spotify.com/track/5XnU6fppfaCp8cJCM0SXxe) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Move](https://open.spotify.com/album/717IhcEaucsFqL7YlM3aUa) | 3:03 | 2022-05-08 | 2022-08-24 |
-| [MOZZA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 2:28 | 2024-08-08 |  |
 | [Msayfeen](https://open.spotify.com/track/0VXGvZD6v5ZfE1OwIkSZBB) | [Magnum Ghandour](https://open.spotify.com/artist/5T3giGmVehmKzgYFg2W9LJ) | [Msayfeen](https://open.spotify.com/album/5lOQFnZZbSqj8l8Qfx33vw) | 1:56 | 2024-03-11 | 2024-07-09 |
 | [Msh Da Elle Ekhtarto](https://open.spotify.com/track/6zh6n6FzAPZxKYr1gWkemc) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Msh Da Elle Ekhtarto](https://open.spotify.com/album/4kAMmCobqwvID1jNNVJGzG) | 3:02 | 2023-02-28 | 2023-07-04 |
 | [MTV CRIBS](https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [MTV CRIBS](https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi) | 3:44 | 2024-03-11 | 2024-07-01 |

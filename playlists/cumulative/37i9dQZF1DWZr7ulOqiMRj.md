@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-115 songs - 9 hr 7 min
+116 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Flame](https://open.spotify.com/track/7pZ0GyilVy6tUriFrSfPmD) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/07bPNT9oLiFi5EiC0p4sAO) | 6:59 | 2023-09-05 |  |
 | [Forces](https://open.spotify.com/track/1DTFGyttuDtmixYMvcWZsS) | [David Aurel](https://open.spotify.com/artist/5ge8z61Jq4JIPgiMdAHDzu) | [Be Great](https://open.spotify.com/album/4qCxuFx0qXbwl9HCxYthES) | 6:31 | 2023-09-05 |  |
 | [Freak](https://open.spotify.com/track/6LDoJdEJW4NTOTOLTH71IL) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34) | [Freak](https://open.spotify.com/album/1LStsedQUVmTDXp9xGVMyp) | 3:07 | 2023-09-05 |  |
+| [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-08-12 |  |
 | [Gravity \- Adam Sellouk Extended Remix](https://open.spotify.com/track/6irlP9dpTMEsdNB8shLPWl) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Gravity \(Adam Sellouk Remix\)](https://open.spotify.com/album/6ppUqWCeHd7f9CdvousxAT) | 6:29 | 2023-09-05 |  |
 | [Great Southern Land](https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/0BysOODMvw4P7nfZgLoNde) | 4:15 | 2023-09-05 |  |
 | [Hard To Breathe \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/4aBLX1KrJim9OnvnTNfD2t) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Hard To Breathe \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/7vGQzOXzYfLoEIkiZ26QXQ) | 3:50 | 2023-09-05 |  |

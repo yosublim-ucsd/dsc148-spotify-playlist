@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Primal Scream",
-  "num_followers": 89512,
+  "num_followers": 89549,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Le Risque",
-        "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 214125,
-      "name": "Le Risque",
-      "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 195106,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Le Risque",
+        "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 214125,
+      "name": "Le Risque",
+      "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 194731,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Frogs",
         "url": "https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 274346,
       "name": "Frogs",
       "url": "https://open.spotify.com/track/39irRnySrRADgui9AVTqdx"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "People Who Aren\u2019t There Anymore",
-        "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "The Thief",
-      "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 210693,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "People Who Aren\u2019t There Anymore",
+        "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "The Thief",
+      "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "awe",
         "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "ECRP",
-        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "ECRP",
-      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Brown Paper Bag",
         "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 265000,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "ECRP",
+        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "ECRP",
+      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Sad Eyes",
-        "url": "https://open.spotify.com/album/3S86147AAV0UuOvWTM4sl0"
-      },
-      "artists": [
-        {
-          "name": "Tempesst",
-          "url": "https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "Sad Eyes",
-      "url": "https://open.spotify.com/track/5Fdomh8NNsUWjWjrdaZPgi"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Black Rainbows",
         "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 225298,
       "name": "He Will Follow You With His Eyes",
       "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Sad Eyes",
+        "url": "https://open.spotify.com/album/3S86147AAV0UuOvWTM4sl0"
+      },
+      "artists": [
+        {
+          "name": "Tempesst",
+          "url": "https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Sad Eyes",
+      "url": "https://open.spotify.com/track/5Fdomh8NNsUWjWjrdaZPgi"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1243,8 +1243,8 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Don't Ask",
-        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
+        "name": "No Body",
+        "url": "https://open.spotify.com/album/37Oqe9dvGu7jWs19pVLGPW"
       },
       "artists": [
         {
@@ -1252,25 +1252,9 @@
           "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
         }
       ],
-      "duration_ms": 245985,
-      "name": "Don't Ask",
-      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Raining On Your Pillow",
-        "url": "https://open.spotify.com/album/35uymqTjUrltGX52KHDns8"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Raining On Your Pillow",
-      "url": "https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg"
+      "duration_ms": 162935,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/4BdA7ZtP00Dda9UWiSAn2F"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1287,6 +1271,22 @@
       "duration_ms": 277285,
       "name": "Fishbrain",
       "url": "https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Raining On Your Pillow",
+        "url": "https://open.spotify.com/album/35uymqTjUrltGX52KHDns8"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Raining On Your Pillow",
+      "url": "https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "I Wanna Live With You",
+        "url": "https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L"
+      },
+      "artists": [
+        {
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+        }
+      ],
+      "duration_ms": 174943,
+      "name": "I Wanna Live With You",
+      "url": "https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Dig feat. Rhian Teasdale",
         "url": "https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 167386,
       "name": "Dig feat. Rhian Teasdale",
       "url": "https://open.spotify.com/track/4VE5B2N4TCHvK5ZZ3dSI6c"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "I Wanna Live With You",
-        "url": "https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L"
-      },
-      "artists": [
-        {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
-        }
-      ],
-      "duration_ms": 174943,
-      "name": "I Wanna Live With You",
-      "url": "https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1407,8 +1407,8 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "No Body",
-        "url": "https://open.spotify.com/album/37Oqe9dvGu7jWs19pVLGPW"
+        "name": "Don't Ask",
+        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
       },
       "artists": [
         {
@@ -1416,9 +1416,9 @@
           "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
         }
       ],
-      "duration_ms": 162935,
-      "name": "No Body",
-      "url": "https://open.spotify.com/track/4BdA7ZtP00Dda9UWiSAn2F"
+      "duration_ms": 245985,
+      "name": "Don't Ask",
+      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "May Ninth",
-        "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
+        "name": "Fugue (Bin Song)",
+        "url": "https://open.spotify.com/album/5jQUB8BUJk3LdtLt626xyL"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 192144,
-      "name": "May Ninth",
-      "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
+      "duration_ms": 322988,
+      "name": "Fugue (Bin Song)",
+      "url": "https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1615,38 +1615,34 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Fugue (Bin Song)",
-        "url": "https://open.spotify.com/album/5jQUB8BUJk3LdtLt626xyL"
+        "name": "Gears",
+        "url": "https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ"
       },
       "artists": [
         {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
         }
       ],
-      "duration_ms": 322988,
-      "name": "Fugue (Bin Song)",
-      "url": "https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc"
+      "duration_ms": 155874,
+      "name": "Gears",
+      "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
     },
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "My Back Was A Bridge For You To Cross",
-        "url": "https://open.spotify.com/album/4g6x7cqgxfkuqA8lfvIKMf"
+        "name": "May Ninth",
+        "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
       },
       "artists": [
         {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        },
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 280306,
-      "name": "Can't",
-      "url": "https://open.spotify.com/track/42RzJ3eJARwTlUVVYdZQ10"
+      "duration_ms": 192144,
+      "name": "May Ninth",
+      "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
     }
   ],
   "unique_name": "The Listening Post",

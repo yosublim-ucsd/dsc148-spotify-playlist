@@ -5565,6 +5565,28 @@
     },
     {
       "album": {
+        "name": "bl\u00f6k",
+        "url": "https://open.spotify.com/album/39KerOKsr59Om7igAWQJar"
+      },
+      "artists": [
+        {
+          "name": "WEN",
+          "url": "https://open.spotify.com/artist/4521qGQWk4pQU8lvGgjNUx"
+        },
+        {
+          "name": "Nuri",
+          "url": "https://open.spotify.com/artist/3dzcCOztEhWYgB5msEXMKC"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "bl\u00f6k",
+      "url": "https://open.spotify.com/track/7qov4MMmfnY7RY3Bwq37ld"
+    },
+    {
+      "album": {
         "name": "The Car",
         "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
       },
@@ -10300,10 +10322,28 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 135813,
       "name": "Doner Kebab Nacho Alejandro Garnacho",
       "url": "https://open.spotify.com/track/385BFEUrt4tbnFHUvTkWoW"
+    },
+    {
+      "album": {
+        "name": "Doner Kebab Nacho Alejandro Garnacho",
+        "url": "https://open.spotify.com/album/7DBQpy4ztq7B3D47JlCUo7"
+      },
+      "artists": [
+        {
+          "name": "y2k sports",
+          "url": "https://open.spotify.com/artist/5JLIodjOfvdiDbWYrs771c"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135859,
+      "name": "Doner Kebab Nacho Alejandro Garnacho",
+      "url": "https://open.spotify.com/track/4NVI0zMtRIcJDz96pH9jMc"
     },
     {
       "album": {
@@ -11186,7 +11226,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
@@ -11520,7 +11560,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 128399,
       "name": "Escape",
       "url": "https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh"
@@ -22224,7 +22264,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 218169,
       "name": "Like A Prayer (From \"Deadpool & Wolverine Trailer\")",
       "url": "https://open.spotify.com/track/3TxsVS9zyHvlymql2upaXM"
@@ -27454,7 +27494,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 191250,
       "name": "Narcos",
       "url": "https://open.spotify.com/track/1OWQtElgSSmAcIT6fZLJ6R"
@@ -36464,7 +36504,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Si Ai",
       "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
@@ -36598,7 +36638,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 166960,
       "name": "SIN MIEDO",
       "url": "https://open.spotify.com/track/6zSLy6mrBrMlzaIn9UDw6o"
@@ -45366,6 +45406,24 @@
       "duration_ms": 193515,
       "name": "wutiwant",
       "url": "https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM"
+    },
+    {
+      "album": {
+        "name": "wutiwant",
+        "url": "https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic"
+      },
+      "artists": [
+        {
+          "name": "saraunh0ly",
+          "url": "https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193515,
+      "name": "wutiwant",
+      "url": "https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo"
     },
     {
       "album": {

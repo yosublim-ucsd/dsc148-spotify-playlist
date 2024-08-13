@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-564 songs - 1 day 21 hr 25 min
+565 songs - 1 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Otaku](https://open.spotify.com/track/2pKqAIkPQraNbuL0quBuPo) | [Nure](https://open.spotify.com/artist/4zsl085OD62z4Pyc7JPhUq) | [Otaku](https://open.spotify.com/album/4v4qIlqoXLTX1CyIvdtZaU) | 6:12 | 2022-12-06 | 2023-02-04 |
 | [Otherside \- Fideles Remix Edit](https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Otherside \(Fideles Remix Edit\)](https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf) | 4:30 | 2022-11-23 | 2024-07-13 |
 | [Our Lives](https://open.spotify.com/track/0NIAGOzrOc4Y7yLl2EVi3l) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Our Lives](https://open.spotify.com/album/73LLXQVzvlttD9MBdvcwDB) | 6:35 | 2023-05-31 | 2023-06-03 |
+| [Out Of My Mind](https://open.spotify.com/track/1b8ukj8lFaaJn1L5buFICj) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [Out Of My Mind](https://open.spotify.com/album/4D3b0pbXJuXp5osS5fZE7f) | 3:46 | 2024-08-08 |  |
 | [Out Of Your Comfort Zone](https://open.spotify.com/track/0C8G5YJrDlRJvhLR8mfC98) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Out Of Your Comfort Zone](https://open.spotify.com/album/0HvHEOaBmpRMH2vYHSf6Qt) | 6:54 | 2023-02-10 | 2023-02-18 |
 | [Outside Time](https://open.spotify.com/track/5F8TBm0KnHfW2IVSgSlZrY) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Outside Time](https://open.spotify.com/album/6XskRNKES3V9dY2SSZ0H6s) | 6:48 | 2023-11-24 | 2024-01-27 |
 | [Overcome](https://open.spotify.com/track/3Ri7CVRYHurCnvubOZKZRA) | [Maksim Dark](https://open.spotify.com/artist/2dbxPQ9Ri4dvE6tuLp1jOu), [Arturo \(RU\)](https://open.spotify.com/artist/5Mci17S1El2pO6fvVaZ2Fd) | [Overcome](https://open.spotify.com/album/1esfKP16AKHgk6P5fDuXQX) | 7:12 | 2022-11-23 | 2023-01-28 |
@@ -530,7 +531,7 @@
 | [Trekni Hek](https://open.spotify.com/track/5aWOnhEkTp9aEstrbLW9Sm) | [Gutenn](https://open.spotify.com/artist/6i1WgIYo6KAMsYz5CZRlYl) | [Trekni Hek](https://open.spotify.com/album/3wSU8GqpquLK62LCFegpfk) | 6:09 | 2023-02-17 | 2023-02-28 |
 | [Tripchain](https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga) | [John Digweed](https://open.spotify.com/artist/3xnDktxhudJR2Wv3HZDQ9W), [Nick Muir](https://open.spotify.com/artist/2Z24cX1mJuD751l4CusqYp), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Tripchain / Scanalatura](https://open.spotify.com/album/6lpcgj0260dwSF2DEZ33el) | 6:45 | 2023-09-07 | 2024-07-20 |
 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-23 |  |
-| [Trust The Hours](https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Trust The Hours](https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV) | 6:11 | 2022-11-23 |  |
+| [Trust The Hours](https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Trust The Hours](https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV) | 6:11 | 2022-11-23 | 2024-08-13 |
 | [Try](https://open.spotify.com/track/6dYp9gwmnHvLdjwHhhiJbV) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Try / I Need You Now](https://open.spotify.com/album/4bPpSY4RfqWXcPrlLP8v1G) | 3:39 | 2022-11-23 | 2022-12-17 |
 | [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 | 2023-05-05 | 2023-10-30 |
 | [Tuning The Moon](https://open.spotify.com/track/0NyLbTmWdkKmLU8mU2GlZm) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Tuning The Moon](https://open.spotify.com/album/564oWzVrDjxDIZz1FqNE4T) | 5:34 | 2023-03-03 | 2023-05-13 |

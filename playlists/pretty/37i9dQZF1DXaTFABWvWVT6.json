@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 71607,
+  "num_followers": 71613,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2024-08-09 13:36:44",
       "album": {
+        "name": "Boost Up",
+        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 211899,
+      "name": "Boost Up",
+      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
+    },
+    {
+      "added_at": "2024-08-09 13:36:44",
+      "album": {
         "name": "FWTDJ (All Night Long)",
         "url": "https://open.spotify.com/album/1u70efS1IicS42qnwzlWxC"
       },
@@ -691,26 +711,6 @@
     {
       "added_at": "2024-08-09 13:36:44",
       "album": {
-        "name": "Boost Up",
-        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 211899,
-      "name": "Boost Up",
-      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
-    },
-    {
-      "added_at": "2024-08-09 13:36:44",
-      "album": {
         "name": "Little Man (Proud Of You)",
         "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 120902,
       "name": "Little Man (Proud Of You)",
       "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
-    },
-    {
-      "added_at": "2024-08-09 13:36:44",
-      "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 140621,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
     },
     {
       "added_at": "2024-08-09 13:36:44",
@@ -763,26 +747,6 @@
     {
       "added_at": "2024-08-09 13:36:44",
       "album": {
-        "name": "All That You Need (feat. Caroline Byrne)",
-        "url": "https://open.spotify.com/album/7jrTX2qU8wtMghbkLSpezV"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 178132,
-      "name": "All That You Need (feat. Caroline Byrne)",
-      "url": "https://open.spotify.com/track/5Bux5dq6CHM7pJLlrx8R3f"
-    },
-    {
-      "added_at": "2024-08-09 13:36:44",
-      "album": {
         "name": "Pressure Makes Diamonds",
         "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
       },
@@ -799,6 +763,22 @@
     {
       "added_at": "2024-08-09 13:36:44",
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 140621,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
+    },
+    {
+      "added_at": "2024-08-09 13:36:44",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 150000,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA"
+    },
+    {
+      "added_at": "2024-08-09 13:36:44",
+      "album": {
+        "name": "All That You Need (feat. Caroline Byrne)",
+        "url": "https://open.spotify.com/album/7jrTX2qU8wtMghbkLSpezV"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 178132,
+      "name": "All That You Need (feat. Caroline Byrne)",
+      "url": "https://open.spotify.com/track/5Bux5dq6CHM7pJLlrx8R3f"
     },
     {
       "added_at": "2024-08-09 13:36:44",

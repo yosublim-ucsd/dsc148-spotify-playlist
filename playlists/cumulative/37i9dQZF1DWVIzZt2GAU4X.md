@@ -2,7 +2,7 @@
 
 ### [Piano Ballads](https://open.spotify.com/playlist/37i9dQZF1DWVIzZt2GAU4X)
 
-> Vocals and keys, front and center\. Cover: Adele
+> Vocals and keys, front and center\. Cover: Bruno Mars
 
 240 songs - 15 hr 6 min
 

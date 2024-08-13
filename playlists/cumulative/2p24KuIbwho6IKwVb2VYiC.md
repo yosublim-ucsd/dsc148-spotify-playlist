@@ -2,9 +2,9 @@
 
 ### [New Dance Hits 2024](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now! Cover: Alesso &amp; Nate Smith
+> The best Dance and EDM tracks right now! Cover: Zedd &amp; Remi Wolf
 
-219 songs - 11 hr 33 min
+220 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 | 2024-05-22 | 2024-07-20 |
 | [Love Bites \(Feat\. Tove Lo & SG Lewis\) \- Don Diablo Remix](https://open.spotify.com/track/4DTjXbSEScWCuWKxzgsf73) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\) \[Don Diablo Remix\]](https://open.spotify.com/album/7EZ7mLKqbbZi1KbZIj2LIa) | 3:41 | 2024-06-28 |  |
 | [Love Like This \- Mura Masa Remix](https://open.spotify.com/track/1wgYKTumhfVTlanuSQ67Jx) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Love Like This \(Mura Masa Remix\)](https://open.spotify.com/album/270xDX1gI4F98Hli76aDdP) | 2:43 | 2023-10-27 |  |
+| [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 | 2024-08-12 |  |
 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 | 2024-05-22 |  |
 | [MAGIC \(feat\. babyidontlikeyou\)](https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [babyidontlikeyou](https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq) | [MAGIC](https://open.spotify.com/album/48mGE9Z8VowqEVUHj3WN5H) | 3:22 | 2024-04-26 |  |
 | [Make You Say \- ellis Remix](https://open.spotify.com/track/67Y5TUpVRkdEqnnhpXUTp1) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Make You Say \(ellis Remix\)](https://open.spotify.com/album/04Z4z609qhUIkxaSYatRxv) | 2:30 | 2023-10-27 |  |

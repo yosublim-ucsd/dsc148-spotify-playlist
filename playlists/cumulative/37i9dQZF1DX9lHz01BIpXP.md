@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL?si=iyC2KRK9QsGx8201H4S1mg">Mr Heinz</a> & <a href="https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=CYBfHUgYSWGODqMPjRiGGQ">Jack Parow</a>
 
-147 songs - 7 hr 38 min
+148 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Ek Is Tussen](https://open.spotify.com/track/0XS9vnMfxqTuRDGeQroOKV) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [Ek Is Tussen](https://open.spotify.com/album/04XFXVW4dNH67A1AttIeo0) | 1:32 | 2023-03-30 | 2024-01-06 |
 | [Ek Is Tussen \- Remix](https://open.spotify.com/track/0WCKGTPqGTXl0wbaDHxY0t) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ), [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B) | [AFRIKAANS GENOEG?](https://open.spotify.com/album/1CHHHkhWAPapUTfpxRbXsi) | 2:34 | 2023-04-13 | 2023-04-21 |
 | [EK ISI UITIE](https://open.spotify.com/track/1ePwUxEbNEbHiYSgiFyydM) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [EK ISI UITIE](https://open.spotify.com/album/0CYLa1vPfWZYI9yk2FEsWR) | 3:25 | 2022-09-08 | 2024-02-02 |
-| [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 | 2023-09-28 |  |
+| [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 | 2023-09-28 | 2024-08-13 |
 | [FFF](https://open.spotify.com/track/4ELBY7XVZYESi10omwgAok) | [DEMIGOD MINGO](https://open.spotify.com/artist/71GIrJ3f0Q0YDz2IaA4DxW) | [FFF](https://open.spotify.com/album/36nqnCoIwYAaQhD7nNRtMw) | 3:17 | 2023-04-20 | 2023-05-06 |
 | [First Day Out](https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f) | [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [First Day Out](https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM) | 3:06 | 2024-06-06 |  |
 | [Forever Or Never](https://open.spotify.com/track/2vQlEG2lcO9xcw5t1Gzgtv) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Anny](https://open.spotify.com/artist/5S3D0VwV9kYiOBsvPRmjT7) | [Funky\-Kaans](https://open.spotify.com/album/4dCrzyFLnOoCrMCEfLZ6qa) | 3:50 | 2022-09-08 | 2023-08-05 |
@@ -122,6 +122,7 @@
 | [Skrik Wakker](https://open.spotify.com/track/5pOcnruKNKTWB0U3xE5KoO) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [YB Benzy](https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm), [Rennie\-Boy](https://open.spotify.com/artist/53BPfXb27ng2cYGEK6PtaG) | [Skrik Wakker](https://open.spotify.com/album/0zGRb9dlhnxbgEtax9R9aB) | 4:00 | 2024-05-23 |  |
 | [Slaaplose Nagte](https://open.spotify.com/track/2ESObtgSm31Cbyjeg9Uw4Q) | [Wanié](https://open.spotify.com/artist/1XsEkHNiBF8qAdUBVULiVt) | [Slapeloosheid](https://open.spotify.com/album/0xnfC9WKqTgylhmOgIRmY4) | 3:00 | 2022-09-08 | 2023-04-14 |
 | [Slat Los](https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Slat Los](https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg) | 2:56 | 2024-06-07 |  |
+| [Slegte Gewoonte](https://open.spotify.com/track/0m5TIFvr8GQCIM2FDNAJPT) | [Lil Dee Music](https://open.spotify.com/artist/3GWcPN5iY86CwRrgJE4kvg), [Euno](https://open.spotify.com/artist/14Lh7c1HhLZPLAAqOG83Kw), [Aiyamanfykz](https://open.spotify.com/artist/5UPbQ61xjTa1rHG9uGdZZL) | [2098](https://open.spotify.com/album/51PA9pHz64S6a9VfFerGca) | 3:10 | 2024-08-09 |  |
 | [Smaak Vir Rap](https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd) | [JÜS](https://open.spotify.com/artist/4xWdHkhjQ6CD2ggPUUffU4), [LIMPO.G.O.D](https://open.spotify.com/artist/5dGKeyMOT7XJOlfceJfJHT) | [Vry & Jonk](https://open.spotify.com/album/4q6QPDCUyLC3DpOQ2w8Psh) | 2:17 | 2024-07-26 |  |
 | [Smegh](https://open.spotify.com/track/2QnU3FNd4ksQGKXjapASxN) | [Giga](https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz) | [Smegh](https://open.spotify.com/album/6CwnWUFCc4LXMvRjevMhJr) | 2:56 | 2023-05-18 | 2023-06-03 |
 | [Smooth](https://open.spotify.com/track/7oovNehysT0pyWphC78mnH) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Smooth](https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq) | 2:49 | 2022-12-01 | 2023-07-14 |

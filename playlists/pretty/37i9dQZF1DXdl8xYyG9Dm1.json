@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Show Dem Camp",
-  "num_followers": 157053,
+  "num_followers": 157078,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf"
+      },
+      "artists": [
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
         "name": "Fly Girl",
         "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 194100,
       "name": "Fly Girl",
       "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf"
-      },
-      "artists": [
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
-        "name": "Warning!",
-        "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
-      },
-      "artists": [
-        {
-          "name": "Kel-P",
-          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 164827,
-      "name": "Warning!",
-      "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 186191,
       "name": "Accidentally (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
+        "name": "Warning!",
+        "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 164827,
+      "name": "Warning!",
+      "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
     },
     {
       "added_at": "2024-08-09 00:01:00",

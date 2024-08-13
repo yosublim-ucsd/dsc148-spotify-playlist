@@ -2,7 +2,7 @@
 
 ### [This Is Megan Thee Stallion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BEOzm)
 
-> This is Megan Thee Stallion\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
+> This Is Megan Thee Stallion\. Los temas esenciales, todos en una lista.
 
 90 songs - 4 hr 9 min
 

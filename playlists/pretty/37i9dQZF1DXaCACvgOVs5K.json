@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 574698,
+  "num_followers": 575360,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 217410,
       "name": "Gimme That Bounce",
       "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Take It Off",
-        "url": "https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J"
+        "name": "Boost Up",
+        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
       },
       "artists": [
         {
@@ -1068,13 +1068,13 @@
           "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         },
         {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 194604,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi"
+      "duration_ms": 211899,
+      "name": "Boost Up",
+      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Boost Up",
-        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J"
       },
       "artists": [
         {
@@ -1164,13 +1164,13 @@
           "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         },
         {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
         }
       ],
-      "duration_ms": 211899,
-      "name": "Boost Up",
-      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
+      "duration_ms": 194604,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1187,26 +1187,6 @@
       "duration_ms": 140621,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
-        "name": "Sunday Shoutin' (TSHA Remix)",
-        "url": "https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC"
-      },
-      "artists": [
-        {
-          "name": "Johnny Corporate",
-          "url": "https://open.spotify.com/artist/6A0j8wMkDZSYmChVs9m9e2"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 216622,
-      "name": "Sunday Shoutin' - TSHA Remix",
-      "url": "https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1235,6 +1215,26 @@
       "duration_ms": 217500,
       "name": "Raw - Tony Romera Remix",
       "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Sunday Shoutin' (TSHA Remix)",
+        "url": "https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Corporate",
+          "url": "https://open.spotify.com/artist/6A0j8wMkDZSYmChVs9m9e2"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 216622,
+      "name": "Sunday Shoutin' - TSHA Remix",
+      "url": "https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Key103",
-        "url": "https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 442828,
-      "name": "Key103",
-      "url": "https://open.spotify.com/track/2rqHRjIdGqFNgOqq3nNPkT"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b"
       },
@@ -1847,6 +1831,22 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
+        "name": "Key103",
+        "url": "https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 442828,
+      "name": "Key103",
+      "url": "https://open.spotify.com/track/2rqHRjIdGqFNgOqq3nNPkT"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
         "name": "Junction 3",
         "url": "https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3"
       },
@@ -1859,30 +1859,6 @@
       "duration_ms": 158666,
       "name": "Junction 3",
       "url": "https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
-        "name": "(still) WON'T4GETU",
-        "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
-        }
-      ],
-      "duration_ms": 374116,
-      "name": "(still) WON'T4GETU",
-      "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1911,6 +1887,30 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
+        "name": "(still) WON'T4GETU",
+        "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        }
+      ],
+      "duration_ms": 374116,
+      "name": "(still) WON'T4GETU",
+      "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
         "name": "That Sound (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj"
       },
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Ballo",
-        "url": "https://open.spotify.com/album/5EZHNZgGDojUeHvKGgUyvK"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "Ballo",
-      "url": "https://open.spotify.com/track/24QACMi7RvevNfpkEoS18p"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 241768,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Ballo",
+        "url": "https://open.spotify.com/album/5EZHNZgGDojUeHvKGgUyvK"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "Ballo",
+      "url": "https://open.spotify.com/track/24QACMi7RvevNfpkEoS18p"
     },
     {
       "added_at": "2024-08-08 23:00:00",

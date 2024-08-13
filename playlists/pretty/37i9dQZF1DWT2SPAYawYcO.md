@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: CYRIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,284 likes - 96 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,294 likes - 96 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 70 | [One On One \(feat\. marlonbeats\)](https://open.spotify.com/track/5UeW8R15toXJcw6Vk5dBb8) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [marlonbeats](https://open.spotify.com/artist/5CgKRZNH68S6yctIBLPOmx), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ) | [One On One \(feat\. marlonbeats\)](https://open.spotify.com/album/08QI4r07qv4sCiNGNp3DSF) | 2:18 |
 | 71 | [Sorry Mom](https://open.spotify.com/track/3zftDSl1HdBPJek75cQwDE) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sorry Mom](https://open.spotify.com/album/0rxM61BYIAoyY2KvMOUwjo) | 3:35 |
 | 72 | [Pray For Me \(feat\. Wyclef Jean\)](https://open.spotify.com/track/2vkSZp7EDzpJ1tWY9HFThc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Pray For Me \(feat\. Wyclef Jean\)](https://open.spotify.com/album/4m1SKZ4WIrWxECvHUjlDNr) | 3:19 |
-| 73 | [ND4L](https://open.spotify.com/track/3t97yUGNIA73gl3OUf7JFl) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl), [Trè Samuels](https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq) | [ND4L](https://open.spotify.com/album/43aEbDau2rZqJltnrEDqO8) | 2:31 |
+| 73 | [ND4L](https://open.spotify.com/track/3t97yUGNIA73gl3OUf7JFl) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl), [Trè Samuels](https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq) | [ND4L](https://open.spotify.com/album/43aEbDau2rZqJltnrEDqO8) | 2:34 |
 | 74 | [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 |
 | 75 | [Save Me](https://open.spotify.com/track/1lKOLGBssrtcgxE47Hou5K) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Save Me](https://open.spotify.com/album/0PIBhidWmPmdMusP5rWdzQ) | 3:00 |
 | 76 | [Like I Said](https://open.spotify.com/track/6BHGcsc8q9lrduVjXOuA0w) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Like I Said](https://open.spotify.com/album/2gsAnOVVfnMvMLQQk4BOwF) | 5:12 |

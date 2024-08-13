@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 87dance\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-757 songs - 1 day 22 hr 17 min
+759 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 | 2022-07-08 | 2022-07-13 |
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-10 |  |
 | [Guitar Pick](https://open.spotify.com/track/3RZwNqLYaZInBhnWmRiHBD) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [M3MI](https://open.spotify.com/album/58oTIGEYaR2zXeDNxgIG8K) | 2:28 | 2023-12-12 | 2023-12-19 |
-| [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 | 2024-05-28 |  |
+| [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 | 2024-05-28 | 2024-08-13 |
 | [Half Asleep \(feat\. Peakboy, hiko\)](https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 3:25 | 2024-04-30 | 2024-06-17 |
 | [Hanagae](https://open.spotify.com/track/4hnhipRrUg7yUCAqT9yvsR) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Hanagae](https://open.spotify.com/album/69ojcNwWWhvRkaTxxdFkGY) | 3:13 | 2021-12-12 | 2022-07-20 |
 | [Hangkio](https://open.spotify.com/track/0hUYYFoOPCuSsb6stdqR0h) | [Shin Onyu](https://open.spotify.com/artist/3dSchlsDeFd5mEw4RoAMOx) | [Happy Orange](https://open.spotify.com/album/76TnC7yj8OkyDIsTBpCak5) | 3:57 | 2021-12-21 | 2022-07-01 |
@@ -284,6 +284,7 @@
 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 | 2022-09-05 | 2022-09-21 |
 | [I Don't Give A](https://open.spotify.com/track/2NmY7mgMgXewWoQLoUQC7p) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Even Though We Are Not the Same 우리의 감정이 같을 순 없지만](https://open.spotify.com/album/3isdFTW14WhOxUdOhFMHqP) | 3:10 | 2022-03-31 | 2022-04-04 |
 | [I don't know](https://open.spotify.com/track/2tjh87mXDZJJIKLOpqH97T) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [I don't know](https://open.spotify.com/album/7Dlz2hPB7zxz4nf1RFpxiy) | 4:08 | 2021-12-21 | 2022-07-29 |
+| [I don’t have eraser of words](https://open.spotify.com/track/36u940AeFl6IQmVWNXnAbj) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [I don’t have eraser of words](https://open.spotify.com/album/086UhcdBXeiEVY8XNAb4ad) | 3:11 | 2024-08-12 |  |
 | [I know what is the love after broke up](https://open.spotify.com/track/1izGHQNj7Oh8dcGhY7xi3r) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [I know what is the love after broke up](https://open.spotify.com/album/7eUvhAWeEWVKrfnEAnlkfn) | 4:19 | 2022-04-12 | 2022-04-21 |
 | [I Know Where The Rainbow has Fallen](https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [The Land of Fantasy](https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE) | 3:42 | 2021-12-21 |  |
 | [I Like You](https://open.spotify.com/track/2aON0GIWKXHxPe9zE0AD3e) | [J.Lee](https://open.spotify.com/artist/324dYLqc0sal9kI5GJdyfr) | [I Like You](https://open.spotify.com/album/0NEr71QL6BkbWoXrWUmQ2C) | 3:17 | 2022-07-22 | 2022-07-28 |
@@ -587,7 +588,7 @@
 | [Stain](https://open.spotify.com/track/2G1BW0nYmGv6NasnpVl2Hp) | [Gogang](https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU) | [Home Alone](https://open.spotify.com/album/3omf0gHwXSqEIIO6XXfi3z) | 3:54 | 2023-01-10 | 2023-01-26 |
 | [Stairs](https://open.spotify.com/track/7pVU6ihIDWfIfpCTQvQMvZ) | [Ouf Of Campus](https://open.spotify.com/artist/7tcw7xCLN8uPjOjYE1RWhn) | [Stairs](https://open.spotify.com/album/1mFphJwg3VCCwriB5XAggx) | 3:03 | 2022-12-22 | 2022-12-30 |
 | [Star's Name \(narr.Mommyson\)](https://open.spotify.com/track/54ZuYIYglWSGEVfSNefoPy) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [\#seoulcitypopfreestyle](https://open.spotify.com/album/16OgkcIjk1w52yxO1EJtUP) | 2:58 | 2022-03-31 | 2022-04-18 |
-| [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-06-26 |  |
+| [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-06-26 | 2024-08-13 |
 | [starlight](https://open.spotify.com/track/6PAitd0U0mvJCVJ11xIx4y) | [HERD](https://open.spotify.com/artist/6aQtLvZBb5B8fy6KfWRvTQ) | [hivill](https://open.spotify.com/album/5Di4zjlL4NuRIDKcPZ3OdC) | 4:52 | 2021-12-21 | 2022-06-25 |
 | [STARS](https://open.spotify.com/track/0Wes8mildhpOo1pguWGG9d) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [SPACE STATION](https://open.spotify.com/album/5HtxTb1Y4w2DlZ0NUisnJJ) | 3:32 | 2024-03-15 | 2024-04-07 |
 | [Stars](https://open.spotify.com/track/2n7Nx1FGB3kMnN9C3OYQbB) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [STARS](https://open.spotify.com/album/6VAof7sDeEJlWNpL6uc7ze) | 3:32 | 2024-04-30 | 2024-05-10 |
@@ -738,6 +739,7 @@
 | [Young Man](https://open.spotify.com/track/0VrZodRby4IfK3rZIxSajI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:17 | 2024-07-10 |  |
 | [Young People](https://open.spotify.com/track/1T3kSXQGxdY144SzofbEQt) | [nijuu](https://open.spotify.com/artist/5DOwMhG96lFhlPpNG9oaWW) | [Young People](https://open.spotify.com/album/1Q1jrlmvrqpxQOLa7i9VGh) | 3:04 | 2022-03-31 | 2022-05-12 |
 | [Your Voice Makes Me Dream](https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK) | [Dinner Coat](https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV) | [Your Voice Makes Me Dream](https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n) | 4:00 | 2021-12-12 | 2022-07-27 |
+| [yours.](https://open.spotify.com/track/3C4KOIMBDPK21oTsvdMDRn) | [Gwak Tae Poong](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm) | [yours.](https://open.spotify.com/album/1jcBjaepZsSf1Wl0mx8S3d) | 3:25 | 2024-08-12 |  |
 | [Youth](https://open.spotify.com/track/2LT8gtraNXInH6DZdP6jrt) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/22Isp3j1eaoVzQrUm5zbiq) | 6:01 | 2021-12-12 | 2022-07-29 |
 | [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 | 2022-07-27 | 2024-04-19 |
 | [Zero One](https://open.spotify.com/track/2MPynctIqjFhmRLKRpBamF) | [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Zero One](https://open.spotify.com/album/6hHfHInmTWnwDPyOUpzMXn) | 4:27 | 2022-03-31 | 2022-04-12 |

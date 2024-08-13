@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-233 songs - 14 hr 14 min
+234 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Special](https://open.spotify.com/track/1udv7FVK3Jx7Q7ZR1miBwK) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Chocolate, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1cpAltXg2KRN7PCRSJCLtf) | 3:32 | 2022-07-22 | 2024-01-10 |
 | [Special](https://open.spotify.com/track/4rYVDRcexlHXE65wm6jHQw) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Chocolate,Pt.7\(Original Television Soundtrack\)](https://open.spotify.com/album/4amm2rslfEsYe9iutNhrUb) | 3:32 | 2022-06-20 | 2022-06-29 |
 | [Special](https://open.spotify.com/track/0mJXYwO3SY1botH8lBfjBQ) | [유빈](https://open.spotify.com/artist/54WmF0InV2ogQOVKnZJExd) | [Chocolate, Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/79wBNq5XUF8BkdmNjPoxrO) | 3:32 | 2023-11-03 | 2024-04-19 |
-| [Still Wonder](https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [You Are My Spring OST Part 3](https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96) | 2:41 | 2022-06-20 |  |
+| [Still Wonder](https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [You Are My Spring OST Part 3](https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96) | 2:41 | 2022-06-20 | 2024-08-13 |
 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 | 2022-06-20 |  |
 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 | 2024-04-09 | 2024-04-22 |
 | [sunset](https://open.spotify.com/track/0DO6qgVG7TmMeZ3FS37Gxl) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [swimmingpxxl](https://open.spotify.com/artist/3xEliY5KxRr3rYjfhidr6W) | [Doomsday vol\. 1](https://open.spotify.com/album/2tO7Bg8YLYvIhEa0tPYbpg) | 4:06 | 2022-06-20 | 2022-06-29 |
@@ -236,6 +236,7 @@
 | [내일](https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj) | [태영](https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv) | [내일 \(KSTAGE X 태영 Of 블랙레벨\)](https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY) | 4:00 | 2022-07-22 | 2022-07-29 |
 | [달](https://open.spotify.com/track/3mXE4PCmf8x62yobMefpLj) | [Jihye Lee](https://open.spotify.com/artist/5npSy7josu0VCS1YgHDHLC) | [카페 비러스윗사운드 20年 6月](https://open.spotify.com/album/1ckwykQkDdcluxytZ7035M) | 4:52 | 2022-06-20 | 2022-06-26 |
 | [부재](https://open.spotify.com/track/5FYlzhVc0DjOjBLmVDxHeY) | [새벽두시](https://open.spotify.com/artist/3amhjUtXBmRcWRP95ZqXxg) | [부재](https://open.spotify.com/album/2u6zEun4YhmDvkuWbm6Nmc) | 2:54 | 2022-07-08 | 2022-07-14 |
+| [불꽃, 놀이](https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [불꽃, 놀이](https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ) | 3:03 | 2024-08-09 |  |
 | [비 오는 날](https://open.spotify.com/track/3way1Bx5wQvuMKuMKq0I5w) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [비 오는 날](https://open.spotify.com/album/6TCx3R4b6vUMkrbQqTNJJU) | 3:57 | 2022-07-08 | 2022-07-13 |
 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 | 2022-08-13 |  |
 | [쏟아지는 비에](https://open.spotify.com/track/7hNmfopH2QKUSeCR6EhBss) | [Jeon Joo Hong 전주홍](https://open.spotify.com/artist/1bkeDrFoCknn3oyHstfBZr) | [쏟아지는 비에](https://open.spotify.com/album/5I8lsE4Vq1DTbQQUawT284) | 4:01 | 2022-06-20 | 2022-06-26 |

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🗣️🖤 Decrow e Jack Out in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,614 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,605 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ReadyToDie \(feat\. Jack Out\)](https://open.spotify.com/track/21ZtjhK2cryXUi6rZPhZr2) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI) | [ReadyToDie \(feat\. Jack Out\)](https://open.spotify.com/album/1w8tDSUomAJrqrSzjdVIz9) | 3:04 |
-| 2 | [ESTATE HORROR \(feat\. SPINABELLA\)](https://open.spotify.com/track/5kQ1NPdI49OuO8v4ZSlTal) | [Your Grave](https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm), [SPINABELLA](https://open.spotify.com/artist/2V6hgWccRYE8HM1CbNgobr), [Heavyangel](https://open.spotify.com/artist/7p63AvCn4RRaREv06AnKnr), [Skrabbabby](https://open.spotify.com/artist/4X6OA7xuCuovpUbPpMn62n), [Lincxn](https://open.spotify.com/artist/29pfmNxifqErXIFZfubjAq) | [ESTATE HORROR \(feat\. SPINABELLA\)](https://open.spotify.com/album/662xxRe46oqgN0quFhaWSf) | 3:03 |
-| 3 | [croci \(feat\. Sally Cruz\)](https://open.spotify.com/track/2jtoS2ttdOSeoLkweOhhkY) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [tutti i colori del buio](https://open.spotify.com/album/278YwMUlBJkd2Pj1YmCsQY) | 3:04 |
-| 4 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 |
-| 5 | [VITAMINE](https://open.spotify.com/track/4ErJZNNrSFyklHrUBAAmcP) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [VITAMINE](https://open.spotify.com/album/2VNB04Th2d4hQW5fo8C6M9) | 2:17 |
-| 6 | [Lipstick](https://open.spotify.com/track/6yPgRE2ybGQnCorD4Ysp1s) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Lipstick](https://open.spotify.com/album/1ZRb9Qqq4H3lDBXcuy8Ngg) | 2:12 |
+| 1 | [Mille Notti](https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Mille Notti](https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd) | 2:53 |
+| 2 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 |
+| 3 | [ReadyToDie \(feat\. Jack Out\)](https://open.spotify.com/track/21ZtjhK2cryXUi6rZPhZr2) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI) | [ReadyToDie \(feat\. Jack Out\)](https://open.spotify.com/album/1w8tDSUomAJrqrSzjdVIz9) | 3:04 |
+| 4 | [Lipstick](https://open.spotify.com/track/6yPgRE2ybGQnCorD4Ysp1s) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Lipstick](https://open.spotify.com/album/1ZRb9Qqq4H3lDBXcuy8Ngg) | 2:12 |
+| 5 | [ESTATE HORROR \(feat\. SPINABELLA\)](https://open.spotify.com/track/5kQ1NPdI49OuO8v4ZSlTal) | [Your Grave](https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm), [SPINABELLA](https://open.spotify.com/artist/2V6hgWccRYE8HM1CbNgobr), [Heavyangel](https://open.spotify.com/artist/7p63AvCn4RRaREv06AnKnr), [Skrabbabby](https://open.spotify.com/artist/4X6OA7xuCuovpUbPpMn62n), [Lincxn](https://open.spotify.com/artist/29pfmNxifqErXIFZfubjAq) | [ESTATE HORROR \(feat\. SPINABELLA\)](https://open.spotify.com/album/662xxRe46oqgN0quFhaWSf) | 3:03 |
+| 6 | [VITAMINE](https://open.spotify.com/track/4ErJZNNrSFyklHrUBAAmcP) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [VITAMINE](https://open.spotify.com/album/2VNB04Th2d4hQW5fo8C6M9) | 2:17 |
 | 7 | [WHISKEY SOUR](https://open.spotify.com/track/2cQoCt1oAdpzzZ60eVKV5C) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb) | [WHISKEY SOUR](https://open.spotify.com/album/1EJ7buXCkVQ6sTlKMikSja) | 2:47 |
-| 8 | [Mille Notti](https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Mille Notti](https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd) | 2:53 |
+| 8 | [croci \(feat\. Sally Cruz\)](https://open.spotify.com/track/2jtoS2ttdOSeoLkweOhhkY) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [tutti i colori del buio](https://open.spotify.com/album/278YwMUlBJkd2Pj1YmCsQY) | 3:04 |
 | 9 | [POSER](https://open.spotify.com/track/1OQbQz8rBdEpeSQaIozDDq) | [Zame](https://open.spotify.com/artist/5NNSuHiLUgKjKVlEcB5Zdb), [Mr\. Ugo](https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H) | [POSER](https://open.spotify.com/album/67mhWg45TPOKvCM7r59r0I) | 2:08 |
 | 10 | [Pagine vuote](https://open.spotify.com/track/3waeGJeHycGKpjmGZkhyLN) | [DALAI XV](https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6) | [SAD VIBES](https://open.spotify.com/album/0emE6rPetEtBDMRcAc2h9x) | 2:18 |
 | 11 | [luci dell'autostrada](https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU) | [Biava](https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk) | [luci dell'autostrada](https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 99 | [luna di miele](https://open.spotify.com/track/4Imr6mUIXASXBSFrw1FCfI) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [PER IL MIO BENE](https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw) | 3:02 |
 | 100 | [Affogando](https://open.spotify.com/track/0z4lUnRUNSf8Gl1LSvfPwb) | [Sunken](https://open.spotify.com/artist/167oxjyR82Rs8XinJirzvm) | [Affogando](https://open.spotify.com/album/18IvFynqhdfN1cPQgP5f9Z) | 2:07 |
 
-Snapshot ID: `ZrVAHAAAAAALYvMFlHfV29FcnWLrzuqG`
+Snapshot ID: `ZrnpkQAAAACoUUI4Gzzk/jvLhg8TXDfi`

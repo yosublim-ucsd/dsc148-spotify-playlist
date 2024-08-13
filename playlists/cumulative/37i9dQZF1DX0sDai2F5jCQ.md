@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Central Cee
 
-351 songs - 17 hr 13 min
+352 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [In Ya City \(feat\. Arz\)](https://open.spotify.com/track/0XpMPVilzy675zPWVvj3Pl) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [In Ya City \(feat\. Arz\)](https://open.spotify.com/album/6nmMiiuzDkpcdKI6uOLZhz) | 2:36 | 2023-09-22 | 2023-11-03 |
 | [INDUSTRY VIOLATION](https://open.spotify.com/track/1cmoJC29BO4XdfVoRKqlen) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [INDUSTRY VIOLATION](https://open.spotify.com/album/22l8bI0In4PDQdgp4cJdda) | 2:39 | 2024-08-01 |  |
 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 | 2023-09-28 | 2023-10-13 |
+| [It's Up \(feat\. Young Thug & 21 Savage\)](https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [100 GIGS](https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64) | 4:38 | 2024-08-13 |  |
 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 | 2024-01-11 | 2024-02-09 |
 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-09-22 | 2023-10-13 |
 | [Jing Jing](https://open.spotify.com/track/6PuAeP3t6Rx1weKHWib9NM) | [POKMINDSET](https://open.spotify.com/artist/18twEd2PtcY8Nz2v6oKyNP), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Jing Jing](https://open.spotify.com/album/3ONXyMWOPaUKSajZbdZ7S1) | 2:40 | 2024-07-25 |  |

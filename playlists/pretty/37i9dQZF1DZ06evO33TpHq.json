@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 47716,
+  "num_followers": 47737,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAAD+3UnZgli4Uz8iDVRl3zI0",
+  "snapshot_id": "Zrf/AAAAAAD6F2tLdVA7MauHuGlrRdoC",
   "tracks": [
     {
       "added_at": null,
@@ -535,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
       "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 236206,
-      "name": "THE JESUS WAY \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1Yt9v9tZJG9KtKraxcu5yd"
+      "duration_ms": 382684,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx"
     },
     {
       "added_at": null,
@@ -571,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
       },
       "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 382684,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx"
+      "duration_ms": 236206,
+      "name": "THE JESUS WAY \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1Yt9v9tZJG9KtKraxcu5yd"
     },
     {
       "added_at": null,

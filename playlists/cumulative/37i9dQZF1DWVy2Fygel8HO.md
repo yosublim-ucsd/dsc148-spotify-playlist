@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-129 songs - 5 hr 20 min
+130 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,12 +76,13 @@
 | [Paysage](https://open.spotify.com/track/1BDWgomhclzgAn13yMXe1N) | [Marie\-Ange](https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR) | [Prendre congé](https://open.spotify.com/album/0BdqQv0UlcZCQc28XaEy1H) | 3:26 | 2023-05-09 |  |
 | [Perennial Youth](https://open.spotify.com/track/7J7tN1PAKrD6yY8xmR8Q7a) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Acertijos](https://open.spotify.com/album/0GPaw2ltzhkjwsVCZaeiDx) | 3:04 | 2023-05-09 |  |
 | [Pillows of Lavender](https://open.spotify.com/track/0sPVOMEGFC0E745DbYZ99I) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [As The Wind Changes...](https://open.spotify.com/album/1dizOonSlamkYJ7OvsDcGY) | 2:28 | 2023-08-15 |  |
+| [Pine Scent](https://open.spotify.com/track/3qdrO68GxXO9YFzXeiYdZI) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [Pine Scent](https://open.spotify.com/album/3R5ljw2npySClY689m2qri) | 2:06 | 2024-08-12 |  |
 | [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 | 2023-09-26 |  |
 | [Prados](https://open.spotify.com/track/611ldJjjgj1nHk7Y9nJQvv) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Prados](https://open.spotify.com/album/4p18DPrMcWKVrfqfs2LP5b) | 2:03 | 2023-05-09 |  |
 | [Prélude](https://open.spotify.com/track/6HIRhDZd8E7MMkfZDLpV48) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:51 | 2023-05-09 |  |
 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 | 2023-09-11 |  |
 | [Recognition](https://open.spotify.com/track/27PUypwEvP5YExUEFUGg8n) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Recognition](https://open.spotify.com/album/4vKS3tCofv0jYyNUPsyKxE) | 2:52 | 2023-05-09 |  |
-| [Reframe](https://open.spotify.com/track/1sINJB2tVaHV5r3iKCACHv) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reframe](https://open.spotify.com/album/3XJLsmXh2yyehGaUn0FWDC) | 2:07 | 2023-05-09 |  |
+| [Reframe](https://open.spotify.com/track/1sINJB2tVaHV5r3iKCACHv) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reframe](https://open.spotify.com/album/3XJLsmXh2yyehGaUn0FWDC) | 2:07 | 2023-05-09 | 2024-08-13 |
 | [Renewal](https://open.spotify.com/track/2STf9iJMbxyXZQeea5lrdG) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Renewal](https://open.spotify.com/album/3zfRRxr2fMQNGUatRbhpNL) | 2:19 | 2023-05-09 |  |
 | [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 | 2024-04-03 |  |
 | [Resting Song](https://open.spotify.com/track/4WOs0AimEhI7qi4IHS3JNC) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/5ulVV8sUhnWnb1RoQPXyzv) | 2:51 | 2023-08-15 | 2024-04-19 |
@@ -127,7 +128,7 @@
 | [Valse pour Johann](https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC) | [Fjellson Weber](https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2) | [Valse pour Johann](https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd) | 2:25 | 2023-05-09 |  |
 | [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 | 2023-05-09 |  |
 | [vierde moment](https://open.spotify.com/track/1IqWZERE8ZOVtgE3fmekFv) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0wVbGonjdCw4QHcJ4HnRRM) | 3:21 | 2023-05-09 | 2024-04-19 |
-| [vierde moment](https://open.spotify.com/track/2odkdy9ZmZPuH3U1q3BPXD) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0ybD0BRRdBivIT6Db8iu7P) | 3:21 | 2024-04-03 |  |
+| [vierde moment](https://open.spotify.com/track/2odkdy9ZmZPuH3U1q3BPXD) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0ybD0BRRdBivIT6Db8iu7P) | 3:21 | 2024-04-03 | 2024-08-13 |
 | [Walking Slowly](https://open.spotify.com/track/04HAuNsJ33EMeoNhiOQLcQ) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Walking Slowly](https://open.spotify.com/album/4wjmBndNtG1iaQbsOEyBF0) | 3:18 | 2023-05-09 |  |
 | [Wavering in the wind](https://open.spotify.com/track/65R91R603eXiAOa0K4bar0) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Wavering in the wind](https://open.spotify.com/album/189614dABOnS6fQzug1EGC) | 2:28 | 2023-05-09 |  |
 | [When it drizzles](https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [When it drizzles](https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4) | 2:28 | 2023-05-09 |  |

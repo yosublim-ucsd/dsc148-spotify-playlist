@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 69384,
+  "num_followers": 69456,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "My Darling + Angelus",
         "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 193500,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
-      },
-      "artists": [
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 237868,
-      "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Umuthi",
         "url": "https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 249795,
       "name": "Ibhanoyi",
       "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 237868,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Broken Lipstick",
+        "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
+      },
+      "artists": [
+        {
+          "name": "LaSauce",
+          "url": "https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi"
+        },
+        {
+          "name": "Amanda Black",
+          "url": "https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo"
+        }
+      ],
+      "duration_ms": 313714,
+      "name": "I Do (feat. Amanda Black)",
+      "url": "https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Touch My Blood",
         "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 269733,
       "name": "If Love Is A Crime",
       "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Broken Lipstick",
-        "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
-      },
-      "artists": [
-        {
-          "name": "LaSauce",
-          "url": "https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi"
-        },
-        {
-          "name": "Amanda Black",
-          "url": "https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo"
-        }
-      ],
-      "duration_ms": 313714,
-      "name": "I Do (feat. Amanda Black)",
-      "url": "https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "D'banj Essentials",
-        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 256840,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Ntumba",
         "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 246822,
       "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
       "url": "https://open.spotify.com/track/0Fts0ctd6WoZPjffe6VlCD"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "D'banj Essentials",
+        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 256840,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Angel Of Mine",
-      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Mababaza",
         "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 249866,
       "name": "Zodwa",
       "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Angel Of Mine",
+      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Mfalme Wa Mapenzi",
+        "url": "https://open.spotify.com/album/2wgSxbkNeLOwBVM1LuSSnj"
+      },
+      "artists": [
+        {
+          "name": "Sanaipei Tande",
+          "url": "https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J"
+        }
+      ],
+      "duration_ms": 286511,
+      "name": "Mfalme Wa Mapenzi",
+      "url": "https://open.spotify.com/track/7hpbqHv9BMeGK7jDLEX58q"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Kamata",
         "url": "https://open.spotify.com/album/0vkCse1iCEbs0MU92L0A7M"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 229407,
       "name": "Take it Slow",
       "url": "https://open.spotify.com/track/6kOXoMSnQy63PNGn4Yp1zZ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Mfalme Wa Mapenzi",
-        "url": "https://open.spotify.com/album/2wgSxbkNeLOwBVM1LuSSnj"
-      },
-      "artists": [
-        {
-          "name": "Sanaipei Tande",
-          "url": "https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J"
-        }
-      ],
-      "duration_ms": 286511,
-      "name": "Mfalme Wa Mapenzi",
-      "url": "https://open.spotify.com/track/7hpbqHv9BMeGK7jDLEX58q"
     },
     {
       "added_at": "2024-05-22 11:00:00",

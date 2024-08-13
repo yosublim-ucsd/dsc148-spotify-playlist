@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 151196,
       "name": "Ek Sal Nie Lieg Nie",
       "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
@@ -2362,6 +2362,32 @@
       "duration_ms": 176000,
       "name": "Slat Los",
       "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
+    },
+    {
+      "album": {
+        "name": "2098",
+        "url": "https://open.spotify.com/album/51PA9pHz64S6a9VfFerGca"
+      },
+      "artists": [
+        {
+          "name": "Lil Dee Music",
+          "url": "https://open.spotify.com/artist/3GWcPN5iY86CwRrgJE4kvg"
+        },
+        {
+          "name": "Euno",
+          "url": "https://open.spotify.com/artist/14Lh7c1HhLZPLAAqOG83Kw"
+        },
+        {
+          "name": "Aiyamanfykz",
+          "url": "https://open.spotify.com/artist/5UPbQ61xjTa1rHG9uGdZZL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "Slegte Gewoonte",
+      "url": "https://open.spotify.com/track/0m5TIFvr8GQCIM2FDNAJPT"
     },
     {
       "album": {

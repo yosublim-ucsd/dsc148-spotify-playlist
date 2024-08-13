@@ -8026,7 +8026,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 185750,
       "name": "Never Give In",
       "url": "https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3"
@@ -13550,6 +13550,24 @@
       "duration_ms": 133732,
       "name": "Whispering Pines",
       "url": "https://open.spotify.com/track/7Ia1tIQDGAFfZWYJc1vFcN"
+    },
+    {
+      "album": {
+        "name": "Whispering Willow",
+        "url": "https://open.spotify.com/album/6bedXNIvBvKyIowfWkiKbi"
+      },
+      "artists": [
+        {
+          "name": "Fringilla coelebs",
+          "url": "https://open.spotify.com/artist/2aJhtzB2xk0L8GcdzdREz1"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Whispering Willow",
+      "url": "https://open.spotify.com/track/71NBn3kY25GCHpOPrckEnf"
     },
     {
       "album": {

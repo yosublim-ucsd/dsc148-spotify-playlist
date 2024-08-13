@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 971 songs - 2 day 11 hr 40 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 973 songs - 2 day 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -979,5 +979,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 969 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 |
 | 970 | [Shadow](https://open.spotify.com/track/4urzTwD9Ewbi0qIqKWDne1) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Nocturne](https://open.spotify.com/album/7A2iT7NcC9lcvhGu1pP0UA) | 4:18 |
 | 971 | [The Dreamers](https://open.spotify.com/track/4reynFf5XLDuBHw4pFemEw) | [Gold Celeste](https://open.spotify.com/artist/0k7JGk03ntbFvfURT2hWmu) | [The Glow](https://open.spotify.com/album/45ghFsmrFTp9V6Q49grJlx) | 4:46 |
+| 972 | [Carbon Capture](https://open.spotify.com/track/3mhwZ4UDrfyW3ZyrGvAH04) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1CYU3DuCTjz4IkthZBr6cY) | 3:49 |
+| 973 | [Satellite](https://open.spotify.com/track/5bW2vSniuAqxj4BW6O0DmD) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Easy Listening](https://open.spotify.com/album/7tC9rKANwW84UPxA22zbzo) | 2:59 |
 
-Snapshot ID: `AAAIli0bV06jxe2REpxR6KbBeaku1xix`
+Snapshot ID: `AAAImGnxTdAL44j5PvhlPWJYl2fLnQDd`

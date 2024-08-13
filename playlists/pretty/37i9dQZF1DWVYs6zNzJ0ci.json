@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Los Cafres",
-  "num_followers": 1202083,
+  "num_followers": 1202096,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-07-19 04:59:00",
       "album": {
+        "name": "\u00daltimos D\u00edas",
+        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 319933,
+      "name": "\u00daltimos D\u00edas",
+      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
+    },
+    {
+      "added_at": "2024-07-19 04:59:00",
+      "album": {
         "name": "Bonito y Cruel",
         "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 220606,
       "name": "Bonito y Cruel",
       "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
-    },
-    {
-      "added_at": "2024-07-19 04:59:00",
-      "album": {
-        "name": "\u00daltimos D\u00edas",
-        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 319933,
-      "name": "\u00daltimos D\u00edas",
-      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
     },
     {
       "added_at": "2024-07-19 04:59:00",
@@ -1147,42 +1147,6 @@
     {
       "added_at": "2024-07-19 04:59:00",
       "album": {
-        "name": "Dance Forever",
-        "url": "https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 157427,
-      "name": "Dance Forever",
-      "url": "https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx"
-    },
-    {
-      "added_at": "2024-07-19 04:59:00",
-      "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
-      },
-      "artists": [
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        },
-        {
-          "name": "The Islanauts",
-          "url": "https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx"
-        }
-      ],
-      "duration_ms": 258154,
-      "name": "Caf\u00e9 Con Canela",
-      "url": "https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE"
-    },
-    {
-      "added_at": "2024-07-19 04:59:00",
-      "album": {
         "name": "\u00bfQui\u00e9n trae las cornetas?",
         "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
@@ -1195,6 +1159,22 @@
       "duration_ms": 218173,
       "name": "Parece",
       "url": "https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu"
+    },
+    {
+      "added_at": "2024-07-19 04:59:00",
+      "album": {
+        "name": "Dance Forever",
+        "url": "https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 157427,
+      "name": "Dance Forever",
+      "url": "https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx"
     },
     {
       "added_at": "2024-07-19 04:59:00",
@@ -1215,6 +1195,26 @@
       "duration_ms": 227515,
       "name": "Mi Fortaleza",
       "url": "https://open.spotify.com/track/32IImwtinyH53ah7mNAX0E"
+    },
+    {
+      "added_at": "2024-07-19 04:59:00",
+      "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "The Islanauts",
+          "url": "https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx"
+        }
+      ],
+      "duration_ms": 258154,
+      "name": "Caf\u00e9 Con Canela",
+      "url": "https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE"
     },
     {
       "added_at": "2024-07-19 04:59:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-07-19 04:59:00",
       "album": {
-        "name": "Yo Quiero Amarte",
-        "url": "https://open.spotify.com/album/704qw7cLHhllYhwbe7xosf"
-      },
-      "artists": [
-        {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
-        }
-      ],
-      "duration_ms": 180989,
-      "name": "Yo Quiero Amarte",
-      "url": "https://open.spotify.com/track/4Gm3g3GDAF6lsZhvTyPqXk"
-    },
-    {
-      "added_at": "2024-07-19 04:59:00",
-      "album": {
         "name": "Obvio S\u00ed",
         "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 177536,
       "name": "El Seis",
       "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
+    },
+    {
+      "added_at": "2024-07-19 04:59:00",
+      "album": {
+        "name": "El Sonido Real",
+        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 385560,
+      "name": "Mi Sol",
+      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
     },
     {
       "added_at": "2024-07-19 04:59:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-07-19 04:59:00",
       "album": {
-        "name": "El Sonido Real",
-        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
+        "name": "Yo Quiero Amarte",
+        "url": "https://open.spotify.com/album/704qw7cLHhllYhwbe7xosf"
       },
       "artists": [
         {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
         }
       ],
-      "duration_ms": 385560,
-      "name": "Mi Sol",
-      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
+      "duration_ms": 180989,
+      "name": "Yo Quiero Amarte",
+      "url": "https://open.spotify.com/track/4Gm3g3GDAF6lsZhvTyPqXk"
     },
     {
       "added_at": "2024-07-19 04:59:00",
@@ -1643,22 +1643,22 @@
     {
       "added_at": "2024-07-19 04:59:00",
       "album": {
-        "name": "Pericos & Friends (Extended)",
-        "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
         },
         {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 195348,
-      "name": "Mucha Experiencia - Su Reggaeton Mix",
-      "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
+      "duration_ms": 193817,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
     },
     {
       "added_at": "2024-07-19 04:59:00",
@@ -1687,22 +1687,22 @@
     {
       "added_at": "2024-07-19 04:59:00",
       "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
+        "name": "Pericos & Friends (Extended)",
+        "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
       },
       "artists": [
         {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         },
         {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
         }
       ],
-      "duration_ms": 193817,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
+      "duration_ms": 195348,
+      "name": "Mucha Experiencia - Su Reggaeton Mix",
+      "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
     },
     {
       "added_at": "2024-07-19 04:59:00",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2024-07-19 04:59:00",
       "album": {
-        "name": "Codigos Del Alma",
-        "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
-      },
-      "artists": [
-        {
-          "name": "Rastrillos",
-          "url": "https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 307720,
-      "name": "La Musica",
-      "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
-    },
-    {
-      "added_at": "2024-07-19 04:59:00",
-      "album": {
         "name": "\u00bfSi Le Doy Zoom, Puedo Ver \u00c1frica?",
         "url": "https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
+    },
+    {
+      "added_at": "2024-07-19 04:59:00",
+      "album": {
+        "name": "Codigos Del Alma",
+        "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
+      },
+      "artists": [
+        {
+          "name": "Rastrillos",
+          "url": "https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 307720,
+      "name": "La Musica",
+      "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
     },
     {
       "added_at": "2024-07-19 04:59:00",

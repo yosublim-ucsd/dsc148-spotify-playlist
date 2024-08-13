@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Kvi Baba, G\-k.i.d, KEIJU
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,009 likes - 94 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,025 likes - 94 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 21 | [アツい](https://open.spotify.com/track/6n8OtvTLfvgElvXHFGT03Z) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [アツい](https://open.spotify.com/album/51e7SrfvveBwClUJ8ypaZL) | 2:30 |
 | 22 | [SUMMER](https://open.spotify.com/track/0X8i1CeXiXtNE1bpC34PhP) | [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [SUMMER](https://open.spotify.com/album/0DbvreXSQMQw21wrBRBqYY) | 2:54 |
 | 23 | [不良外国人](https://open.spotify.com/track/4NMe2tPUbyQhfSsCHzHgL1) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [不良外国人](https://open.spotify.com/album/2CU4WtjFxsnnRBzGbGG46U) | 3:57 |
-| 24 | [BOMBAE](https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Awich](https://open.spotify.com/artist/1Ranzvm74JsAjcWMWpXclc) | [BOMBAE](https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282) | 2:26 |
+| 24 | [BOMBAE](https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BOMBAE](https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282) | 2:26 |
 | 25 | [coco freestyle](https://open.spotify.com/track/0PRduxqXvtIlqGoFuQrJzQ) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Re:Born Tape](https://open.spotify.com/album/7Ab9dMLW61DCd83WtO8NaL) | 2:43 |
 | 26 | [背中に](https://open.spotify.com/track/6dv61xSDtiQWjYBCkjqY3s) | [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [HELL IN 東京](https://open.spotify.com/album/3n2plpSXZpKcmmPmQjzUbr) | 1:33 |
 | 27 | [Control](https://open.spotify.com/track/5mTS9pCJGg8LKBAWJU5jW6) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Logic 2](https://open.spotify.com/album/5gq6hLXuSFahqLyqCsuJ0r) | 3:01 |

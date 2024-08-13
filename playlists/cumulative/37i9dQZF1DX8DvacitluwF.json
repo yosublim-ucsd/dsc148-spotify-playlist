@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Rear View Mirror",
+        "url": "https://open.spotify.com/album/7oVrQL1uzRnPL9wHmoNbXu"
+      },
+      "artists": [
+        {
+          "name": "Yamiko",
+          "url": "https://open.spotify.com/artist/6MafTIO7KWHWHXx1L39BDx"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187702,
+      "name": "Blest",
+      "url": "https://open.spotify.com/track/4LAO2eKtesEscel4u76ShJ"
+    },
+    {
+      "album": {
         "name": "Blest",
         "url": "https://open.spotify.com/album/0Asli178nP9vJqeGXjrFW8"
       },
@@ -5040,7 +5058,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 252017,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z"

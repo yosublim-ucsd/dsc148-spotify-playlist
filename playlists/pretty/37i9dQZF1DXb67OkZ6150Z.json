@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Royel Otis",
-  "num_followers": 293186,
+  "num_followers": 293226,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Godspeed",
-        "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
+        "name": "Espresso (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 173840,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"
+      "duration_ms": 184617,
+      "name": "Espresso - triple j Like A Version",
+      "url": "https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Espresso (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF"
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 184617,
-      "name": "Espresso - triple j Like A Version",
-      "url": "https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s"
+      "duration_ms": 173840,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 193927,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Our Generation - Spotify Singles",
         "url": "https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 162641,
       "name": "The Perfect Pair - Spotify Singles",
       "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 193927,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1139,22 +1139,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Pumped Up Kicks (Gus Dapperton Version)",
-        "url": "https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS"
+        "name": "Songs That Aren't Mine",
+        "url": "https://open.spotify.com/album/1ClEe8WmunfbeTkmG5sHsC"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
         },
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Pumped Up Kicks - Gus Dapperton Version",
-      "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
+      "duration_ms": 178584,
+      "name": "Cosmic Dancer (with Dora Jar)",
+      "url": "https://open.spotify.com/track/039Mnm9c2b2zI5j1iENJ7P"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Songs That Aren't Mine",
-        "url": "https://open.spotify.com/album/1ClEe8WmunfbeTkmG5sHsC"
+        "name": "Pumped Up Kicks (Gus Dapperton Version)",
+        "url": "https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         },
         {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 178584,
-      "name": "Cosmic Dancer (with Dora Jar)",
-      "url": "https://open.spotify.com/track/039Mnm9c2b2zI5j1iENJ7P"
+      "duration_ms": 232200,
+      "name": "Pumped Up Kicks - Gus Dapperton Version",
+      "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Float On",
+        "url": "https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb"
+      },
+      "artists": [
+        {
+          "name": "Phil Good",
+          "url": "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 172500,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Float On",
-        "url": "https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb"
-      },
-      "artists": [
-        {
-          "name": "Phil Good",
-          "url": "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Caves",
-        "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 179234,
-      "name": "Caves",
-      "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Broken Glass, Vol. 6",
         "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
       },
@@ -1503,22 +1487,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN"
+        "name": "Caves",
+        "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 249789,
-      "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf"
+      "duration_ms": 179234,
+      "name": "Caves",
+      "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1535,6 +1515,26 @@
       "duration_ms": 226981,
       "name": "Skinny Love - Spotify Singles",
       "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 249789,
+      "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Want U Gone + Look the Other Way",
+        "url": "https://open.spotify.com/album/4ssozu9mV1froB5Qp3ZEHj"
+      },
+      "artists": [
+        {
+          "name": "Nick Wagen",
+          "url": "https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Want U Gone",
+      "url": "https://open.spotify.com/track/2Un8twj5MmECWhicSkJN4u"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Three Hours",
         "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 260760,
       "name": "Bad Religion",
       "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Want U Gone + Look the Other Way",
-        "url": "https://open.spotify.com/album/4ssozu9mV1froB5Qp3ZEHj"
-      },
-      "artists": [
-        {
-          "name": "Nick Wagen",
-          "url": "https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Want U Gone",
-      "url": "https://open.spotify.com/track/2Un8twj5MmECWhicSkJN4u"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
         }
       ],
-      "duration_ms": 224706,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
+      "duration_ms": 154285,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r"
     }
   ],
   "unique_name": "Indie Covers",

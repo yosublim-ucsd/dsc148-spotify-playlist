@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: حماقي
 
-1,097 songs - 2 day 13 hr 30 min
+1,098 songs - 2 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [An El Awan](https://open.spotify.com/track/1iUN70RBPfcqbT1PbohVuS) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [An El Awan](https://open.spotify.com/album/7ILydBC9TthOU5Y42EhPZk) | 3:38 | 2021-12-23 | 2021-12-30 |
 | [An Farh Ghayeb](https://open.spotify.com/track/64ADmsVX0pw03E6gTjtVqY) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [An Farh Ghayeb](https://open.spotify.com/album/0ag4ldewWuzQulhbnHFsEN) | 5:11 | 2024-02-23 | 2024-02-24 |
 | [AN ROUHIK](https://open.spotify.com/track/5sMnbFbgksgK5GGUpQ0GlK) | [Hany Adel](https://open.spotify.com/artist/4Te3SJVA9dluqVRfgGzrzQ) | [AN ROUHIK](https://open.spotify.com/album/6PMLpfFq34WiM7rRJbaRQF) | 5:20 | 2024-05-02 | 2024-07-04 |
-| [Ana Asef](https://open.spotify.com/track/171FQ7zhZduUpHEsn4xzpl) | [Khaled Essam El Deen](https://open.spotify.com/artist/3syfdFK4iR0fZ1xur7rNao) | [Ana Asef](https://open.spotify.com/album/6QCSqpeQLRRnnIOaXKZ7iP) | 3:48 | 2024-07-03 |  |
+| [Ana Asef](https://open.spotify.com/track/171FQ7zhZduUpHEsn4xzpl) | [Khaled Essam El Deen](https://open.spotify.com/artist/3syfdFK4iR0fZ1xur7rNao) | [Ana Asef](https://open.spotify.com/album/6QCSqpeQLRRnnIOaXKZ7iP) | 3:48 | 2024-07-03 | 2024-08-13 |
 | [Ana Be Touly](https://open.spotify.com/track/3vnaFVNsC059Iiu5QDZ6Ms) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE) | [Ana Be Touly](https://open.spotify.com/album/2snYyolbPLnvsU2VNHyA3F) | 3:44 | 2023-03-07 | 2023-05-06 |
 | [Ana El Mostahel](https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ana El Mostahel](https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg) | 4:21 | 2022-03-10 | 2022-07-02 |
 | [Ana El Tayeb](https://open.spotify.com/track/7BpSOx73f8kASfLHhxSbBr) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Ana El Tayeb](https://open.spotify.com/album/1jly0ZLFaEbXVLZkxO7gkC) | 3:24 | 2023-08-10 | 2023-08-29 |
@@ -465,6 +465,7 @@
 | [Ma Kefaya](https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Ma Kefaya](https://open.spotify.com/album/31DLm4kGbvpJyBNN72M5F6) | 3:20 | 2024-02-01 | 2024-02-23 |
 | [Ma'aya Toul El Leil](https://open.spotify.com/track/4GYFDPyUfGTdXQYkzNqfjV) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Ma'aya Toul El Leil](https://open.spotify.com/album/1QdmNyAIE56vE2aDj31s8Y) | 3:15 | 2023-08-03 | 2023-09-15 |
 | [Maat El Kalam](https://open.spotify.com/track/75CTXFuRMEA6gX7D56Ivlo) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Maat El Kalam](https://open.spotify.com/album/3hginZfdRtOqnDuOEeeG3w) | 3:28 | 2022-03-03 | 2022-06-24 |
+| [Mabaash Hawalek](https://open.spotify.com/track/4NL0wxC7IK7hWJGfVonPTs) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Mabaash Hawalek](https://open.spotify.com/album/79GGUUy1jxUJVVXhPZSmnk) | 3:46 | 2024-08-12 |  |
 | [Mabahrbsh](https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabahrbsh](https://open.spotify.com/album/4T7NjcvE00AM4tNqYpIYu5) | 4:05 | 2022-03-14 | 2022-07-08 |
 | [Mabhtmesh](https://open.spotify.com/track/442OhScPDEPFjZ2Hou2j7S) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabhtmesh](https://open.spotify.com/album/6UVU26B9pUXpcrwD7i4GbD) | 3:32 | 2022-05-03 | 2022-08-13 |
 | [Mabrok Ya Ebn El Mahzoza](https://open.spotify.com/track/7wPn81S330EtQ8WzcCoCHX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mabrok Ya Ebn El Mahzoza](https://open.spotify.com/album/7Elizm9OIjwoEW9mvE5sSv) | 3:42 | 2024-04-30 | 2024-07-04 |
@@ -826,7 +827,7 @@
 | [انا مش بديل](https://open.spotify.com/track/0GQ6yRwhiGHq2CPTUuladQ) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [انا مش بديل](https://open.spotify.com/album/4ZPYA3NZgnqyzfWcHrfOUv) | 3:47 | 2024-05-30 | 2024-07-03 |
 | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/track/3ZdlAcmMvt3R4a6wIk2Aik) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/album/7v2P77Gc48qMDAyF5Mx9Xu) | 4:00 | 2022-04-07 | 2022-07-15 |
 | [انا مشيتلك](https://open.spotify.com/track/4eS5K7sqMbB6MAT9xUWOmu) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [انا مشيتلك](https://open.spotify.com/album/41NRnwquNfvZfhDC8plGL7) | 4:38 | 2024-07-02 |  |
-| [انا هدية](https://open.spotify.com/track/7Bm7vc8PJU4bqRCxsr6jEF) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [انا هدية](https://open.spotify.com/album/3tTwb2cDeFXzG7RVhMFWXb) | 2:21 | 2024-07-03 |  |
+| [انا هدية](https://open.spotify.com/track/7Bm7vc8PJU4bqRCxsr6jEF) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [انا هدية](https://open.spotify.com/album/3tTwb2cDeFXzG7RVhMFWXb) | 2:21 | 2024-07-03 | 2024-08-13 |
 | [انا هونت عليك](https://open.spotify.com/track/1fQnrD1pd3WXoxUMpx3PmJ) | [Houda Bondok](https://open.spotify.com/artist/3h9whENZphIzFOkg0brmgK) | [انا هونت عليك](https://open.spotify.com/album/0sC9BUp4DaTQrBGfeZISX8) | 4:08 | 2023-05-11 | 2023-06-30 |
 | [انت الأصل](https://open.spotify.com/track/1qciOUzxpvVm3oNxPr7fWb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 2:57 | 2023-01-12 | 2023-02-17 |
 | [انت الأصل](https://open.spotify.com/track/35wZyDR2zaKlPRhT0x3sdt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انت الأصل](https://open.spotify.com/album/7vEmSTmBgz3fUaCVnjyf6H) | 2:57 | 2023-01-06 | 2023-01-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9W2w95RLbO.md) - [plain]
 
 > It's time for curtain up! Cover: & Juliet
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,419 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,437 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

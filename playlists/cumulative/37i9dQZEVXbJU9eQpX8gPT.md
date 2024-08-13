@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,503 songs - 3 day 10 hr 37 min
+1,504 songs - 3 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,7 +478,7 @@
 | [Free YSL](https://open.spotify.com/track/0cFS3AMF9Lhj3CNoFvwjvY) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:06 | 2023-02-18 | 2023-02-20 |
 | [Freestyle 0.9](https://open.spotify.com/track/29ZC6MDshpWX9PyV1qN5bo) | [MALTY 2BZ](https://open.spotify.com/artist/5A7u47fziMdcEMunHjT8Kf), [Bendo](https://open.spotify.com/artist/2VDWsiOnCzMSnxfinUYJkH) | [Freestyle 0.9](https://open.spotify.com/album/3PK3cnEduLz2F2qLMVuwky) | 2:41 | 2022-10-12 | 2022-10-14 |
 | [FRENEMY](https://open.spotify.com/track/5ggukAxG79n6EAhjb7x66G) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 4:12 | 2024-02-10 | 2024-02-26 |
-| [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 |  |
+| [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 | 2024-08-13 |
 | [Friends](https://open.spotify.com/track/5RjUtRlDonw3TBgGGMLC5b) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:19 | 2022-02-26 | 2022-02-28 |
 | [FTA](https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [FTA](https://open.spotify.com/album/1u5Bd87EVRAabhPh4IkhnO) | 3:16 | 2023-05-27 | 2023-06-05 |
 | [Fuck Off 2](https://open.spotify.com/track/7kJ0F76to1ON6xSkhlMuIn) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Fuck Off 2](https://open.spotify.com/album/3vsZvniN5rtzripBJd24ix) | 10:45 | 2022-10-02 | 2022-10-13 |
@@ -609,6 +609,7 @@
 | [Interlude](https://open.spotify.com/track/6D9TWIIaLgnibFmjjpS7IT) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 1:35 | 2024-05-11 | 2024-05-14 |
 | [Interlude](https://open.spotify.com/track/1Q4NoELNdh14jm48P4HdsR) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 1:44 | 2023-05-20 | 2023-05-24 |
 | [Interlude: What Are You Doing Now](https://open.spotify.com/track/3YFRk3G0hO5gvDuHuLfOvE) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/5buDSK834SwuXtu8G642W5) | 0:41 | 2021-11-14 | 2021-11-14 |
+| [INTERPOL](https://open.spotify.com/track/3sRQcQ9LsPhO6Pluvvii71) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [LA VIE CONTINUE](https://open.spotify.com/album/3pa4I96zdjB4CRR7e0gjyK) | 2:31 | 2024-08-12 |  |
 | [Intifada](https://open.spotify.com/track/4wmRv4JvsV0uirI5T7zNj9) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Immortal](https://open.spotify.com/album/6DIp3xw3tPfwQx9jHCoSLV) | 2:51 | 2022-05-28 | 2022-05-30 |
 | [Intro](https://open.spotify.com/track/0hoiMTtQLjjGgUXiNWi9Nl) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 1:58 | 2023-01-07 | 2023-01-20 |
 | [intro](https://open.spotify.com/track/6KzwIs9GxJbOEPrTdfJoqi) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 2:41 | 2021-09-15 | 2021-09-16 |

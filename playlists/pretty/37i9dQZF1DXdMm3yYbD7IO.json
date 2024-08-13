@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 369759,
+  "num_followers": 370009,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "My Boo (Hitman's Club Mix)",
+        "url": "https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi"
+      },
+      "artists": [
+        {
+          "name": "Ghost Town DJs",
+          "url": "https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT"
+        }
+      ],
+      "duration_ms": 346840,
+      "name": "My Boo - Hitman's Club Mix",
+      "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 269306,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "My Boo (Hitman's Club Mix)",
-        "url": "https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi"
-      },
-      "artists": [
-        {
-          "name": "Ghost Town DJs",
-          "url": "https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT"
-        }
-      ],
-      "duration_ms": 346840,
-      "name": "My Boo - Hitman's Club Mix",
-      "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Supermodel of the World",
-        "url": "https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA"
+        "name": "Let's Go To Prison (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0jhb7fxZSylI2A7y6a5lio"
       },
       "artists": [
         {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+          "name": "Technotronic",
+          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
         }
       ],
-      "duration_ms": 239933,
-      "name": "Supermodel (You Better Work)",
-      "url": "https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v"
+      "duration_ms": 296986,
+      "name": "Move This (Shake That Body)",
+      "url": "https://open.spotify.com/track/0PAGmTNpVASXq2tegMxSOs"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Let's Go To Prison (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0jhb7fxZSylI2A7y6a5lio"
+        "name": "Supermodel of the World",
+        "url": "https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA"
       },
       "artists": [
         {
-          "name": "Technotronic",
-          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
         }
       ],
-      "duration_ms": 296986,
-      "name": "Move This (Shake That Body)",
-      "url": "https://open.spotify.com/track/0PAGmTNpVASXq2tegMxSOs"
+      "duration_ms": 239933,
+      "name": "Supermodel (You Better Work)",
+      "url": "https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v"
     },
     {
       "added_at": "2024-07-12 19:59:45",

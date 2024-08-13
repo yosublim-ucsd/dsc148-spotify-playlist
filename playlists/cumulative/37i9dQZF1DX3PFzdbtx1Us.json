@@ -2407,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "Here Comes the Rain Again",
+        "url": "https://open.spotify.com/album/4bmvPZxTLO2LZmSKcQlPIQ"
+      },
+      "artists": [
+        {
+          "name": "Aleron Lapointe",
+          "url": "https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Here Comes the Rain Again",
+      "url": "https://open.spotify.com/track/0NKXMhwFfn5mnMhoWFyL3N"
+    },
+    {
+      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9"
       },
@@ -5184,6 +5202,24 @@
       "duration_ms": 120907,
       "name": "Softly, Gently",
       "url": "https://open.spotify.com/track/5JwtahJeHWFPETXjxBH74B"
+    },
+    {
+      "album": {
+        "name": "Somewhere Else",
+        "url": "https://open.spotify.com/album/3SGeZuQNVjCqyo2gtVMKvZ"
+      },
+      "artists": [
+        {
+          "name": "Mischa",
+          "url": "https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141571,
+      "name": "Somewhere Else",
+      "url": "https://open.spotify.com/track/62d61kCTywtaW5PnY2NJ1T"
     },
     {
       "album": {

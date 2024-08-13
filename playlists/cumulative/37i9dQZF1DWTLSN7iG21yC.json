@@ -6403,6 +6403,28 @@
     },
     {
       "album": {
+        "name": "Find Joy",
+        "url": "https://open.spotify.com/album/4bh8Z4wmTQpemEYFaXpTmW"
+      },
+      "artists": [
+        {
+          "name": "That Woman",
+          "url": "https://open.spotify.com/artist/1Rcmz0mDudMNtuJoTjmAEG"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193291,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6XGxIQmQ6PHLBFmrmG6c12"
+    },
+    {
+      "album": {
         "name": "THE END OF EVERYTHING",
         "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
@@ -11052,7 +11074,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 228912,
       "name": "Talk About Love",
       "url": "https://open.spotify.com/track/2xc5PUIG6lJVvn3yr96n1r"

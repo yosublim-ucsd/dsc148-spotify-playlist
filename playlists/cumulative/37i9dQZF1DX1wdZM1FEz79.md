@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Jeong Gayi\(정가이\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-518 songs - 1 day 6 hr 49 min
+520 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [31](https://open.spotify.com/track/4oBmGC76HpltDdr0mx2h2i) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [31](https://open.spotify.com/album/1gG4FphDb3kinYZ4oaEtu0) | 3:06 | 2021-12-10 | 2022-07-15 |
 | [A change of heart](https://open.spotify.com/track/4d5cA8jjecQNwWAO2oVtoU) | [on\_poem](https://open.spotify.com/artist/2lGdHsKg4Kv4KsTfrUxGLL) | [A change of heart](https://open.spotify.com/album/6e0T7rftQKt3so7xHtJhPY) | 3:25 | 2022-01-13 | 2022-04-20 |
 | [A Child](https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [White](https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l) | 3:11 | 2024-01-04 | 2024-01-16 |
+| [a colored pencil](https://open.spotify.com/track/1NjI04swvcr8FoRG4zUMEO) | [soyo Jeong](https://open.spotify.com/artist/7dLpL1oQcGgZzQdhbJIpwR) | [a colored pencil](https://open.spotify.com/album/2C6ViIZSGgYQRnCrK3nDel) | 5:01 | 2024-08-12 |  |
 | [A Common Word](https://open.spotify.com/track/4InyptNd98tGVH9QCP71eB) | [Youth Like A Dream](https://open.spotify.com/artist/0O07UU1GecVRKrnl2tviPy) | [A Common Word](https://open.spotify.com/album/1HUu5oC18wuBxXP94AoYSk) | 4:38 | 2023-01-11 | 2023-01-26 |
 | [A Little Braver](https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH) | [New Empire](https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ) | [Uncontrollably Fond OST Part.14](https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh) | 3:26 | 2021-12-10 |  |
 | [A Love Song](https://open.spotify.com/track/66is2tFkaji7lYMWt7KS1z) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:25 | 2022-03-21 | 2022-04-20 |
@@ -89,6 +90,7 @@
 | [Dark Hearts Will Pass Away Tonight \(Prod\. by OKDAL\)](https://open.spotify.com/track/6bUUMau43KRkNpYmhkG9qW) | [KIM GO EUN](https://open.spotify.com/artist/4G0khHYSAyq05njsT39Vp5) | [YUMI's Cells 2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5uAxDKhSbh4cxPnvUX5fRf) | 3:20 | 2022-08-09 | 2022-08-13 |
 | [Darling](https://open.spotify.com/track/6ChPSpcpyuFT8C5HMTlezz) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Melancholia, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0HaiAHJ2dETG2ezbTHDRi7) | 4:10 | 2021-12-10 | 2022-07-23 |
 | [Dawn](https://open.spotify.com/track/5zbTSY9o6rRNbcoN2yPosM) | [Chance](https://open.spotify.com/artist/4qtH69NwjHUulLj4verBCJ) | [Dawn](https://open.spotify.com/album/0fL3Kkh9t8rv1BkpckEqHD) | 3:29 | 2021-12-10 | 2022-04-16 |
+| [dawn](https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT) | [Swon](https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ) | [dawn](https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm) | 3:09 | 2024-08-12 |  |
 | [Deadline](https://open.spotify.com/track/1jIeeKf8N3UXLct7FI0VQy) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:19 | 2022-03-31 | 2022-04-17 |
 | [Dear DRan](https://open.spotify.com/track/5HiBQsMNcVehiKNUFiRsyu) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha), [무성](https://open.spotify.com/artist/4kYzRUks4PPzWaPQU8wMY9) | [Dear DRan](https://open.spotify.com/album/1ftozu6DmZ4J3OlPrjJFTn) | 3:11 | 2022-03-31 | 2022-06-07 |
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-01-25 | 2023-02-15 |
@@ -242,7 +244,7 @@
 | [LONG SLEEP](https://open.spotify.com/track/4ceMxOgJSdfHT2Tehd6L0w) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BUSY DOING NOTHING](https://open.spotify.com/album/04MdUslmkxO6q1SHeqBYx2) | 3:25 | 2022-02-10 | 2022-05-02 |
 | [Look Into My Eyes \(Remastered\) \- Acoustic ver.](https://open.spotify.com/track/3UWNyBuUMt3P5tuc9winH2) | [2LSON](https://open.spotify.com/artist/2AMTVJeuaSJHOatQS448YY), [위니](https://open.spotify.com/artist/4eo2biU3CCldDqzniAjife) | [모나리자](https://open.spotify.com/album/1aLi5QiDr36lS7pe9wVhaK) | 2:51 | 2022-03-31 | 2022-06-25 |
 | [Looking at you](https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ) | [JUNGHEUM BAND](https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a) | [The Interest of Love \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID) | 2:35 | 2023-01-25 | 2023-04-11 |
-| [Love is Strange \- 2024 Ver.](https://open.spotify.com/track/32weX7nGizR7hwUArWu2lD) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Love is Strange \(2024 Ver.\)](https://open.spotify.com/album/0InIhRC767qCTVqsTrQvw5) | 3:05 | 2024-08-05 |  |
+| [Love is Strange \- 2024 Ver.](https://open.spotify.com/track/32weX7nGizR7hwUArWu2lD) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Love is Strange \(2024 Ver.\)](https://open.spotify.com/album/0InIhRC767qCTVqsTrQvw5) | 3:05 | 2024-08-05 | 2024-08-13 |
 | [Love me](https://open.spotify.com/track/1ewt1JR6dMET5S7CBFp7IH) | [A Ryun](https://open.spotify.com/artist/5gqQWX4PzkGSDG54UeA1Hh) | [Love me](https://open.spotify.com/album/5In36LpLXoQ56LmJReMcER) | 3:21 | 2024-06-07 | 2024-07-17 |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2021-12-10 |  |
 | [love me only](https://open.spotify.com/track/5pIB8r2aa5tHBXUYZFWT0p) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [love me only](https://open.spotify.com/album/02HlmAqrwEu8OmD1nYzL1q) | 3:01 | 2022-06-18 | 2022-07-05 |
@@ -329,7 +331,7 @@
 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 | 2021-12-10 | 2022-08-13 |
 | [Reason Why We Have To Break Up](https://open.spotify.com/track/1IBAhKP77WU0xMrynp5Ymv) | [Only U](https://open.spotify.com/artist/4rFuiqSv9uhr8JcBSof72C) | [Reason Why We Have To Break Up](https://open.spotify.com/album/4nwxtVuw1mxCzZ3SGIGEcu) | 3:22 | 2022-01-13 | 2022-06-25 |
 | [Regrets 미안한 마음](https://open.spotify.com/track/59PiMiACfGn5yfLTPcFeYA) | [PAPERCUT PROJECT](https://open.spotify.com/artist/40MbmSwJQPPCvWV2Q6Cuqp) | [Regrets 미안한 마음](https://open.spotify.com/album/3XsBCKZMBVB5eJt98fBJ9x) | 4:03 | 2022-03-31 | 2022-04-13 |
-| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 |  |
+| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 | 2024-08-13 |
 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 | 2022-03-31 |  |
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-25 | 2023-10-08 |
 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 | 2022-08-12 | 2022-08-19 |

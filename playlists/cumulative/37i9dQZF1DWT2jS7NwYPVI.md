@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Teen Jesus and the Jean Teasers
 
-2,624 songs - 5 day 18 hr 46 min
+2,625 songs - 5 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1354,6 +1354,7 @@
 | [Look What You Do to Me](https://open.spotify.com/track/0ayKEMhZY2mCghqvqoPWEE) | [Isla June](https://open.spotify.com/artist/18ioovgcBQpPVcUdRyGCe0) | [Look What You Do to Me](https://open.spotify.com/album/3Iq0sxKgFdS6Bw0KN0HbaN) | 2:37 | 2023-12-18 | 2024-02-17 |
 | [Looking at Engines](https://open.spotify.com/track/6ilXA3hzhRiuYKSyFuLyeE) | [Font](https://open.spotify.com/artist/1JvNkFtciI17H6uQrKIGbs) | [Strange Burden](https://open.spotify.com/album/2nFfJYlW08ZKtWN3XiRV9T) | 5:02 | 2024-07-12 |  |
 | [lord](https://open.spotify.com/track/6qChjd3xCRVFylEhH6CJmD) | [Mobley](https://open.spotify.com/artist/6ZGf9hyQy1jpBZFb7nBWcP) | [Cry Havoc!](https://open.spotify.com/album/6XZpuctNAvmpzxnGfSY2os) | 2:08 | 2022-09-23 | 2022-10-22 |
+| [lord have mercer](https://open.spotify.com/track/1lqmKTqstzskMaj8nwKLkJ) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [lord have mercer](https://open.spotify.com/album/3mrxaispR5lIqvERzzmxGW) | 3:46 | 2024-08-12 |  |
 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 | 2023-02-17 | 2023-03-25 |
 | [Loser](https://open.spotify.com/track/4bIjq1MRCCNTcsqjgIlZIV) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Cami Petyn](https://open.spotify.com/artist/6JqGJJoqtihzki7F0bbc39) | [Loser](https://open.spotify.com/album/2RS0pVQ2TYVDkM5HR6N5cY) | 2:35 | 2023-01-27 | 2023-02-25 |
 | [Loser](https://open.spotify.com/track/6WkRlNw5zd50xqm4Kd1mp5) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Loser](https://open.spotify.com/album/7r1ccYfMGvbkcAB0T2yDCq) | 3:05 | 2022-06-17 | 2022-07-23 |

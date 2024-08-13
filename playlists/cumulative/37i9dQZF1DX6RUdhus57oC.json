@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-25",
-  "description": "Le sommeil, c'est la sant\u00e9, alors laissez-vous bercer.",
+  "description": "Le sommeil, c'est la sant\u00e9, alors laissez-vous bercer. Photo : Alain Roche",
   "name": "Douce nuit",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 147623,
       "name": "But A Whisper",
       "url": "https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 150242,
       "name": "Ordinary Day",
       "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
@@ -1298,6 +1298,24 @@
       "duration_ms": 131786,
       "name": "Shizukana",
       "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
+    },
+    {
+      "album": {
+        "name": "Sibylline",
+        "url": "https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ"
+      },
+      "artists": [
+        {
+          "name": "Corinne Blanchard",
+          "url": "https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131400,
+      "name": "Sibylline",
+      "url": "https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P"
     },
     {
       "album": {
@@ -1784,6 +1802,24 @@
       "duration_ms": 148890,
       "name": "When it drizzles",
       "url": "https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF"
+    },
+    {
+      "album": {
+        "name": "Winter Solstice",
+        "url": "https://open.spotify.com/album/2P7wxArPUiCjqSGzp47Ofr"
+      },
+      "artists": [
+        {
+          "name": "Alain Roche",
+          "url": "https://open.spotify.com/artist/3Z1SzxiDJYfs7P4M7IRKcy"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418737,
+      "name": "Winter Solstice - PART 5",
+      "url": "https://open.spotify.com/track/53yQzJ6lno7SfCvF1zXs9z"
     },
     {
       "album": {

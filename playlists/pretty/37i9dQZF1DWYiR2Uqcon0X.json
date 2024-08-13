@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 723861,
+  "num_followers": 723871,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Giving It All (To You)",
-        "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
-      },
-      "artists": [
-        {
-          "name": "Haley & Michaels",
-          "url": "https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Giving It All (To You)",
-      "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Glasshouse Children",
         "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Live from Layman",
-        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+        "name": "Giving It All (To You)",
+        "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
       },
       "artists": [
         {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+          "name": "Haley & Michaels",
+          "url": "https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Waves (Live)",
-      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+      "duration_ms": 234333,
+      "name": "Giving It All (To You)",
+      "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -931,6 +915,22 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
         "name": "Better Than That",
         "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 193242,
       "name": "Better Than That",
       "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
-        "name": "Crystal Eyes",
-        "url": "https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y"
-      },
-      "artists": [
-        {
-          "name": "Thomas Csorba",
-          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
-        }
-      ],
-      "duration_ms": 222028,
-      "name": "Crystal Eyes",
-      "url": "https://open.spotify.com/track/2dW9kl7WScv2wIY9JxjNN3"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
+        "name": "Crystal Eyes",
+        "url": "https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y"
+      },
+      "artists": [
+        {
+          "name": "Thomas Csorba",
+          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
+        }
+      ],
+      "duration_ms": 222028,
+      "name": "Crystal Eyes",
+      "url": "https://open.spotify.com/track/2dW9kl7WScv2wIY9JxjNN3"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Back to You",
-        "url": "https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs"
+        "name": "Western Wedding",
+        "url": "https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb"
       },
       "artists": [
         {
-          "name": "Jedd Hughes",
-          "url": "https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
+      "duration_ms": 231471,
+      "name": "Long Haul - Piano / Vocal",
+      "url": "https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Western Wedding",
-        "url": "https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb"
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Jedd Hughes",
+          "url": "https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH"
         }
       ],
-      "duration_ms": 231471,
-      "name": "Long Haul - Piano / Vocal",
-      "url": "https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb"
+      "duration_ms": 224626,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Beast Epic",
-        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
         }
       ],
-      "duration_ms": 231754,
-      "name": "Call It Dreaming",
-      "url": "https://open.spotify.com/track/4ftYIbHbKSVZWyrveFHCNu"
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
       },
       "artists": [
         {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
+      "duration_ms": 231754,
+      "name": "Call It Dreaming",
+      "url": "https://open.spotify.com/track/4ftYIbHbKSVZWyrveFHCNu"
     },
     {
       "added_at": "2024-07-05 20:46:22",

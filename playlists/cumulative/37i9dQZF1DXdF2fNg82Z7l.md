@@ -2,7 +2,7 @@
 
 ### [Mellow Styles](https://open.spotify.com/playlist/37i9dQZF1DXdF2fNg82Z7l)
 
-> A chill Hip Hop vibe\. Cover: Central Cee
+> A chill Hip Hop vibe\. Cover: Lithe
 
 118 songs - 5 hr 32 min
 

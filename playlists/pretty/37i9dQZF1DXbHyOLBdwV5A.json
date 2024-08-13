@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 122657,
+  "num_followers": 122680,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2024-08-09 18:34:31",
       "album": {
+        "name": "Onde o Jaguar Espreita (Mose Remix)",
+        "url": "https://open.spotify.com/album/07pgudVmJYXqqgT53Uikli"
+      },
+      "artists": [
+        {
+          "name": "Advan Haschi",
+          "url": "https://open.spotify.com/artist/1xUZsIv7Vl2RlPKMIraFXE"
+        },
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
+        }
+      ],
+      "duration_ms": 451200,
+      "name": "Onde o Jaguar Espreita - Mose Remix",
+      "url": "https://open.spotify.com/track/28XlmRM17A8x5igE0HKK4Q"
+    },
+    {
+      "added_at": "2024-08-09 18:34:31",
+      "album": {
         "name": "Joquebede (Remix)",
         "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
       },
@@ -467,30 +487,6 @@
       "duration_ms": 142285,
       "name": "Joquebede - Remix",
       "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
-    },
-    {
-      "added_at": "2024-08-09 18:34:31",
-      "album": {
-        "name": "Alvo Mais Que a Neve",
-        "url": "https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp"
-      },
-      "artists": [
-        {
-          "name": "Dois Irm\u00e3os",
-          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 217968,
-      "name": "Alvo Mais Que a Neve",
-      "url": "https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf"
     },
     {
       "added_at": "2024-08-09 18:34:31",
@@ -583,6 +579,30 @@
     {
       "added_at": "2024-08-09 18:34:31",
       "album": {
+        "name": "Alvo Mais Que a Neve",
+        "url": "https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp"
+      },
+      "artists": [
+        {
+          "name": "Dois Irm\u00e3os",
+          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 217968,
+      "name": "Alvo Mais Que a Neve",
+      "url": "https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf"
+    },
+    {
+      "added_at": "2024-08-09 18:34:31",
+      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 247862,
       "name": "Controle",
       "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
-    },
-    {
-      "added_at": "2024-08-09 18:34:31",
-      "album": {
-        "name": "Onde o Jaguar Espreita (Mose Remix)",
-        "url": "https://open.spotify.com/album/07pgudVmJYXqqgT53Uikli"
-      },
-      "artists": [
-        {
-          "name": "Advan Haschi",
-          "url": "https://open.spotify.com/artist/1xUZsIv7Vl2RlPKMIraFXE"
-        },
-        {
-          "name": "Mose",
-          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
-        }
-      ],
-      "duration_ms": 451200,
-      "name": "Onde o Jaguar Espreita - Mose Remix",
-      "url": "https://open.spotify.com/track/28XlmRM17A8x5igE0HKK4Q"
     },
     {
       "added_at": "2024-08-09 18:34:31",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-08-09 18:34:31",
       "album": {
-        "name": "Tudo Vai Ficar Bem",
-        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        },
-        {
-          "name": "Higor Rosa",
-          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
-        }
-      ],
-      "duration_ms": 209998,
-      "name": "Tudo Vai Ficar Bem",
-      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
-    },
-    {
-      "added_at": "2024-08-09 18:34:31",
-      "album": {
         "name": "Respirar e Confiar",
         "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 216470,
       "name": "Respirar e Confiar",
       "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
+    },
+    {
+      "added_at": "2024-08-09 18:34:31",
+      "album": {
+        "name": "Tudo Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        },
+        {
+          "name": "Higor Rosa",
+          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
+        }
+      ],
+      "duration_ms": 209998,
+      "name": "Tudo Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
     },
     {
       "added_at": "2024-08-09 18:34:31",

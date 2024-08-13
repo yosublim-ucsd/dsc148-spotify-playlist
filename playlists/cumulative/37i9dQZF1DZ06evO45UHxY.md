@@ -2,7 +2,7 @@
 
 ### [This Is Banda Zeta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45UHxY)
 
-> This Is Banda Zeta\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Banda Zeta\. Los temas esenciales, todos en una lista.
 
 94 songs - 4 hr 44 min
 

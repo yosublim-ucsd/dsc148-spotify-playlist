@@ -166,7 +166,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 168560,
       "name": "August",
       "url": "https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 211658,
       "name": "Larger than Life",
       "url": "https://open.spotify.com/track/5d1L98CM3w4ouxP9QQ4udD"
@@ -1190,6 +1190,32 @@
       "duration_ms": 216201,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
+    },
+    {
+      "album": {
+        "name": "LOVEBOMB",
+        "url": "https://open.spotify.com/album/2PbtxsIx0WXfhCJYBKDjHE"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152162,
+      "name": "LOVEBOMB",
+      "url": "https://open.spotify.com/track/24KU81wN6PtnKs6SXktFHP"
     },
     {
       "album": {
@@ -1575,6 +1601,36 @@
     },
     {
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/29JfpcRRhV7vspCooH2pIM"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161849,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/48VxUAyrLAnOr39ck1cJV5"
+    },
+    {
+      "album": {
         "name": "On/Off",
         "url": "https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x"
       },
@@ -1927,6 +1983,24 @@
     },
     {
       "album": {
+        "name": "trauen",
+        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164011,
+      "name": "trauen",
+      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
+    },
+    {
+      "album": {
         "name": "Uluda\u011f und Sorgen",
         "url": "https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT"
       },
@@ -2264,7 +2338,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 146616,
       "name": "\u00dcber dem Himmel",
       "url": "https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4"

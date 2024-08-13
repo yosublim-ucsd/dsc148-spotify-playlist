@@ -6654,6 +6654,28 @@
     {
       "album": {
         "name": "The Hollywood Musicals",
+        "url": "https://open.spotify.com/album/4SiEq6vI3dlK58uGyOQeHf"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        },
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/4HBOfp5qLud5NEULKIjFMz"
+    },
+    {
+      "album": {
+        "name": "The Hollywood Musicals",
         "url": "https://open.spotify.com/album/7cyUYpjcFWylXVrupufK8i"
       },
       "artists": [
@@ -6668,7 +6690,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 186946,
       "name": "True Love",
       "url": "https://open.spotify.com/track/1ofDB7PXhHez9ewlJdqGaF"

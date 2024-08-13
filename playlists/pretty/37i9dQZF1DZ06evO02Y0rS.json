@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 158365,
+  "num_followers": 158381,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAAAPJmOXZlfH5ZxL9Kq8COIO",
+  "snapshot_id": "Zrf/AAAAAACKeh9R4/lAgpYO0tjnfP+9",
   "tracks": [
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 284280,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
+      "duration_ms": 318600,
+      "name": "The Plug",
+      "url": "https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 318600,
-      "name": "The Plug",
-      "url": "https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz"
+      "duration_ms": 284280,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
     },
     {
       "added_at": null,
@@ -747,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Nick Murphy",
+          "url": "https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3"
         }
       ],
-      "duration_ms": 319666,
-      "name": "D Song",
-      "url": "https://open.spotify.com/track/4d9LscecWjNIkll4aY52Fi"
+      "duration_ms": 448983,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ"
     },
     {
       "added_at": null,
@@ -779,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Nick Murphy",
-          "url": "https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3"
         }
       ],
-      "duration_ms": 448983,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ"
+      "duration_ms": 319666,
+      "name": "D Song",
+      "url": "https://open.spotify.com/track/4d9LscecWjNIkll4aY52Fi"
     },
     {
       "added_at": null,

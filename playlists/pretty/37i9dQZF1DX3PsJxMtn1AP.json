@@ -1,13 +1,29 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74712,
+  "num_followers": 74714,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrTR2wAAAABRYz8CpBt/+5VUXWZeM2EK",
+  "snapshot_id": "ZrpM/QAAAABc/umf+zaf9LMO9vWLtlWV",
   "tracks": [
+    {
+      "added_at": "2024-08-12 17:57:17",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+    },
     {
       "added_at": "2024-07-31 18:58:16",
       "album": {

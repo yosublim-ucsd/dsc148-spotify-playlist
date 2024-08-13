@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A végén úgyis](https://open.spotify.com/track/6co2nRBAZopdXDN1iZxdby) | [Lázár tesók](https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO) | [Eső előtt](https://open.spotify.com/album/7pPp3iMLWOeCKfRq3qYeCh) | 2:50 | 2024-06-28 |  |
+| [A végén úgyis](https://open.spotify.com/track/6co2nRBAZopdXDN1iZxdby) | [Lázár tesók](https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO) | [Eső előtt](https://open.spotify.com/album/7pPp3iMLWOeCKfRq3qYeCh) | 2:50 | 2024-06-28 | 2024-08-13 |
 | [Albérlet](https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic) | [Fiúk](https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7) | [Szobák felett](https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB) | 3:52 | 2024-06-28 |  |
 | [Another Day's Just Gone](https://open.spotify.com/track/5gAsJEZPodWDed4DaShi87) | [Stone Sober](https://open.spotify.com/artist/79clzb53FujKIXiiIZKtyX) | [Freaky Lo\-Fi Hits](https://open.spotify.com/album/7dtmTWT3WcpfgSRVZZ1Crq) | 3:13 | 2024-08-02 |  |
 | [Az Én Szívem](https://open.spotify.com/track/4Bak4uTIbG7mpILvpbdYEi) | [B\. Nagy Réka](https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1), [toldyuuso](https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA) | [Az Én Szívem](https://open.spotify.com/album/4z7BEJamlzxLYNspWI4gVa) | 2:54 | 2024-06-28 | 2024-08-12 |
@@ -64,7 +64,7 @@
 | [Legszebb Hibánk](https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw) | [Beretka Ádám](https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6) | [Legszebb Hibánk](https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9) | 2:44 | 2024-06-28 |  |
 | [Levegőnek ha nézel](https://open.spotify.com/track/66vX1WKTkWB8HeIgC9A0hW) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Levegőnek ha nézel](https://open.spotify.com/album/4JNcuVq7pgQCza7tR8flNE) | 3:32 | 2024-06-28 | 2024-07-06 |
 | [LUMBAGO](https://open.spotify.com/track/1jTyV4NlALiGV8w7KZlO2k) | [Ress](https://open.spotify.com/artist/3vh8N8IcJnKYUCq2gdqewc) | [LUMBAGO](https://open.spotify.com/album/0FGJdGuvfObLfuALzlc7Id) | 2:58 | 2024-07-26 |  |
-| [lélekvesztő](https://open.spotify.com/track/7dgFk7rFobeILxZRDfiCNC) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [lélekvesztő](https://open.spotify.com/album/1kmRowYdtUySOuanW922gI) | 3:15 | 2024-06-28 | 2024-08-09 |
+| [lélekvesztő](https://open.spotify.com/track/7dgFk7rFobeILxZRDfiCNC) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [lélekvesztő](https://open.spotify.com/album/1kmRowYdtUySOuanW922gI) | 3:15 | 2024-06-28 |  |
 | [MAGÁNYÖLŐ](https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [MAGÁNYÖLŐ](https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh) | 3:02 | 2024-06-28 |  |
 | [Megbolondítottál](https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Megbolondítottál](https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX) | 3:18 | 2024-06-28 |  |
 | [Megyek utánad](https://open.spotify.com/track/7zFTSuwz7CAHhWByjBhmB4) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET) | [Megyek utánad](https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS) | 2:11 | 2024-06-28 |  |

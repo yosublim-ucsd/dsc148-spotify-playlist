@@ -6799,6 +6799,32 @@
     },
     {
       "album": {
+        "name": "Mortals - Sped Up/Slowed",
+        "url": "https://open.spotify.com/album/0dJP9B11EhiFsB2taGAPUL"
+      },
+      "artists": [
+        {
+          "name": "Warriyo",
+          "url": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr"
+        },
+        {
+          "name": "Laura Brehm",
+          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+        },
+        {
+          "name": "Slowed Sounds",
+          "url": "https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274004,
+      "name": "Mortals - Slowed",
+      "url": "https://open.spotify.com/track/6ZFsKNX6OhlVEBWQww7Phk"
+    },
+    {
+      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/55H4HshD6Jw9r5N1323b7J"
       },

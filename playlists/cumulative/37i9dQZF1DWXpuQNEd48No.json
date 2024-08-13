@@ -832,11 +832,15 @@
         {
           "name": "Jaya Rohilla",
           "url": "https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH"
+        },
+        {
+          "name": "BAD Junkie",
+          "url": "https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER"
         }
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 184349,
       "name": "Bhadak",
       "url": "https://open.spotify.com/track/6upU8Uzp33gRSOdQC7K2ao"
@@ -964,7 +968,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 110909,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA"
@@ -1034,7 +1038,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 237014,
       "name": "Chhore Zeher",
       "url": "https://open.spotify.com/track/5QHilIkFyeL28OmNQbEtnu"
@@ -1502,7 +1506,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 233843,
       "name": "Desi Haan Ji",
       "url": "https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW"
@@ -1550,6 +1554,24 @@
       "duration_ms": 164671,
       "name": "Desi Pavega",
       "url": "https://open.spotify.com/track/0yeaXNtt81sOxNFi8FmcQv"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/5ljJ2lskthMvkVonyl4J6n"
+      },
+      "artists": [
+        {
+          "name": "BigMoney",
+          "url": "https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/047foS1AQdnPdUU6B1Qbbz"
     },
     {
       "album": {
@@ -1844,7 +1866,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 287423,
       "name": "Flirt",
       "url": "https://open.spotify.com/track/4K6jf2Pu26P6VbsLdOZP7e"
@@ -2292,7 +2314,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 188163,
       "name": "Haryana Roadways",
       "url": "https://open.spotify.com/track/3zhGKnKeYa3f71ndZomZqn"
@@ -2762,7 +2784,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 144422,
       "name": "Jaatan Ka Khoon",
       "url": "https://open.spotify.com/track/5HDjg1dQlSyZxZRHBeyfMk"
@@ -2940,7 +2962,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 217317,
       "name": "Jhotte",
       "url": "https://open.spotify.com/track/5AbkBdjwjALBd3h4rNgJeX"
@@ -2958,7 +2980,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 232421,
       "name": "Jigre",
       "url": "https://open.spotify.com/track/2GJKwk6Npj65gaKyrqTbxL"
@@ -3148,7 +3170,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 167172,
       "name": "Kede Kede Yaar",
       "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"
@@ -3502,7 +3524,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 226874,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/36aG9R2LXbBbBowd4Nehi4"
@@ -3656,7 +3678,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 203846,
       "name": "Mucha Aale Tag",
       "url": "https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6"
@@ -3772,7 +3794,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 192891,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/4TFuhfk6IxRCGLAY4TVl5M"
@@ -4080,10 +4102,28 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 211000,
       "name": "On The Way",
       "url": "https://open.spotify.com/track/2iPHhqfqRUEDiHhBq5WICc"
+    },
+    {
+      "album": {
+        "name": "Original Gangster",
+        "url": "https://open.spotify.com/album/0eBL64eE3sRzvRNDqOH8UE"
+      },
+      "artists": [
+        {
+          "name": "Eshan Bhati",
+          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181907,
+      "name": "Original Gangster",
+      "url": "https://open.spotify.com/track/6yganQdeXdluMvUWwEKQLI"
     },
     {
       "album": {
@@ -4110,7 +4150,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 156773,
       "name": "Paggal",
       "url": "https://open.spotify.com/track/0dA3w3xlWHImfX39kEnmSc"
@@ -4742,10 +4782,28 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 210000,
       "name": "Sarpanchi",
       "url": "https://open.spotify.com/track/1pOc0yVstj8V2BvK5UYgqw"
+    },
+    {
+      "album": {
+        "name": "Made In Haryana",
+        "url": "https://open.spotify.com/album/3e9FetkNugYi2IkGitKvnm"
+      },
+      "artists": [
+        {
+          "name": "Musafir",
+          "url": "https://open.spotify.com/artist/6LFoIhQULkzKoZRcXIjz1z"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125074,
+      "name": "Sataave Manne Tu",
+      "url": "https://open.spotify.com/track/2NSSAplhAr8F1XeV4ZiYfy"
     },
     {
       "album": {
@@ -4826,7 +4884,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 217674,
       "name": "Sheesha",
       "url": "https://open.spotify.com/track/0aFLaSo21GazAKoZDooDuc"
@@ -4844,7 +4902,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 170736,
       "name": "Shok Albaadi",
       "url": "https://open.spotify.com/track/5cJlyLJumez6qSJyhfoDD7"
@@ -5211,6 +5269,24 @@
     },
     {
       "album": {
+        "name": "Tell Me Who?",
+        "url": "https://open.spotify.com/album/17RZZWoh6BOD2Dav0mRbi3"
+      },
+      "artists": [
+        {
+          "name": "Candy Sheoran",
+          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210702,
+      "name": "Tell Me Who?",
+      "url": "https://open.spotify.com/track/16ArpcNGoQE6ZN4YochJd4"
+    },
+    {
+      "album": {
         "name": "21.22",
         "url": "https://open.spotify.com/album/35h1PeLLCEpMfZ0O7qFTvM"
       },
@@ -5460,7 +5536,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 306750,
       "name": "Vampire",
       "url": "https://open.spotify.com/track/31olLVhKdDW291OezbnDZt"
@@ -5592,7 +5668,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 243529,
       "name": "Yaar Haryane Te",
       "url": "https://open.spotify.com/track/7M5rtXfBW7FZ9gEWkw2uDR"

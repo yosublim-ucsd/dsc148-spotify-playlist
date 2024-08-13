@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 487178,
+  "num_followers": 487626,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -847,30 +847,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
-        "url": "https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 503475,
-      "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
-      "url": "https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Hey Hey (Jack Back Remix)",
         "url": "https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 149528,
       "name": "Hey Hey - Jack Back Remix",
       "url": "https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
+        "url": "https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 503475,
+      "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
+      "url": "https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -967,6 +967,34 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Tides (feat. Bajka)",
+        "url": "https://open.spotify.com/album/6fWpGEYJ8KEJh4yGuEBhPh"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "HEVOLVE",
+          "url": "https://open.spotify.com/artist/5yC9AKKWHY7ZPNSYlBUb4O"
+        },
+        {
+          "name": "Beanfield",
+          "url": "https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH"
+        },
+        {
+          "name": "Bajka",
+          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
+        }
+      ],
+      "duration_ms": 199354,
+      "name": "Tides (feat. Bajka)",
+      "url": "https://open.spotify.com/track/28bko2C8s1cI3oOvXag2gZ"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Bitch, Don't Kill My Vibe",
         "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
       },
@@ -1003,34 +1031,6 @@
       "duration_ms": 290737,
       "name": "Born In Blue",
       "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Tides (feat. Bajka)",
-        "url": "https://open.spotify.com/album/6fWpGEYJ8KEJh4yGuEBhPh"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "HEVOLVE",
-          "url": "https://open.spotify.com/artist/5yC9AKKWHY7ZPNSYlBUb4O"
-        },
-        {
-          "name": "Beanfield",
-          "url": "https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH"
-        },
-        {
-          "name": "Bajka",
-          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
-        }
-      ],
-      "duration_ms": 199354,
-      "name": "Tides (feat. Bajka)",
-      "url": "https://open.spotify.com/track/28bko2C8s1cI3oOvXag2gZ"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 368054,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Where's The Music Gone",
         "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA"
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
         }
       ],
-      "duration_ms": 368054,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL"
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1263,22 +1279,6 @@
       "duration_ms": 270083,
       "name": "The Echo",
       "url": "https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "More Than You Know (Mont Rouge Remix)",
         "url": "https://open.spotify.com/album/2xcHnccKBW1goMln303boT"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 236000,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu"
-      },
-      "artists": [
-        {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1695,6 +1695,30 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Ethnica (Pasilda)",
+        "url": "https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Vanetty",
+          "url": "https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4"
+        },
+        {
+          "name": "Afro Medusa",
+          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
+        }
+      ],
+      "duration_ms": 170157,
+      "name": "Ethnica (Pasilda)",
+      "url": "https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Dope Dance",
         "url": "https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k"
       },
@@ -1735,30 +1759,6 @@
       "duration_ms": 344738,
       "name": "So Good",
       "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Ethnica (Pasilda)",
-        "url": "https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Vanetty",
-          "url": "https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4"
-        },
-        {
-          "name": "Afro Medusa",
-          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
-        }
-      ],
-      "duration_ms": 170157,
-      "name": "Ethnica (Pasilda)",
-      "url": "https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1863,6 +1863,26 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Seve 2.0 (Luch Rework)",
+        "url": "https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s"
+      },
+      "artists": [
+        {
+          "name": "Tez Cadey",
+          "url": "https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb"
+        },
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 396833,
+      "name": "Seve 2.0 - Luch Rework",
+      "url": "https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Kiss Me Hard (Adam Ten Remix)",
         "url": "https://open.spotify.com/album/57EvaqsfOIfKbhXBJmvCXw"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 320975,
       "name": "Kiss Me Hard - Adam Ten Remix",
       "url": "https://open.spotify.com/track/4eAz4xHo6HbSwvwmG99zvF"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Seve 2.0 (Luch Rework)",
-        "url": "https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s"
-      },
-      "artists": [
-        {
-          "name": "Tez Cadey",
-          "url": "https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb"
-        },
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        }
-      ],
-      "duration_ms": 396833,
-      "name": "Seve 2.0 - Luch Rework",
-      "url": "https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Maundu",
-        "url": "https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO"
-      },
-      "artists": [
-        {
-          "name": "Banyan",
-          "url": "https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "Maundu",
-      "url": "https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Like Forever (Hernan Cattaneo & Kevin Di Serna Remix)",
         "url": "https://open.spotify.com/album/02ZyfvHxCHY8PmH1JOhKF9"
       },
@@ -2191,6 +2175,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Maundu",
+        "url": "https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO"
+      },
+      "artists": [
+        {
+          "name": "Banyan",
+          "url": "https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Maundu",
+      "url": "https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/03PlGHrwDyR7tqCln65Kqq"
       },
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Sunrise To The Morning",
+        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Sunrise To The Morning",
+      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Pangea",
         "url": "https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o"
       },
@@ -2227,6 +2243,26 @@
       "duration_ms": 241983,
       "name": "Pangea (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        },
+        {
+          "name": "Mar+Mer",
+          "url": "https://open.spotify.com/artist/5RYSSOzPU8mkHGBq0S64xa"
+        }
+      ],
+      "duration_ms": 334284,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2259,26 +2295,6 @@
       "duration_ms": 336467,
       "name": "LIFETIME",
       "url": "https://open.spotify.com/track/1eO0SE3sEubF64JYIMUkOC"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb"
-      },
-      "artists": [
-        {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
-        },
-        {
-          "name": "Mar+Mer",
-          "url": "https://open.spotify.com/artist/5RYSSOzPU8mkHGBq0S64xa"
-        }
-      ],
-      "duration_ms": 334284,
-      "name": "AMA",
-      "url": "https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2367,6 +2383,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Nothing That I Need",
+        "url": "https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo"
+      },
+      "artists": [
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Nothing That I Need",
+      "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Out of Sight",
         "url": "https://open.spotify.com/album/5o602wD0yatOExl8G8qWkw"
       },
@@ -2383,22 +2415,6 @@
       "duration_ms": 242040,
       "name": "Out of Sight",
       "url": "https://open.spotify.com/track/0oXlBKfmpMcpjHF94j5UBd"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Sunrise To The Morning",
-        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Sunrise To The Morning",
-      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2427,46 +2443,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Same Dream",
-        "url": "https://open.spotify.com/album/1owqxoLfiqNEgSh1Msl6Pl"
-      },
-      "artists": [
-        {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
-        },
-        {
-          "name": "Von Boch",
-          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
-        },
-        {
-          "name": "Biishop",
-          "url": "https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF"
-        }
-      ],
-      "duration_ms": 424994,
-      "name": "Same Dream",
-      "url": "https://open.spotify.com/track/0K5QtJ1zhEE1QvzE0GOrMh"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy"
-      },
-      "artists": [
-        {
-          "name": "Badbwoy",
-          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
-        }
-      ],
-      "duration_ms": 273719,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Barcelonia",
         "url": "https://open.spotify.com/album/04XXrFIk5e84EOX3GTr4RH"
       },
@@ -2491,58 +2467,42 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Lovers Game / Game Over",
-        "url": "https://open.spotify.com/album/0t46ilYLPi2Oihzojq537f"
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy"
       },
       "artists": [
         {
-          "name": "Cosmicat",
-          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
-        },
-        {
-          "name": "Ss.hh.a.n.a",
-          "url": "https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE"
+          "name": "Badbwoy",
+          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
         }
       ],
-      "duration_ms": 213977,
-      "name": "Lovers Game",
-      "url": "https://open.spotify.com/track/5L3kJPnAMEORynAJrBHMbx"
+      "duration_ms": 273719,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT"
     },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Nothing That I Need",
-        "url": "https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo"
+        "name": "Same Dream",
+        "url": "https://open.spotify.com/album/1owqxoLfiqNEgSh1Msl6Pl"
       },
       "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
         {
           "name": "Von Boch",
           "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Nothing That I Need",
-      "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Distant Memories",
-        "url": "https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76"
-      },
-      "artists": [
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
         },
         {
-          "name": "Hicky & Kalo",
-          "url": "https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT"
+          "name": "Biishop",
+          "url": "https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF"
         }
       ],
-      "duration_ms": 298168,
-      "name": "Distant Memories",
-      "url": "https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8"
+      "duration_ms": 424994,
+      "name": "Same Dream",
+      "url": "https://open.spotify.com/track/0K5QtJ1zhEE1QvzE0GOrMh"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2567,6 +2527,46 @@
       "duration_ms": 206580,
       "name": "How It Feels (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Lovers Game / Game Over",
+        "url": "https://open.spotify.com/album/0t46ilYLPi2Oihzojq537f"
+      },
+      "artists": [
+        {
+          "name": "Cosmicat",
+          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+        },
+        {
+          "name": "Ss.hh.a.n.a",
+          "url": "https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE"
+        }
+      ],
+      "duration_ms": 213977,
+      "name": "Lovers Game",
+      "url": "https://open.spotify.com/track/5L3kJPnAMEORynAJrBHMbx"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Distant Memories",
+        "url": "https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Hicky & Kalo",
+          "url": "https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT"
+        }
+      ],
+      "duration_ms": 298168,
+      "name": "Distant Memories",
+      "url": "https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2671,26 +2671,26 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/2bKaMNe7DDjXRHlmdho0gv"
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/1v7NEaaCbXK3D33LpieV8w"
       },
       "artists": [
         {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
         },
         {
-          "name": "Camer\u00f8n",
-          "url": "https://open.spotify.com/artist/6DF72UNKeFlipp9UZ2vRXH"
+          "name": "Lohrasp Kansara",
+          "url": "https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy"
         },
         {
-          "name": "Lazarusman",
-          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+          "name": "Mavhungu",
+          "url": "https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT"
         }
       ],
-      "duration_ms": 239375,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/0OO9FgFioNaXMAJb6k4AqF"
+      "duration_ms": 201719,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/5jjjxOp1GH5C8lCgT1r432"
     }
   ],
   "unique_name": "Tantra",

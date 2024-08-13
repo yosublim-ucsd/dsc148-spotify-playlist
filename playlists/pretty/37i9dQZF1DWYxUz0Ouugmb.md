@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Salma Salsabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,940 likes - 37 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,941 likes - 37 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

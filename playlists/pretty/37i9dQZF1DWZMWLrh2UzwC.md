@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,424 likes - 106 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,426 likes - 106 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 23 | [八里香](https://open.spotify.com/track/4WjEEQkE9iftRU2WqvGMR3) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Danny Koo](https://open.spotify.com/artist/6wV3VcxKYg6ynYZOdjbwL9) | [八里香](https://open.spotify.com/album/144da33Dkk1Azhx8rfjWgR) | 2:59 |
 | 24 | [兩個人 \(電視劇《小夫妻》主題曲\)](https://open.spotify.com/track/2znkyJ18ExaKOFgq3dIe5v) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [兩個人 \(電視劇《小夫妻》主題曲\)](https://open.spotify.com/album/4Gg2rYt8BViuEywwYHt9z4) | 3:37 |
 | 25 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 |
-| 26 | [Say That You Will Wait For Me](https://open.spotify.com/track/2PZSl2ecywyl4L18Q6OVXi) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Liang Lawrence](https://open.spotify.com/artist/3OOg1OfH1ta9ugur0HQMyi) | [Say That You Will Wait For Me](https://open.spotify.com/album/5KH1ctzPRIWm1AyBAww5WX) | 3:40 |
+| 26 | [Say That You Will Wait For Me](https://open.spotify.com/track/2PZSl2ecywyl4L18Q6OVXi) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Say That You Will Wait For Me](https://open.spotify.com/album/5KH1ctzPRIWm1AyBAww5WX) | 3:40 |
 | 27 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 |
 | 28 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 |
 | 29 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 47 | [木头人](https://open.spotify.com/track/44vzGCye6LhE9nhJFb9dh7) | [Shi En](https://open.spotify.com/artist/7rukFwrEq79EAUe7X5DJRB) | [木头人](https://open.spotify.com/album/5TBAlLbVDYw5hLoEM753RL) | 3:56 |
 | 48 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 |
 | 49 | [Burning \- English ver.](https://open.spotify.com/track/6d4gP8ZGP9eHnexHj4Fqhb) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning \(English ver.\)](https://open.spotify.com/album/3ID8TkLdErk9dIct7FaVer) | 3:54 |
-| 50 | [BOMBAE](https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Awich](https://open.spotify.com/artist/1Ranzvm74JsAjcWMWpXclc) | [BOMBAE](https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282) | 2:26 |
+| 50 | [BOMBAE](https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BOMBAE](https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282) | 2:26 |
 | 51 | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/track/2ce4QtgMJ9123s78zwprXB) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/album/4NVrxWTYO3d7ZfW4FmGo3h) | 3:40 |
 | 52 | [Cabaret](https://open.spotify.com/track/5mIxcihNFVo4oz0v0F9y69) | [Maverick Blues](https://open.spotify.com/artist/1fT6O9C08FXPLrrvHmdUXC) | [Cabaret](https://open.spotify.com/album/3MeIIBGvnci4bZKRuOf3p6) | 2:57 |
 | 53 | [We Ain't The Same](https://open.spotify.com/track/2AIQC9cKMRb563LVwKU5wo) | [kid raw](https://open.spotify.com/artist/5OHFSQKADXkzvpuzqghEbO) | [We Ain't The Same](https://open.spotify.com/album/6QFMmksQg71ASAzSpEiWjZ) | 2:29 |

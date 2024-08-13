@@ -4,7 +4,7 @@
 
 > To the world, Here is NCT! Hi we are NCT!
 
-219 songs - 12 hr 44 min
+220 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Right Now](https://open.spotify.com/track/7ponpZK0XGUBj5ds9OCWyl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [LOVEHOLIC](https://open.spotify.com/album/3gaBYNHHWHydyB4vDBL7xZ) | 3:13 | 2021-12-16 | 2023-05-03 |
 | [Road Trip](https://open.spotify.com/track/2OoG4BqX926Te1vGdMFB2F) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:35 | 2021-12-16 | 2023-05-03 |
 | [Rocket](https://open.spotify.com/track/2hr3geQBSViX9Oi2OsnY3c) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 2:55 | 2021-12-16 | 2023-05-03 |
+| [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 | 2024-08-12 |  |
 | [Round&Round](https://open.spotify.com/track/39Z2mZBU3dRBIMro4669uo) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:23 | 2021-12-16 | 2024-04-19 |
 | [Round&Round](https://open.spotify.com/track/7m83eIaTZPfaEo3A0imGKP) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/3oc1LdV5V128z8fCtAX3Xs) | 3:23 | 2021-12-16 |  |
 | [SHALALA](https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [SHALALA \- The 1st Mini Album](https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp) | 3:21 | 2023-06-05 |  |

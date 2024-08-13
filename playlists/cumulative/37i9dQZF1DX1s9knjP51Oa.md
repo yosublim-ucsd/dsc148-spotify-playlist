@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-794 songs - 1 day 10 hr 3 min
+795 songs - 1 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,6 +695,7 @@
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2021-12-13 | 2023-03-28 |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2021-12-13 | 2022-10-25 |
 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-03-06 | 2023-12-19 |
+| [The Story of Forever](https://open.spotify.com/track/31qeus61ieZE3s9VU3OOPU) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Story of Forever](https://open.spotify.com/album/0HrNXsDWQIBntoUwfhjaVW) | 3:43 | 2024-08-12 |  |
 | [the traveler](https://open.spotify.com/track/1Niqti17jYAgEBlHzUEQ02) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the traveler & fragile flowers](https://open.spotify.com/album/6RkJifc0y3nOQLHHWB0oC8) | 2:50 | 2022-11-11 | 2024-06-01 |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-01-18 | 2024-01-03 |
 | [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 | 2023-08-07 |  |
@@ -769,7 +770,7 @@
 | [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 | 2023-06-26 |  |
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2021-12-13 | 2022-11-12 |
 | [When We Dance](https://open.spotify.com/track/1XkTvyqh9ECRpqwbnxoZCv) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [When We Dance](https://open.spotify.com/album/7EX5b7L0MzsxnOF5mluc2C) | 2:37 | 2021-12-13 | 2023-01-21 |
-| [When We Go Walking](https://open.spotify.com/track/18NGWsACj7kLOwiUvUVSux) | [Randy Oppenheim](https://open.spotify.com/artist/6obM7znnjdS04ci0REuXyT) | [When We Go Walking](https://open.spotify.com/album/5itqXfUI69UzAZXpXLpN0K) | 2:05 | 2022-11-11 |  |
+| [When We Go Walking](https://open.spotify.com/track/18NGWsACj7kLOwiUvUVSux) | [Randy Oppenheim](https://open.spotify.com/artist/6obM7znnjdS04ci0REuXyT) | [When We Go Walking](https://open.spotify.com/album/5itqXfUI69UzAZXpXLpN0K) | 2:05 | 2022-11-11 | 2024-08-13 |
 | [When We're On The Mountain](https://open.spotify.com/track/4FFFy9Nm4wUyhc5eMHuQ0z) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When We’re On The Mountain](https://open.spotify.com/album/4jXuyiY3O4BPSdEi8qiOho) | 2:28 | 2021-12-13 | 2022-10-05 |
 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 | 2021-12-13 | 2022-09-13 |
 | [Where Stars Are Born](https://open.spotify.com/track/5hWiDRCRKtf8TDpoX1Idk4) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Where Stars Are Born](https://open.spotify.com/album/37eYaKUwjBSJaO15PIrc7L) | 3:07 | 2021-12-13 | 2023-07-25 |

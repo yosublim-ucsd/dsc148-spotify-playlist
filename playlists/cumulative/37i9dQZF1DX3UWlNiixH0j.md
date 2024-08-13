@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 路地 Roji
 
-1,814 songs - 4 day 16 hr 47 min
+1,815 songs - 4 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Hello,goodbye \- cassette tape ver](https://open.spotify.com/track/6kAS1aLFGo9RmAflJCNvJc) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [Hello,goodbye / dog](https://open.spotify.com/album/3siAV2H497wqnDyhlJuAIH) | 3:24 | 2024-02-27 | 2024-03-06 |
 | [HENSHIИ](https://open.spotify.com/track/1wCAizrOQ9SaVgQpPEpQvN) | [Mlle.](https://open.spotify.com/artist/5vZykXr0Y9ms4Rz4hFE7ZW) | [HENSHIИ](https://open.spotify.com/album/7CoWMZ2wbjxtHhm87yDjV4) | 3:32 | 2023-01-17 | 2023-01-25 |
 | [Here Comes The Icy Draugr](https://open.spotify.com/track/2kAzj93r7PWs6qBElOadyN) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [Here Comes The Icy Draugr](https://open.spotify.com/album/5cf04LohcLwf8wBDrdWa0i) | 5:22 | 2024-05-21 | 2024-06-18 |
+| [Here I Am](https://open.spotify.com/track/0WOoHI5EBwXEIFZZrBZQpT) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Here I Am](https://open.spotify.com/album/3a3gMEtUzOHT3c0yzdX0z1) | 4:54 | 2024-08-06 |  |
 | [Here I Stand](https://open.spotify.com/track/1xmcCam3mEi2Tmajwkdt6X) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/1RY9bS3e6w4akVpgedsXNH) | 6:50 | 2023-02-21 | 2023-03-08 |
 | [hey dad you sent me postcards](https://open.spotify.com/track/5ffw9FBlKKv6wqvKkV6SoR) | [Wang\-Wang\(旺旺\)](https://open.spotify.com/artist/3P5cZnDKVRP2tcYJ7GHDuD) | [Arrow](https://open.spotify.com/album/0Rv1EUFlf1xPlejjgOnYod) | 4:27 | 2023-01-12 | 2023-02-08 |
 | [Highway](https://open.spotify.com/track/0CKF5Il9laNqfSWNU36qgZ) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Highway](https://open.spotify.com/album/0LRbsy0bndIFllIVDosuQM) | 2:23 | 2023-02-23 | 2023-03-15 |
@@ -518,7 +519,7 @@
 | [Kosansengen](https://open.spotify.com/track/1U1WUqhSHi35ZCYEtyH9c4) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [Kosansengen](https://open.spotify.com/album/3fXd87nD0hfPevWspy3w0G) | 3:24 | 2023-12-19 | 2024-01-10 |
 | [Koyoi](https://open.spotify.com/track/6bMl0O4b15tS5wGSAOlelH) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ちぃさな世界](https://open.spotify.com/album/2pMsbFoUCWtbMadTxhZtNe) | 3:47 | 2024-02-01 | 2024-02-07 |
 | [Kujira](https://open.spotify.com/track/5fac8pGg9klKEy4bIV3q06) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [touch the subconscious](https://open.spotify.com/album/6giIlydAr0RyMutAdQV5Si) | 4:59 | 2024-03-07 | 2024-03-13 |
-| [KYŌFUNOHOSHI](https://open.spotify.com/track/3jHAnBxDncqobzs442mnQU) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [KYŌFUNOHOSHI](https://open.spotify.com/album/7KR60jE8QXSItGSLUJJu0M) | 3:44 | 2024-07-16 |  |
+| [KYŌFUNOHOSHI](https://open.spotify.com/track/3jHAnBxDncqobzs442mnQU) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [KYŌFUNOHOSHI](https://open.spotify.com/album/7KR60jE8QXSItGSLUJJu0M) | 3:44 | 2024-07-16 | 2024-08-13 |
 | [La La La](https://open.spotify.com/track/2YRkAZfGJRElab13LXT2d9) | [pavilion](https://open.spotify.com/artist/1TSRXSGEbdwPcXwiDDI68w) | [La La La](https://open.spotify.com/album/60gAxd8jeDnGaoPo8Bmed9) | 3:41 | 2023-02-21 | 2023-02-23 |
 | [La La La](https://open.spotify.com/track/5gJcnbp3rVmSVeBHv4bnj6) | [pavilion](https://open.spotify.com/artist/1TSRXSGEbdwPcXwiDDI68w) | [La La La](https://open.spotify.com/album/6iIWSif4tILekmHLb6rMDy) | 3:41 | 2023-02-21 | 2023-03-01 |
 | [La la lie](https://open.spotify.com/track/0mHoojc6jZ08qMvUSvEz8g) | [Ryo Nagano](https://open.spotify.com/artist/1pQVDdL0MKMj353vBQ3BM6) | [La la lie](https://open.spotify.com/album/17PcmDiBW1axhPJdWmMrQl) | 3:10 | 2023-11-29 | 2023-12-06 |
@@ -685,7 +686,7 @@
 | [New Grass](https://open.spotify.com/track/6rGTmMhEP1AXESNERAyNLx) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [New Grass](https://open.spotify.com/album/26vT0S4kCXMuasu0CkzEPF) | 4:16 | 2024-05-21 | 2024-06-12 |
 | [NEW HEAVEN](https://open.spotify.com/track/0Jmb3suEdJDX0ITYvEEZux) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [NEW HEAVEN](https://open.spotify.com/album/6D32g4mlYcDmRkphuDeK8c) | 15:00 | 2023-01-17 | 2023-02-03 |
 | [New Morning](https://open.spotify.com/track/3MDzm55OlzM0D2Nw4qfgFb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [New Morning](https://open.spotify.com/album/4wYcxu7ys9LdYSWER7GxPX) | 7:27 | 2023-03-30 | 2023-12-13 |
-| [NEW POWER](https://open.spotify.com/track/4gDdNk7QLJ94bxKjy9VMDX) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [NEW POWER](https://open.spotify.com/album/6gpYBMgbkFvyfhwVACxu8c) | 3:39 | 2024-07-09 |  |
+| [NEW POWER](https://open.spotify.com/track/4gDdNk7QLJ94bxKjy9VMDX) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [NEW POWER](https://open.spotify.com/album/6gpYBMgbkFvyfhwVACxu8c) | 3:39 | 2024-07-09 | 2024-08-13 |
 | [nichijou:loopmania](https://open.spotify.com/track/0TAvsfD9Guud9xJAuypjRW) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [nichijou:loopmania](https://open.spotify.com/album/2WDKmk9Qa75kWeACuuHZG1) | 2:16 | 2024-05-21 | 2024-08-07 |
 | [Night Walk](https://open.spotify.com/track/26l7WFHXltQfKdSLwPz6OB) | [Sic Sic Sic](https://open.spotify.com/artist/1z9YbYG94qg5MtooyQmiqv) | [Night Walk](https://open.spotify.com/album/0SC9O1bWc0XlJQnH9hMPP0) | 2:56 | 2024-02-13 | 2024-02-21 |
 | [night walker](https://open.spotify.com/track/1eNQeVEkeJ1DEioE0p1Rok) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [R](https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol) | 3:20 | 2023-03-28 | 2023-04-05 |
@@ -1282,7 +1283,7 @@
 | [まどろむ影と](https://open.spotify.com/track/35dvhx7nEz5twO0oCFY7mZ) | [CC81](https://open.spotify.com/artist/0lDBfTAgGg6Ouqh0lEQbYK) | [まどろむ影と](https://open.spotify.com/album/6XCT7y1leobKTSTMyMzuKL) | 4:31 | 2024-04-09 | 2024-04-17 |
 | [まる。](https://open.spotify.com/track/6glVTRIK7bUCXIvJTOffUA) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [まる。](https://open.spotify.com/album/4BjoAtFfKl2oGyX4a5ihKC) | 2:56 | 2023-09-19 | 2023-09-21 |
 | [むかしの魔法](https://open.spotify.com/track/4vUKvcf74T10psozRyou6B) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [むかしの魔法](https://open.spotify.com/album/4rBoWGol4wx5pUZ0zS2Wh3) | 3:41 | 2023-02-21 | 2023-02-23 |
-| [もうけもん](https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [もうけもん](https://open.spotify.com/album/3M4xYeC19rVjldE12l7UxF) | 1:58 | 2024-04-02 | 2024-07-29 |
+| [もうけもん](https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [もうけもん](https://open.spotify.com/album/3M4xYeC19rVjldE12l7UxF) | 1:58 | 2024-04-02 |  |
 | [もちもち](https://open.spotify.com/track/4jTi6dAHuebFmXXxP80gYR) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [もちもち](https://open.spotify.com/album/2q4S1j03cG4zpnFZ2cvOo9) | 5:05 | 2023-07-20 | 2023-08-07 |
 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 | 2023-04-04 | 2023-04-06 |
 | [やさしい雷](https://open.spotify.com/track/5XhPxlTWLqcQGdpdiX8XBc) | [穂ノ佳](https://open.spotify.com/artist/7MjbwNW2fwyau81CKD5ryJ) | [やさしい雷](https://open.spotify.com/album/3WlR1EZCXCZBsGQlDAVKDH) | 4:04 | 2024-04-16 | 2024-04-24 |

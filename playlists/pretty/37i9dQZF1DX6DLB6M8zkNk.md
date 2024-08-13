@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,401 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,665 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Einaudi: Experience](https://open.spotify.com/track/4BTPwdNcGQK2GQxwvKkiZI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse \(Deluxe Edition\)](https://open.spotify.com/album/62dvhzEC1RtHI7tIpE4EmL) | 5:15 |
+| 1 | [Einaudi: Experience](https://open.spotify.com/track/4BTPwdNcGQK2GQxwvKkiZI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse \- Deluxe Edition](https://open.spotify.com/album/62dvhzEC1RtHI7tIpE4EmL) | 5:15 |
 | 2 | [Für Elise \- Reimagined](https://open.spotify.com/track/6z720DAWxYJL5SacdZLlEN) | [Alexander Joseph](https://open.spotify.com/artist/14UXdoHp8xbGJLLYDp9HqF) | [Für Elise \- Reimagined](https://open.spotify.com/album/5Olt9x9Bp5NOvDx2Pex9CW) | 6:00 |
 | 3 | [Cornfield Chase \- Piano\-Cello Version](https://open.spotify.com/track/0dn7lN2ky5BnUJNoELXh3i) | [Michael Forster](https://open.spotify.com/artist/0TORlmlTHaneG9k4nWPn0V) | [Piano Chill](https://open.spotify.com/album/01O3K6QN4xR3YR2j00ONtr) | 2:04 |
 | 4 | [Dawn \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 2:38 |

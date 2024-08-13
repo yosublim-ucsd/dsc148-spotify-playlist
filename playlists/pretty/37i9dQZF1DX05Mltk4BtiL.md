@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,042 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,069 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,17 +17,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 7 | [Estephania](https://open.spotify.com/track/0MBB49WBZ12TVxzuFGUcrZ) | [Florian Paul & Die Kapelle der letzten Hoffnung](https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV) | [Estephania](https://open.spotify.com/album/5fe0pEs0Qvf2Bf8XYXyKMu) | 2:55 |
 | 8 | [aliens in paris](https://open.spotify.com/track/7F8jZcmpr2YK4CbDSTJDtF) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [aliens in paris](https://open.spotify.com/album/0wKsf2309U7juUAGrB9Ac4) | 3:33 |
 | 9 | [ICH WILL NICHT MEHR FUNKTIONIEREN](https://open.spotify.com/track/6haEpILX93bOam4nbLiQe0) | [Die Nerven](https://open.spotify.com/artist/7rdm7IB4LaHSy1PvRzXnmc) | [ICH WILL NICHT MEHR FUNKTIONIEREN](https://open.spotify.com/album/6USSNaAFuVBJ7UfBs5NIyI) | 3:12 |
-| 10 | [Moshpit](https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Moshpit](https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY) | 2:01 |
-| 11 | [Das ist alles von der Kunstfreiheit gedeckt](https://open.spotify.com/track/5axr5HmbZwBFHkc9mlU5aC) | [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Das ist alles von der Kunstfreiheit gedeckt](https://open.spotify.com/album/0Tq272YaJbK0hH9vyEZBbm) | 3:48 |
+| 10 | [Das ist alles von der Kunstfreiheit gedeckt](https://open.spotify.com/track/5axr5HmbZwBFHkc9mlU5aC) | [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Das ist alles von der Kunstfreiheit gedeckt](https://open.spotify.com/album/0Tq272YaJbK0hH9vyEZBbm) | 3:48 |
+| 11 | [Moshpit](https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Moshpit](https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY) | 2:01 |
 | 12 | [Joel](https://open.spotify.com/track/7A2MVRdwPy1PKiF5euhNK6) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Joel](https://open.spotify.com/album/4ijnyXRvTabRu66G5srgev) | 3:13 |
 | 13 | [Trophäe](https://open.spotify.com/track/0ktvX44VXoA8TUcB74anK9) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Trophäe](https://open.spotify.com/album/6nr65gmEp8iT0gzfe0nZNB) | 2:40 |
 | 14 | [Gelernt](https://open.spotify.com/track/1rEVYOEfQRHTCTU0UaeKwt) | [Käptn Peng](https://open.spotify.com/artist/4uJ0Z35toYgdlrDGF4eFY2), [Die Tentakel von Delphi](https://open.spotify.com/artist/4Y7wUypNxLefo23dQexEFV) | [Das nullte Kapitel](https://open.spotify.com/album/1KPrzlaKozFUOMrDv7AH7Z) | 3:21 |
 | 15 | [Velocità](https://open.spotify.com/track/0fDb1Us6GLRPrY4LkgEUIc) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Velocità](https://open.spotify.com/album/0nuR2emckKgR48TWtu53uD) | 3:01 |
-| 16 | [Ein letztes Liebeslied](https://open.spotify.com/track/1n687zRzAK3Nmoc7oykQZb) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Ein letztes Liebeslied](https://open.spotify.com/album/3xw2ol4SHeWZqoXiOoPilO) | 3:09 |
-| 17 | [Zittern](https://open.spotify.com/track/5dUdIExBgfgxWoqJ77Xi4W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Zittern](https://open.spotify.com/album/1N1Pe9J71EgxGBCcWnrRWY) | 4:06 |
+| 16 | [Trotzdem](https://open.spotify.com/track/2xOJ5GlTL3qZj514CHE3HF) | [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Das ist alles von der Kunstfreiheit gedeckt](https://open.spotify.com/album/0Tq272YaJbK0hH9vyEZBbm) | 2:35 |
+| 17 | [Ein letztes Liebeslied](https://open.spotify.com/track/1n687zRzAK3Nmoc7oykQZb) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Ein letztes Liebeslied](https://open.spotify.com/album/3xw2ol4SHeWZqoXiOoPilO) | 3:09 |
 | 18 | [Oktober in Europa](https://open.spotify.com/track/3d40QNJhGHHBNRhEHEXxHl) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Oktober in Europa](https://open.spotify.com/album/3kqDDoLz4aPELnW6kl3cf8) | 3:28 |
 | 19 | [maria mag nur kaviar](https://open.spotify.com/track/4fmSdDMyrWjWKaB1VlCiyu) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [maria mag nur kaviar](https://open.spotify.com/album/2OUvZEpZ16DEVbeGpLj9BL) | 2:21 |
-| 20 | [Trotzdem](https://open.spotify.com/track/2xOJ5GlTL3qZj514CHE3HF) | [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Das ist alles von der Kunstfreiheit gedeckt](https://open.spotify.com/album/0Tq272YaJbK0hH9vyEZBbm) | 2:35 |
+| 20 | [Zittern](https://open.spotify.com/track/5dUdIExBgfgxWoqJ77Xi4W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Zittern](https://open.spotify.com/album/1N1Pe9J71EgxGBCcWnrRWY) | 4:06 |
 | 21 | [Schreien!](https://open.spotify.com/track/6n12nfjzuGGJSK5IAmfx8A) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Schreien!](https://open.spotify.com/album/4e6jAKuaVuz2cuHju2vSyJ) | 2:54 |
 | 22 | [Karussell](https://open.spotify.com/track/30w4Rt68tx8Ea1qPP47AIM) | [STOCKMANN](https://open.spotify.com/artist/4qJ4NLG3pHFfFxOBhQmDzm), [Crystal F](https://open.spotify.com/artist/6oZhc4ONSAMn6RYg6o6VWL), [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Karussell](https://open.spotify.com/album/1jBkxZqTpkUpciIR5CAOEK) | 2:56 |
 | 23 | [Kannst du bei mir bleiben?](https://open.spotify.com/track/6P2p63GZxlsvoegju9iH1Z) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Kannst du bei mir bleiben?](https://open.spotify.com/album/4HfWSo2GOcajhwKOetWw4x) | 2:12 |
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 41 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
 | 42 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
 | 43 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
-| 44 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
+| 44 | [Ostkreuz](https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy) | [Acht Eimer Hühnerherzen](https://open.spotify.com/artist/5Y2hHmvlOM6n0YP5wfe64i) | [Ostkreuz](https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF) | 3:25 |
 | 45 | [Niemand](https://open.spotify.com/track/3D61m9Qpfg6cOTJT2xk2Mp) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Niemand](https://open.spotify.com/album/3qytGqjTOexofW6yNOZvqX) | 3:04 |
-| 46 | [Ostkreuz](https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy) | [Acht Eimer Hühnerherzen](https://open.spotify.com/artist/5Y2hHmvlOM6n0YP5wfe64i) | [Ostkreuz](https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF) | 3:25 |
-| 47 | [Das erste Mal](https://open.spotify.com/track/7gsAQKpCsXV8i31cljdW6u) | [Milliarden](https://open.spotify.com/artist/1GltDYqF7Pl8qKkIuN85GA) | [Das erste Mal](https://open.spotify.com/album/3XTth7s9YmgxGuMoYd15IM) | 4:07 |
-| 48 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
+| 46 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
+| 47 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
+| 48 | [Das erste Mal](https://open.spotify.com/track/7gsAQKpCsXV8i31cljdW6u) | [Milliarden](https://open.spotify.com/artist/1GltDYqF7Pl8qKkIuN85GA) | [Das erste Mal](https://open.spotify.com/album/3XTth7s9YmgxGuMoYd15IM) | 4:07 |
 | 49 | [All meine Angst](https://open.spotify.com/track/0rE6YPbzad41mlswdKI43l) | [vian](https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N) | [All meine Angst](https://open.spotify.com/album/2QDzccyAFESmxf8ZdWPHfk) | 2:17 |
 | 50 | [Rauschen](https://open.spotify.com/track/64VIlUSEMejKt2LUpxA06y) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Rauschen](https://open.spotify.com/album/0Sx5N6NuOe2ppew7q44JH1) | 3:09 |
 

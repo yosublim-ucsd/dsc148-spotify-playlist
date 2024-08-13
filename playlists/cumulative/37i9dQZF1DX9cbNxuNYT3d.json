@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-19",
-  "description": "Some of the biggest french touch classics! Cover: Daft Punk",
+  "description": "Some of the biggest french touch classics! Cover: Air",
   "name": "La French Touch",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 324213,
       "name": "Bel Amour (Classic Vocal Mix)",
       "url": "https://open.spotify.com/track/3ovilBTxhYtCNeH92D0uu8"
@@ -1289,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "The Virgin Suicides (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "name": "Gordon Tracks",
+          "url": "https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Playground Love",
+      "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
+    },
+    {
+      "album": {
         "name": "ED REC Vol.3",
         "url": "https://open.spotify.com/album/06ouh4WbMgwgk5dbsiH8oV"
       },
@@ -1498,7 +1520,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 298466,
       "name": "Sexy Boy",
       "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
@@ -1884,6 +1906,24 @@
       "duration_ms": 458000,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6NV92uKrUBhgesDlgEjwYj"
+    },
+    {
+      "album": {
+        "name": "Ross Ross Ross",
+        "url": "https://open.spotify.com/album/341yoHp5PzASrdmqCug1wv"
+      },
+      "artists": [
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299946,
+      "name": "Walkman",
+      "url": "https://open.spotify.com/track/3vPpGtZWKVevB6FtZc9Aiv"
     },
     {
       "album": {

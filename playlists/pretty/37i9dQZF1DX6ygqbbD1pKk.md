@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 > Todos tus éxitos favoritos de Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,183 likes - 103 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,196 likes - 103 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 | 59 | [Bajo el mar](https://open.spotify.com/track/1CK7FnJxNSZrQhEPLVVa2N) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Michael Cruz](https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d) | [La Sirenita \(Banda Sonora Original en Español\)](https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw) | 3:12 |
 | 60 | [Colombia, Mi Encanto](https://open.spotify.com/track/1DgS5IMm8ffbZ78GbIPlOM) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 2:55 |
 | 61 | [This Is Me \- From "Camp Rock"](https://open.spotify.com/track/1570rO6Ld2CQtylj79nZuI) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Your Favorite Songs from 100 Disney Channel Original Movies](https://open.spotify.com/album/5gmYqZjyX50yWhiT31hUxJ) | 3:07 |
-| 62 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/6kOXFFNTzraDTj6fceHenx) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lfqRceJLjF8rSeo5P7SWW) | 3:43 |
+| 62 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/6kOXFFNTzraDTj6fceHenx) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lfqRceJLjF8rSeo5P7SWW) | 3:43 |
 | 63 | [Inspiración](https://open.spotify.com/track/0luqiaAZqlVRhwVpooWC8s) | [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 2:59 |
 | 64 | [Bésame mucho \- Inspirado en "Coco"](https://open.spotify.com/track/5IpadzdYReC5SKGQWVa7jw) | [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:57 |
 | 65 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |

@@ -2,7 +2,7 @@
 
 ### [This Is Binomio de Oro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ldspl)
 
-> This is Binomio de Oro\. Todos os maiores hits em uma só playlist.
+> This Is Binomio de Oro\. Los temas esenciales, todos en una lista.
 
 70 songs - 5 hr 0 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,003 likes - 72 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,087 likes - 72 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 18 | [Uyire Uyire](https://open.spotify.com/track/0hUGQUSf8YcHdOnQG9AFth) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 7:14 |
 | 19 | [Columbus Columbus](https://open.spotify.com/track/5LUWhfLyBZ4BoSXjFrymts) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 4:52 |
 | 20 | [Maargazhi Poovea](https://open.spotify.com/track/1BsUz93KmwBdR7GI2tWJCe) | [Shobha Shanker](https://open.spotify.com/artist/5Ep3klpu2IgTQJLqsmEHQ0) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 6:19 |
-| 21 | [En Meal Vizhundha Mazhai](https://open.spotify.com/track/4Qu1iqZ91prSvXiUmwSNLj) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:00 |
-| 22 | [Romeo Attam Potal](https://open.spotify.com/track/5KRBc2QCh13xUtBX8Vdg75) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Mr\. Romeo](https://open.spotify.com/album/5g7z1LlsFdThLtZet4OOUx) | 5:38 |
+| 21 | [Romeo Attam Potal](https://open.spotify.com/track/5KRBc2QCh13xUtBX8Vdg75) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Mr\. Romeo](https://open.spotify.com/album/5g7z1LlsFdThLtZet4OOUx) | 5:38 |
+| 22 | [En Meal Vizhundha Mazhai](https://open.spotify.com/track/4Qu1iqZ91prSvXiUmwSNLj) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:00 |
 | 23 | [Malargaley \(From "Love Birds"\)](https://open.spotify.com/track/08h7noiVJ51fou2fVNIVC4) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Love Songs of Ilaiyaraja & A\. R\. Rahman](https://open.spotify.com/album/2pTLn5ypUdGINKImS1iHyr) | 7:15 |
 | 24 | [Veerapandi Kotayyile](https://open.spotify.com/track/20GvRntcVUf2iB9yuN5jZ3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 6:29 |
 | 25 | [Kuchi Kuchi Rakkamma](https://open.spotify.com/track/7zgUcaUKZJifUZdiGizuth) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sharadha](https://open.spotify.com/artist/6vCB1lbO6PH4tz0EJUO2LR) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 5:03 |

@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 733260,
+  "num_followers": 733254,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NoCopyrightSounds",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAXAt6+rbLO0e8p7RyAe97oGknMlcUy",
+  "snapshot_id": "AAAXBcJyvJtVEGT4b4ytzBpV1fUYuDhk",
   "tracks": [
     {
       "added_at": "2024-07-30 09:51:19",
@@ -223,6 +223,30 @@
       "duration_ms": 140000,
       "name": "Shine - Always Mirin Remix",
       "url": "https://open.spotify.com/track/3E4XupKOGXm97jh6FyjN9F"
+    },
+    {
+      "added_at": "2024-08-12 16:23:33",
+      "album": {
+        "name": "Mortals - Sped Up/Slowed",
+        "url": "https://open.spotify.com/album/0dJP9B11EhiFsB2taGAPUL"
+      },
+      "artists": [
+        {
+          "name": "Warriyo",
+          "url": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr"
+        },
+        {
+          "name": "Laura Brehm",
+          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+        },
+        {
+          "name": "Slowed Sounds",
+          "url": "https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF"
+        }
+      ],
+      "duration_ms": 274004,
+      "name": "Mortals - Slowed",
+      "url": "https://open.spotify.com/track/6ZFsKNX6OhlVEBWQww7Phk"
     },
     {
       "added_at": "2024-07-30 09:51:19",

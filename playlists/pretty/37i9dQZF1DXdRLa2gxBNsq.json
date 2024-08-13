@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla Records.",
-  "num_followers": 106011,
+  "num_followers": 106037,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-29 13:49:22",
       "album": {
-        "name": "Versos de Rabia",
-        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
-      },
-      "artists": [
-        {
-          "name": "Discordia",
-          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "Ke Felicidad!",
-      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
-    },
-    {
-      "added_at": "2024-07-29 13:49:22",
-      "album": {
         "name": "Camino hacia la ruina",
         "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 285640,
       "name": "Amor frenop\u00e1tico",
       "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+    },
+    {
+      "added_at": "2024-07-29 13:49:22",
+      "album": {
+        "name": "Versos de Rabia",
+        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
+      },
+      "artists": [
+        {
+          "name": "Discordia",
+          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "Ke Felicidad!",
+      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
     },
     {
       "added_at": "2024-07-29 13:49:22",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-07-29 13:49:22",
       "album": {
-        "name": "Nada que me haga resurgir",
-        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
+        "name": "Asesinos",
+        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
       "artists": [
         {
-          "name": "A Cuchillo",
-          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Nada que me haga resurgir",
-      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
+      "duration_ms": 176117,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
     },
     {
       "added_at": "2024-07-29 13:49:22",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-07-29 13:49:22",
       "album": {
-        "name": "Asesinos",
-        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+        "name": "Nada que me haga resurgir",
+        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
       },
       "artists": [
         {
-          "name": "Manifa",
-          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+          "name": "A Cuchillo",
+          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
         }
       ],
-      "duration_ms": 176117,
-      "name": "Asesinos",
-      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+      "duration_ms": 187200,
+      "name": "Nada que me haga resurgir",
+      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
     },
     {
       "added_at": "2024-07-29 13:49:22",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-29 13:49:22",
       "album": {
-        "name": "A Quien Pueda Interesar (Remasterizado 2024)",
-        "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
-      },
-      "artists": [
-        {
-          "name": "Salvate Si Puedes",
-          "url": "https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac"
-        }
-      ],
-      "duration_ms": 165786,
-      "name": "S\u00e1lvate Si Puedes - Remasterizado 2024",
-      "url": "https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9"
-    },
-    {
-      "added_at": "2024-07-29 13:49:22",
-      "album": {
         "name": "HISTERIA",
         "url": "https://open.spotify.com/album/01MRCootqvHnsCJ5j0IhZm"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 148864,
       "name": "HISTERIA",
       "url": "https://open.spotify.com/track/4IVWKhpc6VDcyg1fHq5T20"
+    },
+    {
+      "added_at": "2024-07-29 13:49:22",
+      "album": {
+        "name": "A Quien Pueda Interesar (Remasterizado 2024)",
+        "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
+      },
+      "artists": [
+        {
+          "name": "Salvate Si Puedes",
+          "url": "https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac"
+        }
+      ],
+      "duration_ms": 165786,
+      "name": "S\u00e1lvate Si Puedes - Remasterizado 2024",
+      "url": "https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9"
     },
     {
       "added_at": "2024-07-29 13:49:22",

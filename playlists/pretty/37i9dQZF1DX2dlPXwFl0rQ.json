@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Priscila y sus Balas de Plata en portada.",
-  "num_followers": 107728,
+  "num_followers": 107792,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Ayer Ped\u00ed",
+        "url": "https://open.spotify.com/album/5DbBtgQ0oZ5odiNf1QZM7m"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Ayer Ped\u00ed",
+      "url": "https://open.spotify.com/track/6Pyh7P7RYN7Cu21jjwXsTu"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 157946,
       "name": "No Me Deja De Doler",
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Ayer Ped\u00ed",
-        "url": "https://open.spotify.com/album/5DbBtgQ0oZ5odiNf1QZM7m"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Ayer Ped\u00ed",
-      "url": "https://open.spotify.com/track/6Pyh7P7RYN7Cu21jjwXsTu"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Quer\u00eda Que Fueras T\u00fa",
-        "url": "https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 174874,
-      "name": "Quer\u00eda Que Fueras T\u00fa",
-      "url": "https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Las Noches",
         "url": "https://open.spotify.com/album/77b67zkABlkeckYY9DYcmZ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 133909,
       "name": "Las Noches",
       "url": "https://open.spotify.com/track/5R4Qx8nAWFbJKudNi6flkB"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Quer\u00eda Que Fueras T\u00fa",
+        "url": "https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 174874,
+      "name": "Quer\u00eda Que Fueras T\u00fa",
+      "url": "https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Voy A Quedarte Mal",
         "url": "https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 223211,
       "name": "Voy A Quedarte Mal",
       "url": "https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "El Bato Gacho",
-        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 145518,
-      "name": "El Bato Gacho",
-      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "No Te Fui Suficiente",
         "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
       },
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "El Bato Gacho",
+        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "duration_ms": 145518,
+      "name": "El Bato Gacho",
+      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "Aprendiz",
         "url": "https://open.spotify.com/album/7JLeFKD3oZnZ6VHmEn854y"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 223426,
       "name": "Aprendiz",
       "url": "https://open.spotify.com/track/0KI94DLbKBVnTKt9lEKPOy"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "En Vivo: Irene del Rosario",
-        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 214414,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Miro La Luna",
-        "url": "https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9"
+        "name": "En Vivo: Irene del Rosario",
+        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
       },
       "artists": [
         {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
         }
       ],
-      "duration_ms": 126365,
-      "name": "Miro La Luna",
-      "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
+      "duration_ms": 214414,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1603,22 +1587,6 @@
       "duration_ms": 186750,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Puras Sierre\u00f1as - En Vivo",
-        "url": "https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Lindo G\u00fcerito - En Vivo",
-      "url": "https://open.spotify.com/track/2O9fhXMbU6pAFUM8JMYM7k"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1655,6 +1623,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Miro La Luna",
+        "url": "https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "duration_ms": 126365,
+      "name": "Miro La Luna",
+      "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "Cerrada Al Amor",
         "url": "https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 204761,
       "name": "Cerrada Al Amor",
       "url": "https://open.spotify.com/track/6fGBRojVsgk4JaJ0ptRz6Q"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Puras Sierre\u00f1as - En Vivo",
+        "url": "https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Lindo G\u00fcerito - En Vivo",
+      "url": "https://open.spotify.com/track/2O9fhXMbU6pAFUM8JMYM7k"
     },
     {
       "added_at": "2024-08-09 06:00:00",

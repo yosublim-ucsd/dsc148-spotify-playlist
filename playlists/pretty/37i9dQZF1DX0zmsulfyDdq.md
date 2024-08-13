@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 
 > Help your little one drift off to sleep with this soothing playlist of Disney favorites, including Wish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,077 likes - 198 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,268 likes - 198 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 | 160 | [Muppet Babies Theme 2018](https://open.spotify.com/track/2nvNhtBQmzW1SfclVIsvqG) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 |
 | 161 | [Part of Your World](https://open.spotify.com/track/2SvuVrSQb1AAhxPtgzb65p) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Breathe](https://open.spotify.com/album/1BkRLMg1PwegXipKVRXeiI) | 3:04 |
 | 162 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 |
-| 163 | [We Were So Close \- From "Frozen"/Score](https://open.spotify.com/track/6hpnkeYsRsHNyVVv3JnCX1) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 1:53 |
+| 163 | [We Were So Close \- From "Frozen"/Score](https://open.spotify.com/track/6hpnkeYsRsHNyVVv3JnCX1) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \- Original Motion Picture Soundtrack / Deluxe Edition](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 1:53 |
 | 164 | [The Second Star to the Right \- Instrumental](https://open.spotify.com/track/11ivd2hEFCMAQa5a8077Xo) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Baby Sweet Dreams and Lullabies](https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg) | 1:29 |
 | 165 | [Can You Feel the Love Tonight \- Instrumental](https://open.spotify.com/track/1eOkJKTffWqoM7pQmO8gKA) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Baby Sweet Dreams and Lullabies](https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg) | 1:24 |
 | 166 | [Colors Of The Wind](https://open.spotify.com/track/7paiVgZWTXquKHkOAU6mhN) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Princess Lullaby: Soothing Instrumental Lullabies For Little Princesses](https://open.spotify.com/album/3diwNCScanKXsiDgO1Etxn) | 4:48 |

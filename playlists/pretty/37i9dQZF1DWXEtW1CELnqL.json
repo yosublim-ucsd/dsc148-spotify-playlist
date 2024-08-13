@@ -1,6 +1,6 @@
 {
   "description": "Laissez-moi plonger, je suis m\u00e9decin.",
-  "num_followers": 63141,
+  "num_followers": 63195,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "Cathexis",
-        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 183741,
-      "name": "Doomsday Blue",
-      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "SPINE",
         "url": "https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 180715,
       "name": "SPINE",
       "url": "https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "Cathexis",
+        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 183741,
+      "name": "Doomsday Blue",
+      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
     },
     {
       "added_at": "2024-07-24 13:25:11",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "Light Grenades",
-        "url": "https://open.spotify.com/album/5WwXMygJ3dQXk3S6mDDfCH"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "Anna Molly",
-      "url": "https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "Lights And Sounds",
         "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "Gold Cobra (Deluxe)",
-        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
+        "name": "Light Grenades",
+        "url": "https://open.spotify.com/album/5WwXMygJ3dQXk3S6mDDfCH"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Gold Cobra",
-      "url": "https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e"
+      "duration_ms": 225880,
+      "name": "Anna Molly",
+      "url": "https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl"
     },
     {
       "added_at": "2024-07-24 13:25:11",
@@ -915,6 +899,22 @@
       "duration_ms": 163226,
       "name": "No Cigar",
       "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Gold Cobra",
+      "url": "https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e"
     },
     {
       "added_at": "2024-07-24 13:25:11",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 172020,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "Too Bad",
         "url": "https://open.spotify.com/album/4v8XPmMKSBUwjz4t7C8Ecn"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 133093,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/4kyfZcirG407sqrF34ZKxR"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 172020,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
     },
     {
       "added_at": "2024-07-24 13:25:11",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 198386,
-      "name": "First It Giveth",
-      "url": "https://open.spotify.com/track/0UEMTz9APWfoJHdlXDeIzm"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "Seventeen Going Under (Deluxe)",
         "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 273026,
       "name": "Spit Of You",
       "url": "https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 198386,
+      "name": "First It Giveth",
+      "url": "https://open.spotify.com/track/0UEMTz9APWfoJHdlXDeIzm"
     },
     {
       "added_at": "2024-07-24 13:25:11",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "Neck Deep",
-        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Dumbstruck Dumbf**k",
-      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "Neck Deep",
+        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Dumbstruck Dumbf**k",
+      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
     },
     {
       "added_at": "2024-07-24 13:25:11",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "Technology",
-        "url": "https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "Diary (Remastered and Expanded Edition)",
         "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 298413,
       "name": "In Circles - Remastered",
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "Technology",
+        "url": "https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93"
     },
     {
       "added_at": "2024-07-24 13:25:11",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "uncooked",
-        "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "uncooked",
-      "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "Back To The Water Below",
         "url": "https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 207849,
       "name": "Shiner In The Dark",
       "url": "https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "uncooked",
+        "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "uncooked",
+      "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
     },
     {
       "added_at": "2024-07-24 13:25:11",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-07-24 13:25:11",
       "album": {
-        "name": "Enmore",
-        "url": "https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw"
-      },
-      "artists": [
-        {
-          "name": "Trophy Eyes",
-          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
-        }
-      ],
-      "duration_ms": 162182,
-      "name": "Enmore",
-      "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
-    },
-    {
-      "added_at": "2024-07-24 13:25:11",
-      "album": {
         "name": "Love From The Other Side",
         "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 188653,
       "name": "Back Foot",
       "url": "https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC"
+    },
+    {
+      "added_at": "2024-07-24 13:25:11",
+      "album": {
+        "name": "Enmore",
+        "url": "https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw"
+      },
+      "artists": [
+        {
+          "name": "Trophy Eyes",
+          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
+        }
+      ],
+      "duration_ms": 162182,
+      "name": "Enmore",
+      "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
     },
     {
       "added_at": "2024-07-24 13:25:11",

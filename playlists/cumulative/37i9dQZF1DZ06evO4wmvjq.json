@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Terry Riley. The essential tracks, all in one playlist.",
+  "description": "This is: Terry Riley. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Terry Riley",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 222133,
       "name": "2 Poemes, Op. 32 : 2 Poemes, Op. 32: No. 1 in F sharp major",
       "url": "https://open.spotify.com/track/3p2Bs1MKlmN52yrJPlZpCY"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 258026,
       "name": "Land's End",
       "url": "https://open.spotify.com/track/1yYwD8sKQy9ZKz3lgZ0pDk"
@@ -3172,7 +3172,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 324680,
       "name": "The Lake",
       "url": "https://open.spotify.com/track/11p1Pf5SQjJBWD8NkyyYKM"
@@ -3198,6 +3198,24 @@
       "duration_ms": 324680,
       "name": "The Lake",
       "url": "https://open.spotify.com/track/1kRvMfo4lmzxstmbozPm4N"
+    },
+    {
+      "album": {
+        "name": "The Last Camel In Paris",
+        "url": "https://open.spotify.com/album/7KJDHxlNztti1DcjizXmae"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3223586,
+      "name": "The Last Camel In Paris",
+      "url": "https://open.spotify.com/track/0DtcnbPJ3elFjMeJ1b8KTY"
     },
     {
       "album": {

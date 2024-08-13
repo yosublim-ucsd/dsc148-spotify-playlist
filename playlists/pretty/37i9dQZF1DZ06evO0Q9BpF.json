@@ -1,12 +1,12 @@
 {
-  "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 41590,
+  "description": "This Is Generaci\u00f3n 12. Los temas esenciales, todos en una lista.",
+  "num_followers": 41616,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAACA/QtfMDYBB/oKOw3ZtPhs",
+  "snapshot_id": "Zrf/AAAAAAC7rj0zltNy9+niXYtFLg0D",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Blanco y Negro",
-      "url": "https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remix 1.2",
         "url": "https://open.spotify.com/album/5wWH3xxakgFaCjK3oa8dr3"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 221905,
       "name": "Dios Incomparable 1.2 (feat. Marco Barrientos)",
       "url": "https://open.spotify.com/track/2obGra074oqYXQTg9eEtJE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Blanco y Negro",
+      "url": "https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lorena Castellanos",
-          "url": "https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ"
-        }
-      ],
-      "duration_ms": 214480,
-      "name": "Lo Perd\u00ed Todo",
-      "url": "https://open.spotify.com/track/4OXbMqnvvDGC7skHJUgONt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si T\u00fa Est\u00e1s Conmigo",
         "url": "https://open.spotify.com/album/3GG0BnFJLkg1GOQQzCOxK1"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 245760,
       "name": "Si T\u00fa Est\u00e1s Conmigo",
       "url": "https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lorena Castellanos",
+          "url": "https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ"
+        }
+      ],
+      "duration_ms": 214480,
+      "name": "Lo Perd\u00ed Todo",
+      "url": "https://open.spotify.com/track/4OXbMqnvvDGC7skHJUgONt"
     },
     {
       "added_at": null,

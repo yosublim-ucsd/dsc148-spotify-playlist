@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 53080,
+  "num_followers": 53076,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "AOA 4th Mini Album Good Luck",
-        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
-      },
-      "artists": [
-        {
-          "name": "AOA",
-          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
-        }
-      ],
-      "duration_ms": 236031,
-      "name": "10 Seconds",
-      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "WJ STAY?",
         "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 214847,
       "name": "You Got",
       "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "AOA 4th Mini Album Good Luck",
+        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
+      },
+      "artists": [
+        {
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
+        }
+      ],
+      "duration_ms": 236031,
+      "name": "10 Seconds",
+      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "Love visible",
-        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
-      },
-      "artists": [
-        {
-          "name": "aiai",
-          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Love visible",
-      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 234856,
       "name": "Line",
       "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "Love visible",
+        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Love visible",
+      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        },
-        {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
-        }
-      ],
-      "duration_ms": 299500,
-      "name": "Aqua (feat. Muzie)",
-      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -955,6 +935,26 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        },
+        {
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+        }
+      ],
+      "duration_ms": 299500,
+      "name": "Aqua (feat. Muzie)",
+      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
         "name": "Pink Funky",
         "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
       },
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "Shining Love Song",
         "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 191706,
       "name": "Shining Love Song",
       "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "After this night",
-        "url": "https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 262658,
-      "name": "After this night",
-      "url": "https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "Rainbow note",
         "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 283493,
       "name": "Memories of Summer",
       "url": "https://open.spotify.com/track/0g0xDwm7qx1zqV0KDQCjr4"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "After this night",
+        "url": "https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 262658,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "City Drive",
-        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 207888,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "What's Your Number? - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC"
+        "name": "City Drive",
+        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
       },
       "artists": [
         {
-          "name": "ZHOUMI",
-          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
         }
       ],
-      "duration_ms": 240970,
-      "name": "What's Your Number?",
-      "url": "https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89"
+      "duration_ms": 207888,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1207,6 +1191,22 @@
       "duration_ms": 197648,
       "name": "Line 1",
       "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "What's Your Number? - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC"
+      },
+      "artists": [
+        {
+          "name": "ZHOUMI",
+          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
+        }
+      ],
+      "duration_ms": 240970,
+      "name": "What's Your Number?",
+      "url": "https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "FM302",
-        "url": "https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY"
-      },
-      "artists": [
-        {
-          "name": "LEE HONG GI",
-          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
-        }
-      ],
-      "duration_ms": 226894,
-      "name": "LOL (LOUDNESS OF LOVE)",
-      "url": "https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 214736,
       "name": "Empty",
       "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "FM302",
+        "url": "https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY"
+      },
+      "artists": [
+        {
+          "name": "LEE HONG GI",
+          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
+        }
+      ],
+      "duration_ms": 226894,
+      "name": "LOL (LOUDNESS OF LOVE)",
+      "url": "https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
         "name": "DRIVE (Feat. Leellamarz) (Single Edition 2)",
         "url": "https://open.spotify.com/album/6OVQlbKrHdQDJqzkxnj0oy"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 247680,
       "name": "DRIVE (Feat. Leellamarz)",
       "url": "https://open.spotify.com/track/4fQZn3i96966kDpGotjvy1"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
+        "name": "The Reason Why",
+        "url": "https://open.spotify.com/album/04FO7xZADfgWN1hPb9DGMF"
+      },
+      "artists": [
+        {
+          "name": "Heju",
+          "url": "https://open.spotify.com/artist/4wwWOTP0uQkwy905mukvXU"
+        }
+      ],
+      "duration_ms": 200792,
+      "name": "The Reason Why",
+      "url": "https://open.spotify.com/track/1RHbrUkbac7nUg5Zj86QgQ"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
         "name": "INCHEON CITYPOP Vol. 1",
         "url": "https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 226173,
       "name": "I\u2032m Alright",
       "url": "https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
-        "name": "The Reason Why",
-        "url": "https://open.spotify.com/album/04FO7xZADfgWN1hPb9DGMF"
-      },
-      "artists": [
-        {
-          "name": "Heju",
-          "url": "https://open.spotify.com/artist/4wwWOTP0uQkwy905mukvXU"
-        }
-      ],
-      "duration_ms": 200792,
-      "name": "The Reason Why",
-      "url": "https://open.spotify.com/track/1RHbrUkbac7nUg5Zj86QgQ"
     },
     {
       "added_at": "2024-08-10 15:49:48",

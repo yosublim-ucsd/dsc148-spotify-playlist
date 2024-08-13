@@ -2,7 +2,7 @@
 
 ### [This Is Los Farmerz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO32Ff9v)
 
-> This is Los Farmerz\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Los Farmerz\. The essential tracks, all in one playlist.
 
 58 songs - 3 hr 7 min
 

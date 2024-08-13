@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Fuerza Regida, Major Lazer & Alok
 
-334 songs - 17 hr 18 min
+336 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Las Monjitas \- Guaracha Remix](https://open.spotify.com/track/0KXchobWY27IrcXypdoJxd) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy) | [Las Monjitas \(Guaracha Remix\)](https://open.spotify.com/album/4FiJRlYud9Z3J5smkUFEuU) | 2:10 | 2023-03-03 | 2023-05-27 |
 | [Legoo](https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Legoo](https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS) | 2:28 | 2022-03-22 | 2022-04-29 |
 | [LIBRE](https://open.spotify.com/track/1NkqNR5EokqtxGvFA1XblI) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Luxury Lane](https://open.spotify.com/artist/0cQvwLMjhOYO7OdcHtI1iK) | [LIBRE](https://open.spotify.com/album/40UnqiHFg0ZS3RolOn4KYx) | 2:27 | 2023-05-08 | 2024-04-19 |
+| [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 | 2024-08-12 |  |
 | [Llorando en un Ferrari](https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:13 | 2022-03-22 | 2023-01-14 |
 | [Llámame loco](https://open.spotify.com/track/2LthiNe3VkZg3NpWNcHeHl) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Llámame loco](https://open.spotify.com/album/0n0YzbdI7kNBvD805ToK0Z) | 2:34 | 2023-03-17 | 2023-05-27 |
 | [Lo Que Siento](https://open.spotify.com/track/5rPvnCH5uQKoaiB2biRFUK) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Lo Que Siento](https://open.spotify.com/album/4y3hcyQJTVQxM4ZWRvmdxS) | 2:49 | 2023-03-17 | 2023-05-27 |
@@ -287,6 +288,7 @@
 | [Snow Tha Product: Bzrp Music Session , Vol\. 39 \(Omar Varela Remix\)](https://open.spotify.com/track/7EfA4nkCg7uBdwFzIgHa6U) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Snow Tha Product: Bzrp Music Session , Vol\. 39 \(Omar Varela Remix\)](https://open.spotify.com/album/5eQqTugL34FTASRBe7NBzK) | 3:00 | 2022-03-22 | 2022-04-21 |
 | [Socorro](https://open.spotify.com/track/6AWR659y1G3N61bZNUTAz5) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Socorro](https://open.spotify.com/album/3QLShaIkXeOpUrNMkUS9nH) | 3:09 | 2023-03-03 | 2023-07-08 |
 | [SOFIA](https://open.spotify.com/track/7oOk8wOR0sBcbEL93kNoBU) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [SOFIA](https://open.spotify.com/album/4wFXQxAGXu7y52v6AGkgxo) | 2:53 | 2024-07-26 |  |
+| [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 | 2024-08-12 |  |
 | [Someone Else's Love](https://open.spotify.com/track/30HuQuGTnEumX2PmUWdLo8) | [Jake Silva](https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL), [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93) | [Someone Else's Love](https://open.spotify.com/album/4sAZLc3KOCg7sZ6CA6wRWK) | 2:54 | 2023-11-29 | 2024-06-22 |
 | [Sonata \(Sonata No.8 in C Minor\) \- Beethoven Remixed](https://open.spotify.com/track/5PbJnRxQQ5GbrjkUUVtLev) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Sonata \(Sonata No.8 in C Minor\) \[Beethoven Remixed\]](https://open.spotify.com/album/0anpBzHs3Eqy1er0xyG4ZV) | 2:40 | 2022-03-22 | 2022-04-29 |
 | [Soy Así \(Summer Mix\)](https://open.spotify.com/track/6kuUlT2BNvjvmlOlQIJ14U) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Soy Así \(Summer Mix\)](https://open.spotify.com/album/2canxUfytOjMJVfmSbFCRp) | 2:58 | 2022-03-22 | 2022-04-29 |

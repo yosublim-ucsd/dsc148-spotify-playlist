@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,551 songs - 2 day 19 hr 47 min
+1,552 songs - 2 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [CROSS COUNTRY](https://open.spotify.com/track/4i440HyveNWpscGLrYJXsh) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu), [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC), [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c) | [CROSS COUNTRY](https://open.spotify.com/album/3c2fTSyVQ4TprFiQ3ZmuqX) | 3:06 | 2022-12-15 | 2023-01-06 |
 | [CROWN](https://open.spotify.com/track/5ttU3nppUfNXjnpogns7RL) | [TMA](https://open.spotify.com/artist/7HooMDZWSlS5FmEzJKrHix), [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [CROWN](https://open.spotify.com/album/2jvDcLeRdhd1aH0h3Au5ze) | 2:48 | 2023-04-27 | 2023-06-09 |
 | [CRUELLA DE VIL](https://open.spotify.com/track/0QdYaAJARjtuT57kSfGh2o) | [Jeaff](https://open.spotify.com/artist/04OtPVhopqSHGWhzy5O5bE) | [CRUELLA DE VIL](https://open.spotify.com/album/7mw8utk6aPmvAUqLVNUlo7) | 2:44 | 2022-12-01 | 2022-12-16 |
+| [Cry 4 me now](https://open.spotify.com/track/64inqX275KX14la1P3BlbA) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Cry 4 me now](https://open.spotify.com/album/5VLNXhXJSaq5tDvWwUa0BJ) | 2:07 | 2024-08-12 |  |
 | [CTM](https://open.spotify.com/track/0vnWP52jsHmWfridzhWuTB) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Över Broarna](https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv) | 2:02 | 2023-05-25 | 2023-06-09 |
 | [Cuando Menos Lo Espera](https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Menos Lo Espera](https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC) | 3:00 | 2023-07-06 | 2023-10-20 |
 | [CULO](https://open.spotify.com/track/0cauzTdGqPmfMtl47pazfH) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [CULO](https://open.spotify.com/album/3Zp1b2saFe3NypJUzmUxxZ) | 2:24 | 2024-01-25 | 2024-04-12 |
@@ -854,7 +855,7 @@
 | [Love & Guns](https://open.spotify.com/track/4BOx8wKMG0MNpuIzlk0aXn) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Love & Guns](https://open.spotify.com/album/7lc7bfjXIVNUZ2BvsuyL2C) | 2:48 | 2023-09-28 | 2024-02-23 |
 | [Love & Toxic?](https://open.spotify.com/track/1Aj5Fennst2h7kTsZjgFUU) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Love & Toxic?](https://open.spotify.com/album/37vGTropk8VtKiysRQ4jko) | 2:06 | 2022-10-27 | 2022-12-09 |
 | [Love Me](https://open.spotify.com/track/6EAJ2CD93KYEbEeC3XrKOy) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:33 | 2022-04-28 | 2022-06-10 |
-| [Love Me](https://open.spotify.com/track/39PJOPBai7z0ugs7y3tjxM) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Love Me](https://open.spotify.com/album/36F9rdQ9TZxNyQqxvzYwXj) | 2:03 | 2024-05-23 |  |
+| [Love Me](https://open.spotify.com/track/39PJOPBai7z0ugs7y3tjxM) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Love Me](https://open.spotify.com/album/36F9rdQ9TZxNyQqxvzYwXj) | 2:03 | 2024-05-23 | 2024-08-13 |
 | [Love N Affection](https://open.spotify.com/track/4BEjyZGERmOFkZOSIgdoAn) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Love N Affection](https://open.spotify.com/album/1apurOf1HMNvY3kzGb3OgH) | 2:59 | 2022-04-28 | 2022-07-22 |
 | [Love you](https://open.spotify.com/track/5M3tQgs9ALYXBJewdTQENt) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Love you](https://open.spotify.com/album/1azC0GjXz6kFbJ5yLlAoWN) | 2:51 | 2023-06-22 | 2023-07-21 |
 | [Lover & Protector \(feat\. Shiro\)](https://open.spotify.com/track/0mSKldI7AFqqpRNPcP2cpf) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Lover & Protector \(feat\. Shiro\)](https://open.spotify.com/album/45x0RStfiSluKzjg2PJw4D) | 2:19 | 2023-08-24 | 2023-10-06 |

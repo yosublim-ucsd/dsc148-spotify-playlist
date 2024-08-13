@@ -259,22 +259,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "I Was A Sailor",
-        "url": "https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "I Was A Sailor",
-      "url": "https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Maskinen \u00e4r tillbaka",
         "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 139836,
       "name": "Maskinen \u00e4r tillbaka",
       "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "I Was A Sailor",
+        "url": "https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "I Was A Sailor",
+      "url": "https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Idioti",
-        "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
       },
       "artists": [
         {
-          "name": "noll2",
-          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
         }
       ],
-      "duration_ms": 193327,
-      "name": "Idioti",
-      "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
+      "duration_ms": 203339,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Idioti",
+        "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
+      },
+      "artists": [
+        {
+          "name": "noll2",
+          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
+        }
+      ],
+      "duration_ms": 193327,
+      "name": "Idioti",
+      "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Dansa runt problemen",
         "url": "https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 170083,
       "name": "Dansa runt problemen",
       "url": "https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
-      },
-      "artists": [
-        {
-          "name": "total tommy",
-          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
-        }
-      ],
-      "duration_ms": 203339,
-      "name": "REAL",
-      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Kyss mig snabbt i otakt",
+        "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "F\u00f6rlora",
+      "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Can't Forget",
         "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
       },
@@ -575,18 +591,26 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Kyss mig snabbt i otakt",
-        "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
+        "name": "Hils Din Mor (feat. Anne Linnet)",
+        "url": "https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe"
       },
       "artists": [
         {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+          "name": "Freja Kirk",
+          "url": "https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG"
+        },
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "Anne Linnet",
+          "url": "https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY"
         }
       ],
-      "duration_ms": 189613,
-      "name": "F\u00f6rlora",
-      "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
+      "duration_ms": 172998,
+      "name": "Hils Din Mor (feat. Anne Linnet)",
+      "url": "https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -623,30 +647,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Hils Din Mor (feat. Anne Linnet)",
-        "url": "https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe"
-      },
-      "artists": [
-        {
-          "name": "Freja Kirk",
-          "url": "https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG"
-        },
-        {
-          "name": "Silvana Imam",
-          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
-        },
-        {
-          "name": "Anne Linnet",
-          "url": "https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY"
-        }
-      ],
-      "duration_ms": 172998,
-      "name": "Hils Din Mor (feat. Anne Linnet)",
-      "url": "https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Out of My Mind",
         "url": "https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Empty the Bags",
+        "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Empty the Bags",
+      "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Fr\u00e4knar (500 dagar)",
         "url": "https://open.spotify.com/album/2O3LOCmrA39t1j8azoxKX0"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 304000,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Empty the Bags",
-        "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 153559,
-      "name": "Empty the Bags",
-      "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Crying Dove",
-        "url": "https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7"
-      },
-      "artists": [
-        {
-          "name": "Edgar Homeros",
-          "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
-        }
-      ],
-      "duration_ms": 158552,
-      "name": "Upset",
-      "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "\u00bfKan Du H\u00f6ra Det?",
         "url": "https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 231351,
       "name": "D\u00e4r Jag Fann Dig Sist",
       "url": "https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Crying Dove",
+        "url": "https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7"
+      },
+      "artists": [
+        {
+          "name": "Edgar Homeros",
+          "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
+        }
+      ],
+      "duration_ms": 158552,
+      "name": "Upset",
+      "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Arena",
+        "url": "https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "duration_ms": 238392,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Love Myself",
         "url": "https://open.spotify.com/album/4r7m1oNgT25nPU1v0GTbAP"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Arena",
-        "url": "https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq"
+        "name": "Might Destroy You",
+        "url": "https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe"
       },
       "artists": [
         {
-          "name": "Rebecca & Fiona",
-          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
         }
       ],
-      "duration_ms": 238392,
-      "name": "Arena",
-      "url": "https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4"
+      "duration_ms": 154500,
+      "name": "Might Destroy You",
+      "url": "https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Might Destroy You",
-        "url": "https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe"
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV"
       },
       "artists": [
         {
-          "name": "Hanne Mj\u00f8en",
-          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+          "name": "Fee van Deelen",
+          "url": "https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Might Destroy You",
-      "url": "https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP"
+      "duration_ms": 223676,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 169333,
       "name": "Snow In The Summer",
       "url": "https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV"
-      },
-      "artists": [
-        {
-          "name": "Fee van Deelen",
-          "url": "https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B"
-        }
-      ],
-      "duration_ms": 223676,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Slutscen",
-        "url": "https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ"
-      },
-      "artists": [
-        {
-          "name": "Galleriet",
-          "url": "https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7"
-        }
-      ],
-      "duration_ms": 187142,
-      "name": "Tillbaka till Stockholm",
-      "url": "https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Till h\u00e4lften m\u00e4nniska, till h\u00e4lften moderat",
         "url": "https://open.spotify.com/album/7M2UQRwp5YgXHE2PvMShgG"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 284917,
       "name": "Till h\u00e4lften m\u00e4nniska, till h\u00e4lften moderat",
       "url": "https://open.spotify.com/track/6X1QmXwBadartUpzhUfgjS"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Slutscen",
+        "url": "https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ"
+      },
+      "artists": [
+        {
+          "name": "Galleriet",
+          "url": "https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7"
+        }
+      ],
+      "duration_ms": 187142,
+      "name": "Tillbaka till Stockholm",
+      "url": "https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv"
-      },
-      "artists": [
-        {
-          "name": "Julia Logan",
-          "url": "https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/4BUh2zPQLBmXid1WIGx1YP"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 152068,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/2q4wXd7mYsZeCtDwQInAjJ"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv"
+      },
+      "artists": [
+        {
+          "name": "Julia Logan",
+          "url": "https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Jag dr\u00f6mmer mig fri",
-        "url": "https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Rasch",
-          "url": "https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh"
-        }
-      ],
-      "duration_ms": 191740,
-      "name": "Jag dr\u00f6mmer mig fri",
-      "url": "https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Jackrabbit",
         "url": "https://open.spotify.com/album/6hyRcNW7sC85JHhDE0krBe"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Djuret",
-        "url": "https://open.spotify.com/album/2K8ZMDwcEkGcBgYzsiTPOo"
+        "name": "Jag dr\u00f6mmer mig fri",
+        "url": "https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe"
       },
       "artists": [
         {
-          "name": "crescenterna",
-          "url": "https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh"
+          "name": "Gustaf Rasch",
+          "url": "https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh"
         }
       ],
-      "duration_ms": 269544,
-      "name": "Dig jag vill ha",
-      "url": "https://open.spotify.com/track/6MwtCgr9medMQc85XMAEp3"
+      "duration_ms": 191740,
+      "name": "Jag dr\u00f6mmer mig fri",
+      "url": "https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Dance Melancholia",
-        "url": "https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX"
+        "name": "Djuret",
+        "url": "https://open.spotify.com/album/2K8ZMDwcEkGcBgYzsiTPOo"
       },
       "artists": [
         {
-          "name": "Lucky Lou",
-          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+          "name": "crescenterna",
+          "url": "https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh"
         }
       ],
-      "duration_ms": 202134,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8"
+      "duration_ms": 269544,
+      "name": "Dig jag vill ha",
+      "url": "https://open.spotify.com/track/6MwtCgr9medMQc85XMAEp3"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 130000,
       "name": "I Miss My Adidas",
       "url": "https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Dance Melancholia",
+        "url": "https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lou",
+          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+        }
+      ],
+      "duration_ms": 202134,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V"
-      },
-      "artists": [
-        {
-          "name": "Lucky Lou",
-          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "NOSTALGI",
         "url": "https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 193421,
       "name": "ENERGI",
       "url": "https://open.spotify.com/track/0N5khQ2R2C9r6zUWj5Rgwl"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lou",
+          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy"
     },
     {
       "added_at": "2024-08-08 22:00:00",

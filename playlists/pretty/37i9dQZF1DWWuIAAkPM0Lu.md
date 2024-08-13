@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ..\. hej igen <a href="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr">Shawn Mendes</a> 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,939 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,954 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

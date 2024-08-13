@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Alessandro Cortini. The essential tracks, all in one playlist.",
+  "description": "This Is Alessandro Cortini. Los temas esenciales, todos en una lista.",
   "name": "This Is Alessandro Cortini",
   "tracks": [
     {
@@ -526,7 +526,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 270604,
       "name": "ECCO",
       "url": "https://open.spotify.com/track/37XnCTDFEs3K78dd0l722e"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 383599,
       "name": "Immediate Horizon 5",
       "url": "https://open.spotify.com/track/5XGszMhQLTPpMhvL5Q3EaU"

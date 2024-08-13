@@ -2,7 +2,7 @@
 
 ### [This Is Migos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MgT4c)
 
-> This is Migos\. The essential tracks, all in one playlist.
+> This is Migos\. Tutti i brani in un'unica playlist.
 
 71 songs - 4 hr 39 min
 

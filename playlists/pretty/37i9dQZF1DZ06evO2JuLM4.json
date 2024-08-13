@@ -1,12 +1,12 @@
 {
-  "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 113737,
+  "description": "This Is The White Stripes. Los temas esenciales, todos en una lista.",
+  "num_followers": 113750,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAADnEdKCi8RkboWkBM01+KyE",
+  "snapshot_id": "Zrf/AAAAAACCnWUBVlUGxKiNwNqlgPLp",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 114360,
-      "name": "When I Hear My Name",
-      "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
+      "duration_ms": 193693,
+      "name": "One More Cup of Coffee",
+      "url": "https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 193693,
-      "name": "One More Cup of Coffee",
-      "url": "https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6"
+      "duration_ms": 114360,
+      "name": "When I Hear My Name",
+      "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lafayette Blues",
-        "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
+        "name": "City Lights (Previously Unreleased)",
+        "url": "https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 135800,
-      "name": "Lafayette Blues",
-      "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
+      "duration_ms": 290693,
+      "name": "City Lights - Previously Unreleased",
+      "url": "https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "City Lights (Previously Unreleased)",
-        "url": "https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF"
+        "name": "Lafayette Blues",
+        "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 290693,
-      "name": "City Lights - Previously Unreleased",
-      "url": "https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh"
+      "duration_ms": 135800,
+      "name": "Lafayette Blues",
+      "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
     },
     {
       "added_at": null,

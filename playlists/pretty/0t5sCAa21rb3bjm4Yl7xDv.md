@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 ### [pop girl summer](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
-> your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Lana Del Rey; Nelly Furtado; Katy Perry
+> your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Gracie Abrams, Rêve, Olivia Rodrigo
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 80,126 likes - 100 songs - 5 hr 17 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 80,163 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 99 | [the me i was](https://open.spotify.com/track/5CPsaOIdRdBROb4dvIfKfM) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 3:00 |
 | 100 | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/track/1EsQXJmZYsrQJoCam6StOW) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/album/3azyEFtI48wqFlyWHG2Oxe) | 2:37 |
 
-Snapshot ID: `AAA5kKeMts6mVSJecPCWSKF1OMFVOT52`
+Snapshot ID: `AAA5kXOwkT3j24AIYd38lFF8upeKSv1u`

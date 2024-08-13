@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 
 > A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Omar Apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058 likes - 29 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063 likes - 29 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

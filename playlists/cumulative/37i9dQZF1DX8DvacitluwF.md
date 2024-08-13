@@ -4,7 +4,7 @@
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=nF\-fMVhOQiuvVIe8SYx7WQ>Elaine</a>
 
-297 songs - 15 hr 39 min
+298 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 | 2024-02-08 | 2024-06-14 |
 | [Bittersweet](https://open.spotify.com/track/1xVncI2PZc9wHHiThpnl6i) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [Bittersweet](https://open.spotify.com/album/4slWIbVvyPiIdaS8qnLjSj) | 2:06 | 2023-10-12 | 2024-01-26 |
 | [Blame Yourself](https://open.spotify.com/track/4Zxpy4Fy5U6AZC2WTEovDu) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Blame Yourself](https://open.spotify.com/album/6vTOLZuBKqosKg2lSUKcR6) | 4:09 | 2023-10-12 | 2023-10-20 |
+| [Blest](https://open.spotify.com/track/4LAO2eKtesEscel4u76ShJ) | [Yamiko](https://open.spotify.com/artist/6MafTIO7KWHWHXx1L39BDx) | [Rear View Mirror](https://open.spotify.com/album/7oVrQL1uzRnPL9wHmoNbXu) | 3:07 | 2024-08-12 |  |
 | [Blest](https://open.spotify.com/track/6qKllVNzmfdjDVQuzqiC2C) | [Yamiko](https://open.spotify.com/artist/6MafTIO7KWHWHXx1L39BDx) | [Blest](https://open.spotify.com/album/0Asli178nP9vJqeGXjrFW8) | 3:07 | 2024-05-09 |  |
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-08 |  |
 | [Blue Skies](https://open.spotify.com/track/2N764q9ENCgLLV1FBvIy00) | [Ava like Lava](https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk) | [Blue Skies](https://open.spotify.com/album/56RwXwctDE9KLYEJcO6EHV) | 3:25 | 2023-11-09 | 2024-03-22 |
@@ -260,7 +261,7 @@
 | [Sweet Nothing](https://open.spotify.com/track/2LZueKBZ9jGxsYBMueaR4R) | [Nalu](https://open.spotify.com/artist/591xpLmcojVwIHCiMVQ3dq) | [Sweet Nothing](https://open.spotify.com/album/0NbNpeeNiN6lr2O3I6C7y8) | 1:28 | 2023-10-12 | 2024-01-26 |
 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 | 2024-05-16 |  |
 | [Take It](https://open.spotify.com/track/60BmYE0G5451D7LwIqO7md) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Take It](https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn) | 2:30 | 2024-06-13 |  |
-| [Take Your Time](https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z) | [Daveny](https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [Sol](https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T) | 4:12 | 2024-04-04 |  |
+| [Take Your Time](https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z) | [Daveny](https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [Sol](https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T) | 4:12 | 2024-04-04 | 2024-08-13 |
 | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/track/00pWq1F4xyqPWPeo0hiUu8) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/album/11JX0v0Diz3q0FUpB12Q1b) | 2:53 | 2023-10-12 | 2024-03-15 |
 | [Tell No One](https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [KAIEN](https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip) | 3:40 | 2023-10-26 | 2024-03-15 |
 | [Temptation](https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Temptation](https://open.spotify.com/album/23cOEXHFZ7zDqZBd9fRSyY) | 2:22 | 2024-05-23 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Camila",
+  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: J Balvin",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -1872,6 +1872,24 @@
       "duration_ms": 157500,
       "name": "angels & demons",
       "url": "https://open.spotify.com/track/1WFL1a19LBG2rzUFejAX1V"
+    },
+    {
+      "album": {
+        "name": "The Los Angeles League Of Musicians",
+        "url": "https://open.spotify.com/album/5U9t87KHtkBcBb55Hds7e5"
+      },
+      "artists": [
+        {
+          "name": "LA LOM",
+          "url": "https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193752,
+      "name": "Angels Point",
+      "url": "https://open.spotify.com/track/2Of2KJ4JX2e6al6fp0fTP6"
     },
     {
       "album": {
@@ -4819,6 +4837,24 @@
     },
     {
       "album": {
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156440,
+      "name": "Cosa De Locos",
+      "url": "https://open.spotify.com/track/0X2S8zFvH2k84eQQCUPSeO"
+    },
+    {
+      "album": {
         "name": "LUV ALLERGIC",
         "url": "https://open.spotify.com/album/2GWvMroIa2HWucEPvpLw9R"
       },
@@ -6220,6 +6256,28 @@
       "duration_ms": 143935,
       "name": "DISPARA ***",
       "url": "https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB"
+    },
+    {
+      "album": {
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "Doblexx\u00f3",
+      "url": "https://open.spotify.com/track/2llFXBrftm6YJzBj3tpk0s"
     },
     {
       "album": {
@@ -12819,6 +12877,24 @@
     },
     {
       "album": {
+        "name": "The Los Angeles League Of Musicians",
+        "url": "https://open.spotify.com/album/5U9t87KHtkBcBb55Hds7e5"
+      },
+      "artists": [
+        {
+          "name": "LA LOM",
+          "url": "https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130918,
+      "name": "Lucia",
+      "url": "https://open.spotify.com/track/1vqczkrZaSG1z5ApGBUt86"
+    },
+    {
+      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -13034,6 +13110,24 @@
       "duration_ms": 176506,
       "name": "MAJIN BUU",
       "url": "https://open.spotify.com/track/6FJV85KORYOWb7czKCNFBk"
+    },
+    {
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Make You Feel It",
+      "url": "https://open.spotify.com/track/3xYK7AQZhAt6ier9n2bVC8"
     },
     {
       "album": {
@@ -13470,6 +13564,24 @@
       "duration_ms": 147750,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/1IGfld5xWP3kA5zVkWjMhb"
+    },
+    {
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98210,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
     },
     {
       "album": {
@@ -15757,6 +15869,24 @@
     },
     {
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208529,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/5fbdwmA3mVyuu8lMM7FlEu"
+    },
+    {
+      "album": {
         "name": "KITSUNE",
         "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
       },
@@ -17747,6 +17877,24 @@
     },
     {
       "album": {
+        "name": "Cutie Pie :3",
+        "url": "https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R"
+      },
+      "artists": [
+        {
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176975,
+      "name": "POCHACCO <3",
+      "url": "https://open.spotify.com/track/3Ls7wsFXKiD1b4bX81TG42"
+    },
+    {
+      "album": {
         "name": "Pedro El\u00edas",
         "url": "https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM"
       },
@@ -19125,6 +19273,24 @@
     },
     {
       "album": {
+        "name": "The Los Angeles League Of Musicians",
+        "url": "https://open.spotify.com/album/5U9t87KHtkBcBb55Hds7e5"
+      },
+      "artists": [
+        {
+          "name": "LA LOM",
+          "url": "https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237870,
+      "name": "Rebecca",
+      "url": "https://open.spotify.com/track/4WEV2GzTPMyLQW6NjBUgt9"
+    },
+    {
+      "album": {
         "name": "ser humano",
         "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
       },
@@ -19252,6 +19418,28 @@
       "duration_ms": 150314,
       "name": "REPEAT",
       "url": "https://open.spotify.com/track/0TV7rMZ42HNc3xTuMaLC0m"
+    },
+    {
+      "album": {
+        "name": "Cutie Pie :3",
+        "url": "https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R"
+      },
+      "artists": [
+        {
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        },
+        {
+          "name": "deadperrx",
+          "url": "https://open.spotify.com/artist/4ORqnU8vMpCkUZeE14ZEVm"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70400,
+      "name": "Restart",
+      "url": "https://open.spotify.com/track/0gNFoRwHfBUhsLsfs6lhiY"
     },
     {
       "album": {
@@ -20084,6 +20272,24 @@
       "duration_ms": 172137,
       "name": "Sexto sentido",
       "url": "https://open.spotify.com/track/1tVRJIZvcdVsfYX0H8jf56"
+    },
+    {
+      "album": {
+        "name": "Cutie Pie :3",
+        "url": "https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R"
+      },
+      "artists": [
+        {
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179596,
+      "name": "Shibari \u7dca\u7e1b",
+      "url": "https://open.spotify.com/track/7bJLcYJusVPXFR3xph2l44"
     },
     {
       "album": {
@@ -21402,6 +21608,24 @@
       "duration_ms": 251259,
       "name": "S\u00ed a la Vida",
       "url": "https://open.spotify.com/track/2z6VjaBUXUUSEbF6YJhwLL"
+    },
+    {
+      "album": {
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204453,
+      "name": "S\u00f3lido",
+      "url": "https://open.spotify.com/track/3ziGnIuyP5cxKvvkKqW2Ce"
     },
     {
       "album": {

@@ -4563,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "Hooked Paw",
+        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200378,
+      "name": "Hooked Paw",
+      "url": "https://open.spotify.com/track/5O0NtSxrPa8nNCMrPqyxrQ"
+    },
+    {
+      "album": {
         "name": "Hornworm Metamorphosis",
         "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
       },
@@ -8529,6 +8547,24 @@
     },
     {
       "album": {
+        "name": "Sky Hooks",
+        "url": "https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363483,
+      "name": "Sky Hooks",
+      "url": "https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC"
+    },
+    {
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -9842,7 +9878,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 414428,
       "name": "The Fireflies of Manhattan",
       "url": "https://open.spotify.com/track/036NC5OJuceMf9KmClMB5r"
@@ -10650,7 +10686,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 212319,
       "name": "Traversed",
       "url": "https://open.spotify.com/track/5Y8exvnvuYA24sEdo1d1TS"

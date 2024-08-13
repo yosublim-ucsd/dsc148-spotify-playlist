@@ -2,7 +2,7 @@
 
 ### [Templo do Rock](https://open.spotify.com/playlist/37i9dQZF1DWZ0BlvV9acBN)
 
-> Grandes sucessos e novidades do rock Cristão\. Foto: Novo Som
+> Grandes sucessos e novidades do rock Cristão\. Foto: Trazendo a Arca
 
 159 songs - 12 hr 19 min
 

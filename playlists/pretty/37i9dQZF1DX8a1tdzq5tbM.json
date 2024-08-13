@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1597345,
+  "num_followers": 1597529,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Pure... 90s Dance Party",
+        "url": "https://open.spotify.com/album/03awYMGLQWIlD1VyDwq1HF"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Pure... 90s Dance Party",
-        "url": "https://open.spotify.com/album/03awYMGLQWIlD1VyDwq1HF"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T"
     },
     {
       "added_at": "2024-07-12 15:40:20",

@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Gabriela",
-  "num_followers": 434610,
+  "num_followers": 434608,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "Sonora Sessions: Gabriel Nandes",
         "url": "https://open.spotify.com/album/2NWyCcCBNoxMHom6j01ous"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 188507,
       "name": "Voc\u00ea Mentiu",
       "url": "https://open.spotify.com/track/7bwie2qmIvmqGMk3adpAYK"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "Aonde quer que eu v\u00e1",
+        "url": "https://open.spotify.com/album/4zwiaQH7Lrc3SkTRW6vMZn"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 199145,
+      "name": "Aonde quer que eu v\u00e1",
+      "url": "https://open.spotify.com/track/0VHkTxEsIg0Jsa71est8gk"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "Massagem nas Costas",
         "url": "https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq"
       },
@@ -463,26 +479,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Dan\u00e7ando na Beira",
-        "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Dan\u00e7ando na Beira",
-      "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "Efeito Voc\u00ea",
         "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
       },
@@ -499,18 +495,22 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Aonde quer que eu v\u00e1",
-        "url": "https://open.spotify.com/album/4zwiaQH7Lrc3SkTRW6vMZn"
+        "name": "Dan\u00e7ando na Beira",
+        "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
       },
       "artists": [
         {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
         }
       ],
-      "duration_ms": 199145,
-      "name": "Aonde quer que eu v\u00e1",
-      "url": "https://open.spotify.com/track/0VHkTxEsIg0Jsa71est8gk"
+      "duration_ms": 163298,
+      "name": "Dan\u00e7ando na Beira",
+      "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "PLENA TER\u00c7A FEIRA",
         "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 187982,
       "name": "PLENA TER\u00c7A FEIRA",
       "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -903,6 +903,26 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "Noites De Monza",
+        "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 171311,
+      "name": "Noites De Monza",
+      "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "Dan\u00e7a Comigo",
         "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 244629,
       "name": "Como \u00e9 que se faz",
       "url": "https://open.spotify.com/track/5v6dcZq1rhA4m51X1x49c7"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
-        "name": "Noites De Monza",
-        "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 171311,
-      "name": "Noites De Monza",
-      "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Apressa",
-        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "Apressa",
-      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "Vem C\u00e1, Me Beija",
         "url": "https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "Apressa",
+        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "Apressa",
+      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "nada do que voc\u00ea falou",
         "url": "https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Cart\u00f5es Postais",
-        "url": "https://open.spotify.com/album/3dZsMCVQ2IrofYTC2MfE1y"
+        "name": "Sol de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
       },
       "artists": [
         {
-          "name": "Rafa Martins",
-          "url": "https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o"
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
         }
       ],
-      "duration_ms": 124212,
-      "name": "Cart\u00f5es Postais",
-      "url": "https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ"
+      "duration_ms": 174000,
+      "name": "Sol de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Sol de S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
+        "name": "Cart\u00f5es Postais",
+        "url": "https://open.spotify.com/album/3dZsMCVQ2IrofYTC2MfE1y"
       },
       "artists": [
         {
-          "name": "Jay Horsth",
-          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
+          "name": "Rafa Martins",
+          "url": "https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Sol de S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
+      "duration_ms": 124212,
+      "name": "Cart\u00f5es Postais",
+      "url": "https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
-      },
-      "artists": [
-        {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
-        }
-      ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "Entre o Nada e o Infinito",
         "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 175080,
       "name": "acende essa ponta",
       "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+      },
+      "artists": [
+        {
+          "name": "Karol Rib\u00ea",
+          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+        }
+      ],
+      "duration_ms": 206505,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "o que seria se...",
-        "url": "https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
-        }
-      ],
-      "duration_ms": 146339,
-      "name": "o que seria se...",
-      "url": "https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "me ama",
         "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 226461,
       "name": "me ama",
       "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "o que seria se...",
+        "url": "https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        }
+      ],
+      "duration_ms": 146339,
+      "name": "o que seria se...",
+      "url": "https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA"
     },
     {
       "added_at": "2024-08-09 14:39:16",

@@ -1,6 +1,6 @@
 {
   "description": "torya e mil fitas ",
-  "num_followers": 55470,
+  "num_followers": 55499,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-08-09 19:19:16",
       "album": {
-        "name": "Taurus, Vol. 2",
-        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 140208,
-      "name": "Big D!!!!! Pt. 2",
-      "url": "https://open.spotify.com/track/2Sb6RKbJkOKJcC4JAoeAaB"
-    },
-    {
-      "added_at": "2024-08-09 19:19:16",
-      "album": {
         "name": "100 Mili",
         "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 142153,
       "name": "100 Mili",
       "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
+    },
+    {
+      "added_at": "2024-08-09 19:19:16",
+      "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 140208,
+      "name": "Big D!!!!! Pt. 2",
+      "url": "https://open.spotify.com/track/2Sb6RKbJkOKJcC4JAoeAaB"
     },
     {
       "added_at": "2024-08-09 19:19:16",

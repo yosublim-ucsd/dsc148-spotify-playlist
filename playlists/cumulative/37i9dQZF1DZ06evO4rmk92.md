@@ -2,7 +2,7 @@
 
 ### [This Is Nat King Cole](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rmk92)
 
-> This is Nat King Cole\. The essential tracks, all in one playlist.
+> This Is Nat King Cole\. Los temas esenciales, todos en una lista.
 
 124 songs - 5 hr 57 min
 
@@ -51,7 +51,7 @@
 | [I'll Never Settle For Less](https://open.spotify.com/track/1KpyMJO4OAVD4bf4M9b2Zr) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [From The Capitol Vaults \(Vol\. 3\)](https://open.spotify.com/album/4z763lntNKfZ6VpnjSinS3) | 3:03 | 2024-06-13 | 2024-07-24 |
 | [I'm Lost](https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:29 | 2024-06-20 |  |
 | [I'm Shooting High](https://open.spotify.com/track/4LHPQgyAvtux1VrpPFLc5l) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [From The Capitol Vaults \(Vol\. 2\)](https://open.spotify.com/album/3Mvcr0H1sxHEeDL0ptc8Ad) | 1:33 | 2024-06-26 | 2024-06-27 |
-| [It's All In The Game](https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:07 | 2024-06-14 | 2024-07-23 |
+| [It's All In The Game](https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:07 | 2024-06-14 |  |
 | [It's Only A Paper Moon \- Live at the Blue Note Chicago](https://open.spotify.com/track/0IUcv1NGGMm2zyAdBgoEBz) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [It’s Only A Paper Moon \(Live at the Blue Note Chicago\)](https://open.spotify.com/album/1eTQYfWvXdvVXwD4XMuNDM) | 3:29 | 2024-06-13 | 2024-07-24 |
 | [Just One Of Those Things](https://open.spotify.com/track/07KWDsIcRU6r5Ej273QCY3) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Just One Of Those Things](https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek) | 2:15 | 2024-06-14 | 2024-07-19 |
 | [Just You, Just Me \- Remastered 1999](https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:02 | 2024-07-15 |  |
@@ -69,7 +69,7 @@
 | [Maria Elena](https://open.spotify.com/track/4MbMasQIFwpAvEakMntJwc) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:42 | 2024-06-19 | 2024-07-12 |
 | [Mean To Me](https://open.spotify.com/track/2h0pcrwhB7xIBWWHqz1W8f) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [Verve Jazz Masters 30: Lester Young](https://open.spotify.com/album/7hrhTcbKxRsaoupGakyCA7) | 4:13 | 2024-06-13 | 2024-07-24 |
 | [Mona Lisa](https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:14 | 2024-06-23 |  |
-| [My Kind Of Girl](https://open.spotify.com/track/3F4W9lrEsEcpVnlcGSBXb0) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 3:11 | 2024-06-13 |  |
+| [My Kind Of Girl](https://open.spotify.com/track/3F4W9lrEsEcpVnlcGSBXb0) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 3:11 | 2024-06-13 | 2024-08-13 |
 | [Nature Boy](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 | 2024-06-18 |  |
 | [Noche De Ronda](https://open.spotify.com/track/14r5VuEHs2S4H54yiYI1Sb) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:33 | 2024-06-19 | 2024-07-24 |
 | [Non Dimenticar](https://open.spotify.com/track/7eC0hWA0WSAaZvPM0t38lv) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:07 | 2024-06-13 | 2024-06-25 |

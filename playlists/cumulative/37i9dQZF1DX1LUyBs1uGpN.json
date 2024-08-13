@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 225034,
       "name": "Con Dinero Baila el Perro",
       "url": "https://open.spotify.com/track/6BLwiPtCG3OxqBpWQitbGR"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 211029,
       "name": "El 08 - En vivo",
       "url": "https://open.spotify.com/track/5CC0tPPBa6P5JYUGnhZfH7"
@@ -1529,6 +1529,28 @@
     },
     {
       "album": {
+        "name": "LOS CUADROS",
+        "url": "https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160409,
+      "name": "LOS CUADROS",
+      "url": "https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W"
+    },
+    {
+      "album": {
         "name": "Ah y Que?",
         "url": "https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29"
       },
@@ -2522,7 +2544,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 160341,
       "name": "Un Suspiro - En vivo",
       "url": "https://open.spotify.com/track/0Myw0C4kx7jl9nGxzlJDOw"

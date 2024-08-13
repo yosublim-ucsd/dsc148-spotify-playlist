@@ -1,12 +1,12 @@
 {
-  "description": "This is Gondwana. The essential tracks, all in one playlist.",
-  "num_followers": 82888,
+  "description": "This Is Gondwana. Los temas esenciales, todos en una lista.",
+  "num_followers": 82909,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAAAlYtUvMEC+s0GRLBgNAkhI",
+  "snapshot_id": "Zrf/AAAAAABzeSWzx+yOftwVLolCpMmF",
   "tracks": [
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
+        "name": "Could You Be Loved",
+        "url": "https://open.spotify.com/album/0dzaGDAdEAiuCeezX2COBK"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 200693,
-      "name": "M\u00e1rtires",
-      "url": "https://open.spotify.com/track/2dgC2dinAbcyHW15OLeSPB"
+      "duration_ms": 338653,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/4coC1sxorLlTOs26ppswjS"
     }
   ],
   "unique_name": "This Is Gondwana",

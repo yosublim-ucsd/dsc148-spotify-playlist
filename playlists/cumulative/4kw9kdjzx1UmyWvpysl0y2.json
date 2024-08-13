@@ -8999,6 +8999,32 @@
     },
     {
       "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/0upBLCWzxoULIoP6oiMNab"
+      },
+      "artists": [
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        },
+        {
+          "name": "Laminar",
+          "url": "https://open.spotify.com/artist/7KR2Kk6DSExT2gK5vDHgTr"
+        },
+        {
+          "name": "Purple Velvet Curtains",
+          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255172,
+      "name": "Movements",
+      "url": "https://open.spotify.com/track/7lMYRwvhweOmiuVfKFf0Sq"
+    },
+    {
+      "album": {
         "name": "Much Is Taken, Much Abides",
         "url": "https://open.spotify.com/album/2UxnkfVsG0Oz9Hrycjl0lZ"
       },

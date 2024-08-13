@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 404910,
+  "num_followers": 404959,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
-        "name": "True Colours",
-        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 143706,
-      "name": "True Colours",
-      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
-    },
-    {
-      "added_at": "2024-08-02 11:57:17",
-      "album": {
         "name": "Quelqu'un m'a dit",
         "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 168626,
       "name": "Quelqu'un m'a dit",
       "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"
+    },
+    {
+      "added_at": "2024-08-02 11:57:17",
+      "album": {
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 143706,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
     },
     {
       "added_at": "2024-08-02 11:57:17",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 203013,
-      "name": "Al Alba",
-      "url": "https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA"
-    },
-    {
-      "added_at": "2024-08-02 11:57:17",
-      "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 156000,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+    },
+    {
+      "added_at": "2024-08-02 11:57:17",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 203013,
+      "name": "Al Alba",
+      "url": "https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA"
     },
     {
       "added_at": "2024-08-02 11:57:17",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
+        "name": "Donde El Verano Seas T\u00fa",
+        "url": "https://open.spotify.com/album/4Pz72AICDOht0fzxkRYInb"
+      },
+      "artists": [
+        {
+          "name": "Belapalma",
+          "url": "https://open.spotify.com/artist/3Pi1Q9bVKMJRc9mM80kwTY"
+        }
+      ],
+      "duration_ms": 154624,
+      "name": "Donde El Verano Seas T\u00fa",
+      "url": "https://open.spotify.com/track/278SoIuUjZ2w2IcRSPjbwm"
+    },
+    {
+      "added_at": "2024-08-02 11:57:17",
+      "album": {
         "name": "C'est La Cr\u00e8me",
         "url": "https://open.spotify.com/album/440qCEfkxCZnxuQu1KK8iA"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 157543,
       "name": "C'est La Cr\u00e8me",
       "url": "https://open.spotify.com/track/64hn78Rht6qWoxXq47H66U"
-    },
-    {
-      "added_at": "2024-08-02 11:57:17",
-      "album": {
-        "name": "Donde El Verano Seas T\u00fa",
-        "url": "https://open.spotify.com/album/4Pz72AICDOht0fzxkRYInb"
-      },
-      "artists": [
-        {
-          "name": "Belapalma",
-          "url": "https://open.spotify.com/artist/3Pi1Q9bVKMJRc9mM80kwTY"
-        }
-      ],
-      "duration_ms": 154624,
-      "name": "Donde El Verano Seas T\u00fa",
-      "url": "https://open.spotify.com/track/278SoIuUjZ2w2IcRSPjbwm"
     },
     {
       "added_at": "2024-08-02 11:57:17",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
-        "name": "_BCN626",
-        "url": "https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA"
-      },
-      "artists": [
-        {
-          "name": "_juno",
-          "url": "https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "_El Infinito",
-      "url": "https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB"
-    },
-    {
-      "added_at": "2024-08-02 11:57:17",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 252293,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
+    },
+    {
+      "added_at": "2024-08-02 11:57:17",
+      "album": {
+        "name": "_BCN626",
+        "url": "https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA"
+      },
+      "artists": [
+        {
+          "name": "_juno",
+          "url": "https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "_El Infinito",
+      "url": "https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB"
     },
     {
       "added_at": "2024-08-02 11:57:17",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
+        "name": "La desped\u00eda",
+        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
+      },
+      "artists": [
+        {
+          "name": "Maestro Espada",
+          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+        }
+      ],
+      "duration_ms": 212486,
+      "name": "La desped\u00eda",
+      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
+    },
+    {
+      "added_at": "2024-08-02 11:57:17",
+      "album": {
         "name": "Ojos de Miel",
         "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 202886,
       "name": "Ojos de Miel",
       "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
-    },
-    {
-      "added_at": "2024-08-02 11:57:17",
-      "album": {
-        "name": "La desped\u00eda",
-        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
-      },
-      "artists": [
-        {
-          "name": "Maestro Espada",
-          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
-        }
-      ],
-      "duration_ms": 212486,
-      "name": "La desped\u00eda",
-      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
     },
     {
       "added_at": "2024-08-02 11:57:17",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2024-08-02 11:57:17",
       "album": {
-        "name": "Ad\u00e9lia",
-        "url": "https://open.spotify.com/album/2pSIXz2becSFLT1KfHgNaQ"
+        "name": "podr\u00eda ser peor",
+        "url": "https://open.spotify.com/album/4RxERCRdu06M7oZGpXtjGc"
       },
       "artists": [
         {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        },
-        {
-          "name": "HA\u0112MA",
-          "url": "https://open.spotify.com/artist/2XhPH41LVitp1CM3NS5pzw"
+          "name": "BETTO",
+          "url": "https://open.spotify.com/artist/46DWAlMe8Lb5IvUkvyLNHO"
         }
       ],
-      "duration_ms": 258066,
-      "name": "Ad\u00e9lia",
-      "url": "https://open.spotify.com/track/2sGSEql9SuT6cdRTDN5TQ6"
+      "duration_ms": 194693,
+      "name": "podr\u00eda ser peor",
+      "url": "https://open.spotify.com/track/0qoh3liuosnhbSW4kXeuCt"
     }
   ],
   "unique_name": "Relax en casa",

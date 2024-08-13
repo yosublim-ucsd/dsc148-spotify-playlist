@@ -411,6 +411,28 @@
     },
     {
       "album": {
+        "name": "can you / hai kyun",
+        "url": "https://open.spotify.com/album/5Mzxo6zj8XO6GUESDoSheH"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188461,
+      "name": "can you / hai kyun",
+      "url": "https://open.spotify.com/track/6vuxf3pKSpeClE6ONnh1yt"
+    },
+    {
+      "album": {
         "name": "Chaand Baaliyan",
         "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
       },
@@ -668,7 +690,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 208346,
       "name": "Do Kadam",
       "url": "https://open.spotify.com/track/0GN8vE4lQHbU1Npof7bJEP"

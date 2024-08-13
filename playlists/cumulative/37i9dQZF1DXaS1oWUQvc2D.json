@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Afrika",
+        "url": "https://open.spotify.com/album/7bQvVx0WPWEeJlcmXDIPRp"
+      },
+      "artists": [
+        {
+          "name": "Amine K",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        },
+        {
+          "name": "Elisa Elisa",
+          "url": "https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379512,
+      "name": "Afrika",
+      "url": "https://open.spotify.com/track/793VRQJURRNkl9Aw6niPF4"
+    },
+    {
+      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -218,7 +240,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 400000,
       "name": "Caravans",
       "url": "https://open.spotify.com/track/4aUsG52cGWHK3WPBfGXtRv"
@@ -394,7 +416,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 460487,
       "name": "DPCT 2",
       "url": "https://open.spotify.com/track/6QTwC4i8NtzoqcEojPBGk5"
@@ -434,10 +456,32 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 391632,
       "name": "Dream Drums - Joeski Remix",
       "url": "https://open.spotify.com/track/13mPVxLSUeGeJx2x1zr0Am"
+    },
+    {
+      "album": {
+        "name": "El Helwa Di (Rework)",
+        "url": "https://open.spotify.com/album/7H5sSerd6eq5IKumqSeRhY"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Ranya Chaibi",
+          "url": "https://open.spotify.com/artist/17s45AjjnkFg8rhWf7D6Xw"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "El Helwa Di (Rework) - Radio Edit",
+      "url": "https://open.spotify.com/track/503lk9KjCqeOBm7A4ZYwhS"
     },
     {
       "album": {
@@ -504,6 +548,32 @@
       "duration_ms": 413114,
       "name": "Faith",
       "url": "https://open.spotify.com/track/7MGsIDiAEon9K26qP8DvOy"
+    },
+    {
+      "album": {
+        "name": "Fufu",
+        "url": "https://open.spotify.com/album/1M52oI1CgGJtnMkqR1Rm0C"
+      },
+      "artists": [
+        {
+          "name": "Dj G\u00e1lio",
+          "url": "https://open.spotify.com/artist/5kEAI09rkVpxUw2epuXRwP"
+        },
+        {
+          "name": "DJ Satelite",
+          "url": "https://open.spotify.com/artist/3Jbb0CKTNea0vdoBVrXaYk"
+        },
+        {
+          "name": "J\u00e9ssica Gaspar",
+          "url": "https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Fufu",
+      "url": "https://open.spotify.com/track/0R5uhGKtmnyDPV5i2oGnKo"
     },
     {
       "album": {
@@ -578,7 +648,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 400742,
       "name": "Huma Kusu - Afro House Mix",
       "url": "https://open.spotify.com/track/39kdpoI2iylnrlAcMMARbY"
@@ -726,7 +796,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 212000,
       "name": "Kabe",
       "url": "https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe"
@@ -760,6 +830,32 @@
       "duration_ms": 401797,
       "name": "Kibo - Mr ID Remix",
       "url": "https://open.spotify.com/track/0ZHX59bDXNHNEQucqqLV2e"
+    },
+    {
+      "album": {
+        "name": "Koroka",
+        "url": "https://open.spotify.com/album/51ShgTXZRuZHYetGxNL7um"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        },
+        {
+          "name": "Carlos Francisco",
+          "url": "https://open.spotify.com/artist/1Ky6well8n2fv6JPH2tctW"
+        },
+        {
+          "name": "Jaky Amir",
+          "url": "https://open.spotify.com/artist/77k4qNxIEMhWp75B91MZzd"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441000,
+      "name": "Koroka",
+      "url": "https://open.spotify.com/track/4aCdbqifVuBmNnuQtVhw8m"
     },
     {
       "album": {
@@ -889,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Inner Garden",
+        "url": "https://open.spotify.com/album/4rEjnd8qd8PlC4kxeAKa7q"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429496,
+      "name": "Luv",
+      "url": "https://open.spotify.com/track/3s1PDBaZIbv57b4FyqcMHy"
+    },
+    {
+      "album": {
         "name": "Ma libert\u00e9",
         "url": "https://open.spotify.com/album/6KtSkPSgENj6VOoxkqVIiO"
       },
@@ -969,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "Massar",
+        "url": "https://open.spotify.com/album/6at2ih37ZWRlEqXgtM9LqO"
+      },
+      "artists": [
+        {
+          "name": "Adwas",
+          "url": "https://open.spotify.com/artist/3OtnUwnj5pRWmr8hvE0aS4"
+        },
+        {
+          "name": "Tony L Issac",
+          "url": "https://open.spotify.com/artist/525L1gtqbrlklwKaKvxNSe"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414640,
+      "name": "Massar",
+      "url": "https://open.spotify.com/track/0dSCoXyr9aRYNaOOozWCCt"
+    },
+    {
+      "album": {
         "name": "Midnight Jazz Journey",
         "url": "https://open.spotify.com/album/02RzzNgcNPQs5raGXmmPgD"
       },
@@ -1014,7 +1150,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 628951,
       "name": "Mirror Dance - Yoruba Soul Remix (feat. OVEOUS)",
       "url": "https://open.spotify.com/track/1NKGT2EEepzjlahYov1NDW"
@@ -1249,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/0vuCsiunpnEscT9okOp9KK"
+      },
+      "artists": [
+        {
+          "name": "Masaki Morii",
+          "url": "https://open.spotify.com/artist/3wumvz83FrtgSBu4Ijjz9s"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351219,
+      "name": "Real Thing - Main Mix",
+      "url": "https://open.spotify.com/track/01tKjJ8LL2rEjXaurtNYL5"
+    },
+    {
+      "album": {
         "name": "Red Rios",
         "url": "https://open.spotify.com/album/6TFZserJ12Q5AzOfA0iYej"
       },
@@ -1304,7 +1458,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 358000,
       "name": "Rising",
       "url": "https://open.spotify.com/track/5hnRg0Gylxn3yexge2fk3F"
@@ -1363,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Side Of Me",
+        "url": "https://open.spotify.com/album/3aaQaKAZnbyAT0Ak3DrbbW"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334976,
+      "name": "Side Of Me - Original Mix",
+      "url": "https://open.spotify.com/track/28jy6BqxRUzHqUySv5DLYG"
+    },
+    {
+      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1404,6 +1576,24 @@
       "duration_ms": 454192,
       "name": "Solace - Armonica Remix",
       "url": "https://open.spotify.com/track/17CiDJp5YcOUbM54KPGJg0"
+    },
+    {
+      "album": {
+        "name": "Sometimes It Hurts",
+        "url": "https://open.spotify.com/album/4dwebbvM41Ut5kZValt7Xz"
+      },
+      "artists": [
+        {
+          "name": "Boddhi Satva",
+          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377142,
+      "name": "Sometimes It Hurts - Main Mix",
+      "url": "https://open.spotify.com/track/4vMBAgp2x6J5T4tRrvrF7F"
     },
     {
       "album": {
@@ -1478,7 +1668,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7"
@@ -1658,7 +1848,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 449508,
       "name": "We Are African",
       "url": "https://open.spotify.com/track/1i6D4eYlOpLpeHGLW0R5bN"
@@ -1684,7 +1874,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 422000,
       "name": "WELE WELE",
       "url": "https://open.spotify.com/track/7h2XSRLTwmgiCdYAwWmsEi"
@@ -1710,6 +1900,32 @@
       "duration_ms": 372000,
       "name": "Weyna - Mr. ID Remix",
       "url": "https://open.spotify.com/track/3Wu2QwPsoVn8MHOXMhYYH4"
+    },
+    {
+      "album": {
+        "name": "Yara",
+        "url": "https://open.spotify.com/album/4iipxXHRMIQbDZj2RBPRaF"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212231,
+      "name": "Yara",
+      "url": "https://open.spotify.com/track/0ahreZE7HlAcG4UguRmjnV"
     },
     {
       "album": {

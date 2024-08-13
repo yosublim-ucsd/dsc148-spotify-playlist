@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMDiBV8toZi.md) - [plain]
 
 > Artists recording in Coke Studio at Spotify LA\. Cover: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 695 likes - 29 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 721 likes - 29 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

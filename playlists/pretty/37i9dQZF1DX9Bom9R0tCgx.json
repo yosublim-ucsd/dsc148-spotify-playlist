@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 387780,
+  "num_followers": 387825,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "My Girl (with Da Tweekaz)",
-        "url": "https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 190525,
-      "name": "My Girl (with Da Tweekaz)",
-      "url": "https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 163147,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "My Girl (with Da Tweekaz)",
+        "url": "https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 190525,
+      "name": "My Girl (with Da Tweekaz)",
+      "url": "https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "DARK MATTER",
+        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "P.I.M.P. - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 179555,
       "name": "Move",
       "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "DARK MATTER",
-        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "P.I.M.P. - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Rave Generator",
-        "url": "https://open.spotify.com/album/2GFWUP3aHHxvCAXDKP7cNf"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 112499,
-      "name": "Rave Generator",
-      "url": "https://open.spotify.com/track/25Mloe1yvLqjNDIpi7dtfd"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Rave Generator",
+        "url": "https://open.spotify.com/album/2GFWUP3aHHxvCAXDKP7cNf"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 112499,
+      "name": "Rave Generator",
+      "url": "https://open.spotify.com/track/25Mloe1yvLqjNDIpi7dtfd"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
+        }
+      ],
+      "duration_ms": 192643,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 192390,
       "name": "GASOLINA & COCAINA",
       "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "KAJAK",
-          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
-        }
-      ],
-      "duration_ms": 192643,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "New Generation (Space 92 Remix)",
-        "url": "https://open.spotify.com/album/77RCWyzeOsqkIH0QFNdrjH"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 235111,
-      "name": "New Generation - Space 92 Remix",
-      "url": "https://open.spotify.com/track/5R83UKYem3OpSmWCvE3Yax"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Run (Part 1)",
         "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 135085,
       "name": "Run (Part 1)",
       "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "New Generation (Space 92 Remix)",
+        "url": "https://open.spotify.com/album/77RCWyzeOsqkIH0QFNdrjH"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 235111,
+      "name": "New Generation - Space 92 Remix",
+      "url": "https://open.spotify.com/track/5R83UKYem3OpSmWCvE3Yax"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Animal (with Jason Derulo) [R3HAB VIP Remix]",
-        "url": "https://open.spotify.com/album/6DES4HtkY6IHlsHFSf4dff"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Animal (R3HAB VIP Remix)",
-      "url": "https://open.spotify.com/track/3K25KGPo19Sa9PGaaHXj1E"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Don't Tell Me",
         "url": "https://open.spotify.com/album/2KadoM6f5oT6yXrLBpqZG3"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 130700,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Animal (with Jason Derulo) [R3HAB VIP Remix]",
+        "url": "https://open.spotify.com/album/6DES4HtkY6IHlsHFSf4dff"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Animal (R3HAB VIP Remix)",
+      "url": "https://open.spotify.com/track/3K25KGPo19Sa9PGaaHXj1E"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1999,26 +1999,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "One Night In Bangkok 2K23 (The Ultimate Remixes)",
-        "url": "https://open.spotify.com/album/31gy6l39adSklojfefXZCB"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Vinylshakerz",
-          "url": "https://open.spotify.com/artist/7g7uwd4PAs7J3PgiKUx47q"
-        }
-      ],
-      "duration_ms": 207815,
-      "name": "One Night in Bangkok 2K23 - Da Tweekaz 2K23 Remix",
-      "url": "https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 136800,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "One Night In Bangkok 2K23 (The Ultimate Remixes)",
+        "url": "https://open.spotify.com/album/31gy6l39adSklojfefXZCB"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Vinylshakerz",
+          "url": "https://open.spotify.com/artist/7g7uwd4PAs7J3PgiKUx47q"
+        }
+      ],
+      "duration_ms": 207815,
+      "name": "One Night in Bangkok 2K23 - Da Tweekaz 2K23 Remix",
+      "url": "https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9"
     }
   ],
   "unique_name": "Bass Explosion",

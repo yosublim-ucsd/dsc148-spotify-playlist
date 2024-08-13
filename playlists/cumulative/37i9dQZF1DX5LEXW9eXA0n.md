@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Hwang In Wook\(황인욱\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: DOYOUNG\(도영\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,287 songs - 3 day 11 hr 16 min
+1,288 songs - 3 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Delete my Instagram](https://open.spotify.com/track/1KXe7hvrMtKZUDUqk7ybO6) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Delete my Instagram](https://open.spotify.com/album/62lnPPSUA9QychTPkVvDkq) | 3:42 | 2024-06-25 |  |
 | [Delusion](https://open.spotify.com/track/4wPkbwbfLXp5bxcXIChEwZ) | [Bubble Sisters](https://open.spotify.com/artist/1jZ9R8RNpwVBJTf8Qg96a7) | [Delusion](https://open.spotify.com/album/3Gwv2xWkC0H7EXBTDVwVNE) | 3:24 | 2022-11-09 | 2023-01-12 |
 | [Departure from a Country](https://open.spotify.com/track/3FC6OK2Nvs35Y34fcRb1Ro) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/41rnXi6HnsKF5ueUEqr7uz) | 4:17 | 2022-07-07 | 2022-08-02 |
+| [Desire And Hope \(Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family\)](https://open.spotify.com/track/1Ag5qTEW7daPrRNgQESisT) | [HAEUN](https://open.spotify.com/artist/0WKfT4co6LsEBQr7Gmype2) | [Desire And Hope \(Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family\)](https://open.spotify.com/album/2HXglsCZnqJU8W1qd6cER8) | 3:32 | 2024-08-12 |  |
 | [Desire to fly](https://open.spotify.com/track/3G81cFKifTjjBeLYUoG5bK) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Desire to fly](https://open.spotify.com/album/5L4p78XkHQI4q5rE7kt9Yo) | 4:45 | 2024-03-05 | 2024-07-12 |
 | [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 | 2022-04-12 | 2022-05-02 |
 | [Diamond](https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Diamond](https://open.spotify.com/album/58T3Mkgs37IjcximP129MP) | 2:59 | 2023-05-31 | 2023-10-20 |

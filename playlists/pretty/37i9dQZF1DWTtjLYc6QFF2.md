@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно з DOROFEEVA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,016 likes - 55 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,028 likes - 55 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 3 | [тимчасунки](https://open.spotify.com/track/3iUX8GPWS5FccR8Ws9KWAk) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [Легкий спосіб кинути хлопця](https://open.spotify.com/album/7rd9JdGUjUJ9WlAL4UmjhU) | 3:01 |
 | 4 | [INK](https://open.spotify.com/track/0SxhzN44jb0le5jALJWNiL) | [Ann Kovtun](https://open.spotify.com/artist/6JdwWVgnkKfh2MSRkwSxAU) | [INK](https://open.spotify.com/album/0Y9dI11AUtd7idIlu7mPMp) | 2:42 |
 | 5 | [Край](https://open.spotify.com/track/1h92eQvebVmpZWq9tvrFph) | [Zbudny Chas](https://open.spotify.com/artist/7eJIUDspwxkaK4d9XZL8Ew) | [Край](https://open.spotify.com/album/1BqjkSw9I0WhPPhVrNOQtH) | 3:18 |
-| 6 | [Тривожний \- Extended Version](https://open.spotify.com/track/53L7piP2u0T0dzHjCruVBq) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Тривожний \(Extended Version\)](https://open.spotify.com/album/4F8FsgjxiK2Mxcz29h96mZ) | 2:43 |
+| 6 | [Тривожний](https://open.spotify.com/track/53L7piP2u0T0dzHjCruVBq) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Тривожний](https://open.spotify.com/album/4F8FsgjxiK2Mxcz29h96mZ) | 2:43 |
 | 7 | [Неймовірно тонка](https://open.spotify.com/track/0AA74JKFRsdzHhn3lggX4p) | [INGRET](https://open.spotify.com/artist/43Gc9czfpJK1ijNMPOCtYy) | [Неймовірно тонка](https://open.spotify.com/album/6my1K6UekghuCoude69cg7) | 3:09 |
 | 8 | [Не твоя](https://open.spotify.com/track/1v0SdslDkgcIsER5f7ZctC) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Не твоя](https://open.spotify.com/album/7CJAkMzJ9jNKT2zvGts4em) | 2:33 |
 | 9 | [Фрази](https://open.spotify.com/track/5oJUZo3OtEf612J33mWimE) | [ruda](https://open.spotify.com/artist/4NVitLfCHmp87MvKswyEdS) | [Фрази](https://open.spotify.com/album/4WVMl58iRT8dMLyovMvZ4Q) | 3:18 |

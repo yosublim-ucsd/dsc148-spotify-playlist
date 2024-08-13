@@ -2,7 +2,7 @@
 
 ### [pop girl summer](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
-> your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Lana Del Rey; Nelly Furtado; Katy Perry
+> your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Gracie Abrams, Rêve, Olivia Rodrigo
 
 378 songs - 19 hr 36 min
 

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-988 songs - 2 day 12 hr 39 min
+990 songs - 2 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Candles on Fire!](https://open.spotify.com/track/0xwB2I5hGwAqjwPufvKtnc) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 2:47 | 2021-06-17 |  |
 | [Can’t You See?](https://open.spotify.com/track/0yhgvAeS6799TbQYnlZaP0) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 3:57 | 2021-05-02 |  |
 | [Car Radio](https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:27 | 2022-08-25 |  |
+| [Carbon Capture](https://open.spotify.com/track/3mhwZ4UDrfyW3ZyrGvAH04) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1CYU3DuCTjz4IkthZBr6cY) | 3:49 | 2024-08-12 |  |
 | [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-10 | 2024-05-20 |
 | [Caroline](https://open.spotify.com/track/5oh0cTsuZsoZvvergtl1kf) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Caroline](https://open.spotify.com/album/1LOnzHE50Oo70P4zaKDSOP) | 3:28 | 2021-09-25 |  |
 | [cassini's division](https://open.spotify.com/track/1eb55iDkYFqbPQ3dDWSUjv) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Thor Harris](https://open.spotify.com/artist/4Td98UbNadNYhS8LnMsgBQ) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 8:16 | 2022-11-11 |  |
@@ -704,6 +705,7 @@
 | [Saint Pablo](https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:12 | 2022-03-17 |  |
 | [Sasà](https://open.spotify.com/track/4uvahxJ5WfmfPf4bmEjgHc) | [Oro](https://open.spotify.com/artist/1hY5l4zl5QFXfIJU9XHtaL) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 3:42 | 2023-11-01 |  |
 | [Satellite](https://open.spotify.com/track/3VzxWfP2YFDYJUCPtKt9Ob) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 2:59 | 2023-05-03 |  |
+| [Satellite](https://open.spotify.com/track/5bW2vSniuAqxj4BW6O0DmD) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Easy Listening](https://open.spotify.com/album/7tC9rKANwW84UPxA22zbzo) | 2:59 | 2024-08-12 |  |
 | [Savior](https://open.spotify.com/track/0YeUVm23SAkUruwEx9LWnt) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:44 | 2022-06-28 |  |
 | [Savior \- Interlude](https://open.spotify.com/track/5PPUw4Xo3Hz6rl4GpBfd3c) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 2:32 | 2022-08-05 |  |
 | [sAy sOMETHINg](https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:32 | 2023-01-29 |  |

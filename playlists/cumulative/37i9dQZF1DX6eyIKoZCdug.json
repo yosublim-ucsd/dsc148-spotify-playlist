@@ -3061,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "Nothing That I Need",
+        "url": "https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo"
+      },
+      "artists": [
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "Nothing That I Need",
+      "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
+    },
+    {
+      "album": {
         "name": "Ntinga Ntaka",
         "url": "https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa"
       },
@@ -5040,6 +5058,32 @@
       "duration_ms": 168813,
       "name": "Wachanare",
       "url": "https://open.spotify.com/track/3unesh2n8SaQlF9MxeNVpR"
+    },
+    {
+      "album": {
+        "name": "Wachanare (Candy Man Remix)",
+        "url": "https://open.spotify.com/album/5NChZ4TURcPyRaXwZyMne1"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6NI",
+          "url": "https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Candy Man",
+          "url": "https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260528,
+      "name": "Wachanare - Candy Man Remix",
+      "url": "https://open.spotify.com/track/18BU7p31dZIUHXv1o6oWHi"
     },
     {
       "album": {

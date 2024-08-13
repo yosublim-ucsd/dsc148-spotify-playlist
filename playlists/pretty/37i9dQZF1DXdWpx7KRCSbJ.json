@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 334490,
+  "num_followers": 334473,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Acordando o Pr\u00e9dio",
-        "url": "https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 218467,
-      "name": "Acordando o Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/40bK2uosUmAS92c17n98xd"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 277125,
       "name": "Cheia de Manias - Ao Vivo",
       "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Acordando o Pr\u00e9dio",
+        "url": "https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 218467,
+      "name": "Acordando o Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/40bK2uosUmAS92c17n98xd"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Terra Sem Cep (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 177380,
-      "name": "Terra Sem CEP - Ao Vivo",
-      "url": "https://open.spotify.com/track/2U94QDSo9N4e1iXrjo7KAB"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/3TgRfu57g7p1rrmLs6X3Dv"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 179933,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/2cV8V9eV79HWJHD4jNQHqq"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Terra Sem Cep (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 177380,
+      "name": "Terra Sem CEP - Ao Vivo",
+      "url": "https://open.spotify.com/track/2U94QDSo9N4e1iXrjo7KAB"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 195569,
+      "name": "S\u00f3 Vem! - Ao Vivo",
+      "url": "https://open.spotify.com/track/4bXwQ9ZcMjoN28b4J9bykr"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
         "url": "https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 178960,
       "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
       "url": "https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 195569,
-      "name": "S\u00f3 Vem! - Ao Vivo",
-      "url": "https://open.spotify.com/track/4bXwQ9ZcMjoN28b4J9bykr"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1123,6 +1123,22 @@
       "duration_ms": 172173,
       "name": "Sou Favela",
       "url": "https://open.spotify.com/track/6VcaTmR9UhOuZD7aNNilOV"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Tardezinha 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H3Pd9vGhDAp9bt3JWUgCA"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 243605,
+      "name": "Pot-Pourri: Outdoor / Curtindo a Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/2xl2TBSYbuUm46UXwPKK1g"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Tardezinha 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H3Pd9vGhDAp9bt3JWUgCA"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 243605,
-      "name": "Pot-Pourri: Outdoor / Curtindo a Vida - Ao Vivo",
-      "url": "https://open.spotify.com/track/2xl2TBSYbuUm46UXwPKK1g"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Deixa Eu Te Fazer Feliz",
         "url": "https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Pirata e tesouro (Ao vivo)",
-        "url": "https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 219592,
-      "name": "Pirata e tesouro - Ao vivo",
-      "url": "https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Qualidade De Vida (Ao Vivo)",
         "url": "https://open.spotify.com/album/2zfqph70lkdj2EXP6IzrZq"
       },
@@ -1307,6 +1291,26 @@
       "duration_ms": 154417,
       "name": "Qualidade De Vida - Ao Vivo",
       "url": "https://open.spotify.com/track/5Wmg5LPPJnbMsKA9fthM3l"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Contatinho (feat. Luan Santana)",
+        "url": "https://open.spotify.com/album/2HYVLeXZVCgSTrwBxtV9za"
+      },
+      "artists": [
+        {
+          "name": "Nego do Borel",
+          "url": "https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Contatinho (feat. Luan Santana)",
+      "url": "https://open.spotify.com/track/47zBTlbsiXs9ooyPo7Z7VT"
     }
   ],
   "unique_name": "Festa na Piscina",

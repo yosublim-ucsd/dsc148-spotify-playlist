@@ -1,12 +1,12 @@
 {
   "description": "Beautiful instrumental music to keep you in the flow as you code or study. An ideal playlist for programming during stressful times --- | program | programmer | software | software engineer | computer science | concentrate | concentration | focusing |",
-  "num_followers": 18764,
+  "num_followers": 18767,
   "original_name": "CODING FOCUS",
   "owner": {
     "name": "IW Music",
     "url": "https://open.spotify.com/user/ikwong1979"
   },
-  "snapshot_id": "AAAk2f0+dKobgj4dgQ7rxXHeXaz8ZMbM",
+  "snapshot_id": "AAAk2ob4eUzhqRDNR4eq9MMzv7t8wXjB",
   "tracks": [
     {
       "added_at": "2024-02-12 06:27:00",
@@ -1399,6 +1399,38 @@
       "duration_ms": 60258,
       "name": "Everything",
       "url": "https://open.spotify.com/track/0zkm8mrM0MfeglZn50dCBw"
+    },
+    {
+      "added_at": "2024-08-12 14:07:12",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0BscjaQOywRRdexCGE9FaY"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "duration_ms": 60252,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/0n9pWyu8skiljYbfjppYDi"
+    },
+    {
+      "added_at": "2024-08-12 14:07:12",
+      "album": {
+        "name": "Calming",
+        "url": "https://open.spotify.com/album/0k1djjFgglB3z3S28ad36c"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "duration_ms": 60362,
+      "name": "Calming",
+      "url": "https://open.spotify.com/track/3XKnpSnQ3CoHMUcDPrVhY4"
     },
     {
       "added_at": "2024-02-21 14:35:38",

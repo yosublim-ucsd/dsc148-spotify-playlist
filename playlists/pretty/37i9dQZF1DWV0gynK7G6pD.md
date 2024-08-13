@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Isata Kanneh\-Mason.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,490 likes - 72 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,521 likes - 72 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

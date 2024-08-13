@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
 
-671 songs - 1 day 11 hr 58 min
+672 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [BIG SMALL BUSINESS](https://open.spotify.com/track/1fbbMX7XyYqGCWyrY1MSKm) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [BIG SMALL BUSINESS](https://open.spotify.com/album/1lA0feIJJeQKEzTCbkHFcr) | 2:02 | 2022-06-24 | 2022-07-02 |
 | [Big Steppa](https://open.spotify.com/track/7F4W2OMucMWyC9LewpsCX0) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Big Steppa](https://open.spotify.com/album/35ZiUwGPSNxSSMVbt8WSgr) | 4:01 | 2021-09-03 | 2022-06-14 |
 | [Bing Bong \(feat\. Fat Joe, Busta Rhymes & Styles P\) \- Remix](https://open.spotify.com/track/5TMiDIESljV4K7yCBE9U4y) | [Nems](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Bing Kong](https://open.spotify.com/album/1arsb5zt7yy7ezUu7chQg4) | 3:57 | 2022-03-18 | 2022-04-04 |
-| [black mirror](https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:17 | 2023-08-11 |  |
+| [black mirror](https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:17 | 2023-08-11 | 2024-08-13 |
 | [Blade \(feat\. Jay Worthy\)](https://open.spotify.com/track/5Y3tgidBGa5P1aXBx3kcUm) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [MonstaBeatz](https://open.spotify.com/artist/6HySifT1vTrgLx6Og9BqPu), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [Radioactive](https://open.spotify.com/album/55FSHi6wgm1WTVGCs22hmd) | 3:37 | 2024-07-26 | 2024-08-08 |
 | [Blame On Me](https://open.spotify.com/track/5w7IRpQTMNA2EuWrHDmClX) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 4:01 | 2023-04-28 | 2023-09-06 |
 | [Bleed It](https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bleed It](https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb) | 2:31 | 2022-06-03 | 2022-08-14 |
@@ -319,6 +319,7 @@
 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [J Rocc](https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 | 2023-04-21 | 2023-05-04 |
 | [Kill Us All \(K.U.A.\)](https://open.spotify.com/track/4khHOhzkrjNSiRzusudtJG) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [Kill Us All \(K.U.A.\)](https://open.spotify.com/album/45pno56u3r8vGvDh2oijn6) | 3:42 | 2022-06-17 | 2022-07-28 |
 | [King's Blvd 2](https://open.spotify.com/track/7pQXGnceGhu1hRQkG5g7I7) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Save Yourself](https://open.spotify.com/album/084WGSgugXmYrsJRMeIRaB) | 3:08 | 2021-09-03 | 2022-06-06 |
+| [Kitchen Table](https://open.spotify.com/track/5ioDyG14CzzR5mIHA7UApb) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Summertime Butch](https://open.spotify.com/album/10FJPB8KEAOK6PLXe8PEvR) | 2:12 | 2024-08-09 |  |
 | [Kobe Season](https://open.spotify.com/track/0x3uu7hZ4AzK91djvxPagF) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Holy Water](https://open.spotify.com/album/0vvsV9PgoX1kSkwjmHTN2A) | 3:18 | 2023-12-01 | 2023-12-09 |
 | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/track/3EIlWD3juq0RGLIeRGFdYp) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn) | 4:40 | 2023-06-30 | 2023-08-09 |
 | [Laps Around the Sun](https://open.spotify.com/track/4zS1GPmECl7sac60w9ntFm) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Laps Around the Sun](https://open.spotify.com/album/7C1pWGjpYTmFBcQ2fp0mWw) | 2:02 | 2021-09-03 | 2022-06-22 |

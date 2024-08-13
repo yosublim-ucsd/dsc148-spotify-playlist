@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Roze Oficial",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Locura Mix, De La Ghetto & The La Planta.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -366,6 +366,32 @@
       "duration_ms": 253340,
       "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) - Remix",
       "url": "https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL"
+    },
+    {
+      "album": {
+        "name": "Alas De Papel",
+        "url": "https://open.spotify.com/album/2ILyPmIrCL6LKoGGGX0nqK"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178089,
+      "name": "Alas De Papel",
+      "url": "https://open.spotify.com/track/4TtJ19MjslA4AK6BP6rfYx"
     },
     {
       "album": {
@@ -4004,7 +4030,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 178695,
       "name": "Imaginate que soy yo",
       "url": "https://open.spotify.com/track/0piCjuFlGx5KLaALEVU3NI"
@@ -4040,7 +4066,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 193496,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/5barxcgd1ar3OTzbvXrQaB"
@@ -5224,7 +5250,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 151623,
       "name": "LOKITA",
       "url": "https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT"
@@ -5536,7 +5562,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 137727,
       "name": "Martes 13",
       "url": "https://open.spotify.com/track/57q0jUz79o0XeTmN2E15uI"
@@ -5602,7 +5628,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 183080,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/4U7btPnmCl4wwNt9aCFZgA"
@@ -6954,7 +6980,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 160000,
       "name": "Ojitos Cerrados",
       "url": "https://open.spotify.com/track/01gEeTQvRM1lt9P8uPbjyw"
@@ -8008,7 +8034,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 186183,
       "name": "Que Nadie Se Entere - Remix",
       "url": "https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp"
@@ -8074,7 +8100,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 178233,
       "name": "Que Rico Baila",
       "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"
@@ -9306,7 +9332,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 592992,
       "name": "Te conoc\u00ed / Ni\u00f1a / No hablen mal de ella - En Vivo",
       "url": "https://open.spotify.com/track/62pDGH8V2kqqQCQ1W6q5un"
@@ -9458,7 +9484,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 154912,
       "name": "Te Mentir\u00eda",
       "url": "https://open.spotify.com/track/1GtBrm91qZLzAZ0OR8uSCk"
@@ -9586,7 +9612,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 147417,
       "name": "Te voy a extra\u00f1ar",
       "url": "https://open.spotify.com/track/5lK0R1eo2wZ0WMNRsaeTwv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: Bones Owens
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,111 likes - 84 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,135 likes - 84 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

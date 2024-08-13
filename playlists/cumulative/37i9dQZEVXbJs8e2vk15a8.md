@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-2,184 songs - 4 day 21 hr 12 min
+2,185 songs - 4 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,7 +662,7 @@
 | [ESE CULITO](https://open.spotify.com/track/4ezUYRDJUiLuupER93nkiX) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [ESE CULITO](https://open.spotify.com/album/04s8SgqUuaEBdElV1XwZxh) | 3:42 | 2022-04-15 | 2022-04-22 |
 | [Ese Guille](https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Ese Guille](https://open.spotify.com/album/6Il031Qrsr1CNq32gPxr0W) | 2:34 | 2024-01-30 | 2024-03-03 |
 | [Ese Guille](https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:34 | 2024-03-02 | 2024-04-17 |
-| [ESE VATO](https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ESE VATO](https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO) | 3:48 | 2024-08-06 |  |
+| [ESE VATO](https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ESE VATO](https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO) | 3:48 | 2024-08-06 | 2024-08-13 |
 | [Esos Ojxss](https://open.spotify.com/track/48KzcxV31Yi1UHNCGulhez) | [daviid\_328](https://open.spotify.com/artist/4mxv3XnN0fRgjMBdSWNSlP) | [Esos Ojxss](https://open.spotify.com/album/4YUJNVbNwVT0Hytc0pvor5) | 2:13 | 2023-04-29 | 2023-05-07 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-30 | 2024-07-17 |
 | [ESTE](https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [ESTE](https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU) | 2:42 | 2024-07-23 | 2024-07-31 |
@@ -820,6 +820,7 @@
 | [Hablame de plata](https://open.spotify.com/track/07uc7xxJcgzIiGk6nDkBbo) | [Alien Boyz](https://open.spotify.com/artist/63uKmSPcX2MqAutuEU7cAh), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Hablame de plata](https://open.spotify.com/album/5mWXmZ85YdaL4bJnixVBKt) | 2:54 | 2023-05-30 | 2023-09-05 |
 | [HACE TIEMPO](https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [HACE TIEMPO](https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE) | 2:52 | 2024-06-04 | 2024-06-20 |
 | [Hagamos un Trato](https://open.spotify.com/track/0wdkKHAUNdSzEpJb2N19Pq) | [Mario Benedetti](https://open.spotify.com/artist/4OSISCIJEl7zbSIGpLTp5z) | [Centenario / Antología](https://open.spotify.com/album/7IbarV0FfGFk5EniSJ1zPF) | 1:06 | 2023-06-19 | 2023-07-12 |
+| [Hai Yorokonde](https://open.spotify.com/track/6woV8uWxn7rcLZxJKYruS1) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Hai Yorokonde](https://open.spotify.com/album/1wz8OHzR2Z9DduiN8v86Tz) | 2:41 | 2024-08-12 |  |
 | [Halloween Theme](https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq), [Cody Carpenter](https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg), [Daniel Davies](https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP) | [Halloween \(Original 2018 Motion Picture Soundtrack\)](https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM) | 3:02 | 2023-11-02 | 2023-11-04 |
 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2022-11-02 | 2022-11-06 |
 | [HAMI](https://open.spotify.com/track/44K0rxxJXiH0lPwT87gOZm) | [Jorge Tomas](https://open.spotify.com/artist/3ZvxjVof3XtOsajb8wI6PH) | [HAMI](https://open.spotify.com/album/2jmriRWCXTXMwlrF7vVOyT) | 2:16 | 2024-02-09 | 2024-04-16 |

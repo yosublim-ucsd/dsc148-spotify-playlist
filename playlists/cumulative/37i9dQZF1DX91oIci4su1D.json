@@ -216,7 +216,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 209130,
       "name": "A Trillion Suns",
       "url": "https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo"
@@ -18198,6 +18198,24 @@
       "duration_ms": 246183,
       "name": "The Wind in Your Face",
       "url": "https://open.spotify.com/track/4RERO3pHGa0M48863ndJB9"
+    },
+    {
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/3JveJFifTrUnPjxARoZUgW"
+      },
+      "artists": [
+        {
+          "name": "Solarstone",
+          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202714,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/4fGYcqTM8aBhtXU7yIxtcO"
     },
     {
       "album": {

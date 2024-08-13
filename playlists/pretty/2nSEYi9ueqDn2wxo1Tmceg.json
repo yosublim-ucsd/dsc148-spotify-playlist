@@ -1,13 +1,37 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Alex Izenberg",
-  "num_followers": 66816,
+  "num_followers": 66825,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPz2rbKjHNaHzt9C2x7VS4YJ2v7OLA",
+  "snapshot_id": "AAAP0PfZHKDMzMkitVUvgmf6Iq3AU1a/",
   "tracks": [
+    {
+      "added_at": "2024-08-12 14:14:02",
+      "album": {
+        "name": "Reset Mariachi EP",
+        "url": "https://open.spotify.com/album/0NCCLK5RqnGNMvRON2hDjf"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
+        },
+        {
+          "name": "Mariachi 2000 de Cutberto P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2zuzlDjpiL13KS95cZGGjI"
+        }
+      ],
+      "duration_ms": 317657,
+      "name": "Peligro (Danger) - Mariachi 2000 de Cutberto Perez Version",
+      "url": "https://open.spotify.com/track/7iHf1VheSsGZbGRdZOxaDD"
+    },
     {
       "added_at": "2024-08-07 15:18:40",
       "album": {

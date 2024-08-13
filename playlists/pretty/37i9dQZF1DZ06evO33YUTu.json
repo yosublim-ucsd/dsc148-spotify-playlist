@@ -1,12 +1,12 @@
 {
-  "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 120565,
+  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
+  "num_followers": 120589,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAACHOZdJtDBnzgRkev6r6fpL",
+  "snapshot_id": "Zrf/AAAAAADX+PeeqhN39o4U+dosgKHm",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Ya Para Qu\u00e9",
+      "url": "https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Love You (432 Hz) (with Greeicy)",
         "url": "https://open.spotify.com/album/3HI2xAgLyGEw4w66lmwUQk"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 171000,
       "name": "I Love You (432 Hz) (with Greeicy)",
       "url": "https://open.spotify.com/track/1ICUVPtaZlWQ45aQCtmW2y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "Ya Para Qu\u00e9",
-      "url": "https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ant\u00eddoto",
-        "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) [Remix]",
         "url": "https://open.spotify.com/album/3hqnnuMqi7Q5CTWLHnnnVD"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 252903,
       "name": "Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) - Remix",
       "url": "https://open.spotify.com/track/2RcvZFouLOTFZbQHr3nhOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ant\u00eddoto",
+        "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
     },
     {
       "added_at": null,

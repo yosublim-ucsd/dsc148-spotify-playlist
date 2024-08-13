@@ -1,13 +1,161 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Aug 16:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Aug 22:02 UTC.",
   "num_followers": 81,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAKWm4M1v1ZkdpXmTvU4z85JOdAOdwC",
+  "snapshot_id": "AAAKYm6Y7GlB2RIy/kw/ctTiNXXqYtV0",
   "tracks": [
+    {
+      "added_at": "2024-08-12 22:02:59",
+      "album": {
+        "name": "Emergency Curtain Call",
+        "url": "https://open.spotify.com/album/3zdPAsWVIzmoQxStLyoM3V"
+      },
+      "artists": [
+        {
+          "name": "t+pazolite",
+          "url": "https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt"
+        }
+      ],
+      "duration_ms": 303482,
+      "name": "Emergency Curtain Call",
+      "url": "https://open.spotify.com/track/0hw1lVRhYc0yokIUEhtlyk"
+    },
+    {
+      "added_at": "2024-08-12 10:03:23",
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
+    },
+    {
+      "added_at": "2024-08-12 04:03:50",
+      "album": {
+        "name": "Anhedonia II b/w Ecstasy Cowgirl",
+        "url": "https://open.spotify.com/album/2Y0HcZRxb8s0GRXa8EeQCg"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        },
+        {
+          "name": "Dirty Art Club",
+          "url": "https://open.spotify.com/artist/2DcAdoxP41GECOfZt2MhQL"
+        }
+      ],
+      "duration_ms": 159402,
+      "name": "Anhedonia II",
+      "url": "https://open.spotify.com/track/68wV6l0woKlHHGiZ9hdhxz"
+    },
+    {
+      "added_at": "2024-08-12 16:03:32",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7go94B223sIXz4t1g8kZ2N"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "duration_ms": 173875,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/564FztYymI6tdSy7hV8nYS"
+    },
+    {
+      "added_at": "2024-08-12 16:03:32",
+      "album": {
+        "name": "TENT 0.3",
+        "url": "https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 159096,
+      "name": "Pajama",
+      "url": "https://open.spotify.com/track/0rtUHxLBR3MARvki4YVOzL"
+    },
+    {
+      "added_at": "2024-08-12 16:03:32",
+      "album": {
+        "name": "Pump !t Up (Korean Ver.)",
+        "url": "https://open.spotify.com/album/4nqq0HbuIOxlCOo4yvbFik"
+      },
+      "artists": [
+        {
+          "name": "BOY STORY",
+          "url": "https://open.spotify.com/artist/3oh2ZIGpgdEyhfggcVjrWE"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Pump !t Up (Korean Ver.)",
+      "url": "https://open.spotify.com/track/09abi1b55qJLxSxGklZ9ay"
+    },
+    {
+      "added_at": "2024-08-12 22:02:59",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/5nEXvKEgiWvmnAmTDPD9eS"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 178952,
+      "name": "memento",
+      "url": "https://open.spotify.com/track/158ukLHp3Z3Dnj3aHiRKzH"
+    },
+    {
+      "added_at": "2024-08-12 22:02:59",
+      "album": {
+        "name": "armory",
+        "url": "https://open.spotify.com/album/7rjhKadZpXZrUeVwy1Pgb3"
+      },
+      "artists": [
+        {
+          "name": "sniper2004",
+          "url": "https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT"
+        }
+      ],
+      "duration_ms": 88290,
+      "name": "armory",
+      "url": "https://open.spotify.com/track/2xoOFHOHLXuRhXq6WHE3C3"
+    },
+    {
+      "added_at": "2024-08-12 10:03:23",
+      "album": {
+        "name": "Roses/Dandelion",
+        "url": "https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y"
+    },
     {
       "added_at": "2024-08-11 16:03:57",
       "album": {
@@ -23,6 +171,46 @@
       "duration_ms": 219280,
       "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc",
       "url": "https://open.spotify.com/track/5xpsKfVMWMQZuTo3msJDC2"
+    },
+    {
+      "added_at": "2024-08-12 22:02:59",
+      "album": {
+        "name": "SLOW",
+        "url": "https://open.spotify.com/album/4gWygxgd6ECSQvnFyu0sAX"
+      },
+      "artists": [
+        {
+          "name": "Big Ocean",
+          "url": "https://open.spotify.com/artist/0ly1nCJ50by9Vc0UxPHvwY"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 180813,
+      "name": "SLOW (Feat. Young K (DAY6))",
+      "url": "https://open.spotify.com/track/6sjceL2bHRC67mZB1p7h2n"
+    },
+    {
+      "added_at": "2024-08-12 16:03:32",
+      "album": {
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/2QY0bsnTk7ghEFwQ50XtMS"
+      },
+      "artists": [
+        {
+          "name": "YongYong",
+          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
+        },
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "i Loved Him (feat. NO:EL)",
+      "url": "https://open.spotify.com/track/2z4OltE3sBCd481f3nkp3F"
     },
     {
       "added_at": "2024-08-10 10:02:52",
@@ -57,6 +245,38 @@
       "url": "https://open.spotify.com/track/1QkCRybEvQiHS58SPvZOrK"
     },
     {
+      "added_at": "2024-08-12 10:03:23",
+      "album": {
+        "name": "Favela Nights",
+        "url": "https://open.spotify.com/album/5rYPPfHqWyukSxOeTSnMOa"
+      },
+      "artists": [
+        {
+          "name": "Pisse",
+          "url": "https://open.spotify.com/artist/5rtJUzDnPO5m2cDubKH5u3"
+        }
+      ],
+      "duration_ms": 230719,
+      "name": "Favela Nights",
+      "url": "https://open.spotify.com/track/3ba8lghzPgzGKPwh80gMtA"
+    },
+    {
+      "added_at": "2024-08-12 22:02:59",
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/1Cc2oUIBg0Jf13DWDNCK6L"
+      },
+      "artists": [
+        {
+          "name": "YourBoySponge",
+          "url": "https://open.spotify.com/artist/1MC8DOrVxVhp9ddDSqrp93"
+        }
+      ],
+      "duration_ms": 190082,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/73tkSQwquOdhj0hLrMoMCM"
+    },
+    {
       "added_at": "2024-08-11 04:03:35",
       "album": {
         "name": "On The Other Side (FNAF: Into The Pit Song)",
@@ -79,6 +299,22 @@
       "duration_ms": 208931,
       "name": "On The Other Side (FNAF: Into The Pit Song)",
       "url": "https://open.spotify.com/track/0gcyVffFXCdlOm5IYbMk3z"
+    },
+    {
+      "added_at": "2024-08-12 16:03:32",
+      "album": {
+        "name": "Become a God",
+        "url": "https://open.spotify.com/album/6F2uw6zUrTLkEfBQaPgyga"
+      },
+      "artists": [
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "Become a God",
+      "url": "https://open.spotify.com/track/5RSDV248qvk9S01GlYlHdK"
     },
     {
       "added_at": "2024-08-10 16:02:51",
@@ -130,6 +366,14 @@
         {
           "name": "Laker",
           "url": "https://open.spotify.com/artist/4lExj6JVOUnxR9epOMvyd1"
+        },
+        {
+          "name": "Joeyy",
+          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+        },
+        {
+          "name": "Marlon DuBois",
+          "url": "https://open.spotify.com/artist/74l7WkwYdR2NKr2pHXgkqm"
         }
       ],
       "duration_ms": 180800,
@@ -627,234 +871,6 @@
       "duration_ms": 137776,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/3yhmIgjq0Pf2d3wodLUKzJ"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "what do you want from me?",
-        "url": "https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG"
-      },
-      "artists": [
-        {
-          "name": "Jann",
-          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "what do you want from me?",
-      "url": "https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "Tashkarte Skit",
-        "url": "https://open.spotify.com/album/1h8M1VBblNonhS3hOCuGf7"
-      },
-      "artists": [
-        {
-          "name": "Kalazh44",
-          "url": "https://open.spotify.com/artist/5sRQkVexJlax2iISuqL8cV"
-        }
-      ],
-      "duration_ms": 84339,
-      "name": "Tashkarte Skit",
-      "url": "https://open.spotify.com/track/4PzG8pqmc1nUwksrc6Coo6"
-    },
-    {
-      "added_at": "2024-08-09 10:03:00",
-      "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/2e38CNzyj1JJnYLVVKwaBa"
-      },
-      "artists": [
-        {
-          "name": "Rarin",
-          "url": "https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ"
-        }
-      ],
-      "duration_ms": 131994,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/3ygjvFPRKBEhG0sjUsBwuT"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "Zaman",
-        "url": "https://open.spotify.com/album/2m0suQNdoE9ToZLnBheBgr"
-      },
-      "artists": [
-        {
-          "name": "Ra'is",
-          "url": "https://open.spotify.com/artist/6tekmZkCK5xHTIwWeqyr0i"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Zaman",
-      "url": "https://open.spotify.com/track/5wyQumnnSMDLZSIkM2W4vV"
-    },
-    {
-      "added_at": "2024-08-09 22:02:43",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/3uvNNntgesD9IdobKz0O8T"
-      },
-      "artists": [
-        {
-          "name": "MUST DIE!",
-          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
-        }
-      ],
-      "duration_ms": 234620,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/3KrINa3r5vWcp3pM2d9HDz"
-    },
-    {
-      "added_at": "2024-08-09 10:03:00",
-      "album": {
-        "name": "Sacrifice Me",
-        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "Sacrifice Me",
-      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "Shishabar Rapper",
-        "url": "https://open.spotify.com/album/1PT0DL260tyJFqYeBzYpcF"
-      },
-      "artists": [
-        {
-          "name": "YFG Pave",
-          "url": "https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "Shishabar Rapper",
-      "url": "https://open.spotify.com/track/6lSfVtKtMnx9flxGnXivTY"
-    },
-    {
-      "added_at": "2024-08-10 10:02:52",
-      "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/5fh8n7LNbYnl122kqx2wfx"
-      },
-      "artists": [
-        {
-          "name": "BOI WHAT",
-          "url": "https://open.spotify.com/artist/3abEoUbTl6Mghy9aLG3uiC"
-        }
-      ],
-      "duration_ms": 182474,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/7iSYyT5UOBsmDVcWGXrdT2"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "\u0413\u041b\u0423\u0411\u0418\u041d\u0410",
-        "url": "https://open.spotify.com/album/0qYouhm6CFbgaqf78L9kt9"
-      },
-      "artists": [
-        {
-          "name": "I61",
-          "url": "https://open.spotify.com/artist/0BLwluvlJt4aAE95gomnbe"
-        }
-      ],
-      "duration_ms": 128496,
-      "name": "\u0413\u041b\u0423\u0411\u0418\u041d\u0410",
-      "url": "https://open.spotify.com/track/4KUaTVXbwmSWUvwxS8Icus"
-    },
-    {
-      "added_at": "2024-08-09 22:02:43",
-      "album": {
-        "name": "Ray Wop",
-        "url": "https://open.spotify.com/album/6ScHujaAPkA56DUqTQVWDD"
-      },
-      "artists": [
-        {
-          "name": "Ray Vaughn",
-          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
-        }
-      ],
-      "duration_ms": 147326,
-      "name": "Ray Wop",
-      "url": "https://open.spotify.com/track/2HY9pQpLmRSa03JtM1n2we"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "Quaresma",
-        "url": "https://open.spotify.com/album/60G6h7ePLdvYcEdU1CXwsT"
-      },
-      "artists": [
-        {
-          "name": "Jiyo",
-          "url": "https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts"
-        }
-      ],
-      "duration_ms": 128690,
-      "name": "Quaresma",
-      "url": "https://open.spotify.com/track/1iALuscxa3nQzu9bYt2lVK"
-    },
-    {
-      "added_at": "2024-08-10 16:02:51",
-      "album": {
-        "name": "Phosphor / Micrology",
-        "url": "https://open.spotify.com/album/0O8MF8jaAcygttxNUmIQJQ"
-      },
-      "artists": [
-        {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        }
-      ],
-      "duration_ms": 214241,
-      "name": "Phosphor",
-      "url": "https://open.spotify.com/track/5ULDLsvil3tKgp77NXcZVN"
-    },
-    {
-      "added_at": "2024-08-09 10:03:00",
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/26PXZd4pfIHfLJTJS4cCyX"
-      },
-      "artists": [
-        {
-          "name": "M Row",
-          "url": "https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG"
-        },
-        {
-          "name": "R2R MOE",
-          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
-        }
-      ],
-      "duration_ms": 150048,
-      "name": "Heart On My Sleeve",
-      "url": "https://open.spotify.com/track/6pbMcxFJhKWWEmq7MV0m8a"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "trauen",
-        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 164011,
-      "name": "trauen",
-      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
     }
   ],
   "unique_name": "New Singles Now",

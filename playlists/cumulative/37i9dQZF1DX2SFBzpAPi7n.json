@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Kisnue(\ud0a4\uc2a4\ub204)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Nerd Connection(\ub108\ub4dc\ucee4\ub125\uc158)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 212071,
       "name": "Don't Tell My Papa",
       "url": "https://open.spotify.com/track/25xBTsB2GbF5ce1YgX9I1T"
@@ -3667,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "And yet, We still",
+        "url": "https://open.spotify.com/album/59ZIOlyrgX38hQTdZnOcfC"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Freddy",
+      "url": "https://open.spotify.com/track/4NCukrisJy9l4ZMDEkBnn2"
+    },
+    {
+      "album": {
         "name": "DOCTOR LAWYER (Original Television Soundtrack, Pt. 1)",
         "url": "https://open.spotify.com/album/0LJz8YtfJoqzsW2sL3CIh1"
       },
@@ -3754,7 +3772,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 199938,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF"
@@ -4965,6 +4983,24 @@
     },
     {
       "album": {
+        "name": "I don\u2019t have eraser of words",
+        "url": "https://open.spotify.com/album/086UhcdBXeiEVY8XNAb4ad"
+      },
+      "artists": [
+        {
+          "name": "Soombee",
+          "url": "https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "I don\u2019t have eraser of words",
+      "url": "https://open.spotify.com/track/36u940AeFl6IQmVWNXnAbj"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Want To Live Without You",
         "url": "https://open.spotify.com/album/1BzaYuNzCpY49BouMw53KL"
       },
@@ -5250,7 +5286,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 154400,
       "name": "i'm broken",
       "url": "https://open.spotify.com/track/02XrPzjCjFSY7JHcr0CYfz"
@@ -8876,7 +8912,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 184520,
       "name": "Restart",
       "url": "https://open.spotify.com/track/4y3PptwD4VrIWSYjP59Dzs"
@@ -11748,7 +11784,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 187680,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/4TMVuENexY9u0083CqMphE"
@@ -12896,6 +12932,24 @@
       "duration_ms": 224560,
       "name": "Your voice",
       "url": "https://open.spotify.com/track/7kj58uQ74KECs0R80VuMFz"
+    },
+    {
+      "album": {
+        "name": "yours.",
+        "url": "https://open.spotify.com/album/1jcBjaepZsSf1Wl0mx8S3d"
+      },
+      "artists": [
+        {
+          "name": "Gwak Tae Poong",
+          "url": "https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "yours.",
+      "url": "https://open.spotify.com/track/3C4KOIMBDPK21oTsvdMDRn"
     },
     {
       "album": {

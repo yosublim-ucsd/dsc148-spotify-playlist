@@ -917,6 +917,32 @@
     },
     {
       "album": {
+        "name": "Rockstars",
+        "url": "https://open.spotify.com/album/7MqHeNymT801sFiL6dm8Z6"
+      },
+      "artists": [
+        {
+          "name": "Spresso",
+          "url": "https://open.spotify.com/artist/1dsIiWajz8hxv8BVeqGWkw"
+        },
+        {
+          "name": "Alpha Maid",
+          "url": "https://open.spotify.com/artist/6Rjl3uxMWyxlvDo6FnT6kW"
+        },
+        {
+          "name": "Mica Levi",
+          "url": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Day Out",
+      "url": "https://open.spotify.com/track/47aR6Tg46yUtzc8N9QsRfI"
+    },
+    {
+      "album": {
         "name": "Days Incomplete",
         "url": "https://open.spotify.com/album/4eG5JklQFLR4PPSVzfcb4d"
       },
@@ -1949,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "The Maybellines",
+        "url": "https://open.spotify.com/album/43KuGKCsf99Oq5G8WtJEOA"
+      },
+      "artists": [
+        {
+          "name": "The Maybellines",
+          "url": "https://open.spotify.com/artist/1JvhzOsfMYwQHRB9cSYaBu"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103773,
+      "name": "I Hope You Like Me Too",
+      "url": "https://open.spotify.com/track/3tx60M0Bvhzlk2y4bqoZew"
+    },
+    {
+      "album": {
         "name": "Begin",
         "url": "https://open.spotify.com/album/6sSb8m6MPGJIEMKH8FWCS0"
       },
@@ -2862,6 +2906,24 @@
       "duration_ms": 164000,
       "name": "Nothing Stays the Same",
       "url": "https://open.spotify.com/track/7tH71zPFewHULQb6SR5Mma"
+    },
+    {
+      "album": {
+        "name": "Carry the Wood",
+        "url": "https://open.spotify.com/album/0c4kPuNaOn0tlWFtB5l493"
+      },
+      "artists": [
+        {
+          "name": "The Teeth",
+          "url": "https://open.spotify.com/artist/6mPVyXVEtodJcnf9AhjCHN"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149346,
+      "name": "Oh, Bessie!",
+      "url": "https://open.spotify.com/track/1Br5qvzmRrON6cEVypOdH0"
     },
     {
       "album": {

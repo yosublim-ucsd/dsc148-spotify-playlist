@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-722 songs - 2 day 17 hr 47 min
+723 songs - 2 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Harlem River](https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Harlem River / Falling](https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7) | 4:37 | 2021-05-18 | 2022-07-29 |
 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 | 2022-07-01 | 2023-09-30 |
 | [Harmony \- Yuksek Remix](https://open.spotify.com/track/41xzd23xVfhaaakS8sXgoR) | [Maestro](https://open.spotify.com/artist/0mmos1mLPBw28HzvFqBBTW), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Harmony \(Yuksek Remix\)](https://open.spotify.com/album/4zuq7xnN11skfeBMUDLvjR) | 6:11 | 2021-04-21 | 2022-04-21 |
+| [Haunted](https://open.spotify.com/track/5jjjxOp1GH5C8lCgT1r432) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Lohrasp Kansara](https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Haunted](https://open.spotify.com/album/1v7NEaaCbXK3D33LpieV8w) | 3:21 | 2024-08-09 |  |
 | [Haze](https://open.spotify.com/track/1OJnrgbXv3YxEwgw9cDawF) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Haze EP](https://open.spotify.com/album/4s208ZjKKt2tbSVD5EzKuF) | 3:03 | 2023-11-17 | 2024-06-19 |
 | [Haze \(Yamil Remix\)](https://open.spotify.com/track/77zuNmj82EubbK235evjeH) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Haze \(Yamil Remix\)](https://open.spotify.com/album/3RBmmfY2z3rIgh1igDj6at) | 4:08 | 2022-01-07 | 2022-07-29 |
 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 | 2021-04-21 | 2022-04-23 |
@@ -446,7 +447,7 @@
 | [Nebelmaschine](https://open.spotify.com/track/1f6YJOTRtxb9EvDd46vrNN) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Nebelmaschine](https://open.spotify.com/album/4IvVSbxqt0zYSWW8PvuVKQ) | 6:47 | 2021-05-07 | 2022-07-23 |
 | [Nevada](https://open.spotify.com/track/3gCskbRL90fyXnTg6kNaUu) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/1JGBUKbvb8xKBddvKP0ASW) | 6:03 | 2021-12-13 | 2022-05-06 |
 | [Nevada](https://open.spotify.com/track/4eP7VbswtkGd5Hlyj4E7Qx) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/4HZ1rAyZ7KwvfnsVq5hNKD) | 6:03 | 2022-07-01 | 2024-04-19 |
-| [Never](https://open.spotify.com/track/0OO9FgFioNaXMAJb6k4AqF) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Camerøn](https://open.spotify.com/artist/6DF72UNKeFlipp9UZ2vRXH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Never](https://open.spotify.com/album/2bKaMNe7DDjXRHlmdho0gv) | 3:59 | 2024-04-26 |  |
+| [Never](https://open.spotify.com/track/0OO9FgFioNaXMAJb6k4AqF) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Camerøn](https://open.spotify.com/artist/6DF72UNKeFlipp9UZ2vRXH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Never](https://open.spotify.com/album/2bKaMNe7DDjXRHlmdho0gv) | 3:59 | 2024-04-26 | 2024-08-13 |
 | [Never Alone \- Patrice Bäumel Remix](https://open.spotify.com/track/5ZgaPxJRrPyIhbpeytTFYO) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Never Alone \(Patrice Bäumel Remix\)](https://open.spotify.com/album/188eX1q8qweT4oRiFBZqSd) | 8:56 | 2022-12-02 | 2022-12-17 |
 | [Never Ending](https://open.spotify.com/track/2bO6oJIdBwN6OfWFbMr3qD) | [00Zicky](https://open.spotify.com/artist/12cfYIEB508tIyRhgf8Hla), [Joy Kitikonti](https://open.spotify.com/artist/4JrU565LFXyKjDaHhdmPR6) | [Never Ending](https://open.spotify.com/album/5Ou23LWntsIBDkrAGquae0) | 7:20 | 2021-12-10 | 2022-07-29 |
 | [Never Loved](https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Visage 6 \(Never Loved\)](https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX) | 4:13 | 2022-09-02 | 2024-02-24 |

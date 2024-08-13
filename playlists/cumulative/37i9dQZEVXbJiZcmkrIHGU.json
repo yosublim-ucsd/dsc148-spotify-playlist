@@ -28784,7 +28784,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 188520,
       "name": "LiEBE AUF DER R\u00dcCKBANK",
       "url": "https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0"
@@ -49506,7 +49506,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
@@ -49524,7 +49524,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -51564,6 +51564,24 @@
       "duration_ms": 244288,
       "name": "Verknallt in einen Talahon",
       "url": "https://open.spotify.com/track/2OLLAyKFh6o550MtOXDmtB"
+    },
+    {
+      "album": {
+        "name": "Verknallt in einen Talahon",
+        "url": "https://open.spotify.com/album/7ba5ZkWmADbLp4Jo9Nvont"
+      },
+      "artists": [
+        {
+          "name": "Butterbro",
+          "url": "https://open.spotify.com/artist/0Vsr0lDjevcKwhkDbdxxbH"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244288,
+      "name": "Verknallt in einen Talahon",
+      "url": "https://open.spotify.com/track/7frbYYZ3oUBhdRAKfDpqLm"
     },
     {
       "album": {

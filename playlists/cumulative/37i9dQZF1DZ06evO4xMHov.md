@@ -2,7 +2,7 @@
 
 ### [This Is Nívea Soares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xMHov)
 
-> This is Nívea Soares\. Todos os maiores hits em uma só playlist.
+> This is Nívea Soares\. Track\-track unggulan, semuanya dalam satu playlist.
 
 71 songs - 8 hr 0 min
 

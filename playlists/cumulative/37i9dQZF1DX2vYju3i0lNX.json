@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 190172,
       "name": "A Friend of Mine",
       "url": "https://open.spotify.com/track/0QpSIpXFYeiLlHBd08mieS"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 211563,
       "name": "After Winter Comes Spring",
       "url": "https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1"
@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "And Then There's You",
+        "url": "https://open.spotify.com/album/3jIG2QEjXmIlT4Khb3rqgP"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206630,
+      "name": "And Then There's You",
+      "url": "https://open.spotify.com/track/2oa41NQR5EOZr3WGDLepin"
+    },
+    {
+      "album": {
         "name": "Angel Falls",
         "url": "https://open.spotify.com/album/4p1xPxPef4pe0cyAqJa20l"
       },
@@ -1356,10 +1374,28 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 226679,
       "name": "Angel Falls",
       "url": "https://open.spotify.com/track/18mq8tGDlx1wF16w1YZxTf"
+    },
+    {
+      "album": {
+        "name": "Anja",
+        "url": "https://open.spotify.com/album/6XjE4PEl7HtfEOoKsGhPOO"
+      },
+      "artists": [
+        {
+          "name": "Urskogen Jazz",
+          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254441,
+      "name": "Anja",
+      "url": "https://open.spotify.com/track/4YKkseeTzwK9jMpgE3GvGY"
     },
     {
       "album": {
@@ -1428,7 +1464,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 353773,
       "name": "Answer Me",
       "url": "https://open.spotify.com/track/2fTGteXpvwsNG8K83YyhRb"
@@ -1638,6 +1674,24 @@
       "duration_ms": 293277,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi"
+    },
+    {
+      "album": {
+        "name": "At Sea",
+        "url": "https://open.spotify.com/album/4fwt7rT4Riq2ctN7Pfh4Ev"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147226,
+      "name": "At Sea",
+      "url": "https://open.spotify.com/track/15VwmSWvyL1OS3Q3zLd5DP"
     },
     {
       "album": {
@@ -1904,7 +1958,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 183776,
       "name": "Barney's",
       "url": "https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip"
@@ -2739,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Calm Waters",
+        "url": "https://open.spotify.com/album/2bv9QnBg2NN5XOF1r8jilT"
+      },
+      "artists": [
+        {
+          "name": "Devon Crouch",
+          "url": "https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239036,
+      "name": "Calm Waters",
+      "url": "https://open.spotify.com/track/3DaLg8fCHiV2M3lpl7uqCQ"
+    },
+    {
+      "album": {
         "name": "Cameron Highlands",
         "url": "https://open.spotify.com/album/2jcFJ62eqokXA8CBKWDWid"
       },
@@ -2840,7 +2912,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 283271,
       "name": "Carroll Street",
       "url": "https://open.spotify.com/track/6HBI2vdAPRno5vMqhZ1x69"
@@ -3920,7 +3992,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 223363,
       "name": "Distracting Myself",
       "url": "https://open.spotify.com/track/5TlNodOiMdtKag4o312jwh"
@@ -6226,7 +6298,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 212110,
       "name": "Heaven here",
       "url": "https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ"
@@ -6532,7 +6604,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 202555,
       "name": "How About You",
       "url": "https://open.spotify.com/track/4tVteS21UzbqesfNG7uT8D"
@@ -7198,7 +7270,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 240543,
       "name": "I'm Glad There Is Us",
       "url": "https://open.spotify.com/track/0Pvw3low3habLe1L9lM4Vy"
@@ -7540,7 +7612,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 238562,
       "name": "Imogene",
       "url": "https://open.spotify.com/track/6py54bF1qKFbA1kjz3rKdG"
@@ -7738,7 +7810,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 208361,
       "name": "In the Blink of an Eye",
       "url": "https://open.spotify.com/track/6ojZVftxBE1dGfkJHvE6Lb"
@@ -9689,6 +9761,24 @@
     },
     {
       "album": {
+        "name": "Looking At Stars",
+        "url": "https://open.spotify.com/album/2iT554owkVqNwH1BcPTC6t"
+      },
+      "artists": [
+        {
+          "name": "Webb Trio",
+          "url": "https://open.spotify.com/artist/2sCB8fxXchR8s1mnHghn6y"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256424,
+      "name": "Looking At Stars",
+      "url": "https://open.spotify.com/track/2jR6fh4E32yt77WuKXg6QL"
+    },
+    {
+      "album": {
         "name": "Looking Forward",
         "url": "https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH"
       },
@@ -10942,7 +11032,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 152844,
       "name": "More than one",
       "url": "https://open.spotify.com/track/6yhgAEinRQSnhdsvJ5L8t8"
@@ -11446,7 +11536,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 248500,
       "name": "Need You Here",
       "url": "https://open.spotify.com/track/6U31miey75JtdzenSiTToi"
@@ -11626,7 +11716,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 176000,
       "name": "Night Swimmer",
       "url": "https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS"
@@ -11738,6 +11828,24 @@
       "duration_ms": 271285,
       "name": "No More Tears For You",
       "url": "https://open.spotify.com/track/3J4kIyu50l25eYOgYdobCR"
+    },
+    {
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP"
     },
     {
       "album": {
@@ -13671,6 +13779,24 @@
     },
     {
       "album": {
+        "name": "Since Love",
+        "url": "https://open.spotify.com/album/3PRByzk37yqZA7z1McNo9c"
+      },
+      "artists": [
+        {
+          "name": "Ray Love Trio",
+          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Since Love",
+      "url": "https://open.spotify.com/track/2qS3XkRLRAxq032CSV3uw1"
+    },
+    {
+      "album": {
         "name": "Since You Left Me",
         "url": "https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso"
       },
@@ -14607,6 +14733,24 @@
     },
     {
       "album": {
+        "name": "Star-Crossed Lovers",
+        "url": "https://open.spotify.com/album/1lJK4Qr5HqQhj9OSfkGaUh"
+      },
+      "artists": [
+        {
+          "name": "Eugene Lambert",
+          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178474,
+      "name": "Star-Crossed Lovers",
+      "url": "https://open.spotify.com/track/2O4k5qnF7Gxpp2e0mU9ILt"
+    },
+    {
+      "album": {
         "name": "River of Dreams",
         "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
       },
@@ -14888,7 +15032,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 198438,
       "name": "Strong, silent type",
       "url": "https://open.spotify.com/track/01bVdeoXeVupkwzC2kwHsW"
@@ -16076,7 +16220,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 168938,
       "name": "The View of Aurora",
       "url": "https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z"
@@ -16166,7 +16310,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 226907,
       "name": "Thea",
       "url": "https://open.spotify.com/track/6wyOFWdvUX8lKVVyzf2x5u"

@@ -1,12 +1,12 @@
 {
-  "description": "This is Jelly Roll. \u03a4\u03b1 \u03c0\u03b9\u03bf \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b1 \u03ba\u03bf\u03bc\u03bc\u03ac\u03c4\u03b9\u03b1, \u03c3\u03b5 \u03bc\u03af\u03b1 playlist.",
-  "num_followers": 234892,
+  "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
+  "num_followers": 235094,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAACfmAxm97cH1U35le+W2zR6",
+  "snapshot_id": "Zrf/AAAAAABcLNlqtMUcRnR8H7iWILHY",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enlisted",
-        "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
+        "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
+        "url": "https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi"
       },
       "artists": [
         {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
-        },
-        {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
         }
       ],
-      "duration_ms": 280647,
-      "name": "Almost Home",
-      "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
+      "duration_ms": 200733,
+      "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
+      "url": "https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT"
     },
     {
       "added_at": null,
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enlisted",
+        "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 280647,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 202675,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
-        "url": "https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
-      "url": "https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT"
     },
     {
       "added_at": null,

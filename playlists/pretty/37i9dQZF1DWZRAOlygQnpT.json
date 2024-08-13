@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar! Los Locos del Ritmo en portada.",
-  "num_followers": 91815,
+  "num_followers": 91854,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Roots Of Rock En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 126626,
-      "name": "Avientense Todos",
-      "url": "https://open.spotify.com/track/32kVN6PscmfBfSG9jy6gTg"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Rock, Puro Rock",
         "url": "https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 165573,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Roots Of Rock En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 126626,
+      "name": "Avientense Todos",
+      "url": "https://open.spotify.com/track/32kVN6PscmfBfSG9jy6gTg"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Roots Of Rock En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 97026,
+      "name": "Pan Con Mantequilla",
+      "url": "https://open.spotify.com/track/4hWIlKthIn4NGThpUVn5tj"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 156213,
       "name": "Fiebre - Fever",
       "url": "https://open.spotify.com/track/5Lp5euQo2kUiBRWopCiZFE"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Roots Of Rock En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 97026,
-      "name": "Pan Con Mantequilla",
-      "url": "https://open.spotify.com/track/4hWIlKthIn4NGThpUVn5tj"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE"
         }
       ],
-      "duration_ms": 156422,
-      "name": "Vuelve primavera",
-      "url": "https://open.spotify.com/track/3JeZSnIpeZJ2aQB2oLNv1N"
+      "duration_ms": 136786,
+      "name": "Cartas de amor en la arena - Love Letters in the Sand",
+      "url": "https://open.spotify.com/track/5P9ruhpi2GGK5xniYcvtO6"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1508,9 +1508,9 @@
           "url": "https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE"
         }
       ],
-      "duration_ms": 136786,
-      "name": "Cartas de amor en la arena - Love Letters in the Sand",
-      "url": "https://open.spotify.com/track/5P9ruhpi2GGK5xniYcvtO6"
+      "duration_ms": 156422,
+      "name": "Vuelve primavera",
+      "url": "https://open.spotify.com/track/3JeZSnIpeZJ2aQB2oLNv1N"
     },
     {
       "added_at": "2020-04-17 21:51:59",

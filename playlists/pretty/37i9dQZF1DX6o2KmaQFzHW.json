@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 189158,
+  "num_followers": 189181,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Sole y Horacio juntos por \u00danica Vez (Grabado en Vivo en el Luna Park)",
-        "url": "https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 511746,
-      "name": "Bloque Romantico: Nada Tengo de Ti / Quiero Tu Voz / No Quisiera Quererte / Amar Amando - En Vivo",
-      "url": "https://open.spotify.com/track/4DP2160LC4dW6RTNeYQvMB"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Correntinas II",
         "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 156866,
       "name": "Alma Guaran\u00ed",
       "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Sole y Horacio juntos por \u00danica Vez (Grabado en Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 511746,
+      "name": "Bloque Romantico: Nada Tengo de Ti / Quiero Tu Voz / No Quisiera Quererte / Amar Amando - En Vivo",
+      "url": "https://open.spotify.com/track/4DP2160LC4dW6RTNeYQvMB"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+        "name": "Diez a\u00f1os de Soledad",
+        "url": "https://open.spotify.com/album/3PAYI7EzSG51CpX9S80qxV"
       },
       "artists": [
         {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
+      "duration_ms": 151373,
+      "name": "Yo Vendo Unos Ojos Negros",
+      "url": "https://open.spotify.com/track/1yJfVmvBQ74NwpiEfvoIit"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Diez a\u00f1os de Soledad",
-        "url": "https://open.spotify.com/album/3PAYI7EzSG51CpX9S80qxV"
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
       },
       "artists": [
         {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
         }
       ],
-      "duration_ms": 151373,
-      "name": "Yo Vendo Unos Ojos Negros",
-      "url": "https://open.spotify.com/track/1yJfVmvBQ74NwpiEfvoIit"
+      "duration_ms": 200040,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Mama Vieja",
-      "url": "https://open.spotify.com/track/7GxW2uJnZEkDeDiO74hanI"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Aqui Cosquin",
         "url": "https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 181386,
       "name": "Romance de Plumas Verdes",
       "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Mama Vieja",
+      "url": "https://open.spotify.com/track/7GxW2uJnZEkDeDiO74hanI"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Lo Mejor de la Zamba Argentina",
-        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
-      },
-      "artists": [
-        {
-          "name": "Los de Suqu\u00eda",
-          "url": "https://open.spotify.com/artist/3iEg5numUhc50LO7sLCHY6"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Canci\u00f3n para una Mentira",
-      "url": "https://open.spotify.com/track/3OeSLQkkbUF5hfDHrmFThs"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Secretos de Familia",
         "url": "https://open.spotify.com/album/52Y9ibi8pyfcZRMyFNwJ2c"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 172373,
       "name": "Fortuna, Fama y Poder",
       "url": "https://open.spotify.com/track/7EMyNkEiancyDIl5OBRbce"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Lo Mejor de la Zamba Argentina",
+        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
+      },
+      "artists": [
+        {
+          "name": "Los de Suqu\u00eda",
+          "url": "https://open.spotify.com/artist/3iEg5numUhc50LO7sLCHY6"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Canci\u00f3n para una Mentira",
+      "url": "https://open.spotify.com/track/3OeSLQkkbUF5hfDHrmFThs"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Cantas T\u00fa, Canto Yo",
-        "url": "https://open.spotify.com/album/5URTFnqKE3e1MINrqVjAgF"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Chibidon",
-      "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Grandes Exitos (Serie De Oro)",
         "url": "https://open.spotify.com/album/3rEBrFbu2Gf4jeg6Rjzo0T"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 145693,
       "name": "Camino al Amor",
       "url": "https://open.spotify.com/track/0RvY0zu9rB1CKW0FwNr627"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Cantas T\u00fa, Canto Yo",
+        "url": "https://open.spotify.com/album/5URTFnqKE3e1MINrqVjAgF"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Chibidon",
+      "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1747,38 +1747,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Antol\u00f3gico",
-        "url": "https://open.spotify.com/album/4SQb1bIPv3pkmgzIjIxHz3"
-      },
-      "artists": [
-        {
-          "name": "Polo Rom\u00e1n y Salta Trio",
-          "url": "https://open.spotify.com/artist/4SCayb8SLDyq3OcSz2GVkm"
-        }
-      ],
-      "duration_ms": 161881,
-      "name": "La Sanlorence\u00f1a",
-      "url": "https://open.spotify.com/track/2kD7pDdnnzZZRtNVq4oRE1"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Toda Una Vida",
-        "url": "https://open.spotify.com/album/121Kqyyc83tndCB8NWb9Gt"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Adonde Est\u00e1n los P\u00e1jaros Que Mueren",
-      "url": "https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Tonada del viejo amor",
         "url": "https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih"
       },
@@ -1799,18 +1767,34 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Los Tekis-Los Elegidos",
-        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
+        "name": "Toda Una Vida",
+        "url": "https://open.spotify.com/album/121Kqyyc83tndCB8NWb9Gt"
       },
       "artists": [
         {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
         }
       ],
-      "duration_ms": 196413,
-      "name": "Cantas T\u00fa, Canto Yo",
-      "url": "https://open.spotify.com/track/5IJ9BpJg40GItALp4XY3HK"
+      "duration_ms": 206693,
+      "name": "Adonde Est\u00e1n los P\u00e1jaros Que Mueren",
+      "url": "https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Antol\u00f3gico",
+        "url": "https://open.spotify.com/album/4SQb1bIPv3pkmgzIjIxHz3"
+      },
+      "artists": [
+        {
+          "name": "Polo Rom\u00e1n y Salta Trio",
+          "url": "https://open.spotify.com/artist/4SCayb8SLDyq3OcSz2GVkm"
+        }
+      ],
+      "duration_ms": 161881,
+      "name": "La Sanlorence\u00f1a",
+      "url": "https://open.spotify.com/track/2kD7pDdnnzZZRtNVq4oRE1"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1843,6 +1827,22 @@
       "duration_ms": 194136,
       "name": "Lucero Cantor",
       "url": "https://open.spotify.com/track/5Rr0MwgF3sDqch1brtSunL"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Los Tekis-Los Elegidos",
+        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 196413,
+      "name": "Cantas T\u00fa, Canto Yo",
+      "url": "https://open.spotify.com/track/5IJ9BpJg40GItALp4XY3HK"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Antig\u00fcedades (En Vivo)",
-        "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
-      },
-      "artists": [
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
-        }
-      ],
-      "duration_ms": 303555,
-      "name": "Run Run Se Fue Pa'l Norte - En Vivo",
-      "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Canci\u00f3n en Nuestra Casa",
         "url": "https://open.spotify.com/album/4acj7Ja3ihQwCOnKvvDjuM"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 201440,
       "name": "Canci\u00f3n en Nuestra Casa",
       "url": "https://open.spotify.com/track/4mNF1bgifjsoEifrRW0aZU"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Antig\u00fcedades (En Vivo)",
+        "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
+      },
+      "artists": [
+        {
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
+        }
+      ],
+      "duration_ms": 303555,
+      "name": "Run Run Se Fue Pa'l Norte - En Vivo",
+      "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Juancito Carnaval",
-        "url": "https://open.spotify.com/album/08eFM7C6sToLKcMy81rVNl"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 179815,
-      "name": "Juancito Carnaval",
-      "url": "https://open.spotify.com/track/7JPRCdl8DaS85xs1B0p4RW"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Folklore Argentino",
         "url": "https://open.spotify.com/album/02PuvyPY2ohmihaFVkaE4M"
       },
@@ -2011,6 +1995,38 @@
       "duration_ms": 166066,
       "name": "Zamba de Vargas",
       "url": "https://open.spotify.com/track/2WN7uSvBMc2MUnnpoAQ57m"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
+        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
+      },
+      "artists": [
+        {
+          "name": "Los 4 De Cordoba",
+          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+        }
+      ],
+      "duration_ms": 238027,
+      "name": "Por Hacer la Am\u00e9rica",
+      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Juancito Carnaval",
+        "url": "https://open.spotify.com/album/08eFM7C6sToLKcMy81rVNl"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Juancito Carnaval",
+      "url": "https://open.spotify.com/track/7JPRCdl8DaS85xs1B0p4RW"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2079,22 +2095,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "La Ley Y La Trampa",
-        "url": "https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "La Ley Y La Trampa",
-      "url": "https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "El Duende De Las Guitarras",
         "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
       },
@@ -2107,38 +2107,6 @@
       "duration_ms": 166000,
       "name": "Las Manos De Mi Madre",
       "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
-        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
-      },
-      "artists": [
-        {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
-        }
-      ],
-      "duration_ms": 238027,
-      "name": "Por Hacer la Am\u00e9rica",
-      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Musicos - Cantores Kuska (Juntos) [En Vivo]",
-        "url": "https://open.spotify.com/album/2KruPURJwzR5o8UEo9IGId"
-      },
-      "artists": [
-        {
-          "name": "Sixto Palavecino",
-          "url": "https://open.spotify.com/artist/7J3PlfvQyxabanXsQQtJf0"
-        }
-      ],
-      "duration_ms": 157805,
-      "name": "S\u00f3lo le pido a Dios - En Vivo",
-      "url": "https://open.spotify.com/track/1sCW3cwb0McvHe1RXwg1xA"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2159,6 +2127,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Musicos - Cantores Kuska (Juntos) [En Vivo]",
+        "url": "https://open.spotify.com/album/2KruPURJwzR5o8UEo9IGId"
+      },
+      "artists": [
+        {
+          "name": "Sixto Palavecino",
+          "url": "https://open.spotify.com/artist/7J3PlfvQyxabanXsQQtJf0"
+        }
+      ],
+      "duration_ms": 157805,
+      "name": "S\u00f3lo le pido a Dios - En Vivo",
+      "url": "https://open.spotify.com/track/1sCW3cwb0McvHe1RXwg1xA"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto (En Vivo) [En Vivo en el Teatro Col\u00f3n]",
         "url": "https://open.spotify.com/album/7x6C47bUm4asmVz4UIvl2l"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 288866,
       "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
       "url": "https://open.spotify.com/track/54Z1VfgxdIW0n19Df9r9Sy"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "La Ley Y La Trampa",
+        "url": "https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "La Ley Y La Trampa",
+      "url": "https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Arde la Vida",
-        "url": "https://open.spotify.com/album/5WNBaGEHkLenCuWY0Unnl1"
-      },
-      "artists": [
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
-        }
-      ],
-      "duration_ms": 147786,
-      "name": "Volver\u00e9 a Salavina",
-      "url": "https://open.spotify.com/track/78fIapn9oUUBk1B2wCdBJd"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Grandes Del Folklore",
         "url": "https://open.spotify.com/album/10sMUx7o8wqKvctxvatyi3"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 181506,
       "name": "No Te Puedo Olvidar",
       "url": "https://open.spotify.com/track/0aGS8vkuScHGUomEiUo2ri"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Arde la Vida",
+        "url": "https://open.spotify.com/album/5WNBaGEHkLenCuWY0Unnl1"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "duration_ms": 147786,
+      "name": "Volver\u00e9 a Salavina",
+      "url": "https://open.spotify.com/track/78fIapn9oUUBk1B2wCdBJd"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
+        "url": "https://open.spotify.com/album/6eHS88kUgb7yGCOxXFpYmU"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 770851,
+      "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
+      "url": "https://open.spotify.com/track/1IR1Pxh6ctS4A2UaBlHW02"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Ckayna Cunan Vol. II",
         "url": "https://open.spotify.com/album/75IDvIit5HUmdaIylKPR7t"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 229877,
       "name": "El Pastor",
       "url": "https://open.spotify.com/track/2rx096DLTOIwU5WcE3oIKn"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
-        "url": "https://open.spotify.com/album/6eHS88kUgb7yGCOxXFpYmU"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 770851,
-      "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
-      "url": "https://open.spotify.com/track/1IR1Pxh6ctS4A2UaBlHW02"
     },
     {
       "added_at": "2024-07-12 03:00:00",

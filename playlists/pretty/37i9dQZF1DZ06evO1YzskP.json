@@ -1,12 +1,12 @@
 {
-  "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
-  "num_followers": 31650,
+  "description": "This is La Receta. The essential tracks, all in one playlist.",
+  "num_followers": 31816,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZratgAAAAAAaGL1OJkg9eRB6uDwSNPoa",
+  "snapshot_id": "Zrf/AAAAAAAXHFyCigcL29W6ipIg7pV1",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/0Ns7RqQCUjEUJdyDNDac7e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don Ismael",
         "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 158938,
       "name": "Don Ismael",
       "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/0Ns7RqQCUjEUJdyDNDac7e"
     },
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Receta",
-        "url": "https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 136416,
-      "name": "La Receta",
-      "url": "https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 208413,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/2iO3N5docEHN5irGJRVoqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Receta",
+        "url": "https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 136416,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ciega X \u00c9l",
-        "url": "https://open.spotify.com/album/5uwrSMVvMNqK8dJi7iX0fC"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 235775,
-      "name": "Ciega X \u00c9l",
-      "url": "https://open.spotify.com/track/1peVaihQpEOjNGWtQecRVI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 216800,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ciega X \u00c9l",
+        "url": "https://open.spotify.com/album/5uwrSMVvMNqK8dJi7iX0fC"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 235775,
+      "name": "Ciega X \u00c9l",
+      "url": "https://open.spotify.com/track/1peVaihQpEOjNGWtQecRVI"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/3J4oi4vGsPrgTjk6PSqY7B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 165826,
       "name": "Tiempos De Guerra",
       "url": "https://open.spotify.com/track/4H8FjCpqI9EXaau6T5yILG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/3J4oi4vGsPrgTjk6PSqY7B"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Apenas Es Martes",
-      "url": "https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 165213,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/4ygqxH6686TXD7gcINcAFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Apenas Es Martes",
+      "url": "https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M"
     },
     {
       "added_at": null,
@@ -403,62 +403,6 @@
       "duration_ms": 216633,
       "name": "Apenas es Martes",
       "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Las Facetas de Arturo (En Vivo)",
-      "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Amigo 09",
-      "url": "https://open.spotify.com/track/6u2zEs6QmaVYbuQFzh8JVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 191680,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/5xoKKIe9gXElFpt8laxDXc"
     },
     {
       "added_at": null,
@@ -487,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 167321,
-      "name": "No Voy Con Rodeos",
-      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
+      "duration_ms": 191680,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/5xoKKIe9gXElFpt8laxDXc"
     },
     {
       "added_at": null,
@@ -512,9 +460,45 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 163040,
-      "name": "Los Pasajes Del Sera",
-      "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
+      "duration_ms": 169400,
+      "name": "Amigo 09",
+      "url": "https://open.spotify.com/track/6u2zEs6QmaVYbuQFzh8JVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Las Facetas de Arturo (En Vivo)",
+      "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 167321,
+      "name": "No Voy Con Rodeos",
+      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Fuerte",
-        "url": "https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5"
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 150600,
-      "name": "El Fuerte",
-      "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
+      "duration_ms": 163040,
+      "name": "Los Pasajes Del Sera",
+      "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
     },
     {
       "added_at": null,
@@ -571,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
+        "name": "El Fuerte",
+        "url": "https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 174680,
-      "name": "Chavo F\u00e9lix",
-      "url": "https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W"
+      "duration_ms": 150600,
+      "name": "El Fuerte",
+      "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
     },
     {
       "added_at": null,
@@ -603,6 +583,22 @@
       "duration_ms": 149946,
       "name": "El Pap\u00e1 De Los Pitufos",
       "url": "https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Mcklein (Comanches)",
+      "url": "https://open.spotify.com/track/2YdwRw1wiAmgLfQKPIBR4J"
     },
     {
       "added_at": null,
@@ -643,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Mcklein (Comanches)",
-      "url": "https://open.spotify.com/track/2YdwRw1wiAmgLfQKPIBR4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sombrero De Lado",
         "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 191973,
       "name": "El Nieto Del Mayo",
       "url": "https://open.spotify.com/track/3UlOVxthiA5teotaf00kCk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Chavo F\u00e9lix",
+      "url": "https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "El Ni\u00f1o De La Tuna",
-      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sombrero De Lado",
         "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 128759,
       "name": "Arturon Beltran",
       "url": "https://open.spotify.com/track/2C7h3MeFi2lQpYyPJYLnxQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "El Ni\u00f1o De La Tuna",
+      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 146960,
-      "name": "Los Ninis",
-      "url": "https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sombrero De Lado",
         "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 158733,
       "name": "El Sombero De Lado",
       "url": "https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 146960,
+      "name": "Los Ninis",
+      "url": "https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Los Placeres De Archivaldo",
-      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El JP (En Vivo)",
         "url": "https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 202120,
       "name": "El JP (En Vivo)",
       "url": "https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Los Placeres De Archivaldo",
+      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
     },
     {
       "added_at": null,

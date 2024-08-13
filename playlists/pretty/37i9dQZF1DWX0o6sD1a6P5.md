@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,886 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,093 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 41 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 |
 | 42 | [Dis\-Le Moi](https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis\-Le Moi](https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp) | 3:20 |
 | 43 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 |
-| 44 | [Metti \(feat\. Emma'a\)](https://open.spotify.com/track/71XmYb0EzVXYANode3rbPc) | [Papi](https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Metti \(feat\. Emma'a\)](https://open.spotify.com/album/3umtrewfcHdu7J4pV6Wj6L) | 2:37 |
-| 45 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
-| 46 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
-| 47 | [LV](https://open.spotify.com/track/2uDFdzVQ7QFEPoagFlMxRB) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [LV](https://open.spotify.com/album/4qtJhVIXtYsOmRYDlcnFOi) | 2:20 |
-| 48 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 |
-| 49 | [MA MONEY \(feat\. Jungeli, Harley & Mayorkun\)](https://open.spotify.com/track/1oVFlv6k2wkHsh681OFHW1) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [MA MONEY \(feat\. Jungeli, Harley & Mayorkun\)](https://open.spotify.com/album/5VoinLQ42gOo5as81JDfOU) | 3:01 |
-| 50 | [Stubborn \(with Asake\)](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 |
+| 44 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
+| 45 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
+| 46 | [LV](https://open.spotify.com/track/2uDFdzVQ7QFEPoagFlMxRB) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [LV](https://open.spotify.com/album/4qtJhVIXtYsOmRYDlcnFOi) | 2:20 |
+| 47 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 |
+| 48 | [MA MONEY \(feat\. Jungeli, Harley & Mayorkun\)](https://open.spotify.com/track/1oVFlv6k2wkHsh681OFHW1) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [MA MONEY \(feat\. Jungeli, Harley & Mayorkun\)](https://open.spotify.com/album/5VoinLQ42gOo5as81JDfOU) | 3:01 |
+| 49 | [Stubborn \(with Asake\)](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 |
 
-Snapshot ID: `ZrU/4AAAAACEDFxrMIg+rvFDUb/jyZCl`
+Snapshot ID: `Zrm0QAAAAAC2iH8mHBK7mBjoo7NVAADN`

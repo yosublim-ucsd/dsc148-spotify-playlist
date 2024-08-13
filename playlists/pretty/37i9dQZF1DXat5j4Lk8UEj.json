@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 488438,
+  "num_followers": 488433,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Old Sob Story",
+        "url": "https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Old Sob Story",
+      "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Ever Since I Lost My Mind",
         "url": "https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 244160,
       "name": "How Low",
       "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Old Sob Story",
-        "url": "https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Old Sob Story",
-      "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Holster",
-        "url": "https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 180925,
-      "name": "Holster",
-      "url": "https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Shaken",
         "url": "https://open.spotify.com/album/0tsawKgTplw8ILM9tkIpIs"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 235591,
       "name": "Shaken",
       "url": "https://open.spotify.com/track/1vrowatdp0nH5e5iAnNFqx"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Holster",
+        "url": "https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 180925,
+      "name": "Holster",
+      "url": "https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "The First Day",
         "url": "https://open.spotify.com/album/18JbYJrl9GZMOc06cQpmIm"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 250480,
       "name": "The First Day",
       "url": "https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Total Freedom",
-        "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Edwards",
-          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
-        }
-      ],
-      "duration_ms": 270120,
-      "name": "Glenfern",
-      "url": "https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 257117,
       "name": "Hands On The Wheel (Feat. Particle Kid) (Recorded at Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Total Freedom",
+        "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "duration_ms": 270120,
+      "name": "Glenfern",
+      "url": "https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Love At Your Convenience",
-        "url": "https://open.spotify.com/album/60a4GdYNRT135ejymVVsCt"
-      },
-      "artists": [
-        {
-          "name": "The Ghost of Paul Revere",
-          "url": "https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Love At Your Convenience",
-      "url": "https://open.spotify.com/track/5RmYeDWwImW4OC63UQsbG0"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Oh Dear Brother",
         "url": "https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+        "name": "Love At Your Convenience",
+        "url": "https://open.spotify.com/album/60a4GdYNRT135ejymVVsCt"
       },
       "artists": [
         {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+          "name": "The Ghost of Paul Revere",
+          "url": "https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG"
         }
       ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
+      "duration_ms": 213920,
+      "name": "Love At Your Convenience",
+      "url": "https://open.spotify.com/track/5RmYeDWwImW4OC63UQsbG0"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1275,6 +1259,22 @@
       "duration_ms": 185862,
       "name": "The Records Were Ours",
       "url": "https://open.spotify.com/track/4UdsKKXEUAFqufpanvpdsW"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Cool Jam/Good For You",
-        "url": "https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Cool Jam",
-      "url": "https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Joni",
         "url": "https://open.spotify.com/album/65ya5KxjHZwBDgQfGePOA9"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 175485,
       "name": "Joni",
       "url": "https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Cool Jam/Good For You",
+        "url": "https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Cool Jam",
+      "url": "https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Devil and the Sea",
-        "url": "https://open.spotify.com/album/5XkuCSfJsRRNsBJTfpfLEs"
+        "name": "Starting from Scratch",
+        "url": "https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk"
       },
       "artists": [
         {
-          "name": "Streets of Laredo",
-          "url": "https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t"
+          "name": "Carl Broemel",
+          "url": "https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR"
         }
       ],
-      "duration_ms": 218573,
-      "name": "Devil and the Sea",
-      "url": "https://open.spotify.com/track/4MvLYfOKCq2iFfANg0WNxR"
+      "duration_ms": 189425,
+      "name": "Starting from Scratch",
+      "url": "https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs"
     }
   ],
   "unique_name": "Folk Rock Favorites",

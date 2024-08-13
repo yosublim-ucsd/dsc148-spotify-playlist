@@ -1,13 +1,29 @@
 {
   "description": "To the world, Here is NCT! Hi we are NCT!",
-  "num_followers": 645386,
+  "num_followers": 645343,
   "original_name": "This Is NCT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrS6GwAAAABkhmri94e6v4dPRKyH0vRs",
+  "snapshot_id": "ZrnPEAAAAADU7iFLKPo0/kCDx78Be3zB",
   "tracks": [
+    {
+      "added_at": "2024-08-12 09:00:00",
+      "album": {
+        "name": "Roses/Dandelion",
+        "url": "https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y"
+    },
     {
       "added_at": "2024-08-08 12:29:15",
       "album": {

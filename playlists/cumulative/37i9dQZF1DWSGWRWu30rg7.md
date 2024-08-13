@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Adifa
+> Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  L/
 
 3,742 songs - 9 day 13 hr 32 min
 

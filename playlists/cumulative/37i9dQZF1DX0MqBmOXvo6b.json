@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-13",
       "duration_ms": 226868,
       "name": "Distances",
       "url": "https://open.spotify.com/track/3MJkEsmJfxO7JiOJjlEm8Z"
@@ -5828,6 +5828,24 @@
       "duration_ms": 121308,
       "name": "Minor Fable",
       "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
+    },
+    {
+      "album": {
+        "name": "Minorities",
+        "url": "https://open.spotify.com/album/48ludebOOiB7RpPpgtEhxs"
+      },
+      "artists": [
+        {
+          "name": "Matti Aalto",
+          "url": "https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169179,
+      "name": "Minorities",
+      "url": "https://open.spotify.com/track/0WGxduCskRMRz2sBkHgpDg"
     },
     {
       "album": {
