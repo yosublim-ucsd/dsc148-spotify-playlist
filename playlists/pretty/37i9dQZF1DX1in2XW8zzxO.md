@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,214 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,265 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 45 | [OMALICHA](https://open.spotify.com/track/08oUbg2xP9viDnYcKacUd8) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [OMALICHA](https://open.spotify.com/album/475ZCSpGCvPOnDpJexgsd8) | 4:00 |
 | 46 | [Johnny](https://open.spotify.com/track/5cmq3bQRln1nrn8cRtZCPf) | [Ney](https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Sthibo de Beat](https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Johnny](https://open.spotify.com/album/1n99YYqW3PqB4d1GdxfvS5) | 6:18 |
 | 47 | [Faki Frostan](https://open.spotify.com/track/788JM8h2eYszhoWmCvk8Ij) | [MacG](https://open.spotify.com/artist/6qPPkGBICY50eIP0cOiHqf), [Fiso el Musica](https://open.spotify.com/artist/1oFcgC4c32VaCNNlA9UrGC), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx) | [Faki Frostan](https://open.spotify.com/album/7BN3n0xsYkyRLDY3WQRotD) | 7:00 |
-| 48 | [Shuffle](https://open.spotify.com/track/0jLE159BmNIIwongqStIp1) | [Shuffle Muzik](https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x), [Fire](https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN), [Lynden X](https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a), [Thabsoul](https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT) | [Shuffle](https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i) | 6:15 |
-| 49 | [QOBA \- DJ Cleo Remix](https://open.spotify.com/track/5rMDM8kmuB6awQdLIN3VsN) | [Toya Delazy](https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5), [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [QOBA \(DJ Cleo Remix\)](https://open.spotify.com/album/5RfxrbrKA8NtEDv6JHN0DB) | 4:39 |
+| 48 | [QOBA \- DJ Cleo Remix](https://open.spotify.com/track/5rMDM8kmuB6awQdLIN3VsN) | [Toya Delazy](https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5), [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [QOBA \(DJ Cleo Remix\)](https://open.spotify.com/album/5RfxrbrKA8NtEDv6JHN0DB) | 4:39 |
+| 49 | [Shuffle](https://open.spotify.com/track/0jLE159BmNIIwongqStIp1) | [Shuffle Muzik](https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x), [Fire](https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN), [Lynden X](https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a), [Thabsoul](https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT) | [Shuffle](https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i) | 6:15 |
 | 50 | [Mina Nawe \- Radio Edit](https://open.spotify.com/track/7nAXecq3zqlOb64OjYCFD5) | [Donel](https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT), [Dankie Sounds](https://open.spotify.com/artist/2a5DGG7t8k1ewZPhXV546C) | [Mina Nawe](https://open.spotify.com/album/3Wmq33GKBysdwDSq9ds6rq) | 3:44 |
 
 Snapshot ID: `ZrnyiAAAAABMO34QZoWzGwtp7qTdJfCO`

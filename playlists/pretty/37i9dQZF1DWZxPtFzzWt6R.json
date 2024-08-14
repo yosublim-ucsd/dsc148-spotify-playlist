@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 85737,
+  "num_followers": 85764,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-08-09 18:35:09",
       "album": {
+        "name": "A Resposta \u00c9 Deus",
+        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 256450,
+      "name": "A Resposta \u00c9 Deus",
+      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+    },
+    {
+      "added_at": "2024-08-09 18:35:09",
+      "album": {
         "name": "A Esperan\u00e7a Que Restou",
         "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 281941,
       "name": "A Esperan\u00e7a Que Restou",
       "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
-    },
-    {
-      "added_at": "2024-08-09 18:35:09",
-      "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 284505,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
     },
     {
       "added_at": "2024-08-09 18:35:09",
@@ -679,8 +679,8 @@
     {
       "added_at": "2024-08-09 18:35:09",
       "album": {
-        "name": "A Resposta \u00c9 Deus",
-        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
         }
       ],
-      "duration_ms": 256450,
-      "name": "A Resposta \u00c9 Deus",
-      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+      "duration_ms": 284505,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
     },
     {
       "added_at": "2024-08-09 18:35:09",
@@ -711,18 +711,22 @@
     {
       "added_at": "2024-08-09 18:35:09",
       "album": {
-        "name": "O Meu Clamor, Vol. 2",
-        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
+        "name": "Vou Embora pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S"
       },
       "artists": [
         {
           "name": "Gerson Rufino",
           "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Ovelha Rebelde",
-      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
+      "duration_ms": 214786,
+      "name": "Vou Embora pro C\u00e9u",
+      "url": "https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl"
     },
     {
       "added_at": "2024-08-09 18:35:09",
@@ -835,22 +839,6 @@
     {
       "added_at": "2024-08-09 18:35:09",
       "album": {
-        "name": "Quem Procura Acha",
-        "url": "https://open.spotify.com/album/30VFooHGuhOWOFMJkSKJZn"
-      },
-      "artists": [
-        {
-          "name": "Joy Camargo",
-          "url": "https://open.spotify.com/artist/6fRHIW5YdnSr2eJorBBECK"
-        }
-      ],
-      "duration_ms": 182878,
-      "name": "Quem Procura Acha",
-      "url": "https://open.spotify.com/track/0t34g5rLBbVubjIzQdgCKn"
-    },
-    {
-      "added_at": "2024-08-09 18:35:09",
-      "album": {
         "name": "Um Lugar \u00e0 Mesa",
         "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
       },
@@ -863,6 +851,22 @@
       "duration_ms": 240569,
       "name": "Um Lugar \u00e0 Mesa",
       "url": "https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e"
+    },
+    {
+      "added_at": "2024-08-09 18:35:09",
+      "album": {
+        "name": "Quem Procura Acha",
+        "url": "https://open.spotify.com/album/30VFooHGuhOWOFMJkSKJZn"
+      },
+      "artists": [
+        {
+          "name": "Joy Camargo",
+          "url": "https://open.spotify.com/artist/6fRHIW5YdnSr2eJorBBECK"
+        }
+      ],
+      "duration_ms": 182878,
+      "name": "Quem Procura Acha",
+      "url": "https://open.spotify.com/track/0t34g5rLBbVubjIzQdgCKn"
     },
     {
       "added_at": "2024-08-09 18:35:09",
@@ -979,6 +983,22 @@
     {
       "added_at": "2024-08-09 18:35:09",
       "album": {
+        "name": "O Meu Clamor, Vol. 2",
+        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Ovelha Rebelde",
+      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
+    },
+    {
+      "added_at": "2024-08-09 18:35:09",
+      "album": {
         "name": "Al\u00e9m da Medicina",
         "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 286133,
       "name": "Al\u00e9m da Medicina",
       "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
-    },
-    {
-      "added_at": "2024-08-09 18:35:09",
-      "album": {
-        "name": "Vou Embora pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "Vou Embora pro C\u00e9u",
-      "url": "https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl"
     },
     {
       "added_at": "2024-08-09 18:35:09",

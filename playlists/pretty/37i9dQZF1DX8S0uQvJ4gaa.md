@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,489 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,593 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 70 | [Glass](https://open.spotify.com/track/1KKSY3c6iCW7pLplq9pzd6) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Glass](https://open.spotify.com/album/4zGtsl4HR5X0iXIT4VyHkU) | 3:06 |
 | 71 | [Neon Nowhere](https://open.spotify.com/track/3f2HzCPTvTN6xEimsGvCCn) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [4 Wheel Low](https://open.spotify.com/album/4V1Q5XNa54DjLhMJi17edR) | 2:52 |
 | 72 | [The Man He Sees in Me](https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Man He Sees in Me](https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt) | 2:45 |
-| 73 | [4x4xU](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4x4xU](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
+| 73 | [4×4×U](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4×4×U](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
 | 74 | [More Than A Prayer](https://open.spotify.com/track/30hhkjL3FB3Y2BoWsn1oGo) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [More Than A Prayer](https://open.spotify.com/album/3REJ10imAC6BnIihUhwTyO) | 2:44 |
 | 75 | [Drinkin' Buddies](https://open.spotify.com/track/4OlwATEogDh1BfEoWsRpeC) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Drinkin' Buddies](https://open.spotify.com/album/7mf5bckIwzkxhUVpoC6IWN) | 3:17 |
 | 76 | [Put A Boot In It](https://open.spotify.com/track/4NCXv4cKqU9EHurkces6K7) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Put A Boot In It](https://open.spotify.com/album/1z8e3IzwyyoaUOxSWYgKJ1) | 3:00 |

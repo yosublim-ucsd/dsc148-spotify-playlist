@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12859,
+  "num_followers": 12858,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,18 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu"
+        "name": "Rebel Frequency",
+        "url": "https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR"
       },
       "artists": [
         {
-          "name": "Will Evans",
-          "url": "https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8"
-        },
-        {
-          "name": "Ben Fagan",
-          "url": "https://open.spotify.com/artist/68UAGPFWJbwW0JUscJVM3O"
+          "name": "Nattali Rize",
+          "url": "https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv"
         }
       ],
-      "duration_ms": 250915,
-      "name": "Adam & Eve (feat. Ben Fagan)",
-      "url": "https://open.spotify.com/track/4ZKAt72ICUQxUWAVYzVB0Y"
+      "duration_ms": 240440,
+      "name": "One People",
+      "url": "https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -679,18 +675,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Rebel Frequency",
-        "url": "https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu"
       },
       "artists": [
         {
-          "name": "Nattali Rize",
-          "url": "https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv"
+          "name": "Will Evans",
+          "url": "https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8"
+        },
+        {
+          "name": "Ben Fagan",
+          "url": "https://open.spotify.com/artist/68UAGPFWJbwW0JUscJVM3O"
         }
       ],
-      "duration_ms": 240440,
-      "name": "One People",
-      "url": "https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv"
+      "duration_ms": 250915,
+      "name": "Adam & Eve (feat. Ben Fagan)",
+      "url": "https://open.spotify.com/track/4ZKAt72ICUQxUWAVYzVB0Y"
     },
     {
       "added_at": "2024-03-25 16:49:10",

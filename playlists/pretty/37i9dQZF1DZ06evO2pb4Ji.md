@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,077 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,059 likes - 51 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 35 | [Starts Right Here](https://open.spotify.com/track/0MovQqn6F6M1kyAiBIn5CA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Starts Right Here](https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX) | 3:05 |
 | 36 | [Shine On](https://open.spotify.com/track/4NL6HJer1ViiI2BEWO1d3c) | [Legends of Runeterra](https://open.spotify.com/artist/3rZDp6jeBal6cdTyi50EYb), [Brain Tan](https://open.spotify.com/artist/3K9UVvuVwQZbO35b8uBsdb), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Shine On](https://open.spotify.com/album/0TATIDURuDWbpmq54rOzFn) | 3:52 |
 | 37 | [Rise \(Redux\)](https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Rise \(Redux\)](https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC) | 3:14 |
-| 38 | [Aurora, the Witch Between Worlds](https://open.spotify.com/track/6ilIDnxRnLam92QARefoc3) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aurora, the Witch Between Worlds](https://open.spotify.com/album/2Cm34CjKMF3N25ag6M728j) | 3:24 |
-| 39 | [Mi Clan](https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Clan](https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo) | 2:18 |
+| 38 | [Mi Clan](https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Clan](https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo) | 2:18 |
+| 39 | [Aurora, the Witch Between Worlds](https://open.spotify.com/track/6ilIDnxRnLam92QARefoc3) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aurora, the Witch Between Worlds](https://open.spotify.com/album/2Cm34CjKMF3N25ag6M728j) | 3:24 |
 | 40 | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab) | 4:01 |
 | 41 | [REMIX RUMBLE](https://open.spotify.com/track/1AG7YrtmqKDQTe3wpBXKhp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [REMIX RUMBLE \(Steve Aoki Remix\)](https://open.spotify.com/album/1Dk05oKAHWIFyN5kIWlTQ5) | 3:37 |
 | 42 | [Burning Bright](https://open.spotify.com/track/6d2cQyhS2E4ai0VuNCorFC) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Burning Bright](https://open.spotify.com/album/25DYEijVSAPC4w9R1BxtsS) | 3:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 50 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 |
 | 51 | [Kindred, the Eternal Hunters \(From League of Legends: Season 5\)](https://open.spotify.com/track/7ki1GOGTzJGJAvxv6LndoR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends: Season 5 \(Original Game Soundtrack\)](https://open.spotify.com/album/0AaYIwH5G6w82B8iKOWCCb) | 2:33 |
 
-Snapshot ID: `Zrf/AAAAAAAgejfjzNJ5kImyXinjSqki`
+Snapshot ID: `ZrlQgAAAAABIjORTnNRnbZpjBvNV63bx`

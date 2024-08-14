@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 931 likes - 160 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 930 likes - 160 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 91 | [Te Acuerdas](https://open.spotify.com/track/7g3ezLhEW38T80iydvEyQz) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:47 |
 | 92 | [Tus Labios](https://open.spotify.com/track/20nypsN67nLGOfE4nGebns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:55 |
 | 93 | [Feliz de Mentira](https://open.spotify.com/track/5Yxlmh4fmu16ivEabEbD9l) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:11 |
-| 94 | [Lo Malo](https://open.spotify.com/track/4kIuPsijmLzK11RTCseKh7) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:08 |
-| 95 | [Miradas Raras](https://open.spotify.com/track/090hDgrCGBBnex7ojpX9Fi) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:15 |
+| 94 | [Miradas Raras](https://open.spotify.com/track/090hDgrCGBBnex7ojpX9Fi) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:15 |
+| 95 | [Lo Malo](https://open.spotify.com/track/4kIuPsijmLzK11RTCseKh7) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:08 |
 | 96 | [Duvibes](https://open.spotify.com/track/5CiWKzBkTveHezqY3TQmCW) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:00 |
 | 97 | [Oficial](https://open.spotify.com/track/1Adwhpmwhz1CSi7E7QTwIC) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:17 |
 | 98 | [Lo Que Dios Quiera](https://open.spotify.com/track/58EEYVahoZAK7crGM6qAwA) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:14 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 159 | [Interludio](https://open.spotify.com/track/6I2aC9x6YVtBh07da38dbN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 0:48 |
 | 160 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `AbZQNgAAAACQCgeo1EmGgGcvs0JfXxFp`
+Snapshot ID: `AbZV1gAAAAAy+VwNvDVIxLgx3vPxzyjN`

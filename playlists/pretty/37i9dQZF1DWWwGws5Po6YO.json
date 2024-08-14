@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Nala Sinephro",
-  "num_followers": 37792,
+  "num_followers": 37852,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
         "name": "Grafts",
         "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
-      },
-      "artists": [
-        {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
         "name": "Selected Works II",
         "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 335402,
       "name": "A Woman Escapes Cue 4",
       "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2024-08-12 14:12:23",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
+        "name": "Memories of Log",
+        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
+      },
+      "artists": [
+        {
+          "name": "Ulla",
+          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+        }
+      ],
+      "duration_ms": 400248,
+      "name": "Falling Water Lullaby",
+      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
-        "name": "Memories of Log",
-        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
-      },
-      "artists": [
-        {
-          "name": "Ulla",
-          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
-        }
-      ],
-      "duration_ms": 400248,
-      "name": "Falling Water Lullaby",
-      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
     },
     {
       "added_at": "2024-08-12 14:12:23",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "No. 4",
-        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        }
-      ],
-      "duration_ms": 170613,
-      "name": "At Dawn",
-      "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
+        "name": "No. 4",
+        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 170613,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
     },
     {
       "added_at": "2024-08-12 14:12:23",
@@ -1171,42 +1171,6 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "@0",
-        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
-      },
-      "artists": [
-        {
-          "name": "Mira Calix",
-          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "dana\u00efdes",
-      "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
-        "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
-        "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
-      },
-      "artists": [
-        {
-          "name": "Hannah Lee",
-          "url": "https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy"
-        },
-        {
-          "name": "El Le\u00f3n Pardo",
-          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
-        }
-      ],
-      "duration_ms": 1792000,
-      "name": "Sino Algo Que Produce Sombras?",
-      "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
         "name": "Blink a Few Times to Clear Your Eyes",
         "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
       },
@@ -1239,6 +1203,42 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
+        "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
+        "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
+      },
+      "artists": [
+        {
+          "name": "Hannah Lee",
+          "url": "https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy"
+        },
+        {
+          "name": "El Le\u00f3n Pardo",
+          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
+        }
+      ],
+      "duration_ms": 1792000,
+      "name": "Sino Algo Que Produce Sombras?",
+      "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
+        "name": "@0",
+        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
+      },
+      "artists": [
+        {
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "dana\u00efdes",
+      "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
         "name": "Epistasis",
         "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "Fur & Feather",
-        "url": "https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
         "name": "Fountainhead",
         "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 405570,
       "name": "fountainhead",
       "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
+        "name": "Fur & Feather",
+        "url": "https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
     },
     {
       "added_at": "2024-08-12 14:12:23",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
+        "name": "When This World Sleeps",
+        "url": "https://open.spotify.com/album/10ejf7X34wj0usEtGA65cQ"
+      },
+      "artists": [
+        {
+          "name": "Dita Redrum",
+          "url": "https://open.spotify.com/artist/0uSrH9aWp8RsO5aZSzZHap"
+        }
+      ],
+      "duration_ms": 194004,
+      "name": "Dark green",
+      "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
         "name": "Snow Ritual (feat. Ghost Marrow & Suzanne Ciani)",
         "url": "https://open.spotify.com/album/0Qj318iUtQEpmd2ip47IGt"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "When This World Sleeps",
-        "url": "https://open.spotify.com/album/10ejf7X34wj0usEtGA65cQ"
+        "name": "The Harmonic Series Volume 2",
+        "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
       },
       "artists": [
         {
-          "name": "Dita Redrum",
-          "url": "https://open.spotify.com/artist/0uSrH9aWp8RsO5aZSzZHap"
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
         }
       ],
-      "duration_ms": 194004,
-      "name": "Dark green",
-      "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
+      "duration_ms": 868000,
+      "name": "Pipe Inversions",
+      "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
     },
     {
       "added_at": "2024-08-12 14:12:23",
@@ -1415,22 +1431,6 @@
       "duration_ms": 434141,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/3szBS8kp9pGEcCWAzD0hI4"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
-        "name": "The Harmonic Series Volume 2",
-        "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
-      },
-      "artists": [
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 868000,
-      "name": "Pipe Inversions",
-      "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
     },
     {
       "added_at": "2024-08-12 14:12:23",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "Arboretum",
-        "url": "https://open.spotify.com/album/4U6CyXgC3ktaJMSbAaloJw"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 218505,
-      "name": "Winter into Spring",
-      "url": "https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
         "name": "The Light That's Left",
         "url": "https://open.spotify.com/album/3NtOQRJTmdeYpehXVp6IfB"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 198800,
       "name": "The Light That's Left",
       "url": "https://open.spotify.com/track/4ZHartv9VTHpoiouvJBnTk"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
+        "name": "Arboretum",
+        "url": "https://open.spotify.com/album/4U6CyXgC3ktaJMSbAaloJw"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 218505,
+      "name": "Winter into Spring",
+      "url": "https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE"
     },
     {
       "added_at": "2024-08-12 14:12:23",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/7tO4B8txFxMa6AkydiSS9X"
-      },
-      "artists": [
-        {
-          "name": "Aasma",
-          "url": "https://open.spotify.com/artist/7AyyDhDFJbQUqmbyswOXbv"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "Adventures",
-      "url": "https://open.spotify.com/track/3Sjlw0hiLr40wY4OTPQ8aQ"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
         "name": "The Sacrificial Code",
         "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "Desert Ballads",
-        "url": "https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/7tO4B8txFxMa6AkydiSS9X"
       },
       "artists": [
         {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+          "name": "Aasma",
+          "url": "https://open.spotify.com/artist/7AyyDhDFJbQUqmbyswOXbv"
         }
       ],
-      "duration_ms": 174758,
-      "name": "As We Record the Disappearing Ice",
-      "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
+      "duration_ms": 158826,
+      "name": "Adventures",
+      "url": "https://open.spotify.com/track/3Sjlw0hiLr40wY4OTPQ8aQ"
     },
     {
       "added_at": "2024-08-12 14:12:23",
@@ -1607,6 +1591,22 @@
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
+        "name": "Desert Ballads",
+        "url": "https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 174758,
+      "name": "As We Record the Disappearing Ice",
+      "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
     },
     {
       "added_at": "2024-08-12 14:12:23",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "We Wave From Our Boats",
-        "url": "https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
         "name": "My People Have Deep Roots",
         "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
       },
@@ -1687,6 +1671,26 @@
       "duration_ms": 240000,
       "name": "My People Have Deep Roots",
       "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
+        "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
+        "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
+      },
+      "artists": [
+        {
+          "name": "Nathan Fake",
+          "url": "https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG"
+        },
+        {
+          "name": "AFRODEUTSCHE",
+          "url": "https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
+      "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
     }
   ],
   "unique_name": "Women of Ambient",

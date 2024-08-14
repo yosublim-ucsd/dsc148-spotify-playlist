@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 334284,
       "name": "AMA",
       "url": "https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP"
@@ -3749,6 +3749,28 @@
     },
     {
       "album": {
+        "name": "I Won't Go",
+        "url": "https://open.spotify.com/album/6SAV1sTCwzkQfFBoIQaALN"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Alphadog",
+          "url": "https://open.spotify.com/artist/0BCwCDWFMwyKChehFuZFdG"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361703,
+      "name": "I Won't Go",
+      "url": "https://open.spotify.com/track/4wihcfLFZXBu783CbgRHyZ"
+    },
+    {
+      "album": {
         "name": "If I Live Forever",
         "url": "https://open.spotify.com/album/2kEzeW5jxCUAaCDnPJ7jND"
       },
@@ -5452,7 +5474,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 198688,
       "name": "Nothing That I Need",
       "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
@@ -7824,7 +7846,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 334462,
       "name": "The Puzzle",
       "url": "https://open.spotify.com/track/6Fivn91TO0E7orLq2NcJwX"

@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-503 songs - 21 hr 19 min
+505 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Leaving](https://open.spotify.com/track/4zhlwkxU3siDqjyTN9obCq) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Leaving](https://open.spotify.com/album/78Ixx68Z6lBKYHUbhMjRFt) | 3:25 | 2022-06-17 | 2023-02-25 |
 | [Leaving Behind](https://open.spotify.com/track/3ieyL9VqZYHDSyeo6EyzkW) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Leaving Behind](https://open.spotify.com/album/5QPSLKJ2ZsmbldhsXvhDUT) | 2:20 | 2024-05-10 |  |
 | [Light and Shadow](https://open.spotify.com/track/37CI7f1K9z8sPBbXfCTUkD) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Light and Shadow](https://open.spotify.com/album/4rxHOblHlIChJOhXc4JQfX) | 2:25 | 2024-06-28 |  |
+| [Lighthouse](https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Lighthouse](https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0) | 2:32 | 2024-08-13 |  |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-02-24 | 2023-06-23 |
 | [Lilac](https://open.spotify.com/track/2ZllgmJ44JB80Xr1KkI5xK) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Lilac](https://open.spotify.com/album/5P1QxSMeZzIAaxCl3xRtDs) | 3:27 | 2022-11-18 | 2023-09-08 |
 | [Lima](https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Lima](https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks) | 3:02 | 2024-05-10 |  |
@@ -301,6 +302,7 @@
 | [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2022-06-17 | 2022-07-29 |
 | [Nada que perder](https://open.spotify.com/track/13T3yVvo9sireuPg3xnI4J) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Nada que perder](https://open.spotify.com/album/3CCbia42CT36Na38sOwFsp) | 3:38 | 2022-08-19 | 2023-06-10 |
 | [Naufragados](https://open.spotify.com/track/7DrDuLNcpOX4Y5NKiFavUD) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Naufragados](https://open.spotify.com/album/5aq6xtIGXkL8Y13VhHNx4G) | 2:42 | 2024-02-23 |  |
+| [Nebraska](https://open.spotify.com/track/6hrYsj2thUTyvVRCBR1hJx) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Nebraska](https://open.spotify.com/album/5TtdccpSob63z0vq3YCibU) | 2:32 | 2024-08-13 |  |
 | [Nebula's Lullaby](https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Nebula's Lullaby](https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo) | 2:08 | 2023-12-15 |  |
 | [Nessun Dorma \- Guitar Solo](https://open.spotify.com/track/2RLqDz5ZMBzqDflhRN3Lwx) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Nessun Dorma \(Guitar Solo\)](https://open.spotify.com/album/5vvf8nmZAFJkv5giEpMm68) | 2:55 | 2022-06-17 | 2023-02-25 |
 | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/track/2PygGi8gu5WfiT8zKQrC89) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/album/1sEV06R2RJBrTNOmt5LHuM) | 3:11 | 2022-06-17 | 2023-12-15 |
@@ -375,7 +377,7 @@
 | [Roots](https://open.spotify.com/track/315o2fMorxv0Ds6zE8KJoo) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Roots](https://open.spotify.com/album/44ysmHkHLWluf64LGdFUpD) | 3:13 | 2022-06-17 | 2022-12-24 |
 | [Rosales](https://open.spotify.com/track/2LLDiGysmlUcfzuvjruvOM) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Rosales](https://open.spotify.com/album/1b3lqDesHJ4gKr3WawAHrm) | 4:41 | 2022-12-09 | 2023-09-08 |
 | [Rosarium](https://open.spotify.com/track/3EGgZKSXFfD9YdbZ2Zvzf9) | [Twan Bracco Gartner](https://open.spotify.com/artist/2HfAA8YkWctZYQia5wFa6C) | [Rosarium](https://open.spotify.com/album/3tHJOtzuJHpngvUnvsHBXL) | 2:25 | 2022-06-17 | 2022-12-24 |
-| [Rovinj](https://open.spotify.com/track/6hSTsBLxqXM0WQhrmxZRpf) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Rovinj](https://open.spotify.com/album/7gw510u1oc6OWOhENT0P7N) | 3:06 | 2024-06-14 |  |
+| [Rovinj](https://open.spotify.com/track/6hSTsBLxqXM0WQhrmxZRpf) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Rovinj](https://open.spotify.com/album/7gw510u1oc6OWOhENT0P7N) | 3:06 | 2024-06-14 | 2024-08-14 |
 | [Rubato](https://open.spotify.com/track/1rlL61WUGjlWdhB5cjbWg8) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Rubato](https://open.spotify.com/album/1MTGlmAkxdb0hueMtV3TLA) | 1:44 | 2023-01-06 | 2023-09-14 |
 | [Sage](https://open.spotify.com/track/3XsO2i5UGNZfSiyd3sGJ1Y) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [Sage](https://open.spotify.com/album/29Yl3TO5JAkkkoiqf8iEOd) | 2:43 | 2022-08-05 | 2023-12-15 |
 | [Salzburger Traum](https://open.spotify.com/track/5tkLBbZH27EVS0OZoYxrtf) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Lange Sommernächte](https://open.spotify.com/album/35b7Gi5InlL6W1mhnBZj5q) | 3:44 | 2022-10-14 | 2024-05-25 |
@@ -478,7 +480,7 @@
 | [Valleys](https://open.spotify.com/track/3eGCdIAHs9Wakiv3Ockrzr) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Valleys](https://open.spotify.com/album/0dY2ExvYQ5p9DP7KG5Ccxc) | 2:35 | 2023-04-28 | 2023-06-23 |
 | [Ven Tal Como Eres](https://open.spotify.com/track/0ui3M3a6TtLgxH5R7Kntvv) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Ven Tal Como Eres](https://open.spotify.com/album/5TLxpycYjiy0YippNmsFNf) | 1:38 | 2023-04-28 | 2023-06-23 |
 | [Viaggio privato](https://open.spotify.com/track/3wXRDwVyrN8C3xCmwoidua) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Viaggio privato](https://open.spotify.com/album/2GGXn2r1cszqWSkRENLMEq) | 1:59 | 2022-06-17 | 2023-09-14 |
-| [Vienna](https://open.spotify.com/track/4PGf1PPQKYIeAaOd3ESpMH) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Vienna](https://open.spotify.com/album/6SWXLkYA5xYeu4EMRjSeOK) | 2:25 | 2024-01-12 |  |
+| [Vienna](https://open.spotify.com/track/4PGf1PPQKYIeAaOd3ESpMH) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Vienna](https://open.spotify.com/album/6SWXLkYA5xYeu4EMRjSeOK) | 2:25 | 2024-01-12 | 2024-08-14 |
 | [View From an Ocean Window](https://open.spotify.com/track/5wDqNmiNn05olf0aavPjfy) | [Staffan Carlén](https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g) | [View From an Ocean Window](https://open.spotify.com/album/1WfvFKykwlwVx8VeuMdcVE) | 2:54 | 2024-03-29 | 2024-06-28 |
 | [Vineyard romance](https://open.spotify.com/track/0hrERSWlhyvqO1hb6EvDCS) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Vineyard romance](https://open.spotify.com/album/7jXnSO5CjtNIYU6e7g3hfa) | 2:02 | 2023-02-24 | 2023-06-23 |
 | [Vinterdans](https://open.spotify.com/track/6FsdYdezXttjTiaZ8UIBEw) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Vinterdans](https://open.spotify.com/album/2fdD6XGCkmAH0ePjaPIb6t) | 2:14 | 2022-06-17 | 2024-07-18 |

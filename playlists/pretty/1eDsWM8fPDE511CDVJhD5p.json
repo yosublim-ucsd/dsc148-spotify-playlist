@@ -6,8 +6,100 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAADXyrMYoDsaJyLpwN1e/P8F60gZ1/8",
+  "snapshot_id": "AAADas3qfxS66h+5S51uATO2nt+iWk2n",
   "tracks": [
+    {
+      "added_at": "2024-08-13 08:29:01",
+      "album": {
+        "name": "Merkur",
+        "url": "https://open.spotify.com/album/38o8oOsc5d7POTFMwANAzC"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u3052\u3074\u30fc\u307c\u30fc\u308b",
+          "url": "https://open.spotify.com/artist/2c3O1pPolwSURN7uZQa4lL"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 195972,
+      "name": "Merkur (feat. Hatsune Miku) (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0uaf3qVOkPjb1aL9Bbzg11"
+    },
+    {
+      "added_at": "2024-08-13 08:29:22",
+      "album": {
+        "name": "LiFE",
+        "url": "https://open.spotify.com/album/4JqqFjI8YNmMti791MuSVY"
+      },
+      "artists": [
+        {
+          "name": "Osanzi",
+          "url": "https://open.spotify.com/artist/5sGhbLKSiDfJXWg8A0B7fX"
+        }
+      ],
+      "duration_ms": 218437,
+      "name": "LiFE",
+      "url": "https://open.spotify.com/track/4jZyC6VCAurHqWqgdhPOQI"
+    },
+    {
+      "added_at": "2024-08-13 08:30:27",
+      "album": {
+        "name": "\u30ec\u30c3\u30c9\u30e9\u30f3\u30c9\u30de\u30fc\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/0TDtkKLQrHODK77z2irMdT"
+      },
+      "artists": [
+        {
+          "name": "Twinfield",
+          "url": "https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 203448,
+      "name": "\u30ec\u30c3\u30c9\u30e9\u30f3\u30c9\u30de\u30fc\u30ab\u30fc (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/2Lfr5cRJW4kzlYpMT2fQN8"
+    },
+    {
+      "added_at": "2024-08-13 08:30:08",
+      "album": {
+        "name": "\u5408\u6cd5\u899a\u9192\u5264",
+        "url": "https://open.spotify.com/album/2fCkfMGtPG8LSmVdRWnsWR"
+      },
+      "artists": [
+        {
+          "name": "STEAKA",
+          "url": "https://open.spotify.com/artist/5FJiFnQENgHOWUOYyqDol5"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "\u5408\u6cd5\u899a\u9192\u5264 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6oQfn4gE3UdJcHKgiTMOWo"
+    },
+    {
+      "added_at": "2024-08-13 08:30:40",
+      "album": {
+        "name": "\u7d42\u308f\u3089\u306a\u3051\u308c\u3070\u3044\u3044\u306e\u306b\u306d",
+        "url": "https://open.spotify.com/album/1KgkH0H0BaVuNglAvGsEWl"
+      },
+      "artists": [
+        {
+          "name": "IMO",
+          "url": "https://open.spotify.com/artist/0bWsyEtBnc8Nb75emigipg"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 421250,
+      "name": "\u7d42\u308f\u3089\u306a\u3051\u308c\u3070\u3044\u3044\u306e\u306b\u306d (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/2qdUUBTjt9FssdJaaPGMJi"
+    },
     {
       "added_at": "2024-08-06 09:22:03",
       "album": {

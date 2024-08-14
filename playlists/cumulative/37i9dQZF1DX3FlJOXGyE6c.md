@@ -4,7 +4,7 @@
 
 > The world of”TOUKEN RANBU”! PCブラウザ・スマホアプリゲーム「刀剣乱舞\-ONLINE\-」。<br/>Musical、Animation、Movieと広がる革命的な世界を彩る楽曲を一つのプレイリストで！ \(C\)2015 EXNOA LLC/Nitroplus
 
-195 songs - 13 hr 21 min
+196 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [断然、君に恋してる! song by 石切丸・岩融・今剣](https://open.spotify.com/track/5Ya27p05Aoh2wVmv1uEeEi) | [刀剣男士 team三条](https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j), [加州清光](https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz) | [Lost The Memory \(Type E\)](https://open.spotify.com/album/2c5PHmFwT6Ox7JWTbdtMp0) | 4:28 | 2022-05-24 |  |
 | [明日天気になあれ](https://open.spotify.com/track/7gqsz2fubrN3hi3yakr13O) | [鯰尾藤四郎\(CV:斉藤壮馬\)](https://open.spotify.com/artist/0sjh3pJxfTNquKFYffVeMp), [骨喰藤四郎\(CV:鈴木裕斗\)](https://open.spotify.com/artist/7Cy0oeosGKHEUayLVg80hQ), [一期一振\(CV:田丸篤志\)](https://open.spotify.com/artist/6DrDhW6NisUoNwoSviiJsY), [刀剣乱舞\-花丸\-](https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116) | [続「刀剣乱舞\-花丸\-」歌詠集 \(其の二\)](https://open.spotify.com/album/1KcWLRnX1XWPqGmTbxVEYA) | 4:22 | 2022-05-24 |  |
 | [暁の星](https://open.spotify.com/track/7zOs9DNp0yNCiPK1OTtYea) | [今剣\(CV:山下大輝\)](https://open.spotify.com/artist/3AOne5vyjHnAJPKkwNMUTF), [岩融\(CV:宮下栄治\)](https://open.spotify.com/artist/5ktX6MzxuJI1aUjuDERekU), [刀剣乱舞\-花丸\-](https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116) | [TVアニメ「刀剣乱舞\-花丸\-」歌詠集 \(其の五\)](https://open.spotify.com/album/0dJxH139yZliv4pQwRZF4U) | 3:27 | 2022-05-24 |  |
+| [望郷](https://open.spotify.com/track/03m8VuGbia2r3lZiAlowcJ) | [へし切長谷部\(CV:新垣樽助\)](https://open.spotify.com/artist/7rNYTxMPMCkqDQU6rXvLEM), [山姥切国広\(CV:前野智昭\)](https://open.spotify.com/artist/1Ygn4oDpyPm1kxO2dACSqC), [鶴丸国永\(CV:斉藤壮馬\)](https://open.spotify.com/artist/05UVrl8CILqCiIkbnuVw34), [燭台切光忠\(CV:佐藤拓也\)](https://open.spotify.com/artist/3HRITyTE6VtWEY7RrtkjWs), [同田貫正国\(CV:櫻井トオル\)](https://open.spotify.com/artist/0iL0f2dN8clLLiehpQPTRq), [大倶利伽羅\(CV:古川慎\)](https://open.spotify.com/artist/72u0Pfx3wZ9UWIRllFBoZk) | [アニメ『刀剣乱舞 廻』キャラクターソングアルバム](https://open.spotify.com/album/6TxcVmLBissyLu1rZkb66U) | 5:05 | 2024-08-13 |  |
 | [桜花の便り](https://open.spotify.com/track/3GS3tPz7N6dw6ynNH0or8X) | [大和守安定\(CV:市来光弘\)](https://open.spotify.com/artist/71ONyAs2WV835p9i2fPLiV), [加州清光\(CV:増田俊樹\)](https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ), [刀剣乱舞\-花丸\-](https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116) | [桜花の便り](https://open.spotify.com/album/12LTmx876s16KyTXS2JqXD) | 4:43 | 2023-02-16 |  |
 | [桜花の便り](https://open.spotify.com/track/48NznNev2ziqjrSQ1FB3PL) | [大和守安定\(CV:市来光弘\)](https://open.spotify.com/artist/71ONyAs2WV835p9i2fPLiV), [加州清光\(CV:増田俊樹\)](https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ), [刀剣乱舞\-花丸\-](https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116) | [桜花の便り](https://open.spotify.com/album/2S853ffNnU0ZHME0wJVYrV) | 4:43 | 2023-02-16 | 2024-04-19 |
 | [残像　song by 鶴丸国永](https://open.spotify.com/track/12WyFz5AgpHNELyqSu5qoT) | [刀剣男士 鶴丸国永 大倶利伽羅](https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [ミュージカル『刀剣乱舞』 鶴丸国永 大倶利伽羅 双騎出陣 〜春風桃李巵〜 \(通常盤\)](https://open.spotify.com/album/6OSDWpjOqDUZtMgUvyTSl6) | 3:16 | 2024-04-02 |  |

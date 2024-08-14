@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Chase & Status ft Stormzy \(pictured\),  beabadoobee, Fontaines D.C\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 857,493 likes - 120 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 857,553 likes - 120 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 39 | [All](https://open.spotify.com/track/4ma7pLckA3BHTb2STtAMrc) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [All](https://open.spotify.com/album/708D6WkdNPfM91oo4dbZWp) | 4:18 |
 | 40 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 |
 | 41 | [Rest \(with Sasha Alex Sloan\)](https://open.spotify.com/track/0eUoazaVUu4Y83USuUTz7P) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Rest \(with Sasha Alex Sloan\)](https://open.spotify.com/album/2tlpX0RIhdCE9nb1nlXFjW) | 3:13 |
-| 42 | [Moviestar](https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Moviestar](https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk) | 4:09 |
+| 42 | [Moviestar \(feat\. Col3trane\)](https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Moviestar \(feat\. Col3trane\)](https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk) | 4:09 |
 | 43 | [Say That You Will Wait For Me](https://open.spotify.com/track/1cnwhilvfTskSErS8A8Ppx) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Say That You Will Wait For Me](https://open.spotify.com/album/0npGwOcpQK5h9alSSpiAJU) | 3:40 |
 | 44 | [Waiting For The Joy](https://open.spotify.com/track/2a6gh56vuPGtYM6RIT7fqe) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Waiting For The Joy](https://open.spotify.com/album/5VLsfyfaF6LcvMpCsA39kR) | 4:04 |
 | 45 | [Roses In The Kitchen](https://open.spotify.com/track/4NSbxF11DKXMbNHdezK6bR) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Quiet Invitation To A Hard Conversation](https://open.spotify.com/album/77tEPBluanfT3lS8AkBgpB) | 3:28 |

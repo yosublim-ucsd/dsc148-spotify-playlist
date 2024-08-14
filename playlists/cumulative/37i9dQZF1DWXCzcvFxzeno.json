@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Aural Exciter - The Remixes",
+        "url": "https://open.spotify.com/album/6RopaDNX28CL1wdag8gzmk"
+      },
+      "artists": [
+        {
+          "name": "Glenn Wilson",
+          "url": "https://open.spotify.com/artist/1k0bnsqmUolxbTWG00U8Zb"
+        },
+        {
+          "name": "Mike Humphries",
+          "url": "https://open.spotify.com/artist/1N1e7TFA0jcGad0NlnlMP1"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320019,
+      "name": "Aural Exciter - Original Mix",
+      "url": "https://open.spotify.com/track/5jk06siNYQ9lK5ba3qAC7B"
+    },
+    {
+      "album": {
         "name": "Save Yourself",
         "url": "https://open.spotify.com/album/7z3b4hNGlm067JLa44sujv"
       },
@@ -1518,7 +1540,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 316478,
       "name": "Levada",
       "url": "https://open.spotify.com/track/4jyL6lRVTyh2j67ObJ0EUH"
@@ -1554,7 +1576,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 382041,
       "name": "Looking 4 Balance",
       "url": "https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS"
@@ -2072,7 +2094,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 326197,
       "name": "Posh & Scary",
       "url": "https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva"
@@ -2581,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Tamara",
+        "url": "https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD"
+      },
+      "artists": [
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206068,
+      "name": "Tamara",
+      "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
+    },
+    {
+      "album": {
         "name": "Tell Me Why (Maddix Remix)",
         "url": "https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe"
       },
@@ -2998,6 +3038,28 @@
       "duration_ms": 232941,
       "name": "Venezia",
       "url": "https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l"
+    },
+    {
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/50m7mrtNRjSiinGaldzPDt"
+      },
+      "artists": [
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        },
+        {
+          "name": "INNERGATE RECORDS",
+          "url": "https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411000,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/5y48EWrjHhxOTbkifwNVwj"
     },
     {
       "album": {

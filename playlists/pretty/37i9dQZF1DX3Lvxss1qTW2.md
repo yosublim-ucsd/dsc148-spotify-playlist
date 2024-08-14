@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover: Logos Olori
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,066 likes - 76 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,073 likes - 76 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 14 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 |
 | 15 | [Looking for God](https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Looking for God](https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ) | 2:24 |
 | 16 | [Prodigal](https://open.spotify.com/track/4AzjDZudZxhTvv7c0bx1RV) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Prodigal](https://open.spotify.com/album/6EJI47BoVplR1bbCDjHtp0) | 2:44 |
-| 17 | [Yemi My Lover](https://open.spotify.com/track/5RQuHSlA3xJq0BNWC8l6S4) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Yemi My Lover](https://open.spotify.com/album/7c82UYgtQ7WD7rkdjhkI5s) | 2:56 |
-| 18 | [Pressure](https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Like A Flower](https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h) | 3:06 |
-| 19 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 |
-| 20 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 |
-| 21 | [Mind](https://open.spotify.com/track/5clYaHsBG1b5sfSGK5beW5) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF), [Psychic](https://open.spotify.com/artist/0WNzeWMgqSxc6J13b1VS6H) | [Energy](https://open.spotify.com/album/3KSH7CEYGeos6b0iYPQmb7) | 2:30 |
+| 17 | [Pressure](https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Like A Flower](https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h) | 3:06 |
+| 18 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 |
+| 19 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 |
+| 20 | [Mind](https://open.spotify.com/track/5clYaHsBG1b5sfSGK5beW5) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF), [Psychic](https://open.spotify.com/artist/0WNzeWMgqSxc6J13b1VS6H) | [Energy](https://open.spotify.com/album/3KSH7CEYGeos6b0iYPQmb7) | 2:30 |
+| 21 | [Short Skirt \(Fine Girls\)](https://open.spotify.com/track/6UiQVXLAXT4ZJYeXBGnran) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Short Skirt \(Fine Girls\)](https://open.spotify.com/album/0cEAm1fUmZp2wkeofSOdTq) | 2:17 |
 | 22 | [EWE](https://open.spotify.com/track/5pdmg7p3LIyU07vlLFI7w4) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a) | [EWE](https://open.spotify.com/album/4qxyLpRxIfW15AKnbgmksE) | 2:46 |
 | 23 | [Blessings](https://open.spotify.com/track/7ArATzlf3OKlgfVl3RMlQQ) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Blessings](https://open.spotify.com/album/5pXjnVsehL8FfS9v452hR2) | 2:52 |
 | 24 | [CWT \(feat\. BNXN\)](https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Are You Listening?](https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh) | 2:38 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 75 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 |
 | 76 | [Count My Blessings](https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Count My Blessings](https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX) | 2:42 |
 
-Snapshot ID: `ZrVcPAAAAAAvpDlHG8bLLPtWvzGbZGz6`
+Snapshot ID: `ZrsJUAAAAABvhQ0kPV4Gk48FKU07H+T9`

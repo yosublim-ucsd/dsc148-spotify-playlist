@@ -1,12 +1,12 @@
 {
-  "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 57814,
+  "description": "This is Machine Head. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 57829,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAAAltIGF1CJlejjmguuIjY2s",
+  "snapshot_id": "ZrlQgAAAAABbgWKdb5DXwvWQ5G+QKA75",
   "tracks": [
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 509817,
-      "name": "Sail Into The Black",
-      "url": "https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P"
+      "duration_ms": 283359,
+      "name": "Beneath The Silt",
+      "url": "https://open.spotify.com/track/1kIkgIEMPwhZMe0klLtmVP"
     },
     {
       "added_at": null,
@@ -732,15 +732,15 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 283359,
-      "name": "Beneath The Silt",
-      "url": "https://open.spotify.com/track/1kIkgIEMPwhZMe0klLtmVP"
+      "duration_ms": 509817,
+      "name": "Sail Into The Black",
+      "url": "https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Supercharger",
-        "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Crashing Around You",
-      "url": "https://open.spotify.com/track/6FlLqxn1lNuVo8J5xABDcb"
+      "duration_ms": 296866,
+      "name": "Exhale the Vile",
+      "url": "https://open.spotify.com/track/0xHplW3Y2M3f4wOgGLa3F2"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+        "name": "Supercharger",
+        "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 296866,
-      "name": "Exhale the Vile",
-      "url": "https://open.spotify.com/track/0xHplW3Y2M3f4wOgGLa3F2"
+      "duration_ms": 193893,
+      "name": "Crashing Around You",
+      "url": "https://open.spotify.com/track/6FlLqxn1lNuVo8J5xABDcb"
     },
     {
       "added_at": null,

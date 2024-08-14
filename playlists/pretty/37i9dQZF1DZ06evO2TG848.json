@@ -1,12 +1,12 @@
 {
-  "description": "This Is Gustavo Santaolalla. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 21771,
+  "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
+  "num_followers": 21775,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAABlHIef2K9W6okU+cOIjGnS",
+  "snapshot_id": "ZrlQgAAAAAAxU1D2Tkh0YnowAwBvUlbL",
   "tracks": [
     {
       "added_at": null,
@@ -36,13 +36,17 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         },
         {
+          "name": "Paul Williams",
+          "url": "https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4"
+        },
+        {
           "name": "Diego Luna",
           "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
         }
       ],
-      "duration_ms": 155320,
-      "name": "I Love You Too Much",
-      "url": "https://open.spotify.com/track/3Za4yViy4wKFEF0gkqCH3j"
+      "duration_ms": 156333,
+      "name": "Te Amo y M\u00e1s",
+      "url": "https://open.spotify.com/track/5I0aHj2JSQpoxSQnh3XcjO"
     },
     {
       "added_at": null,
@@ -112,17 +116,13 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         },
         {
-          "name": "Paul Williams",
-          "url": "https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4"
-        },
-        {
           "name": "Diego Luna",
           "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
         }
       ],
-      "duration_ms": 156333,
-      "name": "Te Amo y M\u00e1s",
-      "url": "https://open.spotify.com/track/5I0aHj2JSQpoxSQnh3XcjO"
+      "duration_ms": 155320,
+      "name": "I Love You Too Much",
+      "url": "https://open.spotify.com/track/3Za4yViy4wKFEF0gkqCH3j"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 199493,
-      "name": "Coyita - 2024 Remaster",
-      "url": "https://open.spotify.com/track/5OoBxmDWyEezJJlU3BEJsC"
+      "duration_ms": 182586,
+      "name": "Jardin - 2024 Remaster",
+      "url": "https://open.spotify.com/track/39qwb4AKtbUm6PVj88YBEX"
     },
     {
       "added_at": null,
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 182586,
-      "name": "Jardin - 2024 Remaster",
-      "url": "https://open.spotify.com/track/39qwb4AKtbUm6PVj88YBEX"
+      "duration_ms": 199493,
+      "name": "Coyita - 2024 Remaster",
+      "url": "https://open.spotify.com/track/5OoBxmDWyEezJJlU3BEJsC"
     },
     {
       "added_at": null,

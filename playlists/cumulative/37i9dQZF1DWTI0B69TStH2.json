@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:75u3vQCTDHOWmYmby80Rs5\">zieli\u0144ski</a>, <a href=\"spotify:artist:6Em3ZrtfeNlVv8kyJcHcZt\">Yana Couto</a> Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: Greg Strangler. Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -456,6 +456,24 @@
       "duration_ms": 230735,
       "name": "2/10",
       "url": "https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C"
+    },
+    {
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/5i4HEYVWTvyjXcBbvfMG5D"
+      },
+      "artists": [
+        {
+          "name": "In Blanco",
+          "url": "https://open.spotify.com/artist/4kbZDEUwYNL1pm2VlZXPp6"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223781,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/0dIl28kSCM0krgC4jAvwAA"
     },
     {
       "album": {
@@ -3892,7 +3910,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 147067,
       "name": "Brunetka",
       "url": "https://open.spotify.com/track/7LDtaQfgKJIQc7zlwBoTEv"
@@ -4956,7 +4974,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 198000,
       "name": "chaos",
       "url": "https://open.spotify.com/track/7y6b5hITEAQORufM2gs8mM"
@@ -6629,6 +6647,24 @@
     },
     {
       "album": {
+        "name": "CZEGO CI BRAK ?",
+        "url": "https://open.spotify.com/album/2ChykxnoWm4FtwPRengIFb"
+      },
+      "artists": [
+        {
+          "name": "N0C",
+          "url": "https://open.spotify.com/artist/4LNUj6IOsJc8M6KvmNcwhp"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "CZEGO CI BRAK ?",
+      "url": "https://open.spotify.com/track/61mXLS701A1o6GGuu8RlUo"
+    },
+    {
+      "album": {
         "name": "Czekam na ciebie",
         "url": "https://open.spotify.com/album/4iC0asZzT11QmPOQ4vZufE"
       },
@@ -6698,7 +6734,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 184816,
       "name": "Czekam, a\u017c nigdy nie przyjdziesz",
       "url": "https://open.spotify.com/track/3JcAR8xJqt2068fa5QSukz"
@@ -6886,7 +6922,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 202500,
       "name": "Czy masz si\u0142e by kocha\u0107?",
       "url": "https://open.spotify.com/track/5x8UMYUwwMoKFf6p6pyyzI"
@@ -6980,6 +7016,24 @@
       "duration_ms": 224040,
       "name": "Czy warto?",
       "url": "https://open.spotify.com/track/6qMggaFIKfmVlEiizsblZS"
+    },
+    {
+      "album": {
+        "name": "Czy znasz?",
+        "url": "https://open.spotify.com/album/7m3LqyETid8RHCneAhpMqj"
+      },
+      "artists": [
+        {
+          "name": "Lucas Flint",
+          "url": "https://open.spotify.com/artist/6hDQK58Mp46BJ8mCVR8ToK"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Czy znasz?",
+      "url": "https://open.spotify.com/track/0flf9rKsEYSwjryCFQgwBp"
     },
     {
       "album": {
@@ -14267,6 +14321,28 @@
     },
     {
       "album": {
+        "name": "Jesie\u0144",
+        "url": "https://open.spotify.com/album/71nJMUjjpnvruQr6MbMOfc"
+      },
+      "artists": [
+        {
+          "name": "Treehouse",
+          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
+        },
+        {
+          "name": "Drowsy Fawn",
+          "url": "https://open.spotify.com/artist/4t3gqL8XGUEocHql23HlGy"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216468,
+      "name": "Jesie\u0144",
+      "url": "https://open.spotify.com/track/7lD591QrVNzVxbmY1Xmq8i"
+    },
+    {
+      "album": {
         "name": "jesie\u0144 23'",
         "url": "https://open.spotify.com/album/42qqDkighlkSd72n7hPzwd"
       },
@@ -16141,6 +16217,32 @@
     },
     {
       "album": {
+        "name": "Kombajn",
+        "url": "https://open.spotify.com/album/3ahcx5FsWNHEjJjvZTdSSQ"
+      },
+      "artists": [
+        {
+          "name": "cafetrauma",
+          "url": "https://open.spotify.com/artist/49BvAtfEqPHiCWmq6dTwR2"
+        },
+        {
+          "name": "slaweklamar",
+          "url": "https://open.spotify.com/artist/5TzTdKa7nOwQxokwUGNDiE"
+        },
+        {
+          "name": "skowyr71",
+          "url": "https://open.spotify.com/artist/0qmtC8v2UNYWLam9kBFYUZ"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Kombajn",
+      "url": "https://open.spotify.com/track/7BUoJibjY7trypkcKfBIRH"
+    },
+    {
+      "album": {
         "name": "KOMEDIODRAMAT",
         "url": "https://open.spotify.com/album/4Kcdmwk8T3Ld2KE0ume8vX"
       },
@@ -17388,7 +17490,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 207540,
       "name": "Kwiat",
       "url": "https://open.spotify.com/track/0DeXmVcEWAsznVeLo0Id1O"
@@ -18346,7 +18448,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 167704,
       "name": "Letni Deszcz",
       "url": "https://open.spotify.com/track/3KC7I5uFMoLvr3ZY0nBL9X"
@@ -19518,7 +19620,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 169324,
       "name": "mam si\u0119 dobrze",
       "url": "https://open.spotify.com/track/2bFKHXJKQ9o2MsGckOXdFP"
@@ -22241,6 +22343,28 @@
     },
     {
       "album": {
+        "name": "nadzieja",
+        "url": "https://open.spotify.com/album/4REGudNtY91rncnjp5INM7"
+      },
+      "artists": [
+        {
+          "name": "szkar\u0142atno\u015b\u0107",
+          "url": "https://open.spotify.com/artist/46h5BHRMGyNpkiCmT4JZbC"
+        },
+        {
+          "name": "Siberian.",
+          "url": "https://open.spotify.com/artist/0cxTeOjLpXx8lAXFi5LbvU"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "nadzieja",
+      "url": "https://open.spotify.com/track/1yo11zVBMMtLiGPk64WXFi"
+    },
+    {
+      "album": {
         "name": "nagi sad",
         "url": "https://open.spotify.com/album/3tEbiAi0pOkFM7pdDLheh1"
       },
@@ -22900,6 +23024,24 @@
       "duration_ms": 160003,
       "name": "Nie Czekaj",
       "url": "https://open.spotify.com/track/66JZCsPKXyxyGhKQVjMXOX"
+    },
+    {
+      "album": {
+        "name": "NIE DA\u0141OBY NIC",
+        "url": "https://open.spotify.com/album/1VsNqqr93aam4f6uHqHO7F"
+      },
+      "artists": [
+        {
+          "name": "Sara Kordowska",
+          "url": "https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200270,
+      "name": "NIE DA\u0141OBY NIC",
+      "url": "https://open.spotify.com/track/3flBw4Ro5F6h093FoHFEHR"
     },
     {
       "album": {

@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 222000,
       "name": "BBBB",
       "url": "https://open.spotify.com/track/1znLcG8azH6tPHtK5hoULz"
@@ -4625,6 +4625,24 @@
     },
     {
       "album": {
+        "name": "Jatt Jachde",
+        "url": "https://open.spotify.com/album/7iHySMbSiHT5U0xnGjsXIX"
+      },
+      "artists": [
+        {
+          "name": "Rajbirr",
+          "url": "https://open.spotify.com/artist/6CUpozXwwPoXmBBrw2tCKj"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181715,
+      "name": "Jatt Jachde",
+      "url": "https://open.spotify.com/track/5611tkUl2ph030QPhMo3gT"
+    },
+    {
+      "album": {
         "name": "Jatt Life Zone",
         "url": "https://open.spotify.com/album/5VdJWuu3ixHuZsqpMrkbUa"
       },
@@ -6268,7 +6286,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 204255,
       "name": "Nah They Can\u2019t",
       "url": "https://open.spotify.com/track/6PO6EnP2QoP4vN27KmKvrj"
@@ -6982,6 +7000,28 @@
       "duration_ms": 192792,
       "name": "One of One",
       "url": "https://open.spotify.com/track/7HA6dcnMqMt9Th55jeo8EA"
+    },
+    {
+      "album": {
+        "name": "Pakke Yaar",
+        "url": "https://open.spotify.com/album/75jpMbSEXL84IfGYBNTJ9e"
+      },
+      "artists": [
+        {
+          "name": "Sukh Sidhu",
+          "url": "https://open.spotify.com/artist/3g4GfgwWnsUUutc7vcHG6H"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Pakke Yaar",
+      "url": "https://open.spotify.com/track/1Ia9jiEAJcdAqTXBnCyeB3"
     },
     {
       "album": {
@@ -8817,6 +8857,28 @@
     },
     {
       "album": {
+        "name": "Time Hai Ni",
+        "url": "https://open.spotify.com/album/3xBNlLn7s1NtEolKwcepC2"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Time Hai Ni",
+      "url": "https://open.spotify.com/track/5m4bVH5m49dLHDSwKerrH3"
+    },
+    {
+      "album": {
         "name": "Tinted Windows",
         "url": "https://open.spotify.com/album/0gnxxwuDgP2gvVSXbSgY57"
       },
@@ -9224,7 +9286,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 146102,
       "name": "Violence",
       "url": "https://open.spotify.com/track/5eUZPftNEXKMin9Evi5aJq"
@@ -9396,6 +9458,32 @@
       "duration_ms": 160631,
       "name": "Way Bigger",
       "url": "https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt"
+    },
+    {
+      "album": {
+        "name": "WE COMIN",
+        "url": "https://open.spotify.com/album/5VWb9LIu3gpoCHxEFxpMJY"
+      },
+      "artists": [
+        {
+          "name": "Prince Narula",
+          "url": "https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II"
+        },
+        {
+          "name": "Rony Ajnali",
+          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
+        },
+        {
+          "name": "Jaymeet",
+          "url": "https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188903,
+      "name": "WE COMIN",
+      "url": "https://open.spotify.com/track/1lIgiCLe1uh83Q7diqv4ve"
     },
     {
       "album": {

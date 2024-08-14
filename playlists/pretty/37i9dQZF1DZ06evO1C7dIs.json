@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 250833,
+  "num_followers": 250861,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAAB1oNj8QEUov0V/aaabd303",
+  "snapshot_id": "ZrlQgAAAAADzDuNdOkUOKMN1s74+7jOa",
   "tracks": [
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye Bye Beautiful",
-        "url": "https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd"
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 301853,
-      "name": "Escapist",
-      "url": "https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq"
+      "duration_ms": 254266,
+      "name": "Ocean Soul",
+      "url": "https://open.spotify.com/track/4q3sAUULz1S77l4651FrTz"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Century Child",
-        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
+        "name": "Bye Bye Beautiful",
+        "url": "https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 254266,
-      "name": "Ocean Soul",
-      "url": "https://open.spotify.com/track/4q3sAUULz1S77l4651FrTz"
+      "duration_ms": 301853,
+      "name": "Escapist",
+      "url": "https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq"
     },
     {
       "added_at": null,

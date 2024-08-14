@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Mora.
 
-1,009 songs - 2 day 5 hr 14 min
+1,010 songs - 2 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Hagámoslo de Nuevo](https://open.spotify.com/track/5nqd99eG78DHIFLTKlEW8C) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Hagámoslo de Nuevo](https://open.spotify.com/album/5nZkyesRCLkiCel7T2t681) | 2:05 | 2022-06-17 | 2022-10-08 |
 | [Halls de Menta](https://open.spotify.com/track/6irAgzFb8mbG8UlKITIMRA) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [Lui5](https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n) | [Halls de Menta](https://open.spotify.com/album/0dUimFfYkFEWcgzsqc3Oaf) | 3:50 | 2023-04-20 | 2023-05-13 |
 | [Haré, Haré](https://open.spotify.com/track/4QX4DDZGil1gky7hKSYtCD) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Haré, Haré](https://open.spotify.com/album/6Ddc6DUxj6AmpVbUIHTXSj) | 2:50 | 2022-03-18 | 2022-04-23 |
+| [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-08-13 |  |
 | [Hey Lil Mama](https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:36 | 2024-01-19 | 2024-06-22 |
 | [Hey Shorty](https://open.spotify.com/track/6wypFud9yFrGL7ruaWXSiO) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Hey Shorty](https://open.spotify.com/album/0bL0aTf0YG4HlJZ1C9s11l) | 3:14 | 2023-01-20 | 2023-04-29 |
 | [Hickey](https://open.spotify.com/track/18vPa4e59Td4k020On5sqa) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Hickey](https://open.spotify.com/album/5CGooOr9Im1VwrCRj49yPg) | 3:17 | 2022-01-07 | 2022-04-09 |
@@ -432,7 +433,7 @@
 | [HP](https://open.spotify.com/track/3kfXOIL2AvwrzS5cT5RjED) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [HP](https://open.spotify.com/album/66Nzq7BM0gIRLz47lNdg1W) | 3:24 | 2022-06-10 | 2022-07-16 |
 | [Humedad](https://open.spotify.com/track/7Fr9SwDvoXRdhQ8KUYMwhs) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:35 | 2023-08-25 | 2023-11-18 |
 | [I Love U](https://open.spotify.com/track/6veV38SFh4H9Uvso2lewOl) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [I Love U](https://open.spotify.com/album/6nJZsSOYEj3qKGzvv2lfiy) | 3:33 | 2022-01-28 | 2022-02-05 |
-| [IBIZA](https://open.spotify.com/track/5PKJ5Q2tFt1gv747NzBrI9) | [Flores](https://open.spotify.com/artist/51JdLBfy5IjKgYTETQhHGX), [LaftØne](https://open.spotify.com/artist/4UBZlN53gaCy2DWiyCOMaa) | [IBIZA](https://open.spotify.com/album/2DzdChS3LKiMi0I8EBMtUC) | 2:10 | 2024-05-03 |  |
+| [IBIZA](https://open.spotify.com/track/5PKJ5Q2tFt1gv747NzBrI9) | [Flores](https://open.spotify.com/artist/51JdLBfy5IjKgYTETQhHGX), [LaftØne](https://open.spotify.com/artist/4UBZlN53gaCy2DWiyCOMaa) | [IBIZA](https://open.spotify.com/album/2DzdChS3LKiMi0I8EBMtUC) | 2:10 | 2024-05-03 | 2024-08-14 |
 | [Idilio](https://open.spotify.com/track/5FtjZf2fUJpwIrAkJwsK21) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Idilio](https://open.spotify.com/album/0g8fVIMvb5v9atJ0Uzv42o) | 2:44 | 2022-08-26 | 2022-11-26 |
 | [Imagínate](https://open.spotify.com/track/5OyNPdV8PMbOE967zAVtKG) | [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh) | [Imagínate](https://open.spotify.com/album/3E5kxpDUSFKT7SjJY1DOqw) | 3:42 | 2022-02-04 | 2022-03-12 |
 | [IMPACTO](https://open.spotify.com/track/1lkCZOBF9iTR84dTDbNWzQ) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G) | [IMPACTO](https://open.spotify.com/album/3po5AgpyQ3ZXm1hRGyFtQ6) | 2:57 | 2024-06-28 |  |

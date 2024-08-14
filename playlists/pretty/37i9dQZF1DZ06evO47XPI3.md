@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,601 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,602 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 5 | [Break Your Promise \- Remastered](https://open.spotify.com/track/6k2cegIpd6Nc2WpO6xaSIc) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 3:04 |
 | 6 | [I Gave to You](https://open.spotify.com/track/7ni5SnrJnT1QwZe1rcPqhC) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 5:54 |
 | 7 | [Tell Me This Is a Dream](https://open.spotify.com/track/5iJ3TFsnziFusTvu8hM9pL) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:33 |
-| 8 | [I Told You So](https://open.spotify.com/track/1AFFq11T6bTm3R8K3bYM4x) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 3:10 |
-| 9 | [Somebody Loves You \- Remastered](https://open.spotify.com/track/7LQlozny7nxRh3ZbtyCKlU) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 3:18 |
+| 8 | [Somebody Loves You \- Remastered](https://open.spotify.com/track/7LQlozny7nxRh3ZbtyCKlU) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 3:18 |
+| 9 | [I Told You So](https://open.spotify.com/track/1AFFq11T6bTm3R8K3bYM4x) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 3:10 |
 | 10 | [I'm Sorry \- Remastered](https://open.spotify.com/track/1ORONFOMyCcwFVvfHMH2Ky) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:46 |
 | 11 | [When You Get Right Down to It](https://open.spotify.com/track/3JpDpIUafzYIM1fXRPCjWX) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 2:48 |
 | 12 | [Going Out of My Head \- Remastered](https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:05 |
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 24 | [Everytime I See My Baby \- Remastered](https://open.spotify.com/track/3uXHU3yclU5zb26TsooqBy) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:41 |
 | 25 | [Alfie](https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:50 |
 | 26 | [He Don't Really Love You](https://open.spotify.com/track/7vLulg0d9DreZngW3SsPvz) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Cameo Parkway 1957\-1967](https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo) | 2:24 |
-| 27 | [Didn't I Blow Your Mind This Time \- Re\-Recorded In Stereo](https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 3:24 |
-| 28 | [Round & Round](https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:11 |
-| 29 | [Loving Him \(aka You Can't Be Loving Him\)](https://open.spotify.com/track/01VYC2isnJ8FPczbH5U3sD) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You \(Expanded Version\)](https://open.spotify.com/album/2PaOO36fcDsy0jAgdfhbHM) | 2:03 |
-| 30 | [Enemies](https://open.spotify.com/track/1woeGIFerXsEQFsrAIML2v) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 1:58 |
-| 31 | [You've Got Yours and I'll Get Mine](https://open.spotify.com/track/1kv28lKIdRA2aydk5ZYtW2) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 3:16 |
+| 27 | [Round & Round](https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:11 |
+| 28 | [Didn't I Blow Your Mind This Time \- Re\-Recorded In Stereo](https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 3:24 |
+| 29 | [You've Got Yours and I'll Get Mine](https://open.spotify.com/track/1kv28lKIdRA2aydk5ZYtW2) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 3:16 |
+| 30 | [Loving Him \(aka You Can't Be Loving Him\)](https://open.spotify.com/track/01VYC2isnJ8FPczbH5U3sD) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You \(Expanded Version\)](https://open.spotify.com/album/2PaOO36fcDsy0jAgdfhbHM) | 2:03 |
+| 31 | [Enemies](https://open.spotify.com/track/1woeGIFerXsEQFsrAIML2v) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 1:58 |
 | 32 | [Can't Go On Living](https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 3:10 |
 | 33 | [Didn't I Blow Your Mind \- Re\-Record](https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best Of The Best Vol\. 1](https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ) | 3:43 |
 | 34 | [Let It Be Me \- Remastered](https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 49 | [My World Revolves Around You](https://open.spotify.com/track/1Bb8niOtFuv0M07uCEDpvb) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:38 |
 | 50 | [For the Love I Gave to You](https://open.spotify.com/track/5jCZ4OQB2RtFeMnJIfRuSM) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best of The Delfonics](https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2) | 5:00 |
 
-Snapshot ID: `Zrf/AAAAAAAUqyUkRBCtXdApFKIhTCEB`
+Snapshot ID: `ZrlQgAAAAABgqORPoJrFmIA1W6gfkmtt`

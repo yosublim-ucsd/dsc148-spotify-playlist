@@ -2,7 +2,7 @@
 
 ### [This Is Wizkid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21rV4I)
 
-> This Is Wizkid\. Los temas esenciales, todos en una lista.
+> This is Wizkid\. The essential tracks, all in one playlist.
 
 114 songs - 6 hr 31 min
 

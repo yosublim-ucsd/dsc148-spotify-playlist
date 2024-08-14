@@ -2039,6 +2039,28 @@
     },
     {
       "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/3klHO9WJ2eOkp6j2SfMrxH"
+      },
+      "artists": [
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        },
+        {
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/5PlKzMmkh1k7zIV9sCsiVZ"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
       },
@@ -5940,7 +5962,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 245714,
       "name": "Vamo Que Vamo",
       "url": "https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4"

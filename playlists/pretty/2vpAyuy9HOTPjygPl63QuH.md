@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,111 likes - 54 songs - 2 hr 47 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,119 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boost Up](https://open.spotify.com/track/4xKLgLnQm2wQFUqAYb6UUM) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/3hIRS3btdz7f35jvVihCUt) | 3:31 |
 | 2 | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/album/3vZ71dARheqUhoxXLp9gvf) | 2:29 |
-| 3 | [Con To](https://open.spotify.com/track/58SdGXfgr3kOJHKf0rVArb) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp), [Rahstaman](https://open.spotify.com/artist/2BBbFouIgocSjefLgGPFmV) | [Con To](https://open.spotify.com/album/5NPUUObbrQ84ZEMoRIu2AY) | 3:00 |
+| 3 | [Con To](https://open.spotify.com/track/58SdGXfgr3kOJHKf0rVArb) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp), [RAHSTAMAN](https://open.spotify.com/artist/1rmXCprdGhgyeGGVkQk23F) | [Con To](https://open.spotify.com/album/5NPUUObbrQ84ZEMoRIu2AY) | 3:00 |
 | 4 | [System Overload](https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [System Overload](https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9) | 2:49 |
 | 5 | [Mommy](https://open.spotify.com/track/6ChqMdxPeCDn5i6C8j7JZs) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Mommy](https://open.spotify.com/album/3PfaelgRiI601wUtYNDXct) | 3:26 |
 | 6 | [Hotsteppa](https://open.spotify.com/track/1G7gE61wjoEKBt8PBTBD2K) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Sam Blacky](https://open.spotify.com/artist/22b2o0uNHGE6B7bJUGpKSH) | [Hotsteppa](https://open.spotify.com/album/0cSLJRPvKIsvIh8jtdFCyO) | 3:35 |

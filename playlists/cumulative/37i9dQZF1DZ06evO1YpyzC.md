@@ -2,7 +2,7 @@
 
 ### [This Is Kane Brown](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YpyzC)
 
-> This Is Kane Brown\. Los temas esenciales, todos en una lista.
+> This is Kane Brown\. The essential tracks, all in one playlist.
 
 89 songs - 4 hr 49 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,263 likes - 116 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,262 likes - 116 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 76 | [Comprendo](https://open.spotify.com/track/1TTTXti79eGYmR1kE7VI9r) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Comprendo](https://open.spotify.com/album/67dHBx9SPvbc0fiz8KzgPv) | 3:33 |
 | 77 | [Högg](https://open.spotify.com/track/7kvk4IwEoMWuSzZZk8qg1K) | [Frej Larsson](https://open.spotify.com/artist/3B2Q6VDxVx3WMP620Nk4GH), [Sixten](https://open.spotify.com/artist/79KVG94nurCJgu5LE0tFFf) | [Högg](https://open.spotify.com/album/6dukHEkEQmt0xn3bJ0uJYH) | 2:14 |
 | 78 | [what do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [what do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 |
-| 79 | [En bruten fjäder](https://open.spotify.com/track/4zFNhMW1uLHqc2cHM2kfQH) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Fläskkvartetten](https://open.spotify.com/artist/59MetJkOx90aaVOotsr4cQ) | [En bruten fjäder](https://open.spotify.com/album/7oMPbICTtq9EBUNC4m0Ojj) | 4:05 |
+| 79 | [En bruten fjäder](https://open.spotify.com/track/4zFNhMW1uLHqc2cHM2kfQH) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Fleshquartet](https://open.spotify.com/artist/4lB4GxfCWC7Hhlzb20lhCg) | [En bruten fjäder](https://open.spotify.com/album/7oMPbICTtq9EBUNC4m0Ojj) | 4:05 |
 | 80 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 |
 | 81 | [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 |
 | 82 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 |

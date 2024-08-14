@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Our Father",
+        "url": "https://open.spotify.com/album/69HvfWXNfqKJvOlU13tb1U"
+      },
+      "artists": [
+        {
+          "name": "Carlo Verde",
+          "url": "https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Our Father",
+      "url": "https://open.spotify.com/track/5ArPxeGPthvPdzoQnhrjy5"
+    },
+    {
+      "album": {
         "name": "Gentle Hymns of Faith (Piano)",
         "url": "https://open.spotify.com/album/3iFIcO1GgxdNfk1dJ90yL9"
       },

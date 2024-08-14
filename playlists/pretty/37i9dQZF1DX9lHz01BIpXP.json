@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL?si=iyC2KRK9QsGx8201H4S1mg\">Mr Heinz</a> & <a href=\"https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=CYBfHUgYSWGODqMPjRiGGQ\">Jack Parow</a>",
-  "num_followers": 1705,
+  "num_followers": 1706,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -613,6 +613,30 @@
       "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
     },
     {
+      "added_at": "2024-08-09 04:56:18",
+      "album": {
+        "name": "2098",
+        "url": "https://open.spotify.com/album/51PA9pHz64S6a9VfFerGca"
+      },
+      "artists": [
+        {
+          "name": "Lil Dee Music",
+          "url": "https://open.spotify.com/artist/3GWcPN5iY86CwRrgJE4kvg"
+        },
+        {
+          "name": "Euno",
+          "url": "https://open.spotify.com/artist/14Lh7c1HhLZPLAAqOG83Kw"
+        },
+        {
+          "name": "Aiyamanfykz",
+          "url": "https://open.spotify.com/artist/5UPbQ61xjTa1rHG9uGdZZL"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Slegte Gewoonte",
+      "url": "https://open.spotify.com/track/0m5TIFvr8GQCIM2FDNAJPT"
+    },
+    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Violence (Afrikaans Drill)",
@@ -651,22 +675,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Bishop Lavis",
-        "url": "https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF"
-      },
-      "artists": [
-        {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Lavis",
-      "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Nikes & Jordans (Original)",
         "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
       },
@@ -681,28 +689,20 @@
       "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
     },
     {
-      "added_at": "2024-08-09 04:56:18",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "2098",
-        "url": "https://open.spotify.com/album/51PA9pHz64S6a9VfFerGca"
+        "name": "Bishop Lavis",
+        "url": "https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF"
       },
       "artists": [
         {
-          "name": "Lil Dee Music",
-          "url": "https://open.spotify.com/artist/3GWcPN5iY86CwRrgJE4kvg"
-        },
-        {
-          "name": "Euno",
-          "url": "https://open.spotify.com/artist/14Lh7c1HhLZPLAAqOG83Kw"
-        },
-        {
-          "name": "Aiyamanfykz",
-          "url": "https://open.spotify.com/artist/5UPbQ61xjTa1rHG9uGdZZL"
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
         }
       ],
-      "duration_ms": 190333,
-      "name": "Slegte Gewoonte",
-      "url": "https://open.spotify.com/track/0m5TIFvr8GQCIM2FDNAJPT"
+      "duration_ms": 198620,
+      "name": "Lavis",
+      "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -819,6 +819,42 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "OGlizzy",
+        "url": "https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH"
+      },
+      "artists": [
+        {
+          "name": "Jossi-Boy",
+          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
+        }
+      ],
+      "duration_ms": 196595,
+      "name": "OGlizzy",
+      "url": "https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Ek Sal Nie Lieg Nie",
+        "url": "https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "M.Jay",
+          "url": "https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl"
+        }
+      ],
+      "duration_ms": 151196,
+      "name": "Ek Sal Nie Lieg Nie",
+      "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Sal Alright is",
         "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
       },
@@ -837,36 +873,20 @@
       "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
     },
     {
-      "added_at": "2024-04-05 04:23:02",
-      "album": {
-        "name": "Consistent",
-        "url": "https://open.spotify.com/album/6WcqsfGIEelzpkHXDaUTAy"
-      },
-      "artists": [
-        {
-          "name": "KYLEO FROM THE WEST",
-          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
-        }
-      ],
-      "duration_ms": 128026,
-      "name": "Consistent",
-      "url": "https://open.spotify.com/track/0GxNPXSZMmJ6bUm1Xkv0Yo"
-    },
-    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "OGlizzy",
-        "url": "https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH"
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD"
       },
       "artists": [
         {
-          "name": "Jossi-Boy",
-          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
+          "name": "Marky Futurekid",
+          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
         }
       ],
-      "duration_ms": 196595,
-      "name": "OGlizzy",
-      "url": "https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS"
+      "duration_ms": 183550,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/4pmnGONjm31Llig19zwpde"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -891,18 +911,18 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Hopeless",
-        "url": "https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD"
+        "name": "4EvR",
+        "url": "https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN"
       },
       "artists": [
         {
-          "name": "Marky Futurekid",
-          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
+          "name": "Hxnry",
+          "url": "https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ"
         }
       ],
-      "duration_ms": 183550,
-      "name": "Hopeless",
-      "url": "https://open.spotify.com/track/4pmnGONjm31Llig19zwpde"
+      "duration_ms": 88737,
+      "name": "4EvR",
+      "url": "https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -927,22 +947,6 @@
       "duration_ms": 240000,
       "name": "Skrik Wakker",
       "url": "https://open.spotify.com/track/5pOcnruKNKTWB0U3xE5KoO"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "4EvR",
-        "url": "https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN"
-      },
-      "artists": [
-        {
-          "name": "Hxnry",
-          "url": "https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ"
-        }
-      ],
-      "duration_ms": 88737,
-      "name": "4EvR",
-      "url": "https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

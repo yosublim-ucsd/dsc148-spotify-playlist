@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heatstroke](https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Heatstroke](https://open.spotify.com/album/0K1FyZLvPpqJPofQukKbhL) | 3:54 |
-| 2 | [Stargazing \- Moonlight Version](https://open.spotify.com/track/6IdFbZkzvaS7apASHareqI) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing \(Moonlight Version\)](https://open.spotify.com/album/5995013HazvYze8wmylSzw) | 3:22 |
+| 2 | [Stargazing \- Moonlight Version](https://open.spotify.com/track/6IdFbZkzvaS7apASHareqI) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing \- Moonlight Version](https://open.spotify.com/album/5995013HazvYze8wmylSzw) | 3:22 |
 | 3 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
 | 4 | [Girls On The Internet](https://open.spotify.com/track/2p646IXQ5NldzSmZmpHqC1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Girls On The Internet](https://open.spotify.com/album/2ZKruwObcyv0WoHPRN1dvM) | 3:18 |
 | 5 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 |

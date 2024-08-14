@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Chup",
+        "url": "https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5"
+      },
+      "artists": [
+        {
+          "name": "Zeb & Haniya",
+          "url": "https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333706,
+      "name": "Chal Diye",
+      "url": "https://open.spotify.com/track/4KLXNggnzrpMrtZX1DAK8g"
+    },
+    {
+      "album": {
         "name": "Chandni Raatein",
         "url": "https://open.spotify.com/album/1Ub0yU5Xc7iTG68iirGQZa"
       },
@@ -760,7 +778,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 388786,
       "name": "Chandni Raatein",
       "url": "https://open.spotify.com/track/0n3soc0bTxQslLiMpbgZyk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Chi Xê
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,179 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,194 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 20 | [Ke Si Tinh](https://open.spotify.com/track/4XRZcnVu7YXox9j6iZM2ho) | [Vũ Đức Kiên OBC](https://open.spotify.com/artist/2ZQyqUYzAtkcIEgaH2Vf3E), [HAN](https://open.spotify.com/artist/4UisA6AJ3kwT4sw1fzuRW2) | [Ke Si Tinh](https://open.spotify.com/album/7pSiokSRczOUS7bY2b9rU8) | 3:04 |
 | 21 | [Bên Chiều Mưa Phố Núi](https://open.spotify.com/track/6NojHlB6cJ7oBPS3UDgiOn) | [Hoàng KayLee](https://open.spotify.com/artist/41TxXGX17thfgXvwCXZ9fq), [Flepy](https://open.spotify.com/artist/1enoud6bfOXZHHR72x4geR) | [Bên Chiều Mưa Phố Núi](https://open.spotify.com/album/2dJVrN3kOAyFsE5qyIWUOk) | 3:51 |
 | 22 | [MOTORBIKE BOY](https://open.spotify.com/track/1CZQqHl86Gtx8SuDuOtcP8) | [Quàng Quanh](https://open.spotify.com/artist/3YXdoRS5wla7zvE9GTSAlJ) | [MOTORBIKE BOY](https://open.spotify.com/album/1gOTH3EA8TjxRNlNqjvpvj) | 2:51 |
-| 23 | [càng chơi càng buồn](https://open.spotify.com/track/1X9z1Ow69FjntJNdaepQ9A) | [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF), [Puppy](https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7) | [càng chơi càng buồn](https://open.spotify.com/album/5m4U5JzF1UNjeYkvlY6W2X) | 2:59 |
+| 23 | [càng chơi càng buồn](https://open.spotify.com/track/1X9z1Ow69FjntJNdaepQ9A) | [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF), [Puppy](https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7), [Twistin'](https://open.spotify.com/artist/6FM4fymEfKbd3XjuhWzATS) | [càng chơi càng buồn](https://open.spotify.com/album/5m4U5JzF1UNjeYkvlY6W2X) | 2:59 |
 | 24 | [Chạng Vạng](https://open.spotify.com/track/46zpU9NgFINHj6msuo5hMF) | [Lãng](https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83), [Jang](https://open.spotify.com/artist/4GPOa9bfaaN8TNMsVL8gZM) | [Chạng Vạng](https://open.spotify.com/album/3phAVlyLt6xbOGYQoz6W8D) | 3:09 |
 | 25 | [Đừng Ngại Là Chính Em](https://open.spotify.com/track/3fh0arFhekcFoelysWcYga) | [Phương Ngân](https://open.spotify.com/artist/279ghcQHZK8vXnWXbdszGt) | [Đừng Ngại Là Chính Em](https://open.spotify.com/album/4p4Dt9ehQ4KeR7IJIGqZE6) | 4:37 |
 | 26 | [Some Tình](https://open.spotify.com/track/3apZJPphWuiCKUU9lFJSjB) | [Hằng ssi](https://open.spotify.com/artist/1m6he8LyPvI8k7iImyPZO6), [Park Minkyu](https://open.spotify.com/artist/5x47voHlzXx3fVwRKJPR99) | [Some Tình](https://open.spotify.com/album/69VPwDa9r3hE8GMIca1YPl) | 3:05 |

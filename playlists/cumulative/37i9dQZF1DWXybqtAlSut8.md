@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-53 songs - 2 hr 14 min
+54 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [May the road rise up to meet you](https://open.spotify.com/track/10zUNmRqhiTlVPpHWm7N3E) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [May the road rise up to meet you](https://open.spotify.com/album/3Ez5u996mV5hPbv8dnQamk) | 2:07 | 2024-03-20 |  |
 | [Nearer, My God, to Thee \- Piano](https://open.spotify.com/track/6tmfx84m0fPjDRWaEOJRsp) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Hymns to Worship Our Savior \(Piano\)](https://open.spotify.com/album/2ZPomiRL9ZzUdv2O3MLco7) | 2:34 | 2024-03-20 |  |
 | [o how wonderful \- Instrumental](https://open.spotify.com/track/7MKEZuJngdoyAE8EPnpUFZ) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT) | [Ambient Piano \(Instrumental\)](https://open.spotify.com/album/3Z9bELfk7Ac0sxYNfwdhzv) | 1:43 | 2024-03-20 |  |
+| [Our Father](https://open.spotify.com/track/5ArPxeGPthvPdzoQnhrjy5) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Our Father](https://open.spotify.com/album/69HvfWXNfqKJvOlU13tb1U) | 3:22 | 2024-08-13 |  |
 | [Pass Me Not, O Gentle Savior \- Piano](https://open.spotify.com/track/5i8g9ufImKIKSr3I4cCMBR) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Gentle Hymns of Faith \(Piano\)](https://open.spotify.com/album/3iFIcO1GgxdNfk1dJ90yL9) | 2:11 | 2024-03-20 |  |
 | [Praise To The Lord, The Almighty](https://open.spotify.com/track/2aaiMvGut1gJP1fItIQp3s) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [I Surrender All](https://open.spotify.com/album/4bjGbFrwdlWRcb17Lw1NH2) | 1:58 | 2024-03-20 |  |
 | [Sacred Unity](https://open.spotify.com/track/5ULYEIyEMypK1mi59G24z9) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:48 | 2024-03-20 |  |

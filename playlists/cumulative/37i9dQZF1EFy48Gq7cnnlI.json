@@ -1203,6 +1203,48 @@
     },
     {
       "album": {
+        "name": "Homemade",
+        "url": "https://open.spotify.com/album/3YuH9V808ZbceswfIsMbFB"
+      },
+      "artists": [
+        {
+          "name": "Guilherme de S\u00e1",
+          "url": "https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9"
+        },
+        {
+          "name": "Danilo Lopes",
+          "url": "https://open.spotify.com/artist/0ETiCQlgk0hPT3YyLE8sO4"
+        },
+        {
+          "name": "Sandami",
+          "url": "https://open.spotify.com/artist/6qZiNueIsha6f6RlrLLC3H"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Andr\u00e9 Leite",
+          "url": "https://open.spotify.com/artist/7qV5PpdQDLDJM7l4vZUfOp"
+        },
+        {
+          "name": "Renato Vianna",
+          "url": "https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7"
+        },
+        {
+          "name": "Luana Camarah",
+          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224283,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/7dqpvER1Qcxs6Yac6IXweG"
+    },
+    {
+      "album": {
         "name": "Reset (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG"
       },

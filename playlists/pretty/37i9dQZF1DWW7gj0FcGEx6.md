@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,740 likes - 265 songs - 12 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,808 likes - 265 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 15 | [Intentions of the Mind](https://open.spotify.com/track/3ylJqzRGcDm563O336G5sZ) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Sō Percussion](https://open.spotify.com/artist/0aNLauXlYmoVmPmpYS7Ut6), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Intentions of the Mind](https://open.spotify.com/album/3piMfZhOc0E3C7nmFcUeg1) | 1:59 |
 | 16 | [Lady in the Lake \(Main Theme\)](https://open.spotify.com/track/4j6M40d4evK7TI1P5D8f3z) | [Marcus Norris](https://open.spotify.com/artist/2WYtmKz8Cy3BZMXpaPC0hT), [South Side Symphony](https://open.spotify.com/artist/5xRYlo5SJ6HfQsRYE83W4n) | [Lady in the Lake \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/78l8QEEzXxTkO3o012ssQ7) | 1:17 |
 | 17 | [The Power of Many / End Title](https://open.spotify.com/track/2idZMJB3BWHSXiX6EL14Nx) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Star Wars: The Acolyte \(Original Soundtrack\)](https://open.spotify.com/album/2eko8kCWUX8tmmRkHRCrTW) | 3:16 |
-| 18 | [Le trésor](https://open.spotify.com/track/38q1JvdUfARWLOwIVT4M71) | [Jérôme Rebotier](https://open.spotify.com/artist/5LDz41tmX7odOCzOzwuqGd) | [Le Comte de Monte Cristo \(Bande originale du film\)](https://open.spotify.com/album/6npWftlbeyUAhPi70Jpgrb) | 3:56 |
+| 18 | [Le trésor](https://open.spotify.com/track/38q1JvdUfARWLOwIVT4M71) | [Jérôme Rebotier](https://open.spotify.com/artist/5LDz41tmX7odOCzOzwuqGd) | [Le Comte de Monte Cristo \- Bande originale du film](https://open.spotify.com/album/6npWftlbeyUAhPi70Jpgrb) | 3:56 |
 | 19 | [Dementus Is Gaining](https://open.spotify.com/track/00qJ3vS081EtrgJMW0j6mI) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Dementus Is Gaining](https://open.spotify.com/album/1vWpboi8b0LLhUihX0JwGk) | 4:37 |
 | 20 | [Life Blood](https://open.spotify.com/track/4df0C9ncdvxy4rZ6kQWtA6) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl), [Tyler Durham](https://open.spotify.com/artist/4jYtPUSVUu0ZRDKxpAIGq9) | [Our Living World \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5bYwy9SM7MrGzi2uWoDh1F) | 4:05 |
 | 21 | [Meeting Ruth](https://open.spotify.com/track/6mKHm67aAI4azpDooIf3qO) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm), [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 2:22 |
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 264 | [Friendship Theme \- From "Chaos Walking" Soundtrack](https://open.spotify.com/track/2AxvuvkyxM3XvLJjtNaDn7) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Friendship Theme \(From "Chaos Walking" Soundtrack\)](https://open.spotify.com/album/2szZWxuqk02mldIPAhN4aj) | 1:58 |
 | 265 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Jimmy Lavalle](https://open.spotify.com/artist/1W3i3D5iKgKH5Yg2XhXqby) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 
-Snapshot ID: `ZrYzTQAAAAB13c8ezkZIqlTfh+EUx8/V`
+Snapshot ID: `Zrt3CAAAAAAD6nthTIbKuFKe7Qnxdc6r`

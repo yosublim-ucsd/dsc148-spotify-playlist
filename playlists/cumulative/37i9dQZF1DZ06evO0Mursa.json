@@ -867,6 +867,28 @@
     },
     {
       "album": {
+        "name": "Stravaganza",
+        "url": "https://open.spotify.com/album/0xDz1S8NMZH7xHmeUjQwB4"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377245,
+      "name": "Palladio Reimagined: 3. Vivace",
+      "url": "https://open.spotify.com/track/2PjmYSa49DDGeZM3MvSKe2"
+    },
+    {
+      "album": {
         "name": "Quirk",
         "url": "https://open.spotify.com/album/1EICPBWv4fDj3sy3vn6p0y"
       },
@@ -1678,7 +1700,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 324213,
       "name": "The Wooing Of \u00c9ta\u00edn",
       "url": "https://open.spotify.com/track/4ixkcDJ1RScB0XemRG8QS2"

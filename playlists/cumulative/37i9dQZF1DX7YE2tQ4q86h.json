@@ -10124,7 +10124,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 148875,
       "name": "lag",
       "url": "https://open.spotify.com/track/5gVrb4SU8fvktAr2GV6vjn"
@@ -12064,6 +12064,24 @@
       "duration_ms": 177847,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/72lUoCaeg17uXhbfmsRRRt"
+    },
+    {
+      "album": {
+        "name": "Monaco",
+        "url": "https://open.spotify.com/album/4lDQvaFBTWo7nxFXQCnHhN"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158710,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
     },
     {
       "album": {

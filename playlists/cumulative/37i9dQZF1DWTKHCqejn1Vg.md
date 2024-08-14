@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-247 songs - 13 hr 29 min
+248 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Dawn](https://open.spotify.com/track/1iUHDuJ3ZL6HrrgxQNVWF7) | [yey](https://open.spotify.com/artist/502fuIaKBgR51zNneCKFGj) | [Dawn](https://open.spotify.com/album/4r3f6kbozqZ1daPFEvmd0N) | 2:41 | 2022-05-03 | 2022-07-29 |
 | [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 | 2022-06-09 | 2024-08-05 |
 | [Daydreaming](https://open.spotify.com/track/6bWpJP0DGtSO5r9aWFCYMh) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [House of Lies \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0NWeQSWJaihEyBVjvdns8A) | 3:53 | 2022-06-13 | 2022-07-29 |
+| [dear a.i](https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [DEAR A.I](https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy) | 2:29 | 2024-08-10 |  |
 | [Dejavu \(Song by SIM2\) \(Feat\. JUNNY\)](https://open.spotify.com/track/5ER4mtPENIKPNxmYCUNxIJ) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [PALETTE C\#505.](https://open.spotify.com/album/6I2eTUSibn3Y8uJZj1pTS8) | 3:36 | 2022-06-20 | 2022-06-28 |
 | [Dive Into](https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [FRAME](https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere) | 3:04 | 2023-07-07 |  |
 | [Don't pretend](https://open.spotify.com/track/3yvjU1X8MziKtJP0QzqKbe) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Malitabu](https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb) | [Don't pretend](https://open.spotify.com/album/7AVQj5RTLOTvoKMPZMBUEi) | 3:06 | 2022-05-03 | 2022-07-29 |
@@ -69,7 +70,7 @@
 | [Drowning](https://open.spotify.com/track/0K4VO0YFQjz846cR1PwawT) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 3:03 | 2022-05-03 | 2022-07-11 |
 | [Dust](https://open.spotify.com/track/75mdXrYqhqmf5XFJSnMxI5) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Interlude](https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS) | 3:05 | 2022-05-03 | 2022-07-29 |
 | [DWGU](https://open.spotify.com/track/5WZl00wiXEQ1ZfOwpicbj6) | [Nvll](https://open.spotify.com/artist/3Wt11uU3dWk7lBxTmBKMBD) | [Nvllish](https://open.spotify.com/album/1pJuT5wt6bowBqdTtdiBCq) | 2:27 | 2022-06-20 | 2022-07-27 |
-| [Easily\(feat.MELOH\)](https://open.spotify.com/track/5tB6uXVvuviruwye8meGGj) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:08 | 2022-05-03 |  |
+| [Easily\(feat.MELOH\)](https://open.spotify.com/track/5tB6uXVvuviruwye8meGGj) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:08 | 2022-05-03 | 2024-08-14 |
 | [EASY \(feat\. ELO\)](https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [EASY \(feat\. ELO\)](https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z) | 2:45 | 2022-07-04 | 2023-03-10 |
 | [En'dorphin](https://open.spotify.com/track/6JHOV4M8QrVvXdvR1oD5nD) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [En'dorphin](https://open.spotify.com/album/4V2dqsCsbT3Ikfn3uEjj7k) | 2:38 | 2022-05-03 | 2022-07-28 |
 | [Essential](https://open.spotify.com/track/3H0nxyYFpzMPXGu8JdOS39) | [doe.cent](https://open.spotify.com/artist/2ieO2aPGMErvmiNGBHsQqG) | [Essential](https://open.spotify.com/album/7fRY3ap1PANqSM1bhbfCQI) | 2:56 | 2022-05-03 | 2022-07-14 |

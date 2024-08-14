@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-258 songs - 10 hr 54 min
+259 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [My Lily](https://open.spotify.com/track/6CK7lYN56EyRiNbBCJd5MH) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [My Lily](https://open.spotify.com/album/4hOTsk6CmC7ND7WLccFf7N) | 2:23 | 2022-10-14 |  |
 | [My Own Blue Sky](https://open.spotify.com/track/4MKxJnVZOBoVqTOLm9HIvB) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [My Own Blue Sky](https://open.spotify.com/album/1dATMrsJlfFyQebwsQqTYA) | 3:01 | 2022-07-15 | 2024-04-20 |
 | [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2022-06-17 | 2023-04-29 |
+| [New Beginnings](https://open.spotify.com/track/4j0DVm15wQMe2sOJ9cIW8a) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [New Beginnings](https://open.spotify.com/album/4RZ4E8R9CH9EZIkxommbBV) | 2:44 | 2024-08-13 |  |
 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 | 2022-10-07 |  |
 | [Nightingale](https://open.spotify.com/track/5enfE01ai1X5i6k7M7fP23) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Nightingale](https://open.spotify.com/album/6zGVO3G11IATXpCNoe5EkD) | 3:14 | 2022-06-17 | 2023-06-15 |
 | [Ninna Nanna](https://open.spotify.com/track/0X8rmh6dy3ihea34AS4Rzg) | [Benvenuto Terzi](https://open.spotify.com/artist/11clFa5g42IhNMUfqrxi6J), [Antonio D'Alessandro](https://open.spotify.com/artist/6asVCY3psUdoSCrdGB4vON) | [Ninna Nanna](https://open.spotify.com/album/37Vx9gzUIWcVBMMPZXDT6o) | 1:50 | 2022-09-16 | 2023-08-26 |

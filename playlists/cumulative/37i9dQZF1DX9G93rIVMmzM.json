@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/06vkY41nabAWVastRByeLy"
+      },
+      "artists": [
+        {
+          "name": "Allt",
+          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247320,
+      "name": "Aquila",
+      "url": "https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2"
+    },
+    {
+      "album": {
         "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
       },
@@ -701,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2"
+      },
+      "artists": [
+        {
+          "name": "Cold Gawd",
+          "url": "https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331957,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h"
+    },
+    {
+      "album": {
         "name": "Holy Touch",
         "url": "https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN"
       },
@@ -773,6 +809,24 @@
     },
     {
       "album": {
+        "name": "I'd stay forever",
+        "url": "https://open.spotify.com/album/5IBRxPg2yrTf0BtuJrZ0Aa"
+      },
+      "artists": [
+        {
+          "name": "whither",
+          "url": "https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271058,
+      "name": "I'd stay forever",
+      "url": "https://open.spotify.com/track/2ClFwxCrSbg472DuKbCpej"
+    },
+    {
+      "album": {
         "name": "Here at All",
         "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
       },
@@ -806,6 +860,24 @@
       "duration_ms": 287627,
       "name": "Is It Really You?",
       "url": "https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ"
+    },
+    {
+      "album": {
+        "name": "Jawbreaker",
+        "url": "https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok"
     },
     {
       "album": {
@@ -903,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Love me, slow",
+        "url": "https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K"
+      },
+      "artists": [
+        {
+          "name": "PALESKIN",
+          "url": "https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233750,
+      "name": "Love me, slow",
+      "url": "https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ"
+    },
+    {
+      "album": {
         "name": "October Rust (Special Edition)",
         "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
       },
@@ -918,6 +1008,24 @@
       "duration_ms": 428800,
       "name": "Love You to Death",
       "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
+    },
+    {
+      "album": {
+        "name": "Sleep Now, In Reverse",
+        "url": "https://open.spotify.com/album/7FO5FYSOvklvOHwnHqQW4F"
+      },
+      "artists": [
+        {
+          "name": "Iress",
+          "url": "https://open.spotify.com/artist/7LlAk7lyxBJYpXXT0n7mtc"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325142,
+      "name": "Lovely (Forget Me Not)",
+      "url": "https://open.spotify.com/track/3zyL8LRNulKlAHTtAB8Wh5"
     },
     {
       "album": {
@@ -950,7 +1058,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 225293,
       "name": "Mascara",
       "url": "https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ"
@@ -1026,6 +1134,24 @@
       "duration_ms": 197674,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK"
+    },
+    {
+      "album": {
+        "name": "Oscillator",
+        "url": "https://open.spotify.com/album/4T7ufJRwjYShYW2jhf22qW"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240786,
+      "name": "Oscillator",
+      "url": "https://open.spotify.com/track/6KXAhYI4uJ7q2jzMvA02Wl"
     },
     {
       "album": {
@@ -1250,7 +1376,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 212364,
       "name": "Secret",
       "url": "https://open.spotify.com/track/3RaeO8MAeAqOsJqWlVJL38"

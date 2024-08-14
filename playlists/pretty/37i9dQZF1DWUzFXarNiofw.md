@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,315 likes - 210 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,440 likes - 210 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 23 | [Body Favors](https://open.spotify.com/track/3HXJprUl96Zl86ejtvVbLu) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Body Favors](https://open.spotify.com/album/6rxtXiis3RaHNWXXRXUxWB) | 2:56 |
 | 24 | [I've Seen Heaven](https://open.spotify.com/track/2vOoQwc4mTSSKkGilZNlMP) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [I've Seen Heaven](https://open.spotify.com/album/2Nw7FMVwDBZyUDu12sSnkU) | 3:17 |
 | 25 | [JAMEELA](https://open.spotify.com/track/3SazEDQbXgBLypgnemQ4Ud) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [JAMEELA](https://open.spotify.com/album/187Gchnsw8j3nEApbHd4W2) | 2:31 |
-| 26 | [Moviestar](https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Moviestar](https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk) | 4:09 |
+| 26 | [Moviestar \(feat\. Col3trane\)](https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Moviestar \(feat\. Col3trane\)](https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk) | 4:09 |
 | 27 | [Love Lost \- Remix](https://open.spotify.com/track/0OPT1G4OAuRPcscQ3IStku) | [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [Skywalker](https://open.spotify.com/artist/6ADVQHYUuxXxX6K9mNDNhL), [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [The Vibetape \(Remixes\)](https://open.spotify.com/album/0GDxxoP2T4AmEDMxDC2nS7) | 3:32 |
 | 28 | [Leaking Love](https://open.spotify.com/track/15nLf4ZUYQQpP0oYSzwiWA) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Leaking Love](https://open.spotify.com/album/6KipeXjL2m0WYIB0JK65xy) | 3:24 |
 | 29 | [Hey Girl](https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 3:35 |

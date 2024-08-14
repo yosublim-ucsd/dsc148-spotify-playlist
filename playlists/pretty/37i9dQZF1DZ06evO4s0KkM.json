@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 117234,
+  "num_followers": 117251,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAADE4/PRYkTHsHTqvk2yTMIc",
+  "snapshot_id": "ZrlQgAAAAAAQdxNVt+wnFnK4/dTEZQYn",
   "tracks": [
     {
       "added_at": null,
@@ -811,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okemah Rising",
-        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
       },
       "artists": [
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "Jesse Ahern",
-          "url": "https://open.spotify.com/artist/6r0uPWjVNMn86oxk3A2jta"
         }
       ],
-      "duration_ms": 207645,
-      "name": "Rippin Up The Boundary Line (feat. Jesse Ahern)",
-      "url": "https://open.spotify.com/track/4MRZXY4jBPHxGJ1nDr7Avi"
+      "duration_ms": 140693,
+      "name": "Peg O' My Heart",
+      "url": "https://open.spotify.com/track/435VOrlsquEIBjvVCV4z77"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

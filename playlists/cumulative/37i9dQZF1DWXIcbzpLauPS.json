@@ -3285,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204112,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/25KiribVBkk4wGgl4BLs6K"
+    },
+    {
+      "album": {
         "name": "Chewing The Scenery",
         "url": "https://open.spotify.com/album/3Mhb8bZlvkUh7QsofvZvkE"
       },
@@ -5804,7 +5822,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 216379,
       "name": "Erased",
       "url": "https://open.spotify.com/track/7yf0LDU3t1O66WaK0vhA3n"
@@ -9618,7 +9636,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 214282,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/1aHHwI79IBD4hHIWqQ7DyJ"
@@ -10606,6 +10624,24 @@
       "duration_ms": 198760,
       "name": "Monster",
       "url": "https://open.spotify.com/track/3s14tMRyXZ9p9vpWfjAf3Q"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5JaW7zptptjNILAtgA0sxD"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172837,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6sq2FStQI6nEw7NiSWTgTu"
     },
     {
       "album": {

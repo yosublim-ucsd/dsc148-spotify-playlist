@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 ### [This Is Mc Poze do Rodo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d7Y1E)
 
-> This is Mc Poze do Rodo\. Todos os maiores hits em uma só playlist.
+> This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,222 likes - 48 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,239 likes - 48 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 39 | [No Baile Nós É Mídia](https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ) | [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [No Baile Nós É Mídia](https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr) | 2:02 |
 | 40 | [Hoje Tem Baile](https://open.spotify.com/track/2DFdNmpQumYmwmFrUpG6Yq) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Um Toque de Malandragem](https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy) | 4:00 |
 | 41 | [Puxando Lança no Barco Cheio de Piranha](https://open.spotify.com/track/4X2CzIGItTPTwJpAmT32Mb) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [DJ Alex da Baixada](https://open.spotify.com/artist/3CpM0dzOVpRwngLci6OKfm) | [Puxando Lança no Barco Cheio de Piranha](https://open.spotify.com/album/4l6121oWYQpNwTDUL95wuy) | 2:35 |
-| 42 | [Cria do Rio](https://open.spotify.com/track/444MfEcLpvrEQ4rMgAlUPV) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Cria do Rio](https://open.spotify.com/album/5HwcDzwGMfN0J6WnJOAndQ) | 1:46 |
-| 43 | [Fica à Vontade](https://open.spotify.com/track/0Dqr7DChZi6MqEvpW7faLv) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Fica à Vontade](https://open.spotify.com/album/51aoXX99wzWxtURo5A5hpX) | 4:36 |
+| 42 | [Fica à Vontade](https://open.spotify.com/track/0Dqr7DChZi6MqEvpW7faLv) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Fica à Vontade](https://open.spotify.com/album/51aoXX99wzWxtURo5A5hpX) | 4:36 |
+| 43 | [Cria do Rio](https://open.spotify.com/track/444MfEcLpvrEQ4rMgAlUPV) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Cria do Rio](https://open.spotify.com/album/5HwcDzwGMfN0J6WnJOAndQ) | 1:46 |
 | 44 | [Vida de Chefe](https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Vida de Chefe](https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T) | 2:48 |
 | 45 | [Os Coringas do Flamengo](https://open.spotify.com/track/4rXfZWzgv6L4IoZ23bdkal) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Os Coringas do Flamengo](https://open.spotify.com/album/0YvThXdoFZVq3K435DQ2HM) | 2:52 |
 | 46 | [Novinha Gostosa](https://open.spotify.com/track/48IZMU43BfTfdT8KijmYk5) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Novinha Gostosa](https://open.spotify.com/album/5Ud3mT8253HW0NfeVheEjG) | 2:29 |
 | 47 | [Do Crime ao Funk](https://open.spotify.com/track/2RTYc5fDW0QyiqtxeR6Ajz) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Do Crime ao Funk](https://open.spotify.com/album/3TDDFPraQaLpjLV3ZHFM9J) | 3:05 |
 | 48 | [Vai Chegar](https://open.spotify.com/track/3hNm8sXtMbSehcrI4zdecG) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Adrenalina](https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g) | 2:53 |
 
-Snapshot ID: `Zrf/AAAAAADal5GkOK/Hjr4YDmR5a8df`
+Snapshot ID: `ZrlQgAAAAAAiBKdghQ/ZdIq6aMUpZCfN`

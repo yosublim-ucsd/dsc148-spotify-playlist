@@ -1,12 +1,12 @@
 {
   "description": "sipping diet pepsi  \ud83e\udd64",
-  "num_followers": 2161975,
+  "num_followers": 2161669,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zroy9wAAAABXZBJCp/D3EAP3EHz6hpT0",
+  "snapshot_id": "Zru8eAAAAABrUEq0hnavRGhDanuAYy/D",
   "tracks": [
     {
       "added_at": "2024-08-09 04:00:00",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
+      "added_at": "2024-08-13 20:05:12",
+      "album": {
+        "name": "The Love Club EP",
+        "url": "https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 201433,
+      "name": "The Love Club",
+      "url": "https://open.spotify.com/track/2HotTAoFiOYTeMZkNs1Ces"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Roses",
@@ -435,7 +451,7 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Espresso (triple j Like A Version)",
+        "name": "Espresso - triple j Like A Version",
         "url": "https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF"
       },
       "artists": [

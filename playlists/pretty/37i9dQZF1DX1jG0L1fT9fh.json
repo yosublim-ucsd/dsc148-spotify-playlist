@@ -1,15 +1,47 @@
 {
   "description": "Enjoy music from \"KENGAN ASHURA\"! \"\u97f3\u697d\u3067\u8fbf\u308b\u3001Netflix\u30aa\u30ea\u30b8\u30ca\u30eb\u30a2\u30cb\u30e1\u30b7\u30ea\u30fc\u30ba\u300c\u30b1\u30f3\u30ac\u30f3\u30a2\u30b7\u30e5\u30e9\u300d\u306e\u4e16\u754c\u3002",
-  "num_followers": 35879,
+  "num_followers": 35896,
   "original_name": "KENGAN ASHURA -\u30b1\u30f3\u30ac\u30f3\u30a2\u30b7\u30e5\u30e9 -",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmM7ZAAAAABCVdKnBGoy0iu422tx17qF",
+  "snapshot_id": "Zrt08AAAAACb2Y2p8lOGcKzNzsIPZlB/",
   "tracks": [
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
+      "album": {
+        "name": "Feel My Pain",
+        "url": "https://open.spotify.com/album/5IumowGu6MaiOJXKBzJyIw"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "duration_ms": 154610,
+      "name": "Feel My Pain",
+      "url": "https://open.spotify.com/track/3GFEzOfU3OKFCCT29jpeFb"
+    },
+    {
+      "added_at": "2024-08-13 15:00:00",
+      "album": {
+        "name": "NANI?",
+        "url": "https://open.spotify.com/album/4WC3me8swIsMvAXBhXiROD"
+      },
+      "artists": [
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "NANI?",
+      "url": "https://open.spotify.com/track/1y33kshjDNRnUoIKM7Cd8R"
+    },
+    {
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "AG! Calling",
         "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "Don't Stay",
         "url": "https://open.spotify.com/album/1NZlE04MB8dA8ufiAg3aiW"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/0Pd3YHxIEoXN5qUQKHoLJ7"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "\u30aa\u30e1\u3067\u305f\u3044\u982d\u3067\u306a\u306b\u3088\u308a2",
         "url": "https://open.spotify.com/album/5O1d9zjJebUCnBOUFveAwP"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/1s6tB3NREE8mUDWKdmVm5v"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "ASHURA",
         "url": "https://open.spotify.com/album/6mcWbpjvnWWyaVdjFa16oy"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/7si2ZcBmYdAuxqv5kDrRtR"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "KING & ASHLEY",
         "url": "https://open.spotify.com/album/5ddFAELd3H8dmTnGfeA6nT"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/46J5qTlMBFAaZCIvXk3loa"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "Born This Way",
         "url": "https://open.spotify.com/album/1Ji4b2DOpNAi5wJKX6WDeD"
@@ -117,7 +149,7 @@
       "url": "https://open.spotify.com/track/2TroRkr0reIpzNtJGoie71"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "\u30b1\u30f3\u30ac\u30f3\u30a2\u30b7\u30e5\u30e9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV"
@@ -133,7 +165,7 @@
       "url": "https://open.spotify.com/track/77mM4jwDtgSTRBWAGenMOB"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "\u30b1\u30f3\u30ac\u30f3\u30a2\u30b7\u30e5\u30e9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV"
@@ -149,7 +181,7 @@
       "url": "https://open.spotify.com/track/2zAhHCi6loo4uelSpT2rWl"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "\u30b1\u30f3\u30ac\u30f3\u30a2\u30b7\u30e5\u30e9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV"
@@ -165,7 +197,7 @@
       "url": "https://open.spotify.com/track/1br436V0Gt9tvIv01i6PbA"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/4PY97Kx3Y5DPH45Ea0kw3M"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/2W4XFnq3V54juGy9ZW8rP7"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -213,7 +245,7 @@
       "url": "https://open.spotify.com/track/4aIMIi8StNfC2F1FayOBbK"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -229,7 +261,7 @@
       "url": "https://open.spotify.com/track/5FfEggLOBWMR89nQjok2gH"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/4R5LcYVZiwo2c4DoRqM9xS"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -261,7 +293,7 @@
       "url": "https://open.spotify.com/track/5BftBQl8EEeJgmVpo3kkKX"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/4VDcoJEWfqRKDN4ZZwyL2f"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/20pRGlZKv1QbVN9bsSsyID"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/1DjMlZ8iClmDgGFxiSCoVw"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/5k3gl0N9fIhdQ8IzvBEmUP"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/2qz5VeJDlh2fSCHNTVmK1d"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/0oC6QcoqUHCfEsI4JxU9dW"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/2INDu1l0dl7Lkr3tugGZb8"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/4BjeWwffo5mBIeYlABaFlO"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -405,7 +437,7 @@
       "url": "https://open.spotify.com/track/7ueCDz6Edcu1JEJsTJODzQ"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/0M4EYafhoSoKlOQxOszVCm"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/5WvCCdh54fqm4PSVFOhflp"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/4sMyMMSRnAp6yaJRF7pVGX"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -469,7 +501,7 @@
       "url": "https://open.spotify.com/track/4hlwvYbKjOuCibktU8Qj8D"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -485,7 +517,7 @@
       "url": "https://open.spotify.com/track/2785aEsCsSJZUXW2OgeVmY"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -501,7 +533,7 @@
       "url": "https://open.spotify.com/track/5EDqA2X1L0m8Sa9D1sujOh"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -517,7 +549,7 @@
       "url": "https://open.spotify.com/track/41BO37Gi0jmlpiC503fTiW"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -533,7 +565,7 @@
       "url": "https://open.spotify.com/track/32lq9YZ2dfH6zddrWuBTlU"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -549,7 +581,7 @@
       "url": "https://open.spotify.com/track/4jVi7NiNBqW9tevC4SHoSC"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -565,7 +597,7 @@
       "url": "https://open.spotify.com/track/4eABAgeygeCtbmANfeCrVC"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -581,7 +613,7 @@
       "url": "https://open.spotify.com/track/4rVeA9LnR7TRuMoW5SYnHQ"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/5yr6u2L6tTZFRkiEWusSl1"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/09EdQ9nRH0VjpcJEA1xxZg"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -629,7 +661,7 @@
       "url": "https://open.spotify.com/track/2YLPg60kCUC7qOlNu6z0vU"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "The Anthems",
         "url": "https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO"
@@ -653,7 +685,7 @@
       "url": "https://open.spotify.com/track/4TLc0DLS2i0QTdIbpCVl5m"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "\u30b1\u30f3\u30ac\u30f3\u30a2\u30b7\u30e5\u30e9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV"
@@ -669,7 +701,7 @@
       "url": "https://open.spotify.com/track/3e3AGf8kQJgYG4O6yxmHda"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "\u30b1\u30f3\u30ac\u30f3\u30a2\u30b7\u30e5\u30e9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV"
@@ -685,7 +717,7 @@
       "url": "https://open.spotify.com/track/3VLswtkkz6KthJVuMW6Qt5"
     },
     {
-      "added_at": "2024-06-07 16:55:00",
+      "added_at": "2024-08-13 15:00:00",
       "album": {
         "name": "\u30b1\u30f3\u30ac\u30f3\u30a2\u30b7\u30e5\u30e9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV"

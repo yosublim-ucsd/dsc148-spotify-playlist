@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 178000,
       "name": "DISCO de DISCO",
       "url": "https://open.spotify.com/track/6B9LgmbNd03iVVVdUiUeaE"
@@ -3404,6 +3404,24 @@
       "duration_ms": 211562,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/4iELGQQnXwloNqbQZ0rfNZ"
+    },
+    {
+      "album": {
+        "name": "GINGILA",
+        "url": "https://open.spotify.com/album/6n7np1WaRKGTc3P5GcKnry"
+      },
+      "artists": [
+        {
+          "name": "UNCHAIN",
+          "url": "https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292500,
+      "name": "GINGILA",
+      "url": "https://open.spotify.com/track/4XJYGDYtk5S1NrtTiLFvam"
     },
     {
       "album": {
@@ -4955,6 +4973,28 @@
     },
     {
       "album": {
+        "name": "LOVE TRIP (feat. Hannah Warm)",
+        "url": "https://open.spotify.com/album/5DfUoeGRKrcC5eEaQ5gkgJ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hannah Warm",
+          "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242362,
+      "name": "LOVE TRIP (feat. Hannah Warm)",
+      "url": "https://open.spotify.com/track/42eeVyfEZSIdoEHTLx4mmQ"
+    },
+    {
+      "album": {
         "name": "Love U true",
         "url": "https://open.spotify.com/album/7aZJJn9XVacC1j0jVyU9GY"
       },
@@ -5518,7 +5558,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 173338,
       "name": "MissU",
       "url": "https://open.spotify.com/track/1tg3VgpyHR8YmiNTyHOoaZ"
@@ -8854,7 +8894,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 267000,
       "name": "Summer Beach",
       "url": "https://open.spotify.com/track/6LuVnKXKrZ9kLkHEMqLRP4"
@@ -13591,6 +13631,24 @@
     },
     {
       "album": {
+        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u30b5\u30fc\u30e2\u30b9",
+        "url": "https://open.spotify.com/album/3SHwDP0WQj7iIlkMIXw80B"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258858,
+      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u30b5\u30fc\u30e2\u30b9",
+      "url": "https://open.spotify.com/track/0ZEZHLYcf5dk7NkyJLzuor"
+    },
+    {
+      "album": {
         "name": "Young and Innocent",
         "url": "https://open.spotify.com/album/3GPBlp6FqYslxHRlQp8m4c"
       },
@@ -13682,6 +13740,28 @@
       "duration_ms": 272419,
       "name": "\u4e0d\u601d\u8b70\u306a\u95a2\u4fc2",
       "url": "https://open.spotify.com/track/00Nj6hCC9wNg86MO0sIGJf"
+    },
+    {
+      "album": {
+        "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 / Music Book",
+        "url": "https://open.spotify.com/album/3PXOyHebIyJXKfIk7YoL5P"
+      },
+      "artists": [
+        {
+          "name": "Airi",
+          "url": "https://open.spotify.com/artist/5YN0XBqDwo3W5EnFvrc0iJ"
+        },
+        {
+          "name": "Mao Sone",
+          "url": "https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246506,
+      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4",
+      "url": "https://open.spotify.com/track/4tnDfVx1Y3dPQwfn4rkTTV"
     },
     {
       "album": {
@@ -14796,7 +14876,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 252706,
       "name": "\u6563\u308b\u6563\u308b\u6e80\u3061\u308b",
       "url": "https://open.spotify.com/track/5N8xU3TeSLHgS0Xxb4a8zA"

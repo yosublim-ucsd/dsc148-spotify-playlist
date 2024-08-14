@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 170241,
+  "num_followers": 170260,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAADkLPB2mNVzt3Ns3lx2mx1b",
+  "snapshot_id": "ZrlQgAAAAACSv1ZIfBfTViZxWV3Xwlyh",
   "tracks": [
     {
       "added_at": null,
@@ -971,6 +971,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0sWEoSYqZi5vQeOwY6hqd9"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 192173,
+      "name": "Little White Church - Collab Version",
+      "url": "https://open.spotify.com/track/5gCHW8wyS1pcbrN9Rcof74"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Annie Up",
         "url": "https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG"
       },
@@ -1067,22 +1087,6 @@
       "duration_ms": 187573,
       "name": "Crazy Ex-Girlfriend",
       "url": "https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 209773,
-      "name": "Waxahachie",
-      "url": "https://open.spotify.com/track/1ksaL982agSeYAAUQlYrx5"
     }
   ],
   "unique_name": "This Is Miranda Lambert",

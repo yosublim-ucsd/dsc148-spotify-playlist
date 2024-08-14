@@ -1,12 +1,12 @@
 {
-  "description": "This Is Gloria Groove. Los temas esenciales, todos en una lista.",
-  "num_followers": 160132,
+  "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
+  "num_followers": 160161,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAACppxkCgQPKauqAZCtQBywx",
+  "snapshot_id": "ZrlQgAAAAABMI833WCvUypU+h9HfsdOe",
   "tracks": [
     {
       "added_at": null,
@@ -282,11 +282,15 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 235288,
-      "name": "A Tua Voz - Ao Vivo",
-      "url": "https://open.spotify.com/track/5vzSkAwsW0mO5ZM0ks7Bta"
+      "duration_ms": 198665,
+      "name": "C\u00e2mera Frontal - Ao Vivo",
+      "url": "https://open.spotify.com/track/1baKllsMyEEdKIUiNx58KA"
     },
     {
       "added_at": null,
@@ -354,15 +358,11 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 198665,
-      "name": "C\u00e2mera Frontal - Ao Vivo",
-      "url": "https://open.spotify.com/track/1baKllsMyEEdKIUiNx58KA"
+      "duration_ms": 235288,
+      "name": "A Tua Voz - Ao Vivo",
+      "url": "https://open.spotify.com/track/5vzSkAwsW0mO5ZM0ks7Bta"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinal",
+        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 145056,
       "name": "FOGO NO BARRACO",
       "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinal",
-        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Sinal",
-      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
     },
     {
       "added_at": null,

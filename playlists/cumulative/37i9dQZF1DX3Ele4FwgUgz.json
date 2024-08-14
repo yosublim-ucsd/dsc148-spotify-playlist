@@ -190,13 +190,13 @@
       },
       "artists": [
         {
-          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "name": "Nijigasaki High School Idol Club",
           "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
         }
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 264733,
       "name": "Colorful Dreams! Colorful Smiles!",
       "url": "https://open.spotify.com/track/6Z5h7cmLThLY6AlRPGR1kq"
@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "Fashionista",
+      "url": "https://open.spotify.com/track/5mvYrPSjXzcx7KuHo0ULMj"
+    },
+    {
+      "album": {
         "name": "Just Believe!!!",
         "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 274893,
       "name": "Fly with You!!",
       "url": "https://open.spotify.com/track/0tdGAPgbH0bBAI1Ah8LX51"
@@ -484,10 +502,28 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 276320,
       "name": "Future Parade",
       "url": "https://open.spotify.com/track/5AlLFpe5yog2BzEhMQhRwF"
+    },
+    {
+      "album": {
+        "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268666,
+      "name": "Fuwa Fuwa \u30a2\u30ef\u30fc\uff01",
+      "url": "https://open.spotify.com/track/6jnFBhAKLrjvz7IYsNBMpj"
     },
     {
       "album": {
@@ -502,7 +538,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 165013,
       "name": "Go Our Way!",
       "url": "https://open.spotify.com/track/45vz21WtajNItybbjzNoxn"
@@ -634,7 +670,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 256306,
       "name": "KAGAYAKI Don't forget!",
       "url": "https://open.spotify.com/track/7xIM7lWmXPgRhPAGLAKxLv"
@@ -796,7 +832,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 211680,
       "name": "Level Oops! Adventures",
       "url": "https://open.spotify.com/track/45pWZHYd1Po8HxKr26btxR"
@@ -844,6 +880,24 @@
       "duration_ms": 313413,
       "name": "LIVE with a smile!",
       "url": "https://open.spotify.com/track/2ADhseHRNiaV6NOjP6qZ2X"
+    },
+    {
+      "album": {
+        "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
+      },
+      "artists": [
+        {
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "Look at me now",
+      "url": "https://open.spotify.com/track/6av1xL9khQJQptHMmduHYI"
     },
     {
       "album": {
@@ -1050,13 +1104,13 @@
       },
       "artists": [
         {
-          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "name": "Nijigasaki High School Idol Club",
           "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
         }
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 277773,
       "name": "NEO SKY, NEO MAP!",
       "url": "https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et"
@@ -1092,7 +1146,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 244613,
       "name": "New Year's March\uff01",
       "url": "https://open.spotify.com/track/0ThK3MQEYErkvCEz6J25wi"
@@ -1308,7 +1362,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 286346,
       "name": "SINGING, DREAMING, NOW!",
       "url": "https://open.spotify.com/track/3FfFZpPCAffNYPkc1PG6NU"
@@ -1474,6 +1528,24 @@
       "duration_ms": 276346,
       "name": "TOKIMEKI Runners",
       "url": "https://open.spotify.com/track/2wI8kQ2psvPoMqqlKLusJ1"
+    },
+    {
+      "album": {
+        "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275066,
+      "name": "TOKIMEKI Runners (12\u4eba Ver.)",
+      "url": "https://open.spotify.com/track/7n75MVUfPk9WeL2dgzukDc"
     },
     {
       "album": {
@@ -1776,7 +1848,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 252280,
       "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
       "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
@@ -1999,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
+      },
+      "artists": [
+        {
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263826,
+      "name": "\u30ed\u30de\u30f3\u30b9\u306e\u4e2d\u3067",
+      "url": "https://open.spotify.com/track/2CemjAKqoWDUfCwkzqsIYF"
+    },
+    {
+      "album": {
         "name": "NEO SKY, NEO MAP!",
         "url": "https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M"
       },
@@ -2208,7 +2298,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 228213,
       "name": "\u604b\u3059\u308bMagic!!",
       "url": "https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn"
@@ -2370,15 +2460,15 @@
       },
       "artists": [
         {
-          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "name": "Nijigasaki High School Idol Club",
           "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
         }
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 241920,
-      "name": "\u7e5a\u4e71!\u30d2\u3099\u30af\u30c8\u30ea\u30fc\u30ed\u30fc\u30c8\u3099",
+      "name": "\u7e5a\u4e71\uff01\u30d3\u30af\u30c8\u30ea\u30fc\u30ed\u30fc\u30c9",
       "url": "https://open.spotify.com/track/2WdwcYfaJ73rGKWg4Jyr1j"
     },
     {
@@ -2424,13 +2514,13 @@
       },
       "artists": [
         {
-          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "name": "Nijigasaki High School Idol Club",
           "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
         }
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 255053,
       "name": "\u8679\u8272Passions!",
       "url": "https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC"

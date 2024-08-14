@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 8237,
+  "num_followers": 8243,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAACzTepsiexUl+EfcOTJZwJN",
+  "snapshot_id": "ZrlQgAAAAADSPrl2uQtLsQoPSR3ZxHnu",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 199360,
-      "name": "Blacktop",
-      "url": "https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx"
+      "duration_ms": 133733,
+      "name": "Bad Mood",
+      "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 133733,
-      "name": "Bad Mood",
-      "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
+      "duration_ms": 199360,
+      "name": "Blacktop",
+      "url": "https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx"
     },
     {
       "added_at": null,

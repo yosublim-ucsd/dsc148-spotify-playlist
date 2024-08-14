@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,758 likes - 105 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,757 likes - 105 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 19 | [愛你到底為啥物 \(民視八點檔《愛的榮耀》片頭曲\)](https://open.spotify.com/track/4JjK5hKRJH1L5JsUsXuNIW) | [郭婷筠](https://open.spotify.com/artist/1r6hd5ikvh4DKJiE1AZS0O) | [愛你到底為啥物](https://open.spotify.com/album/6NFFREMIiiyo8OqlKylWIZ) | 3:57 |
 | 20 | [月白](https://open.spotify.com/track/37e5Uc3p2SVwJhRbqLVEKE) | [高卿尘](https://open.spotify.com/artist/2WH1n92GLBhW4tOrnCXoJd) | [情绪商店 \(Part3\)](https://open.spotify.com/album/0cHhgU54QAjac299JoMsee) | 3:39 |
 | 21 | [無所謂](https://open.spotify.com/track/64EYPKmXbes3OxrJde5J5U) | [陳妍如 Lily](https://open.spotify.com/artist/3EkskYinHX4HuWkp62WQYB) | [無所謂](https://open.spotify.com/album/2a525K8bKWgk20RTJlRUZa) | 4:22 |
-| 22 | [寂寞宇宙](https://open.spotify.com/track/5vx2la1UpjiPF9up0mH8gD) | [黃麟堯](https://open.spotify.com/artist/5KosNYlC1QcKLSlmcclX5E) | [寂寞宇宙](https://open.spotify.com/album/1QWVx3ih7vaXRKfhyflij8) | 3:49 |
+| 22 | [寂寞宇宙](https://open.spotify.com/track/5vx2la1UpjiPF9up0mH8gD) | [黃麟堯 0yao](https://open.spotify.com/artist/05e4BqKJOEBQLkyUHvBnZi) | [寂寞宇宙](https://open.spotify.com/album/1QWVx3ih7vaXRKfhyflij8) | 3:49 |
 | 23 | [如果说，有如果](https://open.spotify.com/track/1U1UYqB0aF6D76LQJqs0LB) | [Leafy Zhang张叶蕾](https://open.spotify.com/artist/044Aper2QC56tnqonTq1vm), [廉书宇](https://open.spotify.com/artist/1mKwyLgeWfdlsd7SuYOY8y) | [如果说，有如果](https://open.spotify.com/album/15csUejfn5h77WgO3OO6yL) | 3:53 |
 | 24 | [佩吉](https://open.spotify.com/track/4YIJer66yAbrQ8SmiyiJVF) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [佩吉](https://open.spotify.com/album/6HqDZ6rKLxxYh15FHCCcAW) | 4:49 |
 | 25 | [永不熄灭的我](https://open.spotify.com/track/26nvKTwoXkRYuLC3TxqhJa) | [善宇](https://open.spotify.com/artist/1zS6rA95dellakwLDjPSZ6) | [永不熄灭的我](https://open.spotify.com/album/4ObtgWH3ylxvd34CMTImrU) | 3:36 |

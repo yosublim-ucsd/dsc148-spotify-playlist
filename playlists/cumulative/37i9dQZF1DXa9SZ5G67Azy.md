@@ -4,7 +4,7 @@
 
 > Un poco de esto, un poco de lo otro.
 
-100 songs - 5 hr 53 min
+101 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Ahora Me Llama](https://open.spotify.com/track/1nIfBoXpIC8adLwnPbP5L1) | [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd) | [Ahora Me Llama](https://open.spotify.com/album/4X1cB5jmC57ka1RfsoD79l) | 3:55 | 2024-03-28 |  |
 | [Am \- House Remix](https://open.spotify.com/track/3xJfvufPUC0geMfQ5gCxzq) | [Guille Preda](https://open.spotify.com/artist/7KXLbxjmLRmsWAal7N4HnJ), [Benja Murano](https://open.spotify.com/artist/60iQQCqxRxnfGVn7O0ijl4) | [Clubbin' Vol.1 \(House Remix\)](https://open.spotify.com/album/06zabyw045BqqS9MSfl8oL) | 2:19 | 2023-11-29 | 2024-03-29 |
 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 | 2024-02-05 |  |
+| [Antes De Irte](https://open.spotify.com/track/5e1z9NC0DyAfojrJXEFQNM) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e) | [Antes De Irte](https://open.spotify.com/album/3iQbdAAHM7SmtCvEM6kbFP) | 3:18 | 2024-08-13 |  |
 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 | 2023-11-29 |  |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2023-11-29 |  |
 | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/album/3uLcK52pbcbW74QQZseCYv) | 3:25 | 2023-11-29 | 2024-01-19 |
@@ -49,7 +50,7 @@
 | [Fuck el Police \- Remix](https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Fuck el Police \(Remix\)](https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM) | 4:21 | 2023-11-29 |  |
 | [Fuletón](https://open.spotify.com/track/7hSuuBdqAYoH4P3PNDYN71) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 2:45 | 2023-11-29 |  |
 | [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 | 2024-07-12 |  |
-| [Gata Only \- J.PATRON Remix](https://open.spotify.com/track/5EYZeP0HXssaa3tvfTiKxf) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/73Zc3IZtfAoO8EgWWMALaP), [J.Patron](https://open.spotify.com/artist/4KIR9I8szkZCxEw9Ncdmdo) | [Gata Only \(J.PATRON Remix\)](https://open.spotify.com/album/49WGsbEmxU7zzRua0qa5wT) | 3:54 | 2024-05-03 |  |
+| [Gata Only \- J.PATRON Remix](https://open.spotify.com/track/5EYZeP0HXssaa3tvfTiKxf) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/73Zc3IZtfAoO8EgWWMALaP), [J.Patron](https://open.spotify.com/artist/4KIR9I8szkZCxEw9Ncdmdo) | [Gata Only \(J.PATRON Remix\)](https://open.spotify.com/album/49WGsbEmxU7zzRua0qa5wT) | 3:54 | 2024-05-03 | 2024-08-14 |
 | [Gata Only \- Techengue](https://open.spotify.com/track/0E6vWWwX6Hg6T67KbHBW13) | [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd) | [Gata Only \(Techengue\)](https://open.spotify.com/album/1jyrigpkwzXAdy4IuThiKQ) | 2:15 | 2024-03-28 | 2024-05-03 |
 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-11-29 |  |
 | [hARAkiRi \- ZECCA Remix](https://open.spotify.com/track/4a0hluoQQqJyyq7o6wviQ2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [hARAkiRi](https://open.spotify.com/album/6VuH8ZmkPPEElUaQKpU373) | 3:06 | 2023-11-29 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Liran' Roll. Los temas esenciales, todos en una lista.",
-  "num_followers": 32763,
+  "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
+  "num_followers": 32780,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAABKXqW4a6hls4SR1qpRSSr+",
+  "snapshot_id": "ZrlQgAAAAAC/Lpl1s8AsaWovQBcVfeWJ",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "La Flaca",
+      "url": "https://open.spotify.com/track/5PXTMJYqWNRdSD3pYWTzol"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
         "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "La Flaca",
-      "url": "https://open.spotify.com/track/5PXTMJYqWNRdSD3pYWTzol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Aniversario",
-        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 266611,
-      "name": "D\u00e9jame",
-      "url": "https://open.spotify.com/track/4st4LrNbI9DKOFwBEZ1W3R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 243880,
       "name": "Diez Cuarenta y Siete",
       "url": "https://open.spotify.com/track/3imJOXUD815t4kSwrY8HwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 266611,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/4st4LrNbI9DKOFwBEZ1W3R"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siguiendo La L\u00ednea",
-        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 254615,
-      "name": "Sin Tu Latido",
-      "url": "https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siguiendo La L\u00ednea",
+        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 254615,
+      "name": "Sin Tu Latido",
+      "url": "https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disco de Aniversario",
         "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 234057,
       "name": "Ni\u00f1os de la Calle",
       "url": "https://open.spotify.com/track/5BqUNhd6Ok2SxZsgCzaCsT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Rolitas de Amor, Vol. 8",
-        "url": "https://open.spotify.com/album/0i8811SgM9nYes9hu8ORfi"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/7nIqRvlHXEIZHvkP5PLXxh"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 Rolitas de Amor, Vol. 8",
+        "url": "https://open.spotify.com/album/0i8811SgM9nYes9hu8ORfi"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/7nIqRvlHXEIZHvkP5PLXxh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disco de Aniversario",
         "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siguiendo La L\u00ednea",
-        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 258950,
-      "name": "F\u00fagate Conmigo",
-      "url": "https://open.spotify.com/track/2E1pXeUQPkEu6ocMjFpSu6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D.F.",
         "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 279973,
       "name": "Piensa en Mi",
       "url": "https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siguiendo La L\u00ednea",
+        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 258950,
+      "name": "F\u00fagate Conmigo",
+      "url": "https://open.spotify.com/track/2E1pXeUQPkEu6ocMjFpSu6"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambios",
-        "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 239583,
-      "name": "Eres Fuego",
-      "url": "https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D.F.",
         "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cambios",
+        "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 239583,
+      "name": "Eres Fuego",
+      "url": "https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Diablo",
         "url": "https://open.spotify.com/album/3bLB1fxupRpzlj3heJkAzP"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 235000,
       "name": "El Tren",
       "url": "https://open.spotify.com/track/7FEVzk8oZ43d1s09X6zrdd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 288293,
+      "name": "Le Dir\u00e9 a las Estrellas",
+      "url": "https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 288293,
-      "name": "Le Dir\u00e9 a las Estrellas",
-      "url": "https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 A\u00f1os De Resistencia (En Vivo)",
         "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar\u00eda (Remastered)",
-        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 141734,
-      "name": "Mario",
-      "url": "https://open.spotify.com/track/7ucQ19pWXGcH8ypZFQNMLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo, Vol. 1",
         "url": "https://open.spotify.com/album/5qU2H5w2q5zcvJC8K2YXZD"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 79191,
       "name": "Chucho el Roto - En Vivo",
       "url": "https://open.spotify.com/track/1lveoKohEpXmhc73uVrmkg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 141734,
+      "name": "Mario",
+      "url": "https://open.spotify.com/track/7ucQ19pWXGcH8ypZFQNMLL"
     },
     {
       "added_at": null,

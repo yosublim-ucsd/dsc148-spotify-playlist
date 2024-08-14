@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Thee Marloes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,860 likes - 170 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,941 likes - 170 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 60 | [In The Void](https://open.spotify.com/track/0PzDsbK7r8tRT7sLLXOezx) | [Chloe Berry](https://open.spotify.com/artist/06FdtuVuUNNHzGGAwGNfmT) | [In The Void](https://open.spotify.com/album/2iic9IUMlYln2vVXA0jDAp) | 2:27 |
 | 61 | [Too Easy](https://open.spotify.com/track/6pvaDJcYpJmiFoZYs7Yf2H) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Too Easy](https://open.spotify.com/album/60lePTuvMcyMMCMe3opZ5Y) | 3:27 |
 | 62 | [Perfect Comms](https://open.spotify.com/track/4PRZX2TyLblnE43M3sNGqF) | [Eterna](https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP) | [Perfect Comms](https://open.spotify.com/album/2CeGWTVTrk2rA1MpSHFb6M) | 2:49 |
-| 63 | [Espresso \- triple j Like A Version](https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Espresso \(triple j Like A Version\)](https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF) | 3:04 |
+| 63 | [Espresso \- triple j Like A Version](https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Espresso \- triple j Like A Version](https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF) | 3:04 |
 | 64 | [carry you on my broken wings](https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby’s out of luck again](https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX) | 3:05 |
 | 65 | [Alabama](https://open.spotify.com/track/0X3uitVppwidFzK2GUDehH) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Alabama](https://open.spotify.com/album/56xF0FLJgE20AhapFNXs6f) | 2:38 |
 | 66 | [Fields](https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Fields](https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU) | 3:10 |

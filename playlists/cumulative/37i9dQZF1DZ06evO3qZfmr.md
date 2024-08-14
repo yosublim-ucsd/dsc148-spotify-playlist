@@ -2,7 +2,7 @@
 
 ### [This Is Megan Moroney](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qZfmr)
 
-> This is Megan Moroney\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Megan Moroney\. Los temas esenciales, todos en una lista.
 
 35 songs - 1 hr 57 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is Eir Aoi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
 
-> This is Eir Aoi\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Eir Aoi\. The essential tracks, all in one playlist.
 
 85 songs - 6 hr 15 min
 

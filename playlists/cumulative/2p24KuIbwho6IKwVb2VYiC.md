@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: Zedd &amp; Remi Wolf
 
-220 songs - 11 hr 35 min
+221 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Good Good \- Jax Jones Midnight Snacks Remix](https://open.spotify.com/track/4oSVlwgWFNpWTnVaFPCljH) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good \(Jax Jones Midnight Snacks Remix\)](https://open.spotify.com/album/0C03t4KKEkZg47CNNhs5HB) | 3:14 | 2023-11-24 |  |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-10-27 |  |
 | [Got Me Started \- Bag Raiders Remix](https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Got Me Started \(Bag Raiders Remix\)](https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX) | 3:41 | 2024-03-22 |  |
+| [Got Stuff](https://open.spotify.com/track/3gZnaB3hCCUPPAP4IBvrqn) | [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34) | [Got Stuff](https://open.spotify.com/album/6KcG8miMJiBX7PEMBgLEfw) | 2:57 | 2024-08-13 |  |
 | [Headphones \- DLMT Remix](https://open.spotify.com/track/28tTLhO9HEifowfZkV4Erh) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Headphones \(DLMT Remix\)](https://open.spotify.com/album/5lNoCebEqgF3J0DKUVFx4a) | 2:37 | 2023-10-27 | 2024-01-13 |
 | [Headphones \- Vault Mix](https://open.spotify.com/track/33DaMMlU65DqfHVLgiY5Zb) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [The Vault, Volume 1](https://open.spotify.com/album/0RyCEPdlHpZcSQHVcC3kW2) | 2:00 | 2024-04-12 | 2024-05-04 |
 | [Heartbreak Repair System](https://open.spotify.com/track/5p5DJud2Doyl0gvT6fqETN) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:50 | 2023-10-27 |  |

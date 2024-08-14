@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover: Fit For A King
 
-974 songs - 2 day 12 hr 30 min
+976 songs - 2 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [CHAOS CORP](https://open.spotify.com/track/5LqIY3LZUgdvOqfGb9H1gx) | [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4), [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [Depths of Titan](https://open.spotify.com/artist/3jSBNEKdOdu1tuHSjx62q8) | [CHAOS CORP](https://open.spotify.com/album/4IJiZ1DlWNSsIAk2pEDlal) | 3:41 | 2022-06-24 | 2022-09-15 |
 | [Chaotic](https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Chaotic](https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj) | 2:51 | 2024-06-04 |  |
 | [Charlatan Blues](https://open.spotify.com/track/4YF3uT6Fx2QDfmoNj9u1C9) | [Foxblood](https://open.spotify.com/artist/17pjImdVvIja9Es8R436NP) | [Charlatan Blues](https://open.spotify.com/album/1Vi35tOTTsguu9lCV8wzUn) | 3:37 | 2024-02-23 | 2024-06-05 |
+| [Chemistry](https://open.spotify.com/track/25KiribVBkk4wGgl4BLs6K) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Elements](https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU) | 3:24 | 2024-08-12 |  |
 | [Chewing The Scenery](https://open.spotify.com/track/5BsNWRk2n7MCzm1IeugikG) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Chewing The Scenery](https://open.spotify.com/album/3Mhb8bZlvkUh7QsofvZvkE) | 3:49 | 2023-08-27 | 2024-02-24 |
 | [Chimera](https://open.spotify.com/track/4OEF00eP9KhyF0ZshrZ8Uj) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj) | [Chimera](https://open.spotify.com/album/46pZ010jfMgeXbMVRNaD2q) | 3:50 | 2023-01-06 | 2023-02-18 |
 | [Chimerical Reality](https://open.spotify.com/track/6sWKMPDGVA0sMS8ARy6OHL) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm) | [Chimerical Reality](https://open.spotify.com/album/06E6v6odTc637pyGiIHYAO) | 4:33 | 2022-07-13 | 2022-07-16 |
@@ -316,7 +317,7 @@
 | [Enough](https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Will King](https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM) | [Enough](https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk) | 2:49 | 2022-07-08 | 2022-10-12 |
 | [Epitaph](https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Epitaph](https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9) | 3:37 | 2024-04-12 |  |
 | [Erase My Mind](https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Home](https://open.spotify.com/album/78C5GqCXzU5aToERikJ00P) | 3:11 | 2021-12-17 | 2022-04-02 |
-| [Erased](https://open.spotify.com/track/7yf0LDU3t1O66WaK0vhA3n) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Mono No Aware](https://open.spotify.com/album/3GEwDcMpCEbF7u5LpWnOyn) | 3:36 | 2024-08-12 |  |
+| [Erased](https://open.spotify.com/track/7yf0LDU3t1O66WaK0vhA3n) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Mono No Aware](https://open.spotify.com/album/3GEwDcMpCEbF7u5LpWnOyn) | 3:36 | 2024-08-12 | 2024-08-14 |
 | [Eraser](https://open.spotify.com/track/588UONZ98cyfcM2IEia5nf) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Eraser](https://open.spotify.com/album/2yvQYev2fyWfAOLrjXgQnE) | 2:33 | 2021-12-17 | 2022-01-08 |
 | [Erotic Depravity](https://open.spotify.com/track/4c0UaGIbiDKUOQ9nPeWvVs) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Erotic Depravity](https://open.spotify.com/album/5MNDKNgVzfkVrcsVzWLLPS) | 2:54 | 2022-07-13 | 2022-07-18 |
 | [Escape](https://open.spotify.com/track/0kF7nwfpWjr2T4N6ci0QoL) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Escape](https://open.spotify.com/album/2a7K9HSnSRiE6TfXYfnL9g) | 3:55 | 2024-06-10 | 2024-07-27 |
@@ -519,7 +520,7 @@
 | [Lifeblood](https://open.spotify.com/track/2o1kCaUvxMcBDgb2DZ38aD) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Lifeblood](https://open.spotify.com/album/4ZaNUD70SBKIIspB7Iz7Qq) | 4:17 | 2022-07-13 | 2022-07-23 |
 | [Lifeless](https://open.spotify.com/track/0Bg1FB9hSXjOVIwHUD8fbu) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ), [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Chasm](https://open.spotify.com/album/2tz2IXeMDnWwGrc2EpcjNT) | 3:45 | 2023-01-06 | 2023-03-04 |
 | [Lifeline \(Drowning\)](https://open.spotify.com/track/4DtoWdGQMt22FdSimXadCF) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Lifeline \(Drowning\)](https://open.spotify.com/album/1T2MF3dsVYDJsGyXI0ZZsy) | 3:32 | 2023-07-14 | 2023-10-28 |
-| [Lighthouse](https://open.spotify.com/track/1aHHwI79IBD4hHIWqQ7DyJ) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Lighthouse](https://open.spotify.com/album/6yEv9GYNLHZdqPRcQTg4Ew) | 3:34 | 2024-07-12 |  |
+| [Lighthouse](https://open.spotify.com/track/1aHHwI79IBD4hHIWqQ7DyJ) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Lighthouse](https://open.spotify.com/album/6yEv9GYNLHZdqPRcQTg4Ew) | 3:34 | 2024-07-12 | 2024-08-14 |
 | [Lights & Fire](https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lights & Fire](https://open.spotify.com/album/2M1MruXHvS7YndZJ2jgDUD) | 3:30 | 2022-01-21 | 2022-02-11 |
 | [Like A Villain](https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:30 | 2022-07-13 | 2022-07-23 |
 | [Lilac](https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [Lilac](https://open.spotify.com/album/2cpSxn3vfj4aRwbI7XaLdC) | 4:03 | 2022-07-13 | 2022-07-15 |
@@ -572,6 +573,7 @@
 | [Modern Error](https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Modern Error](https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8) | 4:29 | 2024-04-12 |  |
 | [Mojave Repressions](https://open.spotify.com/track/5wnV8Xgk0EZvpObhpY4ukb) | [Merrow](https://open.spotify.com/artist/6lMwUV4nVScxzSAQYX4JNF) | [Mojave Repressions](https://open.spotify.com/album/0Lnn1lxdvapbmEEOHbCBan) | 6:13 | 2022-07-13 | 2022-07-22 |
 | [Monster](https://open.spotify.com/track/3s14tMRyXZ9p9vpWfjAf3Q) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Alternate Realities](https://open.spotify.com/album/71Lcm9f08c9QDz7beKpp43) | 3:18 | 2022-03-18 | 2022-05-21 |
+| [Monster](https://open.spotify.com/track/6sq2FStQI6nEw7NiSWTgTu) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Monster](https://open.spotify.com/album/5JaW7zptptjNILAtgA0sxD) | 2:52 | 2024-08-12 |  |
 | [Monster](https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY) | [Take The Name](https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf) | [Monster](https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX) | 3:37 | 2024-08-12 |  |
 | [MONSTER](https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [MONSTER](https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9) | 3:24 | 2022-02-11 | 2022-04-23 |
 | [Mother's Repine](https://open.spotify.com/track/1IbQy1zPX2AWcroG1mpTJD) | [Jackson Rose](https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Mother's Repine](https://open.spotify.com/album/3L1lsCwUm2rIXFhh36Tx5n) | 3:34 | 2022-07-13 | 2022-07-16 |

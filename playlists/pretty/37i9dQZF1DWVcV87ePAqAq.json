@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 363696,
+  "num_followers": 363674,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -971,18 +971,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Bella Festa",
-        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
+        "name": "When I Wake Up",
+        "url": "https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz"
       },
       "artists": [
         {
-          "name": "De Vet Du",
-          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
         }
       ],
-      "duration_ms": 117494,
-      "name": "Bella Festa",
-      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
+      "duration_ms": 143100,
+      "name": "When I Wake Up",
+      "url": "https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1007,22 +1011,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "When I Wake Up",
-        "url": "https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz"
+        "name": "Bella Festa",
+        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Skinny Days",
-          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
         }
       ],
-      "duration_ms": 143100,
-      "name": "When I Wake Up",
-      "url": "https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ"
+      "duration_ms": 117494,
+      "name": "Bella Festa",
+      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Leva/D\u00f6",
+        "url": "https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "duration_ms": 152105,
+      "name": "Leva/D\u00f6",
+      "url": "https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Soffa fr\u00e5n IKEA",
         "url": "https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 149499,
       "name": "Soffa fr\u00e5n IKEA",
       "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Leva/D\u00f6",
-        "url": "https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        }
-      ],
-      "duration_ms": 152105,
-      "name": "Leva/D\u00f6",
-      "url": "https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM"
     },
     {
       "added_at": "2024-06-13 22:00:00",

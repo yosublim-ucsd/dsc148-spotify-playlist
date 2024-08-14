@@ -867,6 +867,32 @@
     },
     {
       "album": {
+        "name": "DEVARA(The Thirst Trap)",
+        "url": "https://open.spotify.com/album/5tC7wcamLKOIFJ6gafzWKN"
+      },
+      "artists": [
+        {
+          "name": "Sravana Bhargavi",
+          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
+        },
+        {
+          "name": "Stanley sajeev",
+          "url": "https://open.spotify.com/artist/2sEdwo7xTdk62naoJmWTO3"
+        },
+        {
+          "name": "Sri Rag",
+          "url": "https://open.spotify.com/artist/3hWpjI85HiSIclghXny1lJ"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "DEVARA(The Thirst Trap)",
+      "url": "https://open.spotify.com/track/3REZ4XjWqKH0wHkkvM40gW"
+    },
+    {
+      "album": {
         "name": "Dhom Thana",
         "url": "https://open.spotify.com/album/2rrcsYWGUOZ6JxBLHPlXU4"
       },
@@ -1432,7 +1458,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 174432,
       "name": "hello master!",
       "url": "https://open.spotify.com/track/0djwARp8JriBrVLMokz83Z"
@@ -5806,7 +5832,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 219038,
       "name": "Yedha",
       "url": "https://open.spotify.com/track/6cbpHn29rluysQdMAJ9tf9"

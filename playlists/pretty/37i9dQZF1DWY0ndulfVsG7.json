@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Rossa, Ariel NOAH",
-  "num_followers": 56348,
+  "num_followers": 56395,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-08-09 04:29:39",
       "album": {
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 279289,
+      "name": "Selimut Hati",
+      "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
+    },
+    {
+      "added_at": "2024-08-09 04:29:39",
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
@@ -427,34 +443,18 @@
     {
       "added_at": "2024-08-09 04:29:39",
       "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+        "name": "Setengah Mati Merindu",
+        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
       },
       "artists": [
         {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
         }
       ],
-      "duration_ms": 279289,
-      "name": "Selimut Hati",
-      "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
-    },
-    {
-      "added_at": "2024-08-09 04:29:39",
-      "album": {
-        "name": "Meraih Bintang",
-        "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
-      },
-      "artists": [
-        {
-          "name": "Geisha",
-          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Karena Kamu",
-      "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
+      "duration_ms": 276146,
+      "name": "Bukan Dia Tapi Aku",
+      "url": "https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7"
     },
     {
       "added_at": "2024-08-09 04:29:39",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-08-09 04:29:39",
       "album": {
-        "name": "Setengah Mati Merindu",
-        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
       },
       "artists": [
         {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 276146,
-      "name": "Bukan Dia Tapi Aku",
-      "url": "https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7"
+      "duration_ms": 251454,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
     },
     {
       "added_at": "2024-08-09 04:29:39",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-08-09 04:29:39",
       "album": {
-        "name": "Confession No.1",
-        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
+        "name": "Meraih Bintang",
+        "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
         }
       ],
-      "duration_ms": 251454,
-      "name": "Terima Kasih Cinta",
-      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
+      "duration_ms": 234546,
+      "name": "Karena Kamu",
+      "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
     },
     {
       "added_at": "2024-08-09 04:29:39",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-09 04:29:39",
       "album": {
-        "name": "Seperti Seharusnya",
-        "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Separuh Aku",
-      "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
-    },
-    {
-      "added_at": "2024-08-09 04:29:39",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
@@ -571,22 +555,6 @@
     {
       "added_at": "2024-08-09 04:29:39",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
-      },
-      "artists": [
-        {
-          "name": "Once Mekel",
-          "url": "https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE"
-        }
-      ],
-      "duration_ms": 264853,
-      "name": "Dealova",
-      "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
-    },
-    {
-      "added_at": "2024-08-09 04:29:39",
-      "album": {
         "name": "Live to Love",
         "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
       },
@@ -599,6 +567,38 @@
       "duration_ms": 245232,
       "name": "Jodoh Pasti Bertemu",
       "url": "https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX"
+    },
+    {
+      "added_at": "2024-08-09 04:29:39",
+      "album": {
+        "name": "Seperti Seharusnya",
+        "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Separuh Aku",
+      "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
+    },
+    {
+      "added_at": "2024-08-09 04:29:39",
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
+      },
+      "artists": [
+        {
+          "name": "Once Mekel",
+          "url": "https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE"
+        }
+      ],
+      "duration_ms": 264853,
+      "name": "Dealova",
+      "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
     },
     {
       "added_at": "2024-08-09 04:29:39",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-08-09 04:29:39",
       "album": {
-        "name": "Kembali",
-        "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
       "artists": [
         {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+          "name": "Acha Septriasa",
+          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
         }
       ],
-      "duration_ms": 241493,
-      "name": "Aku Bukan Untukmu",
-      "url": "https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf"
+      "duration_ms": 221133,
+      "name": "Berdua Lebih Baik",
+      "url": "https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D"
     },
     {
       "added_at": "2024-08-09 04:29:39",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-08-09 04:29:39",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+        "name": "Kembali",
+        "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
       },
       "artists": [
         {
-          "name": "Acha Septriasa",
-          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
         }
       ],
-      "duration_ms": 221133,
-      "name": "Berdua Lebih Baik",
-      "url": "https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D"
+      "duration_ms": 241493,
+      "name": "Aku Bukan Untukmu",
+      "url": "https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf"
     },
     {
       "added_at": "2024-08-09 04:29:39",
@@ -743,26 +743,6 @@
       "duration_ms": 235280,
       "name": "Sekali Ini Saja",
       "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
-    },
-    {
-      "added_at": "2024-08-09 04:29:39",
-      "album": {
-        "name": "Love, Life & Music",
-        "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
-      },
-      "artists": [
-        {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 254013,
-      "name": "Kamu Yang Kutunggu",
-      "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
     },
     {
       "added_at": "2024-08-09 04:29:39",
@@ -831,6 +811,22 @@
       "duration_ms": 266306,
       "name": "Matahariku",
       "url": "https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD"
+    },
+    {
+      "added_at": "2024-08-09 04:29:39",
+      "album": {
+        "name": "Sudah Ku Tahu",
+        "url": "https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0"
+      },
+      "artists": [
+        {
+          "name": "Projector Band",
+          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
+        }
+      ],
+      "duration_ms": 258331,
+      "name": "Sudah Ku Tahu",
+      "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"
     }
   ],
   "unique_name": "Berjiran",

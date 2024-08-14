@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Gabriela",
-  "num_followers": 434608,
+  "num_followers": 434613,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "Eu e Voc\u00ea",
+        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 185597,
+      "name": "Eu e Voc\u00ea",
+      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "Antes Que O Mundo Acabe",
         "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 141688,
       "name": "Bobagem Amor",
       "url": "https://open.spotify.com/track/2Zf1ZOawP5E9xiFQd10ab3"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
-        "name": "Eu e Voc\u00ea",
-        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 185597,
-      "name": "Eu e Voc\u00ea",
-      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Saudade Sussurrou",
-        "url": "https://open.spotify.com/album/5f1AUvrMH7HcBKRVBassaD"
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY"
       },
       "artists": [
         {
-          "name": "Gabriela",
-          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
         }
       ],
-      "duration_ms": 175771,
-      "name": "Saudade Sussurrou",
-      "url": "https://open.spotify.com/track/46hMVeI8kjadm4xrokacdG"
+      "duration_ms": 161656,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY"
+        "name": "Saudade Sussurrou",
+        "url": "https://open.spotify.com/album/5f1AUvrMH7HcBKRVBassaD"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+          "name": "Gabriela",
+          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
         }
       ],
-      "duration_ms": 161656,
-      "name": "De Novo",
-      "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
+      "duration_ms": 175771,
+      "name": "Saudade Sussurrou",
+      "url": "https://open.spotify.com/track/46hMVeI8kjadm4xrokacdG"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -623,6 +623,26 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "Falta Pouco",
+        "url": "https://open.spotify.com/album/0Sip43K1gjoRwBib3Rbbnh"
+      },
+      "artists": [
+        {
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        },
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 179483,
+      "name": "Falta Pouco",
+      "url": "https://open.spotify.com/track/56S6QcFGFQttLNjCwExqB7"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "Concreto (2024 Rework)",
         "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
       },
@@ -635,22 +655,6 @@
       "duration_ms": 194196,
       "name": "Recome\u00e7o - Bonus Track",
       "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -691,6 +695,22 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "PERDURAR",
         "url": "https://open.spotify.com/album/6HmSIFZzmRW7c8DYMJQ5BG"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 147179,
       "name": "A Gente Gosta Assim",
       "url": "https://open.spotify.com/track/1t3btOs8sA3X4u7FivAHhi"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
-        "name": "Falta Pouco",
-        "url": "https://open.spotify.com/album/0Sip43K1gjoRwBib3Rbbnh"
-      },
-      "artists": [
-        {
-          "name": "Sophi",
-          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
-        },
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 179483,
-      "name": "Falta Pouco",
-      "url": "https://open.spotify.com/track/56S6QcFGFQttLNjCwExqB7"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "que mal que tem?",
-        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
+        "name": "BabyBaby",
+        "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
         }
       ],
-      "duration_ms": 157708,
-      "name": "que mal que tem?",
-      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+      "duration_ms": 206484,
+      "name": "BabyBaby",
+      "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "BabyBaby",
-        "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
+        "name": "que mal que tem?",
+        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
       },
       "artists": [
         {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 206484,
-      "name": "BabyBaby",
-      "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
+      "duration_ms": 157708,
+      "name": "que mal que tem?",
+      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Como \u00e9 que se faz",
-        "url": "https://open.spotify.com/album/59FTyUoEWJjgsLPvlTz4xh"
+        "name": "dos p\u00e9s a cabe\u00e7a",
+        "url": "https://open.spotify.com/album/3hRZ5gR2hn6EifOnilmllU"
       },
       "artists": [
         {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
         }
       ],
-      "duration_ms": 244629,
-      "name": "Como \u00e9 que se faz",
-      "url": "https://open.spotify.com/track/5v6dcZq1rhA4m51X1x49c7"
+      "duration_ms": 202286,
+      "name": "dos p\u00e9s a cabe\u00e7a",
+      "url": "https://open.spotify.com/track/5IWFZ5Od7wArGGxGo1kVAa"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "dos p\u00e9s a cabe\u00e7a",
-        "url": "https://open.spotify.com/album/3hRZ5gR2hn6EifOnilmllU"
+        "name": "Como \u00e9 que se faz",
+        "url": "https://open.spotify.com/album/59FTyUoEWJjgsLPvlTz4xh"
       },
       "artists": [
         {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 202286,
-      "name": "dos p\u00e9s a cabe\u00e7a",
-      "url": "https://open.spotify.com/track/5IWFZ5Od7wArGGxGo1kVAa"
+      "duration_ms": 244629,
+      "name": "Como \u00e9 que se faz",
+      "url": "https://open.spotify.com/track/5v6dcZq1rhA4m51X1x49c7"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Embeleza o Meu Dia",
-        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 172760,
-      "name": "Embeleza o Meu Dia",
-      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "Prece",
         "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 227906,
       "name": "Prece",
       "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Embeleza o Meu Dia",
+        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 172760,
+      "name": "Embeleza o Meu Dia",
+      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "me ama",
+        "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 226461,
+      "name": "me ama",
+      "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "Entre o Nada e o Infinito",
         "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 175080,
       "name": "acende essa ponta",
       "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
-      },
-      "artists": [
-        {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
-        }
-      ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "me ama",
-        "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
       },
       "artists": [
         {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+          "name": "Karol Rib\u00ea",
+          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
         }
       ],
-      "duration_ms": 226461,
-      "name": "me ama",
-      "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
+      "duration_ms": 206505,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
     },
     {
       "added_at": "2024-08-09 14:39:16",

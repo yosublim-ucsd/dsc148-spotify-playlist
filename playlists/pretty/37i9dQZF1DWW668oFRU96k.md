@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x Clean Bandit x Anne\-Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,966 likes - 87 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,974 likes - 87 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

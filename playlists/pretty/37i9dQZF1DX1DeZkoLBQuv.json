@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8118,
+  "num_followers": 8119,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "Dai Louvores ao Rei",
-      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "\u00d3, Vinde, Adoremos",
         "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 195000,
       "name": "\u00d3, Vinde, Adoremos",
       "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        }
+      ],
+      "duration_ms": 210372,
+      "name": "Dai Louvores ao Rei",
+      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
+        }
+      ],
+      "duration_ms": 259831,
+      "name": "O Milagre do Natal",
+      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Seu Nome",
         "url": "https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 211466,
       "name": "Primeiro Natal (The First Noel)",
       "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
-        }
-      ],
-      "duration_ms": 259831,
-      "name": "O Milagre do Natal",
-      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Novo Natal",
-        "url": "https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq"
-      },
-      "artists": [
-        {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
-        }
-      ],
-      "duration_ms": 230658,
-      "name": "O Primeiro Natal",
-      "url": "https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O Primeiro Natal",
         "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 278000,
       "name": "O Primeiro Natal",
       "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Novo Natal",
+        "url": "https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "duration_ms": 230658,
+      "name": "O Primeiro Natal",
+      "url": "https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA"
     },
     {
       "added_at": "2023-12-22 03:00:00",

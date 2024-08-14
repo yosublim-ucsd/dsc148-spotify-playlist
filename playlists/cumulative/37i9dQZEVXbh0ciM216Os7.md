@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,598 songs - 4 day 6 hr 5 min
+1,599 songs - 4 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,6 +995,7 @@
 | [One Of The Girls \- Slowed](https://open.spotify.com/track/3bWm8ejTzkMhPSdBnpxLvl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 5:05 | 2023-12-22 | 2023-12-27 |
 | [One Of The Girls \- Sped Up](https://open.spotify.com/track/4WfGDkm99oLJSAtELYZYEd) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 3:35 | 2023-12-22 | 2023-12-30 |
 | [One Week](https://open.spotify.com/track/3ILAN6s1hxqjRrhB6J5ron) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [One Week](https://open.spotify.com/album/5kCMg3tpv9Qu25zUFem5VI) | 2:40 | 2023-09-08 | 2023-09-23 |
+| [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 | 2024-08-09 |  |
 | [One Word](https://open.spotify.com/track/6VQrJNCav7EZFWK5DwfGqc) | [Persefone](https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw) | [One Word](https://open.spotify.com/album/3h0c2vU0ONQMFakvzGyqfe) | 5:57 | 2023-12-01 | 2023-12-24 |
 | [One, Two, & 3](https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [One, Two, & 3](https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn) | 3:26 | 2024-02-16 | 2024-03-02 |
 | [Online Shopping](https://open.spotify.com/track/4zLpNVPiZ1Gpr9T0MqKbZx) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Nova](https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79) | 3:56 | 2023-09-01 | 2023-09-05 |

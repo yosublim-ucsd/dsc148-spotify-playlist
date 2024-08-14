@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > ESHYAY CUZ!!! It's the spot for AUS & NZ Rap\. Cover: Hooligan Hefs
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,355 likes - 95 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,362 likes - 95 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 32 | [Too Late](https://open.spotify.com/track/3scdaB6xQNdfw2fdJsdezs) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [The Necklace](https://open.spotify.com/album/0w96ZdXPsPmTjHgJ1t9dQQ) | 2:23 |
 | 33 | [Take You Away](https://open.spotify.com/track/7Ea9GBkcJetYo0JsT7WeuU) | [Jaden Wakefield](https://open.spotify.com/artist/5qYON9aycMnuJ8FabAgoyf) | [Take You Away](https://open.spotify.com/album/6R6nEuiWDgTFkWOv3F47TY) | 2:59 |
 | 34 | [WHEN I](https://open.spotify.com/track/5hqBRdjLsiIELegHNyMhaG) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [WHEN I](https://open.spotify.com/album/6DQc77aqIKxso8JJzkowta) | 1:59 |
-| 35 | [GREEN ARMY FREESTYLE](https://open.spotify.com/track/1MSaxm67JAbr1Ikmxpap3E) | [LEE.](https://open.spotify.com/artist/4GCBx9G31irWT77xXxWrSA) | [Green Army Freestyle](https://open.spotify.com/album/2zuF4Wa1F5gyjah1isu5Po) | 2:00 |
+| 35 | [GREEN ARMY FREESTYLE](https://open.spotify.com/track/1MSaxm67JAbr1Ikmxpap3E) | [LEE.](https://open.spotify.com/artist/4GCBx9G31irWT77xXxWrSA) | [GREEN ARMY FREESTYLE](https://open.spotify.com/album/2zuF4Wa1F5gyjah1isu5Po) | 2:00 |
 | 36 | [To The Sky](https://open.spotify.com/track/0nyw72ROLS00fr0SYxkizo) | [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y) | [To The Sky](https://open.spotify.com/album/4XWArECADgAgaAFRyBYKU1) | 2:41 |
 | 37 | [I Would](https://open.spotify.com/track/5xRuBA1K2cSxP5x9Ksx041) | [NELZ](https://open.spotify.com/artist/0ZIsSbITkFUvYOwEMN9C0Z), [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot) | [I Would](https://open.spotify.com/album/4qybHMnHXcZ5g8LPmKLFcv) | 2:16 |
 | 38 | [Divinely Guided](https://open.spotify.com/track/0ywbc1relGaJpl43jX8ILg) | [Jaden Wakefield](https://open.spotify.com/artist/5qYON9aycMnuJ8FabAgoyf), [Busty](https://open.spotify.com/artist/3Qm7e7t9J4v9tRIQkcmuUZ) | [Divinely Guided](https://open.spotify.com/album/0S2qNiiDvTmrstbJZC6bft) | 2:43 |

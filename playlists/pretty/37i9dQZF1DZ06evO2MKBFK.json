@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 612898,
+  "num_followers": 612921,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAAD6a1bd6+etyBC4ry7OIw1Z",
+  "snapshot_id": "ZrlQgAAAAAAWwZ4iskmZ9HvbBBtAEeib",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 264215,
-      "name": "IF YOU",
-      "url": "https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn"
+      "duration_ms": 211926,
+      "name": "LET'S NOT FALL IN LOVE",
+      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 211926,
-      "name": "LET'S NOT FALL IN LOVE",
-      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
+      "duration_ms": 264215,
+      "name": "IF YOU",
+      "url": "https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn"
     },
     {
       "added_at": null,

@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Hey, Soul Sister",
+        "url": "https://open.spotify.com/album/2UrWk2e6Kw9DWWU8LFMxqs"
+      },
+      "artists": [
+        {
+          "name": "Falk Tyler",
+          "url": "https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181955,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/2nfWIbOe5SIOsT5MMrl7de"
+    },
+    {
+      "album": {
         "name": "Vitamin String Quartet Performs Sigur R\u00f3s",
         "url": "https://open.spotify.com/album/38e7K18t8g1sSeYbBdG08o"
       },
@@ -3210,6 +3228,24 @@
       "duration_ms": 189568,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/4oJ0J34QTkknq9ciWkb3O8"
+    },
+    {
+      "album": {
+        "name": "Tears in Heaven",
+        "url": "https://open.spotify.com/album/6VfC5Ha40EKxopc0SJtsJy"
+      },
+      "artists": [
+        {
+          "name": "Elin Porsinger",
+          "url": "https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193695,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/1diA0qxa31zuUw6e14P15n"
     },
     {
       "album": {

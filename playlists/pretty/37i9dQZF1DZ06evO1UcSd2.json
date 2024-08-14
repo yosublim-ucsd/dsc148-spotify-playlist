@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 71732,
+  "num_followers": 71740,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAABFUnSe2FnWwj/kS3KyVDeW",
+  "snapshot_id": "ZrlQgAAAAAALi6BYalLMB54eKu4SLbG+",
   "tracks": [
     {
       "added_at": null,
@@ -911,22 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT"
+        "name": "Por Los Radios",
+        "url": "https://open.spotify.com/album/34xv71fVprWXX8ofUwnOaI"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Jose Castellon",
+          "url": "https://open.spotify.com/artist/3ksd1FMwWHt3WudSkcOOZb"
         },
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 162440,
-      "name": "El Capitan Cholo (En Vivo)",
-      "url": "https://open.spotify.com/track/53zM3zz6dOiuy0RRP1IFWz"
+      "duration_ms": 207982,
+      "name": "Por Los Radios",
+      "url": "https://open.spotify.com/track/1psNcA19Q704H7YawPu2WT"
     },
     {
       "added_at": null,
@@ -951,22 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Los Radios",
-        "url": "https://open.spotify.com/album/34xv71fVprWXX8ofUwnOaI"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT"
       },
       "artists": [
         {
-          "name": "Jose Castellon",
-          "url": "https://open.spotify.com/artist/3ksd1FMwWHt3WudSkcOOZb"
-        },
-        {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 207982,
-      "name": "Por Los Radios",
-      "url": "https://open.spotify.com/track/1psNcA19Q704H7YawPu2WT"
+      "duration_ms": 162440,
+      "name": "El Capitan Cholo (En Vivo)",
+      "url": "https://open.spotify.com/track/53zM3zz6dOiuy0RRP1IFWz"
     },
     {
       "added_at": null,

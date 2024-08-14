@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: MIKADO
+> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Young zetton
 
-589 songs - 1 day 3 hr 10 min
+590 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2024-01-10 | 2024-02-01 |
 | [NIGHT DŌTONBORI](https://open.spotify.com/track/1McTNSOavmfiO6XrNmspqJ) | [Akira Jun](https://open.spotify.com/artist/6DHEtqz1wHsFgEhxwFo99d), [Yuki Namba](https://open.spotify.com/artist/1JWIHaz1I1QsNp3e789p4J) | [Ambivert Pt\. 2](https://open.spotify.com/album/3hBY8A9UHCpHn7maPbPveH) | 2:23 | 2023-12-07 | 2023-12-20 |
 | [Nightmare](https://open.spotify.com/track/2rXdHhhMR5KsW3pqwvl8nO) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [In the Midst](https://open.spotify.com/album/4QT2lSpsyIm7gcwvdCMTRA) | 3:21 | 2024-08-07 | 2024-08-09 |
+| [nimo](https://open.spotify.com/track/3kzWYEZbCHMD3sFrNMSC1e) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [ROOKIES](https://open.spotify.com/album/1aQcQUwNkH4rCqFW9NGIgZ) | 3:09 | 2024-08-13 |  |
 | [NO BODY](https://open.spotify.com/track/084K8j62ylG6n9qNro7cXG) | [YOSHIKI EZAKI](https://open.spotify.com/artist/2vCu121AVUt5km29CjiB7I) | [NO BODY](https://open.spotify.com/album/1wrgi8hcFfkRQU9OqhjRkU) | 1:52 | 2024-06-05 | 2024-07-03 |
 | [No Limit Your Life](https://open.spotify.com/track/5y5Ue4ePNghqA5f8Spbtbs) | [STICKY BUDS](https://open.spotify.com/artist/606E8dfYTpa1QY1MLJxN8J), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [Flipping](https://open.spotify.com/album/6YyzdePI3LvUuuFHsSU7BU) | 2:53 | 2024-07-09 |  |
 | [No Love](https://open.spotify.com/track/4tvSyiit5A7QFxcHDqIbAS) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Cyprus](https://open.spotify.com/artist/6Q546HvRQnIB0qYe3SMdRv) | [No Love](https://open.spotify.com/album/5nXTiC49S54td9zS1mPcPm) | 3:17 | 2024-07-02 | 2024-08-07 |

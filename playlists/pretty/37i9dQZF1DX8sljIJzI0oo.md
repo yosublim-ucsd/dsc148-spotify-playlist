@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Oscar Maydon & Victor Mendivil are bringing the heat this week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,935,951 likes - 21 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,935,940 likes - 21 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

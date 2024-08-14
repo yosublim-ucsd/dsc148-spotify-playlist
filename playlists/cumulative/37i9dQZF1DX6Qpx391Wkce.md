@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-340 songs - 1 day 7 hr 24 min
+340 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [When My Heart Beats \- Whack Edit](https://open.spotify.com/track/4MnQGSBXAsH4FxIcAfnEwH) | [Aitor Ronda](https://open.spotify.com/artist/4Q6FHEKif7t06z6NGujL2D), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5) | [When My Heart Beats \(Whack Edit\)](https://open.spotify.com/album/69xf05acyEhALOY7GevRtl) | 5:41 | 2023-12-01 | 2024-02-10 |
 | [where is your pride?](https://open.spotify.com/track/1u6Tum9kyOdFHFhewUI9Mg) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Benjamin Zephaniah](https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6) | [always centered at night](https://open.spotify.com/album/6Q9F246p5fOQzz8tts4ylS) | 3:38 | 2024-08-02 |  |
 | [WILD ELECTRIC \- Gregor Tresher Radio Edit](https://open.spotify.com/track/7iwjufaEbssvRvLHcp6hZM) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC), [ADRIANNA](https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e) | [Wild Electric \(Gregor Tresher Remix\)](https://open.spotify.com/album/7oMPL8UGC8Tda4Mca3f4hI) | 2:59 | 2024-07-05 | 2024-07-20 |
-| [WILD ELECTRIC \- Monika Kruse Remix](https://open.spotify.com/track/26zdcNGCsPllOiaKkPRjRk) | [ADRIANNA](https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e), [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [WILD ELECTRIC \(Monika Kruse Remix\)](https://open.spotify.com/album/2uUMO66NX3M4KFnBFbtgHW) | 3:52 | 2024-08-02 |  |
+| [WILD ELECTRIC \- Monika Kruse Remix](https://open.spotify.com/track/26zdcNGCsPllOiaKkPRjRk) | [ADRIANNA](https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e), [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [WILD ELECTRIC \(Monika Kruse Remix\)](https://open.spotify.com/album/2uUMO66NX3M4KFnBFbtgHW) | 6:01 | 2024-08-02 |  |
 | [You Better Run](https://open.spotify.com/track/2FYgp3V2xTc41xGkSiu41w) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [You Better Run](https://open.spotify.com/album/0ZMfKICFGZwQqHhRqYAdr2) | 7:35 | 2023-10-13 | 2024-01-13 |
 | [Your Hands on Me](https://open.spotify.com/track/4u3rHonyMW7pmkB4nZq0JX) | [Misstress Barbara](https://open.spotify.com/artist/1Bhw1NGkIlsdVb8NXOymzk) | [Your Eyes on Me](https://open.spotify.com/album/7ngCdwtKLw8rWVCCQPbdgi) | 6:47 | 2024-08-02 |  |
 

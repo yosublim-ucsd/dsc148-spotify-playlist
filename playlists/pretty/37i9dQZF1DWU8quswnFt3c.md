@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: DOROFEEVA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,656 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,842 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 46 | [Bad Love God](https://open.spotify.com/track/1MZyCaruig26Lio1Cgosh5) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Bad Love God](https://open.spotify.com/album/3kBaenm4ssWN87HymLEEsB) | 3:23 |
 | 47 | [Dreams](https://open.spotify.com/track/6kH7Bipic064vclZxCZxbm) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Dreams](https://open.spotify.com/album/40michyETM6sSdEipUW6BW) | 3:14 |
 | 48 | [VIRGIN MARIA](https://open.spotify.com/track/2nPladpIRlyszZaOm9q9Rw) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [MARIA](https://open.spotify.com/album/57JOJXMbvvtdMOV9PkBNuH) | 2:08 |
-| 49 | [Two Friends](https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Two Friends](https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs) | 3:06 |
-| 50 | [Grand Illusion](https://open.spotify.com/track/4ungm58VUft86geFgszTa6) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [The Rose Of Jericho](https://open.spotify.com/album/4j2eJNkZ3qiGdCW8wnO5Wu) | 4:26 |
+| 49 | [Grand Illusion](https://open.spotify.com/track/4ungm58VUft86geFgszTa6) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [The Rose Of Jericho](https://open.spotify.com/album/4j2eJNkZ3qiGdCW8wnO5Wu) | 4:26 |
+| 50 | [Two Friends](https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Two Friends](https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs) | 3:06 |
 
 Snapshot ID: `ZrLxQAAAAAD+Xw3K8NK8CcbMcezJM+Lj`

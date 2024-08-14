@@ -1,12 +1,12 @@
 {
-  "description": "This is Joy Crookes\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 25145,
+  "description": "This is Joy Crookes. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 25153,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAABqfa3A+lcWLxg5QTtuRubk",
+  "snapshot_id": "ZrlQgAAAAAAbO1932EN7WBvzHMBD1TNE",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Since I Left You (Demo)",
+        "url": "https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 207048,
+      "name": "Since I Left You - Demo",
+      "url": "https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 188926,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/0RVEAF3XFF2dZFhI8O58JF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What's Love Got to Do with It? (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3OtrHr6YssIB3dCg42g8qc"
       },
@@ -351,38 +383,6 @@
       "duration_ms": 147506,
       "name": "Mahi Sona (AKA The Wedding Song) - Joy Crookes Version",
       "url": "https://open.spotify.com/track/4oDFdxr8iodW5JubvDmjMt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 188926,
-      "name": "Kingdom",
-      "url": "https://open.spotify.com/track/0RVEAF3XFF2dZFhI8O58JF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Since I Left You (Demo)",
-        "url": "https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 207048,
-      "name": "Since I Left You - Demo",
-      "url": "https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu"
     },
     {
       "added_at": null,

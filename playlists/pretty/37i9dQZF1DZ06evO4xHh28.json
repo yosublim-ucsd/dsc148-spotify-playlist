@@ -1,12 +1,12 @@
 {
-  "description": "This is My Chemical Romance. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 567243,
+  "description": "This Is My Chemical Romance. Los temas esenciales, todos en una lista.",
+  "num_followers": 567319,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAACY9b1QOc+mfEpDw/gerJep",
+  "snapshot_id": "ZrlQgAAAAADirnD10CbVeGJZ46Si+VYz",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "May Death Never Stop You",
-        "url": "https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/3ZaS7Bcz9tpFIjfst63tSw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome to the Black Parade",
         "url": "https://open.spotify.com/album/5tGLTaU1mDDxEfXo89iFKz"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 174613,
       "name": "Heaven Help Us",
       "url": "https://open.spotify.com/track/7D50nnDRmIkn3D9xnmhCXk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "May Death Never Stop You",
+        "url": "https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/3ZaS7Bcz9tpFIjfst63tSw"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "May Death Never Stop You",
-        "url": "https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Fake Your Death",
-      "url": "https://open.spotify.com/track/2M8g01v2vUMn39YQ10l7ef"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Number Five",
         "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 207666,
       "name": "Surrender the Night",
       "url": "https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "May Death Never Stop You",
+        "url": "https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Fake Your Death",
+      "url": "https://open.spotify.com/track/2M8g01v2vUMn39YQ10l7ef"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Number Four",
-        "url": "https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Kiss the Ring",
-      "url": "https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Number Five",
         "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 257120,
       "name": "Burn Bright",
       "url": "https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Number Four",
+        "url": "https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Kiss the Ring",
+      "url": "https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [This Is Vangelis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pv5ZK)
 
-> This is Vangelis。アーティストの代表曲をひとつのプレイリストに。
+> This is Vangelis\. The essential tracks, all in one playlist.
 
 86 songs - 7 hr 9 min
 

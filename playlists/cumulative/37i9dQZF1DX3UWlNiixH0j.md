@@ -2,9 +2,9 @@
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 路地 Roji
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ゆっきゅん + 君島大空
 
-1,815 songs - 4 day 16 hr 52 min
+1,816 songs - 4 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1283,7 +1283,7 @@
 | [まどろむ影と](https://open.spotify.com/track/35dvhx7nEz5twO0oCFY7mZ) | [CC81](https://open.spotify.com/artist/0lDBfTAgGg6Ouqh0lEQbYK) | [まどろむ影と](https://open.spotify.com/album/6XCT7y1leobKTSTMyMzuKL) | 4:31 | 2024-04-09 | 2024-04-17 |
 | [まる。](https://open.spotify.com/track/6glVTRIK7bUCXIvJTOffUA) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [まる。](https://open.spotify.com/album/4BjoAtFfKl2oGyX4a5ihKC) | 2:56 | 2023-09-19 | 2023-09-21 |
 | [むかしの魔法](https://open.spotify.com/track/4vUKvcf74T10psozRyou6B) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [むかしの魔法](https://open.spotify.com/album/4rBoWGol4wx5pUZ0zS2Wh3) | 3:41 | 2023-02-21 | 2023-02-23 |
-| [もうけもん](https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [もうけもん](https://open.spotify.com/album/3M4xYeC19rVjldE12l7UxF) | 1:58 | 2024-04-02 |  |
+| [もうけもん](https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [もうけもん](https://open.spotify.com/album/3M4xYeC19rVjldE12l7UxF) | 1:58 | 2024-04-02 | 2024-08-14 |
 | [もちもち](https://open.spotify.com/track/4jTi6dAHuebFmXXxP80gYR) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [もちもち](https://open.spotify.com/album/2q4S1j03cG4zpnFZ2cvOo9) | 5:05 | 2023-07-20 | 2023-08-07 |
 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 | 2023-04-04 | 2023-04-06 |
 | [やさしい雷](https://open.spotify.com/track/5XhPxlTWLqcQGdpdiX8XBc) | [穂ノ佳](https://open.spotify.com/artist/7MjbwNW2fwyau81CKD5ryJ) | [やさしい雷](https://open.spotify.com/album/3WlR1EZCXCZBsGQlDAVKDH) | 4:04 | 2024-04-16 | 2024-04-24 |
@@ -1418,6 +1418,7 @@
 | [ファミリイ・コンテンツ](https://open.spotify.com/track/67V5axrqkSQF6azx2GNAIj) | [ayU tokiO](https://open.spotify.com/artist/3hu4NDbJsdOALVe4K61lHE) | [ファミリイ・コンテンツ](https://open.spotify.com/album/7DWzRqtaOkiryJLcfVBo2m) | 3:17 | 2023-01-12 | 2023-01-18 |
 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 | 2024-03-19 |  |
 | [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 | 2023-04-04 |  |
+| [プライベート・スーパースター](https://open.spotify.com/track/2aLn6ReK9CXMQzuF35Jkuc) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA), [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [プライベート・スーパースター](https://open.spotify.com/album/07f52PdvuHZqW4Oy0ka2AB) | 4:59 | 2024-08-13 |  |
 | [プレミアム](https://open.spotify.com/track/1VjBjIurnw7b4N5QI5Td8x) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [わかりあえないことから](https://open.spotify.com/album/5K4clS7mfedD25a6w615VG) | 3:54 | 2024-08-06 |  |
 | [プロムナード](https://open.spotify.com/track/3G4QATIYBkJ92HsR1OJt6g) | [YOLK](https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn) | [プロムナード](https://open.spotify.com/album/6o1FBLKCS1l5FHJ1z87YoJ) | 3:42 | 2023-12-12 | 2023-12-14 |
 | [ベスパでGO!](https://open.spotify.com/track/2USeGPu1zIczclo8v1xDii) | [HOGO地球](https://open.spotify.com/artist/5Rl8LyQ5RQAQsylGELbR4R) | [ベスパでGO!](https://open.spotify.com/album/0NpSf0RfpLCwzpUTMB65Mb) | 1:51 | 2023-05-30 | 2023-06-07 |

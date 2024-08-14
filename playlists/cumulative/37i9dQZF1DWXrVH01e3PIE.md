@@ -4,7 +4,7 @@
 
 > Falke 912 en la casa del Trap Argentino.
 
-316 songs - 15 hr 10 min
+317 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,8 +72,9 @@
 | [Cuadondo](https://open.spotify.com/track/52CeYxJMjRbSYiFFdfqxz5) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [Cuadondo](https://open.spotify.com/album/3bXhT2fZPRLeDCgyszj5Ab) | 2:15 | 2024-05-10 |  |
 | [Cuantas Veces Ma'](https://open.spotify.com/track/3gbxCU5idEzgq5VyH5O8FS) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Cuantas Veces Ma'](https://open.spotify.com/album/1w8j2WNLhVXaVTczEIPQb5) | 2:04 | 2022-05-20 | 2022-06-18 |
 | [Cuenta de Banco](https://open.spotify.com/track/2RlUm2pD3qwO9rkXM4PQKF) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK) | 2:50 | 2022-01-21 | 2022-04-16 |
-| [Cypher MND \#18 v.1: Neo Pistea, Obie Wanshot & CNO](https://open.spotify.com/track/6NemFvDNVbQgKyArKaZCFn) | [Mundialista Crew](https://open.spotify.com/artist/6EcQO0oH1Bk27HMRlRNwYv), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [CNO Kingteam](https://open.spotify.com/artist/7KGCGu8VphRwOg7I9b7Mqy) | [Cypher MND \#18: Neo Pistea, Obie Wanshot & CNO](https://open.spotify.com/album/1eF1nsMyY0LfwNOqeTrnVt) | 2:34 | 2024-07-12 |  |
+| [Cypher MND \#18 v.1: Neo Pistea, Obie Wanshot & CNO](https://open.spotify.com/track/6NemFvDNVbQgKyArKaZCFn) | [Mundialista Crew](https://open.spotify.com/artist/6EcQO0oH1Bk27HMRlRNwYv), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [CNO Kingteam](https://open.spotify.com/artist/7KGCGu8VphRwOg7I9b7Mqy) | [Cypher MND \#18: Neo Pistea, Obie Wanshot & CNO](https://open.spotify.com/album/1eF1nsMyY0LfwNOqeTrnVt) | 2:34 | 2024-07-12 | 2024-08-14 |
 | [DAKAR](https://open.spotify.com/track/0Go1oLj9k4wo1GqmKrSYFz) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo) | [DAKAR](https://open.spotify.com/album/10qhWnLbVyuQgcdv4DxYaP) | 3:34 | 2024-06-07 |  |
+| [Dalí](https://open.spotify.com/track/5W9sfme2wRkcgx2RSkqGsp) | [MARCOS YTZ](https://open.spotify.com/artist/6cYga5r2iZY7SCrT56FUWj) | [Dalí](https://open.spotify.com/album/0f7lJFC5UgF55NI6Y5Loyv) | 3:05 | 2024-08-13 |  |
 | [De las Shox a las Scorch](https://open.spotify.com/track/2i6PWZFkF8gnz668hT4sVX) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [PPP](https://open.spotify.com/album/1lsa2UwevjmI1Ud8JxvYPa) | 3:26 | 2024-01-12 | 2024-06-29 |
 | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To) | 2:52 | 2022-01-21 | 2023-02-04 |
 | [DEL ESTUDIO AL ESTADIO](https://open.spotify.com/track/0tczOvnVojC5FckxeaYLqR) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [buscando la luz \(deluxe\)](https://open.spotify.com/album/43aMkIvyWY3jMT73OmNpdY) | 3:35 | 2023-09-01 |  |

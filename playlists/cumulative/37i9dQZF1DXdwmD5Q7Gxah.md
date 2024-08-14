@@ -4,7 +4,7 @@
 
 > 🚨 someone tell rob the new beabadoobee album is here 🚨
 
-2,921 songs - 6 day 13 hr 52 min
+2,922 songs - 6 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1767,6 +1767,7 @@
 | [nice to know you](https://open.spotify.com/track/1Ox33f3cIVsAzhXpC6fYIp) | [Wishpig](https://open.spotify.com/artist/68ybmAQpXyAzHXOkexjYj3) | [nice to know you](https://open.spotify.com/album/1N97epSs8xnFTQxRqberB7) | 2:48 | 2023-04-14 | 2023-06-24 |
 | [Night Garden \(feat\. Kenny Beats & Bakar\)](https://open.spotify.com/track/1aFL6FVclpfPafOGekKkna) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Night Garden \(feat\. Kenny Beats & Bakar\)](https://open.spotify.com/album/3mUlJParu9HRpG7KH4QxHZ) | 3:41 | 2020-07-18 | 2020-08-20 |
 | [Night Time](https://open.spotify.com/track/3ah2BSQRitsUvAvvTeKtBE) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 4:14 | 2021-01-29 | 2021-02-06 |
+| [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2024-08-13 |  |
 | [NIGHTCLUBS](https://open.spotify.com/track/3emyhGoL3OQq64tFGcGFnB) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY) | [NIGHTCLUBS](https://open.spotify.com/album/61b2UBoF72beusFMAWOFUn) | 2:26 | 2021-02-06 | 2021-03-19 |
 | [Nightlife](https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd) | [Morning Silk](https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A) | [Nightlife](https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB) | 3:08 | 2023-09-01 | 2023-09-26 |
 | [Nightstand](https://open.spotify.com/track/4z8a7vahVw3dfm9it3xL5d) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Nightstand](https://open.spotify.com/album/6Ob0YASAKRgPXDygXHiGoL) | 2:26 | 2023-01-27 | 2023-03-03 |

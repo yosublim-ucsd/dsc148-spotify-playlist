@@ -4,7 +4,7 @@
 
 > Get the drinks on ice, this one is on us!
 
-295 songs - 14 hr 48 min
+296 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Baby Don't Hurt Me \(feat\. Anne\-Marie & Coi Leray\) \- Joel Corry Remix](https://open.spotify.com/track/6Z8iL8x45rPksBobTCrD2A) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me \(feat\. Anne\-Marie & Coi Leray\) \[Joel Corry Remix\]](https://open.spotify.com/album/4ZxoqDQ7tayryB9DFm6jbZ) | 2:45 | 2023-08-22 | 2023-09-06 |
 | [Baby I'm Bad](https://open.spotify.com/track/6lXIFf6lUbe6zCHtHz8DnT) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Shugz](https://open.spotify.com/artist/4tMlRT8e6fHXzLSbbVpvcV), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Baby I'm Bad](https://open.spotify.com/album/1eY0NDrf95EpnIe7mh4a06) | 2:15 | 2024-03-29 |  |
 | [Back Once More](https://open.spotify.com/track/2RRClVP1ldNEGKNtEChgA9) | [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Back Once More](https://open.spotify.com/album/3CLW4u9uTV6pFMsPYrJSIk) | 2:15 | 2023-08-22 | 2023-09-06 |
+| [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-13 |  |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-05-10 |  |
 | [Be Free](https://open.spotify.com/track/3YBilqc4QBO3w3FMQRxM4G) | [Rathbone Place](https://open.spotify.com/artist/6CF3f7dEQV2oNUEUzGQwO4) | [Be Free](https://open.spotify.com/album/7MeJTbIP5TayBYdMltHFXZ) | 2:47 | 2023-04-18 | 2023-05-17 |
 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 | 2023-08-22 | 2023-09-06 |
@@ -261,7 +262,7 @@
 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-08-22 | 2023-09-06 |
 | [Take Me Higher](https://open.spotify.com/track/3pnvw0ER3GV7bdNbmmYoII) | [Cian B](https://open.spotify.com/artist/29A5bDvH3z9vh2c3iXk237), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Take Me Higher](https://open.spotify.com/album/3OsQqllN9mUgxIaaGKfABb) | 2:58 | 2024-04-12 |  |
 | [Take Me Higher](https://open.spotify.com/track/5o1U7AQWLLRK1objdyllmZ) | [Cian B](https://open.spotify.com/artist/29A5bDvH3z9vh2c3iXk237), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Take Me Higher](https://open.spotify.com/album/0gGOSIP6P136rOuHh0nmlG) | 2:58 | 2024-04-12 | 2024-04-19 |
-| [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2023-04-18 |  |
+| [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2023-04-18 | 2024-08-14 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2023-04-18 |  |
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2023-04-18 | 2023-05-17 |
 | [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 | 2024-08-08 |  |

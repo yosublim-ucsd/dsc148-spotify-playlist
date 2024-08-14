@@ -2,7 +2,7 @@
 
 ### [Made In Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWWekySnB4xpt)
 
-> Representando la cultura con orgullo\. Representing with pride! Cover: Rawayana, Mau y Ricky
+> Representando la cultura con orgullo\. Representing with pride! Cover: Danny Ocean
 
 163 songs - 9 hr 50 min
 

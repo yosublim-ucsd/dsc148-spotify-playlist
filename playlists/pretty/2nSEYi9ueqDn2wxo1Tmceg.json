@@ -1,13 +1,29 @@
 {
-  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Alex Izenberg",
-  "num_followers": 66825,
+  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE?si=sywPBZ9vQM2HZPIwHidE1w\">Alex Izenberg</a>",
+  "num_followers": 66836,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAP0PfZHKDMzMkitVUvgmf6Iq3AU1a/",
+  "snapshot_id": "AAAP0kD5kGYxkeUoxHjsQRvNcVcMI1mi",
   "tracks": [
+    {
+      "added_at": "2024-08-13 10:22:17",
+      "album": {
+        "name": "A Landlord's Death",
+        "url": "https://open.spotify.com/album/10CsPEdJOHo0p8FvV4cPQb"
+      },
+      "artists": [
+        {
+          "name": "One True Pairing",
+          "url": "https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "A Landlord's Death",
+      "url": "https://open.spotify.com/track/6h11pnlL67Z0HnHsUzikCt"
+    },
     {
       "added_at": "2024-08-12 14:14:02",
       "album": {

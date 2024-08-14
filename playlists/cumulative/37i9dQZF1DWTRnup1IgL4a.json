@@ -2691,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/4RZ4E8R9CH9EZIkxommbBV"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164019,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/4j0DVm15wQMe2sOJ9cIW8a"
+    },
+    {
+      "album": {
         "name": "Night Route",
         "url": "https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ"
       },

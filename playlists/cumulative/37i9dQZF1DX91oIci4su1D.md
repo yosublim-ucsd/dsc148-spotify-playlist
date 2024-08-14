@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-960 songs - 2 day 10 hr 5 min
+961 songs - 2 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Gravity](https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Elara](https://open.spotify.com/artist/0csxaKH8pDLL39JSy6rpGX) | [Gravity](https://open.spotify.com/album/7eS3KoZbCYz7h5tbBHxgRq) | 4:16 | 2022-03-04 | 2023-03-04 |
 | [Great Ocean Road](https://open.spotify.com/track/70CgMVGi2L6ZMZeTPqFFbC) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [Great Ocean Road](https://open.spotify.com/album/2EPd7BNNI9zY3MEgSdV2kr) | 3:14 | 2022-02-04 | 2022-05-28 |
 | [Greatest Gift](https://open.spotify.com/track/3LznVdJVVTLxYY7iXkVdWT) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV), [Yelow](https://open.spotify.com/artist/0GLDtPfnUd5hQ18yba1xDi), [Capri](https://open.spotify.com/artist/36BbBuMd9ZJHGxYrPbcB84) | [Greatest Gift](https://open.spotify.com/album/4auc1shQt7cTIWHaVt3caC) | 3:40 | 2023-04-07 | 2023-12-09 |
+| [Guide Me Home](https://open.spotify.com/track/78VAm5dA0hs5sl77KOEMv8) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Guide Me Home](https://open.spotify.com/album/5wDYfNUFKaQgsB5TKYYsxk) | 3:30 | 2024-08-09 |  |
 | [Halcyon](https://open.spotify.com/track/0VWxONjwAB5ECKUDKDfYD2) | [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [True Hits, Vol\. 8](https://open.spotify.com/album/1THD37jO55fFKytiSpskWQ) | 3:40 | 2022-07-22 | 2023-06-02 |
 | [Halcyon](https://open.spotify.com/track/1UwdPwhkyr8X4lr0HAoKMV) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Halcyon / Mirage](https://open.spotify.com/album/5poQ53iK8aEysv02gdjWkZ) | 3:45 | 2022-11-25 | 2024-02-17 |
 | [Half Light](https://open.spotify.com/track/4SFnsEwWLkBS44EJdNOkj9) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Half Light](https://open.spotify.com/album/5Rs1G3NWK3jq7NU4v8adsf) | 3:49 | 2024-08-09 |  |
@@ -674,7 +675,7 @@
 | [Rectify](https://open.spotify.com/track/0EjQ11NHcGwEhYHStzB4li) | [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV) | [Rectify](https://open.spotify.com/album/2u0P3ZhgmtHmTAEJpdMt6Z) | 3:27 | 2021-12-17 | 2022-02-26 |
 | [Red Lights \- Gabriel & Dresden Remix](https://open.spotify.com/track/2hxPK1ADdvG45RFXmnvs6g) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY), [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV) | [Red Lights](https://open.spotify.com/album/5POqxIIEc8PqOhgRMuQnAc) | 3:57 | 2021-12-17 | 2022-02-26 |
 | [Reflect](https://open.spotify.com/track/4pcjuvD75lFUMBG5sRyOcS) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7) | [Reflect](https://open.spotify.com/album/6l87QQFgA8QSfRm2zHPAjS) | 3:45 | 2023-04-29 | 2024-02-17 |
-| [Reflected](https://open.spotify.com/track/5apmD6ssqm55PJoLlersMZ) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2) | [Reflected](https://open.spotify.com/album/3AgYoG9ZcGPVhB3DC4952Y) | 3:20 | 2023-08-18 |  |
+| [Reflected](https://open.spotify.com/track/5apmD6ssqm55PJoLlersMZ) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2) | [Reflected](https://open.spotify.com/album/3AgYoG9ZcGPVhB3DC4952Y) | 3:20 | 2023-08-18 | 2024-08-14 |
 | [Reflection](https://open.spotify.com/track/0UF2B2YgRTzzJMOU4G5zye) | [Twin View](https://open.spotify.com/artist/522ttEolqLXI712uSO3B23) | [Reflection](https://open.spotify.com/album/1JUCd4rurF7aHrhcrsNBMb) | 4:31 | 2021-12-17 | 2022-02-26 |
 | [REFLEXION \(ASOT 2023 Anthem\)](https://open.spotify.com/track/2nnRJHxIaoDe3FPTitG0iB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [REFLEXION \(ASOT 2023 Anthem\)](https://open.spotify.com/album/1kEvjuKyBiP0hqGpRAoQuO) | 2:39 | 2022-12-16 | 2023-03-04 |
 | [Remember Me](https://open.spotify.com/track/6SgvrfbLr63HjUH2fa23gS) | [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx), [July Mell](https://open.spotify.com/artist/7IK1lv7AzDt7FIiPkdhzUn) | [Remember Me](https://open.spotify.com/album/3V1nDTX1ZQcDpARdOAZnZ0) | 3:42 | 2023-02-24 | 2023-05-20 |

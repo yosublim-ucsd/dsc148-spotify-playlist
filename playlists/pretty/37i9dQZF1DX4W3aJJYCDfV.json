@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Chase & Status ft Stormzy (pictured),  beabadoobee, Fontaines D.C. and more!",
-  "num_followers": 857493,
+  "num_followers": 857553,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
@@ -739,7 +739,7 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Moviestar",
+        "name": "Moviestar (feat. Col3trane)",
         "url": "https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk"
       },
       "artists": [
@@ -748,16 +748,16 @@
           "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
         },
         {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        },
-        {
           "name": "Nippa",
           "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
         }
       ],
       "duration_ms": 249301,
-      "name": "Moviestar",
+      "name": "Moviestar (feat. Col3trane)",
       "url": "https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA"
     },
     {

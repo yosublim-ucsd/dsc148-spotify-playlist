@@ -2,9 +2,9 @@
 
 ### [This Is Engel Montaz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xF9W9)
 
-> This Is Engel Montaz\. Los temas esenciales, todos en una lista.
+> This is Engel Montaz\. The essential tracks, all in one playlist.
 
-37 songs - 1 hr 57 min
+38 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Party Prendio](https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 1:42 | 2024-07-12 |  |
 | [Pegate](https://open.spotify.com/track/3yQblGGfsGEL9kym9k4H3R) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pegate](https://open.spotify.com/album/08lijnYemuN1EnmBGV5VKw) | 2:45 | 2024-06-19 | 2024-08-07 |
 | [Pilita](https://open.spotify.com/track/5piUgE2U1yqAADrkUb6oFM) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pilita](https://open.spotify.com/album/6W0MM8aD5jKmefxReDfxIk) | 2:58 | 2024-06-19 | 2024-08-07 |
+| [Pilita \- Remix](https://open.spotify.com/track/6Hk3cm82arTFxwfooQU1c6) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Paola Houghton](https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Pilita \(feat\. Paola Houghton & DJ Nanow\) \[Remix\]](https://open.spotify.com/album/7JWwcgZWtVS3fdx1RiwTRg) | 3:06 | 2024-08-14 |  |
 | [Prende](https://open.spotify.com/track/0HDlIJj210agV16lELqz63) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [El Mangry](https://open.spotify.com/artist/07II99rXe72pglXtzRmaPQ), [Dj Astilo](https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK) | [Prende](https://open.spotify.com/album/7sWux5ojK5F7cCzylqmnHk) | 3:06 | 2024-06-19 |  |
 | [Provoca](https://open.spotify.com/track/2E59zaPJmV79zkp4iBqGws) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Provoca](https://open.spotify.com/album/425a8VovhxQ2sGLTbscygp) | 3:26 | 2024-06-19 |  |
 | [Quedate \- Version Discoteca](https://open.spotify.com/track/4fNoiC78XH83V907TSAk9m) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [King Jeff](https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d) | [Quedate \(Version Discoteca\)](https://open.spotify.com/album/49marj4ERkHVY510ycGNMr) | 3:20 | 2024-06-19 |  |

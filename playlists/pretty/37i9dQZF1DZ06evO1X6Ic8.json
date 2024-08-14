@@ -1,12 +1,12 @@
 {
-  "description": "This Is The 1975. Los temas esenciales, todos en una lista.",
-  "num_followers": 785921,
+  "description": "This is The 1975. The essential tracks, all in one playlist.",
+  "num_followers": 786018,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrf/AAAAAAD0eELzOtDagOeEMrCyhavd",
+  "snapshot_id": "ZrlQgAAAAACc2E5Zyuwjd5Oak1Wfr31s",
   "tracks": [
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 127342,
-      "name": "Then Because She Goes",
-      "url": "https://open.spotify.com/track/1VP6X2WDJuBGvIZkTKFhF5"
+      "duration_ms": 285833,
+      "name": "The Birthday Party",
+      "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 285833,
-      "name": "The Birthday Party",
-      "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
+      "duration_ms": 127342,
+      "name": "Then Because She Goes",
+      "url": "https://open.spotify.com/track/1VP6X2WDJuBGvIZkTKFhF5"
     },
     {
       "added_at": null,

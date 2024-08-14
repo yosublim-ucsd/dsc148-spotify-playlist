@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 
 > Collection of the greatest songs from Makoto Shinkai's movies, including the latest movie, <a href="https://suzume\-tojimari\-movie.jp/">"Suzume"</a>\.   2022 "Suzume" Film Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,432 likes - 66 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,482 likes - 66 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 4 | [男と女のラブゲーム](https://open.spotify.com/track/4qVrWEpm4fjdTakJg5Ykk6) | [Mika Hino](https://open.spotify.com/artist/4SnVzUk8sP61RFT8czNxjj), [Kenji Niinuma](https://open.spotify.com/artist/4eZxAuDEWugT2KHS32AIkA) | [日野美歌全曲集 いのりうた](https://open.spotify.com/album/3riEoVadQnLwFFGh94BEAk) | 3:57 |
 | 5 | [ルージュの伝言](https://open.spotify.com/track/462O96Nj5zuTA13QAlrd8A) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ルージュの伝言](https://open.spotify.com/album/4rJiEREugS8KDs7oSF35Tt) | 3:02 |
 | 6 | [SWEET MEMORIES \(Re\-Mix Version\)](https://open.spotify.com/track/6UDky6rmQprD5seH60B8jY) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [ペンギンズ・メモリー「幸福物語」オリジナル・サウンドトラック](https://open.spotify.com/album/7bcgXOWD6gojVuI6joqEtJ) | 4:34 |
-| 7 | [夢の中へ \- 2017 Remaster](https://open.spotify.com/track/2YgyW0CWOD7vMrgbB68LQk) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [夢の中へ](https://open.spotify.com/album/6b18Ztx6B8CM0mDE4ZUGwf) | 2:36 |
+| 7 | [夢の中へ \- Remastered](https://open.spotify.com/track/2YgyW0CWOD7vMrgbB68LQk) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [夢の中へ](https://open.spotify.com/album/6b18Ztx6B8CM0mDE4ZUGwf) | 2:36 |
 | 8 | [卒業](https://open.spotify.com/track/4Sr61N418wix3wJIFPNKg4) | [Yuki Saito](https://open.spotify.com/artist/3b1ILSjPEq1AXyfmZXkPGr) | [卒業](https://open.spotify.com/album/7oVcSoAtkgxbh7H8ZgdKuU) | 4:45 |
 | 9 | [バレンタイン・キッス](https://open.spotify.com/track/27Zq1Uh9ITJwfTaqvqUsfy) | [Sayuri Kokusho](https://open.spotify.com/artist/3Ts5ELxUNyqlHKYJX8uq5t), [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [バレンタイン・キッス](https://open.spotify.com/album/5qxEqwkeJaDCO7vKIB500c) | 3:36 |
 | 10 | [けんかをやめて](https://open.spotify.com/track/2UiO3tzClF7mHiuRyhUt3R) | [Naoko Kawai](https://open.spotify.com/artist/1BMCwAT2geYkKBKjRAJ8Qu) | [けんかをやめて](https://open.spotify.com/album/6JDq7lXrVjiED6fHNjGx1N) | 4:31 |

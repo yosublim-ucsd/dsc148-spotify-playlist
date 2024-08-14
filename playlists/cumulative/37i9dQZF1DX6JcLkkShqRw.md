@@ -4,7 +4,7 @@
 
 > Flow sudamericano con Kidd Voodoo & Salastkbron,
 
-1,362 songs - 2 day 21 hr 38 min
+1,363 songs - 2 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Caviar](https://open.spotify.com/track/6SuAh9Zl4urVOGWlhlJ5Zd) | [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Caviar](https://open.spotify.com/album/1MRzrtSBb6Y4V27DMd90rw) | 1:32 | 2024-06-21 | 2024-06-29 |
 | [Cayenne](https://open.spotify.com/track/6RpehkucrReifc57HbzOyR) | [PRIZE](https://open.spotify.com/artist/2Xd2pJZdm7FjIFnfuMi66R) | [Cayenne](https://open.spotify.com/album/2rOu8MOsWthBIqlQ0ql20T) | 2:53 | 2024-06-28 |  |
 | [Cazame](https://open.spotify.com/track/2LtTHIXTaFwvY9oLOThElU) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Cazame](https://open.spotify.com/album/2YIoAADK2tVeSyMbe2LFOW) | 3:19 | 2021-12-27 | 2022-08-27 |
-| [CELESTE](https://open.spotify.com/track/6PKTGYF1V7dYwv3g3NBDnK) | [Daiko 02](https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T), [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU) | [CELESTE](https://open.spotify.com/album/0ba9PcLgMQEKXUVugkK0t8) | 2:48 | 2024-07-05 |  |
+| [CELESTE](https://open.spotify.com/track/6PKTGYF1V7dYwv3g3NBDnK) | [Daiko 02](https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T), [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU) | [CELESTE](https://open.spotify.com/album/0ba9PcLgMQEKXUVugkK0t8) | 2:48 | 2024-07-05 | 2024-08-14 |
 | [CEO](https://open.spotify.com/track/5ha7HmgsLaYNwCIA1TClnO) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [CEO](https://open.spotify.com/album/4Gd49c3h5KaOfCJ5pitwND) | 2:49 | 2024-06-21 |  |
 | [Cero Coro](https://open.spotify.com/track/6F3fByGnMXy8ZZ9Rp0WpWQ) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Cero Coro](https://open.spotify.com/album/6O86yEhkjwrI4LRfXilKd2) | 2:50 | 2021-12-27 | 2022-04-02 |
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-08 | 2023-07-29 |
@@ -327,6 +327,7 @@
 | [DAILY](https://open.spotify.com/track/3FalT15qUp8ONFqLt0Sz9D) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [DAILY](https://open.spotify.com/album/617heENgtA9uMLuQMqGpTg) | 2:24 | 2024-04-26 | 2024-05-03 |
 | [DAKAR](https://open.spotify.com/track/0Go1oLj9k4wo1GqmKrSYFz) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo) | [DAKAR](https://open.spotify.com/album/10qhWnLbVyuQgcdv4DxYaP) | 3:34 | 2024-06-07 | 2024-06-15 |
 | [Dale Mecha](https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dale Mecha](https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F) | 2:30 | 2023-05-05 | 2024-06-01 |
+| [Dalí](https://open.spotify.com/track/5W9sfme2wRkcgx2RSkqGsp) | [MARCOS YTZ](https://open.spotify.com/artist/6cYga5r2iZY7SCrT56FUWj) | [Dalí](https://open.spotify.com/album/0f7lJFC5UgF55NI6Y5Loyv) | 3:05 | 2024-08-13 |  |
 | [Dame La Paka](https://open.spotify.com/track/6cs5chqRXVIGNFkjkwm3qv) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Dame La Paka](https://open.spotify.com/album/3fGOxkG61Y1fJn2q2mzXuC) | 2:44 | 2022-01-03 | 2022-03-27 |
 | [DAME LOVE](https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [DAME LOVE](https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D) | 3:10 | 2022-01-14 | 2022-04-21 |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-27 | 2024-07-06 |

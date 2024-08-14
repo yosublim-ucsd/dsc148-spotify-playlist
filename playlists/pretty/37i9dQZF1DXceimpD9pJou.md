@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:3yZLchlyOSmGC6B6bUhgVU">Gracia Soberana Música</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,331 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,339 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 4 | [Lo tengo todo en ti \- En Vivo](https://open.spotify.com/track/3N8fdyXhkqu77NsACuAObN) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [CONCIERTO TIENES EL CONTROL \(En Vivo\)](https://open.spotify.com/album/4xnhkR5TkhW1i0Jd5tiTH6) | 4:32 |
 | 5 | [Cristo Te Amo \(Espontaneo\)](https://open.spotify.com/track/0sX43ZkUHWY77HMl8f4o3B) | [Humillé](https://open.spotify.com/artist/2j15s5SPI9yS6X7YGPhd22), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Cristo Te Amo \(Espontaneo\)](https://open.spotify.com/album/2Gxw4OxArg4rnLFHiwi2YW) | 3:44 |
 | 6 | [Desirable](https://open.spotify.com/track/5UREzf4cUiZ9gkmcl7poLe) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Desirable](https://open.spotify.com/album/0BCyuqmhvDllxm2UJ8Hjhb) | 12:11 |
-| 7 | [Jesús lo hará \(Jesus Will\)](https://open.spotify.com/track/1aJBc1cw4ppNmY2tJgIinF) | [Sean Rodriguez](https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY) | [Jesús Lo Hará \(Jesus Will\)](https://open.spotify.com/album/53PN1Kdt05FYZmXPCYQNka) | 3:16 |
+| 7 | [Jesús Lo Hará \(Jesus Will\)](https://open.spotify.com/track/1aJBc1cw4ppNmY2tJgIinF) | [Sean Rodriguez](https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY) | [Jesús Lo Hará \(Jesus Will\)](https://open.spotify.com/album/53PN1Kdt05FYZmXPCYQNka) | 3:16 |
 | 8 | [La Samaritana](https://open.spotify.com/track/49D7WId1pycJODFu4VIANF) | [Infinitoamor](https://open.spotify.com/artist/6sd0RW2mhgFiCaPtdnSPcL) | [La Samaritana](https://open.spotify.com/album/1LMxbZZd0npHfRd5qcb6fb) | 4:02 |
 | 9 | [Delante de Ti](https://open.spotify.com/track/1KsCFWhDmvAQSyO7KYe6r7) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P) | [Delante de Ti](https://open.spotify.com/album/4mP4DHQURpwsmcY7qvzUVe) | 5:32 |
 | 10 | [Salmo 130](https://open.spotify.com/track/44cIZOZMY54yEMNRVLTtdo) | [Michelle Matius](https://open.spotify.com/artist/1eg0PkxINFy3H3DZ6uUpcl) | [Salmo 130](https://open.spotify.com/album/2xIDP6LJZSNZXsybDb5T51) | 3:54 |

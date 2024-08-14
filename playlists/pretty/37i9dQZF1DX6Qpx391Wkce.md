@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,141 likes - 63 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,156 likes - 63 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 |
 | 2 | [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 |
-| 3 | [WILD ELECTRIC \- Monika Kruse Remix](https://open.spotify.com/track/26zdcNGCsPllOiaKkPRjRk) | [ADRIANNA](https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e), [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [WILD ELECTRIC \(Monika Kruse Remix\)](https://open.spotify.com/album/2uUMO66NX3M4KFnBFbtgHW) | 3:52 |
+| 3 | [WILD ELECTRIC \- Monika Kruse Remix](https://open.spotify.com/track/26zdcNGCsPllOiaKkPRjRk) | [ADRIANNA](https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e), [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [WILD ELECTRIC \(Monika Kruse Remix\)](https://open.spotify.com/album/2uUMO66NX3M4KFnBFbtgHW) | 6:01 |
 | 4 | [Orbital Overdrive](https://open.spotify.com/track/55nGYZkyqpm6C3uh8koxyT) | [Zafer Atabey](https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7) | [Orbital Overdrive](https://open.spotify.com/album/56QmnmzAwcHtoYh3keiymi) | 4:14 |
 | 5 | [I Can Feel That \- Christian Smith & Drunken Kong Remix](https://open.spotify.com/track/3TME3m5KBEU6QmXw2EHiTl) | [Pascal Feos](https://open.spotify.com/artist/5E6aRHK6j8Nj8E1a0jIR8W), [Christian Smith](https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3), [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [I Can Feel That \(Remixed\)](https://open.spotify.com/album/6cU3UFhWDBlfVtoQ0ugM78) | 6:05 |
 | 6 | [How You Move](https://open.spotify.com/track/6FQ6FdtxgMaFseKitedJ7u) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 6:04 |

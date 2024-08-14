@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Yuki Navaratne
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,463 likes - 62 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,475 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 23 | [Ranwan Maldam](https://open.spotify.com/track/1bzsi0xA8MxBZICdtB23pO) | [Centigradz](https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse) | [Ranwan Maldam](https://open.spotify.com/album/2L581ffA4tmnrkSW3AmA3l) | 3:28 |
 | 24 | [Charitha Attalage Medley](https://open.spotify.com/track/57o1kkC9RBwoSIuSfHKKBC) | [Mahiru Senarathne](https://open.spotify.com/artist/3Od0SSFki2d6U1jnmoUaBC) | [Charitha Attalage Medley](https://open.spotify.com/album/2sg23mpKHyH4ed5oNcPBbH) | 2:38 |
 | 25 | [Hanthaney](https://open.spotify.com/track/70JBYyMJ6PI2UDgPOH1OLU) | [Dhyan Hewage](https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G) | [Hanthaney](https://open.spotify.com/album/2V1UlRbJ07HHWThvsmFzYM) | 3:40 |
-| 26 | [Datha Dara](https://open.spotify.com/track/7Dl4H08P6ZsuQnN3rl3X5Q) | [NaadhaGama](https://open.spotify.com/artist/6OcxQ6JR8KBybmQOJNWvTU), [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN), [Dhanith Sri](https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs), [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x), [Dinupa Kodagoda](https://open.spotify.com/artist/1hIhsR8RdSlX4IVlxybhFj) | [Datha Dara](https://open.spotify.com/album/5ACrismOfjk5EW5n9oz4t6) | 3:10 |
+| 26 | [Datha Dara](https://open.spotify.com/track/7Dl4H08P6ZsuQnN3rl3X5Q) | [NaadhaGama](https://open.spotify.com/artist/6OcxQ6JR8KBybmQOJNWvTU), [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN), [Dhanith Sri](https://open.spotify.com/artist/5zQyn7uYbeuwaG5S8sfYZk), [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x), [Dinupa Kodagoda](https://open.spotify.com/artist/1hIhsR8RdSlX4IVlxybhFj) | [Datha Dara](https://open.spotify.com/album/5ACrismOfjk5EW5n9oz4t6) | 3:10 |
 | 27 | [Dase Durin](https://open.spotify.com/track/2RLLzsU7ijGYg0xTW42Q0G) | [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Dase Durin](https://open.spotify.com/album/1lx0sB4sQemiqjO2x5P13N) | 2:39 |
 | 28 | [Ayemath Adaren](https://open.spotify.com/track/3oZB7RNTLRMAHZEhD4uGoj) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Athma Liyanage](https://open.spotify.com/artist/5VCJFF8MGzfQI7EjbuV1nX) | [Ayemath Adaren](https://open.spotify.com/album/25qXO4urjPQLpl0DXwGG2W) | 3:57 |
 | 29 | [Pihatuwak Se](https://open.spotify.com/track/4nu9jFGxqTbGmcgeYDLku5) | [Ramidu](https://open.spotify.com/artist/79N9HpBbkLyan8X1jTYe6d), [Themiya Thejan](https://open.spotify.com/artist/7KOQwe1vcolnuIBhMmvZo9) | [Pihatuwak Se](https://open.spotify.com/album/2kRwJFHCzVFxi6i1Q5ZIFZ) | 3:06 |

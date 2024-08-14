@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 162770,
       "name": "die letzten Schritte",
       "url": "https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 183815,
       "name": "durch Nacht und Nebel",
       "url": "https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP"
@@ -6610,6 +6610,24 @@
       "duration_ms": 121308,
       "name": "Minor Fable",
       "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
+    },
+    {
+      "album": {
+        "name": "Minorities",
+        "url": "https://open.spotify.com/album/48ludebOOiB7RpPpgtEhxs"
+      },
+      "artists": [
+        {
+          "name": "Matti Aalto",
+          "url": "https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169179,
+      "name": "Minorities",
+      "url": "https://open.spotify.com/track/0WGxduCskRMRz2sBkHgpDg"
     },
     {
       "album": {
@@ -10934,6 +10952,24 @@
       "duration_ms": 187200,
       "name": "Tranquil Landscape",
       "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
+    },
+    {
+      "album": {
+        "name": "transition",
+        "url": "https://open.spotify.com/album/6UfEKOtts2xmAXoMg9TxNI"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155874,
+      "name": "transition",
+      "url": "https://open.spotify.com/track/0xzLNybwXCrgQ6GjbIKlm7"
     },
     {
       "album": {

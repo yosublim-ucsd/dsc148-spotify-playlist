@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-514 songs - 22 hr 29 min
+515 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [California Sun](https://open.spotify.com/track/4ndKdhuho4PWsGZL6V4Wbv) | [Pierse](https://open.spotify.com/artist/6RaXGK6k9dt5lMJasbOHeg), [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT) | [California Sun](https://open.spotify.com/album/2o4nd05Gj3LbPeoeLKZ6sE) | 2:04 | 2023-09-22 | 2023-12-14 |
 | [Californication](https://open.spotify.com/track/0v2atFhYQYPythajdEi4MF) | [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Californication](https://open.spotify.com/album/67UYfVh7jJnkUkHs0CFSux) | 2:21 | 2024-01-27 | 2024-07-29 |
 | [Call it Home](https://open.spotify.com/track/3ZHSDjF5THq5xTq13zWf6F) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Call it Home](https://open.spotify.com/album/2yvcZGAIgmXvdZFs9CgVvO) | 2:35 | 2024-07-26 |  |
+| [Can You Be Mine](https://open.spotify.com/track/598HukjVxGDlHZnm8rBrv0) | [Ideo](https://open.spotify.com/artist/2f5hd9R0JjvRR9vb7QvYZl), [Dropbusterz](https://open.spotify.com/artist/4rv8s8PHSHezu1eJnxLQbB), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Can You Be Mine](https://open.spotify.com/album/5PGO8ojXyeuYtV1qZx8VPV) | 2:23 | 2024-08-13 |  |
 | [Can't Help Falling In Love With You](https://open.spotify.com/track/7kGiOCt0ykF3HNGlRcNdkW) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Forever Kids.](https://open.spotify.com/artist/5ta0hTlqtDBzMgeV5frOJT) | [Can't Help Falling In Love With You](https://open.spotify.com/album/04kFaB0aKstGtw6TrDqXC5) | 2:43 | 2024-07-21 | 2024-08-08 |
 | [Careless Whisper](https://open.spotify.com/track/2hESLhxdaKlLA5Xt9kZdsz) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Sealife](https://open.spotify.com/artist/0hqL32qd5sIFvWQXVtccIa), [Beachlife](https://open.spotify.com/artist/2kWRTTOH8rNyFCcFJgPYqF) | [Careless Whisper](https://open.spotify.com/album/38ZVhH1K3qD6X9On0NqmqL) | 2:55 | 2024-05-11 |  |
 | [Catch & Release](https://open.spotify.com/track/1akulsmCT8i9lmAFlFNjRO) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV), [Aria De vie](https://open.spotify.com/artist/7DpmVYmJRgZIp64St4jfbO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Catch & Release](https://open.spotify.com/album/2CYVNYXLL1sqq8hAzOa1eA) | 3:13 | 2023-09-22 | 2023-12-31 |

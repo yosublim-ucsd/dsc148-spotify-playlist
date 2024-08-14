@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,937 songs - 4 day 8 hr 15 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,938 songs - 4 day 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1945,5 +1945,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1935 | [JUMPSTYLE PARTY](https://open.spotify.com/track/5klmEhYEDqfGQ6yK2tlwEe) | [RomancePlanet](https://open.spotify.com/artist/37wN6xD9duyyxRWmObUUxE) | [JUMPSTYLE PARTY](https://open.spotify.com/album/3p7OeUtOn2wKqJdHk0yCkZ) | 1:44 |
 | 1936 | [JUMPSTYLE BOOTLEG](https://open.spotify.com/track/4mZV0o88ojuX9bzhLmB6jf) | [ilyhiryu](https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2) | [JUMPSTYLE BOOTLEG](https://open.spotify.com/album/3NtUbbMcjRhUVo4nPlBMMK) | 3:39 |
 | 1937 | [The Thin Grey Line](https://open.spotify.com/track/1d966178PJg6b4kcXqoYF3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 1:45 |
+| 1938 | [Ponyboy](https://open.spotify.com/track/7dUrhEQguPAglRgnACCzYw) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:14 |
 
-Snapshot ID: `AAADNT9IgDnQsmFSxygmHtfL1PHRuxkS`
+Snapshot ID: `AAADNviTooyXUkK5GFA0ZaZOMQ65Qimh`

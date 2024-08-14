@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: Coy6oi x Yuni
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,493 likes - 120 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,492 likes - 120 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 25 | [佩吉](https://open.spotify.com/track/4YIJer66yAbrQ8SmiyiJVF) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [佩吉](https://open.spotify.com/album/6HqDZ6rKLxxYh15FHCCcAW) | 4:49 |
 | 26 | [理想生活](https://open.spotify.com/track/6d3IqshqaStY9Wywyvr7vZ) | [田颖](https://open.spotify.com/artist/4F4IvEpWiQnK0iFxsk8A2h) | [理想生活](https://open.spotify.com/album/0O4POduHVP0UO92U4y06Do) | 4:03 |
 | 27 | [more about you](https://open.spotify.com/track/3PGX7THaDbTHSdoDijMNaV) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [more about you](https://open.spotify.com/album/15jd1fNpq1MGOzssezx2uj) | 2:25 |
-| 28 | [寂寞宇宙](https://open.spotify.com/track/5vx2la1UpjiPF9up0mH8gD) | [黃麟堯](https://open.spotify.com/artist/5KosNYlC1QcKLSlmcclX5E) | [寂寞宇宙](https://open.spotify.com/album/1QWVx3ih7vaXRKfhyflij8) | 3:49 |
+| 28 | [寂寞宇宙](https://open.spotify.com/track/5vx2la1UpjiPF9up0mH8gD) | [黃麟堯 0yao](https://open.spotify.com/artist/05e4BqKJOEBQLkyUHvBnZi) | [寂寞宇宙](https://open.spotify.com/album/1QWVx3ih7vaXRKfhyflij8) | 3:49 |
 | 29 | [井底之蛙](https://open.spotify.com/track/3uCzFFrKRUrI9hsDEWfl6A) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [井底之蛙](https://open.spotify.com/album/7cP7cfrvKytdj1IgE4Vyd6) | 4:06 |
 | 30 | [不回訊息](https://open.spotify.com/track/6CWp52hCnj6QpgXKx7FkRe) | [Marvin36](https://open.spotify.com/artist/2D598H3fhWWsOS4p5XyWif), [艾瑞](https://open.spotify.com/artist/7pYoJ7Feoy97o7MHFx6qV1) | [不回訊息](https://open.spotify.com/album/4fpTkLxQPzb6ycfcFjXJDB) | 3:14 |
 | 31 | [八里香](https://open.spotify.com/track/4WjEEQkE9iftRU2WqvGMR3) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Danny Koo](https://open.spotify.com/artist/6wV3VcxKYg6ynYZOdjbwL9) | [八里香](https://open.spotify.com/album/144da33Dkk1Azhx8rfjWgR) | 2:59 |

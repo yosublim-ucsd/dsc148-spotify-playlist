@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 
 > Un poco de esto, un poco de lo otro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,345 likes - 78 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,340 likes - 78 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 | 3 | [PROVENZA \- Sistek Remix](https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA \(Sistek Remix\)](https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl) | 3:48 |
 | 4 | [Salimos De Nochev](https://open.spotify.com/track/4JU47IjBIvSXdHwkZjqlsd) | [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [Salimos De Nochev](https://open.spotify.com/album/6yEoafmzIAeNZBcyWqmh2Q) | 1:52 |
 | 5 | [Madre \- Extendedmix](https://open.spotify.com/track/4aNrSLuMbdE3SwsigPZgSW) | [Luna Cristofanelli](https://open.spotify.com/artist/3HQ5dYTQ6URNajUz07H0pr) | [Madre \(Extendedmix\)](https://open.spotify.com/album/1ujoOuydsIimR0wqEZur72) | 3:08 |
-| 6 | [Gata Only \- J.PATRON Remix](https://open.spotify.com/track/5EYZeP0HXssaa3tvfTiKxf) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/73Zc3IZtfAoO8EgWWMALaP), [J.Patron](https://open.spotify.com/artist/4KIR9I8szkZCxEw9Ncdmdo) | [Gata Only \(J.PATRON Remix\)](https://open.spotify.com/album/49WGsbEmxU7zzRua0qa5wT) | 3:54 |
-| 7 | [Classy 101 \- tech house](https://open.spotify.com/track/4AcLJkZaXtuni8UwR06Om6) | [Berna Rozenblum](https://open.spotify.com/artist/20Dmnhv5NP2oyP9ZwEWgIm) | [Classy 101 \(tech house\)](https://open.spotify.com/album/7f7l9MB46siXxNN5VTb6E8) | 2:34 |
-| 8 | [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 |
+| 6 | [Classy 101 \- tech house](https://open.spotify.com/track/4AcLJkZaXtuni8UwR06Om6) | [Berna Rozenblum](https://open.spotify.com/artist/20Dmnhv5NP2oyP9ZwEWgIm) | [Classy 101 \(tech house\)](https://open.spotify.com/album/7f7l9MB46siXxNN5VTb6E8) | 2:34 |
+| 7 | [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 |
+| 8 | [Antes De Irte](https://open.spotify.com/track/5e1z9NC0DyAfojrJXEFQNM) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e) | [Antes De Irte](https://open.spotify.com/album/3iQbdAAHM7SmtCvEM6kbFP) | 3:18 |
 | 9 | [LUCES DE TECNO](https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:43 |
 | 10 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 |
 | 11 | [Corazón Roto \- House Remix](https://open.spotify.com/track/6LoW4RIvx5lAHOjdrG1vTz) | [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd) | [Corazón Roto \(House Remix\)](https://open.spotify.com/album/2UymMnf8PFL5NZKr523bm1) | 4:27 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 | 77 | [Bzrp Music Sessions, Vol\. 53 \- Tiësto Remix](https://open.spotify.com/track/22Q0eVNpSUIWG0prN6cVmI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:36 |
 | 78 | [Los del Espacio \(House\) \- Remix](https://open.spotify.com/track/3mdvsFgPjsWmvdTgonIwsl) | [Fran Tapia DJ](https://open.spotify.com/artist/2Kk2M9tuolP8L9fWepeXgb), [Tibau Mascheroni](https://open.spotify.com/artist/0kVnIhVZLeVOQ9HOyjNRV7), [DJ Elias Villabrille](https://open.spotify.com/artist/7jZOMTLvJsSmVG5wPEKrhh) | [Los del Espacio \(House\) \[Remix\]](https://open.spotify.com/album/3dE8zZ7O4lB1jtmCCjUBGM) | 4:53 |
 
-Snapshot ID: `ZpCcMAAAAADbBuNWXXCvYuUdHbULq4Bw`
+Snapshot ID: `ZrtUigAAAACmwVcM7UPzyMyJlytCdAAQ`

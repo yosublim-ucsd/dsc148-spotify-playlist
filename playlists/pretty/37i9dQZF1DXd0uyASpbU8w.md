@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=n9niGeSvRG\-eXg1eKDeCmA">Lwah Ndlunkulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,493 likes - 54 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,612 likes - 54 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 5 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/6RcMkoRbHc6HnMHngvY2Vs) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [96 Months](https://open.spotify.com/album/5uRY0boZn48gDio0ASlgI0) | 3:32 |
 | 6 | [Makhelwane](https://open.spotify.com/track/1bYkv9xxwNc6N6HNBPJtRx) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa \(Deluxe\)](https://open.spotify.com/album/5mJhoq11913yswsdXb2pw6) | 3:17 |
 | 7 | [Abashwe](https://open.spotify.com/track/1N0QB1WrFVPr4RHuFrs06A) | [Reece Madlisa](https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2), [Amu Classic & Kappie](https://open.spotify.com/artist/4hSJ5FwIbSPqzErDp2X4oi), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Abashwe](https://open.spotify.com/album/3SdBgHMbJjuRqaYQr3QsiU) | 6:21 |
-| 8 | [MaDlamini \(feat\. Mellow & Sleazy\)](https://open.spotify.com/track/0X5qaCnHN98ELiqincjJwg) | [Scotts Maphuma](https://open.spotify.com/artist/4USfWz5p5xNATSfHURgBYC), [DoouShii](https://open.spotify.com/artist/0sN5oRkFliiyjSNqPIEjML), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [MaDlamini \(feat\. Mellow & Sleazy\)](https://open.spotify.com/album/2OdKyGAB2YJBWXDM9KN8eT) | 7:34 |
+| 8 | [MaDlamini \(feat\. Mellow & Sleazy\)](https://open.spotify.com/track/0X5qaCnHN98ELiqincjJwg) | [DoouShii](https://open.spotify.com/artist/0sN5oRkFliiyjSNqPIEjML), [Scotts Maphuma](https://open.spotify.com/artist/4USfWz5p5xNATSfHURgBYC), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [MaDlamini \(feat\. Mellow & Sleazy\)](https://open.spotify.com/album/2OdKyGAB2YJBWXDM9KN8eT) | 7:34 |
 | 9 | [Nothing That I Need](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Nothing That I Need](https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo) | 3:18 |
 | 10 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 |
 | 11 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 |

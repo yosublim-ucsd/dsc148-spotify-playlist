@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Tayar. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: KairoKid. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 173217,
       "name": "$1 painting",
       "url": "https://open.spotify.com/track/5TiQI883RE9B1XespK6icI"
+    },
+    {
+      "album": {
+        "name": "100 RA'AI",
+        "url": "https://open.spotify.com/album/6AazyK4VPDpSNBTtj2a9AU"
+      },
+      "artists": [
+        {
+          "name": "Zii",
+          "url": "https://open.spotify.com/artist/3iO6JRHgp14ESXysByB3yl"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146070,
+      "name": "100 RA'AI",
+      "url": "https://open.spotify.com/track/5XEW9NjDfPw4T9c8Wmxu5d"
     },
     {
       "album": {
@@ -131,6 +149,24 @@
     },
     {
       "album": {
+        "name": "A7LAM",
+        "url": "https://open.spotify.com/album/0xT0gItY4yBFkBofDdYJGf"
+      },
+      "artists": [
+        {
+          "name": "KairoKid",
+          "url": "https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160831,
+      "name": "A7LAM",
+      "url": "https://open.spotify.com/track/3jbYNSnx1vFpcA7KkLe9O3"
+    },
+    {
+      "album": {
         "name": "Aalam Al Ahlam",
         "url": "https://open.spotify.com/album/0Bpu81JbeYcjSDdlk17Wwy"
       },
@@ -142,7 +178,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 301493,
       "name": "Aalam Al Ahlam",
       "url": "https://open.spotify.com/track/5qC4xHoM6d1cKUTG22ONOp"
@@ -160,7 +196,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 196250,
       "name": "Ad3i",
       "url": "https://open.spotify.com/track/7gUPXOyNzWB3AVIHkZ0hDt"
@@ -232,7 +268,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 217802,
       "name": "Ala Wain",
       "url": "https://open.spotify.com/track/5VKc8PPiqkei1pIsBYTCTs"
@@ -452,6 +488,28 @@
       "duration_ms": 192380,
       "name": "Balaleen",
       "url": "https://open.spotify.com/track/081geJirqbAxZUJE0u7ca7"
+    },
+    {
+      "album": {
+        "name": "BALANCE",
+        "url": "https://open.spotify.com/album/6wIboUPlKuBkSkyQS4hR9D"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv"
+        },
+        {
+          "name": "Yung DrowN",
+          "url": "https://open.spotify.com/artist/0SnhNNbdHuHe5ezJ9ztdQT"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170983,
+      "name": "BALANCE",
+      "url": "https://open.spotify.com/track/3JgMmHzNjRoulv7sjdorXt"
     },
     {
       "album": {
@@ -802,7 +860,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 200000,
       "name": "came here 4 fun",
       "url": "https://open.spotify.com/track/0oSPHFigMEOS67fo6bbo3Y"
@@ -1181,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "DONYA",
+        "url": "https://open.spotify.com/album/6yEYt57146HAo5yskSJ5dr"
+      },
+      "artists": [
+        {
+          "name": "ZAF",
+          "url": "https://open.spotify.com/artist/0HuChNNYu7zlI19O9ncr6f"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71888,
+      "name": "DONYA",
+      "url": "https://open.spotify.com/track/4W4cXk5mSDHx0mo2bApZmw"
+    },
+    {
+      "album": {
         "name": "Dream Merchant",
         "url": "https://open.spotify.com/album/2C0705Y1tvu30snlIOE1yT"
       },
@@ -1225,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "El Beit - \u0627\u0644\u0628\u064a\u062a",
+        "url": "https://open.spotify.com/album/0UmUPQJ69Tk0wKWTMNnTaU"
+      },
+      "artists": [
+        {
+          "name": "Hadi Birajakli",
+          "url": "https://open.spotify.com/artist/6KsP0EBpYgQ4hlex3c1Zmm"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "El Beit - \u0627\u0644\u0628\u064a\u062a",
+      "url": "https://open.spotify.com/track/0qLQsLK8HRChdTdCvO8tRn"
+    },
+    {
+      "album": {
         "name": "El Donia Beta3ti",
         "url": "https://open.spotify.com/album/1DZgnVuOlcIiXskI9HkYMe"
       },
@@ -1266,7 +1360,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 203265,
       "name": "El Ma7faza",
       "url": "https://open.spotify.com/track/4I1PWu8XFGwgRmH6q4eY15"
@@ -1621,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/6ZDxReuxHMGratcdTG2iPN"
+      },
+      "artists": [
+        {
+          "name": "DJIZA",
+          "url": "https://open.spotify.com/artist/21wg9OKxtB2sZVuhBaEwCk"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "GHORBA",
+      "url": "https://open.spotify.com/track/6bIPcudk3VzLyYyMC0xY0k"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/5CoFXUrSCKTgIQKUOo3Mh8"
       },
@@ -1956,6 +2068,24 @@
       "duration_ms": 154893,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/25xfmkU1otdXjgVfVwQR8i"
+    },
+    {
+      "album": {
+        "name": "Homosapien - \u0647\u0648\u0645\u0648\u0633\u064a\u0628\u064a\u0627\u0646",
+        "url": "https://open.spotify.com/album/5TcCMI16x88EwWHmhJ1ZOk"
+      },
+      "artists": [
+        {
+          "name": "Kalamarya \u0643\u0627\u0644\u0627\u0645\u0627\u0631\u064a\u0627",
+          "url": "https://open.spotify.com/artist/6n78xkwonXJeulwzqGkldq"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183384,
+      "name": "Homosapien - \u0647\u0648\u0645\u0648\u0633\u064a\u0628\u064a\u0627\u0646",
+      "url": "https://open.spotify.com/track/4GrJ3V7NoXY2zEqQ9QT07O"
     },
     {
       "album": {
@@ -2324,10 +2454,28 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 144404,
       "name": "Jiddo",
       "url": "https://open.spotify.com/track/6pczaXrplw78wIo3D9zuLM"
+    },
+    {
+      "album": {
+        "name": "Jnah Etteir",
+        "url": "https://open.spotify.com/album/2Z8TgcTzKNQNBhcllwkbtr"
+      },
+      "artists": [
+        {
+          "name": "Fulan",
+          "url": "https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Jnah Etteir",
+      "url": "https://open.spotify.com/track/0hId55Px1FQ6prjA0ddNRs"
     },
     {
       "album": {
@@ -2382,7 +2530,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 189333,
       "name": "Kam Marra",
       "url": "https://open.spotify.com/track/15tIRJQC1h2ruUIhPgGilA"
@@ -2407,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "Kart Ma7roo2",
+        "url": "https://open.spotify.com/album/4SelpbJbiiWnyvTg2oSaUW"
+      },
+      "artists": [
+        {
+          "name": "Amira Adeeb",
+          "url": "https://open.spotify.com/artist/04JuXvm8MDLVe845QWe137"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153400,
+      "name": "Kart Ma7roo2",
+      "url": "https://open.spotify.com/track/1r3WiswE73ciaR251nSqiM"
+    },
+    {
+      "album": {
         "name": "KAWASAKI",
         "url": "https://open.spotify.com/album/1Brwn0jmwoJbjMS16Cmf0V"
       },
@@ -2422,6 +2588,24 @@
       "duration_ms": 180355,
       "name": "KAWASAKI",
       "url": "https://open.spotify.com/track/38V0XqPtlaEq0G0wxM5mdI"
+    },
+    {
+      "album": {
+        "name": "Keep on Moving",
+        "url": "https://open.spotify.com/album/4LggpZ3c1CDGj7blL8wxCn"
+      },
+      "artists": [
+        {
+          "name": "Emaan",
+          "url": "https://open.spotify.com/artist/4QzSFQiZGDmpWXqy4vG7EX"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205168,
+      "name": "Keep on Moving",
+      "url": "https://open.spotify.com/track/2KbdQHOXndQa4a8xumU3oA"
     },
     {
       "album": {
@@ -2710,7 +2894,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 186953,
       "name": "Leh (\u0644\u064a\u0634)",
       "url": "https://open.spotify.com/track/2jPcIPZC1ib88HgCtCxTlO"
@@ -2768,7 +2952,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 130530,
       "name": "Liga",
       "url": "https://open.spotify.com/track/4iwxGcPrnMklAFdImT3iaE"
@@ -3024,7 +3208,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 167568,
       "name": "Mademoiselle",
       "url": "https://open.spotify.com/track/6qjU4sZnbaRGOdJ4ikXFck"
@@ -3176,6 +3360,24 @@
       "duration_ms": 230738,
       "name": "Masquerading Crowd",
       "url": "https://open.spotify.com/track/0zaMCsXxqGXrz1quaVDBtP"
+    },
+    {
+      "album": {
+        "name": "Mat7awlish",
+        "url": "https://open.spotify.com/album/5W5SlYXCpIlhPykPUbT1aY"
+      },
+      "artists": [
+        {
+          "name": "TaffyRaps",
+          "url": "https://open.spotify.com/artist/2Bamg8sORR59W8xzcIyv3n"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171070,
+      "name": "Mat7awlish",
+      "url": "https://open.spotify.com/track/5K6GvXAjGyFR7Nthh8d78s"
     },
     {
       "album": {
@@ -3540,7 +3742,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 118110,
       "name": "Night n Day",
       "url": "https://open.spotify.com/track/12GvebbxR0WMf79NwMBphn"
@@ -4518,6 +4720,24 @@
     {
       "album": {
         "name": "Shams",
+        "url": "https://open.spotify.com/album/0KeHPXmyhc0OnogTjL0ALf"
+      },
+      "artists": [
+        {
+          "name": "3yooni",
+          "url": "https://open.spotify.com/artist/6YoB73qJnT7MgkHcV53x1d"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221558,
+      "name": "Shams",
+      "url": "https://open.spotify.com/track/28SXiBx1PK0E8cnpxBuZoq"
+    },
+    {
+      "album": {
+        "name": "Shams",
         "url": "https://open.spotify.com/album/6ZUBxaMA0lBhepxO0tERaJ"
       },
       "artists": [
@@ -4594,7 +4814,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 121846,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/4oWV6PKAHJNoX2klvLHNW6"
@@ -5130,7 +5350,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 171373,
       "name": "This Place",
       "url": "https://open.spotify.com/track/7lk1CT7tdr1dBw2Aq6swoG"
@@ -5948,6 +6168,24 @@
       "duration_ms": 148969,
       "name": "\u0645\u0648\u0627\u0648\u064a\u0644",
       "url": "https://open.spotify.com/track/3JmafIV8VSpCqf17uxcyj2"
+    },
+    {
+      "album": {
+        "name": "\u0646\u0633\u064a\u0627\u0646\u0649",
+        "url": "https://open.spotify.com/album/6T10ri6HSVgAjesykqpWGS"
+      },
+      "artists": [
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242459,
+      "name": "\u0646\u0633\u064a\u0627\u0646\u0649",
+      "url": "https://open.spotify.com/track/0zvpBOe1DeUT7L1vYVOieC"
     },
     {
       "album": {

@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 157500,
       "name": "Joshua Tree",
       "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
@@ -364,6 +364,24 @@
       "duration_ms": 375459,
       "name": "Kill All Ghosts (\u3059\u3079\u3066\u306e\u5e7d\u970a\u3092\u6bba\u3059)",
       "url": "https://open.spotify.com/track/0bEswrKVVnRSw8WyTBAKps"
+    },
+    {
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/66k1sZw4tEWuHnDUeNSGvk"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211252,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/3HZdQS6zV60urA6XVKpUYW"
     },
     {
       "album": {

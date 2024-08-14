@@ -2,7 +2,7 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> GIMS au sommet de la première playlist de France.
+> Billie Eilish au sommet de la première playlist de France.
 
 212 songs - 10 hr 49 min
 

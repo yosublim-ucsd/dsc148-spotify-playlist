@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: BE:FIRST, ATEEZ)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: ATEEZ, G-Eazy)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 178440,
       "name": "_WORLD",
       "url": "https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 182200,
       "name": "Darling",
       "url": "https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC"
@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 179393,
       "name": "GOOD VIBES",
       "url": "https://open.spotify.com/track/2MpJ3KdQiwCw5NOIs5j0Rg"
@@ -1538,10 +1538,32 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 179333,
       "name": "Gotta Get Back (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/5760o7vIytByWNmmf115wj"
+    },
+    {
+      "album": {
+        "name": "hair down (with CHUNG HA)",
+        "url": "https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209060,
+      "name": "hair down (with CHUNG HA)",
+      "url": "https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ"
     },
     {
       "album": {
@@ -2142,7 +2164,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 238693,
       "name": "LUMINOUS",
       "url": "https://open.spotify.com/track/5LORlaKLGzAAxeIeqxYxPd"
@@ -2222,7 +2244,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 167547,
       "name": "Memu Aagamu",
       "url": "https://open.spotify.com/track/4C81bkQ2tkMmYk4bGFCrv5"
@@ -2480,7 +2502,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 195120,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/3iQbIF9CvyOPRkiM9fvA3B"
@@ -2666,7 +2688,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 182733,
       "name": "Real Love Still Exists",
       "url": "https://open.spotify.com/track/0lJxsFybSunQWH4MQNIyCo"
@@ -2812,7 +2834,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 229928,
       "name": "Self Love",
       "url": "https://open.spotify.com/track/6pSCLFRN1QIJ4Rn0CDGwUC"
@@ -2892,7 +2914,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 217400,
       "name": "SICK LOVE",
       "url": "https://open.spotify.com/track/4h2fIodPmm0JCSp7VI8JGJ"
@@ -2954,7 +2976,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 188866,
       "name": "So Right (feat. Yuna)",
       "url": "https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj"
@@ -3624,7 +3646,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 178360,
       "name": "WHEN I MOVE - Japanese Version",
       "url": "https://open.spotify.com/track/21GuGNE5kAObbWPDRYaYLi"

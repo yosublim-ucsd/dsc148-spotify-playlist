@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Ilkka Alanko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,823 likes - 74 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,821 likes - 74 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Elät Vaan](https://open.spotify.com/track/2tQk2A6XDXKlhxw5cT2jYe) | [Remix](https://open.spotify.com/artist/60rrONrFQipKsTXYazdmQO), [Karoliina Kallio](https://open.spotify.com/artist/0PMSbS727MWOXbiEcSjSLm) | [Elät Vaan](https://open.spotify.com/album/4zTGHW1H5IxyUSYGcRmj6W) | 3:40 |
-| 2 | [rakas](https://open.spotify.com/track/0l0n1g5YisTTgM3PrYIjmA) | [vivian](https://open.spotify.com/artist/5mGgHBjw7fQeVUmZKzlKey) | [rakas](https://open.spotify.com/album/0eRfwVlyrriMUnNNP8BMc0) | 2:35 |
-| 3 | [On](https://open.spotify.com/track/4DgGCSm4lCbxoFpJxcWsBB) | [Ilkka Alanko](https://open.spotify.com/artist/4KGPlF7eEnZRgR31GRtoor) | [On](https://open.spotify.com/album/1LEmmQW4GL9rXGvBey4oaY) | 3:26 |
-| 4 | [Pienestä pitäen](https://open.spotify.com/track/5xhQbEDkYQFHTltAZmE1gS) | [Nelosolut](https://open.spotify.com/artist/1q7jg4Jd7SdYV1rGxr8RoF) | [Pienestä pitäen](https://open.spotify.com/album/3jYGchiScibECdKPEdmKe5) | 3:08 |
-| 5 | [Periaatteessa onnellinen](https://open.spotify.com/track/1Ph4WJUA4KRC9MJxbikvat) | [The Stonewalls](https://open.spotify.com/artist/3Lb8xb895mxv1PW4ATbIJc), [Lauri Ketonen](https://open.spotify.com/artist/0COKPylAjot2zwI9ABkrd0) | [Periaatteessa onnellinen](https://open.spotify.com/album/0qatNBp4KY5SMzilMrnMvS) | 3:56 |
-| 6 | [Tuonelan tuulet](https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Tuonelan tuulet](https://open.spotify.com/album/1g0dAkEmeS4oKEQJQ8vLUC) | 2:55 |
-| 7 | [Aurinkomäki](https://open.spotify.com/track/7IEaEIzhKacGDNBMbmGH0M) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Aurinkomäki](https://open.spotify.com/album/4GO7fFLjd6nloXjZqtgmxP) | 3:09 |
-| 8 | [Mä en muutu miksikään](https://open.spotify.com/track/5b1LCRyAG5Hqav7cDOyy5M) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Mä en muutu miksikään](https://open.spotify.com/album/5wqJbwrkOeSJFSZyouQ3Sz) | 3:40 |
-| 9 | [Tänään lupaan \- Radio Edit](https://open.spotify.com/track/0hdo3lCErWLwfTxmidKVg3) | [HARMAA PARDON?](https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX) | [Tänään lupaan \(Radio Edit\)](https://open.spotify.com/album/02EdBP7yEBYEctENjIWSkg) | 3:07 |
-| 10 | [Matkalla tutkalla](https://open.spotify.com/track/7Fk8WZLszChGkC5FJyxhXR) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.6](https://open.spotify.com/album/1QtQXtUfWBVs1v26hHBUAX) | 3:50 |
-| 11 | [Pyromaani](https://open.spotify.com/track/1C3kdtMqrR5qoja9wPJ2NY) | [LULUA](https://open.spotify.com/artist/2txKzsIBQ9q1EwZkW53PXY) | [Pyromaani](https://open.spotify.com/album/5VPzzkKKHRrdrJrLPRWy3u) | 2:59 |
-| 12 | [Armonlisävero](https://open.spotify.com/track/0kbMfnBWslhBMujXLS4ZTD) | [Baabelin Nulikat](https://open.spotify.com/artist/6XUvNVuLi9Y2mUitrP3CZZ) | [Armonlisävero](https://open.spotify.com/album/6luuQjLean0Woo10V1PISP) | 2:46 |
-| 13 | [VMP](https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [VMP](https://open.spotify.com/album/4KYBQzyfGj65Q73OylcCY5) | 2:42 |
+| 2 | [Aurinkomäki](https://open.spotify.com/track/7IEaEIzhKacGDNBMbmGH0M) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Aurinkomäki](https://open.spotify.com/album/4GO7fFLjd6nloXjZqtgmxP) | 3:09 |
+| 3 | [VMP](https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [VMP](https://open.spotify.com/album/4KYBQzyfGj65Q73OylcCY5) | 2:42 |
+| 4 | [rakas](https://open.spotify.com/track/0l0n1g5YisTTgM3PrYIjmA) | [vivian](https://open.spotify.com/artist/5mGgHBjw7fQeVUmZKzlKey) | [rakas](https://open.spotify.com/album/0eRfwVlyrriMUnNNP8BMc0) | 2:35 |
+| 5 | [On](https://open.spotify.com/track/4DgGCSm4lCbxoFpJxcWsBB) | [Ilkka Alanko](https://open.spotify.com/artist/4KGPlF7eEnZRgR31GRtoor) | [On](https://open.spotify.com/album/1LEmmQW4GL9rXGvBey4oaY) | 3:26 |
+| 6 | [Tänään lupaan \- Radio Edit](https://open.spotify.com/track/0hdo3lCErWLwfTxmidKVg3) | [HARMAA PARDON?](https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX) | [Tänään lupaan \(Radio Edit\)](https://open.spotify.com/album/02EdBP7yEBYEctENjIWSkg) | 3:07 |
+| 7 | [Pienestä pitäen](https://open.spotify.com/track/5xhQbEDkYQFHTltAZmE1gS) | [Nelosolut](https://open.spotify.com/artist/1q7jg4Jd7SdYV1rGxr8RoF) | [Pienestä pitäen](https://open.spotify.com/album/3jYGchiScibECdKPEdmKe5) | 3:08 |
+| 8 | [Periaatteessa onnellinen](https://open.spotify.com/track/1Ph4WJUA4KRC9MJxbikvat) | [The Stonewalls](https://open.spotify.com/artist/3Lb8xb895mxv1PW4ATbIJc), [Lauri Ketonen](https://open.spotify.com/artist/0COKPylAjot2zwI9ABkrd0) | [Periaatteessa onnellinen](https://open.spotify.com/album/0qatNBp4KY5SMzilMrnMvS) | 3:56 |
+| 9 | [Tuonelan tuulet](https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Tuonelan tuulet](https://open.spotify.com/album/1g0dAkEmeS4oKEQJQ8vLUC) | 2:55 |
+| 10 | [Mä en muutu miksikään](https://open.spotify.com/track/5b1LCRyAG5Hqav7cDOyy5M) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Mä en muutu miksikään](https://open.spotify.com/album/5wqJbwrkOeSJFSZyouQ3Sz) | 3:40 |
+| 11 | [Matkalla tutkalla](https://open.spotify.com/track/7Fk8WZLszChGkC5FJyxhXR) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.6](https://open.spotify.com/album/1QtQXtUfWBVs1v26hHBUAX) | 3:50 |
+| 12 | [Pyromaani](https://open.spotify.com/track/1C3kdtMqrR5qoja9wPJ2NY) | [LULUA](https://open.spotify.com/artist/2txKzsIBQ9q1EwZkW53PXY) | [Pyromaani](https://open.spotify.com/album/5VPzzkKKHRrdrJrLPRWy3u) | 2:59 |
+| 13 | [Armonlisävero](https://open.spotify.com/track/0kbMfnBWslhBMujXLS4ZTD) | [Baabelin Nulikat](https://open.spotify.com/artist/6XUvNVuLi9Y2mUitrP3CZZ) | [Armonlisävero](https://open.spotify.com/album/6luuQjLean0Woo10V1PISP) | 2:46 |
 | 14 | [Mitä meistä jää](https://open.spotify.com/track/2eyWzMUQASQysU9DzGQ9aS) | [JP Leppäluoto](https://open.spotify.com/artist/24Rd4rNLnKZbKmCEl79Fxx) | [Mitä meistä jää](https://open.spotify.com/album/3fcNKRnfUEftW3irGCyLdL) | 2:58 |
 | 15 | [Piia ja Johnny](https://open.spotify.com/track/1yobGvkLw8tqxytTdz9FZA) | [Jukka Takalo](https://open.spotify.com/artist/5n4acUEkrslnTj3RZu2549) | [Piia ja Johnny](https://open.spotify.com/album/0fF5PVM3ea0uOmDc26DWv9) | 4:17 |
 | 16 | [Kadotaan](https://open.spotify.com/track/1tfBKQ8cqJlN9e5lh1kZQu) | [Nättinassut](https://open.spotify.com/artist/7sNAGbaVS0PQJUkTsKDZHl) | [Kadotaan](https://open.spotify.com/album/2wSAGhxLG4Gy1cb09NdQ8Y) | 3:30 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 73 | [Verivala](https://open.spotify.com/track/63wjcCy16aXLDK9G1t7lNP) | [kytät](https://open.spotify.com/artist/49jF8kdHtxnwhnQa5wiknv) | [Verivala](https://open.spotify.com/album/4CwyveLUU9sPzTWxdix0XS) | 2:37 |
 | 74 | [Jatkan matkaa](https://open.spotify.com/track/0os9TLERlmn5h1QFFbfyEC) | [Valontuojat](https://open.spotify.com/artist/27ErkSOWbcCKKFIyU4NnQr) | [Jatkan matkaa](https://open.spotify.com/album/1ywU5JGbLEOpmL1sa80KGf) | 3:14 |
 
-Snapshot ID: `ZrUyDAAAAAAo4oCew8XNmQNQzw6rryaC`
+Snapshot ID: `Zrt57QAAAACRtPzqBCs/3+Hu/Kd75lBR`

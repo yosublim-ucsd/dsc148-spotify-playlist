@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Proto",
+        "url": "https://open.spotify.com/album/6wgQ9BTkUjhiPfL9dYllhq"
+      },
+      "artists": [
+        {
+          "name": "Yunosuke",
+          "url": "https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232879,
+      "name": "Blank",
+      "url": "https://open.spotify.com/track/3SfiD5uZchp0E3EUieKsBW"
+    },
+    {
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/73UVsoOuj1mxGQkTRicqOd"
       },
@@ -194,6 +212,32 @@
       "duration_ms": 300500,
       "name": "BRAVE THE WORLD (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6VBkGMWaIYHzE3qQeu4HJU"
+    },
+    {
+      "album": {
+        "name": "Hello_Ending / Darwin Awards",
+        "url": "https://open.spotify.com/album/1G3XwuXf5VFnrpB9MOEiB4"
+      },
+      "artists": [
+        {
+          "name": "appy",
+          "url": "https://open.spotify.com/artist/51R5auc230MPtDucyIPSab"
+        },
+        {
+          "name": "Hokari",
+          "url": "https://open.spotify.com/artist/2l0mGXRBYU9Ne47GE9gf2m"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271998,
+      "name": "Darwin Awards (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7rQiYHclslTrawV4MT3kHs"
     },
     {
       "album": {
@@ -775,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Physics",
+        "url": "https://open.spotify.com/album/1rJsNpaVMCpFvhgCl3UXcR"
+      },
+      "artists": [
+        {
+          "name": "ryuryu",
+          "url": "https://open.spotify.com/artist/7dfblDi88zLmvIt9f5sRXc"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385909,
+      "name": "World Clock",
+      "url": "https://open.spotify.com/track/0zpNCAvRvQ2Cg3HhAltThy"
+    },
+    {
+      "album": {
         "name": "\u3042\u306a\u305f\u306e\u5922\u306e\u4e2d",
         "url": "https://open.spotify.com/album/67uYkIDbFy5AQSa1TuoyWG"
       },
@@ -1256,6 +1318,28 @@
       "duration_ms": 237772,
       "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb\u306b\u9ad1\u9acf\u306f\u54b2\u304f",
       "url": "https://open.spotify.com/track/0pHkwOXY6HKFCtiMM7BaQ8"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30a2\u30b7\u30b9",
+        "url": "https://open.spotify.com/album/2qRhvRHKhLYiTDB7mj0uGZ"
+      },
+      "artists": [
+        {
+          "name": "\u690e\u8c37\u30e6\u30a6",
+          "url": "https://open.spotify.com/artist/4zWmvMu8AsVU3xDdPjK5st"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164175,
+      "name": "\u30aa\u30a2\u30b7\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5T4aB88MQLmSCFDboSO3yT"
     },
     {
       "album": {
@@ -2376,6 +2460,24 @@
       "duration_ms": 299094,
       "name": "\u6ce1\u6cab\u306e\u8857",
       "url": "https://open.spotify.com/track/76Yx4feEnLzKHEvpkfO49L"
+    },
+    {
+      "album": {
+        "name": "SOULUKATRAIN",
+        "url": "https://open.spotify.com/album/7K5glwqAQ7JixfUJpbGcw6"
+      },
+      "artists": [
+        {
+          "name": "\u308a\u3087\u3046@\u30b7\u30e3\u30ec\u30aa\u30c4P",
+          "url": "https://open.spotify.com/artist/6lHZa0EOP91DjrOuzdhrPM"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302700,
+      "name": "\u6ce1\u6cab\u91d1\u9b5a - lust for partiality -",
+      "url": "https://open.spotify.com/track/0Omnmv20Muuo1q0JodT7Os"
     },
     {
       "album": {

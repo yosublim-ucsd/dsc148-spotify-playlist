@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Bygone times",
+        "url": "https://open.spotify.com/album/4oiA2h89zEUicBtWIyUhLL"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137376,
+      "name": "Bygone times",
+      "url": "https://open.spotify.com/track/6oyU04b8W2SHwL72QsDtKy"
+    },
+    {
+      "album": {
         "name": "Calolziocorte",
         "url": "https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi"
       },

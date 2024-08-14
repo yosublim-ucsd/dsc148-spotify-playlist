@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Jota Ghetto, Jamés Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,370 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,493 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 14 | [Donos do Torro](https://open.spotify.com/track/1qCX8wkjJjRfPXdJr8Be6v) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [Prs, o Peres](https://open.spotify.com/artist/6zA1Us7yWyCj4OXxkgAuqC) | [Donos do Torro](https://open.spotify.com/album/2jj5EcURhCwLQkVW1eXmwx) | 2:53 |
 | 15 | [Boom Boom Bap](https://open.spotify.com/track/4yfxzJmXuqLSId9wGY1odh) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Boom Boom Bap](https://open.spotify.com/album/5AFus3y1xZRuokOyHpxjxL) | 3:03 |
 | 16 | [DESMISTIFICAR](https://open.spotify.com/track/2hvP3KHqGFEzPeySCZ4g2X) | [OLÍMPICO](https://open.spotify.com/artist/2uRliL49x0oLPfVR5lZ2Zy), [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [OLÍMPICO / DESMISTIFICAR](https://open.spotify.com/album/6giyzGKGfLFC269yFZAdbz) | 2:06 |
-| 17 | [\(A\)Bala](https://open.spotify.com/track/6jKvpdj8T0RvsfLNCMPR9w) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\(A\)Bala](https://open.spotify.com/album/0Tz0RPLEM3bZOJQmZsAjVU) | 3:34 |
+| 17 | [\(A\)Bala](https://open.spotify.com/track/6jKvpdj8T0RvsfLNCMPR9w) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Tião Preto](https://open.spotify.com/artist/12XOFiz4eAwonlHtFqXHx0) | [\(A\)Bala](https://open.spotify.com/album/0Tz0RPLEM3bZOJQmZsAjVU) | 3:34 |
 | 18 | [Downtown](https://open.spotify.com/track/5rpC6SOhJUQdmCWVyO5TGf) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV) | [Asfáltico](https://open.spotify.com/album/6qW68sFJuM9nQqGGjcK1v1) | 2:56 |
 | 19 | [Escola da Vida](https://open.spotify.com/track/4Ozec1suC3YIUHaevTYpvM) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Spike mc](https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP) | [Escola da Vida](https://open.spotify.com/album/4RwjsNrTHlsj2ixEhtjIPY) | 1:24 |
 | 20 | [Cinzas de Quarta\-Feira](https://open.spotify.com/track/3jBz8sZAVxjZ9QpZPHMJj7) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Onde as Histórias Se Cruzam](https://open.spotify.com/album/37NcjosRhmvbUMmsStskKQ) | 3:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI?si=Xdn3TPIeQI\-O1uChH34vrw>Joyce Blessing</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,760 likes - 75 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,779 likes - 75 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

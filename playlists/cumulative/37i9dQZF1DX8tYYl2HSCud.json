@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 200250,
       "name": "Angular Distance",
       "url": "https://open.spotify.com/track/0BRYbPaW4BXyJ1KZQ0dtrc"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 181500,
       "name": "Apparent Wind",
       "url": "https://open.spotify.com/track/4aNQv3BLlAbQFRsye0kRbK"
@@ -380,6 +380,24 @@
       "duration_ms": 176454,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/57LIE4xGtrUqicdDiikdMp"
+    },
+    {
+      "album": {
+        "name": "Archimedes",
+        "url": "https://open.spotify.com/album/6wVDnC1pOc8e3274c7Ep0c"
+      },
+      "artists": [
+        {
+          "name": "Alfa Cognitive",
+          "url": "https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193874,
+      "name": "Archimedes",
+      "url": "https://open.spotify.com/track/7JD5pmj7dqDmLGAarMgWYD"
     },
     {
       "album": {
@@ -434,6 +452,24 @@
       "duration_ms": 180000,
       "name": "Aube",
       "url": "https://open.spotify.com/track/0JJo7BXhf7g11EwOk6OSK7"
+    },
+    {
+      "album": {
+        "name": "Auralia",
+        "url": "https://open.spotify.com/album/1wm7RAIcsO9qjsFuR0pjXQ"
+      },
+      "artists": [
+        {
+          "name": "Malluma Nokto",
+          "url": "https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Auralia",
+      "url": "https://open.spotify.com/track/4I4r0eLCsNMziz9NI9bvAG"
     },
     {
       "album": {
@@ -700,7 +736,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 170040,
       "name": "Configuration",
       "url": "https://open.spotify.com/track/66QmlqypHwaune2fOlptt5"
@@ -1013,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Descentia",
+        "url": "https://open.spotify.com/album/5XMWVF0C75Vnod92JzjY9l"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Descentia",
+      "url": "https://open.spotify.com/track/1QFlsfaR5kcDmRLo8ZEeUZ"
+    },
+    {
+      "album": {
         "name": "In Dreams",
         "url": "https://open.spotify.com/album/3dbqdpVgDrnCWuqHD2KRXm"
       },
@@ -1276,7 +1330,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 195750,
       "name": "Enlightment",
       "url": "https://open.spotify.com/track/51MgNNSnDIqwfcQhU9jDqK"
@@ -1330,7 +1384,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 197500,
       "name": "Eternal Lights",
       "url": "https://open.spotify.com/track/125VPgfgDiSicdRmZfKwYm"
@@ -1442,6 +1496,24 @@
       "duration_ms": 123392,
       "name": "Evolving",
       "url": "https://open.spotify.com/track/50kLwqPp0x4LOl4T7HS9wR"
+    },
+    {
+      "album": {
+        "name": "Exception",
+        "url": "https://open.spotify.com/album/3vZpbegph3K927kNhJglme"
+      },
+      "artists": [
+        {
+          "name": "Garc\u00edia",
+          "url": "https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173786,
+      "name": "Exception",
+      "url": "https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4"
     },
     {
       "album": {
@@ -2554,7 +2626,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 170855,
       "name": "Metamorphic",
       "url": "https://open.spotify.com/track/6S5TAvYjNKzaVI5KR6DomW"
@@ -3022,7 +3094,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 191180,
       "name": "Prism",
       "url": "https://open.spotify.com/track/2xzB64zYaLphSDp6eNSUOl"
@@ -3148,7 +3220,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 186896,
       "name": "Quiet Arrival",
       "url": "https://open.spotify.com/track/5uNeTYfMSSNOVkA884adJf"
@@ -3580,7 +3652,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 146687,
       "name": "Seafaring",
       "url": "https://open.spotify.com/track/0LppZsCkSjYa4aTqDh2Bpe"
@@ -3904,7 +3976,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 205070,
       "name": "Soundbed",
       "url": "https://open.spotify.com/track/5A0kxibkbR8Wzgv07eyGtu"
@@ -4084,7 +4156,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 190800,
       "name": "Strimma Av Ljus",
       "url": "https://open.spotify.com/track/3WkfqM4Xdt6Hq2WjoZf8bf"
@@ -4426,7 +4498,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 143250,
       "name": "Tr\u00f8st",
       "url": "https://open.spotify.com/track/7hGSRZJoxgma7KKZS1h4oq"

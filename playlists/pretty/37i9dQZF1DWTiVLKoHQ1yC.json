@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 187721,
+  "num_followers": 187811,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,26 @@
     {
       "added_at": "2024-08-09 11:09:03",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 234448,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 333750,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP"
-    },
-    {
-      "added_at": "2024-08-09 11:09:03",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 234448,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
     },
     {
       "added_at": "2024-08-09 11:09:03",

@@ -8851,7 +8851,7 @@
     },
     {
       "album": {
-        "name": "Espresso (triple j Like A Version)",
+        "name": "Espresso - triple j Like A Version",
         "url": "https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF"
       },
       "artists": [
@@ -27304,6 +27304,24 @@
       "duration_ms": 288597,
       "name": "The Long Breath",
       "url": "https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf"
+    },
+    {
+      "album": {
+        "name": "The Love Club EP",
+        "url": "https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201433,
+      "name": "The Love Club",
+      "url": "https://open.spotify.com/track/2HotTAoFiOYTeMZkNs1Ces"
     },
     {
       "album": {

@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Got Stuff",
+        "url": "https://open.spotify.com/album/6KcG8miMJiBX7PEMBgLEfw"
+      },
+      "artists": [
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "Got Stuff",
+      "url": "https://open.spotify.com/track/3gZnaB3hCCUPPAP4IBvrqn"
+    },
+    {
+      "album": {
         "name": "Headphones (DLMT Remix)",
         "url": "https://open.spotify.com/album/5lNoCebEqgF3J0DKUVFx4a"
       },

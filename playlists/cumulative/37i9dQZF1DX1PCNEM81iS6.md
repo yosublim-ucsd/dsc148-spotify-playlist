@@ -4,7 +4,7 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-88 songs - 4 hr 17 min
+89 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [PEACEKEEPER](https://open.spotify.com/track/6eWvLMxektDc1Yh0namRGc) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [PEACEKEEPER](https://open.spotify.com/album/5an5M8Vi6zKCqwCoxba0X7) | 3:28 | 2024-04-04 |  |
 | [Reincarnate](https://open.spotify.com/track/0xjYJAWptZsu023I70OhKj) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [LAYERING](https://open.spotify.com/album/0zkDqUmXN5wclz5CtXr3ey) | 4:03 | 2022-11-25 | 2024-04-19 |
 | [Reincarnate](https://open.spotify.com/track/5osgKGvGB4ZEvkw406QxDr) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [Reincarnate](https://open.spotify.com/album/7m7P4P9vYujJUYXEYLivFK) | 4:07 | 2024-04-16 |  |
+| [S.O.S](https://open.spotify.com/track/7KogWE9j4PCOeR0cymUocY) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [S.O.S](https://open.spotify.com/album/7LhIYwn1tkTkvbAa6iCCv4) | 4:11 | 2024-08-13 |  |
 | [SPARKLES](https://open.spotify.com/track/14X3tWKHmGj6pTtafPo0uA) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/5TKKesEMMoSijwDGpcAXI1) | 4:36 | 2023-11-22 | 2024-04-19 |
 | [SPARKLES](https://open.spotify.com/track/3heytsqAvwcOmpvJvKop80) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/7DLjM7lmuv7rlhVShdIBXN) | 4:36 | 2022-11-25 |  |
 | [STORYSEEKER](https://open.spotify.com/track/0dXj3rXuRlKTb61hqt3Dbb) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [STEREO DIVE 02](https://open.spotify.com/album/5FW8M5cMPA24iL0TNT2Ojg) | 3:53 | 2023-11-22 | 2024-03-08 |

@@ -4,7 +4,7 @@
 
 > Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
 
-86 songs - 5 hr 22 min
+88 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Eccentric Parade](https://open.spotify.com/track/6KSvtbmrUA5gYiFfvgP1Ve) | [鈴木暁也](https://open.spotify.com/artist/1KwSxMK9zQzeJD8j8ugFyG) | [ケンガンアシュラ オリジナル・サウンドトラック](https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV) | 3:37 | 2021-05-26 |  |
 | [Falling Down](https://open.spotify.com/track/1S1WY8NrmFtfXCcBVNR3VU) | [Sho from MY FIRST STORY](https://open.spotify.com/artist/1jKNfjAbRBcv3zF7IzMLs5) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 1:40 | 2021-05-26 | 2024-04-19 |
 | [Falling Down](https://open.spotify.com/track/4PY97Kx3Y5DPH45Ea0kw3M) | [Sho from MY FIRST STORY](https://open.spotify.com/artist/1jKNfjAbRBcv3zF7IzMLs5) | [The Anthems](https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO) | 1:40 | 2021-05-26 |  |
+| [Feel My Pain](https://open.spotify.com/track/3GFEzOfU3OKFCCT29jpeFb) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Feel My Pain](https://open.spotify.com/album/5IumowGu6MaiOJXKBzJyIw) | 2:34 | 2024-08-13 |  |
 | [Fly High](https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:03 | 2024-06-07 |  |
 | [Future](https://open.spotify.com/track/5k3gl0N9fIhdQ8IzvBEmUP) | [SIRENT SCREEM](https://open.spotify.com/artist/1ECaxUFJDossYsI2sQDEIS) | [The Anthems](https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO) | 4:42 | 2021-05-26 |  |
 | [Future](https://open.spotify.com/track/5rppHD1qvH3fkMSeyDlyYP) | [SIRENT SCREEM](https://open.spotify.com/artist/1ECaxUFJDossYsI2sQDEIS) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:42 | 2021-05-26 | 2024-04-19 |
@@ -65,6 +66,7 @@
 | [MEGABULLETS](https://open.spotify.com/track/4sMyMMSRnAp6yaJRF7pVGX) | [FATE GEAR](https://open.spotify.com/artist/5zOBafh1JUFBrzmQ79X3Zy) | [The Anthems](https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO) | 3:42 | 2021-05-26 |  |
 | [Megabullets](https://open.spotify.com/track/62j0fL39FXTC1MESnE4OHM) | [FATE GEAR](https://open.spotify.com/artist/5zOBafh1JUFBrzmQ79X3Zy) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:42 | 2021-05-26 | 2024-04-19 |
 | [Meidoeno Inori](https://open.spotify.com/track/6yj5Ldyz5EdUnnizXPKepf) | [Magdalene Ju\-nen](https://open.spotify.com/artist/4r1sqt1LvF3DS6Rl2LiRY8) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:46 | 2021-05-26 | 2024-04-19 |
+| [NANI?](https://open.spotify.com/track/1y33kshjDNRnUoIKM7Cd8R) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [NANI?](https://open.spotify.com/album/4WC3me8swIsMvAXBhXiROD) | 2:17 | 2024-08-13 |  |
 | [Shitou](https://open.spotify.com/track/0KAdaH8W42wWW0WE8uE8Lh) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 2:32 | 2021-05-26 | 2024-04-19 |
 | [Sorrow Like Lightning / Ai\-shiden\-issen](https://open.spotify.com/track/6je3xFNqYLYLUp12JX8b8o) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Omedetai Atama de Naniyori 2](https://open.spotify.com/album/6TmQRe8HMrOoGatMBLP3Tf) | 3:11 | 2021-05-26 | 2024-04-19 |
 | [Sorrow Like Lightning / Ai\-shiden\-issen](https://open.spotify.com/track/5UnQWHa6w10et1huDEtoII) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Aishidenissen](https://open.spotify.com/album/4kv18tu0MEWXpzIz5WDmQO) | 3:14 | 2021-05-26 | 2022-11-13 |

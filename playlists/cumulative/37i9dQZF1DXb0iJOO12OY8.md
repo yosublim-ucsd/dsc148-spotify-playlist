@@ -2,7 +2,7 @@
 
 ### [ung, dum & lovende](https://open.spotify.com/playlist/37i9dQZF1DXb0iJOO12OY8)
 
-> 😵‍💫
+> så længe jeg er sexy 🧡
 
 66 songs - 3 hr 17 min
 

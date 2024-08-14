@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Bayaan.
 
-1,555 songs - 3 day 12 hr 59 min
+1,556 songs - 3 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [CAN YOU UNDERSTAND ME?](https://open.spotify.com/track/05L8jDAOFRNcnRRAQLctLw) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [CAN YOU UNDERSTAND ME?](https://open.spotify.com/album/74kgWhIusLVeT7pCNmFNxh) | 3:28 | 2024-02-26 | 2024-05-11 |
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-03-24 | 2022-04-19 |
 | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/track/5sXsXtwDBgINAVwhoX6Ys2) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/album/1uAagTn6V0Uy7auhsgOCR5) | 2:44 | 2022-03-24 | 2022-08-02 |
+| [CARRY YOU](https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [CARRY YOU](https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k) | 3:08 | 2024-08-09 |  |
 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 | 2024-04-05 | 2024-08-03 |
 | [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 | 2022-11-11 | 2023-05-31 |
 | [Casualidad](https://open.spotify.com/track/67ii9wXrKQpBjfKS3u1iw1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Casualidad](https://open.spotify.com/album/4phSmqrWOtf4GIh6dhwDSI) | 2:41 | 2022-03-24 | 2022-04-12 |
@@ -394,7 +395,7 @@
 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 | 2023-05-31 | 2024-03-09 |
 | [Enchulao](https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Enchulao](https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn) | 3:35 | 2022-03-24 | 2022-08-25 |
 | [Encré](https://open.spotify.com/track/68oq1f0Jd0gtdmofDUR5wn) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Encré](https://open.spotify.com/album/2Ix9DqXnaQxL9X6FyWl9Kv) | 3:30 | 2024-04-19 |  |
-| [Enemy Lines](https://open.spotify.com/track/46ZnIPWHLgUGYyHiXQNVMf) | [Victor](https://open.spotify.com/artist/3w03DTyLLXIUFyuKgOEJOQ) | [Enemy Lines](https://open.spotify.com/album/5BYGUR2GksMT6OpHAFOXvk) | 2:16 | 2024-05-03 |  |
+| [Enemy Lines](https://open.spotify.com/track/46ZnIPWHLgUGYyHiXQNVMf) | [Victor](https://open.spotify.com/artist/3w03DTyLLXIUFyuKgOEJOQ) | [Enemy Lines](https://open.spotify.com/album/5BYGUR2GksMT6OpHAFOXvk) | 2:16 | 2024-05-03 | 2024-08-14 |
 | [Energy](https://open.spotify.com/track/1bj5ZFpxGFP5ooQcctNVB4) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Nadeem Din\-Gabisi](https://open.spotify.com/artist/4ckH39T1k1Dz6Lmo6dmno6) | [Energy](https://open.spotify.com/album/6sKrmGGTFELOes2uZ8LxUk) | 4:58 | 2022-09-15 | 2023-05-31 |
 | [Enseñame](https://open.spotify.com/track/5cz12QiSo0AEtFlNobITug) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 3:49 | 2022-04-07 | 2022-04-12 |
 | [Entre La Maleza](https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Entre La Maleza](https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct) | 3:35 | 2024-05-03 | 2024-07-27 |

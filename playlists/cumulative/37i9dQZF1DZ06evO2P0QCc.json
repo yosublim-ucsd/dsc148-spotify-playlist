@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "This is Inspector. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Inspector. The essential tracks, all in one playlist.",
   "name": "This Is Inspector",
   "tracks": [
     {
@@ -690,6 +690,28 @@
       "duration_ms": 245146,
       "name": "Las Tijeras",
       "url": "https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9"
+    },
+    {
+      "album": {
+        "name": "Skangre Latino",
+        "url": "https://open.spotify.com/album/5dGLfPbpabYLF6RWWQ0GCH"
+      },
+      "artists": [
+        {
+          "name": "The Magnetics",
+          "url": "https://open.spotify.com/artist/122nF1f7d6nNfr39ZednVC"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198653,
+      "name": "Las Tijeras (Remastered Version 2024)",
+      "url": "https://open.spotify.com/track/5UQ590tNDsDGpVr9woC44o"
     },
     {
       "album": {
@@ -1470,7 +1492,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 222400,
       "name": "Yo No Se T\u00fa",
       "url": "https://open.spotify.com/track/1pNA1WDGprHjwNVINAvVNs"

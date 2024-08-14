@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 
 > 강렬하면서도 섬세한 감정을 담고 있는 얼터네이티브 록 음악을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,726 likes - 110 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,734 likes - 110 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

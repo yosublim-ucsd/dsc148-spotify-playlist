@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-939 songs - 1 day 12 hr 29 min
+941 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [$100](https://open.spotify.com/track/57cmZWqFcUjDxLCO7ShN2m) | [Jimmy Lite Hands](https://open.spotify.com/artist/4phs14LDaiNnwzRXwZYdcU) | [Angel Delight](https://open.spotify.com/album/36C9zs3M2ZSsBVTBVjQ3DR) | 4:19 | 2022-04-15 | 2023-07-20 |
 | [.Like a fool](https://open.spotify.com/track/14xSzbGnD9bQWOiPJyuInc) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/5BSLboqIdvj34O7GmyO7Dj) | 1:43 | 2022-04-15 | 2022-07-22 |
 | [1 Step Ahead](https://open.spotify.com/track/0UkpfwUKYe6uzYxhH3KnIB) | [Oyh!](https://open.spotify.com/artist/3md8n0ymZHbXmwbLocvzuJ) | [1 Step Ahead](https://open.spotify.com/album/2dP3R7ovDc4shHmI4ALjiR) | 2:00 | 2022-04-15 |  |
+| [18.30](https://open.spotify.com/track/4MkPGOUwyjojLypMUW63kA) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [18:30](https://open.spotify.com/album/4cEz3eLwbtwMLyqe7DDqYo) | 1:46 | 2024-08-09 |  |
 | [180 Gram](https://open.spotify.com/track/3mpF3RIt6EfMnQPuFqcTwI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [180 Gram](https://open.spotify.com/album/2ejjB1ZMhxYv88ydHXYdxE) | 2:28 | 2022-04-15 | 2022-07-01 |
 | [2nd Street](https://open.spotify.com/track/4PWPgaEdMz3I27n5dYqnUm) | [Audio Avenues](https://open.spotify.com/artist/0iZT2heKINuMrvU92ce9yj) | [2nd Street](https://open.spotify.com/album/6M3AHZbb57FSvAYcxgFYBC) | 2:15 | 2022-04-15 | 2022-10-14 |
 | [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 | 2023-10-13 |  |
@@ -159,6 +160,7 @@
 | [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2022-04-15 | 2022-07-29 |
 | [crying in the coupe](https://open.spotify.com/track/5oWdA9tf8u8nBdMscpKtTx) | [boone](https://open.spotify.com/artist/7k8Bmj6nhufgVpoVrGDKib) | [crying in the coupe](https://open.spotify.com/album/4hcVFgwEJOb2bchyx3GOBp) | 2:24 | 2022-08-12 | 2022-12-10 |
 | [Culture](https://open.spotify.com/track/1B7wvelX2nDAarrtxhX77P) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Culture](https://open.spotify.com/album/5XnvcAwLq5Ex3dA63zB1SP) | 2:12 | 2022-07-08 | 2022-08-19 |
+| [Cyan Depts](https://open.spotify.com/track/3lnehwcx8TU534hIPcZHYk) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Cyan Depts](https://open.spotify.com/album/4D681WRORwtP5p7ch1IYlg) | 2:08 | 2024-08-09 |  |
 | [Da Wes Sht](https://open.spotify.com/track/2WOugRtzn1QKmCarSqavnM) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Da Wes Sht](https://open.spotify.com/album/2EBTIvmgYgyBaedPfL70ps) | 2:19 | 2022-04-15 | 2022-07-22 |
 | [Dandys Dream](https://open.spotify.com/track/3BzvqhEYrXURKShUqdKHId) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Josh Tarzi](https://open.spotify.com/artist/1gutZI9LT5hRqrgKE20uEl) | [Moontape 02](https://open.spotify.com/album/199UPhNxxHoISxibHPidnY) | 1:51 | 2022-04-15 | 2022-06-25 |
 | [Dauner](https://open.spotify.com/track/55IGQwHH5bvNuQa24j1Q52) | [Snake Ritual](https://open.spotify.com/artist/30SIuvvR5UVKlMgTPiyndf) | [Dauner](https://open.spotify.com/album/6Sw481IbHxVz3HBQPcNxeM) | 2:51 | 2023-01-06 | 2024-02-09 |
@@ -540,7 +542,7 @@
 | [Oasis](https://open.spotify.com/track/0H5Ev0vFWpqqLlWAwfUpOC) | [Kival](https://open.spotify.com/artist/4mYPgSEfNEHOG0QfdJuMwp) | [Oasis](https://open.spotify.com/album/6nQNTDHsAzKwD63yJ8znXV) | 2:44 | 2023-09-22 |  |
 | [Oboe on Jupiter](https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Oboe on Jupiter](https://open.spotify.com/album/6Z5TzNSKzXC8LC6tpnZ5fO) | 2:11 | 2023-01-13 |  |
 | [Okains Bay](https://open.spotify.com/track/7IdC8X9vBmMuwWmKKkawu7) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Okains Bay](https://open.spotify.com/album/1XlYdgPcRKZCYgYJWkZ42z) | 2:22 | 2022-05-27 | 2022-07-22 |
-| [Okazaki](https://open.spotify.com/track/18oMqdCWXJArEw8xhShvKl) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Okazaki](https://open.spotify.com/album/7HwHTrwLX8E8SGDL0dS25G) | 1:57 | 2022-12-09 |  |
+| [Okazaki](https://open.spotify.com/track/18oMqdCWXJArEw8xhShvKl) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Okazaki](https://open.spotify.com/album/7HwHTrwLX8E8SGDL0dS25G) | 1:57 | 2022-12-09 | 2024-08-14 |
 | [Old Station](https://open.spotify.com/track/7AkXVemlM82Kzf5UgwRllt) | [Sunday Mode](https://open.spotify.com/artist/3PSRhjSFWiUbcwtNVJDt4J) | [Old Station](https://open.spotify.com/album/6hToJyqXTZCfjtk80u4VtL) | 1:36 | 2022-04-15 |  |
 | [on and on](https://open.spotify.com/track/5JqRZcpUrt5cw4gqClNL9J) | [Terry Brooklyn](https://open.spotify.com/artist/4z1phSKVusjMBvndNBsxQH) | [on and on](https://open.spotify.com/album/49f85ZfK9dSUqXScKeTPwN) | 2:22 | 2022-04-15 | 2022-06-03 |
 | [On Golden Pond](https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [On Golden Pond](https://open.spotify.com/album/62q6SGct1PhpQ9beHT38zw) | 3:16 | 2023-04-28 | 2023-10-06 |
@@ -842,7 +844,7 @@
 | [Time And Space](https://open.spotify.com/track/697TBmclHJQlcG2Ewlu0ln) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Time And Space](https://open.spotify.com/album/6nMxipAju9t9Rp6mLZ15n3) | 2:46 | 2022-10-28 | 2022-11-24 |
 | [Timeless](https://open.spotify.com/track/3Z2Joea9aRxpg4kXADmoMe) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Timeless](https://open.spotify.com/album/40YBnTjCEaPksmkjQpNdmR) | 2:18 | 2022-04-15 | 2022-07-22 |
 | [Together](https://open.spotify.com/track/1RKGSoNYL21xmNSAzdQko6) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [All Together](https://open.spotify.com/album/05CQS6aZk4qQSZFLhktywB) | 2:21 | 2023-01-06 |  |
-| [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2022-04-15 |  |
+| [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2022-04-15 | 2024-08-14 |
 | [Toi Story](https://open.spotify.com/track/05IHKkcyA2KJ26KazTPJCV) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Toi Story](https://open.spotify.com/album/13fmUIoJNaAzPzKaF8GcPz) | 4:00 | 2022-05-20 | 2022-09-17 |
 | [Toki](https://open.spotify.com/track/0VGrbqWrRR6etQn9EgW6Wv) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 3:30 | 2022-12-09 | 2023-09-22 |
 | [Touch It](https://open.spotify.com/track/2293GzJHceVDK6bJCISEmQ) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Touch It](https://open.spotify.com/album/4SN65gYWILrk3439N1zvdg) | 1:53 | 2022-06-10 | 2022-11-21 |

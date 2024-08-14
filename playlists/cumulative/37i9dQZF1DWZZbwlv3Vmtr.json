@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "18:30",
+        "url": "https://open.spotify.com/album/4cEz3eLwbtwMLyqe7DDqYo"
+      },
+      "artists": [
+        {
+          "name": "the tofu paradigm",
+          "url": "https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "18.30",
+      "url": "https://open.spotify.com/track/4MkPGOUwyjojLypMUW63kA"
+    },
+    {
+      "album": {
         "name": "180 Gram",
         "url": "https://open.spotify.com/album/2ejjB1ZMhxYv88ydHXYdxE"
       },
@@ -2896,6 +2914,24 @@
       "duration_ms": 132221,
       "name": "Culture",
       "url": "https://open.spotify.com/track/1B7wvelX2nDAarrtxhX77P"
+    },
+    {
+      "album": {
+        "name": "Cyan Depts",
+        "url": "https://open.spotify.com/album/4D681WRORwtP5p7ch1IYlg"
+      },
+      "artists": [
+        {
+          "name": "88keys",
+          "url": "https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128149,
+      "name": "Cyan Depts",
+      "url": "https://open.spotify.com/track/3lnehwcx8TU534hIPcZHYk"
     },
     {
       "album": {
@@ -10152,7 +10188,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 117028,
       "name": "Okazaki",
       "url": "https://open.spotify.com/track/18oMqdCWXJArEw8xhShvKl"
@@ -15824,7 +15860,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 156750,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV"

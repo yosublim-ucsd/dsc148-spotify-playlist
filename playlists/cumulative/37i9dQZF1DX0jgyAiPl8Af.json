@@ -6999,6 +6999,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152642,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx"
+    },
+    {
+      "album": {
         "name": "Like A Tourist On Caminito",
         "url": "https://open.spotify.com/album/3PDesyI19q0YPY8VBjZvnd"
       },
@@ -10761,6 +10779,24 @@
     },
     {
       "album": {
+        "name": "Self-talk",
+        "url": "https://open.spotify.com/album/6fMzokF9CPlpgFtnW5ZYBQ"
+      },
+      "artists": [
+        {
+          "name": "Somerset Kent",
+          "url": "https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116015,
+      "name": "Self-talk",
+      "url": "https://open.spotify.com/track/5aGOxtKzoxfNEV3Vzrtzvy"
+    },
+    {
+      "album": {
         "name": "Sense of narrative",
         "url": "https://open.spotify.com/album/2nAHczJyLyaoAZEMxqqwVj"
       },
@@ -14092,6 +14128,24 @@
       "duration_ms": 161634,
       "name": "Wishing It Was So",
       "url": "https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL"
+    },
+    {
+      "album": {
+        "name": "Wistful Night",
+        "url": "https://open.spotify.com/album/0xulObkLw0qNGAxzwDkjeg"
+      },
+      "artists": [
+        {
+          "name": "Suno Light",
+          "url": "https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182050,
+      "name": "Wistful Night",
+      "url": "https://open.spotify.com/track/2UkU2CEKN1Td4C9F9hpmXQ"
     },
     {
       "album": {

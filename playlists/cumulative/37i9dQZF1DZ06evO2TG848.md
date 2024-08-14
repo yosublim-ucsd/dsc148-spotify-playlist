@@ -2,7 +2,7 @@
 
 ### [This Is Gustavo Santaolalla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TG848)
 
-> This Is Gustavo Santaolalla\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
 82 songs - 3 hr 21 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 62209,
+  "num_followers": 62254,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Puras Pa' bailar (Primera Tanda)",
+        "url": "https://open.spotify.com/album/4ZFZZDIKWdrTYA2dn7Z94j"
+      },
+      "artists": [
+        {
+          "name": "Banda Primos de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
+        }
+      ],
+      "duration_ms": 732885,
+      "name": "Puras Pa' bailar (Primera Tanda)",
+      "url": "https://open.spotify.com/track/5R0gDUS6ODYNgfLS4n6ujr"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Homenaje al Rey Pobre",
         "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 172714,
       "name": "Carta de Luto",
       "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Puras Pa' bailar (Primera Tanda)",
-        "url": "https://open.spotify.com/album/4ZFZZDIKWdrTYA2dn7Z94j"
-      },
-      "artists": [
-        {
-          "name": "Banda Primos de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
-        }
-      ],
-      "duration_ms": 732885,
-      "name": "Puras Pa' bailar (Primera Tanda)",
-      "url": "https://open.spotify.com/track/5R0gDUS6ODYNgfLS4n6ujr"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Casita de Adobe",
+        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
+      },
+      "artists": [
+        {
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+        }
+      ],
+      "duration_ms": 239737,
+      "name": "Casita de Adobe",
+      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Mi Presencia Cuenta",
         "url": "https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 175217,
       "name": "Frente A Frente",
       "url": "https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Casita de Adobe",
-        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
-      },
-      "artists": [
-        {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
-        }
-      ],
-      "duration_ms": 239737,
-      "name": "Casita de Adobe",
-      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Lloviendo Estrellas",
-        "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
+        "name": "Mal Amor",
+        "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
       },
       "artists": [
         {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+          "name": "Los Huaches De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
         }
       ],
-      "duration_ms": 213866,
-      "name": "Si Tengo A Mi Madre",
-      "url": "https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck"
+      "duration_ms": 168120,
+      "name": "Mal Amor",
+      "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1439,38 +1439,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Mal Amor",
-        "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
+        "name": "Lloviendo Estrellas",
+        "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
       },
       "artists": [
         {
-          "name": "Los Huaches De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
         }
       ],
-      "duration_ms": 168120,
-      "name": "Mal Amor",
-      "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Puras Pa'Pistear (Septima Tanda) (En Vivo)",
-        "url": "https://open.spotify.com/album/4sE5tPuqvrytzBUVdQzLZ5"
-      },
-      "artists": [
-        {
-          "name": "Banda Primos de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
-        },
-        {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
-        }
-      ],
-      "duration_ms": 203828,
-      "name": "El Tarasco (En Vivo)",
-      "url": "https://open.spotify.com/track/6zjCfifyl34i1LBv59sk9g"
+      "duration_ms": 213866,
+      "name": "Si Tengo A Mi Madre",
+      "url": "https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1495,6 +1475,26 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Puras Pa'Pistear (Septima Tanda) (En Vivo)",
+        "url": "https://open.spotify.com/album/4sE5tPuqvrytzBUVdQzLZ5"
+      },
+      "artists": [
+        {
+          "name": "Banda Primos de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
+        },
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "duration_ms": 203828,
+      "name": "El Tarasco (En Vivo)",
+      "url": "https://open.spotify.com/track/6zjCfifyl34i1LBv59sk9g"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "2 Cruces",
         "url": "https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 187637,
       "name": "2 Cruces",
       "url": "https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Estar\u00e9 Bien",
+        "url": "https://open.spotify.com/album/4DCQ9zEzZfjTLnKwAPvID3"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 189703,
+      "name": "Estar\u00e9 Bien",
+      "url": "https://open.spotify.com/track/4lqJTJl6I8FK6nTnnWSKVM"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1539,22 +1555,6 @@
       "duration_ms": 202083,
       "name": "Inolvidables",
       "url": "https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Estar\u00e9 Bien",
-        "url": "https://open.spotify.com/album/4DCQ9zEzZfjTLnKwAPvID3"
-      },
-      "artists": [
-        {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        }
-      ],
-      "duration_ms": 189703,
-      "name": "Estar\u00e9 Bien",
-      "url": "https://open.spotify.com/track/4lqJTJl6I8FK6nTnnWSKVM"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "\u00bfComo Le Hiciste?",
-        "url": "https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6"
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
       },
       "artists": [
         {
-          "name": "Banda los Coste\u00f1os",
-          "url": "https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ"
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
         }
       ],
-      "duration_ms": 207925,
-      "name": "\u00bfComo Le Hiciste?",
-      "url": "https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er"
+      "duration_ms": 165305,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
+        "name": "\u00bfComo Le Hiciste?",
+        "url": "https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6"
       },
       "artists": [
         {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+          "name": "Banda los Coste\u00f1os",
+          "url": "https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ"
         }
       ],
-      "duration_ms": 165305,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM"
+      "duration_ms": 207925,
+      "name": "\u00bfComo Le Hiciste?",
+      "url": "https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er"
     },
     {
       "added_at": "2024-06-07 06:00:00",

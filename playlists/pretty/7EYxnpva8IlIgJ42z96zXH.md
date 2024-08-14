@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Want to win a 5x class packs with KX Pilates!? Follow Morning Workout and sign up <a href="https://FiltrAU.lnk.to/MW\-KX!KX">here</a> for your chance to win!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,137 likes - 50 songs - 2 hr 43 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,165 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

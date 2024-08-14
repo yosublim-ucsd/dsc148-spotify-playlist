@@ -4,7 +4,7 @@
 
 > Everyone deserves a happy ending\. Listen to the music from the Deadpool series, including Deadpool & Wolverine, now playing in theaters.
 
-78 songs - 4 hr 5 min
+79 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [LFG \- Theme from "Deadpool & Wolverine"](https://open.spotify.com/track/5m14N7UR6nG69ccaQ0Qssa) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 1:49 | 2024-07-26 | 2024-07-31 |
 | [Liam Neeson Nightmares](https://open.spotify.com/track/6Dw3DgZxZaR5wnYR0Bvj7Z) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Deadpool \(Original Soundtrack Album\)](https://open.spotify.com/album/6VYJa5gmoecpJavlgh0BHH) | 1:56 | 2024-05-20 |  |
 | [Like a Prayer](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 5:40 | 2024-07-30 |  |
+| [Like a Prayer \- Choir Version From “Deadpool & Wolverine”](https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo) | [I'll Take You There Choir](https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne) | [Deadpool & Wolverine: Madonna's "Like a Prayer" EP](https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0) | 2:32 | 2024-08-13 |  |
 | [Make Me Lose Control](https://open.spotify.com/track/2cJ32oKOM4socjP9DE6jhU) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Essential Eric Carmen](https://open.spotify.com/album/4qTThcag4DQIhFGIsbkWqt) | 4:45 | 2024-07-17 |  |
 | [Man In A Red Suit](https://open.spotify.com/track/6akjHxUud7gCF4vJfwSXJ2) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Deadpool \(Original Soundtrack Album\)](https://open.spotify.com/album/6VYJa5gmoecpJavlgh0BHH) | 2:20 | 2024-05-20 |  |
 | [Maximum Effort](https://open.spotify.com/track/7IHtp0iR2BBQ7T23ayIh5I) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Deadpool \(Original Soundtrack Album\)](https://open.spotify.com/album/6VYJa5gmoecpJavlgh0BHH) | 2:08 | 2024-05-20 |  |

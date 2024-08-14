@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt & more\. Cover: Origami Angel
 
-1,264 songs - 2 day 18 hr 46 min
+1,265 songs - 2 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,6 +672,7 @@
 | [Long Distance](https://open.spotify.com/track/5I7FOcPuZUPCNsm3PWKqT5) | [august brodie](https://open.spotify.com/artist/0aIzyzaRQYsWCtzfNKBiui) | [Long Distance](https://open.spotify.com/album/6XAWN5tw34qSeISVPepUNV) | 2:40 | 2022-03-25 | 2022-04-21 |
 | [Long Live \(feat\. Travis Barker\)](https://open.spotify.com/track/0sGKd1m4o0ZwwQhbDJLgaD) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Long Live \(feat\. Travis Barker\)](https://open.spotify.com/album/1b2zt8BV1eLwgA4IeRBd9g) | 3:58 | 2021-12-10 | 2022-05-08 |
 | [Long Way Home](https://open.spotify.com/track/1CzkCBVMW5ZzbwaFbtk4ER) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [Long Way Home](https://open.spotify.com/album/3mXRDtSoMDVNKnJLuKBfP4) | 2:51 | 2021-12-10 | 2022-05-12 |
+| [lord have mercer](https://open.spotify.com/track/1lqmKTqstzskMaj8nwKLkJ) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [lord have mercer](https://open.spotify.com/album/3mrxaispR5lIqvERzzmxGW) | 3:46 | 2024-08-12 |  |
 | [Lose My Number](https://open.spotify.com/track/6zdtODRpVe9dVI5vuCwB88) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [All in Time](https://open.spotify.com/album/6N2gLkY2jG2YMzCVS7IKja) | 4:02 | 2021-12-10 | 2022-07-04 |
 | [Loser](https://open.spotify.com/track/2RQOjviyKyZg52Rh3GztYU) | [DUDE, MY DUDE](https://open.spotify.com/artist/4v7JZCmpK8HUCeqadGBeuF) | [Loser](https://open.spotify.com/album/3yfwGsDvKfI6vy5Run5f7N) | 2:32 | 2022-03-25 | 2022-04-20 |
 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-01-28 | 2023-11-11 |
@@ -824,7 +825,7 @@
 | [PARTY ON MY DEATHBED](https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [PARTY ON MY DEATHBED](https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB) | 3:28 | 2023-06-09 | 2023-09-23 |
 | [Partycrasher](https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Partycrasher](https://open.spotify.com/album/2Vbn9c20CFkn25VxtztPzo) | 3:09 | 2021-12-10 | 2022-07-28 |
 | [Partycrasher](https://open.spotify.com/track/7ewKUtjuzrTVOGgOO4SlJE) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 3:09 | 2022-07-08 | 2023-04-11 |
-| [Passing Through The Hourglass](https://open.spotify.com/track/5ZU9XFpImuMvbwkTxnefFu) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [Passing Through The Hourglass](https://open.spotify.com/album/6ywlr4h3z5yPWAgMxQOTgA) | 3:58 | 2024-06-24 |  |
+| [Passing Through The Hourglass](https://open.spotify.com/track/5ZU9XFpImuMvbwkTxnefFu) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [Passing Through The Hourglass](https://open.spotify.com/album/6ywlr4h3z5yPWAgMxQOTgA) | 3:58 | 2024-06-24 | 2024-08-14 |
 | [Paul Rutt](https://open.spotify.com/track/2FOze8JMbqxeJa8JHUCTvv) | [Wilmette](https://open.spotify.com/artist/5LGLYHhrW7yPr4ubyBEJBq) | [Anxious Body](https://open.spotify.com/album/4wDSqJVJEVHlIWtz9U03rP) | 2:36 | 2022-04-01 | 2022-04-16 |
 | [Pavement](https://open.spotify.com/track/2NKcrFubVH32cUuAw1svj8) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement](https://open.spotify.com/album/6xPWCzp1YHUu5pzYsJ4bv2) | 2:56 | 2021-12-10 | 2022-07-09 |
 | [Pendulum](https://open.spotify.com/track/0Jqyi2woFw056X5RdCJgeg) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [No Joy](https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP) | 3:34 | 2023-11-10 | 2023-12-09 |

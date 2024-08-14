@@ -2,7 +2,7 @@
 
 ### [This Is The Doors](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19UBIk)
 
-> This Is The Doors\. Los temas esenciales, todos en una lista.
+> This Is The Doors\. Les titres incontournables, réunis dans une seule et même playlist.
 
 79 songs - 5 hr 5 min
 

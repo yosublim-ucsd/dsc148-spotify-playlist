@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,755 likes - 110 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,761 likes - 110 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 21 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 |
 | 22 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Loving you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 |
 | 23 | [Leaking Love](https://open.spotify.com/track/15nLf4ZUYQQpP0oYSzwiWA) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Leaking Love](https://open.spotify.com/album/6KipeXjL2m0WYIB0JK65xy) | 3:24 |
-| 24 | [Moviestar](https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Moviestar](https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk) | 4:09 |
+| 24 | [Moviestar \(feat\. Col3trane\)](https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Moviestar \(feat\. Col3trane\)](https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk) | 4:09 |
 | 25 | [Angry](https://open.spotify.com/track/6ydHnDa06Ubj127GIeCfNo) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Angry](https://open.spotify.com/album/22dmtgkZHyhVWoXB5UOWni) | 3:06 |
 | 26 | [Matter To You](https://open.spotify.com/track/2EqbyvCXCrpYLGbjXjuC2x) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Matter To You](https://open.spotify.com/album/2Plw36aPXHnzI2lJMywdUt) | 4:02 |
 | 27 | [Merlot](https://open.spotify.com/track/1qWEIjCuCRlRbtrPmtEvjb) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Sidney Gilliam](https://open.spotify.com/artist/4f3YbRd80O0uo81hswwwo5) | [Merlot](https://open.spotify.com/album/5GznepRbxSMHnnnxPNUYGt) | 4:06 |

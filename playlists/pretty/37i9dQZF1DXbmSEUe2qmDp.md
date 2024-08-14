@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Fiorella
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,114 likes - 71 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,146 likes - 71 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 57 | [Público \- Ao Vivo](https://open.spotify.com/track/63OjdM1spOoq2XccwEx2HA) | [Rapha & Leo](https://open.spotify.com/artist/05BcBTSbcgEgbIMzRTOhKs) | [Público \(Ao Vivo\)](https://open.spotify.com/album/727C5Kq5DwQCKGFWsddWSN) | 2:44 |
 | 58 | [Guenta Recaída \- Ao Vivo](https://open.spotify.com/track/0WMglEGNGlmFkr9wTdSrKk) | [Marco Aurélio & Bueno](https://open.spotify.com/artist/0N3cc0QOIYw3YBq76ivMLe), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Guenta Recaída \(Ao Vivo\)](https://open.spotify.com/album/5JHm0ZPG3ePXxNlLk9iQ5t) | 2:33 |
 | 59 | [Deixa Ela Falar \- Ao Vivo](https://open.spotify.com/track/2X6wELEYoNbrQgfeEZ2zo7) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma), [Workshow](https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ) | [Deixa Ela Falar \(Ao Vivo\)](https://open.spotify.com/album/0J0Ry1RqOIi3da5QRsduHB) | 2:40 |
-| 60 | [Minha Loucura de Amor \- Ao Vivo](https://open.spotify.com/track/1uigKf4kN647DGnyVDXnSG) | [Júlio Torres](https://open.spotify.com/artist/44P8fYRg0UVUGcPOuQHEqN), [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Ao Moçada, Ep\. 3 \- Ao Vivo](https://open.spotify.com/album/0abRBX4YpBmeXDg402NHOj) | 3:37 |
+| 60 | [Minha Loucura de Amor \- Ao Vivo](https://open.spotify.com/track/1uigKf4kN647DGnyVDXnSG) | [Júlio Torres](https://open.spotify.com/artist/44P8fYRg0UVUGcPOuQHEqN), [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Aô Moçada, Ep\. 3 \- Ao Vivo](https://open.spotify.com/album/0abRBX4YpBmeXDg402NHOj) | 3:37 |
 | 61 | [O Cavalo Dela \- Ao Vivo](https://open.spotify.com/track/5hr4ymkcRUjity5OZGPBDD) | [Pepê Figueiredo](https://open.spotify.com/artist/1mjXgySVuyBfkqyIjkVkZW), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [O Cavalo Dela \(Ao Vivo\)](https://open.spotify.com/album/7gujc832xuAEicoaYLM9Eb) | 2:26 |
 | 62 | [Chorei no Sinal](https://open.spotify.com/track/6aTO59jOFsmS1Vgjg9Ehlg) | [Renan e Ray](https://open.spotify.com/artist/0CMhks6EQXEKjZvL0iF2zJ) | [Chorei no Sinal](https://open.spotify.com/album/2hLSdpHeT0cLkF7dzGT3Ma) | 4:11 |
 | 63 | [Cê Nunca Namorou Eu](https://open.spotify.com/track/5Mt3jH3Jwbe7tXVDVzgAmk) | [Pedro e Rafael](https://open.spotify.com/artist/2DFCklgpKvgnjLY8CoCwVZ), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Cê Nunca Namorou Eu](https://open.spotify.com/album/3CfgXVVQFmYAPqBZwYJ0y7) | 2:35 |

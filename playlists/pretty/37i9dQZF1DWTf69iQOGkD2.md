@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Tz Da Coronel, Mc PH, Filipe Ret, Mc Ryan SP, Lourena, L7NNON, Orochi, Ana Castela, Xamã
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,218 likes - 75 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,274 likes - 75 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

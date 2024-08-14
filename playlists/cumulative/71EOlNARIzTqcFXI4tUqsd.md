@@ -4,7 +4,7 @@
 
 > A playlist for yoga, mindfulness and meditation with reflective moments.
 
-47 songs - 2 hr 47 min
+48 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,10 @@
 | [Follow](https://open.spotify.com/track/1leXj0r8M0dMFNWbRxq2Xe) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 1:39 | 2023-10-10 | 2024-04-17 |
 | [Ice So Blue](https://open.spotify.com/track/1tshimxJ83bJ2OzxEN35Ua) | [State Azure](https://open.spotify.com/artist/2QYxWgXygoXPlh0b2ruP4O) | [Ice So Blue](https://open.spotify.com/album/6n3JOxc96DV1USUc7YWgcD) | 3:08 | 2023-10-10 | 2024-04-17 |
 | [Intro](https://open.spotify.com/track/7huozjmrAakZaPMbsM3EVq) | [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w) | [199X \(Chill Edition\)](https://open.spotify.com/album/4Wy7lOnDdeCjuo05xLOh1h) | 3:06 | 2023-10-10 | 2024-04-17 |
-| [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 | 2024-04-16 |  |
+| [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 | 2024-04-16 | 2024-08-14 |
 | [Juno Reactor](https://open.spotify.com/track/0aIptyh2BHzzKwTSiSemew) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 1:44 | 2023-10-10 | 2024-04-17 |
 | [Kill All Ghosts \(すべての幽霊を殺す\)](https://open.spotify.com/track/0bEswrKVVnRSw8WyTBAKps) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 6:15 | 2023-10-10 | 2024-04-17 |
+| [Kintsugi](https://open.spotify.com/track/3HZdQS6zV60urA6XVKpUYW) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Kintsugi](https://open.spotify.com/album/66k1sZw4tEWuHnDUeNSGvk) | 3:31 | 2024-08-13 |  |
 | [Loch Awe](https://open.spotify.com/track/4KB6FE20302vokalyCjdV5) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Acts Of Union EP](https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP) | 3:49 | 2024-06-25 |  |
 | [Lonely Star](https://open.spotify.com/track/6RnK2EgZ6AfSFwjXaYyfrk) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ), [Mario Hammer And The Lonely Robot](https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5) | [Happiness EP](https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy) | 4:02 | 2024-04-16 |  |
 | [Luminescence](https://open.spotify.com/track/441M07sKaXESCxdBfBOi7E) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence](https://open.spotify.com/album/7avxDAfgk2SjLPa14uhuyP) | 4:09 | 2023-10-10 | 2024-04-17 |

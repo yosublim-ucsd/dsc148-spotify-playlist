@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。cover: 阿部真央
+> 日本の女性アーティストの歌を特集。cover: AYANE
 
-2,626 songs - 7 day 0 hr 29 min
+2,627 songs - 7 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Every Second \- Japanese Version](https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days \(Japanese Edition\)](https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc) | 3:02 | 2023-09-05 |  |
 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 | 2022-09-29 | 2024-04-19 |
 | [Everybody Needs Love](https://open.spotify.com/track/3XUfWUvnpw00fTE2yYI9bD) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [Everybody Needs Love](https://open.spotify.com/album/6SBJAPII5rEF5HbdJbvRiV) | 4:26 | 2022-05-29 | 2022-07-18 |
-| [Everyday](https://open.spotify.com/track/4sfa6MYsdHWsrEiyWUdmEM) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Everyday](https://open.spotify.com/album/2bFnTVa4oY9RvlPTrpLBGe) | 3:43 | 2024-07-30 |  |
+| [Everyday](https://open.spotify.com/track/4sfa6MYsdHWsrEiyWUdmEM) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Everyday](https://open.spotify.com/album/2bFnTVa4oY9RvlPTrpLBGe) | 3:43 | 2024-07-30 | 2024-08-14 |
 | [Everyday](https://open.spotify.com/track/28DnHTmW8CP94r9gdrklrY) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Everyday](https://open.spotify.com/album/6ixXVAnvxRiOpufVVZc6wb) | 3:01 | 2024-03-19 | 2024-04-10 |
 | [everyone likes](https://open.spotify.com/track/6iNg9CQ1O2PGfjBRsgFu9s) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [HMN</3](https://open.spotify.com/album/6PIB7gC1CweteFuVFjbpro) | 3:06 | 2023-03-14 | 2023-03-29 |
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2023-03-21 | 2023-07-19 |
@@ -1186,6 +1186,7 @@
 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 | 2023-05-23 | 2023-07-19 |
 | [Spark](https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Spark](https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj) | 2:45 | 2023-02-16 | 2023-02-22 |
 | [Sparkle](https://open.spotify.com/track/1sbMOKGzOfH82AHgCQPNib) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Sparkle](https://open.spotify.com/album/7D5HZy7UAEmYBj1gXCuAS6) | 2:55 | 2022-05-31 | 2022-07-29 |
+| [Special Girl](https://open.spotify.com/track/3zWgy6snFZzjOOsyRsISRZ) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Special Girl](https://open.spotify.com/album/1gnWOH3j50tocVe1PFDB83) | 2:50 | 2024-08-13 |  |
 | [Speechless \(feat\. 福原みほ\)](https://open.spotify.com/track/1gqziOJa2muzilyW88W1Gb) | [UNI\-Qreatives](https://open.spotify.com/artist/5i5sDbeYvK6eliuUwYgk11), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [Speechless \(feat\. 福原みほ\)](https://open.spotify.com/album/2cHg3Vkw38yFBfMO7jNfIH) | 2:58 | 2024-02-22 | 2024-03-06 |
 | [Spinning World](https://open.spotify.com/track/396RicrQNol7GhMCIfC6Cv) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Spinning World](https://open.spotify.com/album/3nxqM96vJyyjF8DMfYJBaQ) | 4:00 | 2022-07-14 | 2022-10-21 |
 | [Splendid Silent Sun](https://open.spotify.com/track/5G3bOHGiDmNijrpafLBDMh) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Splendid Silent Sun](https://open.spotify.com/album/3KOMMTYKtp0qvof3Op7tcm) | 3:59 | 2023-04-04 | 2023-04-12 |

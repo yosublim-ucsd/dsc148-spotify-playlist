@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/7LhIYwn1tkTkvbAa6iCCv4"
+      },
+      "artists": [
+        {
+          "name": "TRUE",
+          "url": "https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251508,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/7KogWE9j4PCOeR0cymUocY"
+    },
+    {
+      "album": {
         "name": "SPARKLES",
         "url": "https://open.spotify.com/album/5TKKesEMMoSijwDGpcAXI1"
       },

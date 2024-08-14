@@ -1603,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Wanna Love",
+        "url": "https://open.spotify.com/album/4BrAHxQqfEIoYLiPf8Y9q4"
+      },
+      "artists": [
+        {
+          "name": "Zephyrtone",
+          "url": "https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Don\u2019t Wanna Love",
+      "url": "https://open.spotify.com/track/5lRru9LwvZnd2tVXRfDZZG"
+    },
+    {
+      "album": {
         "name": "Dou Pal",
         "url": "https://open.spotify.com/album/5RpDf2hdASOFcyz88kVUZS"
       },

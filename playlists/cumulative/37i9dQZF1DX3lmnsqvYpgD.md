@@ -4,7 +4,7 @@
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-105 songs - 6 hr 31 min
+107 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [他和她的事情](https://open.spotify.com/track/3ob29UHOkVjYTNNw8DMPTy) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Meow Meow Meow](https://open.spotify.com/album/4tf3g3ybXnrKTqSRlbnOes) | 3:03 | 2022-11-03 | 2024-04-19 |
 | [你可能未必不喜歡我](https://open.spotify.com/track/2d31lGHYH404EKp4NIsR91) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [拾](https://open.spotify.com/album/7JyOHAvl2oB2UJXTv2eN5o) | 4:45 | 2022-04-11 |  |
 | [兜圈](https://open.spotify.com/track/73KXQMlVcoMASo3U6kXpyA) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [EARTHQUAKE MIXTAPE](https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV) | 2:44 | 2022-09-20 |  |
+| [再見 寧靜海](https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [再見 寧靜海](https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV) | 4:10 | 2024-08-13 |  |
 | [出走](https://open.spotify.com/track/30ZDOmEwAfijYVCHiNXhxU) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [出走](https://open.spotify.com/album/3zrNfBfkmLxrOgNktr70em) | 5:18 | 2022-04-11 |  |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [勁浪漫 超溫馨](https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2) | 3:19 | 2022-04-11 |  |
 | [及時行樂](https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:54 | 2022-09-20 |  |
@@ -98,6 +99,7 @@
 | [總有離開的時候](https://open.spotify.com/track/0anXf81WN0HvzNoW5VNEML) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [時日如飛 C AllCollection](https://open.spotify.com/album/5FwJ5Bl4uLi1ShVacAw9Dr) | 3:12 | 2022-04-11 |  |
 | [老派約會之必要](https://open.spotify.com/track/2lMVTk3I232dE7jnkufOSt) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [老派約會之必要](https://open.spotify.com/album/6Vgd72xB0XvQL23Nu5QlJ1) | 3:43 | 2022-09-20 |  |
 | [聽海浪](https://open.spotify.com/track/31GEWTEfwsNDnA3LhQda3v) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Midnight 海倫](https://open.spotify.com/artist/1jmmXb8XfNRasDjZkk8H4a) | [Bluesea](https://open.spotify.com/album/4B5yYqMcjvvKYiVV1l9jZP) | 3:32 | 2022-04-11 |  |
+| [至少做一件離譜的事](https://open.spotify.com/track/2oOemghuOplk25PORF4s39) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [至少做一件離譜的事](https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6) | 3:52 | 2024-08-13 |  |
 | [詩歌舞街](https://open.spotify.com/track/45rZ0CtRR470rAOFiWJNeM) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:11 | 2022-04-11 |  |
 | [這感覺](https://open.spotify.com/track/26d7Y553lu5nlYwndg73jd) | [Lil’ Ashes](https://open.spotify.com/artist/61JmerIHrcyWpHtih0adVh) | [Be Little](https://open.spotify.com/album/3QUqnUrXs3d0XBkEwvrtZw) | 3:20 | 2022-04-11 |  |
 | [遊車河](https://open.spotify.com/track/3VNfgcfFgvJQ7byYzcK0Q1) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Apollo 18](https://open.spotify.com/album/0m6rmsKUotNnNpcwk7FdW6) | 4:21 | 2022-04-11 |  |

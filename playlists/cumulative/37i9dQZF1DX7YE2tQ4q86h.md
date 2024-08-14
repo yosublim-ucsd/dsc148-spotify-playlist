@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Paris Hilton and Meghan Trainor
 
-1,022 songs - 2 day 3 hr 12 min
+1,023 songs - 2 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,7 @@
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2023-11-03 | 2024-04-13 |
 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 | 2024-06-28 |  |
 | [Labyrinth](https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Labyrinth](https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy) | 3:08 | 2024-08-02 |  |
-| [lag](https://open.spotify.com/track/5gVrb4SU8fvktAr2GV6vjn) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [lag](https://open.spotify.com/album/21jspfHByCpjNMYhnHQ12W) | 2:28 | 2024-07-19 |  |
+| [lag](https://open.spotify.com/track/5gVrb4SU8fvktAr2GV6vjn) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [lag](https://open.spotify.com/album/21jspfHByCpjNMYhnHQ12W) | 2:28 | 2024-07-19 | 2024-08-14 |
 | [Last Resort](https://open.spotify.com/track/07wivlC2H97wjBNswKZPhy) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Last Resort](https://open.spotify.com/album/0jNyhEzqg91y2CpcR3Hw1q) | 2:51 | 2024-01-26 | 2024-02-24 |
 | [Lavender](https://open.spotify.com/track/3Sa7PJ7ohCAEnAzLccmmfj) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Lavender](https://open.spotify.com/album/45ZJzB6Cxl4liNOyfcejQ5) | 3:03 | 2024-02-16 | 2024-02-28 |
 | [lay all your love on me](https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [lay all your love on me](https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH) | 2:58 | 2022-06-03 | 2024-04-13 |
@@ -639,6 +639,7 @@
 | [Miss Belladonna](https://open.spotify.com/track/3h4Xrayt7oyzdXWe6u14oK) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Miss Belladonna](https://open.spotify.com/album/1Ne9xZgi6No2s4JpxBPyfC) | 3:04 | 2023-07-21 | 2023-10-18 |
 | [Moana Lisa](https://open.spotify.com/track/1URzejrHReBIbIXX8BZr6Y) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Moana Lisa](https://open.spotify.com/album/61vtTrAMbyc7bSI1ObnmnT) | 3:04 | 2024-03-22 |  |
 | [Mona Lisa](https://open.spotify.com/track/72lUoCaeg17uXhbfmsRRRt) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Mona Lisa](https://open.spotify.com/album/4L7Udo48s2YmvC0Oq2fFkF) | 2:57 | 2023-03-03 | 2023-08-12 |
+| [Monaco](https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Monaco](https://open.spotify.com/album/4lDQvaFBTWo7nxFXQCnHhN) | 2:38 | 2024-08-13 |  |
 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 | 2023-10-17 | 2024-06-08 |
 | [Moonlight](https://open.spotify.com/track/5QWWWBAkC6sDuCLlKubuYi) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR](https://open.spotify.com/album/1B65FjcrhMSeAK719d2Jz2) | 3:10 | 2022-05-27 | 2023-01-28 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 | 2023-02-11 |

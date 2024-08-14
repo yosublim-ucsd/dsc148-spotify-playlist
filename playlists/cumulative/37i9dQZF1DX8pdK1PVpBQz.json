@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. \nCover: Soul Wun",
+  "description": "The best new music by independent artists and labels. \nCover: The Tullamarines",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -750,7 +750,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 221226,
       "name": "5432",
       "url": "https://open.spotify.com/track/3gXaiPXUZZFg2HTAV7eCEO"
@@ -1336,6 +1336,24 @@
       "duration_ms": 154500,
       "name": "Act The Same",
       "url": "https://open.spotify.com/track/27h8ZUvcm0sGbqdXJuS0rT"
+    },
+    {
+      "album": {
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/3O9O7BiyGJzlaESnT0h3Ut"
+      },
+      "artists": [
+        {
+          "name": "Micra",
+          "url": "https://open.spotify.com/artist/0riJKpNDw4fboGdUimavkK"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267144,
+      "name": "Actor",
+      "url": "https://open.spotify.com/track/7qqo8dcRsvbqu9RAJadXeR"
     },
     {
       "album": {
@@ -2360,6 +2378,24 @@
       "duration_ms": 207400,
       "name": "All We Got",
       "url": "https://open.spotify.com/track/6Ox1Ncu48HmzyYmbjvbo1s"
+    },
+    {
+      "album": {
+        "name": "all you ever wanted",
+        "url": "https://open.spotify.com/album/0x3ctIe3xyiAUYoJbUY1db"
+      },
+      "artists": [
+        {
+          "name": "DIVEBAR YOUTH",
+          "url": "https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "all you ever wanted",
+      "url": "https://open.spotify.com/track/3e5Naa5Me3ayj6zdalxgh4"
     },
     {
       "album": {
@@ -7074,7 +7110,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 170382,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/1f3Fsm6XCioBVtk8MywKOs"
@@ -7370,7 +7406,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 220000,
       "name": "brand new day",
       "url": "https://open.spotify.com/track/1fHy4iyO37QfMVhbatfJzh"
@@ -11210,7 +11246,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 207037,
       "name": "COME HOME",
       "url": "https://open.spotify.com/track/1uDpkvivdpZrRP9wyRAvww"
@@ -13781,6 +13817,24 @@
     },
     {
       "album": {
+        "name": "Demon Life",
+        "url": "https://open.spotify.com/album/0xsbX9Wbw9zGpxbYrLSRb7"
+      },
+      "artists": [
+        {
+          "name": "GRAZER",
+          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233591,
+      "name": "Demon Life",
+      "url": "https://open.spotify.com/track/0AnZmWRxN7jViAYXctmLoU"
+    },
+    {
+      "album": {
         "name": "Demon Mode",
         "url": "https://open.spotify.com/album/3th8PyMt8wjiGi0azm135D"
       },
@@ -14336,7 +14390,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 207093,
       "name": "Digging The Hole",
       "url": "https://open.spotify.com/track/7ae8QazzhjvSC6spposca2"
@@ -18824,7 +18878,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 160000,
       "name": "Fall Into You",
       "url": "https://open.spotify.com/track/4a6zIh0FdmCYgMaPCsa5ze"
@@ -19282,7 +19336,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 144378,
       "name": "Fear",
       "url": "https://open.spotify.com/track/01Qss5GS3zFangKWlQ7nZt"
@@ -22747,6 +22801,24 @@
     },
     {
       "album": {
+        "name": "God's A Different Sword",
+        "url": "https://open.spotify.com/album/5UOWbEUwHarGCuQ91Rd3U2"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199258,
+      "name": "God's A Different Sword",
+      "url": "https://open.spotify.com/track/0Yfjj5pPl87buJkfMawmW0"
+    },
+    {
+      "album": {
         "name": "Godfather",
         "url": "https://open.spotify.com/album/2l3sShuabwGviFlkoqMliT"
       },
@@ -25495,6 +25567,24 @@
     },
     {
       "album": {
+        "name": "High Standards",
+        "url": "https://open.spotify.com/album/1Z5o4bvn3UfgHxKNxosdWU"
+      },
+      "artists": [
+        {
+          "name": "Lara Andallo",
+          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156888,
+      "name": "High Standards",
+      "url": "https://open.spotify.com/track/15TdTzxecMez1Dw6IvxhhM"
+    },
+    {
+      "album": {
         "name": "Highroad",
         "url": "https://open.spotify.com/album/5W0CNfQ36xJuAW0CUbr1kN"
       },
@@ -26713,6 +26803,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Waste Another Minute",
+        "url": "https://open.spotify.com/album/0c2WeAfWUM8INwjVdIIBgJ"
+      },
+      "artists": [
+        {
+          "name": "Hey! Astro",
+          "url": "https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/2i7hlk9SNJxNZpoZWBEIKe"
+    },
+    {
+      "album": {
         "name": "Hungry",
         "url": "https://open.spotify.com/album/5OljVXjcfADj6wouA3BZCF"
       },
@@ -27418,6 +27526,24 @@
       "duration_ms": 208615,
       "name": "I Know I'll Give In",
       "url": "https://open.spotify.com/track/52T7TtsLOPsH4FssmJe3VA"
+    },
+    {
+      "album": {
+        "name": "I Know What You Like",
+        "url": "https://open.spotify.com/album/0hJqBuauaUDMGab00UC4CJ"
+      },
+      "artists": [
+        {
+          "name": "Bec Sykes",
+          "url": "https://open.spotify.com/artist/4VVb7e7KgVkt99sSvdxSL2"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222394,
+      "name": "I Know What You Like",
+      "url": "https://open.spotify.com/track/1JXo8BoMj6PeIGKRFliTof"
     },
     {
       "album": {
@@ -34081,6 +34207,24 @@
     },
     {
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/6UwUFzDynTFDw8ttNgPLyQ"
+      },
+      "artists": [
+        {
+          "name": "The Tullamarines",
+          "url": "https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180723,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/32lp8fy60jhiM1uPr4h8sO"
+    },
+    {
+      "album": {
         "name": "losing concentration",
         "url": "https://open.spotify.com/album/6zU7Gehw2MDVgDqNa9v0gG"
       },
@@ -34230,7 +34374,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 166509,
       "name": "Lost in Comfort",
       "url": "https://open.spotify.com/track/021WMFejA8Rnw4iqCnkIrA"
@@ -36985,6 +37129,24 @@
     },
     {
       "album": {
+        "name": "money!",
+        "url": "https://open.spotify.com/album/6Uww2b9MjkQPye3NRfJueW"
+      },
+      "artists": [
+        {
+          "name": "Charli Lucas",
+          "url": "https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150650,
+      "name": "money!",
+      "url": "https://open.spotify.com/track/5TMe1z5xSYiHx8UbPt7OMn"
+    },
+    {
+      "album": {
         "name": "Moneypenny",
         "url": "https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6"
       },
@@ -39179,6 +39341,24 @@
     },
     {
       "album": {
+        "name": "Nice Things",
+        "url": "https://open.spotify.com/album/0DZ69hJN5YTvRdVHniFQuk"
+      },
+      "artists": [
+        {
+          "name": "Gia Darcy",
+          "url": "https://open.spotify.com/artist/5asUNjuXqcxAs2PmpQxGK1"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170869,
+      "name": "Nice Things",
+      "url": "https://open.spotify.com/track/1Sw6klzuayUnXDAAJJGpRh"
+    },
+    {
+      "album": {
         "name": "NICE TO KNOW YA",
         "url": "https://open.spotify.com/album/4zETLbpczakxNj0F8DOJZL"
       },
@@ -40314,7 +40494,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 197112,
       "name": "Not ur fkn fan",
       "url": "https://open.spotify.com/track/4rgCx716P6hrEL4w6KWMJe"
@@ -42458,7 +42638,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 176346,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/1snYiAJ0FENLyQH2KAtwmC"
@@ -42626,6 +42806,24 @@
       "duration_ms": 159135,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/5n0o0yHK4fBlTG19E15TeX"
+    },
+    {
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/22cmhOAfNKARIxF2gUs37T"
+      },
+      "artists": [
+        {
+          "name": "Sunsick Daisy",
+          "url": "https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194673,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/4PC40ChgiGuNEGBfwMFkv7"
     },
     {
       "album": {
@@ -47609,6 +47807,24 @@
     },
     {
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215571,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
+    },
+    {
+      "album": {
         "name": "roster",
         "url": "https://open.spotify.com/album/7GlhiuaddjFj1LW8AMWLEa"
       },
@@ -49082,7 +49298,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 165045,
       "name": "See U In 3",
       "url": "https://open.spotify.com/track/6sZvLhRDxHPxpMxMxPRwVG"
@@ -49390,6 +49606,24 @@
       "duration_ms": 215391,
       "name": "Set It On Fire",
       "url": "https://open.spotify.com/track/0VTuzilBpu1730AOfCWwWb"
+    },
+    {
+      "album": {
+        "name": "Settling Down",
+        "url": "https://open.spotify.com/album/5vekeb3JTodzTkN9DJ1Qie"
+      },
+      "artists": [
+        {
+          "name": "Psychic Social Club",
+          "url": "https://open.spotify.com/artist/3zdmOqsxv0670azOyHTFYY"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196086,
+      "name": "Settling Down",
+      "url": "https://open.spotify.com/track/4XIjKkcMOxWJwxFMnwUiT3"
     },
     {
       "album": {
@@ -51106,7 +51340,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 165020,
       "name": "Small Change",
       "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
@@ -53318,7 +53552,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 149890,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/3RCGt2PEinMbwRHWURigBg"
@@ -53520,7 +53754,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 204000,
       "name": "strange",
       "url": "https://open.spotify.com/track/3rMBazPw9A7Of5cyqj0glf"
@@ -53632,6 +53866,24 @@
       "duration_ms": 238082,
       "name": "Strangers (Fight Night)",
       "url": "https://open.spotify.com/track/1DqnKYV69w3iUb6qM1q0Yl"
+    },
+    {
+      "album": {
+        "name": "Strategic Living",
+        "url": "https://open.spotify.com/album/001KfZOxEZMsbUQFTSDPj8"
+      },
+      "artists": [
+        {
+          "name": "media puzzle",
+          "url": "https://open.spotify.com/artist/1JFW3ACD123onrCbzNag5Z"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115338,
+      "name": "Strategic Living",
+      "url": "https://open.spotify.com/track/0unLpqclIM6yjzIWI5msEI"
     },
     {
       "album": {
@@ -55692,7 +55944,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 190332,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/6NvR92U3AN6FEhzkWuuRyb"
@@ -58574,6 +58826,24 @@
       "duration_ms": 160965,
       "name": "Too Fast",
       "url": "https://open.spotify.com/track/6IDHk0p2Rt7cfof8mONQ2g"
+    },
+    {
+      "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/4tJrtdSJJqO10OuJNtq9dv"
+      },
+      "artists": [
+        {
+          "name": "JESS REISS",
+          "url": "https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1j9RysAbuhHrGemyEaDnwD"
     },
     {
       "album": {

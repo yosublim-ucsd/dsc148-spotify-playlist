@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,032 likes - 130 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,030 likes - 130 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 7 | [I Put A Spell On You](https://open.spotify.com/track/4TKPFdNi9Lm8TM5LVJJ6cR) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [57 Kids Greatest Halloween Songs, Stories, And Sounds](https://open.spotify.com/album/4OcOuar3UJlTx2GWPrgyF6) | 3:21 |
 | 8 | [Pokemon Theme](https://open.spotify.com/track/2VPRDWwo9NR9WcAjsLuKBl) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Kids Halloween Movie Themes](https://open.spotify.com/album/1NFW9JfxAZTDtpyB0fEQfN) | 3:18 |
 | 9 | [Disturbia](https://open.spotify.com/track/0VvRlHBj4Ax4w1RrilcXIV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:30 |
-| 10 | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/track/1XCoPYpOwAIDffPzM7RNPP) | [The Really Loud House](https://open.spotify.com/artist/4GQWweaax2iFP1JIAyKY3R) | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/album/7CZTb3EvLKNDGxWwedSRj4) | 3:12 |
+| 10 | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/track/1XCoPYpOwAIDffPzM7RNPP) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/album/7CZTb3EvLKNDGxWwedSRj4) | 3:12 |
 | 11 | [Happy Halloween](https://open.spotify.com/track/6sXyNJtkTkLXny7HEtQIhb) | [Sing\-A\-Saurus](https://open.spotify.com/artist/35u0nCaFF1RXsDjf0aYn8M) | [Happy Halloween](https://open.spotify.com/album/1ZrBWKo38JZcs4QwqwFrDU) | 3:14 |
 | 12 | [Scooby Doo, Where Are You?](https://open.spotify.com/track/1qy4aJr8kyYObvdjF9UX5y) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Hits!](https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U) | 1:40 |
 | 13 | [Monster Party](https://open.spotify.com/track/7niABza1kHX9RmKGxpXVnb) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Monster Party](https://open.spotify.com/album/6S6SItFon75RaEaRSmKonV) | 1:43 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 20 | [Bad Guy](https://open.spotify.com/track/4V9KNW6NCaFTHmgo85Punq) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 2:33 |
 | 21 | [Yo, Ho! \(A Pirate's Life For Me\) \- From "Pirates of the Caribbean"](https://open.spotify.com/track/2oj1WfUGiBa8eCyMx5D3I5) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Disney's Greatest Vol\. 3](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) | 4:44 |
 | 22 | [Halloween Train](https://open.spotify.com/track/2CWGQwGJdssqTsOqBtORE7) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Halloween Train](https://open.spotify.com/album/0Lf6axNL2EDZ1hTLKk0RAU) | 2:43 |
-| 23 | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX) | [The Really Loud House](https://open.spotify.com/artist/4GQWweaax2iFP1JIAyKY3R) | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/album/4KOq2cmP4PahZHDrY9d6xW) | 2:53 |
+| 23 | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/album/4KOq2cmP4PahZHDrY9d6xW) | 2:53 |
 | 24 | [Monster Monster Go Away](https://open.spotify.com/track/2OoCYK4mhTzm9OsgGTEaCJ) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With Cocomelon](https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo) | 2:18 |
 | 25 | [Karma](https://open.spotify.com/track/3xshS12p6z39Vfvh02vayH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Karma](https://open.spotify.com/album/3u6vZlQssUmnNBuiEXESoR) | 3:20 |
 | 26 | [Life Hereafter](https://open.spotify.com/track/05Nu7e8A2qpRd88tJ8JPSR) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu), [Will Arnett](https://open.spotify.com/artist/4816tiO0G1Zn52kd5J2KYn) | [Muppets Haunted Mansion \(Original Soundtrack\)](https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX) | 3:37 |

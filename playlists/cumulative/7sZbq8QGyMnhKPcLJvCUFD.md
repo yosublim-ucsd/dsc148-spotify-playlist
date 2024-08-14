@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-581 songs - 1 day 5 hr 35 min
+582 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-19 | 2023-04-28 |
 | [Along Your Way](https://open.spotify.com/track/2djlVRaQK1zPwUBYFoTOgl) | [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc), [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [Along Your Way](https://open.spotify.com/album/632FZyDyOX2WScV3RK5bWd) | 4:20 | 2024-04-04 |  |
 | [Alright](https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright](https://open.spotify.com/album/0UQjd1grnKWmHS6OFY1Qqh) | 3:14 | 2024-01-09 |  |
+| [Always Be](https://open.spotify.com/track/0aohefgYGm6l5IZACPK8yu) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG) | [Always Be](https://open.spotify.com/album/2VVvZpeYiH3cu7tVNyIOjq) | 2:50 | 2024-08-13 |  |
 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 | 2023-04-28 |
 | [apart](https://open.spotify.com/track/0513aRXknqqlp96VbKLkL7) | [sumu](https://open.spotify.com/artist/3VJrstLqhMNsvGJ7wpScsB) | [apart](https://open.spotify.com/album/6KQ2yhVXzGlaajA8OctQq7) | 2:22 | 2024-02-27 |  |
 | [Are You With Me](https://open.spotify.com/track/27jSC6b62mY4cKfkWuiQBu) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH) | [Are You With Me](https://open.spotify.com/album/4gfTtzR8BV1LFHyWWfOM2Q) | 3:11 | 2023-12-13 | 2024-05-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,412 likes - 703 songs - 1 day 23 hr 11 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,410 likes - 712 songs - 1 day 23 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -711,5 +711,14 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 701 | [My Golden Years](https://open.spotify.com/track/0BikNVR79txZhmczhZE68l) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:13 |
 | 702 | [So Lo](https://open.spotify.com/track/0wWr1lUi1ia140e8boOGxg) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:48 |
 | 703 | [Black Lung](https://open.spotify.com/track/5BzbAnz2B6mqZCgqiHN7w0) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 4:28 |
+| 704 | [Hot Ghee](https://open.spotify.com/track/7LjukeeqaeWESbiVJ26Wd4) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Hot Ghee](https://open.spotify.com/album/0qyyECaJgUaV73J9Cczszh) | 3:44 |
+| 705 | [Absentee](https://open.spotify.com/track/23fEZLdzHoZlNZZu4E1pSp) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Tip of the Sphere](https://open.spotify.com/album/7A9lD57JDmqxshUGkvTdiG) | 2:48 |
+| 706 | [Blood Makes Noise](https://open.spotify.com/track/6w3hcxMOdLmPptNDwadORJ) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [99.9 F](https://open.spotify.com/album/03EEf4WnO2irH5NQvuY4Ul) | 2:28 |
+| 707 | [Game Over](https://open.spotify.com/track/36U34yPBv5hSEjjAZJd3Uk) | [Antelope](https://open.spotify.com/artist/4lSlPRplvabiorNKIn3NNR) | [Antelope](https://open.spotify.com/album/76dEh2y2iJlA7rrXR1bdzm) | 2:47 |
+| 708 | [Summer Teeth](https://open.spotify.com/track/5JhCCmkPDt6ePDJ1P1jOTD) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 3:20 |
+| 709 | [Oblivious](https://open.spotify.com/track/6Efng3Zejyvsw36sFoL221) | [Aztec Camera](https://open.spotify.com/artist/7sbwBqdkynNUDgiWU3TQ5J) | [High Land, Hard Rain](https://open.spotify.com/album/1Si9WYxqA71YDOJwCY6M5r) | 3:12 |
+| 710 | [See You Later, I'm Gone](https://open.spotify.com/track/2A7yBdKjpOw6nrhMSIPZss) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Ode to a Rainy Day: Archives 1972\-1975](https://open.spotify.com/album/4bk1fWNcND3Rma6zTbWj2u) | 4:33 |
+| 711 | [The Apple](https://open.spotify.com/track/3a3QwM981j7Sd58qFm8Rrc) | [The Mayflies USA](https://open.spotify.com/artist/2NEBqZaq6kThQTNs0W0zbs) | [Summertown](https://open.spotify.com/album/48SGmT7QVCrXeoVxDcLznm) | 3:13 |
+| 712 | [Meanwhile, Rick James...](https://open.spotify.com/track/5cWsKKp8brqei2F5vXrYoG) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:57 |
 
-Snapshot ID: `AAAGu9Wa1pLLAeGYjrtQJz3tIzw/93AE`
+Snapshot ID: `AAAGvOQADK3w92oU3VpZeiqvOGmBk/n9`

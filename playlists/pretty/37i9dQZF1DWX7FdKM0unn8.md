@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > 70\-80년대를 수 놓았던 노래들을 즐겨보세요! \(Listen Korea's classic & old songs from 70's to 80's.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,186 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,194 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Because I love you](https://open.spotify.com/track/5rEDiL9cFpaTaLLcHRbecd) | [Yoo Jae\-Ha](https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC) | [Because I love you](https://open.spotify.com/album/3LhZDQXnc7FF2mtoHoJMBC) | 6:20 |
-| 2 | [너무 아픈 사랑은 사랑이 아니었음을](https://open.spotify.com/track/3cWu4jWhiZ3LY27ztZ8nnt) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/4UWnmjUwwm1OcY58BKmREA) | 6:19 |
-| 3 | [비처럼 음악처럼](https://open.spotify.com/track/6DVq2uRrYyQfChAlsTJ11g) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/2kdSTc3C8HDnhRYu2U2B1x) | 4:37 |
+| 1 | [비처럼 음악처럼](https://open.spotify.com/track/6DVq2uRrYyQfChAlsTJ11g) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/2kdSTc3C8HDnhRYu2U2B1x) | 4:37 |
+| 2 | [Because I love you](https://open.spotify.com/track/5rEDiL9cFpaTaLLcHRbecd) | [Yoo Jae\-Ha](https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC) | [Because I love you](https://open.spotify.com/album/3LhZDQXnc7FF2mtoHoJMBC) | 6:20 |
+| 3 | [너무 아픈 사랑은 사랑이 아니었음을](https://open.spotify.com/track/3cWu4jWhiZ3LY27ztZ8nnt) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/4UWnmjUwwm1OcY58BKmREA) | 6:19 |
 | 4 | [나 항상 그대를](https://open.spotify.com/track/3M0WcSADmchmaHOpTu3E2q) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [4집 사랑이 지는 이 자리](https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln) | 3:36 |
 | 5 | [너의 의미 The Meaning of You](https://open.spotify.com/track/2p5TdDBoY6eEvTQuzyurTV) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제10집 Volume 10](https://open.spotify.com/album/7KMnV0iErqXPklZ5L0Upts) | 3:43 |
 | 6 | [슬픈 인연](https://open.spotify.com/track/0EIaR2py9XXUW4DMLx4BNk) | [NAMI](https://open.spotify.com/artist/41UwSuVCpnYFARIqfKoEG5) | [A Long Winter](https://open.spotify.com/album/2DdP0Cgsc1hYozWTgB7ajy) | 4:34 |
@@ -67,5 +67,51 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 57 | [날 찾지 말아요](https://open.spotify.com/track/47Y2w2OqMvqQ93nAA6DdcI) | [지예](https://open.spotify.com/artist/4EjKK0MdFQpp3lToa1m5c6) | [장덕 추모 앨범\(하얀날 하얗게 떠난 친구에게\)](https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh) | 3:46 |
 | 58 | [보고싶은 마음](https://open.spotify.com/track/5I69xkBlJoa7v8T3saqcLN) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/6jNFqYhHW83hDVcO9zDQ8I) | 4:06 |
 | 59 | [돌아와요 부산항에](https://open.spotify.com/track/4pr8oJG9Zq2DW1WNRflJxS) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/0f1NbeSXquER4WndPwiCQB) | 2:40 |
+| 60 | [연인들의 이야기](https://open.spotify.com/track/31z5HnIjQkkz36Tb2ncdqU) | [Lim Soo Jung](https://open.spotify.com/artist/1jDaaRL9qKDerXoQadiq84) | [또 하나의 인연/느낄 수 없어요](https://open.spotify.com/album/240a5BdQnfsYaqYdMEa3Ix) | 3:27 |
+| 61 | [인생은 미완성](https://open.spotify.com/track/2dtwHhKI1AdzpuV0tvizP7) | [Lee Jin Gwan](https://open.spotify.com/artist/6od9544LQ3v5wLszsoOpvb) | [오리지널 통기타 베스트 7080](https://open.spotify.com/album/2oAcmlQlG8ehd6THwl3Aif) | 3:48 |
+| 62 | [당신도 울고 있네요](https://open.spotify.com/track/6t20YMDkjlSsLPCycfwiD3) | [김종찬](https://open.spotify.com/artist/0yb5kCT7bmVOI93y9bLXqy) | [김종찬2집](https://open.spotify.com/album/3fM18eQ9vcvln8ljzptyTe) | 4:09 |
+| 63 | [그저 바라볼 수만 있어도](https://open.spotify.com/track/1ZEWbgub8FJ1mmYMzB89IA) | [유익종](https://open.spotify.com/artist/7EEMqopeUUc3xwmxxtuROo) | [베스트 \[Best\] \(Best\)](https://open.spotify.com/album/3rEbDXGJKRPpWin27388b9) | 3:47 |
+| 64 | [그댄 봄비를 무척 좋아하나요](https://open.spotify.com/track/3ZpNmM1A9H5c8HVSnbqnU5) | [배따라기](https://open.spotify.com/artist/7DlBD4goODGIlMEfFdJkwh) | [창밖의 낙엽은 그대론데 / 회상](https://open.spotify.com/album/6RLiknWkuemchHcRubS79G) | 3:50 |
+| 65 | [그건 너](https://open.spotify.com/track/3ZiJ25XP23fsmyp8Ps8hCZ) | [이장희](https://open.spotify.com/artist/6RaOgJ216eUZZOVaoEXoCi) | [무교동 포크음악의 전설 7080 쎄시봉](https://open.spotify.com/album/64XP78CpgnY62Rxpayt6ks) | 2:51 |
+| 66 | [한잔의 추억 \(with 조영남\)](https://open.spotify.com/track/0gBAIBaZ481BdNMRqWNbOT) | [이장희](https://open.spotify.com/artist/6RaOgJ216eUZZOVaoEXoCi), [조영남](https://open.spotify.com/artist/1qCPEEpdoqQCuOm4NU61CH) | [무교동 포크음악의 전설 7080 쎄시봉](https://open.spotify.com/album/64XP78CpgnY62Rxpayt6ks) | 3:17 |
+| 67 | [동행](https://open.spotify.com/track/1pCEfpDzK7SRppaPTJUxMB) | [Choi Sung\-Soo](https://open.spotify.com/artist/6z9myYOnV4TlVRyIhpaesB) | [2집 동행, 해후](https://open.spotify.com/album/1yZGg2eVMagSzx3VkuI3wO) | 3:48 |
+| 68 | [작은 새](https://open.spotify.com/track/4ZoEpOqq9HvF4UKL2bQek4) | [어니언스](https://open.spotify.com/artist/59zx3YgjQtVTDsECGUROAE) | [편지 / 작은새](https://open.spotify.com/album/6ET5IZtxn1DIb5KkjLl6Af) | 4:09 |
+| 69 | [첫눈이 온다구요](https://open.spotify.com/track/2OJ5ZYqYkArQJFYIHtnWqs) | [이정석](https://open.spotify.com/artist/32R8sZMuoan0Uf19J0mVOS) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 3:54 |
+| 70 | [잃어버린우산](https://open.spotify.com/track/0jGXPpcwHKUJwlOQUPeFo1) | [우순실](https://open.spotify.com/artist/2bG8eYCtAp4JdN52bD3adx) | [잊혀지지 않아요/커텐을 젖히면](https://open.spotify.com/album/5FW0q40q0EO9o2wiPNgbC3) | 4:00 |
+| 71 | [나 그대에게 모두 드리리](https://open.spotify.com/track/0uOrzH6emqx9JPW7PQmdHn) | [이장희](https://open.spotify.com/artist/6RaOgJ216eUZZOVaoEXoCi) | [무교동 포크음악의 전설 7080 쎄시봉](https://open.spotify.com/album/64XP78CpgnY62Rxpayt6ks) | 3:41 |
+| 72 | [한번쯤](https://open.spotify.com/track/6SaL6N0segkkLKpMStDRkw) | [Song Chang Sik](https://open.spotify.com/artist/6uKCrM3dtEuH1azKTcuLdy) | [무교동 포크음악의 전설 7080 쎄시봉](https://open.spotify.com/album/64XP78CpgnY62Rxpayt6ks) | 2:46 |
+| 73 | [목장 길 따라](https://open.spotify.com/track/094PizqlDw5JolBse7fAQn) | [김세환](https://open.spotify.com/artist/0xOTunrIkyDv6ZQqCSQTV2) | [무교동 포크음악의 전설 7080 쎄시봉](https://open.spotify.com/album/64XP78CpgnY62Rxpayt6ks) | 1:51 |
+| 74 | [토요일 밤에](https://open.spotify.com/track/7mZBDC8TvdeAEQ0qeIJiui) | [Kim Se Hwan](https://open.spotify.com/artist/1zmODVkqTByVtguTJL4009) | [원음으로 다시 듣고 싶다 김세환 Golden Best](https://open.spotify.com/album/5ONKW9eziD6vndfy37vu0D) | 2:57 |
+| 75 | [촛불](https://open.spotify.com/track/0HPE03S4AyTlvq3jFbDsk6) | [Jeong Tae chun](https://open.spotify.com/artist/7HyZBrKP2s3SoYagMdOw9X) | [시인의 마을](https://open.spotify.com/album/4sbuM1UqWklq17JvO5ajBg) | 3:59 |
+| 76 | [편지](https://open.spotify.com/track/4PD4EEGRtuE7MUBFCmRph7) | [어니언스](https://open.spotify.com/artist/59zx3YgjQtVTDsECGUROAE) | [편지 / 작은새](https://open.spotify.com/album/6ET5IZtxn1DIb5KkjLl6Af) | 2:54 |
+| 77 | [옛 시인의 노래](https://open.spotify.com/track/6VkfYnV1kfJSz2Tv1tESeC) | [Han Kyung Ae](https://open.spotify.com/artist/1gREXh0wEV2ZfVL4IRpNqb) | [골든 히트 앨범 2](https://open.spotify.com/album/1Imb5QURFHFdFxOijwSDcV) | 3:44 |
+| 78 | [영상](https://open.spotify.com/track/2ZVnalSLPUqyh0bA129KHc) | [사랑의 듀엣](https://open.spotify.com/artist/03P3YtRrTOUqJZPqVmooTj) | [오리지날 인기가요 베스트](https://open.spotify.com/album/2Gedk5CNmx4XOiTu4zhK0L) | 4:25 |
+| 79 | [님 그림자](https://open.spotify.com/track/2SzmSPGyy2stslOsAu8ofx) | [노사연](https://open.spotify.com/artist/3U7G0elRRdbjlMYBVku5zR) | [오리지널 통기타 베스트 7080](https://open.spotify.com/album/2oAcmlQlG8ehd6THwl3Aif) | 3:29 |
+| 80 | [모두가 사랑이예요](https://open.spotify.com/track/7AR2xon4Ri5vlbqtEKGZV6) | [해바라기](https://open.spotify.com/artist/1d0JcDAe4qjqpNzPJuf9uB) | [그날 이후](https://open.spotify.com/album/583etcbvEdblaGtOn2NmGn) | 3:00 |
+| 81 | [해후](https://open.spotify.com/track/6pmaYVS7RYSampMASIfvVr) | [Choi Sung\-Soo](https://open.spotify.com/artist/6z9myYOnV4TlVRyIhpaesB) | [2집 동행, 해후](https://open.spotify.com/album/1yZGg2eVMagSzx3VkuI3wO) | 4:41 |
+| 82 | [작은배](https://open.spotify.com/track/6OStKM38fMLK2RLCCHmoZM) | [Jo Dong Jin](https://open.spotify.com/artist/5hNOAcMCRMaVq2JxYPWo2X) | [조동진 best collection](https://open.spotify.com/album/7owUauFEMVyl6GtZnaMMF3) | 4:36 |
+| 83 | [그대 그리고 나](https://open.spotify.com/track/6GNfSUnrCNHYVnII0nVhQv) | [송민수](https://open.spotify.com/artist/7wtgB7b2KnKb0KXpRbkJPI) | [강촌사람들 2집](https://open.spotify.com/album/0Ny5CpfgimmkK6MvspXUVs) | 3:38 |
+| 84 | [Poet's Village](https://open.spotify.com/track/3LyAY6DE2w6SxoBywojKGv) | [Joung Tae Choon](https://open.spotify.com/artist/3dbQtvTg86O47krpwPZyXQ), [Park Eunok](https://open.spotify.com/artist/1RKIrIfK7MPUe5IrTsD1go) | [Selections 1](https://open.spotify.com/album/6frWrpXYrMCBNMkw6aUomI) | 4:34 |
+| 85 | [Child Of The Winter](https://open.spotify.com/track/4EI3o8ZxBZITf1Y12tcVEI) | [Lee Jongyong](https://open.spotify.com/artist/7a6u6RfJPVQHl5N7lIk8Wt) | [Lee Jongyong](https://open.spotify.com/album/5HFUe5GPpjmX6umcBlPYkt) | 4:22 |
+| 86 | [Changing Seasons](https://open.spotify.com/track/7hV1RYCYJjXChKSrhHaamj) | [Lee Yong](https://open.spotify.com/artist/23S2B8TUv56DUXF7kpfi1h) | [Lee Yong 1.](https://open.spotify.com/album/78rjwQxUD7eGQtwIYO5fae) | 3:47 |
+| 87 | [내마음의 보석상자](https://open.spotify.com/track/5nSBcnvB8fbgu0xJLPYdkl) | [해바라기](https://open.spotify.com/artist/1d0JcDAe4qjqpNzPJuf9uB) | [사랑은 언제나 그자리에](https://open.spotify.com/album/78lqaBjh6s38tBSwghSuon) | 4:05 |
+| 88 | [Let's Meet in the Sad Season](https://open.spotify.com/track/5anOeudFztkcy0XnV1VptC) | [Baek YeongGyu](https://open.spotify.com/artist/2xIiStpZbh6uT0ZH5ujTgv) | [Golden Best](https://open.spotify.com/album/4qYudcauy6OergWMZN7rL0) | 3:58 |
+| 89 | [사랑의 미로](https://open.spotify.com/track/3u1C6nWVRoP5F0w8gGrDL3) | [Choi JinHee](https://open.spotify.com/artist/49DGPmqxHN3yg2s2Mt8hdL) | [최진희 골든 Vol.15](https://open.spotify.com/album/4svmSx1y3BAwotoMJGHQue) | 3:42 |
+| 90 | [꿈의 대화](https://open.spotify.com/track/1oHP3Z1Rb7JUbcZyg0FTSz) | [이범용](https://open.spotify.com/artist/00Ej9IBAAdWLGEjApDsHWI), [한명훈](https://open.spotify.com/artist/2DiwlZotoyv4Bj4uFNfXde) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 4:00 |
+| 91 | [카페에서](https://open.spotify.com/track/3cSpvBYVWzZTYpVP3WNu3y) | [Choi JinHee](https://open.spotify.com/artist/49DGPmqxHN3yg2s2Mt8hdL) | [최진희 골든 Vol.15](https://open.spotify.com/album/4svmSx1y3BAwotoMJGHQue) | 2:47 |
+| 92 | [사랑의 썰물](https://open.spotify.com/track/6K1zMggwnvMwK95uGt1ACY) | [임지훈](https://open.spotify.com/artist/2rs2jfteusTR1LJOpNU3Fo) | [사랑의 썰물 \(임지훈 1집\)](https://open.spotify.com/album/6fR9bp3RXBu8hQe82Ssdx2) | 3:52 |
+| 93 | [그날](https://open.spotify.com/track/1X78vrLCZYpCp4uRnLoBjO) | [Kim Yeon Sook](https://open.spotify.com/artist/4IwG7svgNRZcWZEz9uHrno) | [오리지날 가요 베스트 Vol.1](https://open.spotify.com/album/5h7OD39zBpsNB5Ob2JSJyD) | 4:08 |
+| 94 | [당신](https://open.spotify.com/track/0N8DGbZTroj2jgO5Rur6hR) | [김정수](https://open.spotify.com/artist/0cSXwnEfylhGq4f5AgJ2ED) | [김정수 1집](https://open.spotify.com/album/3Fk30ODbJZ3nN7SPdIGPAd) | 3:50 |
+| 95 | [사랑하는 이에게](https://open.spotify.com/track/2RBBiAyjzyFFq3nhFLHNwT) | [정태춘,박은옥](https://open.spotify.com/artist/5GccVToH9vfrTzL12Y1KKg) | [정태춘ㆍ박은옥 Best](https://open.spotify.com/album/5hwXjx5PxAbDXE4qKuifDX) | 4:16 |
+| 96 | [갈색추억](https://open.spotify.com/track/0EC9Y4XURQtlybzkUj9CA0) | [한혜진](https://open.spotify.com/artist/5haSsfiGPBcT06aPo2bW6R) | [갈색추억/열번 찍힌 소나무/수선화](https://open.spotify.com/album/4ndoI3eVKb4wjBcr8nCLHO) | 3:44 |
+| 97 | [To be alone](https://open.spotify.com/track/2T284pnVtwYQRERKMRDwsS) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7) | [To be alone](https://open.spotify.com/album/1Mj9GoXUnUPJHHIoMSiEjF) | 4:12 |
+| 98 | [밤에떠난여인](https://open.spotify.com/track/0jlXmfXeWroBGdYiXuWYvX) | [하남석](https://open.spotify.com/artist/4qBMUljZGacfKjcA61yhTQ) | [하남석](https://open.spotify.com/album/2UOcAFzMplirrohR4oabCi) | 4:13 |
+| 99 | [사랑은 창밖에 빗물같아요](https://open.spotify.com/track/1lrh1Mwv7rDVvdNKhySM4I) | [Yang Soo Kyung](https://open.spotify.com/artist/4sLwF7pgFQDyXwiahxUWEl) | [양수경 베스트](https://open.spotify.com/album/1NnWBYnfXpnmqxsVIcwDMV) | 4:37 |
+| 100 | [To You Who Knows My Sorrow](https://open.spotify.com/track/5JEy2mEU7holanTc9S8vbj) | [조하문](https://open.spotify.com/artist/1PyMXIa4mB5JyyribZ8Qud) | [Destiny / To You Who Knows My Sorrow](https://open.spotify.com/album/7JAVQe7fUadGc5mn1EZwcl) | 4:21 |
+| 101 | [찻잔](https://open.spotify.com/track/7826VUwZIOC2ton4S5vgYr) | [노고지리](https://open.spotify.com/artist/5cx7pfhIenDMR6FuacbX0d) | [7080 그립다 그 시절 2](https://open.spotify.com/album/7aM8wlksmdFvver2BUXX2i) | 4:10 |
+| 102 | [하얀 나비](https://open.spotify.com/track/5MlZSCMDY99oI7fzxmvPYO) | [김정호](https://open.spotify.com/artist/0uSyZTvQVIBNwQIHWgWkw8) | [하얀 나비 / 인생](https://open.spotify.com/album/6i8QezRE5YlDBktJN3EoBB) | 3:44 |
+| 103 | [등불](https://open.spotify.com/track/0Y7Ws2PHPUcTBUkwj0acKq) | [Young Sound](https://open.spotify.com/artist/5Smicrq8UFuMVcGn3yhw6t) | [오리지날 가요 베스트 2](https://open.spotify.com/album/5JpY7cJ3jOsHjBAH1KX3Aq) | 4:09 |
+| 104 | [가을비 우산속](https://open.spotify.com/track/2HkWZu2uAsTOSvskWHhBcP) | [최헌](https://open.spotify.com/artist/4fh9sNOE7Vm0oYLxvcGge2) | [골든 베스트](https://open.spotify.com/album/3v4t94mftOhe1Vi56OEIUC) | 3:48 |
+| 105 | [종이학](https://open.spotify.com/track/5dRm51vxtecPr0yCv9eDgC) | [Yeong Rok Jeon](https://open.spotify.com/artist/4ekyRk7LiVxyzIlpRkHVqU) | [오리지날 가요 베스트 Vol.1](https://open.spotify.com/album/5h7OD39zBpsNB5Ob2JSJyD) | 2:43 |
 
-Snapshot ID: `ZnkkrwAAAACm2W9ocUwEpqZUktvjf8PA`
+Snapshot ID: `ZrsR9gAAAAAnq5HUylQS5uRazknW6nqy`

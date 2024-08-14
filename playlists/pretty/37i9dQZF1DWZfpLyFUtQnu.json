@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 88450,
+  "num_followers": 88503,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Ta main",
-      "url": "https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 194280,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Ta main",
+      "url": "https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Petite Amie (Edition D\u00e9lice)",
-        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "Manque d'Amour",
-      "url": "https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Barbara - N\u00b02",
         "url": "https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 161786,
       "name": "G\u00f6ttingen",
       "url": "https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Petite Amie (Edition D\u00e9lice)",
+        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "Manque d'Amour",
+      "url": "https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Sanson comme ils l'imaginent",
-        "url": "https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Quelques mots d'amour",
-      "url": "https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "70eme Anniversaire",
         "url": "https://open.spotify.com/album/3DhqKZkYpaJA3LnAgzRvuq"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 274840,
       "name": "Je te promets",
       "url": "https://open.spotify.com/track/66qec4opk3ESgF5SqYlux2"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Sanson comme ils l'imaginent",
+        "url": "https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Quelques mots d'amour",
+      "url": "https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Br\u00fbler le Feu 2",
+        "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "L\u2019\u00c9pine",
+      "url": "https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Des ombres et des lumi\u00e8res - Live \u00e0 l'Olympia / 2016",
         "url": "https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 287037,
       "name": "Dommage",
       "url": "https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Br\u00fbler le Feu 2",
-        "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "L\u2019\u00c9pine",
-      "url": "https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp"
     },
     {
       "added_at": "2024-05-23 22:00:00",

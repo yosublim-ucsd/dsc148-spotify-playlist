@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Answer to Remember",
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: jizue",
   "name": "Modern Jazz Japan",
   "tracks": [
     {
@@ -1558,6 +1558,24 @@
       "duration_ms": 553685,
       "name": "Face To Face - Live at 100BAN Hall, Kobe, 2022",
       "url": "https://open.spotify.com/track/2KDNxWVhoKrb0eD3I1rRlH"
+    },
+    {
+      "album": {
+        "name": "Family Mate",
+        "url": "https://open.spotify.com/album/6uJ7zwjJPM5VzabtlGTI8W"
+      },
+      "artists": [
+        {
+          "name": "Soundtype",
+          "url": "https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281624,
+      "name": "Family Mate",
+      "url": "https://open.spotify.com/track/4Xu7MtszWBQXB34P2om65e"
     },
     {
       "album": {
@@ -3139,6 +3157,24 @@
     },
     {
       "album": {
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/35t0TpLbsQWFJQJXlwOyXV"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266035,
+      "name": "obsession",
+      "url": "https://open.spotify.com/track/2sbXCzEskFPka5D80ZKzbG"
+    },
+    {
+      "album": {
         "name": "Oh My God",
         "url": "https://open.spotify.com/album/2CqlzqET3jM9r5y7nUgIdn"
       },
@@ -4264,7 +4300,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 247800,
       "name": "Spartacus",
       "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
@@ -6150,7 +6186,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 183000,
       "name": "\u661f\u306e\u6d77\u306b\u7720\u308b\u5b9d\u77f3\u7bb1",
       "url": "https://open.spotify.com/track/6cEYcSgw0cNwF5uCOgNBLU"

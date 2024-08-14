@@ -2,9 +2,9 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: Alex Izenberg
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE?si=sywPBZ9vQM2HZPIwHidE1w">Alex Izenberg</a>
 
-1,016 songs - 2 day 22 hr 0 min
+1,017 songs - 2 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Figure In The Surf](https://open.spotify.com/track/4U9mK38K54AZ0pMwfpfIH7) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [The Sunset Violent](https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK) | 4:51 | 2024-04-10 | 2024-05-16 |
 | [A Friend By The Lake](https://open.spotify.com/track/368lk9d9kZ7eXp6gU6WCnE) | [Horsebeach](https://open.spotify.com/artist/1z0OEnD3fL4Zwyud1f1CNL) | [A Friend By The Lake](https://open.spotify.com/album/1yxpwsUCeQGVoyZE4Ww9j8) | 5:04 | 2024-01-31 | 2024-03-21 |
 | [A Ghost In The Weed Garden](https://open.spotify.com/track/1fKNZgza6MFW1WbkplcMIg) | [Dwen](https://open.spotify.com/artist/6HBC1vvrpaB0Zg9944uRCk) | [A Ghost In The Weed Garden](https://open.spotify.com/album/7ygpAZedWTikPn8PtNJbGU) | 3:52 | 2022-12-07 | 2023-01-26 |
+| [A Landlord's Death](https://open.spotify.com/track/6h11pnlL67Z0HnHsUzikCt) | [One True Pairing](https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K) | [A Landlord's Death](https://open.spotify.com/album/10CsPEdJOHo0p8FvV4cPQb) | 3:21 | 2024-08-13 |  |
 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 | 2023-09-27 | 2023-11-09 |
 | [Abandon All Hope](https://open.spotify.com/track/1nKwN2fypWq43r0OUeJ5kx) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Abandon All Hope](https://open.spotify.com/album/4ylZeG92GetC46n8gU0o0l) | 3:46 | 2023-06-28 | 2023-08-10 |
 | [Abigail](https://open.spotify.com/track/75NgXlkXMMtUI9611uR5kX) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 1:53 | 2022-10-26 | 2022-12-08 |

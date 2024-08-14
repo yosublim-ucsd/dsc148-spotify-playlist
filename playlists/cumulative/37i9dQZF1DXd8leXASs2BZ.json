@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: MIKADO",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Young zetton",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -7262,6 +7262,28 @@
       "duration_ms": 201304,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/2rXdHhhMR5KsW3pqwvl8nO"
+    },
+    {
+      "album": {
+        "name": "ROOKIES",
+        "url": "https://open.spotify.com/album/1aQcQUwNkH4rCqFW9NGIgZ"
+      },
+      "artists": [
+        {
+          "name": "Young zetton",
+          "url": "https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS"
+        },
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189050,
+      "name": "nimo",
+      "url": "https://open.spotify.com/track/3kzWYEZbCHMD3sFrNMSC1e"
     },
     {
       "album": {

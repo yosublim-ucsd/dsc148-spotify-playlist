@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Killen\. & Oaks
 
-795 songs - 1 day 19 hr 52 min
+796 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 | 2024-05-08 |  |
 | [Flair](https://open.spotify.com/track/603bfdyalNWhlDuMLdINW9) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Momma Kismet](https://open.spotify.com/artist/7E3MHHCkgsYvFJHiKOKmfM) | [Flair](https://open.spotify.com/album/0tBTBuCoZR4a3DsIZDj6KN) | 3:23 | 2021-08-06 | 2022-07-19 |
 | [Flash Drive](https://open.spotify.com/track/3gA35jxypCyQczOR5Tew9J) | [Wave Racer](https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0), [B▲BY](https://open.spotify.com/artist/5xJ32qIdXRe84ETWIv2RDA) | [Flash Drive](https://open.spotify.com/album/2eaTv2nNOFNPjmlPP21Fdg) | 3:23 | 2021-08-06 | 2022-04-17 |
+| [flex fm \(freddit\)](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [flex fm \(freddit\)](https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT) | 4:06 | 2024-08-13 |  |
 | [Flourish](https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Flourish](https://open.spotify.com/album/1cfItDeK7Zq8DptVmokzN2) | 4:03 | 2021-08-06 | 2022-09-17 |
 | [FLOW IN YOU](https://open.spotify.com/track/2qyQRBwx86Ua7IogTGlMs8) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 3:05 | 2023-02-24 | 2023-05-13 |
 | [FLOW IN YOU](https://open.spotify.com/track/4isX1HXrZwPtobTgFAWokB) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [FLOW IN YOU](https://open.spotify.com/album/55BRp7ExsBopCMFVTSmElu) | 3:05 | 2022-03-18 | 2023-02-26 |
@@ -457,7 +458,7 @@
 | [MISS YA](https://open.spotify.com/track/6Dop4DErxSA7f58ngteHvI) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [MISS YA](https://open.spotify.com/album/2kyxO943AlY8dFWRT3JAhG) | 2:37 | 2023-11-09 | 2023-12-14 |
 | [Missing You \(feat\. A Little Sound\)](https://open.spotify.com/track/3im7OnZDP2UqX9UDQUiOTy) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Missing You \(feat\. A Little Sound\)](https://open.spotify.com/album/11U06IwgwsIdP3g8fAOhN1) | 3:01 | 2023-08-04 |  |
 | [Moma](https://open.spotify.com/track/4TF3fCWvcpkVsdrAymWTf8) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg) | [Moma](https://open.spotify.com/album/6vmpqweBc2bVG1gtyXEzV8) | 6:09 | 2024-04-25 | 2024-05-17 |
-| [Monkey Madness](https://open.spotify.com/track/3Q4vHc6CP35g7h9rqqwCcA) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Monkey Madness](https://open.spotify.com/album/07cUEdpfFryZ8bSLXGnJdu) | 2:49 | 2024-08-01 |  |
+| [Monkey Madness](https://open.spotify.com/track/3Q4vHc6CP35g7h9rqqwCcA) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Monkey Madness](https://open.spotify.com/album/07cUEdpfFryZ8bSLXGnJdu) | 2:49 | 2024-08-01 | 2024-08-14 |
 | [MOON WALK](https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [MOON WALK](https://open.spotify.com/album/4dukGiPTP45kyt2HRrdp7a) | 2:36 | 2021-08-06 | 2023-02-11 |
 | [More In Love](https://open.spotify.com/track/60QcWQ4bGoO7RwF1wK3qbG) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [More In Love](https://open.spotify.com/album/2tacpXWmfGCnRr6TdijVjz) | 2:22 | 2023-05-19 | 2023-06-18 |
 | [MORE!](https://open.spotify.com/track/63UgfCqOUjxybXd5T878eP) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [MORE!](https://open.spotify.com/album/1oOYnstxgv9e0cJRbbWSd7) | 3:20 | 2024-06-20 | 2024-08-07 |

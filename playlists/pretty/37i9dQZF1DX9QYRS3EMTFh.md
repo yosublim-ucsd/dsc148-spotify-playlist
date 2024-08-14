@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Says'z x Bamby
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,492 likes - 40 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,580 likes - 40 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 24 | [Mon combat](https://open.spotify.com/track/73laRkwZIP1kcwgOPYoNGG) | [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5), [Tidem](https://open.spotify.com/artist/6sTLgEEZMRu3PTRjhyHD2U), [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm) | [Mon combat](https://open.spotify.com/album/4FbLDYFDKqVMqiljz4LlqH) | 2:50 |
 | 25 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 |
 | 26 | [Code 97](https://open.spotify.com/track/756ErmT4AiOj7uQjFna3r6) | [Dj Quick](https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [CODE 97, Vol\. 1](https://open.spotify.com/album/5F7gMyMowj4xlt1cYvAJEf) | 2:48 |
-| 27 | [MI MAS LA \- Karata](https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ) | [Riddla](https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw), [Mas Ka Klé](https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo) | [MI MAS LA \(Karata\)](https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM) | 2:13 |
+| 27 | [MI MAS LA \- Karata](https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ) | [Riddla](https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw), [Mas Ka Klé](https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo) | [MI MAS LA \- Karata](https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM) | 2:13 |
 | 28 | [TOC](https://open.spotify.com/track/6yyEHGjIktiSHIr3lXX3pn) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [TOC](https://open.spotify.com/album/53oHWB3oUVwKxojvgnY3aQ) | 2:15 |
 | 29 | [Whippin](https://open.spotify.com/track/73jr3utBPfn5ro0m4v2YQV) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3) | [Whippin](https://open.spotify.com/album/0bMNXPD81ovzEyjdY54kv0) | 2:37 |
 | 30 | [Pepper](https://open.spotify.com/track/4nWR7LePb1UtsVqwXBJBa8) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Pepper](https://open.spotify.com/album/3ER9n0Pq3mhv2q60sLwKNc) | 2:58 |

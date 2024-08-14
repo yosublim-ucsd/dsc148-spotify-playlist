@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Avec pas d'casque
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,472 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,474 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,28 +35,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 25 | [Miss France](https://open.spotify.com/track/015YmEj4dMrDwUga7QEN46) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Miss France](https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy) | 2:46 |
 | 26 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 |
 | 27 | [CŒUR DE ICE](https://open.spotify.com/track/1KPuYzyP2wKwFXQEF1voqj) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CŒUR DE ICE](https://open.spotify.com/album/16q1SBIfIoTnp6jxlRugUe) | 3:24 |
-| 28 | [Chaque seconde](https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:46 |
-| 29 | [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 |
+| 28 | [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 |
+| 29 | [Chaque seconde](https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:46 |
 | 30 | [La pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 |
 | 31 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 |
 | 32 | [Maylin](https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Maylin](https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0) | 2:54 |
 | 33 | [PAF](https://open.spotify.com/track/2RGG3LWnqjEHpplIkieJqP) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [PAF](https://open.spotify.com/album/6pgypgF6c5yIrfmQ099g8x) | 2:52 |
 | 34 | [Choré](https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Choré](https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20) | 3:00 |
 | 35 | [SHAKE](https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [SHAKE](https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x) | 2:51 |
-| 36 | [Play](https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Play](https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0) | 3:28 |
-| 37 | [Bandito](https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [VICE CITY](https://open.spotify.com/album/7dww12XouIt2bytCWNRoBp) | 2:42 |
-| 38 | [Ah ahah](https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Ah ahah](https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn) | 2:39 |
-| 39 | [Freestyle BMF \#1](https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Freestyle BMF \#1](https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn) | 2:56 |
+| 36 | [Ah ahah](https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Ah ahah](https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn) | 2:39 |
+| 37 | [Play](https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Play](https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0) | 3:28 |
+| 38 | [Bandito](https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [VICE CITY](https://open.spotify.com/album/7dww12XouIt2bytCWNRoBp) | 2:42 |
+| 39 | [AH T'ES DANS CA](https://open.spotify.com/track/15OupWjVaBE60ctMTJaheW) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [A la bien mix party \- 10 ans après](https://open.spotify.com/album/1LWkPHi9tZSJ0qhJxPGlQx) | 3:03 |
 | 40 | [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 |
-| 41 | [AH T'ES DANS CA](https://open.spotify.com/track/15OupWjVaBE60ctMTJaheW) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [A la bien mix party \- 10 ans après](https://open.spotify.com/album/1LWkPHi9tZSJ0qhJxPGlQx) | 3:03 |
+| 41 | [Freestyle BMF \#1](https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Freestyle BMF \#1](https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn) | 2:56 |
 | 42 | [Rayol](https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [Honeymoon](https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0) | 2:41 |
 | 43 | [J'avoue](https://open.spotify.com/track/4jH2zP0nXyJl55ruDJpJyL) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [J'avoue](https://open.spotify.com/album/7bnbZfvaAEicU4wHezytpg) | 3:02 |
 | 44 | [killa](https://open.spotify.com/track/6SHYeNSIkCXZy5m6pvFXkV) | [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [killa](https://open.spotify.com/album/0Z67jZ23bypOD4ZpuOlriu) | 2:21 |
 | 45 | [OT](https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Trappo officiel](https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE) | [OT](https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94) | 3:08 |
 | 46 | [J'ai l'impression](https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [J'ai l'impression](https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO) | 2:47 |
 | 47 | [Dans ma tête](https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [IDENTITÉ](https://open.spotify.com/album/1lvkzsrpDy7LWSYGDKCk6X) | 2:51 |
-| 48 | [J'achète](https://open.spotify.com/track/2vPUyt8WDdJVifjQmgziYZ) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [47°](https://open.spotify.com/album/0bMeW5OugN9kzP1ncWbwDg) | 2:54 |
-| 49 | [Darement](https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mandat de Dépôt](https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L) | 3:12 |
+| 48 | [Darement](https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mandat de Dépôt](https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L) | 3:12 |
+| 49 | [J'achète](https://open.spotify.com/track/2vPUyt8WDdJVifjQmgziYZ) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [47°](https://open.spotify.com/album/0bMeW5OugN9kzP1ncWbwDg) | 2:54 |
 | 50 | [Jolie bébé](https://open.spotify.com/track/5rsBs4jsJRkpNMziVn4xw0) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [De l'autre côté](https://open.spotify.com/album/4BDpKPjs4tVrdIYiUX0KEt) | 2:25 |
 
 Snapshot ID: `ZrWUQAAAAABJ6TUjP6I0WLnACDskPr7M`

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,203 songs - 6 day 16 hr 27 min
+4,204 songs - 6 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3235,7 +3235,7 @@
 | [Smile Again](https://open.spotify.com/track/2VZ2N0hfF1XQIPEhot4BXq) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Smile Again](https://open.spotify.com/album/3swcHpJ2eJSAkljZDVnEh7) | 0:57 | 2019-11-29 | 2020-03-20 |
 | [Smoke One](https://open.spotify.com/track/2lR4W7VFKuLeeFwhIqzDk7) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Smoke One](https://open.spotify.com/album/3r9WbGKS1hwq1mhIvryv1M) | 2:19 | 2019-12-13 | 2020-04-18 |
 | [Smoke Rings](https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [smwhere, smtime](https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8) | 1:56 | 2020-03-27 | 2020-06-12 |
-| [Smoked](https://open.spotify.com/track/0wND5DO78fUn6bavabLy43) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Frameworks](https://open.spotify.com/album/5yoMLqQhCNenP58Jj47JIp) | 2:35 | 2024-08-01 |  |
+| [Smoked](https://open.spotify.com/track/0wND5DO78fUn6bavabLy43) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Frameworks](https://open.spotify.com/album/5yoMLqQhCNenP58Jj47JIp) | 2:35 | 2024-08-01 | 2024-08-14 |
 | [Smokery](https://open.spotify.com/track/2ZDcKJ9JK41xP1vZJA5uAz) | [Tipati](https://open.spotify.com/artist/6Y9bWYYnauLBdMITz0ZL3L) | [Smokery](https://open.spotify.com/album/4MSJ6UjbU4LpSP5slgFrLZ) | 2:33 | 2023-12-14 | 2023-12-31 |
 | [Smooth Operation](https://open.spotify.com/track/36lI2yTDwtlzgMq42zbbM0) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Smooth Operation](https://open.spotify.com/album/2BfOz9Hus0lwU6Pb5KjT9e) | 2:30 | 2023-12-01 | 2023-12-22 |
 | [Smooth Summer Cruise](https://open.spotify.com/track/44PIYaLC457K04fOytQn6T) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Smooth Summer Cruise](https://open.spotify.com/album/4lowLW0qFaoC12Nat7qOs2) | 2:24 | 2023-09-21 | 2023-10-20 |
@@ -3523,6 +3523,7 @@
 | [Sunny Splash](https://open.spotify.com/track/2nF4s65NYHSHUe0o0Oi1Ob) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Sunny Splash](https://open.spotify.com/album/4hu9ZLJGOObCQcA16nz6Rw) | 2:15 | 2021-08-07 | 2022-04-08 |
 | [Sunnyside](https://open.spotify.com/track/2RLDmgHy90GvMXRKnwBmCO) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [Sunnyside](https://open.spotify.com/album/6KrxKlusJk0xeAoW2ceQdT) | 1:53 | 2020-07-11 | 2020-12-11 |
 | [Sunnyy](https://open.spotify.com/track/5ns3tAQAJl9WaUVbVvP9Z4) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Sunnyy](https://open.spotify.com/album/3w5VrF0jlNQKgE0lpXAAlF) | 3:30 | 2024-06-06 |  |
+| [Sunoster](https://open.spotify.com/track/7qAgvioa8NID1EdyE7aKL3) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Sunoster](https://open.spotify.com/album/16TVYVDfJ9giVI0n4TtLET) | 2:01 | 2024-08-12 |  |
 | [Sunrays](https://open.spotify.com/track/0axF0tI5LlxTE6i9BX09v8) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Sunrays](https://open.spotify.com/album/2bOeKNbapHEZRWji4jMtiz) | 1:47 | 2021-07-04 | 2022-07-01 |
 | [Sunrise](https://open.spotify.com/track/4PKSQrgb0AjGvpVu13SGkJ) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Sunrise](https://open.spotify.com/album/7rxL7B9UgHkEfjAnzkLemS) | 2:37 | 2021-11-27 | 2021-12-13 |
 | [Sunrise](https://open.spotify.com/track/1GUIDegDYczbROa6MJIjYh) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [latespring](https://open.spotify.com/album/25nO7TS5kBvuPwIXQIt4ji) | 1:47 | 2021-04-02 | 2021-06-11 |

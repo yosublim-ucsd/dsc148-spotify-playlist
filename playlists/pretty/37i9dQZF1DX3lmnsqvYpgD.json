@@ -1,13 +1,45 @@
 {
   "description": "\u53ea\u6709\u6563\u6b65\uff0c\u6211\u5011\u624d\u662f\u771f\u6b63\u804a\u5929\u3002\u908a\u9996\u5ee3\u6771\u6b4c\uff0c\u4ee4\u4f60\u8ad7\u8d77\u540c\u4f60\u6563\u6b65\u5605\u4f62\uff1f",
-  "num_followers": 26030,
+  "num_followers": 26029,
   "original_name": "\u9999\u6e2f\u6563\u6b65",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqNVTAAAAABI2dobyMOLGPEeYvMN/FCE",
+  "snapshot_id": "ZrsoywAAAABn1EoPPwWIzk+gfzPpwFi3",
   "tracks": [
+    {
+      "added_at": "2024-08-13 09:35:07",
+      "album": {
+        "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
+        "url": "https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "duration_ms": 232839,
+      "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
+      "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"
+    },
+    {
+      "added_at": "2024-08-13 09:35:07",
+      "album": {
+        "name": "\u518d\u898b \u5be7\u975c\u6d77",
+        "url": "https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 250677,
+      "name": "\u518d\u898b \u5be7\u975c\u6d77",
+      "url": "https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3"
+    },
     {
       "added_at": "2022-11-03 16:43:32",
       "album": {

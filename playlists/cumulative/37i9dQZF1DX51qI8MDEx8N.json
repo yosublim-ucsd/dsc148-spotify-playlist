@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Ballerina Waltz",
+        "url": "https://open.spotify.com/album/70NHM7YBG7jEC0Xm3PR5p9"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Ballerina Waltz",
+      "url": "https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr"
+    },
+    {
+      "album": {
         "name": "Before your eyes",
         "url": "https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t"
       },

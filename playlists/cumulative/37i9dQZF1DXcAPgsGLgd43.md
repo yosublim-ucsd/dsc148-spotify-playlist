@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-295 songs - 15 hr 51 min
+296 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Dinga](https://open.spotify.com/track/64FRBEzBmSI12EyFY72J02) | [Bezh](https://open.spotify.com/artist/3bUaHi6OSggmW7F34yl3qH) | [Dinga](https://open.spotify.com/album/58Fy2a3VQzlkh9UksCzMuF) | 2:42 | 2024-01-26 | 2024-04-27 |
 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 | 2021-10-08 | 2023-11-11 |
 | [Donde Estas](https://open.spotify.com/track/6BCUs1SfUG1dux6mjfa9sR) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Mauro Venti](https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Donde Estas](https://open.spotify.com/album/2eRzekgJ38vmpDBaBMUf1F) | 2:52 | 2024-03-01 | 2024-05-21 |
+| [Dura](https://open.spotify.com/track/5PlKzMmkh1k7zIV9sCsiVZ) | [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4) | [Dura](https://open.spotify.com/album/3klHO9WJ2eOkp6j2SfMrxH) | 2:43 | 2024-08-09 |  |
 | [Ecua](https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 3:48 | 2023-11-10 | 2024-04-19 |
 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 | 2021-10-15 | 2023-11-11 |
 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 | 2024-03-01 |  |
@@ -284,7 +285,7 @@
 | [Una Copa Más](https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [LVGA](https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty) | [Una Copa Más](https://open.spotify.com/album/7f4mG1YXSEs32fO4X93ekk) | 2:49 | 2024-04-26 | 2024-08-03 |
 | [Vagabundos](https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Vagabundos](https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j) | 2:37 | 2021-10-08 | 2023-11-11 |
 | [Vai Caralho \(Do togo\)](https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Vai Caralho \(Do togo\)](https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN) | 3:08 | 2024-03-15 | 2024-07-13 |
-| [Vamo Que Vamo](https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Vamo Que Vamo](https://open.spotify.com/album/5qoafQqdcninxnfwZDhMCI) | 4:05 | 2024-02-23 |  |
+| [Vamo Que Vamo](https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Vamo Que Vamo](https://open.spotify.com/album/5qoafQqdcninxnfwZDhMCI) | 4:05 | 2024-02-23 | 2024-08-14 |
 | [Ven Pa Ca](https://open.spotify.com/track/4SvHCX1OJE2g2efnDhMmnf) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Ven Pa Ca](https://open.spotify.com/album/61C9UF3r7Y8GVB6De6rNEo) | 3:02 | 2022-02-11 | 2023-11-11 |
 | [Veneno](https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez) | [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Veneno](https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc) | 3:15 | 2023-11-10 | 2024-05-11 |
 | [Venezuela](https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Rave Radio](https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN) | [Venezuela](https://open.spotify.com/album/3acHknTBxqObDuCc4IMbu9) | 2:36 | 2021-10-08 | 2023-11-11 |

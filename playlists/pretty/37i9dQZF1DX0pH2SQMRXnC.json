@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1320700,
+  "num_followers": 1321085,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
-        "url": "https://open.spotify.com/album/0oObHHYsI5qalv9UMSOz6n"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 325494,
-      "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
-      "url": "https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
         "name": "Can Can",
         "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
+        "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
+        "url": "https://open.spotify.com/album/0oObHHYsI5qalv9UMSOz6n"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 325494,
+      "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
+      "url": "https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Warrior Cry",
-        "url": "https://open.spotify.com/album/47EV2t9QoqQ7D3hCr9UJhT"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        }
-      ],
-      "duration_ms": 207483,
-      "name": "Warrior Cry",
-      "url": "https://open.spotify.com/track/3MKGucsbvdG7RgfoFOqDaj"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz"
       },
@@ -1131,22 +1111,22 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Battlefield",
-        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
+        "name": "Warrior Cry",
+        "url": "https://open.spotify.com/album/47EV2t9QoqQ7D3hCr9UJhT"
       },
       "artists": [
         {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
         },
         {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
         }
       ],
-      "duration_ms": 187794,
-      "name": "Battlefield",
-      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
+      "duration_ms": 207483,
+      "name": "Warrior Cry",
+      "url": "https://open.spotify.com/track/3MKGucsbvdG7RgfoFOqDaj"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -1171,6 +1151,26 @@
       "duration_ms": 171034,
       "name": "Miss You - Remix",
       "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 187794,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -1259,34 +1259,6 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/7oEm0ankzz0Is25YkrhUNu"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        },
-        {
-          "name": "Ecstatic",
-          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
-        },
-        {
-          "name": "Jurgen Vries",
-          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 186470,
-      "name": "Heat Of The Moment",
-      "url": "https://open.spotify.com/track/6VpR1Ddi97grQSLuHjh4dH"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
         "name": "HOOYAH",
         "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
       },
@@ -1331,6 +1303,34 @@
       "duration_ms": 164000,
       "name": "Waste Your Youth",
       "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/7oEm0ankzz0Is25YkrhUNu"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        },
+        {
+          "name": "Jurgen Vries",
+          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 186470,
+      "name": "Heat Of The Moment",
+      "url": "https://open.spotify.com/track/6VpR1Ddi97grQSLuHjh4dH"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -1991,6 +1991,26 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
+        "name": "Everything is a Lie",
+        "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Everything is a Lie",
+      "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
         "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
         "url": "https://open.spotify.com/album/2KsPJDWa8KnaFlkQu4wnEN"
       },
@@ -2015,26 +2035,6 @@
       "duration_ms": 238875,
       "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
       "url": "https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
-        "name": "Everything is a Lie",
-        "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Everything is a Lie",
-      "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Chase The Sun (Hardstyle Mix)",
-        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
-      },
-      "artists": [
-        {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
-        }
-      ],
-      "duration_ms": 135967,
-      "name": "Chase The Sun (Hardstyle Mix)",
-      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/0Goq9xAACLk1g7OkyjQt5S"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 150400,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/16ji1BU5uDmBUgZoWS4SpU"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
+        "name": "Chase The Sun (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        }
+      ],
+      "duration_ms": 135967,
+      "name": "Chase The Sun (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -2323,26 +2323,6 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Timmy Trumpet's SINPHONY No. 2",
-        "url": "https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Frontliner",
-          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Addicted To Rave",
-      "url": "https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
         "name": "HEAR THE NOISE",
         "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
       },
@@ -2379,6 +2359,26 @@
       "duration_ms": 165176,
       "name": "Hardcore Life",
       "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
+        "name": "Timmy Trumpet's SINPHONY No. 2",
+        "url": "https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Addicted To Rave",
+      "url": "https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -2439,6 +2439,26 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
+        "name": "BEUK D\u2019R IN",
+        "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "EZG",
+          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
+        }
+      ],
+      "duration_ms": 165660,
+      "name": "BEUK D\u2019R IN",
+      "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
         "name": "Cambodia (Denox Remix)",
         "url": "https://open.spotify.com/album/4HZa3LEWJo05UoEKeCRucP"
       },
@@ -2495,26 +2515,6 @@
       "duration_ms": 214546,
       "name": "Euphoria - Hardstyle Edit",
       "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
-        "name": "BEUK D\u2019R IN",
-        "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "EZG",
-          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
-        }
-      ],
-      "duration_ms": 165660,
-      "name": "BEUK D\u2019R IN",
-      "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -2595,26 +2595,6 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Feel The Rhythm",
-        "url": "https://open.spotify.com/album/1iSToSJOSSNjSCuDEEg76H"
-      },
-      "artists": [
-        {
-          "name": "Primeshock",
-          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
-        },
-        {
-          "name": "Firelite",
-          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
-        }
-      ],
-      "duration_ms": 201483,
-      "name": "Feel The Rhythm",
-      "url": "https://open.spotify.com/track/57lWgVfNM9AMcYRaGbq96T"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
         "name": "Morgenlicht",
         "url": "https://open.spotify.com/album/2z4DqDWBwV9DE4wCG45Cax"
       },
@@ -2635,6 +2615,26 @@
       "duration_ms": 173499,
       "name": "Morgenlicht",
       "url": "https://open.spotify.com/track/7dWbcOsfWgjjM4PIsCBl1D"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
+        "name": "Feel The Rhythm",
+        "url": "https://open.spotify.com/album/1iSToSJOSSNjSCuDEEg76H"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "Firelite",
+          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
+        }
+      ],
+      "duration_ms": 201483,
+      "name": "Feel The Rhythm",
+      "url": "https://open.spotify.com/track/57lWgVfNM9AMcYRaGbq96T"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -2699,6 +2699,26 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
+        "name": "Meine Droge",
+        "url": "https://open.spotify.com/album/3xlsaWASj6MxqlOGSc6vRZ"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Meine Droge",
+      "url": "https://open.spotify.com/track/0lVT7OTMU8nNQubxsKMYr8"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
         "name": "Fiyaaah!",
         "url": "https://open.spotify.com/album/56tXG4Pa5WwioAsT2ZIeQe"
       },
@@ -2735,26 +2755,6 @@
       "duration_ms": 194002,
       "name": "Rave Now",
       "url": "https://open.spotify.com/track/2sVrVKIkrKZ8Vn9k0k3IfR"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
-        "name": "Meine Droge",
-        "url": "https://open.spotify.com/album/3xlsaWASj6MxqlOGSc6vRZ"
-      },
-      "artists": [
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Meine Droge",
-      "url": "https://open.spotify.com/track/0lVT7OTMU8nNQubxsKMYr8"
     },
     {
       "added_at": "2024-08-02 06:47:07",

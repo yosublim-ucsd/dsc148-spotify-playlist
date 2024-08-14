@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con stivijoes.
 
-780 songs - 1 day 18 hr 7 min
+781 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [BOMBAY](https://open.spotify.com/track/38YVgO1TvyosaSZ7Kd8AIA) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/6l6smfQXJMgSCPpsWkUiLi) | 3:06 | 2022-04-29 | 2022-07-29 |
 | [BOMBAY](https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:06 | 2022-07-22 | 2023-02-17 |
 | [Boom](https://open.spotify.com/track/4mzr0P76cqsnrh5vMJi5Mv) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Boom](https://open.spotify.com/album/7BhZZ5myjj6z8m4ozlbBfO) | 2:50 | 2022-10-28 | 2022-12-31 |
-| [BOOM CLAP](https://open.spotify.com/track/35gwuPry1Ef1UUV6scAT7M) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [BOOM CLAP](https://open.spotify.com/album/2pFBmIjXSdFHJPWcvY7WsT) | 2:48 | 2024-07-26 |  |
+| [BOOM CLAP](https://open.spotify.com/track/35gwuPry1Ef1UUV6scAT7M) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [BOOM CLAP](https://open.spotify.com/album/2pFBmIjXSdFHJPWcvY7WsT) | 2:48 | 2024-07-26 | 2024-08-14 |
 | [Borracha](https://open.spotify.com/track/6IAw1ilp429h9Gkkf0YjQl) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg) | [WOMAN](https://open.spotify.com/album/56bu8iqYK4WQeefvlPtkBj) | 2:43 | 2021-12-02 | 2022-01-25 |
 | [bossa nova](https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [bossa nova](https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN) | 3:08 | 2023-06-23 | 2023-08-26 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-03-18 | 2022-05-26 |
@@ -362,6 +362,7 @@
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU) | 3:08 | 2022-01-24 | 2022-05-26 |
 | [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 | 2024-05-24 | 2024-06-08 |
 | [LA NIEBLA](https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:31 | 2024-03-22 |  |
+| [La Piscina](https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Piscina](https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD) | 3:23 | 2024-08-09 |  |
 | [La Selva Se Lo Llevo](https://open.spotify.com/track/7HbliIqpMum8pNhGTB9hz0) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT), [Shary Rose](https://open.spotify.com/artist/0Fy1mYuGtX0RBAraYKsJId) | [Lost Tribes](https://open.spotify.com/album/4x6FWqKuw1ruzP8IcdiuFm) | 5:54 | 2023-02-17 | 2023-03-29 |
 | [La Tierra](https://open.spotify.com/track/0faPSJoLV0n8rGzHGlS6G3) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [La Tierra](https://open.spotify.com/album/1zDGrMi2tyMqeVh7IVpY0p) | 4:46 | 2021-12-02 | 2022-01-25 |
 | [La Tortura \- Spotify Singles](https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:31 | 2023-08-25 | 2023-09-30 |

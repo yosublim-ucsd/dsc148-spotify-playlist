@@ -1107,6 +1107,26 @@
     {
       "added_at": "2024-08-09 17:35:05",
       "album": {
+        "name": "Vento",
+        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 172329,
+      "name": "Vento",
+      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
+    },
+    {
+      "added_at": "2024-08-09 17:35:05",
+      "album": {
         "name": "Um Vento Passou (para Paul Simon)",
         "url": "https://open.spotify.com/album/33UAU0Ydepj6ohDfiUFPPp"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 276973,
       "name": "Um Vento Passou (para Paul Simon) [Feat. Paul Simon]",
       "url": "https://open.spotify.com/track/7aFU5mdJcsyhP6UAteoDiH"
-    },
-    {
-      "added_at": "2024-08-09 17:35:05",
-      "album": {
-        "name": "Vento",
-        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 172329,
-      "name": "Vento",
-      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
     },
     {
       "added_at": "2024-08-09 17:35:05",

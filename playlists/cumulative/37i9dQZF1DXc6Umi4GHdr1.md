@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-381 songs - 16 hr 57 min
+384 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-03-10 | 2023-08-26 |
 | [In the Blink of an Eye](https://open.spotify.com/track/1R1Efo6OOyo9SnR5sdl6dX) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [In the Blink of an Eye](https://open.spotify.com/album/1a1CrU23YN5PGR4ln2qlg0) | 2:47 | 2022-06-24 | 2023-03-10 |
 | [Infinite](https://open.spotify.com/track/0Psbnswd3NpdjuP0rZOJXq) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Infinite](https://open.spotify.com/album/07LsSl1xgS3kDwfhTsVRJ3) | 2:25 | 2024-06-07 |  |
+| [Inner Light](https://open.spotify.com/track/3VSd4HA3Wn4AfpFOgBR1Gx) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Inner Light](https://open.spotify.com/album/4keDkcxI0hxLfrFUYAzAPf) | 2:44 | 2024-08-13 |  |
 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 | 2023-03-31 | 2023-08-26 |
 | [Into Motion](https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Into Motion](https://open.spotify.com/album/1ZcPD4YUAnPcbVUgGOpTz4) | 2:37 | 2024-03-29 |  |
 | [Into the Well](https://open.spotify.com/track/0cSbVRsr50elwoPcp6m2XA) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Limitless](https://open.spotify.com/album/3Fj1XxYEFoqgXMP2JalxB8) | 2:35 | 2022-07-08 | 2023-05-27 |
@@ -293,6 +294,7 @@
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-03 | 2023-10-13 |
 | [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 |  |
 | [Southern](https://open.spotify.com/track/1MZDSZNmYSWR5IIRmmPCXm) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Southern](https://open.spotify.com/album/0s2CFBb8tEHleuDk01vwfz) | 2:38 | 2021-12-10 | 2024-04-06 |
+| [Souvenir](https://open.spotify.com/track/4VJ2ej7lGFm7dnXAIlTV6L) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Souvenir](https://open.spotify.com/album/7ID3RAUklNldigIsAu4gaQ) | 2:54 | 2024-08-13 |  |
 | [Spanish Steps](https://open.spotify.com/track/37S75qoyg4krilHAbcjXKR) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Spanish Steps](https://open.spotify.com/album/7Ekprz3IY9W6R8LrtS1ZQD) | 2:34 | 2024-02-02 |  |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-06-24 | 2022-07-22 |
 | [Spitalfields](https://open.spotify.com/track/2hrVoFSh9c8FpuYC6KrUlt) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Spitalfields](https://open.spotify.com/album/1FAKr8DkcxIXk8NXJQAcsA) | 2:55 | 2024-02-02 |  |
@@ -308,6 +310,7 @@
 | [Sunrise Close](https://open.spotify.com/track/1ztpA0KFZH4G5gNrLk4sTx) | [Twilight Place](https://open.spotify.com/artist/7c53nfQRh1Q743et6xkq1J) | [Sunrise Close](https://open.spotify.com/album/3GXHGgVyHKHSRervon4Rur) | 2:32 | 2023-11-24 | 2024-04-06 |
 | [Supernova](https://open.spotify.com/track/3fdOkah1IiOii4fpHg5b0C) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Supernova](https://open.spotify.com/album/2K0EhxeFypyV9DWdbDYBiW) | 2:34 | 2023-09-29 |  |
 | [Sweather Weather](https://open.spotify.com/track/0sM1RkU751ViUxIAG9Qmll) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Sweather Weather](https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH) | 2:31 | 2022-10-07 | 2023-04-28 |
+| [Sweet Disposition](https://open.spotify.com/track/6fhVnFNtplRYA9o4gwvWDP) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [Sweet Disposition](https://open.spotify.com/album/1ll0UfUCtF5OfGWgTtPipn) | 2:28 | 2024-08-13 |  |
 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 | 2023-03-10 | 2023-08-26 |
 | [São Paulo](https://open.spotify.com/track/6QdbIdbjlHeqkAZ2xyJtcT) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [São Paulo](https://open.spotify.com/album/5CI6fWz2PMmHNnAi9kE6cj) | 2:49 | 2024-08-08 |  |
 | [Tall Flowers](https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Tall Flowers](https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw) | 2:06 | 2023-03-10 | 2023-08-26 |

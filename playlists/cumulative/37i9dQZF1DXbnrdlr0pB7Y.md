@@ -4,7 +4,7 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-110 songs - 5 hr 39 min
+111 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [De Tu Mano](https://open.spotify.com/track/0dDo9FPktLTFMxQ5h1JdIP) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [De Tu Mano](https://open.spotify.com/album/4zNO2HO1luGa0Goo6TxQuf) | 2:41 | 2023-12-15 |  |
 | [Dicen](https://open.spotify.com/track/16Lmm7ei1syfXTZIYj5FpY) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [A Veces](https://open.spotify.com/album/1SfElzQ1tIOxyXZmXjLuX9) | 2:58 | 2023-12-15 |  |
 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2023-12-15 |  |
+| [Dream Away](https://open.spotify.com/track/68PEssUco3PVpOGrB9hmSU) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Dream Away](https://open.spotify.com/album/6tpY6WD1dlvLYNnYizdZsg) | 2:41 | 2024-08-13 |  |
 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 | 2023-12-15 |  |
 | [El Carretero](https://open.spotify.com/track/3GAFugCvoutIwEAAzbeB74) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [El Carretero](https://open.spotify.com/album/1VP2nwTHbf6K98NnAGtkjW) | 3:28 | 2023-12-15 |  |
 | [El Cañaveral \- Guajira](https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Recital Flamenco\. 12 de Sus Toques Originales](https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh) | 4:39 | 2023-12-15 |  |

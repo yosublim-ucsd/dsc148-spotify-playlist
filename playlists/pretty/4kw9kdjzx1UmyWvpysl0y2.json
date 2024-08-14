@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125828,
+  "num_followers": 125830,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS0SjmVadZycouzL+lzci/1ihcQLv2",
+  "snapshot_id": "AAAS08GziPtDn3TC3KkbxUbL46QuhiTp",
   "tracks": [
+    {
+      "added_at": "2024-08-13 14:16:14",
+      "album": {
+        "name": "Lily Garden",
+        "url": "https://open.spotify.com/album/5tplUNgqHpTQkv086mPPIm"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        },
+        {
+          "name": "Oliver River",
+          "url": "https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Lily Garden",
+      "url": "https://open.spotify.com/track/7wRqT3udwo3luOmcQhYpzB"
+    },
     {
       "added_at": "2024-08-12 13:44:33",
       "album": {
@@ -1131,138 +1155,6 @@
       "duration_ms": 223541,
       "name": "Another World",
       "url": "https://open.spotify.com/track/2zzdZqzq6GZ5Vlr4Z2Ghep"
-    },
-    {
-      "added_at": "2024-05-23 14:10:49",
-      "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/0fCsGnGCJnWfY3BWur6JS9"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Principle",
-          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
-        },
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/1j4nN1aIkNkZ0YkX25fjc2"
-    },
-    {
-      "added_at": "2024-05-22 16:56:43",
-      "album": {
-        "name": "FEEL AGAIN",
-        "url": "https://open.spotify.com/album/4kHLkD35YdrfrJLdXeb3dW"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "ellie d.",
-          "url": "https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "FEEL AGAIN",
-      "url": "https://open.spotify.com/track/06R5NcXhfxHzw4b89lDB71"
-    },
-    {
-      "added_at": "2024-05-21 13:39:31",
-      "album": {
-        "name": "A Little Something",
-        "url": "https://open.spotify.com/album/7bmFzed0KLoQbvjA1h3riw"
-      },
-      "artists": [
-        {
-          "name": "Nigel Good",
-          "url": "https://open.spotify.com/artist/5Q0xO4AeNtPKPqWcpCygD2"
-        }
-      ],
-      "duration_ms": 196002,
-      "name": "One Plus Space",
-      "url": "https://open.spotify.com/track/2ppRI6etjDrxPOWYFszTj2"
-    },
-    {
-      "added_at": "2024-05-20 15:25:13",
-      "album": {
-        "name": "Worst Night of My Life",
-        "url": "https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "SPIRIT LINK",
-          "url": "https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Worst Night of My Life",
-      "url": "https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8"
-    },
-    {
-      "added_at": "2024-05-17 13:56:33",
-      "album": {
-        "name": "HOT SHOT",
-        "url": "https://open.spotify.com/album/3RK2td9YkPkFCiFvKHmXwQ"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 227343,
-      "name": "HOT SHOT",
-      "url": "https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2"
-    },
-    {
-      "added_at": "2024-05-16 16:32:24",
-      "album": {
-        "name": "microcelebrity",
-        "url": "https://open.spotify.com/album/5e4T3urdHvFwYy2W4eqOOu"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        }
-      ],
-      "duration_ms": 130369,
-      "name": "DIVA",
-      "url": "https://open.spotify.com/track/37KmFNIT72X8KJ1nsI3MTJ"
-    },
-    {
-      "added_at": "2024-05-15 14:38:13",
-      "album": {
-        "name": "Face Lift",
-        "url": "https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok"
-      },
-      "artists": [
-        {
-          "name": "Codd Dubz",
-          "url": "https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5"
-        },
-        {
-          "name": "Decimate",
-          "url": "https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz"
-        },
-        {
-          "name": "XAE",
-          "url": "https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT"
-        }
-      ],
-      "duration_ms": 204370,
-      "name": "Face Lift",
-      "url": "https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

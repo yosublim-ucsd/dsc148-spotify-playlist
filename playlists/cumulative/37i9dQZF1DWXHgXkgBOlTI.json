@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Brand-New Summer",
+        "url": "https://open.spotify.com/album/67jBE2BWiCsGfBfe2qtcEE"
+      },
+      "artists": [
+        {
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233541,
+      "name": "Brand-New Summer",
+      "url": "https://open.spotify.com/track/0YMORVTChp1F09nDnH9lbx"
+    },
+    {
+      "album": {
         "name": "THE SQUARE YEAR END Live 20151226",
         "url": "https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 255213,
       "name": "Bright Life",
       "url": "https://open.spotify.com/track/3tFdPeGlTKhsNr5B0U22sg"
@@ -752,7 +770,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 246000,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/4zlvcUDuabGMdvzElQjRWO"
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 228106,
       "name": "The Piano",
       "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"

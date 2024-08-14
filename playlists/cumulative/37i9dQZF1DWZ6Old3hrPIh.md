@@ -2,7 +2,7 @@
 
 ### [Women of: Coke Studio Pakistan](https://open.spotify.com/playlist/37i9dQZF1DWZ6Old3hrPIh)
 
-> Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
+> Presenting the queens of Coke Studio Pakistan\. Cover: Haniya Aslam
 
 88 songs - 9 hr 47 min
 

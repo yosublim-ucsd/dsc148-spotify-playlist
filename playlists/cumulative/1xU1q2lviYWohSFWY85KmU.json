@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "NARAKU\u7cfb\u2605\u90aa\u6559\u7f8e\u5c11\u5973-\u7d14\u60c5\u6d3e-",
+        "url": "https://open.spotify.com/album/6mKkFlw63i2JIkl8O62DBx"
+      },
+      "artists": [
+        {
+          "name": "SLAVE.V-V-R",
+          "url": "https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226864,
+      "name": "NARAKU\u7cfb\u2605\u90aa\u6559\u7f8e\u5c11\u5973-\u7d14\u60c5\u6d3e-",
+      "url": "https://open.spotify.com/track/75JYzIPP1p25C0AgepEJiF"
+    },
+    {
+      "album": {
         "name": "\u03c6",
         "url": "https://open.spotify.com/album/0irMskCYkOhbmR9pg1G0v5"
       },
@@ -578,7 +596,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 259500,
       "name": "Strawberry Stage",
       "url": "https://open.spotify.com/track/7vOdX2FCl0sjYRQwMz96dZ"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 144516,
       "name": "\u304b\u308f\u3044\u3052\u306a\u3044\u306a 2024 (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/5wdbnv9RSooRp9KaHDbS5K"
@@ -936,7 +954,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 182253,
       "name": "\u3071\uff5e\u308a\u306b\u3083\u3044\uff01 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6JWbhbKXmTnKeQII2sf56w"
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 181416,
       "name": "\u30ab\u30ec\u30a4\u30c9\u30c8\u30ec\u30a4\u30eb (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5IMHMkmKqQPHcaq7XeaTCE"
@@ -1531,6 +1549,32 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u30be\u30f3\u30d3\u30d0\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/5sNEpwDYVEIXAmnfGa4oHj"
+      },
+      "artists": [
+        {
+          "name": "Rulmry.",
+          "url": "https://open.spotify.com/artist/5AVRmAGc8Z21NXZ1UUxySt"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144360,
+      "name": "\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u30be\u30f3\u30d3\u30d0\u30c3\u30c8 (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/6MU3RcX3iUBDfgLyNozrAS"
+    },
+    {
+      "album": {
         "name": "How was your day?",
         "url": "https://open.spotify.com/album/17riSNhRTIDBnTxAqZnTre"
       },
@@ -1590,6 +1634,28 @@
       "duration_ms": 206760,
       "name": "\u30b9\u30de\u30fc\u30c8??? (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/41KTiaVVrdzh6GlrthDz2W"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30fc\u30d1\u30fc\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/00twJ5E6Rkco4wMOO2G2af"
+      },
+      "artists": [
+        {
+          "name": "niki reverse",
+          "url": "https://open.spotify.com/artist/3HWGrVefRsLiC7tn44jVLX"
+        },
+        {
+          "name": "\u88cf\u547d",
+          "url": "https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148113,
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30ab\u30fc (feat. \u88cf\u547d)",
+      "url": "https://open.spotify.com/track/3bQx6pf6LZuHnQuzzKraB1"
     },
     {
       "album": {
@@ -2246,6 +2312,28 @@
       "duration_ms": 269865,
       "name": "\u30ef\u30fc\u30eb\u30c9\u30fb\u30c8\u30a5\u30fb\u30ef\u30fc\u30eb\u30c9",
       "url": "https://open.spotify.com/track/6cngeJ5emnhVZqMHlskS70"
+    },
+    {
+      "album": {
+        "name": "\u4f1d\u64ad\u3059\u308b\u30a2\u30a4",
+        "url": "https://open.spotify.com/album/2LlJ7ukY0Q0F1fZffqJ7lj"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u4fee",
+          "url": "https://open.spotify.com/artist/0XR4KF1djOYTBvL5Ytrzi1"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167625,
+      "name": "\u4f1d\u64ad\u3059\u308b\u30a2\u30a4 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/7cPDQqpmb9lqYKbSFqSqZY"
     },
     {
       "album": {
@@ -2976,7 +3064,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 126812,
       "name": "\u6ce2\u969b\u306e\u65b9\u7a0b\u5f0f (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/50wwy1FYG9DWmM1Ex1dK8q"
@@ -3126,6 +3214,28 @@
       "duration_ms": 280816,
       "name": "\u98a8\u306b\u6d88\u3048\u305f\u4e16\u754c\u3068\u30d3\u30aa\u30e9\u306e\u82b1\u675f (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6CE1JKLtaxQJpEpI2f0WVd"
+    },
+    {
+      "album": {
+        "name": "\u9ed9\u3063\u3066\u30ed\u30c3\u30af\u3092\u3084\u308c\u3063\u3066\u8a00\u3063\u3066\u3093\u306e\uff01",
+        "url": "https://open.spotify.com/album/5xyTq16gTZgk0Hfo7AOMeG"
+      },
+      "artists": [
+        {
+          "name": "\u732b\u8218 \u3053\u305f\u3064",
+          "url": "https://open.spotify.com/artist/68MupqiRZpIG843zENJVBW"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "\u9ed9\u3063\u3066\u30ed\u30c3\u30af\u3092\u3084\u308c\u3063\u3066\u8a00\u3063\u3066\u3093\u306e\uff01(YouTube ver.) (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3iopJ7RxnPyuDdGnkqa7Ra"
     }
   ],
   "url": "https://open.spotify.com/playlist/1xU1q2lviYWohSFWY85KmU"

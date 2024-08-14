@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "\u518d\u898b \u5be7\u975c\u6d77",
+        "url": "https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250677,
+      "name": "\u518d\u898b \u5be7\u975c\u6d77",
+      "url": "https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3"
+    },
+    {
+      "album": {
         "name": "\u51fa\u8d70",
         "url": "https://open.spotify.com/album/3zrNfBfkmLxrOgNktr70em"
       },
@@ -1686,6 +1704,24 @@
       "duration_ms": 212445,
       "name": "\u807d\u6d77\u6d6a",
       "url": "https://open.spotify.com/track/31GEWTEfwsNDnA3LhQda3v"
+    },
+    {
+      "album": {
+        "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
+        "url": "https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232839,
+      "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
+      "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"
     },
     {
       "album": {

@@ -954,8 +954,8 @@
       },
       "artists": [
         {
-          "name": "\u5e03\u888b\u5bc5\u6cf0",
-          "url": "https://open.spotify.com/artist/1rNI6fUYXyMUtLjOBd4sW6"
+          "name": "HOTEI",
+          "url": "https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns"
         }
       ],
       "date_added": "2024-07-30",
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 191409,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/42muqtulD0P6wVTDXdBI24"
@@ -3985,6 +3985,24 @@
     },
     {
       "album": {
+        "name": "Feel My Pain",
+        "url": "https://open.spotify.com/album/5IumowGu6MaiOJXKBzJyIw"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154610,
+      "name": "Feel My Pain",
+      "url": "https://open.spotify.com/track/3GFEzOfU3OKFCCT29jpeFb"
+    },
+    {
+      "album": {
         "name": "Fighting My Way",
         "url": "https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW"
       },
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 183186,
       "name": "Fly High",
       "url": "https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t"
@@ -8706,7 +8724,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 200154,
       "name": "Miracle soup",
       "url": "https://open.spotify.com/track/3dCLJGqrhClFxNQ68o7B7A"
@@ -9287,6 +9305,24 @@
     },
     {
       "album": {
+        "name": "NANI?",
+        "url": "https://open.spotify.com/album/4WC3me8swIsMvAXBhXiROD"
+      },
+      "artists": [
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "NANI?",
+      "url": "https://open.spotify.com/track/1y33kshjDNRnUoIKM7Cd8R"
+    },
+    {
+      "album": {
         "name": "Nascent Sacrifice",
         "url": "https://open.spotify.com/album/6TBYIFQR3zIQmqkAEqUmv6"
       },
@@ -9570,7 +9606,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 264239,
       "name": "Never-ending",
       "url": "https://open.spotify.com/track/3JxKGgcLv6TNKWYCuV42D9"
@@ -20359,6 +20395,24 @@
     },
     {
       "album": {
+        "name": "Re:\u7d50\u675f\u30d0\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219280,
+      "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc",
+      "url": "https://open.spotify.com/track/3lG2lpAVirM0df8pMMUP1P"
+    },
+    {
+      "album": {
         "name": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30a4\u30c7\u30a2",
         "url": "https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q"
       },
@@ -24314,6 +24368,24 @@
       "duration_ms": 241973,
       "name": "\u5f53\u4e8b\u8005",
       "url": "https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC"
+    },
+    {
+      "album": {
+        "name": "\u5f69\u3089\u308c\u305f\u7406\u60f3\u3078",
+        "url": "https://open.spotify.com/album/0IsE5AnEzKYBXsHiSP3wnt"
+      },
+      "artists": [
+        {
+          "name": "\u689fnote",
+          "url": "https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243061,
+      "name": "\u5f69\u3089\u308c\u305f\u7406\u60f3\u3078",
+      "url": "https://open.spotify.com/track/6TQMRuXjVPv6KpNAfqfxvW"
     },
     {
       "album": {

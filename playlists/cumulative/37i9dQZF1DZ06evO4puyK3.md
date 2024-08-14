@@ -2,7 +2,7 @@
 
 ### [This Is Gloria Groove](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4puyK3)
 
-> This Is Gloria Groove\. Los temas esenciales, todos en una lista.
+> This is Gloria Groove\. The essential tracks, all in one playlist.
 
 78 songs - 4 hr 18 min
 

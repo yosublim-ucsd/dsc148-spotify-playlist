@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-481 songs - 1 day 10 hr 22 min
+482 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Fractal Forms](https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx) | [Earmake](https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Unusual Cosmic Process](https://open.spotify.com/artist/37oPFegoFXsfDNMdVOASlT) | [Fractal Forms](https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6) | 3:55 | 2021-10-15 |  |
 | [Fringe Society](https://open.spotify.com/track/6HXVNP9mGsbTKG6ovKLzcH) | [Sami Matar](https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1) | [District 970](https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd) | 3:42 | 2021-10-15 | 2023-10-24 |
 | [From Her to Infinity](https://open.spotify.com/track/3zbwO2XUIbssaR0FTAKIdP) | [Nite Flights](https://open.spotify.com/artist/0L910zfKWNLTkB3p6CNWRK) | [Nite Flights](https://open.spotify.com/album/31AjUJmaHvfROCEokD6FS3) | 5:12 | 2022-04-01 | 2022-04-19 |
-| [From The Bottom Of My Heart](https://open.spotify.com/track/57Plqw6EXfqcQ2AJrdWLOS) | [Leonardus](https://open.spotify.com/artist/5ap81YY6p3jVUz7efio00j) | [From The Bottom Of My Heart](https://open.spotify.com/album/6lFso6UovOAGFR1BtYXfHp) | 5:50 | 2023-11-27 |  |
+| [From The Bottom Of My Heart](https://open.spotify.com/track/57Plqw6EXfqcQ2AJrdWLOS) | [Leonardus](https://open.spotify.com/artist/5ap81YY6p3jVUz7efio00j) | [From The Bottom Of My Heart](https://open.spotify.com/album/6lFso6UovOAGFR1BtYXfHp) | 5:50 | 2023-11-27 | 2024-08-14 |
 | [Full Force](https://open.spotify.com/track/3SA3kgjY0RwgOMpuapcrte) | [Glowline](https://open.spotify.com/artist/5O5Al4ErSslplYN5lH8tXs) | [Drive](https://open.spotify.com/album/06xszmQDKX7RjtOt5Xq4Kv) | 3:27 | 2022-07-22 |  |
 | [Funk City](https://open.spotify.com/track/6OVbPGWfPbmnbm3yu4o6Q3) | [Leonardus](https://open.spotify.com/artist/5ap81YY6p3jVUz7efio00j) | [Miami](https://open.spotify.com/album/3Kx8Kf1C6kL4aq44g4GIaR) | 6:03 | 2022-04-01 | 2022-04-21 |
 | [Future Lights](https://open.spotify.com/track/6oeHwWiVrsOUGNjmnOYq7n) | [Double Mixte](https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR), [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Future Lights](https://open.spotify.com/album/4dKJXRCVrnOfYhz0iAZhEb) | 5:24 | 2022-04-01 | 2022-05-21 |
@@ -298,6 +298,7 @@
 | [Night Racer](https://open.spotify.com/track/6BKZW4gfNkFdhRGbVlN5ZD) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Period of Time](https://open.spotify.com/album/7CHtPIPZ4hInQfyAEUPTEc) | 5:59 | 2022-04-01 | 2022-04-21 |
 | [Night Train](https://open.spotify.com/track/7nwMY3U4zhXQLQsjX8gwzf) | [Code Elektro](https://open.spotify.com/artist/3FIZFOkx25ESPENGx6st5w) | [Triads](https://open.spotify.com/album/3K48lplYXbQSc87pfuJ0Pa) | 4:17 | 2021-10-15 | 2023-10-24 |
 | [Nightbreed \- 2022 Remastered Version](https://open.spotify.com/track/51PxMHeX2V5ID89IEqjtT5) | [Chris Keya](https://open.spotify.com/artist/7zCJiVQxxnpXTnIDVMihPl) | [Nightbreed \(2022 Remastered Version\)](https://open.spotify.com/album/4kk0hAgJdMz0HF3sHEoix9) | 3:51 | 2023-10-23 |  |
+| [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2024-08-13 |  |
 | [Nightdrive](https://open.spotify.com/track/0nsXChOHmBEH7QOul9VVBT) | [VHS Dreams](https://open.spotify.com/artist/4sHCqGPH8ssoMeOeKrRZ38) | [Trans AM](https://open.spotify.com/album/5tfWfqfwG08F4LbLb2qKFq) | 4:08 | 2021-10-15 | 2022-05-24 |
 | [Nightdrive \(1984 Mix\)](https://open.spotify.com/track/59RQNWwH7eQ7PKwHvAbEN7) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD), [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Ampersounds](https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl) | [Nightdrive \(1984 Mix\)](https://open.spotify.com/album/3biVfNmeV3XvENxqUf8A1g) | 4:50 | 2021-10-15 | 2022-01-31 |
 | [Nightride \(Revisited\)](https://open.spotify.com/track/52xsz9WmVwCXiRFOvMh5yQ) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Nightride \(Revisited\)](https://open.spotify.com/album/4KgD1C3DcKXewelKAuZ1xs) | 4:12 | 2021-10-15 | 2022-07-29 |

@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -4202,7 +4202,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
@@ -5507,6 +5507,24 @@
     },
     {
       "album": {
+        "name": "Rawson's Creek",
+        "url": "https://open.spotify.com/album/14jQApmoIri4gwCoU0i4Pl"
+      },
+      "artists": [
+        {
+          "name": "Bisk",
+          "url": "https://open.spotify.com/artist/47iUJeglMlsAgzqSP9MGA5"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123250,
+      "name": "Bodega",
+      "url": "https://open.spotify.com/track/7h2XWXZlwuTTgsUoTQgJmF"
+    },
+    {
+      "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
@@ -6146,7 +6164,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 177840,
       "name": "Brothers in Crime",
       "url": "https://open.spotify.com/track/6yXl5aC7MusW8SRA0XnPVu"
@@ -6600,7 +6618,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
@@ -8412,7 +8430,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -8714,7 +8732,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 78250,
       "name": "Cord\u00e9is e Can\u00e7\u00f5es para Pequeninos Cora\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/1Em56zc8WGXGmS5ngdbPue"
@@ -9140,7 +9158,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -9638,7 +9656,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -13317,6 +13335,28 @@
     },
     {
       "album": {
+        "name": "EGOCENTRIC",
+        "url": "https://open.spotify.com/album/6OTBKGqWUwSifZMaLPCmOK"
+      },
+      "artists": [
+        {
+          "name": "Drae Sativ",
+          "url": "https://open.spotify.com/artist/0VaCOXCTE5qJGXviHAhGfs"
+        },
+        {
+          "name": "jaykatana",
+          "url": "https://open.spotify.com/artist/0LTpOj4R3IrWZAkwKqHqLj"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105360,
+      "name": "FANNED OUT",
+      "url": "https://open.spotify.com/track/53WfKa2AMHwR0KERQZy4cz"
+    },
+    {
+      "album": {
         "name": "Faraway",
         "url": "https://open.spotify.com/album/7CMOLhN96X4YdWFOo3nGpi"
       },
@@ -14568,7 +14608,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -22658,7 +22698,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -26018,7 +26058,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt"
@@ -26506,6 +26546,28 @@
       "duration_ms": 379058,
       "name": "NADIE SABE",
       "url": "https://open.spotify.com/track/23d8v6tU6lR77pFKsApMtF"
+    },
+    {
+      "album": {
+        "name": "Saturn01",
+        "url": "https://open.spotify.com/album/3q4ocwnk9js8bv31WWWPN0"
+      },
+      "artists": [
+        {
+          "name": "Isaiah DeShon",
+          "url": "https://open.spotify.com/artist/0YiX8xKhc9lWFeUHhNQ1tb"
+        },
+        {
+          "name": "Curtis Heron",
+          "url": "https://open.spotify.com/artist/2pkecd1UT7rmCObCkOBbua"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89500,
+      "name": "Nauseous",
+      "url": "https://open.spotify.com/track/4V2t4QJclRTvkr4v58HvYF"
     },
     {
       "album": {
@@ -31243,6 +31305,32 @@
     },
     {
       "album": {
+        "name": "Rhude",
+        "url": "https://open.spotify.com/album/5XY2DzO5gqVPJCJgWDUnDe"
+      },
+      "artists": [
+        {
+          "name": "CallMeJohnny",
+          "url": "https://open.spotify.com/artist/0bYcT1Y8HEg64evAODtmHf"
+        },
+        {
+          "name": "GoodFinesse",
+          "url": "https://open.spotify.com/artist/0EAHtZWQM2YT88U4mZFKr8"
+        },
+        {
+          "name": "NeroYsl",
+          "url": "https://open.spotify.com/artist/7oH2x2l10IYPybUpflWL1g"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103421,
+      "name": "Rhude",
+      "url": "https://open.spotify.com/track/2uh0bhZlJagjNkX8Du0mRw"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -34118,7 +34206,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -37526,7 +37614,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
@@ -39490,7 +39578,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 99608,
       "name": "Tweed Captain",
       "url": "https://open.spotify.com/track/6wG2sQjDv25ZrRp5bSBmZv"
@@ -41612,7 +41700,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 149066,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV"
@@ -42488,7 +42576,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"

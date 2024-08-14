@@ -242,7 +242,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 316733,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7yWoPMvPWAbW5dJ6mqdjzB"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 283293,
       "name": "Cuando Casi Te Olvidaba",
       "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
@@ -734,6 +734,24 @@
       "duration_ms": 265213,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/7vyGzPh1AAGCWa6OXYweZH"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos - Los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264086,
+      "name": "D\u00f3nde Estar\u00e1s",
+      "url": "https://open.spotify.com/track/56FcUJkgTPM0Sr6HslFeeh"
     },
     {
       "album": {
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 300333,
       "name": "Sin Medir Distancias",
       "url": "https://open.spotify.com/track/01hWPDDBph6Lndib76j8mn"

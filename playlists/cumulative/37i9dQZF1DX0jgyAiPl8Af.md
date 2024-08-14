@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-792 songs - 1 day 10 hr 11 min
+795 songs - 1 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Light and Shadow](https://open.spotify.com/track/37CI7f1K9z8sPBbXfCTUkD) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Light and Shadow](https://open.spotify.com/album/4rxHOblHlIChJOhXc4JQfX) | 2:25 | 2024-06-21 |  |
 | [Light Rain](https://open.spotify.com/track/78k8bk96GLr61Y4fp1K6Io) | [Alessandro Minci](https://open.spotify.com/artist/3sjBbv6BttORQh4rrqmsrl) | [Light Rain](https://open.spotify.com/album/7J867UR9iSCI86N70IIsA5) | 3:54 | 2022-06-10 | 2022-10-29 |
 | [Light Touch](https://open.spotify.com/track/7DRiHX3VXNCkhDxtUsy6YX) | [Emanuel Nord](https://open.spotify.com/artist/2Gq8NLA4bUFNMCLKB1kx83) | [Light Touch](https://open.spotify.com/album/5cAJ8glKeq4tXSdlkjDAgj) | 1:42 | 2022-08-19 | 2023-08-19 |
+| [Lighthouse](https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Lighthouse](https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0) | 2:32 | 2024-08-13 |  |
 | [Like A Tourist On Caminito](https://open.spotify.com/track/6alGPVL0zYvetBZiSULNiP) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Like A Tourist On Caminito](https://open.spotify.com/album/3PDesyI19q0YPY8VBjZvnd) | 3:54 | 2021-12-08 | 2022-07-08 |
 | [Lima](https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Lima](https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks) | 3:02 | 2024-05-03 |  |
 | [Lingering Bloom](https://open.spotify.com/track/4ZAvg7HUOB3jH9e5niRKgQ) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Lingering Bloom](https://open.spotify.com/album/5uj7kIeWilrFDclzjtKMuR) | 1:44 | 2023-05-12 | 2023-08-19 |
@@ -604,6 +605,7 @@
 | [Seed](https://open.spotify.com/track/3VgV3RLmCE7PrXvOjCc6sq) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Seed](https://open.spotify.com/album/7KVUNVwGXvGuNxAItcX4IH) | 3:26 | 2021-12-08 | 2022-05-27 |
 | [Seed of Perfection](https://open.spotify.com/track/0kAHMCRN2lFkDnwhedKl1M) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Seed of Perfection](https://open.spotify.com/album/3zX0E0myYc2mtjWGVJzffI) | 2:39 | 2022-08-19 | 2023-03-25 |
 | [Seerosen Teich](https://open.spotify.com/track/1DOjcrbaQbzU2zyHbBg5KM) | [Marco Tournesol](https://open.spotify.com/artist/1CpSnAYIqeAWZVDyWDqxws) | [Seerosen Teich](https://open.spotify.com/album/3Tsldk3OSEHytaICuSND55) | 2:57 | 2021-12-08 | 2022-04-06 |
+| [Self\-talk](https://open.spotify.com/track/5aGOxtKzoxfNEV3Vzrtzvy) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Self\-talk](https://open.spotify.com/album/6fMzokF9CPlpgFtnW5ZYBQ) | 1:56 | 2024-08-13 |  |
 | [Sense of narrative](https://open.spotify.com/track/0KDz1JWVTq6oKKflHHlmZD) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Sense of narrative](https://open.spotify.com/album/2nAHczJyLyaoAZEMxqqwVj) | 2:00 | 2023-12-15 |  |
 | [sentiments](https://open.spotify.com/track/62VmSlpm9TVeHtl03TwdaD) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [sentiments](https://open.spotify.com/album/3XBvnBJQCpBfWgFKi6KXo7) | 2:11 | 2024-06-21 |  |
 | [serenades](https://open.spotify.com/track/4QI998cXoXoHhDU2tQx0mB) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [serenades](https://open.spotify.com/album/1m2P646u6G7JsazHkDgLG4) | 1:41 | 2022-07-08 | 2022-09-09 |
@@ -789,6 +791,7 @@
 | [Wishes](https://open.spotify.com/track/7EK4UOqDPX6BJa2RkrtA1X) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Wishes](https://open.spotify.com/album/6pXAbcUwXLaSvR8ge32fGv) | 3:09 | 2024-06-07 |  |
 | [Wishful Thinking](https://open.spotify.com/track/32jAfJ9rlQRGfFISloeh9m) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wishful Thinking](https://open.spotify.com/album/23wAvlEfME0Hg9UYDRTgx2) | 2:28 | 2023-01-13 | 2023-09-08 |
 | [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2022-07-01 | 2024-06-08 |
+| [Wistful Night](https://open.spotify.com/track/2UkU2CEKN1Td4C9F9hpmXQ) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Wistful Night](https://open.spotify.com/album/0xulObkLw0qNGAxzwDkjeg) | 3:02 | 2024-08-13 |  |
 | [With Languor](https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 3:19 | 2024-02-02 |  |
 | [Within the Shadows](https://open.spotify.com/track/1RJtXa2TkS5ikLxU6dFBhc) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Within the Shadows](https://open.spotify.com/album/4prfX6I5qZUD92xTIG2WpZ) | 2:38 | 2024-07-18 |  |
 | [Wonderland Is Real](https://open.spotify.com/track/7jhgZmvTTPMj20FGQocws1) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Wonderland Is Real](https://open.spotify.com/album/2I1OftcagAk67igxS6Przx) | 3:57 | 2022-10-07 | 2023-03-10 |

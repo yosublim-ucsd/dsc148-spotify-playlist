@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Poze, Ret e Ryan, PEDRO SAMPAIO, Yasmin Santos  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,928,563 likes - 81 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,928,484 likes - 81 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 63 | [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 |
 | 64 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 |
 | 65 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
-| 66 | [\(A\)Bala](https://open.spotify.com/track/6jKvpdj8T0RvsfLNCMPR9w) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\(A\)Bala](https://open.spotify.com/album/0Tz0RPLEM3bZOJQmZsAjVU) | 3:34 |
+| 66 | [\(A\)Bala](https://open.spotify.com/track/6jKvpdj8T0RvsfLNCMPR9w) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Tião Preto](https://open.spotify.com/artist/12XOFiz4eAwonlHtFqXHx0) | [\(A\)Bala](https://open.spotify.com/album/0Tz0RPLEM3bZOJQmZsAjVU) | 3:34 |
 | 67 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
 | 68 | [Amores de Gueto](https://open.spotify.com/track/2ogA4W2dip7mxKh8ZgWJvt) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Onde as Histórias Se Cruzam](https://open.spotify.com/album/37NcjosRhmvbUMmsStskKQ) | 2:27 |
 | 69 | [A Triquetra](https://open.spotify.com/track/2ntttmnikq5QcDMblNwnfo) | [D$ Luqi](https://open.spotify.com/artist/3O5miUCibKGaTGEwJUpmdt) | [O Emblema do Infinito](https://open.spotify.com/album/640Asyv0TFejPbL1s8k8Hx) | 2:09 |

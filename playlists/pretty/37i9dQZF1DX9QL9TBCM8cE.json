@@ -1,15 +1,15 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 27017,
+  "num_followers": 27015,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpFH7QAAAAB24PS2RmUkDnUWk6gBAZWn",
+  "snapshot_id": "ZrukKwAAAABo+95aWLezoBWMcrPqoerU",
   "tracks": [
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u30b9\u30bf\u30fc\u30ba \u6afb\u6728\u771f\u4e43\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/7FixSzdtsddV8QclBgoVaR"
@@ -25,7 +25,39 @@
       "url": "https://open.spotify.com/track/7bQzqUFZl3mjN4JCZqABRr"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS ECHOES 03",
+        "url": "https://open.spotify.com/album/73iGtI7gAIUiiR8zZh93Cf"
+      },
+      "artists": [
+        {
+          "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
+          "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
+        }
+      ],
+      "duration_ms": 260433,
+      "name": "\u653e\u8ab2\u5f8c\u30de\u30ae\u30a2",
+      "url": "https://open.spotify.com/track/4whS7R5How6pnqO051Oo6V"
+    },
+    {
+      "added_at": "2024-08-13 18:21:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 07",
+        "url": "https://open.spotify.com/album/4PBmuHKNjEUcBU3WyIJbYh"
+      },
+      "artists": [
+        {
+          "name": "\u30ce\u30af\u30c1\u30eb",
+          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "\u3044\u3064\u3060\u3063\u3066\u50d5\u3089\u306f",
+      "url": "https://open.spotify.com/track/5qz9PmWhmiPeOIgkomZzkG"
+    },
+    {
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS ECHOES 02",
         "url": "https://open.spotify.com/album/0bmy6yzRscYokfmy3HDutu"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/6FuVaZJfih20dFI0Kk3Yed"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "\u30c4\u30d0\u30b5\u30b0\u30e9\u30d3\u30c6\u30a3",
         "url": "https://open.spotify.com/album/66rKfGrv8i88TSSqvBPxSE"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/0iNdM6ZaebjSiikUd5Ufn0"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS Song for Prism Happier / \u6795\u6728\u306e\u6b4c\u3010\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u30b9\u30bf\u30fc\u30ba\u76e4\u3011",
         "url": "https://open.spotify.com/album/4qzUoamkzsZmsD56UIBdZ4"
@@ -73,23 +105,7 @@
       "url": "https://open.spotify.com/track/1pT8MgnUDZ8XIUBWu3d5Ls"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS Song for Prism Happier / \u6795\u6728\u306e\u6b4c\u3010\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u30b9\u30bf\u30fc\u30ba\u76e4\u3011",
-        "url": "https://open.spotify.com/album/4qzUoamkzsZmsD56UIBdZ4"
-      },
-      "artists": [
-        {
-          "name": "\u30b7\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/1UmHTmrLrkCVCWL7Zd9qYH"
-    },
-    {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 02",
         "url": "https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/4UHCUxs8gDbMyiKyLqzKKa"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 04",
         "url": "https://open.spotify.com/album/3VGtdqoBVfUQxjJb4vO6dd"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/0UlUxO9IJ5GrnA1MeNK2nE"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 05",
         "url": "https://open.spotify.com/album/1V2XKud3WLAvGy1NlukjPw"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/4XkOyPFkUkEjZcs3EXbJh5"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 06",
         "url": "https://open.spotify.com/album/3EarCSn4p3bjZfE5dEvXFd"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/78Ba4Q0sj9SMjeVKP5upNP"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 08",
         "url": "https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8"
@@ -169,23 +185,7 @@
       "url": "https://open.spotify.com/track/2Ipl7XfPPg2rxFYuaTgwzt"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS Song for Prism \u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4 / \u660e\u65e5\u3082Beautiful Day\u3010\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba\u76e4\u3011",
-        "url": "https://open.spotify.com/album/3LnyFXxtKtRzFGQvhYxkVB"
-      },
-      "artists": [
-        {
-          "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
-          "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
-        }
-      ],
-      "duration_ms": 213346,
-      "name": "\u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4",
-      "url": "https://open.spotify.com/track/39ax9hrC2eEkclukurGmpq"
-    },
-    {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 03",
         "url": "https://open.spotify.com/album/2VWsU3SNlScdb1DQXVl5GJ"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/2W7147b1WZMaIQ9DwiarDy"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 01",
         "url": "https://open.spotify.com/album/6sAK3pEDDuGfgUmQR1op0w"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/6aA13qFJgbuL1vG006gEvl"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
         "url": "https://open.spotify.com/album/5hS6PiorOQmALMSbjh0nHx"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "\u30db\u30e0\u30e9\u30a4\u30f3\u30d3\u30c6\u30fc\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/2SMURyI1Jvv83ZkP8LUiLA"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/0vXs7097cLK8vQlKMlwpV5"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS Song for Prism \u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4 / \u660e\u65e5\u3082Beautiful Day\u3010\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2\u76e4\u3011",
         "url": "https://open.spotify.com/album/7x0Bomz5mJjVH2j8zqZS0j"
@@ -305,7 +305,39 @@
       "url": "https://open.spotify.com/track/50KTHltFNdlT2Y1qwQkuFH"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS Song for Prism \u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4 / \u660e\u65e5\u3082Beautiful Day\u3010\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba\u76e4\u3011",
+        "url": "https://open.spotify.com/album/3LnyFXxtKtRzFGQvhYxkVB"
+      },
+      "artists": [
+        {
+          "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
+          "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
+        }
+      ],
+      "duration_ms": 213346,
+      "name": "\u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4",
+      "url": "https://open.spotify.com/track/39ax9hrC2eEkclukurGmpq"
+    },
+    {
+      "added_at": "2024-08-13 18:21:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS Song for Prism Happier / \u6795\u6728\u306e\u6b4c\u3010\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u30b9\u30bf\u30fc\u30ba\u76e4\u3011",
+        "url": "https://open.spotify.com/album/4qzUoamkzsZmsD56UIBdZ4"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/1UmHTmrLrkCVCWL7Zd9qYH"
+    },
+    {
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
         "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
@@ -321,23 +353,7 @@
       "url": "https://open.spotify.com/track/7MYtESHP0QTH6bE1E0RXtw"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 08",
-        "url": "https://open.spotify.com/album/4fifEAU2mSmSaEXKccsjRF"
-      },
-      "artists": [
-        {
-          "name": "\u30b7\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ"
-        }
-      ],
-      "duration_ms": 243606,
-      "name": "Fashionable",
-      "url": "https://open.spotify.com/track/79XqCpFNN065CQUDv32c7T"
-    },
-    {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 08",
         "url": "https://open.spotify.com/album/1Wd36SK5i0M9tCAwHQJBTv"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/3ENUIr1ITc6ozpXh0Kwj0j"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "\u795e\u69d8\u306f\u6b7b\u3093\u3060\u3001\u3063\u3066",
         "url": "https://open.spotify.com/album/6YOFCgbDa6mUrXjiRufDXT"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/2mja76vvIBmMbuDqhegpHM"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 06",
         "url": "https://open.spotify.com/album/3AIhLQH8VCwfWRNY8CrwnL"
@@ -385,23 +401,7 @@
       "url": "https://open.spotify.com/track/1A7xGSCB67ITNPOIsJ2G1U"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 07",
-        "url": "https://open.spotify.com/album/4PBmuHKNjEUcBU3WyIJbYh"
-      },
-      "artists": [
-        {
-          "name": "\u30ce\u30af\u30c1\u30eb",
-          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "\u3044\u3064\u3060\u3063\u3066\u50d5\u3089\u306f",
-      "url": "https://open.spotify.com/track/5qz9PmWhmiPeOIgkomZzkG"
-    },
-    {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 04",
         "url": "https://open.spotify.com/album/5mmghdMKxtWt5QaAMLqGWQ"
@@ -417,23 +417,23 @@
       "url": "https://open.spotify.com/track/6rHnoHywkJbqXPZvyU3xeM"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 01 (2023 Version)",
-        "url": "https://open.spotify.com/album/3AhxC1o8vYrnpyLFp313q6"
+        "name": "THE IDOLM@STER SHINY COLORS ECHOES 03",
+        "url": "https://open.spotify.com/album/73iGtI7gAIUiiR8zZh93Cf"
       },
       "artists": [
         {
-          "name": "\u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR"
+          "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
+          "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
         }
       ],
-      "duration_ms": 262240,
-      "name": "Dye the sky. - 2023 Version",
-      "url": "https://open.spotify.com/track/69R99kEwLEW6g7Yk2Hmp9t"
+      "duration_ms": 260165,
+      "name": "\u30d1\u30fc\u30c6\u30a3\u30fc\u30de\u30b8\u30c3\u30af\u30c7\u30b6\u30a4\u30ca\u30fc",
+      "url": "https://open.spotify.com/track/6uuwifjKVZBVM5Ma5v1juH"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 05",
         "url": "https://open.spotify.com/album/3UigZQb1RxyalZQMokQdNV"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 08",
         "url": "https://open.spotify.com/album/4fifEAU2mSmSaEXKccsjRF"
@@ -460,28 +460,28 @@
           "url": "https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ"
         }
       ],
-      "duration_ms": 193913,
-      "name": "Bouncy Girl",
-      "url": "https://open.spotify.com/track/01q3ySvKVH3reucZ9Fgzp9"
+      "duration_ms": 243606,
+      "name": "Fashionable",
+      "url": "https://open.spotify.com/track/79XqCpFNN065CQUDv32c7T"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 06",
-        "url": "https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp"
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 01 (2023 Version)",
+        "url": "https://open.spotify.com/album/3AhxC1o8vYrnpyLFp313q6"
       },
       "artists": [
         {
-          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
-          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
+          "name": "\u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR"
         }
       ],
-      "duration_ms": 212533,
-      "name": "Timeless Shooting Star",
-      "url": "https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O"
+      "duration_ms": 262240,
+      "name": "Dye the sky. - 2023 Version",
+      "url": "https://open.spotify.com/track/69R99kEwLEW6g7Yk2Hmp9t"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 08",
         "url": "https://open.spotify.com/album/1Wd36SK5i0M9tCAwHQJBTv"
@@ -497,7 +497,23 @@
       "url": "https://open.spotify.com/track/0EkPfuuMAy0zdR7oYvvCfJ"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 06",
+        "url": "https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Timeless Shooting Star",
+      "url": "https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O"
+    },
+    {
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-",
         "url": "https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9"
@@ -513,23 +529,7 @@
       "url": "https://open.spotify.com/track/0ZDPHRKLzOkQeRc785UKuA"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 03 \u30d0\u30d9\u30eb\u30b7\u30c6\u30a3\u30fb\u30b0\u30ec\u30a4\u30b9 (2023 Version)",
-        "url": "https://open.spotify.com/album/2eB8FxEqOAXh2Sl8gwmLBa"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
-          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
-        }
-      ],
-      "duration_ms": 255653,
-      "name": "\u30d0\u30d9\u30eb\u30b7\u30c6\u30a3\u30fb\u30b0\u30ec\u30a4\u30b9 - 2023 Version",
-      "url": "https://open.spotify.com/track/62lybkotsQ6EcgDn5Q7VWr"
-    },
-    {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 05 \u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
         "url": "https://open.spotify.com/album/0zRTx2t73zMaA7LuGevhdJ"
@@ -545,23 +545,23 @@
       "url": "https://open.spotify.com/track/0axy4UY8KsxBUxgytSeYx4"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 08",
-        "url": "https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8"
+        "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 03 \u30d0\u30d9\u30eb\u30b7\u30c6\u30a3\u30fb\u30b0\u30ec\u30a4\u30b9 (2023 Version)",
+        "url": "https://open.spotify.com/album/2eB8FxEqOAXh2Sl8gwmLBa"
       },
       "artists": [
         {
-          "name": "\u30b3\u30e1\u30c6\u30a3\u30c3\u30af",
-          "url": "https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c"
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
         }
       ],
-      "duration_ms": 215840,
-      "name": "\u5e73\u884c\u7dda\u306e\u7f8e\u5b66",
-      "url": "https://open.spotify.com/track/7JMVCpnVVjNsxGHgQKco4j"
+      "duration_ms": 255653,
+      "name": "\u30d0\u30d9\u30eb\u30b7\u30c6\u30a3\u30fb\u30b0\u30ec\u30a4\u30b9 - 2023 Version",
+      "url": "https://open.spotify.com/track/62lybkotsQ6EcgDn5Q7VWr"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 \u5922\u54b2\u304dAfter school",
         "url": "https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu"
@@ -577,39 +577,39 @@
       "url": "https://open.spotify.com/track/1FZNbQaBpxoOXRpqVWvxtC"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 06",
-        "url": "https://open.spotify.com/album/6pgeXOy8vv6LZ4ten6TKKE"
+        "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 08",
+        "url": "https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8"
       },
       "artists": [
         {
-          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
-          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
+          "name": "\u30b3\u30e1\u30c6\u30a3\u30c3\u30af",
+          "url": "https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c"
         }
       ],
-      "duration_ms": 239213,
-      "name": "Hide & Attack",
-      "url": "https://open.spotify.com/track/5mX8BzqOQ4u1UwrOCztEIc"
+      "duration_ms": 215840,
+      "name": "\u5e73\u884c\u7dda\u306e\u7f8e\u5b66",
+      "url": "https://open.spotify.com/track/7JMVCpnVVjNsxGHgQKco4j"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 03 (2023 Ver.)",
-        "url": "https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E"
+        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 08",
+        "url": "https://open.spotify.com/album/4fifEAU2mSmSaEXKccsjRF"
       },
       "artists": [
         {
-          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
-          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
+          "name": "\u30b7\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ"
         }
       ],
-      "duration_ms": 244533,
-      "name": "\u7d14\u767d\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4 - 2023 Version",
-      "url": "https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r"
+      "duration_ms": 193913,
+      "name": "Bouncy Girl",
+      "url": "https://open.spotify.com/track/01q3ySvKVH3reucZ9Fgzp9"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 02",
         "url": "https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr"
@@ -625,23 +625,23 @@
       "url": "https://open.spotify.com/track/78hYc1DvsAEQSMWJLpQcuR"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 07",
-        "url": "https://open.spotify.com/album/4WwTB9xJxqOqAS6kmMyqtz"
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 06",
+        "url": "https://open.spotify.com/album/6pgeXOy8vv6LZ4ten6TKKE"
       },
       "artists": [
         {
-          "name": "\u30ce\u30af\u30c1\u30eb",
-          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
+          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
         }
       ],
-      "duration_ms": 242573,
-      "name": "Catch the Breeze",
-      "url": "https://open.spotify.com/track/2QDUrXSkpk7AZID6uc8Ekp"
+      "duration_ms": 239213,
+      "name": "Hide & Attack",
+      "url": "https://open.spotify.com/track/5mX8BzqOQ4u1UwrOCztEIc"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS Synthe-Side 02",
         "url": "https://open.spotify.com/album/7rg9RfJGUbH8aLeqHLGBst"
@@ -661,7 +661,39 @@
       "url": "https://open.spotify.com/track/5HvlTedUOfCe0vW7gk1SjL"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 03 (2023 Ver.)",
+        "url": "https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "\u7d14\u767d\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4 - 2023 Version",
+      "url": "https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r"
+    },
+    {
+      "added_at": "2024-08-13 18:21:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 07",
+        "url": "https://open.spotify.com/album/4WwTB9xJxqOqAS6kmMyqtz"
+      },
+      "artists": [
+        {
+          "name": "\u30ce\u30af\u30c1\u30eb",
+          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Catch the Breeze",
+      "url": "https://open.spotify.com/track/2QDUrXSkpk7AZID6uc8Ekp"
+    },
+    {
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 05",
         "url": "https://open.spotify.com/album/5TiyTimNcQobXp7T8aT5EH"
@@ -677,23 +709,7 @@
       "url": "https://open.spotify.com/track/45PEMdEs1ohcHoyQ9u7kEf"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 05",
-        "url": "https://open.spotify.com/album/1V2XKud3WLAvGy1NlukjPw"
-      },
-      "artists": [
-        {
-          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
-          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "BURN BURN",
-      "url": "https://open.spotify.com/track/6NpHw5T2neSPUg2F7NfWZk"
-    },
-    {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 02 \u30d2\u30ab\u30ea\u306edestination",
         "url": "https://open.spotify.com/album/5pV7PhnoZheAalJimumERq"
@@ -709,7 +725,23 @@
       "url": "https://open.spotify.com/track/17EuIwsdZ6H4TPOe5SE1lz"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 05",
+        "url": "https://open.spotify.com/album/1V2XKud3WLAvGy1NlukjPw"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "BURN BURN",
+      "url": "https://open.spotify.com/track/6NpHw5T2neSPUg2F7NfWZk"
+    },
+    {
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-",
         "url": "https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9"
@@ -725,7 +757,7 @@
       "url": "https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 07",
         "url": "https://open.spotify.com/album/4WwTB9xJxqOqAS6kmMyqtz"
@@ -741,7 +773,7 @@
       "url": "https://open.spotify.com/track/5IbCoJ5pzcTVAe2FNG7ymA"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 08",
         "url": "https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8"
@@ -757,39 +789,7 @@
       "url": "https://open.spotify.com/track/04jCaEuKFqRxqpG3q2Gx0c"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 02",
-        "url": "https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
-          "url": "https://open.spotify.com/artist/67qSRMNHBKQHbPed5y3qMz"
-        }
-      ],
-      "duration_ms": 289986,
-      "name": "\u6709\u5f69\u8272\u30e6\u30ea\u30a4\u30ab",
-      "url": "https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK"
-    },
-    {
-      "added_at": "2024-07-12 15:12:45",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 02",
-        "url": "https://open.spotify.com/album/1GZo9sFK2v23lzAWDVKhLi"
-      },
-      "artists": [
-        {
-          "name": "\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/2Ly8tGTt2wjAOWmXpVfRqS"
-        }
-      ],
-      "duration_ms": 224880,
-      "name": "We can go now!",
-      "url": "https://open.spotify.com/track/11BYRDBsnSUInB5mxkxoEg"
-    },
-    {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 \u5922\u54b2\u304dAfter school",
         "url": "https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu"
@@ -805,7 +805,39 @@
       "url": "https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M"
     },
     {
-      "added_at": "2024-07-12 15:12:45",
+      "added_at": "2024-08-13 18:21:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 02",
+        "url": "https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/67qSRMNHBKQHbPed5y3qMz"
+        }
+      ],
+      "duration_ms": 289986,
+      "name": "\u6709\u5f69\u8272\u30e6\u30ea\u30a4\u30ab",
+      "url": "https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK"
+    },
+    {
+      "added_at": "2024-08-13 18:21:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 02",
+        "url": "https://open.spotify.com/album/1GZo9sFK2v23lzAWDVKhLi"
+      },
+      "artists": [
+        {
+          "name": "\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/2Ly8tGTt2wjAOWmXpVfRqS"
+        }
+      ],
+      "duration_ms": 224880,
+      "name": "We can go now!",
+      "url": "https://open.spotify.com/track/11BYRDBsnSUInB5mxkxoEg"
+    },
+    {
+      "added_at": "2024-08-13 18:21:31",
       "album": {
         "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 01",
         "url": "https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i"
@@ -819,46 +851,6 @@
       "duration_ms": 314066,
       "name": "\u8679\u306e\u884c\u65b9",
       "url": "https://open.spotify.com/track/2EGyVGF3f5h1WAScAqFOnW"
-    },
-    {
-      "added_at": "2024-07-12 15:12:45",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS Synthe-Side 03",
-        "url": "https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS"
-      },
-      "artists": [
-        {
-          "name": "\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld"
-        },
-        {
-          "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
-          "url": "https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q"
-        },
-        {
-          "name": "\u30b7\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ"
-        }
-      ],
-      "duration_ms": 228760,
-      "name": "Secret utopIA",
-      "url": "https://open.spotify.com/track/3TE8TVyNEPutMardTtgl62"
-    },
-    {
-      "added_at": "2024-07-12 15:12:45",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 07",
-        "url": "https://open.spotify.com/album/4bRs74VKNeAnUu0lUcT4nJ"
-      },
-      "artists": [
-        {
-          "name": "\u30ce\u30af\u30c1\u30eb",
-          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "\u4eca\u3057\u304b\u306a\u3044\u77ac\u9593\u3092",
-      "url": "https://open.spotify.com/track/2LPfClXLGNlyRuXt2Mew89"
     }
   ],
   "unique_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",

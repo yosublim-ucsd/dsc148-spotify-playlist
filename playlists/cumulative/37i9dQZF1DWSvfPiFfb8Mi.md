@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-308 songs - 20 hr 27 min
+309 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Back In Time \- Original Mix](https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT) | [Ricky Razu](https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v) | [Back In Time EP](https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY) | 6:15 | 2023-07-28 | 2023-08-12 |
 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 | 2023-06-09 | 2024-04-19 |
 | [Bamboo Mask](https://open.spotify.com/track/23xJy8COmTLKWsUcj3ng74) | [Boyoca](https://open.spotify.com/artist/2UZMTPwwvwD24gmqjX3OSE) | [Bamboo Mask](https://open.spotify.com/album/2MIf4ISMBARDWX8F5gZ9oz) | 3:43 | 2021-07-24 | 2023-05-20 |
-| [Be The One \(feat\. Yung Bae\)](https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr) | [Disco Dom](https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Inferno \(No\. 1\)](https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG) | 4:56 | 2023-07-21 |  |
+| [Be The One \(feat\. Yung Bae\)](https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr) | [Disco Dom](https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Inferno \(No\. 1\)](https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG) | 4:56 | 2023-07-21 | 2024-08-14 |
 | [Be with You Tonight](https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Be with You Tonight](https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o) | 3:39 | 2023-05-19 |  |
 | [Beat Of Your Heart](https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL) | 3:29 | 2024-04-19 |  |
 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 | 2024-01-26 | 2024-04-19 |
@@ -168,6 +168,7 @@
 | [lift me higher](https://open.spotify.com/track/5LO1AVEdfMDBrXPPSbA13y) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:23 | 2022-06-20 | 2023-07-12 |
 | [Lightenup \- Alex Metric Remix](https://open.spotify.com/track/0qlYPfEfpOG0DcqdKBvOBF) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Lightenup \(Remixed\)](https://open.spotify.com/album/4evIPylxO3FtOIB5ZYCqQM) | 7:18 | 2022-06-20 | 2024-04-19 |
 | [Lightenup \- Alex Metric Remix](https://open.spotify.com/track/1rIPNuXlthhSUphhva5d5y) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Lightenup \(Alex Metric Remix\)](https://open.spotify.com/album/5CD57eZyNcQPV9kzXSkVnR) | 7:18 | 2021-07-24 |  |
+| [Like I Said](https://open.spotify.com/track/6BHGcsc8q9lrduVjXOuA0w) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Like I Said](https://open.spotify.com/album/2gsAnOVVfnMvMLQQk4BOwF) | 5:12 | 2024-08-09 |  |
 | [Like The Sun \- Radio Edit](https://open.spotify.com/track/7IUMNNFHAfPisDTIi0NBTP) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [Like The Sun](https://open.spotify.com/album/4B73PTeIp71d9dp8ekCX0w) | 3:17 | 2021-07-24 | 2023-05-20 |
 | [Like this](https://open.spotify.com/track/6w0uEebEzwfIXoVU3aTlaR) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/4yOItDLVCDlzfvAASsmOPv) | 4:05 | 2021-07-24 | 2022-07-29 |
 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 | 2022-06-20 | 2023-05-20 |

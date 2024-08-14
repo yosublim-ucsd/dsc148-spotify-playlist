@@ -1,63 +1,47 @@
 {
-  "description": "Future K-Pop hits! Cover: Xdinary Heroes",
-  "num_followers": 811934,
+  "description": "Future K-Pop hits! Cover: KARD",
+  "num_followers": 811993,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrSL1wAAAACqa3HVeCTQr3x2K5XjmdKj",
+  "snapshot_id": "ZrsgkAAAAADWLqa5wjSRnBFxhsX3EW9p",
   "tracks": [
     {
-      "added_at": "2024-08-08 09:11:51",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
+        "name": "KARD 7th Mini Album 'Where To Now? (Part.1 : Yellow Light)'",
+        "url": "https://open.spotify.com/album/0eXeBtUotmPrJtREbEa3nE"
       },
       "artists": [
         {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
         }
       ],
-      "duration_ms": 170533,
-      "name": "17",
-      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
+      "duration_ms": 215800,
+      "name": "Tell My Momma",
+      "url": "https://open.spotify.com/track/4PAMDOg5KBjnzocJ60eMpl"
     },
     {
-      "added_at": "2024-08-08 09:11:51",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
-        "name": "BAMESIS",
-        "url": "https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF"
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7go94B223sIXz4t1g8kZ2N"
       },
       "artists": [
         {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         }
       ],
-      "duration_ms": 187746,
-      "name": "LAST PARADE",
-      "url": "https://open.spotify.com/track/5g161vgVSZ2dhzczfNJcyx"
+      "duration_ms": 173875,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/564FztYymI6tdSy7hV8nYS"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
-      "album": {
-        "name": "Open \u266deta v6.3",
-        "url": "https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 220096,
-      "name": "Save me",
-      "url": "https://open.spotify.com/track/42i24oTxRFR53ezroofUtx"
-    },
-    {
-      "added_at": "2024-08-08 09:11:51",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "CURIOUS",
         "url": "https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM"
@@ -73,7 +57,87 @@
       "url": "https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl"
     },
     {
-      "added_at": "2024-08-08 01:57:10",
+      "added_at": "2024-08-13 09:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "added_at": "2024-08-13 09:00:00",
+      "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 180742,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0"
+    },
+    {
+      "added_at": "2024-08-13 09:00:00",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
+    },
+    {
+      "added_at": "2024-08-13 09:00:00",
+      "album": {
+        "name": "BAMESIS",
+        "url": "https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "LAST PARADE",
+      "url": "https://open.spotify.com/track/5g161vgVSZ2dhzczfNJcyx"
+    },
+    {
+      "added_at": "2024-08-13 09:00:00",
+      "album": {
+        "name": "Open \u266deta v6.3",
+        "url": "https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/42i24oTxRFR53ezroofUtx"
+    },
+    {
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Hit Me Up (feat. MINGI of ATEEZ)",
         "url": "https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460"
@@ -93,23 +157,7 @@
       "url": "https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
-    },
-    {
-      "added_at": "2024-08-08 09:11:51",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "DUSK",
         "url": "https://open.spotify.com/album/2jbCByI5iMiDkkuTqq9RzF"
@@ -125,7 +173,7 @@
       "url": "https://open.spotify.com/track/61zU5KDGPC3OIYOwJJvbbC"
     },
     {
-      "added_at": "2024-08-08 09:11:51",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Roll Up",
         "url": "https://open.spotify.com/album/2mIf1bG4rK1Z9XHn04gSZE"
@@ -141,23 +189,7 @@
       "url": "https://open.spotify.com/track/2KIyd36V2ejCrvlYU1Ci1K"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
-      "album": {
-        "name": "Ice Cream",
-        "url": "https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 180742,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0"
-    },
-    {
-      "added_at": "2024-08-08 09:11:51",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/7aYdzmaVEOhBXtEbEt9uyi"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/2NboXwD8I8N8bWovRE6yp6"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "JIN LAB Project 4. [You]",
         "url": "https://open.spotify.com/album/4dvlOLOSqR0oOW1bNtXZDb"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5"
     },
     {
-      "added_at": "2024-08-08 09:11:51",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "YIN",
         "url": "https://open.spotify.com/album/3SKAMCBO0FkSyKIO4aqsIs"
@@ -213,7 +245,7 @@
       "url": "https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "TANG TANG TANG",
         "url": "https://open.spotify.com/album/7KbRFBho6KkcUce18v0Jbe"
@@ -229,7 +261,7 @@
       "url": "https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "SUPERPOWER",
         "url": "https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "[VirtuouS]",
         "url": "https://open.spotify.com/album/4PkR73YJKj5RGkC7QZVpM2"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/4GyhMaDPEILMPp62PUjP3j"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "FLAT COKE (Feat. Lee Young Ji)",
         "url": "https://open.spotify.com/album/3nHPK4QlfOEuWZ3rGDkthY"
@@ -289,7 +321,7 @@
       "url": "https://open.spotify.com/track/1P6QKJ1Vyskavy98wtV7W7"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/45r381iIEXYrZ3N8fw4mPS"
@@ -305,7 +337,7 @@
       "url": "https://open.spotify.com/track/1dx6WBxflzpIrFvkMPq388"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Open \u266deta v6.2",
         "url": "https://open.spotify.com/album/6eMtWQJJnCKuUrGKugJ1CH"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/3v2fpbBTm5m0uPU15qnQ36"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/2Ub5QAeVor8nv2MvmedyJF"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/7rJZp1DVysX95a6lX9ThiP"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Open Always Wins",
         "url": "https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Sticky",
         "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "\ud2f0\ub77c\ubbf8\uc218 \ucf00\uc775",
         "url": "https://open.spotify.com/album/4rVYtLBY7RlDr4EOXz6w6T"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/6usxxPfhLIRJag1y96XcxE"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Strawberry Rush",
         "url": "https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2"
@@ -401,7 +433,7 @@
       "url": "https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Angel (feat. twlv)",
         "url": "https://open.spotify.com/album/2SGrcdVQbSUxr4NZRoYpAa"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/0CXg4fpEBKlGGxRI1cYhBs"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "OST",
         "url": "https://open.spotify.com/album/2ZFE0nxTNIgX1jMCfT0L0W"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/5i2qsnB4cF2j7KdxjhTbzV"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "I-LAND2 : N/a Signal Song (Applicants Version)",
         "url": "https://open.spotify.com/album/34esSejdtngmSozv4mZCUR"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Play With Me",
         "url": "https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd"
@@ -493,7 +525,7 @@
       "url": "https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "WITNESS",
         "url": "https://open.spotify.com/album/5Jx6O54pZxFGlMaeO25FWt"
@@ -509,7 +541,7 @@
       "url": "https://open.spotify.com/track/0F2s3Lc7LeAlt2w7OokIoL"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "ZOMBIE",
         "url": "https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r"
@@ -525,7 +557,7 @@
       "url": "https://open.spotify.com/track/57RkVmnj3b1FUJoUdkSuZD"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Lovely Runner, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37"
@@ -541,7 +573,7 @@
       "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "TWS 2nd Mini Album 'SUMMER BEAT!'",
         "url": "https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03"
@@ -557,7 +589,7 @@
       "url": "https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "OVERSTEP",
         "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
@@ -573,7 +605,7 @@
       "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Kep1going On",
         "url": "https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez"
@@ -589,7 +621,7 @@
       "url": "https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "UNFRAMED",
         "url": "https://open.spotify.com/album/09fRNZvZnqJqm7024Sa7uP"
@@ -605,7 +637,7 @@
       "url": "https://open.spotify.com/track/4KtNoHpc781qroUhOol1I1"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "RIDE or DIE",
         "url": "https://open.spotify.com/album/66GxvvTy5DcJlhs4XAyc8v"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/2muqyJpZ71YJ7bP9F69rZM"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "LOOP",
         "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "McNasty",
         "url": "https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf"
@@ -673,7 +705,7 @@
       "url": "https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "All The Way",
         "url": "https://open.spotify.com/album/1s3QsCUiHLP0kbKUulGUMc"
@@ -689,27 +721,7 @@
       "url": "https://open.spotify.com/track/68jFZoDvQrM4QUwZuC6oLa"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
-      "album": {
-        "name": "Lips (Feat. GISELLE)",
-        "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "GISELLE",
-          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Lips (Feat. GISELLE)",
-      "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
-    },
-    {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Balloon in Love",
         "url": "https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9"
@@ -725,7 +737,7 @@
       "url": "https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "dopamine",
         "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
@@ -745,7 +757,7 @@
       "url": "https://open.spotify.com/track/7LK5puNRuxmPiZNzOS1iM6"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "hey! hey!",
         "url": "https://open.spotify.com/album/6yGdGCWksLfDes9U81SRkP"
@@ -761,7 +773,7 @@
       "url": "https://open.spotify.com/track/6vSpm3PAXA1PLyEINx3DJC"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Lovely Runner, Pt. 8 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1"
@@ -777,7 +789,7 @@
       "url": "https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "<ASSEMBLE24>",
         "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
@@ -793,7 +805,7 @@
       "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/2vM9UGFDKGVtBujM4i280d"
@@ -809,23 +821,7 @@
       "url": "https://open.spotify.com/track/7CRxtUYdaNwgUICPi2iScL"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 161546,
-      "name": "Fate",
-      "url": "https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2"
-    },
-    {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Midas Touch",
         "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
@@ -841,7 +837,7 @@
       "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
     },
     {
-      "added_at": "2024-08-06 11:08:53",
+      "added_at": "2024-08-13 09:00:00",
       "album": {
         "name": "Stuck In The Middle",
         "url": "https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM"

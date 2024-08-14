@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-628 songs - 2 day 1 hr 10 min
+629 songs - 2 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Little Sunset](https://open.spotify.com/track/5xeGCNSHuGl7u95P7dqsik) | [Yuichiro Fujimoto](https://open.spotify.com/artist/2P0IReI87eMGenUXZjnnAP) | [Komorebi](https://open.spotify.com/album/4rgYDGA3VJLBZvFztCF6Vd) | 2:59 | 2022-03-31 | 2022-06-14 |
 | [Lo\-Pencil](https://open.spotify.com/track/6tQcOrULPM0aXoN8fzAlxU) | [.tape.](https://open.spotify.com/artist/1iuxGT5PTiH3VpgZ3Lh0Wk) | [paintings](https://open.spotify.com/album/69ONFD6PX42tebjAurVsPY) | 3:53 | 2022-03-31 | 2022-04-21 |
 | [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 | 2022-03-31 | 2022-11-04 |
+| [londonderry air](https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD) | [Shin Ichikawa](https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk) | [londonderry air](https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj) | 3:01 | 2024-08-09 |  |
 | [long time](https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 1:07 | 2024-02-08 |  |
 | [looped labyrinth, decayed voice](https://open.spotify.com/track/0s7xkkUwTu77Hffwnxesky) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [bitter sweet](https://open.spotify.com/album/0Of3uyJzRu8UZV8l3iN3k2) | 9:36 | 2022-04-16 | 2022-04-18 |
 | [Loran](https://open.spotify.com/track/7sn2MBviZ595Rrf2pghrPt) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 4:44 | 2022-03-31 | 2022-04-13 |
@@ -318,7 +319,7 @@
 | [MeMe](https://open.spotify.com/track/3QDuYDRG3lB7Sy45GMWa5J) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [MeMe](https://open.spotify.com/album/3q3JleVhIaRxutkWmcuYcK) | 1:00:00 | 2022-03-31 | 2022-05-29 |
 | [memento](https://open.spotify.com/track/2XplMSBUiDrgjrjE9aJem1) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [memento](https://open.spotify.com/album/5wpdUQhPZxUTGObATg9bja) | 3:37 | 2022-04-07 | 2022-07-29 |
 | [memory lane](https://open.spotify.com/track/21Bs2xbk1KbbzqIGPnboV9) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [memory lane](https://open.spotify.com/album/5I2F71Myowlmr7AWMDDpzQ) | 3:50 | 2022-03-30 | 2024-02-09 |
-| [Memory Sketches](https://open.spotify.com/track/5JQMan7GM7qVZDlIqsVcgc) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Memory Sketches](https://open.spotify.com/album/5la7iDphAuUuUjv8TSeKd3) | 3:59 | 2024-02-08 |  |
+| [Memory Sketches](https://open.spotify.com/track/5JQMan7GM7qVZDlIqsVcgc) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Memory Sketches](https://open.spotify.com/album/5la7iDphAuUuUjv8TSeKd3) | 3:59 | 2024-02-08 | 2024-08-14 |
 | [MERCURIC DANCE/水銀\~躍動の踊り](https://open.spotify.com/track/2fXZxWhqV6YqpKsEoqID6S) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 7:06 | 2024-02-08 | 2024-07-13 |
 | [Merge](https://open.spotify.com/track/03e5WkmDs2xJw0OXvfXrdI) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Terminus](https://open.spotify.com/album/7aDfUq2OLrdgLCk4upnukd) | 6:23 | 2022-03-31 | 2022-04-10 |
 | [Meteor Stream](https://open.spotify.com/track/6khYmpfZG6J1Tn7xpTq134) | [Kaoru Inoue](https://open.spotify.com/artist/5fr4WRZR59VYttwBALTLUo) | [Of Mythic Future](https://open.spotify.com/album/15D9WVyXTUg46FJUpVrErL) | 5:31 | 2022-04-28 | 2022-05-06 |

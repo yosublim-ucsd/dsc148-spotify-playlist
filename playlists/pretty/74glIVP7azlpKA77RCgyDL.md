@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Deadlands
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,659 likes - 184 songs - 10 hr 59 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,660 likes - 184 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

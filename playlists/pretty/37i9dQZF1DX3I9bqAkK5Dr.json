@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers",
-  "num_followers": 33216,
+  "num_followers": 33219,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrNIZwAAAAD1//i9u6y3pOoiiA/qbywL",
+  "snapshot_id": "ZrtGagAAAAC1ZUWdOao8eXt6jDWyaufU",
   "tracks": [
     {
       "added_at": "2024-07-19 14:43:57",
@@ -67,6 +67,30 @@
       "duration_ms": 143000,
       "name": "SA NI SA GA MA",
       "url": "https://open.spotify.com/track/1s371qM1lEeyGneuZcD0EG"
+    },
+    {
+      "added_at": "2024-08-13 11:41:30",
+      "album": {
+        "name": "DEVARA(The Thirst Trap)",
+        "url": "https://open.spotify.com/album/5tC7wcamLKOIFJ6gafzWKN"
+      },
+      "artists": [
+        {
+          "name": "Sravana Bhargavi",
+          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
+        },
+        {
+          "name": "Stanley sajeev",
+          "url": "https://open.spotify.com/artist/2sEdwo7xTdk62naoJmWTO3"
+        },
+        {
+          "name": "Sri Rag",
+          "url": "https://open.spotify.com/artist/3hWpjI85HiSIclghXny1lJ"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "DEVARA(The Thirst Trap)",
+      "url": "https://open.spotify.com/track/3REZ4XjWqKH0wHkkvM40gW"
     },
     {
       "added_at": "2024-07-16 09:28:33",
@@ -329,30 +353,6 @@
       "url": "https://open.spotify.com/track/1yJskNbmvl3OxtzCMZGOFu"
     },
     {
-      "added_at": "2024-05-10 02:52:12",
-      "album": {
-        "name": "hello master!",
-        "url": "https://open.spotify.com/album/6kXrq2yivg13UPq0nEHAsx"
-      },
-      "artists": [
-        {
-          "name": "Damini Bhatla",
-          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
-        },
-        {
-          "name": "Srirag Vadlakonda",
-          "url": "https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb"
-        },
-        {
-          "name": "Stanley Sajeev",
-          "url": "https://open.spotify.com/artist/01hzMpU7t0rLILKgBo0Sau"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "hello master!",
-      "url": "https://open.spotify.com/track/0djwARp8JriBrVLMokz83Z"
-    },
-    {
       "added_at": "2024-07-29 06:40:42",
       "album": {
         "name": "Salary Anthem",
@@ -367,42 +367,6 @@
       "duration_ms": 247433,
       "name": "Salary Anthem",
       "url": "https://open.spotify.com/track/56maqkaAZuj7u3U2gzobrM"
-    },
-    {
-      "added_at": "2024-05-27 04:59:04",
-      "album": {
-        "name": "Yedha",
-        "url": "https://open.spotify.com/album/1OwzeOU1lltsvsqjCsS1Xm"
-      },
-      "artists": [
-        {
-          "name": "Varun Sanmitra",
-          "url": "https://open.spotify.com/artist/6U2jFIBVmY29PQszrbAKvs"
-        },
-        {
-          "name": "Hemachandra Vedala",
-          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
-        },
-        {
-          "name": "Damini Bhatla",
-          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
-        },
-        {
-          "name": "Koundinya Sista",
-          "url": "https://open.spotify.com/artist/1LKlkVjzMAz2fCqvmBrrs7"
-        },
-        {
-          "name": "Avinash Kanaparthi",
-          "url": "https://open.spotify.com/artist/6TxbhvLd1bf70lImNgTXMC"
-        },
-        {
-          "name": "Priyanka Srinivas",
-          "url": "https://open.spotify.com/artist/3ktMBjAaMFVpkPtfT5M4BW"
-        }
-      ],
-      "duration_ms": 219038,
-      "name": "Yedha",
-      "url": "https://open.spotify.com/track/6cbpHn29rluysQdMAJ9tf9"
     },
     {
       "added_at": "2024-04-29 10:09:49",

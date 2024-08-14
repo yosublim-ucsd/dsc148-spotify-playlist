@@ -2,7 +2,7 @@
 
 ### [This Is Deorro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO462cZX)
 
-> This is Deorro\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Deorro\. The essential tracks, all in one playlist.
 
 52 songs - 2 hr 50 min
 

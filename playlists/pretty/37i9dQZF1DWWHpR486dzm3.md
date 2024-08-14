@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Sonia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,739 likes - 79 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,741 likes - 79 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nyt tai ei koskaan](https://open.spotify.com/track/78VmGhwDuQ3QVa2egBjmvB) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Nyt tai ei koskaan](https://open.spotify.com/album/4yiKtKmif9MeZPspSxAjsc) | 2:52 |
-| 2 | [Amatsonibeibi](https://open.spotify.com/track/3CXSWh2e1sQTGIY85sIi0d) | [20 000 Hz](https://open.spotify.com/artist/3iHSklDYGjosLmV4FqAvRQ) | [Amatsonibeibi](https://open.spotify.com/album/052gqCssy7mE2R2Q7db6Lt) | 5:16 |
-| 3 | [Waterfall](https://open.spotify.com/track/6BCKy6advV0E1jyQBpxmCr) | [Indigo Dream](https://open.spotify.com/artist/3nxQ0z5TpFCavqaRB1lJka) | [Indigo Dream](https://open.spotify.com/album/48QgPT41BnnvBP36igX0GA) | 4:08 |
+| 1 | [Amatsonibeibi](https://open.spotify.com/track/3CXSWh2e1sQTGIY85sIi0d) | [20 000 Hz](https://open.spotify.com/artist/3iHSklDYGjosLmV4FqAvRQ) | [Amatsonibeibi](https://open.spotify.com/album/052gqCssy7mE2R2Q7db6Lt) | 5:16 |
+| 2 | [Waterfall](https://open.spotify.com/track/6BCKy6advV0E1jyQBpxmCr) | [Indigo Dream](https://open.spotify.com/artist/3nxQ0z5TpFCavqaRB1lJka) | [Indigo Dream](https://open.spotify.com/album/48QgPT41BnnvBP36igX0GA) | 4:08 |
+| 3 | [Nyt tai ei koskaan](https://open.spotify.com/track/78VmGhwDuQ3QVa2egBjmvB) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Nyt tai ei koskaan](https://open.spotify.com/album/4yiKtKmif9MeZPspSxAjsc) | 2:52 |
 | 4 | [Boys Cry](https://open.spotify.com/track/0H2YPnO2AAsuGFJyI4Uvte) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Boys Cry](https://open.spotify.com/album/5KvkQnJBrs9CoXbGosmpic) | 3:36 |
 | 5 | [Paradigm \- 528hz](https://open.spotify.com/track/60cwmU6sxcMFK1SWaX6Uul) | [Scharliina](https://open.spotify.com/artist/6upTgjoRNa4vGXKOl04BMY) | [Darkness to a Fairytale](https://open.spotify.com/album/2pJ2QQSBhFmx35DhM3yBOq) | 2:48 |
 | 6 | [kauniimpaa](https://open.spotify.com/track/6MM8v5rsinRyXuTxsCuKNX) | [koti](https://open.spotify.com/artist/7wrL9z8DVka7Fl5PZolJpF) | [1](https://open.spotify.com/album/4oDKJtVdC38jelV92ZRGzb) | 2:39 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 78 | [Aurelia](https://open.spotify.com/track/4o3t4IVF0w8LEQjSSMPVub) | [Pavlovin Kissa](https://open.spotify.com/artist/5PAllz0VJd0A7F5Fw5HIZz) | [Aurelia](https://open.spotify.com/album/0SHCKP5zfGn67QqAbNn5qJ) | 5:12 |
 | 79 | [honey, rise](https://open.spotify.com/track/6VUwK4JhuPqYmLINq9l9GA) | [Hilda Ruijs](https://open.spotify.com/artist/47SFL7zHeuUz5zufzbXOjP) | [Honey, rise](https://open.spotify.com/album/68TXJ2JsIgrmvtqBf8i5Tb) | 3:32 |
 
-Snapshot ID: `ZrUyDAAAAAAznYnenqFYxVIScgCAsZ7E`
+Snapshot ID: `Zrt9igAAAACiuJWrzGzF8ztDaIbGuLac`

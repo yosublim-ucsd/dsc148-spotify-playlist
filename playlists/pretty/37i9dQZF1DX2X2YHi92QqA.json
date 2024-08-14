@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83e\uddd8\ud83c\udf32",
-  "num_followers": 30732,
+  "num_followers": 30746,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW"
+        "name": "\u0411\u0443\u0442\u0438 \u043f\u0440\u043e\u0441\u0442\u0438\u043c",
+        "url": "https://open.spotify.com/album/1Fy0CYAFIRLbwsoejhHU4S"
       },
       "artists": [
         {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
         }
       ],
-      "duration_ms": 155213,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl"
+      "duration_ms": 151874,
+      "name": "\u0411\u0443\u0442\u0438 \u043f\u0440\u043e\u0441\u0442\u0438\u043c",
+      "url": "https://open.spotify.com/track/7sd4YTOKjvwHOXnWQw5CDb"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0411\u0443\u0442\u0438 \u043f\u0440\u043e\u0441\u0442\u0438\u043c",
-        "url": "https://open.spotify.com/album/1Fy0CYAFIRLbwsoejhHU4S"
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW"
       },
       "artists": [
         {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
         }
       ],
-      "duration_ms": 151874,
-      "name": "\u0411\u0443\u0442\u0438 \u043f\u0440\u043e\u0441\u0442\u0438\u043c",
-      "url": "https://open.spotify.com/track/7sd4YTOKjvwHOXnWQw5CDb"
+      "duration_ms": 155213,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
-        "url": "https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf"
-      },
-      "artists": [
-        {
-          "name": "Tina Karol",
-          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
-        }
-      ],
-      "duration_ms": 180495,
-      "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
-      "url": "https://open.spotify.com/track/5ErRotOfxOqygtKwW1Bkjd"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u041b\u0456\u0442\u043e\u043c",
         "url": "https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 133384,
       "name": "\u041b\u0456\u0442\u043e\u043c",
       "url": "https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
+        "url": "https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf"
+      },
+      "artists": [
+        {
+          "name": "Tina Karol",
+          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+        }
+      ],
+      "duration_ms": 180495,
+      "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
+      "url": "https://open.spotify.com/track/5ErRotOfxOqygtKwW1Bkjd"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "Made You Up",
-        "url": "https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0"
+        "name": "\u0426\u0456\u043b\u0443\u0439",
+        "url": "https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC"
       },
       "artists": [
         {
-          "name": "Tamara Kramar",
-          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        },
+        {
+          "name": "\u041c\u0423\u041b\u042c\u0422\u0418\u0422\u0420\u0415\u041a",
+          "url": "https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev"
         }
       ],
-      "duration_ms": 166245,
-      "name": "Made You Up",
-      "url": "https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s"
+      "duration_ms": 261500,
+      "name": "\u0426\u0456\u043b\u0443\u0439",
+      "url": "https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO"
     }
   ],
   "unique_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

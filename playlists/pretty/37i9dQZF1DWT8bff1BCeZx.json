@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 16993,
+  "num_followers": 17012,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
     },
     {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Definitely",
+        "url": "https://open.spotify.com/album/1N3vhfw1XG6hRVvrJsDRYV"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 228893,
+      "name": "Definitely",
+      "url": "https://open.spotify.com/track/6UeeHWPfpgo6wArO2H9KQL"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "The Assignment",
@@ -895,22 +911,6 @@
       "duration_ms": 195970,
       "name": "Welenga",
       "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Definitely",
-        "url": "https://open.spotify.com/album/1N3vhfw1XG6hRVvrJsDRYV"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "Definitely",
-      "url": "https://open.spotify.com/track/6UeeHWPfpgo6wArO2H9KQL"
     },
     {
       "added_at": "2023-12-15 00:01:00",

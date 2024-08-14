@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Dream Away",
+        "url": "https://open.spotify.com/album/6tpY6WD1dlvLYNnYizdZsg"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161579,
+      "name": "Dream Away",
+      "url": "https://open.spotify.com/track/68PEssUco3PVpOGrB9hmSU"
+    },
+    {
+      "album": {
         "name": "El Banco De La Plaza",
         "url": "https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3"
       },

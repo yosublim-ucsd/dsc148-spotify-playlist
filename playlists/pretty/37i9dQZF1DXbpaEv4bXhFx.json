@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 14493,
+  "num_followers": 14509,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
+        "name": "\ubd88\uaf43, \ub180\uc774",
+        "url": "https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "\ubd88\uaf43, \ub180\uc774",
+      "url": "https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
         "name": "Foggy",
         "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
       },
@@ -683,6 +699,26 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
+        "name": "HAPPEN",
+        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "From the Rain (Feat. Ahn Ye Eun)",
+      "url": "https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
         "name": "In the Rain",
         "url": "https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH"
       },
@@ -707,26 +743,6 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
-        "name": "HAPPEN",
-        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Ahn Ye Eun",
-          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "From the Rain (Feat. Ahn Ye Eun)",
-      "url": "https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
         "name": "Rainy Season",
         "url": "https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 222285,
       "name": "Rainy Season",
       "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
-        "name": "\ubd88\uaf43, \ub180\uc774",
-        "url": "https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "\ubd88\uaf43, \ub180\uc774",
-      "url": "https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4"
     },
     {
       "added_at": "2024-08-09 09:24:09",

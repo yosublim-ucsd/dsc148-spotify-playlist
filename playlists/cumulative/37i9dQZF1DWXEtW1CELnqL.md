@@ -2,7 +2,7 @@
 
 ### [Balec !](https://open.spotify.com/playlist/37i9dQZF1DWXEtW1CELnqL)
 
-> Laissez\-moi plonger, je suis médecin.
+> C'est qui l'patron ?
 
 168 songs - 9 hr 43 min
 

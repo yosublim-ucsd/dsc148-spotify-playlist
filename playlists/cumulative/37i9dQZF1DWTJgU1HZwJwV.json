@@ -4357,6 +4357,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152642,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx"
+    },
+    {
+      "album": {
         "name": "Like no other",
         "url": "https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb"
       },
@@ -5312,6 +5330,24 @@
       "duration_ms": 162410,
       "name": "Naufragados",
       "url": "https://open.spotify.com/track/7DrDuLNcpOX4Y5NKiFavUD"
+    },
+    {
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/5TtdccpSob63z0vq3YCibU"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152015,
+      "name": "Nebraska",
+      "url": "https://open.spotify.com/track/6hrYsj2thUTyvVRCBR1hJx"
     },
     {
       "album": {
@@ -6666,7 +6702,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 186301,
       "name": "Rovinj",
       "url": "https://open.spotify.com/track/6hSTsBLxqXM0WQhrmxZRpf"
@@ -8524,7 +8560,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 145589,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/4PGf1PPQKYIeAaOd3ESpMH"

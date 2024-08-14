@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 130220,
       "name": "Assaji",
       "url": "https://open.spotify.com/track/0VAyX04mjdpwMHmUCt63jL"
@@ -10917,6 +10917,28 @@
     },
     {
       "album": {
+        "name": "LOVE TRIP (feat. Hannah Warm)",
+        "url": "https://open.spotify.com/album/5DfUoeGRKrcC5eEaQ5gkgJ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hannah Warm",
+          "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242362,
+      "name": "LOVE TRIP (feat. Hannah Warm)",
+      "url": "https://open.spotify.com/track/42eeVyfEZSIdoEHTLx4mmQ"
+    },
+    {
+      "album": {
         "name": "Love You!!!!!!",
         "url": "https://open.spotify.com/album/0ecMSnvcWpp5lxHvs8sKGU"
       },
@@ -12922,7 +12944,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 223350,
       "name": "My Plan",
       "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
@@ -15868,6 +15890,24 @@
       "duration_ms": 178458,
       "name": "RECIPE feat. IRONBOY",
       "url": "https://open.spotify.com/track/4YclzoUsvIQOWidEpIuqBo"
+    },
+    {
+      "album": {
+        "name": "RED OUT",
+        "url": "https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151626,
+      "name": "RED OUT",
+      "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
     },
     {
       "album": {
@@ -20514,7 +20554,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
@@ -25194,6 +25234,24 @@
       "duration_ms": 209388,
       "name": "\u30d0\u30c3\u30af\u30df\u30e9\u30fc",
       "url": "https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30d9\u30eb",
+        "url": "https://open.spotify.com/album/39R0AYvD1DeKPwmXyTIWNa"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c\u5927\u6597",
+          "url": "https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180233,
+      "name": "\u30d0\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/3nZC3CWy9XLX7NclxSealw"
     },
     {
       "album": {

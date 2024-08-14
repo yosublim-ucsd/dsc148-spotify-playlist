@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 176843,
       "name": "(Not Much Going On Here)",
       "url": "https://open.spotify.com/track/7F4EmomSLlwLPCnfGgmrnj"
@@ -6009,6 +6009,28 @@
     },
     {
       "album": {
+        "name": "another time",
+        "url": "https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7"
+      },
+      "artists": [
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        },
+        {
+          "name": "morningtime",
+          "url": "https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154250,
+      "name": "another time",
+      "url": "https://open.spotify.com/track/3b9OgQr8jzUfdQPhe2Q9BW"
+    },
+    {
+      "album": {
         "name": "Another Token Jazz Hour",
         "url": "https://open.spotify.com/album/7rUfmoClCLgWbltGXW4ty4"
       },
@@ -9318,6 +9340,24 @@
       "duration_ms": 100253,
       "name": "Baert",
       "url": "https://open.spotify.com/track/21j64v2q4PkZsB1PGiRWwQ"
+    },
+    {
+      "album": {
+        "name": "BAGS",
+        "url": "https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52"
+      },
+      "artists": [
+        {
+          "name": "Seame",
+          "url": "https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "BAGS",
+      "url": "https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ"
     },
     {
       "album": {
@@ -95804,7 +95844,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 114527,
       "name": "Return Of The Cake",
       "url": "https://open.spotify.com/track/7hncde8jjBRQJvv4stz6QT"
@@ -128464,7 +128504,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-14",
       "duration_ms": 102857,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5g7PWXVsPFHYfpspMi2r1D"
@@ -132392,6 +132432,24 @@
       "duration_ms": 150447,
       "name": "Woollen Potato",
       "url": "https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK"
+    },
+    {
+      "album": {
+        "name": "Worcestershire dreaming",
+        "url": "https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj"
+      },
+      "artists": [
+        {
+          "name": "Low Couture",
+          "url": "https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Worcestershire dreaming",
+      "url": "https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587"
     },
     {
       "album": {

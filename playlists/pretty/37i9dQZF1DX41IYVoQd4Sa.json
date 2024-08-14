@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
-  "num_followers": 29997,
+  "num_followers": 29998,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
-        "name": "Until The Morning",
-        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
-        }
-      ],
-      "duration_ms": 151719,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
-    },
-    {
-      "added_at": "2024-08-08 21:00:00",
-      "album": {
         "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
         "url": "https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 189047,
       "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
       "url": "https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "Until The Morning",
+        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "duration_ms": 151719,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
     },
     {
       "added_at": "2024-08-08 21:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
+      },
+      "artists": [
+        {
+          "name": "GADEE",
+          "url": "https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Fool For Your Smile",
+      "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
         "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 168923,
       "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
       "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
-    },
-    {
-      "added_at": "2024-08-08 21:00:00",
-      "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
-      },
-      "artists": [
-        {
-          "name": "GADEE",
-          "url": "https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Fool For Your Smile",
-      "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
     },
     {
       "added_at": "2024-08-08 21:00:00",
@@ -955,38 +955,18 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
-        "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
-        "url": "https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR"
+        "name": "Water on Water",
+        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
       },
       "artists": [
         {
-          "name": "Jenny Penkin",
-          "url": "https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke"
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
         }
       ],
-      "duration_ms": 174750,
-      "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
-      "url": "https://open.spotify.com/track/116GDev72vb3hj162mjDGX"
-    },
-    {
-      "added_at": "2024-08-08 21:00:00",
-      "album": {
-        "name": "\u05e2\u05de\u05d5\u05e7 \u05d1\u05d0\u05d3\u05de\u05d4",
-        "url": "https://open.spotify.com/album/3QzgiDKlOlWPOfY8oRIdhA"
-      },
-      "artists": [
-        {
-          "name": "Patrick Sebag",
-          "url": "https://open.spotify.com/artist/7HVUcMJ2KO1lmcscDae1LC"
-        },
-        {
-          "name": "Erez Lev Ari",
-          "url": "https://open.spotify.com/artist/6ixcPs7utvM6GEIY5Lq8HN"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "\u05e2\u05de\u05d5\u05e7 \u05d1\u05d0\u05d3\u05de\u05d4",
-      "url": "https://open.spotify.com/track/311NxddQ4FbZxuhrnxBflc"
+      "duration_ms": 308093,
+      "name": "Carry me home",
+      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
     },
     {
       "added_at": "2024-08-08 21:00:00",
@@ -1011,22 +991,6 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
-        "name": "Water on Water",
-        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
-      },
-      "artists": [
-        {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
-        }
-      ],
-      "duration_ms": 308093,
-      "name": "Carry me home",
-      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
-    },
-    {
-      "added_at": "2024-08-08 21:00:00",
-      "album": {
         "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
         "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
       },
@@ -1043,6 +1007,42 @@
       "duration_ms": 235000,
       "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
       "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "\u05e2\u05de\u05d5\u05e7 \u05d1\u05d0\u05d3\u05de\u05d4",
+        "url": "https://open.spotify.com/album/3QzgiDKlOlWPOfY8oRIdhA"
+      },
+      "artists": [
+        {
+          "name": "Patrick Sebag",
+          "url": "https://open.spotify.com/artist/7HVUcMJ2KO1lmcscDae1LC"
+        },
+        {
+          "name": "Erez Lev Ari",
+          "url": "https://open.spotify.com/artist/6ixcPs7utvM6GEIY5Lq8HN"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "\u05e2\u05de\u05d5\u05e7 \u05d1\u05d0\u05d3\u05de\u05d4",
+      "url": "https://open.spotify.com/track/311NxddQ4FbZxuhrnxBflc"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
+        "url": "https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR"
+      },
+      "artists": [
+        {
+          "name": "Jenny Penkin",
+          "url": "https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
+      "url": "https://open.spotify.com/track/116GDev72vb3hj162mjDGX"
     },
     {
       "added_at": "2024-08-08 21:00:00",
