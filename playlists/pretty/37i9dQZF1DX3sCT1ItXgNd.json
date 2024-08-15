@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Noan, Marlena",
-  "num_followers": 964881,
+  "num_followers": 964886,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-08-12 15:39:23",
       "album": {
+        "name": "INSOMNIO",
+        "url": "https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 218710,
+      "name": "INSOMNIO",
+      "url": "https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi"
+    },
+    {
+      "added_at": "2024-08-12 15:39:23",
+      "album": {
         "name": "PACMAN",
         "url": "https://open.spotify.com/album/3Izuvz6d3sTmIEnbFCljao"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 168292,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP"
-    },
-    {
-      "added_at": "2024-08-12 15:39:23",
-      "album": {
-        "name": "INSOMNIO",
-        "url": "https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 218710,
-      "name": "INSOMNIO",
-      "url": "https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi"
     },
     {
       "added_at": "2024-08-12 15:39:23",

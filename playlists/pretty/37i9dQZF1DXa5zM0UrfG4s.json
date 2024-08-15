@@ -1,6 +1,6 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 111219,
+  "num_followers": 111263,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Dunka",
-        "url": "https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7"
+        "name": "FREDAG",
+        "url": "https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u"
       },
       "artists": [
         {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
         },
         {
-          "name": "Emil Asserg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
+          "name": "Jamze",
+          "url": "https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX"
         }
       ],
-      "duration_ms": 133800,
-      "name": "Dunka",
-      "url": "https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL"
+      "duration_ms": 127026,
+      "name": "FREDAG",
+      "url": "https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -527,22 +527,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "FREDAG",
-        "url": "https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u"
+        "name": "Dunka",
+        "url": "https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7"
       },
       "artists": [
         {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
         },
         {
-          "name": "Jamze",
-          "url": "https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX"
+          "name": "Emil Asserg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
         }
       ],
-      "duration_ms": 127026,
-      "name": "FREDAG",
-      "url": "https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU"
+      "duration_ms": 133800,
+      "name": "Dunka",
+      "url": "https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1039,22 +1039,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
-        "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
+        "name": "Sus & Dus (feat. Lothepus)",
+        "url": "https://open.spotify.com/album/6icNeVKB69STNb6TPBzfcW"
       },
       "artists": [
         {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
         },
         {
-          "name": "N!NE",
-          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+          "name": "Lothepus",
+          "url": "https://open.spotify.com/artist/2HEAdsUVqQO9KqF1wKmHOO"
         }
       ],
-      "duration_ms": 173986,
-      "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
-      "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
+      "duration_ms": 150117,
+      "name": "Sus & Dus (feat. Lothepus)",
+      "url": "https://open.spotify.com/track/0WVAxyXM6QKD6eyZiecgwM"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
+        "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        },
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
+      "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Rull\u00e6r",
         "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 147934,
       "name": "Rull\u00e6r",
       "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Sus & Dus (feat. Lothepus)",
-        "url": "https://open.spotify.com/album/6icNeVKB69STNb6TPBzfcW"
-      },
-      "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
-        },
-        {
-          "name": "Lothepus",
-          "url": "https://open.spotify.com/artist/2HEAdsUVqQO9KqF1wKmHOO"
-        }
-      ],
-      "duration_ms": 150117,
-      "name": "Sus & Dus (feat. Lothepus)",
-      "url": "https://open.spotify.com/track/0WVAxyXM6QKD6eyZiecgwM"
     },
     {
       "added_at": "2024-08-08 22:00:00",

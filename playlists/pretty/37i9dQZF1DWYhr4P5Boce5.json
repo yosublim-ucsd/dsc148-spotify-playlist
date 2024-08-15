@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 203904,
+  "num_followers": 203922,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "The Glorious Unfolding",
+        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -983,18 +999,18 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "The Glorious Unfolding",
-        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
+        "name": "i do",
+        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
       },
       "artists": [
         {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+          "name": "Coby James",
+          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
         }
       ],
-      "duration_ms": 242746,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
+      "duration_ms": 151016,
+      "name": "i do",
+      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1011,22 +1027,6 @@
       "duration_ms": 203699,
       "name": "A Red, Red Rose",
       "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "i do",
-        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
-      },
-      "artists": [
-        {
-          "name": "Coby James",
-          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "i do",
-      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Came True",
-        "url": "https://open.spotify.com/album/6uIN4DNkaaSxXgovWhrz87"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Chavyn Jaice",
-          "url": "https://open.spotify.com/artist/5Xf7bP1HuOB3fe0julaUox"
-        }
-      ],
-      "duration_ms": 188083,
-      "name": "Came True",
-      "url": "https://open.spotify.com/track/4TU8JQCnNPG1l0ZL8c7lPf"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Me + You = Pi",
         "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 200133,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Came True",
+        "url": "https://open.spotify.com/album/6uIN4DNkaaSxXgovWhrz87"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Chavyn Jaice",
+          "url": "https://open.spotify.com/artist/5Xf7bP1HuOB3fe0julaUox"
+        }
+      ],
+      "duration_ms": 188083,
+      "name": "Came True",
+      "url": "https://open.spotify.com/track/4TU8JQCnNPG1l0ZL8c7lPf"
     },
     {
       "added_at": "2024-07-17 04:46:48",

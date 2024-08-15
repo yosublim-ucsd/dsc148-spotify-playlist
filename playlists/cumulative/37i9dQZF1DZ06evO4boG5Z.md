@@ -2,7 +2,7 @@
 
 ### [This Is Millencolin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4boG5Z)
 
-> This Is Millencolin\. Los temas esenciales, todos en una lista.
+> This is Millencolin。アーティストの代表曲をひとつのプレイリストに。
 
 65 songs - 2 hr 55 min
 

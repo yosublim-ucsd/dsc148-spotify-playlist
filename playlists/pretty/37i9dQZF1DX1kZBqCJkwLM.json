@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Tiffany Day",
-  "num_followers": 85481,
+  "num_followers": 85476,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "NOT RN!",
-        "url": "https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3"
-      },
-      "artists": [
-        {
-          "name": "Lara Andallo",
-          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
-        }
-      ],
-      "duration_ms": 160600,
-      "name": "NOT RN!",
-      "url": "https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 314848,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "NOT RN!",
+        "url": "https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3"
+      },
+      "artists": [
+        {
+          "name": "Lara Andallo",
+          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "NOT RN!",
+      "url": "https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Stomachache",
-        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
-      },
-      "artists": [
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Stomachache",
-      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "GORGEOUS",
         "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 149973,
       "name": "GORGEOUS",
       "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Stomachache",
+        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Stomachache",
+      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1519,18 +1519,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "EXPIRED",
-        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
+        "name": "Ija (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf"
       },
       "artists": [
         {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 146739,
-      "name": "EXPIRED",
-      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
+      "duration_ms": 190822,
+      "name": "Ija - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x"
     }
   ],
   "unique_name": "Dope AF",

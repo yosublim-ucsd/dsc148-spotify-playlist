@@ -1,6 +1,6 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1952377,
+  "num_followers": 1952690,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67"
+      },
+      "artists": [
+        {
+          "name": "Pool Blue",
+          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Almost a Lover",
         "url": "https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 121470,
       "name": "Almost a Lover",
       "url": "https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67"
-      },
-      "artists": [
-        {
-          "name": "Pool Blue",
-          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Rising Tide",
-        "url": "https://open.spotify.com/album/6Kgq1g1dBScLhBptkdixJH"
-      },
-      "artists": [
-        {
-          "name": "Jonas Schilling",
-          "url": "https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf"
-        }
-      ],
-      "duration_ms": 451013,
-      "name": "Rising Tide",
-      "url": "https://open.spotify.com/track/2XZMSf5ojQCuTZggSmXdKd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Santa Fe",
         "url": "https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 177272,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/46hBN101eELE1lhjYPauSx"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Rising Tide",
+        "url": "https://open.spotify.com/album/6Kgq1g1dBScLhBptkdixJH"
+      },
+      "artists": [
+        {
+          "name": "Jonas Schilling",
+          "url": "https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf"
+        }
+      ],
+      "duration_ms": 451013,
+      "name": "Rising Tide",
+      "url": "https://open.spotify.com/track/2XZMSf5ojQCuTZggSmXdKd"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP"
+      },
+      "artists": [
+        {
+          "name": "D.Polo",
+          "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
+        }
+      ],
+      "duration_ms": 148020,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1mf1rH0dbDHSYDJ97BrFwA"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Don't Worry",
         "url": "https://open.spotify.com/album/1JY1js3AQi74qUZhqG6xrL"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 195160,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/1nOwt0eXrd8z2i2Q7Hqjdc"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP"
-      },
-      "artists": [
-        {
-          "name": "D.Polo",
-          "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
-        }
-      ],
-      "duration_ms": 148020,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1mf1rH0dbDHSYDJ97BrFwA"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1095,38 +1095,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
-      },
-      "artists": [
-        {
-          "name": "Together Alone",
-          "url": "https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY"
-        }
-      ],
-      "duration_ms": 157992,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sona",
-        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
-      },
-      "artists": [
-        {
-          "name": "Valante",
-          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
-        }
-      ],
-      "duration_ms": 212384,
-      "name": "Sona",
-      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94"
       },
@@ -1143,6 +1111,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
+      },
+      "artists": [
+        {
+          "name": "Together Alone",
+          "url": "https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY"
+        }
+      ],
+      "duration_ms": 157992,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "The right mood",
         "url": "https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 192913,
       "name": "The right mood",
       "url": "https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sona",
+        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
+      },
+      "artists": [
+        {
+          "name": "Valante",
+          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
+        }
+      ],
+      "duration_ms": 212384,
+      "name": "Sona",
+      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Balearic Dream",
+        "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
+      },
+      "artists": [
+        {
+          "name": "Gueves",
+          "url": "https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Balearic Dream",
+      "url": "https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "The Screen",
         "url": "https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 245106,
       "name": "Suen\u0303o Lu\u0301cido",
       "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Balearic Dream",
-        "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
-      },
-      "artists": [
-        {
-          "name": "Gueves",
-          "url": "https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Balearic Dream",
-      "url": "https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hands Together",
-        "url": "https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p"
-      },
-      "artists": [
-        {
-          "name": "SOL LOS",
-          "url": "https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Hands Together",
-      "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Sunset Serene",
         "url": "https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hands Together",
+        "url": "https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p"
+      },
+      "artists": [
+        {
+          "name": "SOL LOS",
+          "url": "https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Hands Together",
+      "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
     },
     {
       "added_at": "2024-07-26 04:00:00",

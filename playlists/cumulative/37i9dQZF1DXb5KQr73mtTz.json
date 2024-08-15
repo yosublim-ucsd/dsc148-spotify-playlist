@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Be My Ocean",
+        "url": "https://open.spotify.com/album/2Vhce1mkaprg4INwzvIqjj"
+      },
+      "artists": [
+        {
+          "name": "IOHBOY",
+          "url": "https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "Be My Ocean",
+      "url": "https://open.spotify.com/track/4560QJxyBz4vegD6AA8b10"
+    },
+    {
+      "album": {
         "name": "The Secret Romantic Guesthouse Part.7",
         "url": "https://open.spotify.com/album/2DH1P6vmUri5tABIbRrYAt"
       },
@@ -2256,7 +2274,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 216830,
       "name": "Let`s never meet again",
       "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"

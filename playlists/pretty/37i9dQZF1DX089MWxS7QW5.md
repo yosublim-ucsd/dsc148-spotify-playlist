@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: jeebanoff\(지바노프\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,665 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,689 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 17 | [Nirvana Blues](https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [YIN](https://open.spotify.com/album/3SKAMCBO0FkSyKIO4aqsIs) | 2:54 |
 | 18 | [In My Place](https://open.spotify.com/track/3YpqXTPxHMazmpUf34XTr7) | [Jane B](https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1) | [DESIRE](https://open.spotify.com/album/5dQaplWsYS1xh6LRUAq6GW) | 2:44 |
 | 19 | [Squat](https://open.spotify.com/track/2tAxxd0meQYAe9RV41J3fJ) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [Squat](https://open.spotify.com/album/3LB7rCViWkPB7fQhRNwiOR) | 2:40 |
-| 20 | [it's my fault](https://open.spotify.com/track/3CQJRcZf9yNgIDCQBllfxx) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [gimbap](https://open.spotify.com/album/50xp8elLZomzlu6uE4RebW) | 3:30 |
+| 20 | [it's my fault](https://open.spotify.com/track/3CQJRcZf9yNgIDCQBllfxx) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [it's my fault](https://open.spotify.com/album/50xp8elLZomzlu6uE4RebW) | 3:30 |
 | 21 | [Dive](https://open.spotify.com/track/61zU5KDGPC3OIYOwJJvbbC) | [YOON SAN\-HA \(ASTRO\)](https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW) | [DUSK](https://open.spotify.com/album/2jbCByI5iMiDkkuTqq9RzF) | 2:48 |
 | 22 | [palindrome](https://open.spotify.com/track/1dVkhC11bocbMGiJw8RZ0I) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [palindrome](https://open.spotify.com/album/7KSmXVUSnMZRG0jQghsTVh) | 3:08 |
 | 23 | [Whatever She Wants \(Feat\. Eric Minz, Ted Park\)](https://open.spotify.com/track/1K8yxW8JUJF3O93K5Y8z9w) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [love ll](https://open.spotify.com/album/2J77Vi9sThWmB0kqR57jrP) | 3:34 |

@@ -2,7 +2,7 @@
 
 ### [This Is Harold Budd](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21YUWA)
 
-> This is Harold Budd\. The essential tracks, all in one playlist.
+> This is: Harold Budd\. Alle wichtigen Tracks in einer Playlist.
 
 126 songs - 9 hr 52 min
 

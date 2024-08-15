@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/019a0Q0A8WEfLxoWT3Fl7h?si=HRfzclrCT5yHeDWpKHdpgg">KuchiCola</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq?si=FM0lfCEjTF\-SyE\_rdFdecQ">Mwami</a>\. Artwork: Isu Kim.
 
 991 songs - 2 day 1 hr 51 min
 

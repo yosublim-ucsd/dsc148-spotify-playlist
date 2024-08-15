@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,794 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,808 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 77 | [kelet](https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Signo](https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s) | [kelet](https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3) | 3:27 |
 | 78 | [GÁZ](https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo) | [GÁZ](https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp) | 3:05 |
 | 79 | [MENTALITAT](https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [MENTALITAT](https://open.spotify.com/album/7jLv7WmSyuS3jVjTMg1H95) | 2:32 |
-| 80 | [Cigány\-ügy](https://open.spotify.com/track/4fzbwV7qglR3mPit64hXse) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI), [Érdi Baba](https://open.spotify.com/artist/5CPKLSKScYKTRdr491KCJu) | [Cigány\-ügy](https://open.spotify.com/album/4wsF3ZBcwC74KWDMiWFjui) | 3:39 |
+| 80 | [ROSSZ ÖTLET](https://open.spotify.com/track/5oMm7nr3dQsNDnVNzgeFeg) | [Mihályfi Luca](https://open.spotify.com/artist/0D6r3l2qcIowUMJ2Odb9ot), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [ROSSZ ÖTLET](https://open.spotify.com/album/2edYWz5cD17JvfppjOChrG) | 2:56 |
 
 Snapshot ID: `ZrnKpgAAAADwPZzaLQ5ZwaAeQVLkmpIZ`

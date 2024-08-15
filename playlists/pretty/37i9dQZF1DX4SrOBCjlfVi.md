@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Polo G, Lil Tecca, Latto and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,128 likes - 49 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,253 likes - 49 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 45 | [Never Fold](https://open.spotify.com/track/3qXKedpMh4zUFRUljwHT8C) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Never Fold](https://open.spotify.com/album/68deIdFlxBeQw5f7ymxIdV) | 4:48 |
 | 46 | [Belong to Us](https://open.spotify.com/track/2PO0jPmOUJIptyH9rCcWsg) | [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Baby 5](https://open.spotify.com/album/3OxT1f0BcuhojqrSpY969f) | 2:44 |
 | 47 | [Provider](https://open.spotify.com/track/08BFS5v1nfJO8cnNqmuZGS) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Provider](https://open.spotify.com/album/3XJaGjWc4WWbYscxJoE5QI) | 2:33 |
-| 48 | [INSTANT TRANSFER](https://open.spotify.com/track/1duL1mw9wWk0Dj0WfvQQD2) | [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [INSTANT TRANSFER](https://open.spotify.com/album/32r3qSRm8OvUcT8UaUmb88) | 2:49 |
+| 48 | [INSTANT TRANSFER \(feat\. billy woods\)](https://open.spotify.com/track/1duL1mw9wWk0Dj0WfvQQD2) | [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [INSTANT TRANSFER](https://open.spotify.com/album/32r3qSRm8OvUcT8UaUmb88) | 2:49 |
 | 49 | [Pretty Girls Like Chanel](https://open.spotify.com/track/7D2ovly90XgwlgoBPrnjlP) | [Rodie Senpai](https://open.spotify.com/artist/3bsEGWlrq9ri0MdcEPIQsg) | [Pretty Girls Like Chanel](https://open.spotify.com/album/3Omif0Js6taUr4xKSnHfOV) | 2:03 |
 
 Snapshot ID: `ZrWUQAAAAAABJHuFV/O6I+Zy+1Y6vsGQ`

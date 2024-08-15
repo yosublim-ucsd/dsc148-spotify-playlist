@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,546 likes - 200 songs - 10 hr 54 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,542 likes - 200 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 84 | [Prelude in B Minor, BWV 855a \(Transcribed by Alexander Siloti\)](https://open.spotify.com/track/5TMxqAA2kfj9BpDFKbvpwl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Prelude in B Minor, BWV 855a \(Transcribed by Alexander Siloti\)](https://open.spotify.com/album/4Bz7EaaTAu89637GXU2h44) | 1:39 |
 | 85 | [Les berceaux, Op\. 23, No\. 1](https://open.spotify.com/track/7CznDh5LtUbLB9CMyEsovY) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Azul Lima](https://open.spotify.com/artist/4yFp2S4pGvGLXyNct6e2Q3) | [Les berceaux, Op\. 23, No\. 1](https://open.spotify.com/album/0BMLPugDyUgKokqLQaGXRE) | 2:41 |
 | 86 | [Prelude in Lodz](https://open.spotify.com/track/617wKmpcrnVGdvce7drZAy) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ), [Julia Kotarba](https://open.spotify.com/artist/2lx9raTcn0VcuURpecfa0L) | [Prelude in Lodz](https://open.spotify.com/album/1jhJAVLgGXABBxrPEriK15) | 3:14 |
-| 87 | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/track/6EECg7sQ7hepoC0V9k0Lbo) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/album/6ab8afxMKM66rnuOIW8Hdw) | 1:22 |
+| 87 | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/track/6EECg7sQ7hepoC0V9k0Lbo) | [Yu\-Peng Chen](https://open.spotify.com/artist/4DD6LTHmvZVeLD5umO5Yvi), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/album/6ab8afxMKM66rnuOIW8Hdw) | 1:22 |
 | 88 | [Intro](https://open.spotify.com/track/3EfkxwXdP8dJJB7OLT33eX) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Intro](https://open.spotify.com/album/7rYZqMPpU0Ng95S9ijPmJz) | 1:04 |
 | 89 | [Resilience](https://open.spotify.com/track/6DRJualYZ2JRCZX8Gmozmq) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Room of Reflection](https://open.spotify.com/album/3mpLrS6u9l4IBtKJn6qpyI) | 3:12 |
 | 90 | [The Arts and the Hours \(Arr\. for Guitar by Michael Lewin\)](https://open.spotify.com/track/16R3RNmbJohG6Lbn3qvexB) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Baroque](https://open.spotify.com/album/21RQ5ToNB79hGsqOobGGQi) | 5:15 |

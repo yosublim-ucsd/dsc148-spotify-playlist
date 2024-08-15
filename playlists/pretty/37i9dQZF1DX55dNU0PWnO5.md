@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,023 likes - 200 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,051 likes - 200 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 80 | [Expedition](https://open.spotify.com/track/5xCeDshnYgGftDALYye1EQ) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Expedition](https://open.spotify.com/album/42rnoZ9GP4PYb31JO4vvd4) | 2:50 |
 | 81 | [Light Years](https://open.spotify.com/track/0un4iPkl5VKOBDB7toAfDL) | [Oliver Crosby](https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Light Years](https://open.spotify.com/album/3lW2VJlcx0k7yujtAY10Ij) | 3:18 |
 | 82 | [The Path](https://open.spotify.com/track/4Xr8WBVperOkz9VbNniPdZ) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [Protonebula](https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun), [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M) | [The Path](https://open.spotify.com/album/619tv6INqR5CiZM21mVqN4) | 2:49 |
-| 83 | [Angels](https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k) | [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [David Ecker](https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx) | [Angels](https://open.spotify.com/album/2c44svxGGe3GfBT9icMZot) | 2:08 |
+| 83 | [Angels](https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k) | [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [David Ecker](https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx) | [Angels](https://open.spotify.com/album/2c44svxGGe3GfBT9icMZot) | 2:08 |
 | 84 | [Roadtrip](https://open.spotify.com/track/6CgO7zdkjZAGYRBQEwW4PB) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Roadtrip](https://open.spotify.com/album/0Zwx0351xqPWkXHyN50PjF) | 3:00 |
 | 85 | [The Universe](https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [DNA](https://open.spotify.com/artist/5gozUmtTMvu0lBH00XZ8fT) | [The Universe](https://open.spotify.com/album/32nPQigQIFZJCeDbUjVydx) | 7:07 |
 | 86 | [Star People](https://open.spotify.com/track/05e1iH6Hcz8LZUFl0U3kBr) | [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Octavio N\. Santos](https://open.spotify.com/artist/1zLKXXVKUAPbO55p6tLJZP) | [Star People](https://open.spotify.com/album/7vdh7pMJQXFWj0EGxyghJK) | 3:02 |

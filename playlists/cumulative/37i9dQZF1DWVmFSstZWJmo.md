@@ -4,7 +4,7 @@
 
 > Is "indie sleaze" in the room with us now? ft\. The Dare
 
-236 songs - 14 hr 51 min
+237 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [New Song](https://open.spotify.com/track/0wahZq8vVkgHtCAsD5qdZJ) | [Datarock](https://open.spotify.com/artist/4foARo5aSfuIuDLupoxK4k) | [Datarock Datarock](https://open.spotify.com/album/1qwNBiFcleOs6H6sPWnywJ) | 2:37 | 2023-04-14 | 2023-04-27 |
 | [New York](https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [New York / LA Hex](https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK) | 4:04 | 2023-08-02 | 2023-11-13 |
 | [night n day](https://open.spotify.com/track/1oh4lrXTtMIxDQCn2GjdAO) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [night n day](https://open.spotify.com/album/0Ayl2BZ4q57Lzg2kIUDkiJ) | 3:46 | 2023-03-24 | 2023-05-13 |
+| [No Romeo](https://open.spotify.com/track/3DcYixBxoDbaTCxpi21bkE) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [No Romeo](https://open.spotify.com/album/6VUywx6HtRUtHSUG0zGW18) | 3:19 | 2024-08-14 |  |
 | [No Sleep Till Brooklyn](https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 4:06 | 2023-04-14 | 2023-05-03 |
 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 | 2023-05-17 |  |
 | [Nrrrd Grrrl](https://open.spotify.com/track/0aCmgRCXQkUg7rrbAnm4ag) | [MC Chris](https://open.spotify.com/artist/0IK6TvlarNMoBZ7KdyjZIf) | [MC Chris Is Dead](https://open.spotify.com/album/2rd1fdi76r1pATpVwkUjY9) | 2:27 | 2023-04-14 | 2023-04-27 |
@@ -190,7 +191,7 @@
 | [Root Canal](https://open.spotify.com/track/2ZApMdEJTXJ97h6bRw4ZvL) | [Mother Cell](https://open.spotify.com/artist/3risBr1IVWlfdA4TIFMPBc) | [Powerhouse](https://open.spotify.com/album/26LcXJfjgtI5JHj2AJplln) | 3:42 | 2023-04-14 | 2023-04-27 |
 | [Round and Round](https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J) | 5:08 | 2023-09-05 |  |
 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 | 2023-09-05 |  |
-| [Save Me](https://open.spotify.com/track/1lKOLGBssrtcgxE47Hou5K) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Save Me](https://open.spotify.com/album/0PIBhidWmPmdMusP5rWdzQ) | 3:00 | 2024-08-08 |  |
+| [Save Me](https://open.spotify.com/track/1lKOLGBssrtcgxE47Hou5K) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Save Me](https://open.spotify.com/album/0PIBhidWmPmdMusP5rWdzQ) | 3:00 | 2024-08-08 | 2024-08-15 |
 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 | 2023-04-14 | 2023-05-18 |
 | [Set It Off \- Justin Martin Remix \- Edit](https://open.spotify.com/track/180HzxiKFEfZ93MDKZ7cWZ) | [Strafe](https://open.spotify.com/artist/7MRMahYCfHhumbcvdV8joK), [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Set It Off \(Justin Martin Remixes\)](https://open.spotify.com/album/79MyRHXW9wU4kOWWwb1mm8) | 4:20 | 2023-04-14 | 2023-04-27 |
 | [Seventeen](https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Light & Magic](https://open.spotify.com/album/3Ebj5hs8pdTolvQpzpdcoO) | 4:37 | 2022-11-10 | 2023-02-25 |

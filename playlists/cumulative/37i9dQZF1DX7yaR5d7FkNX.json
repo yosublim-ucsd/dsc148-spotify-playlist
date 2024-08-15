@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Estar\u00e9 - La negra noche",
+        "url": "https://open.spotify.com/album/4Q174ay4gpWj09C9iM70RE"
+      },
+      "artists": [
+        {
+          "name": "Garam Masala",
+          "url": "https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250882,
+      "name": "Estar\u00e9",
+      "url": "https://open.spotify.com/track/0Brnl4Q8d0i6ejfexrUUmv"
+    },
+    {
+      "album": {
         "name": "Estrella Fugaz",
         "url": "https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY"
       },

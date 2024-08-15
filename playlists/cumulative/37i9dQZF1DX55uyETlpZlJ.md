@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-375 songs - 20 hr 22 min
+376 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Plz Worry](https://open.spotify.com/track/2AUqf4UqfXOfVH1LwpDOO5) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Plz Worry](https://open.spotify.com/album/1ioeFt8iKr7I7oWltSw67o) | 5:52 | 2024-02-01 |  |
 | [Prabhata](https://open.spotify.com/track/1QqwgZXjOjK8mMXqHtU9eF) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Maharshi Vishwamitra](https://open.spotify.com/artist/4rkwNV7E2Um36KSbvWVu8X) | [Kolahala](https://open.spotify.com/album/0hnQ84XGDpWc5Gp1voTCCS) | 1:09 | 2024-04-26 |  |
 | [Preethi andre higena](https://open.spotify.com/track/2II577XDmMSECcdZAUAxVz) | [Dolwin Kolalagiri](https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk), [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Vidya Suvarna](https://open.spotify.com/artist/34qIICjea7gcCbwklDhmq2) | [Preethi andre higena](https://open.spotify.com/album/3p60JgIzxmvRLRqwpUXaRO) | 3:57 | 2024-07-08 |  |
+| [Preethi Anno Dyavru](https://open.spotify.com/track/608jUiP43iZPtJJTBryeZ4) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Preethi Anno Dyavru](https://open.spotify.com/album/0xG8YWLgFSeyDCygRX9h97) | 4:04 | 2024-08-14 |  |
 | [Preetiye](https://open.spotify.com/track/4aXgkyxFn7c0tMOHgUdhet) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Preetiye](https://open.spotify.com/album/3CvlEQEBS8oUKbAZUfWwEo) | 1:05 | 2023-08-23 | 2024-04-04 |
 | [Prema Sagara](https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p) | [Manikanta Naik Puttur](https://open.spotify.com/artist/2dLmrYEdVGzU8QITguTmDf) | [Prema Sagara](https://open.spotify.com/album/4UU73MuvQoCzYc4CdIGmwO) | 4:19 | 2023-05-25 | 2023-06-08 |
 | [Psych Boy](https://open.spotify.com/track/4zVzWfJ7fELjRrWxWvjHIF) | [X Paapi Psycho](https://open.spotify.com/artist/2xVVYDPi4Kb3pMrV47nrww), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Psych Boy](https://open.spotify.com/album/1KjvaQIdZq8YfChkgCGDx7) | 2:10 | 2023-05-26 | 2024-01-23 |

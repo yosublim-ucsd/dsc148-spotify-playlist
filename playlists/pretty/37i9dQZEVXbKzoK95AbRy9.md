@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,415 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,493 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Eu So Comi Ela uma Vez](https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa) | [Dj VN Maestro](https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L), [MC G DS](https://open.spotify.com/artist/1xIma0CABaifVU5xJAqAAs) | [Eu So Comi Ela uma Vez](https://open.spotify.com/album/3Wt4fIdsPcbuOHpQvASMkQ) | 1:47 |
 | 50 | [Só Vou Namorar](https://open.spotify.com/track/4xEYeY9OSYP7c8dSwlpBFD) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L) | [Só Vou Namorar](https://open.spotify.com/album/43hNZsJoa5XgeIbWY5HvVF) | 2:44 |
 
-Snapshot ID: `Lk7HcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LlAWmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

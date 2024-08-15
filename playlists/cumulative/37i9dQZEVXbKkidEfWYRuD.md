@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,555 songs - 3 day 0 hr 12 min
+1,556 songs - 3 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-29 | 2023-08-01 |
 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2023-10-09 | 2023-10-14 |
 | [i dont wna cry \(haste\)](https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i dont wna cry](https://open.spotify.com/album/5AIZKUZZW9RE3xhTf64h39) | 2:01 | 2023-05-25 | 2023-07-02 |
-| [I GOT U](https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [I GOT U](https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4) | 2:43 | 2024-06-17 |  |
+| [I GOT U](https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [I GOT U](https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4) | 2:43 | 2024-06-17 | 2024-08-15 |
 | [I Like It](https://open.spotify.com/track/04A4WyCRyHQ8Nb3u3IsfzH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-20 | 2024-07-22 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-20 | 2024-07-13 |
 | [i like the way you kiss me](https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:22 | 2024-07-12 |  |
@@ -1295,7 +1295,7 @@
 | [По Глазам](https://open.spotify.com/track/53bbEINuw0ez3ntLcqYCu2) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [АРТЁМ](https://open.spotify.com/album/41uurV69BIoO6FwaRdXkWo) | 2:00 | 2021-03-27\* | 2021-05-05 |
 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 | 2023-12-01 |  |
 | [Погані сусіди](https://open.spotify.com/track/16buytNF31fLKzDP9q7ZEg) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Погані сусіди](https://open.spotify.com/album/4cag70AzB98J6JePUV9pqv) | 2:53 | 2023-05-07 | 2023-06-27 |
-| [Погляд](https://open.spotify.com/track/66Xj2OpnDALdW0G509b9yY) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [SOBOL'](https://open.spotify.com/artist/2tzrAdVhSe0qIQBpedBCHh) | [Погляд](https://open.spotify.com/album/2U3ecGQPqMwXz4vSOps8Td) | 2:56 | 2023-03-08 |  |
+| [Погляд](https://open.spotify.com/track/66Xj2OpnDALdW0G509b9yY) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [SOBOL'](https://open.spotify.com/artist/2tzrAdVhSe0qIQBpedBCHh) | [Погляд](https://open.spotify.com/album/2U3ecGQPqMwXz4vSOps8Td) | 2:56 | 2023-03-08 | 2024-08-15 |
 | [Погоди](https://open.spotify.com/track/5sJt5rmSaKTQyAymKx6e1W) | [DSPRITE](https://open.spotify.com/artist/69PhufCTrndjECAUsBPFtw) | [Погоди](https://open.spotify.com/album/4yNMRTBvOZvRDLGSNLMOtQ) | 1:52 | 2021-11-26 | 2021-12-19 |
 | [Под Звездопадом](https://open.spotify.com/track/4XNPw2OPBGxIIhNLnNbZIi) | [Tima Belorusskih](https://open.spotify.com/artist/0bOSNnz9bGAUlV3OJ3rnQW) | [Под Звездопадом](https://open.spotify.com/album/0YSNqKlD2U2GHaxKCF4XB3) | 3:36 | 2021-06-20 | 2021-07-04 |
 | [ПОДАРОК](https://open.spotify.com/track/1Mm9DXmUXT2xiCQAZPEEaK) | [АКУЛИЧ](https://open.spotify.com/artist/5DUv28BBZb6uQ0VLaZ36XZ), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ПОДАРОК](https://open.spotify.com/album/6CgHw7fVn7IGRn6UxLbIf3) | 2:39 | 2024-02-17 | 2024-03-18 |
@@ -1334,7 +1334,7 @@
 | [Расстояние](https://open.spotify.com/track/10sZQtPs0nGSQOl8usFePV) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:05 | 2021-04-10 | 2021-04-11 |
 | [Рашн Роуд Рейдж](https://open.spotify.com/track/0zkmYBCfhQQ4GObqz2HQG3) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:38 | 2021-12-03 | 2021-12-06 |
 | [Ребром](https://open.spotify.com/track/2aQgGle0AyaUEA70sA9Nnf) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [NO BANG! HOLD ON!](https://open.spotify.com/album/7uLeEgq6ndnivtW6Kwh5ar) | 2:18 | 2022-03-26 | 2022-03-28 |
-| [РЕВНУЮ](https://open.spotify.com/track/6wgxu2H2aZ0Plw8gKZ8WG9) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [Liza Evans](https://open.spotify.com/artist/34uLjhAZJbOcYI3pHkpSvD) | [WE LIVE ONLY ONCE](https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d) | 2:41 | 2024-08-10 | 2024-08-14 |
+| [РЕВНУЮ](https://open.spotify.com/track/6wgxu2H2aZ0Plw8gKZ8WG9) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [Liza Evans](https://open.spotify.com/artist/34uLjhAZJbOcYI3pHkpSvD) | [WE LIVE ONLY ONCE](https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d) | 2:41 | 2024-08-10 |  |
 | [РЕТРО РЕЙВ](https://open.spotify.com/track/0IaWYTFIHIu1iHytmq3gup) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 2:47 | 2021-05-22 | 2021-06-06 |
 | [Рецензия](https://open.spotify.com/track/2xwQZ8jVguSb48BvkRrxK7) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 1:07 | 2021-12-04 | 2021-12-05 |
 | [Ржавый](https://open.spotify.com/track/34uMKnzufwyZJWHLcbaYTz) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [СХИК2](https://open.spotify.com/album/44wvsZUldIhxQ9qtnLN1ji) | 2:20 | 2023-11-11 | 2023-11-16 |
@@ -1563,5 +1563,6 @@
 | [Імперії впадуть](https://open.spotify.com/track/1t0gvj21K9Fscs5fxm4UJ9) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Імперії впадуть](https://open.spotify.com/album/1TqtbPIimI2tdzotfacuku) | 5:05 | 2021-11-21 | 2021-11-22 |
 | [інша любов](https://open.spotify.com/track/24s8SuDR01re1GxkELG7d0) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/4zcUoQhejdz93W8CS1Yzsx) | 4:08 | 2022-07-16 | 2022-10-18 |
 | [інша любов](https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/1v4P2Q4F6T31loiqLmREFg) | 4:08 | 2022-10-17 | 2023-07-20 |
+| [Їде дах](https://open.spotify.com/track/6o6FSfuZKyaFQjTDWrNLx0) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [Їде дах](https://open.spotify.com/album/0TEDqckCsqdG080yh5IiVP) | 3:00 | 2024-08-14 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

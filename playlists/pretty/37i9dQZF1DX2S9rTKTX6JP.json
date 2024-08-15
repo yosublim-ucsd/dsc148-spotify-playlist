@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 687788,
+  "num_followers": 687926,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
+        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 187189,
+      "name": "Be Quiet and Drive (Far Away)",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 165000,
       "name": "Waiting For Love - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
-        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 187189,
-      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 162411,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "ReAniMate 2.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 188573,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 162411,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Hooked On A Feeling - Spotify Singles",
-        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 134052,
-      "name": "Hooked On A Feeling - Spotify Singles",
-      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Pisces Iscariot (Remastered)",
         "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 190586,
       "name": "Landslide - Remastered",
       "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Hooked On A Feeling - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 134052,
+      "name": "Hooked On A Feeling - Spotify Singles",
+      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Eleanor Rigby",
-        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Uninvited",
         "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 259689,
       "name": "Uninvited",
       "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Eleanor Rigby",
+        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Sucker (Cover)",
-        "url": "https://open.spotify.com/album/2dPiFGsa6ngzgHJyKYTBW4"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 157540,
-      "name": "Sucker (Cover)",
-      "url": "https://open.spotify.com/track/1hDrygsdk8IIFriDYqfqdv"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Music From The Motion Picture Not Another Teen Movie",
         "url": "https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 242133,
       "name": "99 Red Balloons",
       "url": "https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Sucker (Cover)",
+        "url": "https://open.spotify.com/album/2dPiFGsa6ngzgHJyKYTBW4"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 157540,
+      "name": "Sucker (Cover)",
+      "url": "https://open.spotify.com/track/1hDrygsdk8IIFriDYqfqdv"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 255774,
-      "name": "Song to the Siren",
-      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/4uiyLLg6YL8wQuYQcw29I8"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 228974,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/7IcSNVUvVdOv2gOXjExsFC"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 255774,
+      "name": "Song to the Siren",
+      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2455,6 +2455,22 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1gbZr44u85xj3X7SGrim98"
+      },
+      "artists": [
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "duration_ms": 211019,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/093b1blyOJsbJcX9dyJ8RB"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/2pq4CRO6jIEhmiRobPEBNs"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 233596,
       "name": "Blank Generation - Studio Version - Recorded at Electric Lady Studios",
       "url": "https://open.spotify.com/track/1cHKubFP60htes9wa4Y5JO"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/1gbZr44u85xj3X7SGrim98"
-      },
-      "artists": [
-        {
-          "name": "BRKN LOVE",
-          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
-        }
-      ],
-      "duration_ms": 211019,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/093b1blyOJsbJcX9dyJ8RB"
     },
     {
       "added_at": "2024-07-17 15:08:46",

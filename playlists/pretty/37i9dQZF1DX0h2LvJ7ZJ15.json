@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1375203,
+  "num_followers": 1375813,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
-      },
-      "artists": [
-        {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
-        }
-      ],
-      "duration_ms": 161765,
-      "name": "Fluxxwave (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "New Home (Slowed)",
         "url": "https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 174521,
       "name": "New Home (Slowed)",
       "url": "https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "duration_ms": 161765,
+      "name": "Fluxxwave (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "WASTE",
-        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
-      },
-      "artists": [
-        {
-          "name": "KXLLSWXTCH",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "WASTE - Slowed Version",
-      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "Memory Reboot",
         "url": "https://open.spotify.com/album/38leU2pvDRxNx2u59BENZb"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 236307,
       "name": "Memory Reboot - Slowed",
       "url": "https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "WASTE",
+        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+      },
+      "artists": [
+        {
+          "name": "KXLLSWXTCH",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "WASTE - Slowed Version",
+      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -867,22 +867,30 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "BASSLINE",
-        "url": "https://open.spotify.com/album/7AmJYPuvIFdqLKcnhtIfNK"
+        "name": "Black Out Days [Future Islands Remix (Slowed)]",
+        "url": "https://open.spotify.com/album/51DQUyUCSwUuIErPPGUcFj"
       },
       "artists": [
         {
-          "name": "PXRKX",
-          "url": "https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4"
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         },
         {
-          "name": "Shadow - Plus",
-          "url": "https://open.spotify.com/artist/6LYUNVm4A6yGEYYxmaOSsc"
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        },
+        {
+          "name": "Slowed Radio",
+          "url": "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
+        },
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 130000,
-      "name": "BASSLINE - SLOWED",
-      "url": "https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP"
+      "duration_ms": 214394,
+      "name": "Black Out Days - Future Islands Remix (Slowed)",
+      "url": "https://open.spotify.com/track/5tRnzF4v2KL72QQdCjopyt"
     }
   ],
   "unique_name": "slowed and reverbed",

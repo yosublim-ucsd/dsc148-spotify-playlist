@@ -1,6 +1,6 @@
 {
   "description": "Electronic Trap House with Arab spices. Cover: DJ KABOO.",
-  "num_followers": 208461,
+  "num_followers": 208496,
   "original_name": "Arabic Trap",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "La C\u00e2lin",
-        "url": "https://open.spotify.com/album/1OzQ5JSUO7UqTeCgtzIrpH"
-      },
-      "artists": [
-        {
-          "name": "Serhat Durmus",
-          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
-        }
-      ],
-      "duration_ms": 172008,
-      "name": "La C\u00e2lin",
-      "url": "https://open.spotify.com/track/4wm54RgVLbAtk5v4A9I9x5"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
         "name": "Arab Trap 2 / Habibi",
         "url": "https://open.spotify.com/album/2lItbZXFxyql2Y2brBCiba"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 121573,
       "name": "Arab Trap 2 / Habibi",
       "url": "https://open.spotify.com/track/4tDlB4iuEuXaVOcDVh9N9v"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
+        "name": "La C\u00e2lin",
+        "url": "https://open.spotify.com/album/1OzQ5JSUO7UqTeCgtzIrpH"
+      },
+      "artists": [
+        {
+          "name": "Serhat Durmus",
+          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+        }
+      ],
+      "duration_ms": 172008,
+      "name": "La C\u00e2lin",
+      "url": "https://open.spotify.com/track/4wm54RgVLbAtk5v4A9I9x5"
     },
     {
       "added_at": "2023-02-17 13:36:32",

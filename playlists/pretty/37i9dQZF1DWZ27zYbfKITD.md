@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,404 likes - 81 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,485 likes - 81 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 16 | [Everytime You Leave](https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [The Witcher \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS) | 2:07 |
 | 17 | [Don't Stare At The Stars Too Long](https://open.spotify.com/track/7FsgnMiteTjVpaBEX9nWRf) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Adolescence \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/099yM2SCLUGk2CO78PDYLT) | 1:32 |
 | 18 | [A Once Great City](https://open.spotify.com/track/7cFWmwzHLPgg5XM1wzF9io) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [His Dark Materials Series 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/6z2ojH722cYDVIlGf8xkf6) | 2:15 |
-| 19 | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/track/6EECg7sQ7hepoC0V9k0Lbo) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/album/6ab8afxMKM66rnuOIW8Hdw) | 1:22 |
+| 19 | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/track/6EECg7sQ7hepoC0V9k0Lbo) | [Yu\-Peng Chen](https://open.spotify.com/artist/4DD6LTHmvZVeLD5umO5Yvi), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/album/6ab8afxMKM66rnuOIW8Hdw) | 1:22 |
 | 20 | [Ragnar Dreams of Home](https://open.spotify.com/track/3nVc5ARjS5gpGOV34QkTlw) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq) | [The Vikings IV \(Music from the TV Series\)](https://open.spotify.com/album/5zJORKvOIkroj9fmKdUPZI) | 1:41 |
 | 21 | [Chichina](https://open.spotify.com/track/2szSxMQxwXSy5ShzYZQH0Z) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/2JOWWIWGueUaTZFBvdvES9) | 1:31 |
 | 22 | [Good Night You Kings \(from "The Cider House Rules", Arr\. for Piano\) \- a calm version](https://open.spotify.com/track/0P3snbkMDVmzfMKaKDuO9b) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Good Night You Kings](https://open.spotify.com/album/2uZVaktrTm54XmeO7w0kbI) | 1:03 |

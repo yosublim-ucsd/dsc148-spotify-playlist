@@ -4229,6 +4229,24 @@
     },
     {
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/4NvcTP2P7bGwDz7zIG22oK"
+      },
+      "artists": [
+        {
+          "name": "George Winston",
+          "url": "https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248173,
+      "name": "Thanksgiving",
+      "url": "https://open.spotify.com/track/0Ra8bl33VpUwp0sodP5pL7"
+    },
+    {
+      "album": {
         "name": "The book of love",
         "url": "https://open.spotify.com/album/0GDaWajfUkhgS7rwQNonsJ"
       },

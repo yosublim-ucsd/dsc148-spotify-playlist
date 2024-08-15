@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 740557,
+  "num_followers": 740683,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "Rx (Medicate)",
-        "url": "https://open.spotify.com/album/1GAkFO17jNudCOK0v1EgiF"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "Rx (Medicate)",
-      "url": "https://open.spotify.com/track/7pV6zXFpCwrrmcosBAtp0o"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 383506,
       "name": "The Little Things Give You Away",
       "url": "https://open.spotify.com/track/6zCaXHIV60YIuDe9qJ9MOo"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
+        "name": "Rx (Medicate)",
+        "url": "https://open.spotify.com/album/1GAkFO17jNudCOK0v1EgiF"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "Rx (Medicate)",
+      "url": "https://open.spotify.com/track/7pV6zXFpCwrrmcosBAtp0o"
     },
     {
       "added_at": "2024-06-27 15:42:54",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
+        "name": "A Thousand Suns (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "The Messenger",
+      "url": "https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/2QXSv6uks8yVKpmrNu2oPq"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 230360,
       "name": "Angel's Son",
       "url": "https://open.spotify.com/track/66wlSKFGLhD5LDulPBz731"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
-        "name": "A Thousand Suns (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "The Messenger",
-      "url": "https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss"
     },
     {
       "added_at": "2024-06-27 15:42:54",

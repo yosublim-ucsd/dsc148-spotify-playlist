@@ -4,7 +4,7 @@
 
 > Hol dir dein Lieblingscafé nach Hause.
 
-322 songs - 20 hr 35 min
+323 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2022-08-18 | 2024-04-19 |
 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 | 2024-03-15 |  |
 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 | 2022-08-18 |  |
+| [Girl at Coachella](https://open.spotify.com/track/7DHIgW9qEMP6qkz5PytLM6) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Girl at Coachella](https://open.spotify.com/album/2I53wBxUAO4sawuAnUpGX3) | 2:47 | 2024-04-24 |  |
 | [Go Rilla \- Acoustic Version](https://open.spotify.com/track/4LhMshtzPFbPxT0qTucmdF) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Go Rilla \(Acoustic Version\)](https://open.spotify.com/album/2Zg2RPymjzpXOnprsg9e9y) | 4:43 | 2024-03-15 |  |
 | [Gold](https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz), [Maggie Peake](https://open.spotify.com/artist/6NCA2AVIHGles0udtwuoqN) | [Gold](https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE) | 4:16 | 2022-08-18 |  |
 | [Grapevine](https://open.spotify.com/track/5BwfV9vNhDfIysUTyuTbuQ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 5:25 | 2022-10-27 | 2023-05-10 |
@@ -255,7 +256,7 @@
 | [Sophie](https://open.spotify.com/track/5hGhweoDb1rZalo01o87zm) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without / Within](https://open.spotify.com/album/5yMPFIjnYwfGjxyFdY80HZ) | 5:04 | 2024-04-24 | 2024-06-18 |
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2022-08-18 | 2024-04-19 |
 | [Standing in the Rain](https://open.spotify.com/track/5S4pAZfIugwULt49eneojF) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:41 | 2022-08-18 | 2023-05-28 |
-| [Starbuck](https://open.spotify.com/track/5UKwcsu3N0XE4pYlbqywUc) | [Petula](https://open.spotify.com/artist/1MrClFtBKno2QUEerDxm4J) | [Starbuck](https://open.spotify.com/album/1g7udubqWRyGQpsd01TArC) | 2:14 | 2024-03-15 |  |
+| [Starbuck](https://open.spotify.com/track/5UKwcsu3N0XE4pYlbqywUc) | [Petula](https://open.spotify.com/artist/1MrClFtBKno2QUEerDxm4J) | [Starbuck](https://open.spotify.com/album/1g7udubqWRyGQpsd01TArC) | 2:14 | 2024-03-15 | 2024-08-15 |
 | [Staring At The Sun](https://open.spotify.com/track/1auVS5mEgwN52E8VCNqOMc) | [Pat Burgener](https://open.spotify.com/artist/7wDjdS9h3CXK18Y1H1hO5I) | [Staring At The Sun](https://open.spotify.com/album/01fn47uEgW2WVIdiGEutnV) | 3:43 | 2024-03-15 |  |
 | [Stay Alive](https://open.spotify.com/track/1STWuVv5dKJABRJROltWFr) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive](https://open.spotify.com/album/6i7Blm3uQosKZSQo57ewqL) | 3:53 | 2022-08-18 | 2022-11-13 |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2022-08-18 | 2024-04-19 |

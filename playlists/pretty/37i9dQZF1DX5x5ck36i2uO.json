@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Enjoy hip-hop music with a soft, luxurious jazz flavor.)",
-  "num_followers": 3374,
+  "num_followers": 3378,
   "original_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",
   "owner": {
     "name": "Spotify",
@@ -627,34 +627,22 @@
     {
       "added_at": "2024-08-10 15:24:47",
       "album": {
-        "name": "Ladidadi",
-        "url": "https://open.spotify.com/album/1NblktVkuE0ZF9XU4vEiXM"
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
       "artists": [
         {
           "name": "DON MALIK",
           "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 123228,
-      "name": "Ladidadi!",
-      "url": "https://open.spotify.com/track/5CF0DkZosBF1XC0dNJX5NR"
-    },
-    {
-      "added_at": "2024-08-10 15:24:47",
-      "album": {
-        "name": "WALKIN', Vol. 1",
-        "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
-      },
-      "artists": [
+        },
         {
-          "name": "PEEJAY",
-          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 257687,
-      "name": "I Get Lifted X Beenzino",
-      "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
+      "duration_ms": 182013,
+      "name": "Chingchingching (Feat. DeVita)",
+      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
     },
     {
       "added_at": "2024-08-10 15:24:47",
@@ -679,6 +667,22 @@
       "duration_ms": 187250,
       "name": "Flower Cafe (feat.Sam Ock, I.M)",
       "url": "https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W"
+    },
+    {
+      "added_at": "2024-08-10 15:24:47",
+      "album": {
+        "name": "WALKIN', Vol. 1",
+        "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
+      },
+      "artists": [
+        {
+          "name": "PEEJAY",
+          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
+        }
+      ],
+      "duration_ms": 257687,
+      "name": "I Get Lifted X Beenzino",
+      "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
     },
     {
       "added_at": "2024-08-10 15:24:47",
@@ -823,38 +827,18 @@
     {
       "added_at": "2024-08-10 15:24:47",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+        "name": "Ladidadi",
+        "url": "https://open.spotify.com/album/1NblktVkuE0ZF9XU4vEiXM"
       },
       "artists": [
         {
           "name": "DON MALIK",
           "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 182013,
-      "name": "Chingchingching (Feat. DeVita)",
-      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
-    },
-    {
-      "added_at": "2024-08-10 15:24:47",
-      "album": {
-        "name": "My Original Sound Track",
-        "url": "https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm"
-      },
-      "artists": [
-        {
-          "name": "Jung Jin Woo",
-          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
-        }
-      ],
-      "duration_ms": 191480,
-      "name": "SOAP",
-      "url": "https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k"
+      "duration_ms": 123228,
+      "name": "Ladidadi!",
+      "url": "https://open.spotify.com/track/5CF0DkZosBF1XC0dNJX5NR"
     },
     {
       "added_at": "2024-08-10 15:24:47",
@@ -871,6 +855,22 @@
       "duration_ms": 240094,
       "name": "Girl in New York (jazz)",
       "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
+    },
+    {
+      "added_at": "2024-08-10 15:24:47",
+      "album": {
+        "name": "My Original Sound Track",
+        "url": "https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm"
+      },
+      "artists": [
+        {
+          "name": "Jung Jin Woo",
+          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "SOAP",
+      "url": "https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k"
     },
     {
       "added_at": "2024-08-10 15:24:47",

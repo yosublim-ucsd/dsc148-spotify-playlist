@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,433 likes - 105 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,435 likes - 105 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,6 +112,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 102 | [forever and a day](https://open.spotify.com/track/5EsomcnjMHOqvPqrdwvV28) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [forever and a day](https://open.spotify.com/album/1cKyhSylwnsOBj797Amt2r) | 3:18 |
 | 103 | [サマータイム・ブルース](https://open.spotify.com/track/3p2EfPkTncUEGp0vuRxAGz) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サマータイム・ブルース](https://open.spotify.com/album/2nRZF4bBVc5KL3MKuuPBpk) | 3:46 |
 | 104 | [Nukui](https://open.spotify.com/track/4WzotMbiarPo9fnLs54fIF) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [Nukui](https://open.spotify.com/album/6gqQ7JZUsWmYl9OxU8gHzZ) | 3:50 |
-| 105 | [I Wish](https://open.spotify.com/track/1uGWXD2mnNRqWtxBz8bVmm) | [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv), [Emlo](https://open.spotify.com/artist/5O4IDbze1xrfs2zY8wLJ1H) | [I Wish](https://open.spotify.com/album/3qntf8oitgKJp03AaMADp0) | 2:33 |
+| 105 | [I Wish](https://open.spotify.com/track/1uGWXD2mnNRqWtxBz8bVmm) | [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv), [Emlo](https://open.spotify.com/artist/1BHivWEpmuwIT1rBtmI0fb) | [I Wish](https://open.spotify.com/album/3qntf8oitgKJp03AaMADp0) | 2:33 |
 
 Snapshot ID: `Zrr9bQAAAABFKsqAf6GeGaIV+HimDHyE`

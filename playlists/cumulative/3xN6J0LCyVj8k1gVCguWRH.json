@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 183143,
       "name": "Am I Here",
       "url": "https://open.spotify.com/track/4l6raknli9gALgCoXnaS4Z"
@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 192101,
       "name": "Anything for you",
       "url": "https://open.spotify.com/track/2IxgTJhO6jDEPXhIJUe7Gt"
@@ -6140,7 +6140,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 172782,
       "name": "Be Yourself",
       "url": "https://open.spotify.com/track/1XDi01OpjcVDNKq3ZhiXIa"
@@ -12672,7 +12672,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 227107,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/5BZWSl60toXxuoClMbiVqh"
@@ -13560,7 +13560,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 268875,
       "name": "Cranes in the Sky - Spotify Singles",
       "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
@@ -20437,6 +20437,28 @@
     },
     {
       "album": {
+        "name": "Fa\u00f1ab\u00e9",
+        "url": "https://open.spotify.com/album/2pK0a6FWAqQH3nXvvcg2AC"
+      },
+      "artists": [
+        {
+          "name": "Manu B",
+          "url": "https://open.spotify.com/artist/4dZOItBAgZcwOWU5ste4s5"
+        },
+        {
+          "name": "Invencible On The Beat",
+          "url": "https://open.spotify.com/artist/1W7Gtu7F9vkHXwwFZXfAVA"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120429,
+      "name": "Fa\u00f1ab\u00e9",
+      "url": "https://open.spotify.com/track/2vwbj2OSBu9J1to7JzB9Vx"
+    },
+    {
+      "album": {
         "name": "Fed-Up !!",
         "url": "https://open.spotify.com/album/2B8ceP7XZxj2dulH3H7Vva"
       },
@@ -21538,7 +21560,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 143718,
       "name": "Fiyah",
       "url": "https://open.spotify.com/track/33G8UNApZc1wizedNUbYOX"
@@ -27624,7 +27646,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 200678,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4NFg6HYKa0qj3Mv9a7Imzy"
@@ -34826,7 +34848,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 227524,
       "name": "Leave The Light On For Me",
       "url": "https://open.spotify.com/track/4GArRiXhTAxHQwnwODbeCe"
@@ -61478,7 +61500,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 171789,
       "name": "The Dark",
       "url": "https://open.spotify.com/track/06b9t1OXzvmdVk6MWRjozU"
@@ -71080,7 +71102,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 123341,
       "name": "you + I + our cat",
       "url": "https://open.spotify.com/track/4W0BbcNBFeqQfiauf3QXaO"

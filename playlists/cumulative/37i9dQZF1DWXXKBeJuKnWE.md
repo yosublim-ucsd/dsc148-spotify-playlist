@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: House of Protection
 
-384 songs - 22 hr 51 min
+387 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-11-10 | 2023-04-06 |
 | [Collide](https://open.spotify.com/track/7wDVVWvsjPL2tKvcbOlJHK) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Collide](https://open.spotify.com/album/7szVhLSeh3tWpRF6ZDozOd) | 4:03 | 2024-03-08 | 2024-05-11 |
 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 | 2023-07-25 | 2023-11-11 |
+| [Cowboy Milk](https://open.spotify.com/track/4u3v4FhMii7GqEsxBUBhiJ) | [Beauty School](https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6) | [Cowboy Milk](https://open.spotify.com/album/4xLDL7CGdXugh9oxsQA5dV) | 3:09 | 2024-08-14 |  |
 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2023-08-04 |  |
 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 | 2024-01-19 |  |
 | [crying](https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [crying](https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp) | 3:07 | 2024-05-23 |  |
@@ -150,6 +151,7 @@
 | [H8 MY SELF](https://open.spotify.com/track/3o3i8J3phhvFXOaH4wwjbT) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [H8 MY SELF](https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx) | 2:58 | 2023-02-03 | 2023-09-08 |
 | [Hall & Oates](https://open.spotify.com/track/771CBX3SgJLH2yAmi6E8DV) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 2:23 | 2024-02-16 | 2024-03-23 |
 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 | 2023-06-01 |  |
+| [HAPPY](https://open.spotify.com/track/3kveKispNPTfBTsBkd5bUv) | [Tropic Gold](https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP) | [HAPPY](https://open.spotify.com/album/26MHTLMXfmmP9JJ9rtbEs6) | 3:36 | 2024-08-14 |  |
 | [Hard Skool](https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Hard Skool](https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0) | 3:41 | 2022-11-10 | 2023-07-26 |
 | [Harvest](https://open.spotify.com/track/4mHO98MVqhw7DeZyoNmCYG) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Harvest](https://open.spotify.com/album/0kSnsRmaRxJigfDeO355Gq) | 2:50 | 2023-03-24 | 2023-09-16 |
 | [Hate Me](https://open.spotify.com/track/4iAS1uaOYUqLimqOwKMELn) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Hard Reset](https://open.spotify.com/album/17cbasTWOvRFtMoHb7aiHm) | 3:41 | 2024-03-22 | 2024-04-19 |
@@ -324,6 +326,7 @@
 | [The Beautiful Dark of Life](https://open.spotify.com/track/6A3UXnzzTP6KwGl9uArrLU) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Beautiful Dark of Life](https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp) | 3:08 | 2023-12-08 |  |
 | [The Cave](https://open.spotify.com/track/652J015cmnfWuK3UFUojUW) | [To Kill Achilles](https://open.spotify.com/artist/6JiVwVHJRXHiZuU9vHzjpz) | [The Cave](https://open.spotify.com/album/2QS613ysAclwBts9ii67A2) | 3:35 | 2023-07-25 | 2024-03-08 |
 | [The Chapeltown Rag](https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:49 | 2022-11-10 | 2023-07-26 |
+| [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 | 2024-08-14 |  |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2022-11-10 | 2023-07-26 |
 | [The Echoes of Disparity](https://open.spotify.com/track/15cliM4IVHGvwbK9O36xcV) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Charlie Rolfe](https://open.spotify.com/artist/61LUcApo9W4qxM7PjbO6gV), [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [The Echoes of Disparity](https://open.spotify.com/album/4y30LkmFu4kDlppNHlMOeI) | 3:51 | 2024-05-23 |  |
 | [THE FIRST TEST](https://open.spotify.com/track/6KELzGkLKYRjO8EQYDaTCz) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/2ilkDYJbV6OdxVkf6eAFOU) | 2:14 | 2024-05-30 |  |

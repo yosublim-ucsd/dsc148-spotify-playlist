@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Atlantis Kitsune\(아틀란티스 키츠네\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-899 songs - 2 day 3 hr 19 min
+900 songs - 2 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [For Your Soul](https://open.spotify.com/track/35t583wCAY9JBgjIHpcjJx) | [sungmo Jo](https://open.spotify.com/artist/5NzEQOONnoipbJ6kIDB775), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART11](https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo) | 4:24 | 2022-04-22 |  |
 | [Forbidden Love](https://open.spotify.com/track/7FnHUlrCjWvFPF3AYcCQ12) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Dream](https://open.spotify.com/album/4QlmckbPKjwvpfDO9DzDpQ) | 4:27 | 2022-04-07 | 2022-07-28 |
 | [Forever friend](https://open.spotify.com/track/3KLvJg6RxDB3F6Pq7x1jD2) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 2:57 | 2022-04-22 | 2022-06-08 |
+| [Forever My Love](https://open.spotify.com/track/0QLDfAfZzV3NRR4VDHQUxk) | [Hwang Young woong](https://open.spotify.com/artist/2aFQLd0AjUaJFHeIc3xl7L) | [Fire Trot Semi\-Finals, Three Legends Round PART 2](https://open.spotify.com/album/4fYhKUpf4TanrKk3XAQIIj) | 4:09 | 2024-08-13 |  |
 | [Forget me not](https://open.spotify.com/track/0hmmbb7ABooeAdEbMew4D8) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART18](https://open.spotify.com/album/4keQfQWkLot2MU9LuEho7I) | 4:19 | 2022-04-07 | 2022-07-06 |
 | [FORM](https://open.spotify.com/track/1sYBG4Q9je0dunJk6oBd4T) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [FORM](https://open.spotify.com/album/7ML22SujLWzp76PG1wCgii) | 2:47 | 2024-08-13 |  |
 | [Fresh](https://open.spotify.com/track/5TET34ds9W3f9EFhsB3h4a) | [In Sun Shin](https://open.spotify.com/artist/63bn9bwgfJQRhpfh7kA2O1) | [Fresh](https://open.spotify.com/album/4DXhqJTrnukMRuVyLoF1bN) | 3:04 | 2022-04-22 | 2024-03-15 |
@@ -788,7 +789,7 @@
 | [Zille flower](https://open.spotify.com/track/7FHOL5rtGfrQ6bpWSAqYxA) | [Jang Songho](https://open.spotify.com/artist/29PyAp9uwBC7JIm4WO2km8) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 2:15 | 2022-05-03 | 2022-06-18 |
 | [Zinnia](https://open.spotify.com/track/3TzhnbhamqvBLq0PEH7C87) | [조명섭](https://open.spotify.com/artist/1pC2zaWEUKiTmizWEgHKE4) | [2nd Single Zinnia](https://open.spotify.com/album/7KusjDrUqT5Y3YrXYWT0SO) | 3:20 | 2022-05-03 | 2022-07-26 |
 | [가슴이 부르는 노래](https://open.spotify.com/track/3RLLidlEXlGg9zXQIWrw2I) | [나태주](https://open.spotify.com/artist/61km720PlFBWz14G7qHSCP) | [인생열차](https://open.spotify.com/album/7gnE6znPjohbNzPfQ4R0qE) | 3:51 | 2022-04-07 | 2022-07-25 |
-| [가지마오](https://open.spotify.com/track/4q1UvnvjSO9jt74QCAxWRt) | [강혜연](https://open.spotify.com/artist/6jJykDVfUz158veY5H2587) | [혜성 : 빗자루별](https://open.spotify.com/album/0dUiTrFsH9AYWwTyMAmlrN) | 2:54 | 2023-05-05 |  |
+| [가지마오](https://open.spotify.com/track/4q1UvnvjSO9jt74QCAxWRt) | [강혜연](https://open.spotify.com/artist/6jJykDVfUz158veY5H2587) | [혜성 : 빗자루별](https://open.spotify.com/album/0dUiTrFsH9AYWwTyMAmlrN) | 2:54 | 2023-05-05 | 2024-08-15 |
 | [강원도 아리랑](https://open.spotify.com/track/2AIh1JZtfywdE8PjBJkuWs) | [천연조미료\(공훈](https://open.spotify.com/artist/4R9ue0Vwlbkv6n1T2vMQj9), [신미래](https://open.spotify.com/artist/2omnYlyul9suW5On2A60es), [이소나](https://open.spotify.com/artist/19oa9YfBArZBLZVQWwVxn9), [황홍비\)](https://open.spotify.com/artist/23z4YbToDHbuaRph1De2cx) | [Korean Trot Contest PART.5](https://open.spotify.com/album/73AYOATUIFhqWlhWCAR3eF) | 4:04 | 2022-04-22 | 2022-07-28 |
 | [고맙소](https://open.spotify.com/track/6Vjozytj5lTLVoi56ig4u2) | [Jo Hang Jo](https://open.spotify.com/artist/291iCcDBlt31CB0rY9sQZq) | [고맙소](https://open.spotify.com/album/3GoCYwDQKN1SqquapsYvCY) | 3:53 | 2024-08-13 |  |
 | [곤드레만드레](https://open.spotify.com/track/6T5CMjo0baLKZOwB0NcFBe) | [Park Hyun\-Bin](https://open.spotify.com/artist/4CFPY7gjBXwLIaDhkngkjj) | [모래시계](https://open.spotify.com/album/4zXn09bT9oBHHyBdRhGe9Q) | 3:18 | 2022-04-22 | 2022-07-20 |

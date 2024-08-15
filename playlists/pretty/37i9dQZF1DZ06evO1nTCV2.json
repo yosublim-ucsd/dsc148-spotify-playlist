@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43456,
+  "num_followers": 43459,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAADhk0U+IcyTQTx5xFmhPYwq",
+  "snapshot_id": "ZrqiAAAAAAB4jJMUqNDPtgz1PQB+9z8S",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 184671,
-      "name": "To Be Young (Is to Be Sad, Is to Be High)",
-      "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 211666,
       "name": "When The Stars Go Blue",
       "url": "https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 184671,
+      "name": "To Be Young (Is to Be Sad, Is to Be High)",
+      "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 318102,
-      "name": "Come Pick Me Up",
-      "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasted Years (Live from Glasgow, UK. 2023)",
         "url": "https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs"
       },
@@ -155,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashes & Fire",
-        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
       "artists": [
         {
@@ -164,9 +148,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 172186,
-      "name": "Lucky Now",
-      "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
+      "duration_ms": 318102,
+      "name": "Come Pick Me Up",
+      "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 174120,
+      "name": "Doylestown Girl",
+      "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
     },
     {
       "added_at": null,
@@ -183,6 +183,22 @@
       "duration_ms": 185010,
       "name": "Shiver And Shake",
       "url": "https://open.spotify.com/track/6TbOgR6jpuqkjAmgs4hdFL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Lucky Now",
+      "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
     },
     {
       "added_at": null,
@@ -244,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 174120,
-      "name": "Doylestown Girl",
-      "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
+      "duration_ms": 137133,
+      "name": "Somethings Missing",
+      "url": "https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv"
     },
     {
       "added_at": null,
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romeo & Juliet",
-        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 137133,
-      "name": "Somethings Missing",
-      "url": "https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morning Glory",
+        "url": "https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 404329,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/5aBwKfZ1DtfOj8eH9vMn59"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 185000,
       "name": "Answering Bell",
       "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Sign",
-        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 176557,
-      "name": "Shinin' through the Dark",
-      "url": "https://open.spotify.com/track/3uvqaNcznMbmvaw2zOuJ4n"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Sign",
-        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 182524,
-      "name": "Be Wrong",
-      "url": "https://open.spotify.com/track/63et5T8L2cyXHDQ9Gk21j6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 210240,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 178706,
+      "name": "Chin Up, Cheer Up",
+      "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 235120,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morning Glory",
-        "url": "https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 404329,
-      "name": "Hey Now",
-      "url": "https://open.spotify.com/track/5aBwKfZ1DtfOj8eH9vMn59"
     },
     {
       "added_at": null,
@@ -555,54 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 178706,
-      "name": "Chin Up, Cheer Up",
-      "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Sign",
-        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 207971,
-      "name": "Speeding Car",
-      "url": "https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prisoners (Live)",
-        "url": "https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Haunted House (Live)",
-      "url": "https://open.spotify.com/track/5wm5pRktQR2Vlvxh8WzDma"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -615,22 +551,6 @@
       "duration_ms": 171666,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 321120,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
     },
     {
       "added_at": null,
@@ -651,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoners (Live)",
-        "url": "https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
       },
       "artists": [
         {
@@ -660,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 197866,
-      "name": "To Be With You (Live)",
-      "url": "https://open.spotify.com/track/7G0mtQvZD2kIRV2kI3mD3p"
+      "duration_ms": 321120,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
     },
     {
       "added_at": null,
@@ -679,6 +599,22 @@
       "duration_ms": 233653,
       "name": "This House Is Not For Sale",
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Sign",
+        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 176557,
+      "name": "Shinin' through the Dark",
+      "url": "https://open.spotify.com/track/3uvqaNcznMbmvaw2zOuJ4n"
     },
     {
       "added_at": null,
@@ -711,22 +647,6 @@
       "duration_ms": 233858,
       "name": "Living On A Prayer - Live from Red Bank, NJ. 2023",
       "url": "https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prisoners (Live)",
-        "url": "https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Outbound Train (Live)",
-      "url": "https://open.spotify.com/track/1rzRw9ldxDDUsSVALuhpX7"
     },
     {
       "added_at": null,
@@ -779,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoners (Live)",
-        "url": "https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx"
+        "name": "Sympathy For The Devil (Live from Edmonton, AL. 2023)",
+        "url": "https://open.spotify.com/album/1O2y8m2ZRDFezcHHMVlf1k"
       },
       "artists": [
         {
@@ -788,9 +708,93 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 169666,
-      "name": "Broken Anyway (Live)",
-      "url": "https://open.spotify.com/track/70dHBmG5GLYvPyZVtIKmpH"
+      "duration_ms": 265700,
+      "name": "Sympathy For The Devil - Live from Edmonton, AL. 2023",
+      "url": "https://open.spotify.com/track/28xIbZJQFMHdox98AfM8qq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 340666,
+      "name": "English Girls Approximately",
+      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Tracks Of My Tears (Live from Newcastle, UK. 2023)",
+        "url": "https://open.spotify.com/album/6djRnrDSO52pJrSK2DC5Ov"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 232656,
+      "name": "Moon River - Live from Newcastle, UK. 2023",
+      "url": "https://open.spotify.com/track/4zkZuF7ObN0XHH0hAeaxpe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "The Rescue Blues",
+      "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Battle",
+        "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Cary",
+          "url": "https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk"
+        },
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "The Battle (feat. Ryan Adams)",
+      "url": "https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wasted Years (Live from Glasgow, UK. 2023)",
+        "url": "https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Don't You (Forget About Me) - Live from Glasgow",
+      "url": "https://open.spotify.com/track/6h3BP0ajpt6uvb4vlUpu0g"
     },
     {
       "added_at": null,
@@ -804,15 +808,15 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 311674,
-      "name": "I Lost My Place",
-      "url": "https://open.spotify.com/track/0UOljh32VrB0nwon0qhVXb"
+      "duration_ms": 182524,
+      "name": "Be Wrong",
+      "url": "https://open.spotify.com/track/63et5T8L2cyXHDQ9Gk21j6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+        "name": "Sin City (Live from Bensalem, PA. 2023)",
+        "url": "https://open.spotify.com/album/2LxLQ0xti5oCPnKPTISnzj"
       },
       "artists": [
         {
@@ -820,15 +824,15 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
+      "duration_ms": 211713,
+      "name": "Sin City - Live from Bensalem, PA. 2023",
+      "url": "https://open.spotify.com/track/1Nr9I8LyjRZXp8suxqxerj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sympathy For The Devil (Live from Edmonton, AL. 2023)",
-        "url": "https://open.spotify.com/album/1O2y8m2ZRDFezcHHMVlf1k"
+        "name": "After the Gold Rush (Live from Calgary, AL. 2023)",
+        "url": "https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k"
       },
       "artists": [
         {
@@ -836,9 +840,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 265700,
-      "name": "Sympathy For The Devil - Live from Edmonton, AL. 2023",
-      "url": "https://open.spotify.com/track/28xIbZJQFMHdox98AfM8qq"
+      "duration_ms": 256312,
+      "name": "After the Gold Rush - Live from Calgary, AL. 2023",
+      "url": "https://open.spotify.com/track/5mSZ68WFTCbaeRuXfoVkWO"
     }
   ],
   "unique_name": "This Is Ryan Adams",

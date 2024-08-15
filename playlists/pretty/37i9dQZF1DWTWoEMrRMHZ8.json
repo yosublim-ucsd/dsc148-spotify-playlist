@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Nando Reis",
-  "num_followers": 346231,
+  "num_followers": 346277,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Quero Voc\u00ea",
-        "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
-      },
-      "artists": [
-        {
-          "name": "Alm\u00e9rio",
-          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 149517,
-      "name": "Quero Voc\u00ea",
-      "url": "https://open.spotify.com/track/2DveQSp3QsKN8GfHiuEs83"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "D\u00e1 Pra Ser Feliz",
         "url": "https://open.spotify.com/album/590OSdBmlpEOe8rVsLYVJs"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 202200,
       "name": "D\u00e1 Pra Ser Feliz",
       "url": "https://open.spotify.com/track/4jU74AgC3F0M63YcCJKZGh"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Quero Voc\u00ea",
+        "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
+      },
+      "artists": [
+        {
+          "name": "Alm\u00e9rio",
+          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 149517,
+      "name": "Quero Voc\u00ea",
+      "url": "https://open.spotify.com/track/2DveQSp3QsKN8GfHiuEs83"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -483,6 +483,38 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
+        "name": "Mundo Paralelo",
+        "url": "https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw"
+      },
+      "artists": [
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+        },
+        {
+          "name": "Tom Veloso",
+          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
+        }
+      ],
+      "duration_ms": 191166,
+      "name": "A Donzela Se Casou",
+      "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
         "name": "Porque Eu Sei Que \u00c9 Amor (Microfonado)",
         "url": "https://open.spotify.com/album/652ZVwlCpBlUlOZGKwkJcH"
       },
@@ -515,38 +547,6 @@
       "duration_ms": 236535,
       "name": "Rio Dentro do Mar",
       "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "Mundo Paralelo",
-        "url": "https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw"
-      },
-      "artists": [
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Zeca Veloso",
-          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
-        },
-        {
-          "name": "Tom Veloso",
-          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
-        }
-      ],
-      "duration_ms": 191166,
-      "name": "A Donzela Se Casou",
-      "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
+        "name": "BabyBaby",
+        "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 206484,
+      "name": "BabyBaby",
+      "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
         "name": "Casa de Boneca",
         "url": "https://open.spotify.com/album/2HKCooq58CYNbgVnVlZka2"
       },
@@ -827,26 +843,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Quero Andar Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/0Gze0JKX4Ls4QlSfrLQaqy"
-      },
-      "artists": [
-        {
-          "name": "Regina Souza",
-          "url": "https://open.spotify.com/artist/20L6gsqmlHaA3SVwbnSWGi"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 216181,
-      "name": "Quero Andar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/5xDxDcBJ7C5c8Ky4ArUdTV"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Paisagem",
         "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
       },
@@ -867,18 +863,22 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "BabyBaby",
-        "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
+        "name": "Quero Andar Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/0Gze0JKX4Ls4QlSfrLQaqy"
       },
       "artists": [
         {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+          "name": "Regina Souza",
+          "url": "https://open.spotify.com/artist/20L6gsqmlHaA3SVwbnSWGi"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 206484,
-      "name": "BabyBaby",
-      "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
+      "duration_ms": 216181,
+      "name": "Quero Andar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/5xDxDcBJ7C5c8Ky4ArUdTV"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Multicolorida",
-        "url": "https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy"
-      },
-      "artists": [
-        {
-          "name": "Matheus de Bezerra",
-          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
-        }
-      ],
-      "duration_ms": 256344,
-      "name": "Multicolorida",
-      "url": "https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Prece",
         "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 227906,
       "name": "Prece",
       "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Multicolorida",
+        "url": "https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy"
+      },
+      "artists": [
+        {
+          "name": "Matheus de Bezerra",
+          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
+        }
+      ],
+      "duration_ms": 256344,
+      "name": "Multicolorida",
+      "url": "https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
+        "name": "Misteriosa",
+        "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Macap\u00e1",
+      "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
         "name": "O Meu Guri (Ao Vivo)",
         "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
       },
@@ -1035,6 +1051,26 @@
       "duration_ms": 228933,
       "name": "O Meu Guri",
       "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Me Beija",
+        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
+      },
+      "artists": [
+        {
+          "name": "Renato Piau",
+          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Me Beija",
+      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1055,22 +1091,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Qual \u00c9 a Sua?",
-        "url": "https://open.spotify.com/album/018b2Donln67BGiwNP7XjS"
-      },
-      "artists": [
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        }
-      ],
-      "duration_ms": 172623,
-      "name": "Qual \u00c9 a Sua?",
-      "url": "https://open.spotify.com/track/2bPBUYlwhiKP3diP15zM33"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Riviera",
         "url": "https://open.spotify.com/album/5qYjtEuTWrnTUl27exa4kA"
       },
@@ -1087,18 +1107,18 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Misteriosa",
-        "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
+        "name": "Qual \u00c9 a Sua?",
+        "url": "https://open.spotify.com/album/018b2Donln67BGiwNP7XjS"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
         }
       ],
-      "duration_ms": 348000,
-      "name": "Macap\u00e1",
-      "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
+      "duration_ms": 172623,
+      "name": "Qual \u00c9 a Sua?",
+      "url": "https://open.spotify.com/track/2bPBUYlwhiKP3diP15zM33"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1151,26 +1171,6 @@
       "duration_ms": 119206,
       "name": "Jovens, fantasmas e dinheiro",
       "url": "https://open.spotify.com/track/2HEc23zuux0neUHUZTShS9"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "Me Beija",
-        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
-      },
-      "artists": [
-        {
-          "name": "Renato Piau",
-          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "Me Beija",
-      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1315,6 +1315,30 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
+        "name": "Tem Barata Voadora Que Se Acha Borboleta",
+        "url": "https://open.spotify.com/album/6Swn45UtkLg3tshqguoBqO"
+      },
+      "artists": [
+        {
+          "name": "NAT\u00d6",
+          "url": "https://open.spotify.com/artist/5tcibVee711ANTnnmW4gr6"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        },
+        {
+          "name": "CRIS.",
+          "url": "https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "Tem Barata Voadora Que Se Acha Borboleta",
+      "url": "https://open.spotify.com/track/58oLSDXQwxHVb7SAVtSgpg"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
         "name": "Porvir",
         "url": "https://open.spotify.com/album/70mzEBUxbQrf6HW35c7cac"
       },
@@ -1347,30 +1371,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Tem Barata Voadora Que Se Acha Borboleta",
-        "url": "https://open.spotify.com/album/6Swn45UtkLg3tshqguoBqO"
-      },
-      "artists": [
-        {
-          "name": "NAT\u00d6",
-          "url": "https://open.spotify.com/artist/5tcibVee711ANTnnmW4gr6"
-        },
-        {
-          "name": "Skeeter Beats",
-          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
-        },
-        {
-          "name": "CRIS.",
-          "url": "https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "Tem Barata Voadora Que Se Acha Borboleta",
-      "url": "https://open.spotify.com/track/58oLSDXQwxHVb7SAVtSgpg"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Hoje Eu S\u00f3 Queria Ser o Amor de Algu\u00e9m",
         "url": "https://open.spotify.com/album/5epkj5XIM0JLgmkiIr7sxm"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 154490,
       "name": "Hoje Eu S\u00f3 Queria Ser o Amor de Algu\u00e9m",
       "url": "https://open.spotify.com/track/61TH5oOKfZDd4PLi2UHArP"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Talism\u00e3",
+        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Talism\u00e3",
+      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Talism\u00e3",
-        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Talism\u00e3",
-      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Vento no Canavial",
         "url": "https://open.spotify.com/album/70cOZazORuBs8VoC7ef3c0"
       },
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
+        "name": "O Beijo \u00e0 Flor",
+        "url": "https://open.spotify.com/album/6K8QyKxzIuEU1w4OwZPvMJ"
+      },
+      "artists": [
+        {
+          "name": "Will Leme",
+          "url": "https://open.spotify.com/artist/4XvFgo1nhoeDpN71tQ4b3H"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "O Beijo \u00e0 Flor",
+      "url": "https://open.spotify.com/track/4hZufYnbXHWb0FNuNuXy61"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
         "name": "Fascina\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4y2gkqcYkMseR49a2PzDal"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 181496,
       "name": "Fascina\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3WNTi4K0O6oaK306nHDNm0"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "O Beijo \u00e0 Flor",
-        "url": "https://open.spotify.com/album/6K8QyKxzIuEU1w4OwZPvMJ"
-      },
-      "artists": [
-        {
-          "name": "Will Leme",
-          "url": "https://open.spotify.com/artist/4XvFgo1nhoeDpN71tQ4b3H"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "O Beijo \u00e0 Flor",
-      "url": "https://open.spotify.com/track/4hZufYnbXHWb0FNuNuXy61"
     },
     {
       "added_at": "2024-08-09 15:15:51",

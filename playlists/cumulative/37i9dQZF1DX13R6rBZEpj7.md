@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-274 songs - 16 hr 44 min
+275 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,10 +111,11 @@
 | [Get Mad](https://open.spotify.com/track/3DCBwvEQDnGoYVjdoTa6hI) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/4OO0IkgyFv0EMMgiB3eD0f) | 3:37 | 2022-04-15 | 2023-05-19 |
 | [Get Mad](https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98) | 3:37 | 2023-04-04 | 2024-04-19 |
 | [Get Out](https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Ashdunn](https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy) | [Get Out](https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH) | 1:58 | 2024-06-28 |  |
-| [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 | 2022-08-12 |  |
+| [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 | 2022-08-12 | 2024-08-15 |
 | [Get Right](https://open.spotify.com/track/4p2RKpiWTdaDTPTJ63fMEM) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Get Right](https://open.spotify.com/album/2T3PGm9B64yh7FQYdfAh6J) | 3:15 | 2023-10-28 | 2024-05-17 |
 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 | 2022-04-15 |  |
 | [Give Me](https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT) | [AWILD](https://open.spotify.com/artist/6gcFu5cjBGbHYpLqE5NbC5) | [Give Me](https://open.spotify.com/album/1XtRIrbv7cArKTvkMJgMZQ) | 5:01 | 2022-04-15 | 2023-05-23 |
+| [Give Me Your Love \(Baby\) \(Zero Remix\)](https://open.spotify.com/track/5Qmto687964VIdsAsfmV5n) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE), [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Give Me Your Love \(Baby\) \(Zero Remix\)](https://open.spotify.com/album/5wKVgLmw73r4bEslj3t7wy) | 2:47 | 2024-08-09 |  |
 | [Got A Groove](https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy) | [Got A Groove](https://open.spotify.com/album/6IOBv6pqhN8eHLJfKJ1Xcd) | 4:31 | 2022-04-15 | 2022-12-25 |
 | [Gully](https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt) | 3:30 | 2023-01-24 | 2024-04-19 |
 | [Gully](https://open.spotify.com/track/4XpseHcAaQbfUugViy1oav) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/540DGYXSZ8c1MOMlxug0QQ) | 3:30 | 2022-10-28 | 2023-03-04 |

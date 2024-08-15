@@ -1,12 +1,12 @@
 {
   "description": "This is keshi. The essential tracks, all in one playlist.",
-  "num_followers": 223688,
+  "num_followers": 223779,
   "original_name": "This Is keshi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAADhAHFEee39I3bHVpNYlKVD",
+  "snapshot_id": "ZrqiAAAAAAD8fAbayqMcx8j6SHGJPvwd",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 227031,
-      "name": "drunk",
-      "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "skeletons",
         "url": "https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 152480,
       "name": "skeletons",
       "url": "https://open.spotify.com/track/2BuJrxYKhYky20dQqTlobO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 227031,
+      "name": "drunk",
+      "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 165154,
-      "name": "B.Y.S.",
-      "url": "https://open.spotify.com/track/2yyluSgySg95O24RBkgrMR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "magnolia",
         "url": "https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 139623,
       "name": "magnolia",
       "url": "https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 165154,
+      "name": "B.Y.S.",
+      "url": "https://open.spotify.com/track/2yyluSgySg95O24RBkgrMR"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 172354,
-      "name": "always",
-      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "it kills me",
         "url": "https://open.spotify.com/album/2Pvln0VWu4UmatZ9cvlveU"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 155428,
       "name": "it kills me",
       "url": "https://open.spotify.com/track/5QWGib8UBj4U9ybzmpuTUv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 172354,
+      "name": "always",
+      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
     },
     {
       "added_at": null,

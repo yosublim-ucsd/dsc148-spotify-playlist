@@ -2183,6 +2183,32 @@
     },
     {
       "album": {
+        "name": "Sky Time",
+        "url": "https://open.spotify.com/album/6a3obHasxduXehtFxlS7CX"
+      },
+      "artists": [
+        {
+          "name": "YAI",
+          "url": "https://open.spotify.com/artist/6CV1eZ3xM0Sfpfd6gkufrJ"
+        },
+        {
+          "name": "John Thayer",
+          "url": "https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k"
+        },
+        {
+          "name": "David Lackner",
+          "url": "https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182391,
+      "name": "Sky Time",
+      "url": "https://open.spotify.com/track/0Br1XgqraY0UkXY56QQ0oS"
+    },
+    {
+      "album": {
         "name": "Pink Noir",
         "url": "https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB"
       },
@@ -2844,7 +2870,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 155000,
       "name": "two",
       "url": "https://open.spotify.com/track/5AFbHte0qXKs8QUKTFY78i"

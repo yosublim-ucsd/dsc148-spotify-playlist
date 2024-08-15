@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:0f59qYByNYzspwAr7huTSB">Isadora Pompeo </a> and <a href="spotify:artist:3rdJD72bitczKtW5yNgAA4">Seph Schleuter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,935 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,963 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 9 | [Happily Hidden \(with John Mark McMillan\)](https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Happily Hidden](https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b) | 3:53 |
 | 10 | [Desirable](https://open.spotify.com/track/5UREzf4cUiZ9gkmcl7poLe) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Desirable](https://open.spotify.com/album/0BCyuqmhvDllxm2UJ8Hjhb) | 12:11 |
 | 11 | [Let Me See Jesus \- Live](https://open.spotify.com/track/6sigFENDLLKQaMc874J7T3) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Coming Back To The Heart \(Live Collection\)](https://open.spotify.com/album/0hZCaD2xckc6RSZjQHY97E) | 6:21 |
-| 12 | [Endless Well](https://open.spotify.com/track/6RDfVNCRkNkoXPpncyHTkH) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Sounds From The House \- Vol\. 1](https://open.spotify.com/album/5OmEixUzkXth6PVgD7OAoJ) | 5:59 |
+| 12 | [Endless Well / Show Me Your Face](https://open.spotify.com/track/6RDfVNCRkNkoXPpncyHTkH) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Sounds From The House \- Vol\. 1](https://open.spotify.com/album/5OmEixUzkXth6PVgD7OAoJ) | 5:59 |
 | 13 | [Wash Over Me \- Live](https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Wash Over Me \(Live\)](https://open.spotify.com/album/2OdJ4uS3VHMruiNKZl4X1Y) | 7:49 |
 | 14 | [His Glory and My Good \(Acoustic\) \- Live](https://open.spotify.com/track/3aLgQMVeLIUjl1O5YEbsZh) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [His Glory and My Good \(Acoustic\) \[Live\]](https://open.spotify.com/album/14Ole7fkfb4f6bJtBoT41C) | 5:12 |
 | 15 | [The Blessing \- Live From Europe](https://open.spotify.com/track/5IhJcSvpwhWCimFQgLzUpM) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Live From Europe](https://open.spotify.com/album/5htXe6Yr7XvTglqWJs2JBB) | 8:09 |

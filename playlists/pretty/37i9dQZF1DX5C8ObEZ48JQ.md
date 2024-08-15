@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/019a0Q0A8WEfLxoWT3Fl7h?si=HRfzclrCT5yHeDWpKHdpgg">KuchiCola</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq?si=FM0lfCEjTF\-SyE\_rdFdecQ">Mwami</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,602 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,622 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Crash & Burn](https://open.spotify.com/track/3zMBeTgZQQHDZnpY5p22ze) | [KuchiCola](https://open.spotify.com/artist/019a0Q0A8WEfLxoWT3Fl7h), [CCG](https://open.spotify.com/artist/37330J0XOYDNzKAm7zepXg) | [Stages](https://open.spotify.com/album/4HWC1IxEQumemgU3PZ5GgR) | 3:41 |
+| 1 | [boy scout](https://open.spotify.com/track/1NIuTnph0Svk9KH8l1w3IT) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [boy scout](https://open.spotify.com/album/5CyQ7GZ2s4uUv357auhfbR) | 3:26 |
 | 2 | [Quarter Life Crisis](https://open.spotify.com/track/2oRtlkII9VFYqo2uINihe0) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [Quarter Life Crisis](https://open.spotify.com/album/4AzGaTUXROzktohl92hFjz) | 3:26 |
-| 3 | [boy scout](https://open.spotify.com/track/1NIuTnph0Svk9KH8l1w3IT) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [boy scout](https://open.spotify.com/album/5CyQ7GZ2s4uUv357auhfbR) | 3:26 |
+| 3 | [Crash & Burn](https://open.spotify.com/track/3zMBeTgZQQHDZnpY5p22ze) | [KuchiCola](https://open.spotify.com/artist/019a0Q0A8WEfLxoWT3Fl7h), [CCG](https://open.spotify.com/artist/37330J0XOYDNzKAm7zepXg) | [Stages](https://open.spotify.com/album/4HWC1IxEQumemgU3PZ5GgR) | 3:41 |
 | 4 | [Childish Things](https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Childish Things](https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK) | 3:01 |
 | 5 | [I Decide](https://open.spotify.com/track/5ZHbW3KbAkz9JQ40u51r6k) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Like A Flower](https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h) | 2:11 |
 | 6 | [only u](https://open.spotify.com/track/2zmzogiVnesAdiv7FIoEfk) | [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [only u](https://open.spotify.com/album/3PigDoDoicbL7txnqGx0Uz) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Mistake](https://open.spotify.com/track/0mW1gi2M8i1IPLeWa0HBEb) | [Swagz.i](https://open.spotify.com/artist/3KxxsP70fVFsDrV5Ng1yse), [Elhi](https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI) | [Mistake](https://open.spotify.com/album/1xh0IghftnAwFPEp9Cvvli) | 3:06 |
 | 50 | [I BELIEVE](https://open.spotify.com/track/4K31DOojXo1oOWBF5XJOzh) | [Don Crucifixto](https://open.spotify.com/artist/18gL5f3O56nZPsJMPPHTys), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [BELIEVE IN FOREVER](https://open.spotify.com/album/7qOKvQ3NOxCkSDKA1p5d9Z) | 3:11 |
 
-Snapshot ID: `ZrNr7wAAAAA+tZ4z2LwT0PyTnA7s7awm`
+Snapshot ID: `ZrxlYgAAAAA+Gc5beHLmakq7o78Tgtgi`

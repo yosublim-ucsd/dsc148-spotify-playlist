@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Greg Strangler\. Playlista odświeżana w każdą środę.
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:4GNfmsk4UMneqeoOldw3vN">Greg Strangler</a>\. Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,852 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,857 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Zasłoń](https://open.spotify.com/track/1seZf4bOnKtXWJhRXjvosT) | [Vincent](https://open.spotify.com/artist/43dVSEV7mQfhBINR9Lx6f0), [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl) | [Zasłoń](https://open.spotify.com/album/2Eo0Y7LIAlzmmFskTezBl6) | 4:59 |
 | 100 | [nauka pływania w weekend](https://open.spotify.com/track/4FpBn2emdBZDMd1PZxZwTw) | [osoby](https://open.spotify.com/artist/0NpiJ7e1PgwFFvRP7FxXyC) | [nauka pływania w weekend](https://open.spotify.com/album/6PMGvdnkowVQYa9R6Ucn4k) | 3:34 |
 
-Snapshot ID: `ZrvzgAAAAAB9JS8TzX/j6w6HhjFnsJE8`
+Snapshot ID: `Zrx72gAAAAAkJR8DOG2SlXe020tm4N/d`

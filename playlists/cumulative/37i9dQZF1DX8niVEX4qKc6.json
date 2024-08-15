@@ -1007,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "enero en invierno - desde el taller",
+        "url": "https://open.spotify.com/album/7EskLL9urBXRdKbmI9ly0U"
+      },
+      "artists": [
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        },
+        {
+          "name": "Pato Cepeda",
+          "url": "https://open.spotify.com/artist/1PKydOaTMXD8XPd4aFtd8S"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "enero - desde el taller",
+      "url": "https://open.spotify.com/track/2gDMqm7nU7JSUKPz6Qy6mg"
+    },
+    {
+      "album": {
         "name": "enero (versi\u00f3n ac\u00fastica)",
         "url": "https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg"
       },
@@ -1210,7 +1232,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 213105,
       "name": "Fuimos",
       "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
@@ -1808,7 +1830,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 136132,
       "name": "M\u00e1gica",
       "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
@@ -2234,7 +2256,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"

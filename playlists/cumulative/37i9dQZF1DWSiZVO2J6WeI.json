@@ -5383,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Else",
+        "url": "https://open.spotify.com/album/2sSpHzan1oxIJ4z94Ub4SX"
+      },
+      "artists": [
+        {
+          "name": "Deep Seek",
+          "url": "https://open.spotify.com/artist/4ZfigssSXJtyPsGoUYLPZy"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Safe Inside",
+      "url": "https://open.spotify.com/track/6vM10Qv5vKNpLvfdg4N4j0"
+    },
+    {
+      "album": {
         "name": "The Ambient Mind",
         "url": "https://open.spotify.com/album/3lltLkrl9MR1sdeDaR4OSv"
       },
@@ -6438,7 +6456,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 144750,
       "name": "Touches",
       "url": "https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb"

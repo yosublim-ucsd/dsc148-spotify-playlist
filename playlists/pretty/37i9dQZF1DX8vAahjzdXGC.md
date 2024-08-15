@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,201 likes - 102 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,225 likes - 102 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 98 | [サマータイム・ブルース](https://open.spotify.com/track/3p2EfPkTncUEGp0vuRxAGz) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サマータイム・ブルース](https://open.spotify.com/album/2nRZF4bBVc5KL3MKuuPBpk) | 3:46 |
 | 99 | [Nukui](https://open.spotify.com/track/4WzotMbiarPo9fnLs54fIF) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [Nukui](https://open.spotify.com/album/6gqQ7JZUsWmYl9OxU8gHzZ) | 3:50 |
 | 100 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
-| 101 | [I Wish](https://open.spotify.com/track/1uGWXD2mnNRqWtxBz8bVmm) | [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv), [Emlo](https://open.spotify.com/artist/5O4IDbze1xrfs2zY8wLJ1H) | [I Wish](https://open.spotify.com/album/3qntf8oitgKJp03AaMADp0) | 2:33 |
+| 101 | [I Wish](https://open.spotify.com/track/1uGWXD2mnNRqWtxBz8bVmm) | [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv), [Emlo](https://open.spotify.com/artist/1BHivWEpmuwIT1rBtmI0fb) | [I Wish](https://open.spotify.com/album/3qntf8oitgKJp03AaMADp0) | 2:33 |
 | 102 | [YOUNG](https://open.spotify.com/track/3tEjUYWG6bw4AQ4BHuKDBx) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [YOUNG](https://open.spotify.com/album/1vAh1Z6JVTjVGWQNjIF95A) | 3:28 |
 
 Snapshot ID: `Zrr8ZgAAAABGTLzs0xYFA+bJ6ex9FJlY`

@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-201 songs - 11 hr 15 min
+202 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [D \- 이야기](https://open.spotify.com/track/3rWvseGXGmmOsg4hRm7jUl) | [DAB19](https://open.spotify.com/artist/5UdyE3s0FtqyDMWNGkQvOu) | [D \- 이야기](https://open.spotify.com/album/0VAzE9GG4ifqL05VtRhsDQ) | 4:04 | 2022-04-21 | 2022-04-24 |
 | [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 | 2022-06-09 | 2022-07-29 |
 | [ddu\-du\-du \(feat\. unofficialboyy\)](https://open.spotify.com/track/2vqBAbjsed0GYFlTTYYcyt) | [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [ARIA II : Vendetta](https://open.spotify.com/album/0mNJrHxXLpCvBmPfvWSLTf) | 2:40 | 2022-06-03 | 2022-06-06 |
+| [dear a.i](https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [DEAR A.I](https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy) | 2:29 | 2024-08-10 |  |
 | [DENIAL \- Radio Edit](https://open.spotify.com/track/3rzQIUG5c4QNXJf2kz2T0r) | [Room306](https://open.spotify.com/artist/7ENWxUjyJ2dMkhA6M0JXH3) | [DENIAL \(Radio Edit\)](https://open.spotify.com/album/5NkizpSqO2AGCM6uKF035c) | 3:43 | 2022-04-18 | 2022-07-14 |
 | [Die For You \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Twilight](https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX) | 3:12 | 2022-12-26 | 2023-03-27 |
 | [Do Not Want To Do It](https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95) | 3:52 | 2022-07-25 | 2022-11-10 |
@@ -60,7 +61,7 @@
 | [Don't Be Blue](https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Don't Be Blue](https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk) | 3:03 | 2022-04-18 | 2023-03-10 |
 | [Don't cry \(Feat\. george\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/3pEGkFxAMIsz0qNadCveuX) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 3:40 | 2022-04-21 | 2022-07-14 |
 | [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-05-05 | 2024-04-19 |
-| [Don't ever say love me \(Feat\. RM of BTS\)](https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F) | 3:34 | 2024-05-14 |  |
+| [Don't ever say love me \(Feat\. RM of BTS\)](https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F) | 3:34 | 2024-05-14 | 2024-08-15 |
 | [downwithyou](https://open.spotify.com/track/39jC2BPXLwujVcldr5Ca6I) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:14 | 2022-04-21 | 2022-04-26 |
 | [Dream, Not mine](https://open.spotify.com/track/7bqRyhJ3HTuplXfgaZoYCW) | [My Little Hobby](https://open.spotify.com/artist/2T4GOKiptXNejSObyWmWIf) | [Dream, Not mine](https://open.spotify.com/album/5XoMu7yTG0RV8x07xuvAEB) | 2:44 | 2022-04-18 | 2022-05-20 |
 | [DRUNK TALK \(feat\. sogumm\)](https://open.spotify.com/track/6BE4q4cqxgCU3cipzgFAu9) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 4:14 | 2022-04-18 | 2024-06-03 |

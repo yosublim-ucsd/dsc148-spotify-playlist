@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,581 likes - 180 songs - 17 hr 9 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,611 likes - 180 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 11 | [They Always Do \- Live](https://open.spotify.com/track/1Tjw8b9Nkv1pKHrohw0sgl) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Anjin Teal](https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc) | [They Always Do \(Live\)](https://open.spotify.com/album/0E92LMcaFJbJFM6XyIpBa9) | 6:08 |
 | 12 | [Fear of God ∞](https://open.spotify.com/track/27GcUxI5ScpItTrA82fwSD) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [INFINITY](https://open.spotify.com/album/026YDYCcrzKoCrELvYR1ZM) | 4:33 |
 | 13 | [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 |
-| 14 | [Endless Well](https://open.spotify.com/track/6RDfVNCRkNkoXPpncyHTkH) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Sounds From The House \- Vol\. 1](https://open.spotify.com/album/5OmEixUzkXth6PVgD7OAoJ) | 5:59 |
+| 14 | [Endless Well / Show Me Your Face](https://open.spotify.com/track/6RDfVNCRkNkoXPpncyHTkH) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Sounds From The House \- Vol\. 1](https://open.spotify.com/album/5OmEixUzkXth6PVgD7OAoJ) | 5:59 |
 | 15 | [Happily Hidden \(with John Mark McMillan\)](https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Happily Hidden](https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b) | 3:53 |
 | 16 | [MADE A WAY \(SET ME FREE\)](https://open.spotify.com/track/2t9RjCFPS8AoUqcvrBu7oC) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [MADE A WAY \(SET ME FREE\)](https://open.spotify.com/album/3t6helvHvgqC9Uj6qRj1vY) | 4:57 |
 | 17 | [We Invite Your Fire \- Live](https://open.spotify.com/track/1DI92SQfyiB2YDp1aZA12n) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Brian Nhira](https://open.spotify.com/artist/7D9JzM95gIe11f6L3h1w1L) | [We Invite Your Fire \(Live\)](https://open.spotify.com/album/1cKT7ar2PKd7CwNKKSmatt) | 6:19 |

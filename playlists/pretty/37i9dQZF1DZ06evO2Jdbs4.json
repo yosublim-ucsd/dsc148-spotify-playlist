@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 27282,
+  "num_followers": 27285,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAABhqmNIJhBofDDI+yLbEmIz",
+  "snapshot_id": "ZrqiAAAAAAAE72ppd1Y6l9BnKTedMQYI",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "El Cazador",
-      "url": "https://open.spotify.com/track/3B6ZP7yDYHRuLbid9Bk0FO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Llegaste A Mi Vida",
         "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 220466,
       "name": "Qu\u00e9 M\u00e1s Te Puedo Dar",
       "url": "https://open.spotify.com/track/7JTgmtRq4WBy2jG6Ijm9m8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "El Cazador",
+      "url": "https://open.spotify.com/track/3B6ZP7yDYHRuLbid9Bk0FO"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zona de Peligro",
-        "url": "https://open.spotify.com/album/3LjISuwDaksJyhnG1iiIgA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 182960,
-      "name": "Permaneces en M\u00ed",
-      "url": "https://open.spotify.com/track/4p5UDTUZXr7T8ctt1X1zg0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dias de Ayer",
         "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 199733,
       "name": "Algun Dia",
       "url": "https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zona de Peligro",
+        "url": "https://open.spotify.com/album/3LjISuwDaksJyhnG1iiIgA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "Permaneces en M\u00ed",
+      "url": "https://open.spotify.com/track/4p5UDTUZXr7T8ctt1X1zg0"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si No Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 194021,
       "name": "Si No Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que Baile Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Se Me Antoja",
-      "url": "https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Cazador",
         "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212466,
       "name": "Como Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/6zpbZkfhTuywWpHcJVYOm5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Que Baile Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Se Me Antoja",
+      "url": "https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ll\u00f3rame",
         "url": "https://open.spotify.com/album/0XT8nEBbAPG8TTRc5ZwLqf"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 186459,
       "name": "Ll\u00f3rame",
       "url": "https://open.spotify.com/track/2uBdikf4ImGwMP4UZCpt0W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
     },
     {
       "added_at": null,

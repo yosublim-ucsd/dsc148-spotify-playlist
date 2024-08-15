@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Saya No\u00e9",
-  "num_followers": 13450,
+  "num_followers": 13452,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
+        "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
+        "url": "https://open.spotify.com/album/4G9Vuu4KqcUDSWyk6KaqBi"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 127885,
+      "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
+      "url": "https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ"
+    },
+    {
+      "added_at": "2024-08-02 09:21:11",
+      "album": {
         "name": "Quatre Grapes",
         "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 210400,
       "name": "Quatre Grapes",
       "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
-    },
-    {
-      "added_at": "2024-08-02 09:21:11",
-      "album": {
-        "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
-        "url": "https://open.spotify.com/album/4G9Vuu4KqcUDSWyk6KaqBi"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 127885,
-      "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
-      "url": "https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ"
     },
     {
       "added_at": "2024-08-02 09:21:11",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
+        "name": "hov\u00e1sz\u00f6kt\u00e9l?",
+        "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
+      },
+      "artists": [
+        {
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "hov\u00e1sz\u00f6kt\u00e9l?",
+      "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
+    },
+    {
+      "added_at": "2024-08-02 09:21:11",
+      "album": {
         "name": "Szob\u00e1k felett",
         "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 229480,
       "name": "Hex",
       "url": "https://open.spotify.com/track/2DShMZVt6bD0BJdmSCdnER"
-    },
-    {
-      "added_at": "2024-08-02 09:21:11",
-      "album": {
-        "name": "hov\u00e1sz\u00f6kt\u00e9l?",
-        "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
-      },
-      "artists": [
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "hov\u00e1sz\u00f6kt\u00e9l?",
-      "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
     },
     {
       "added_at": "2024-08-02 09:21:11",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
+        "name": "kapunyit\u00e1si p\u00e1nik",
+        "url": "https://open.spotify.com/album/4dXfutjXoN3waqbIqPMgo1"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "kapunyit\u00e1si p\u00e1nik",
+      "url": "https://open.spotify.com/track/77cSEXTUwyFrOHnSbowhKn"
+    },
+    {
+      "added_at": "2024-08-02 09:21:11",
+      "album": {
         "name": "J\u00f6v\u0151 ny\u00e1ron",
         "url": "https://open.spotify.com/album/5tKN9PO1ZgZUHWsIQctOCR"
       },
@@ -1235,38 +1251,6 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
-        "name": "Dreamgirl",
-        "url": "https://open.spotify.com/album/2jCYpMUl6kltjhUpxotxBO"
-      },
-      "artists": [
-        {
-          "name": "Puzzls",
-          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Dreamgirl",
-      "url": "https://open.spotify.com/track/4GaXyfHQd1grsMdL5y5N50"
-    },
-    {
-      "added_at": "2024-08-02 09:21:11",
-      "album": {
-        "name": "kapunyit\u00e1si p\u00e1nik",
-        "url": "https://open.spotify.com/album/4dXfutjXoN3waqbIqPMgo1"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "kapunyit\u00e1si p\u00e1nik",
-      "url": "https://open.spotify.com/track/77cSEXTUwyFrOHnSbowhKn"
-    },
-    {
-      "added_at": "2024-08-02 09:21:11",
-      "album": {
         "name": "TIK-TAK",
         "url": "https://open.spotify.com/album/0zKlCumrFYMC5lLVL42hRP"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 309252,
       "name": "TIK-TAK",
       "url": "https://open.spotify.com/track/4QsWsbAEdYMsT8Z0JlTRVK"
+    },
+    {
+      "added_at": "2024-08-02 09:21:11",
+      "album": {
+        "name": "Dreamgirl",
+        "url": "https://open.spotify.com/album/2jCYpMUl6kltjhUpxotxBO"
+      },
+      "artists": [
+        {
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Dreamgirl",
+      "url": "https://open.spotify.com/track/4GaXyfHQd1grsMdL5y5N50"
     },
     {
       "added_at": "2024-08-02 09:21:11",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-08-02 09:21:11",
       "album": {
-        "name": "Elk\u00e9pzelt H\u0151s",
-        "url": "https://open.spotify.com/album/6d6ZFECNuG6rfZ6NT0HZkn"
-      },
-      "artists": [
-        {
-          "name": "godfater.",
-          "url": "https://open.spotify.com/artist/3qVfxEzzh2djh9KaLgOkBh"
-        }
-      ],
-      "duration_ms": 358541,
-      "name": "Elk\u00e9pzelt H\u0151s",
-      "url": "https://open.spotify.com/track/7ygArGFB1kfKb3NSywRO2E"
-    },
-    {
-      "added_at": "2024-08-02 09:21:11",
-      "album": {
         "name": "SAME OLD LIES",
         "url": "https://open.spotify.com/album/1GpPYa9LDqDt8nCXimLWNk"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 154329,
       "name": "SAME OLD LIES",
       "url": "https://open.spotify.com/track/3o7poLcvXMdISIbfwkiGYN"
+    },
+    {
+      "added_at": "2024-08-02 09:21:11",
+      "album": {
+        "name": "Elk\u00e9pzelt H\u0151s",
+        "url": "https://open.spotify.com/album/6d6ZFECNuG6rfZ6NT0HZkn"
+      },
+      "artists": [
+        {
+          "name": "godfater.",
+          "url": "https://open.spotify.com/artist/3qVfxEzzh2djh9KaLgOkBh"
+        }
+      ],
+      "duration_ms": 358541,
+      "name": "Elk\u00e9pzelt H\u0151s",
+      "url": "https://open.spotify.com/track/7ygArGFB1kfKb3NSywRO2E"
     },
     {
       "added_at": "2024-08-02 09:21:11",

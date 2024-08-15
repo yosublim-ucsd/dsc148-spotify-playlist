@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Girl at Coachella",
+        "url": "https://open.spotify.com/album/2I53wBxUAO4sawuAnUpGX3"
+      },
+      "artists": [
+        {
+          "name": "Tore",
+          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167570,
+      "name": "Girl at Coachella",
+      "url": "https://open.spotify.com/track/7DHIgW9qEMP6qkz5PytLM6"
+    },
+    {
+      "album": {
         "name": "Go Rilla (Acoustic Version)",
         "url": "https://open.spotify.com/album/2Zg2RPymjzpXOnprsg9e9y"
       },
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 134795,
       "name": "Starbuck",
       "url": "https://open.spotify.com/track/5UKwcsu3N0XE4pYlbqywUc"

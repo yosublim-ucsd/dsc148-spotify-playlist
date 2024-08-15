@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-328 songs - 19 hr 21 min
+329 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,8 @@
 | [Theme of the Fast Carriers \- 1992 Remastered](https://open.spotify.com/track/6pJNcwPhFhVqjCSZcImHdu) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 6:44 | 2024-07-26 |  |
 | [There Is Nothin' Like A Dame](https://open.spotify.com/track/4BlSoGubODlTUB594lXdBc) | [Ken Darby Male Chorus](https://open.spotify.com/artist/59Gk1wc3QsasqaglzYllZX) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 3:48 | 2024-07-26 |  |
 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2024-07-26 |  |
-| [There's So Much More](https://open.spotify.com/track/3R2VHQSDiUTr9iIm04Vrwt) | [Edie Adams](https://open.spotify.com/artist/20xJMiNKh4U7fPPZMcqS34) | [The Charming Miss Edie Adams](https://open.spotify.com/album/5XSreZXe7Xdv6nUvD7YFP2) | 2:04 | 2024-07-26 |  |
+| [There's So Much More](https://open.spotify.com/track/3R2VHQSDiUTr9iIm04Vrwt) | [Edie Adams](https://open.spotify.com/artist/20xJMiNKh4U7fPPZMcqS34) | [The Charming Miss Edie Adams](https://open.spotify.com/album/5XSreZXe7Xdv6nUvD7YFP2) | 2:04 | 2024-07-26 | 2024-08-15 |
+| [There's so Much More](https://open.spotify.com/track/1TBgleqZqpTc2IGPVkYLuS) | [Edie Adams](https://open.spotify.com/artist/20xJMiNKh4U7fPPZMcqS34), [Joe Leahy Orchestra](https://open.spotify.com/artist/7KGif6Pwikw0EuWwKLWnyI) | [Edie Adams](https://open.spotify.com/album/4YhLTK5d5Ad8P9eCeruAwO) | 2:01 | 2024-08-14 |  |
 | [This Can’t Be Love \- Remastered](https://open.spotify.com/track/2dr81lIlZJXoigFFLPfu6x) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Stepping Out \(Remastered\)](https://open.spotify.com/album/5Nx6h9D5D590z97dOv7VcO) | 4:30 | 2024-07-26 |  |
 | [This Funny World](https://open.spotify.com/track/14yi7IFUzsqhaB81q3QIp9) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:04 | 2024-07-26 |  |
 | [This Nearly Was Mine](https://open.spotify.com/track/4BKxQQcll17isb1T6OL3fo) | [Emile De Becque](https://open.spotify.com/artist/1plfcn0c0NhdTZhoaEm6Qd) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 2:09 | 2024-07-26 |  |

@@ -380,6 +380,6 @@
 | [Your Name](https://open.spotify.com/track/50OdYCrgXjemzCDZ110bQn) | [M'ViTim](https://open.spotify.com/artist/5Yfi09XNJW2XCdbFZZhLMO), [GRACELYNE](https://open.spotify.com/artist/2moloLNsTmL1NPphDdgIsS) | [Your Name](https://open.spotify.com/album/2LxSXk05DNpcYZfJzBF1y3) | 8:26 | 2022-06-09 | 2022-12-29 |
 | [Your Name \(Jesus\)](https://open.spotify.com/track/0fT8IVJIw3zwTW8TnAcBpQ) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Breathe](https://open.spotify.com/album/254N1MBygkKvBoWrKToJ0K) | 4:27 | 2023-12-05 | 2023-12-11 |
 | [Your Presence](https://open.spotify.com/track/6aqzwVVsawK5WSmlqleua4) | [Israel Odebode](https://open.spotify.com/artist/5OI7lbxEo6Aful1qsoBlnk), [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2) | [Your Presence](https://open.spotify.com/album/4jvUvzmRzwUWu74HtHYrLW) | 8:55 | 2022-10-14 | 2022-11-05 |
-| [Zoe](https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 8:33 | 2023-06-16 |  |
+| [Zoe](https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \- Transcendent Worship](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 8:33 | 2023-06-16 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 77338,
+  "num_followers": 77361,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 229642,
+      "name": "Canci\u00f3n de Lejos",
+      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
         "name": "C\u00f3mplices",
         "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 320085,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 229642,
-      "name": "Canci\u00f3n de Lejos",
-      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -799,8 +799,8 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Al Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
+        "name": "No me quiero ir",
+        "url": "https://open.spotify.com/album/27IWbwdFn9XVoVdFpbtutD"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 228961,
-      "name": "Al Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
+      "duration_ms": 250201,
+      "name": "No me quiero ir",
+      "url": "https://open.spotify.com/track/3f1PnODNw1ZNxtywrhtgJr"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
+        "name": "Repechando la Senda",
+        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
+      },
+      "artists": [
+        {
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
+        }
+      ],
+      "duration_ms": 233561,
+      "name": "Nunca Olvides",
+      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
         "name": "Entrega de Amor",
         "url": "https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 185852,
       "name": "Entrega de Amor",
       "url": "https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
-        "name": "Repechando la Senda",
-        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
-      },
-      "artists": [
-        {
-          "name": "Los Puesteros",
-          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
-        }
-      ],
-      "duration_ms": 233561,
-      "name": "Nunca Olvides",
-      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Tan Cerca En La Distancia",
-        "url": "https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo"
-      },
-      "artists": [
-        {
-          "name": "Los Juncales",
-          "url": "https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA"
-        }
-      ],
-      "duration_ms": 202728,
-      "name": "Tan Cerca En La Distancia",
-      "url": "https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
         "name": "Churita",
         "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 183866,
       "name": "La Guada",
       "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
+        "name": "Tan Cerca En La Distancia",
+        "url": "https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo"
+      },
+      "artists": [
+        {
+          "name": "Los Juncales",
+          "url": "https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA"
+        }
+      ],
+      "duration_ms": 202728,
+      "name": "Tan Cerca En La Distancia",
+      "url": "https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG"
     },
     {
       "added_at": "2024-06-12 22:59:35",

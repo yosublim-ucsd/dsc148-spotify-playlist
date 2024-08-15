@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14528,
+  "num_followers": 14516,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-08-10 15:58:49",
       "album": {
-        "name": "I Mean",
-        "url": "https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 240009,
-      "name": "Way Back Home",
-      "url": "https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU"
-    },
-    {
-      "added_at": "2024-08-10 15:58:49",
-      "album": {
         "name": "Workaholic (feat. ASH ISLAND)",
         "url": "https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 193986,
       "name": "Workaholic (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq"
+    },
+    {
+      "added_at": "2024-08-10 15:58:49",
+      "album": {
+        "name": "I Mean",
+        "url": "https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 240009,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU"
     },
     {
       "added_at": "2024-08-10 15:58:49",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-08-10 15:58:49",
       "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS"
-    },
-    {
-      "added_at": "2024-08-10 15:58:49",
-      "album": {
         "name": "I'll be by your side",
         "url": "https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS"
       },
@@ -551,18 +535,34 @@
     {
       "added_at": "2024-08-10 15:58:49",
       "album": {
-        "name": "Girls Planet 999 - Completion Mission",
-        "url": "https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU"
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
       },
       "artists": [
         {
-          "name": "Girls Planet 999",
-          "url": "https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 202866,
-      "name": "Another Dream",
-      "url": "https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5"
+      "duration_ms": 215693,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS"
+    },
+    {
+      "added_at": "2024-08-10 15:58:49",
+      "album": {
+        "name": "Extraordinary Attorney Woo (Original Television SoundTrack) Pt. 1",
+        "url": "https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "duration_ms": 262143,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl"
     },
     {
       "added_at": "2024-08-10 15:58:49",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-08-10 15:58:49",
       "album": {
-        "name": "Extraordinary Attorney Woo (Original Television SoundTrack) Pt. 1",
-        "url": "https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK"
+        "name": "Girls Planet 999 - Completion Mission",
+        "url": "https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU"
       },
       "artists": [
         {
-          "name": "Kim Jong Wan of NELL",
-          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+          "name": "Girls Planet 999",
+          "url": "https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W"
         }
       ],
-      "duration_ms": 262143,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl"
+      "duration_ms": 202866,
+      "name": "Another Dream",
+      "url": "https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5"
     },
     {
       "added_at": "2024-08-10 15:58:49",

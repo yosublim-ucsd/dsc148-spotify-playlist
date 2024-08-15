@@ -2,7 +2,7 @@
 
 ### [This Is Gondwana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2z72hy)
 
-> This Is Gondwana\. Los temas esenciales, todos en una lista.
+> This is: Gondwana\. Alle wichtigen Tracks in einer Playlist.
 
 82 songs - 5 hr 34 min
 

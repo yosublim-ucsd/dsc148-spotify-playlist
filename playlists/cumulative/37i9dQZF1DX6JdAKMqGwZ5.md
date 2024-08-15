@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Natalia Lacunza.
 
-150 songs - 7 hr 49 min
+151 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Mejor que muera](https://open.spotify.com/track/5YcYhjjoZJsfVbkgF24YuN) | [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP), [Papaya Club](https://open.spotify.com/artist/40tfI19XPizQqSuf0nfuIX) | [Mejor que muera](https://open.spotify.com/album/6SxTJOu9LUn2AYVMJFF5C3) | 4:17 | 2024-07-04 | 2024-07-12 |
 | [Mi Barrio](https://open.spotify.com/track/1dw2PZHbL7HXcbM97S9BdM) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Mi Barrio](https://open.spotify.com/album/57E7nwWxTOuc3WirxePwmc) | 3:10 | 2024-06-27 | 2024-07-12 |
 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 | 2024-06-27 | 2024-07-12 |
+| [Mimetizarnos](https://open.spotify.com/track/6436kNCDC0NvCgvBVCNsWG) | [TAURO](https://open.spotify.com/artist/2B76nxBwYVPBmWnqUqbsIN), [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Mimetizarnos](https://open.spotify.com/album/6nsNU5wYVt9mbm1AXQRM3L) | 2:52 | 2024-08-08 |  |
 | [Mirarte](https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Mirarte](https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9) | 3:08 | 2024-06-27 |  |
 | [Mis Tías](https://open.spotify.com/track/0j9azcT9Rj85v2PKLulWfs) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Mis Tías](https://open.spotify.com/album/1yaPRCa4pcJpYHQzDTFtaD) | 2:38 | 2024-07-18 | 2024-08-09 |
 | [Nadie Sabe](https://open.spotify.com/track/07Zg8kkvdzJDhWZYpqgZAE) | [Ciutat](https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Nadie Sabe](https://open.spotify.com/album/3IoYLb8LhxNQj5fczxJx1w) | 4:12 | 2024-06-27 | 2024-07-12 |
@@ -149,7 +150,7 @@
 | [un beso y una flor](https://open.spotify.com/track/2ZjanRmhMk2cBK6Hl4nAYL) | [Eva B](https://open.spotify.com/artist/7C6WKCefGMAg2hbx7BNCIq) | [un beso y una flor](https://open.spotify.com/album/2f5b0JZTneMgOWC78ACg0p) | 3:06 | 2024-06-27 |  |
 | [Un Millón de Años](https://open.spotify.com/track/1FwNzcMOscVkseCTpW6aey) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Un Millón de Años](https://open.spotify.com/album/1cpc3zlcpeHCWS9ib1E4dG) | 3:37 | 2024-06-27 | 2024-08-03 |
 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 | 2024-06-27 |  |
-| [Valle La Pena](https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i) | [Mustard](https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6) | [Valle La Pena](https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio) | 3:03 | 2024-08-08 |  |
+| [Valle La Pena](https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i) | [Mustard](https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6) | [Valle La Pena](https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio) | 3:03 | 2024-08-08 | 2024-08-15 |
 | [Volver](https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK) | [Javi Chapela](https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk) | [Volver](https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l) | 3:53 | 2024-06-27 |  |
 | [Volveréis](https://open.spotify.com/track/1DorbdhQk2qrzucKdxfv1d) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [Volveréis](https://open.spotify.com/album/37A5BZoVIV9VfG2yRM0SwD) | 3:09 | 2024-07-25 |  |
 | [Wishlist](https://open.spotify.com/track/20aoleAxPtehxjAs1IPfOE) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Wishlist](https://open.spotify.com/album/0wOc28ecs1pVaHSi16bUsA) | 2:30 | 2024-06-27 | 2024-08-02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: ZelliX, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Sudan, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 184160,
       "name": "Ae Bandey",
       "url": "https://open.spotify.com/track/0eVEI23kHZob5VL93Iy6cI"
@@ -3367,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "burning desire",
+        "url": "https://open.spotify.com/album/6tD0xbtwZelkad4FvB0cpN"
+      },
+      "artists": [
+        {
+          "name": "vishi",
+          "url": "https://open.spotify.com/artist/60n9I7tfidGSwYM0qPZkwX"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174599,
+      "name": "burning desire",
+      "url": "https://open.spotify.com/track/3GobSxwNTJ3r6AtEsEPCie"
+    },
+    {
+      "album": {
         "name": "But I Do",
         "url": "https://open.spotify.com/album/2HcCZ1vYBDlYdP9yVJpfho"
       },
@@ -3512,6 +3530,28 @@
       "duration_ms": 208669,
       "name": "Can We Be",
       "url": "https://open.spotify.com/track/5KwzRl5j8lohCvX9ar5K3F"
+    },
+    {
+      "album": {
+        "name": "can you / hai kyun",
+        "url": "https://open.spotify.com/album/5Mzxo6zj8XO6GUESDoSheH"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188461,
+      "name": "can you / hai kyun",
+      "url": "https://open.spotify.com/track/6vuxf3pKSpeClE6ONnh1yt"
     },
     {
       "album": {
@@ -3685,6 +3725,24 @@
     },
     {
       "album": {
+        "name": "Chal Le Chal Bazaar",
+        "url": "https://open.spotify.com/album/3TQLdl04Vv7lVCcQwhVm9o"
+      },
+      "artists": [
+        {
+          "name": "Karandeep Mattou",
+          "url": "https://open.spotify.com/artist/1STzHJqJoQPIGVCqr6mA4a"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172057,
+      "name": "Chal Le Chal Bazaar",
+      "url": "https://open.spotify.com/track/4nlhgAnwRy9jUADpyGW2Tn"
+    },
+    {
+      "album": {
         "name": "Chal Na Udte Hain",
         "url": "https://open.spotify.com/album/2kyMyAlfCD6o47Vk7trrPM"
       },
@@ -3826,6 +3884,28 @@
       "duration_ms": 238000,
       "name": "Chale Gaye",
       "url": "https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ"
+    },
+    {
+      "album": {
+        "name": "Still But Moving",
+        "url": "https://open.spotify.com/album/5xpIHYUSRoUVfXghbXKASj"
+      },
+      "artists": [
+        {
+          "name": "Anhad + Tanner",
+          "url": "https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ"
+        },
+        {
+          "name": "Avneet Khurmi",
+          "url": "https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227312,
+      "name": "Challa",
+      "url": "https://open.spotify.com/track/6DZQ63O3VAIvJsJ8lwVfwp"
     },
     {
       "album": {
@@ -4889,6 +4969,24 @@
     },
     {
       "album": {
+        "name": "Dhokebaaz",
+        "url": "https://open.spotify.com/album/45sTsLLb7HHrnbkqU7TqRr"
+      },
+      "artists": [
+        {
+          "name": "Karigar",
+          "url": "https://open.spotify.com/artist/6BSvdM5bDjeGF7dAaprE5k"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216110,
+      "name": "Dhokebaaz",
+      "url": "https://open.spotify.com/track/1SQjiC4ds8kEzI9aeutBpp"
+    },
+    {
+      "album": {
         "name": "Dhoop",
         "url": "https://open.spotify.com/album/0CMr49eak5L8DzITSYzYYZ"
       },
@@ -5188,7 +5286,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 97069,
       "name": "Dil Ki Baat",
       "url": "https://open.spotify.com/track/4y9zpfPPxxdYewg6nem0lE"
@@ -9434,6 +9532,24 @@
     {
       "album": {
         "name": "Intezaar",
+        "url": "https://open.spotify.com/album/7C3BtPk4WwP3eRlpk7KcM3"
+      },
+      "artists": [
+        {
+          "name": "Deb",
+          "url": "https://open.spotify.com/artist/2btILajeHQDo6O6WpJ9wcm"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197407,
+      "name": "Intezaar",
+      "url": "https://open.spotify.com/track/6RBdY0KhCCNrmmkKejUDLv"
+    },
+    {
+      "album": {
+        "name": "Intezaar",
         "url": "https://open.spotify.com/album/1sjfUYOF4tfYNlve1nJZRu"
       },
       "artists": [
@@ -10096,7 +10212,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 192000,
       "name": "Jahaan",
       "url": "https://open.spotify.com/track/0lDbiE4PfsGJX61XUtSX6p"
@@ -10206,6 +10322,24 @@
       "duration_ms": 225205,
       "name": "Jahan Bhi Ho",
       "url": "https://open.spotify.com/track/2JBtmxNroYCUwI3JnP4PzT"
+    },
+    {
+      "album": {
+        "name": "Jalta Dekh Lo",
+        "url": "https://open.spotify.com/album/1aDBsRyUgsd3keVhkdK44D"
+      },
+      "artists": [
+        {
+          "name": "Rahgir",
+          "url": "https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Jalta Dekh Lo",
+      "url": "https://open.spotify.com/track/5hT2D2tX7ygtcnnFtcYEf5"
     },
     {
       "album": {
@@ -13590,7 +13724,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 158000,
       "name": "Lehrein",
       "url": "https://open.spotify.com/track/5DtLtzTnFcbOuGU6tXPNFq"
@@ -13648,6 +13782,24 @@
       "duration_ms": 215001,
       "name": "Let's",
       "url": "https://open.spotify.com/track/2I1ooQMtNkx8nRKrXTQzhK"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s Talk",
+        "url": "https://open.spotify.com/album/2h86O5bCVn4jYMKZHpqkbj"
+      },
+      "artists": [
+        {
+          "name": "Vee Kapoor",
+          "url": "https://open.spotify.com/artist/6HLcCtYEqZkc4BpCuoogyY"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Let\u2019s Talk",
+      "url": "https://open.spotify.com/track/0u1eM3kOXDjKkVFaFO8nyy"
     },
     {
       "album": {
@@ -14994,7 +15146,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 300560,
       "name": "Mela",
       "url": "https://open.spotify.com/track/1tuZpWlT7D0ZfJjmHT43FJ"
@@ -15634,7 +15786,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 124000,
       "name": "More Sajan",
       "url": "https://open.spotify.com/track/4ebzARJSxxzlvR7O5vtJ3S"
@@ -16008,24 +16160,6 @@
       "duration_ms": 229714,
       "name": "My Realisation",
       "url": "https://open.spotify.com/track/1g97qHhBSRecH87KPgpAnO"
-    },
-    {
-      "album": {
-        "name": "Na Hosh Mein",
-        "url": "https://open.spotify.com/album/3TQLdl04Vv7lVCcQwhVm9o"
-      },
-      "artists": [
-        {
-          "name": "Harshit Pokhriyal",
-          "url": "https://open.spotify.com/artist/0vXGNXD0IkfMyZVfGyJcfR"
-        }
-      ],
-      "date_added": "2024-07-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172057,
-      "name": "Na Hosh Mein",
-      "url": "https://open.spotify.com/track/4nlhgAnwRy9jUADpyGW2Tn"
     },
     {
       "album": {
@@ -16788,10 +16922,28 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 194120,
       "name": "Okay With Me?",
       "url": "https://open.spotify.com/track/6l3TaJIwsVSyK3ZIkMunXk"
+    },
+    {
+      "album": {
+        "name": "sudan?",
+        "url": "https://open.spotify.com/album/2oDs4AS0vOhIW8kEnYEsmO"
+      },
+      "artists": [
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "omg",
+      "url": "https://open.spotify.com/track/0EQdT5HDWGZT96zEmObkAj"
     },
     {
       "album": {
@@ -20193,6 +20345,24 @@
     },
     {
       "album": {
+        "name": "Saza Yeh Kaisi",
+        "url": "https://open.spotify.com/album/2OiWKf2taQgR1ymB6iOEnq"
+      },
+      "artists": [
+        {
+          "name": "Vincent Boral",
+          "url": "https://open.spotify.com/artist/0ZWcvDl5x0q79wjTREH2IH"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79500,
+      "name": "Saza Yeh Kaisi",
+      "url": "https://open.spotify.com/track/0Kw1VZNUKCVD2B4n6kZLHn"
+    },
+    {
+      "album": {
         "name": "Scarlet Skies",
         "url": "https://open.spotify.com/album/0rZ3ecLj2GVFLQwmzfDuu9"
       },
@@ -20672,7 +20842,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 186013,
       "name": "Skye",
       "url": "https://open.spotify.com/track/4klZh7knbKt2GT7ltijKDP"
@@ -21418,7 +21588,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 134179,
       "name": "Summertime Shy",
       "url": "https://open.spotify.com/track/5Ypc8zVnRF4AtjSM0vDeAS"
@@ -21618,7 +21788,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 128000,
       "name": "Sunflower Dreams",
       "url": "https://open.spotify.com/track/3oKgHHQkRf7atgRvFlef9s"
@@ -21698,7 +21868,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 215862,
       "name": "Symmetries",
       "url": "https://open.spotify.com/track/33mzjdQtc2y0So7dVMcKMd"
@@ -21930,6 +22100,24 @@
       "duration_ms": 144647,
       "name": "tell me it ain't",
       "url": "https://open.spotify.com/track/04NiWHL3IRkNfKHfpFBdh6"
+    },
+    {
+      "album": {
+        "name": "Tera Asar",
+        "url": "https://open.spotify.com/album/2ZS4psCuiY27YqQzU4cFNC"
+      },
+      "artists": [
+        {
+          "name": "Samarth Swarup",
+          "url": "https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Tera Asar",
+      "url": "https://open.spotify.com/track/3XrNYteVx8qfi8GpUS3wpk"
     },
     {
       "album": {
@@ -23205,6 +23393,24 @@
     },
     {
       "album": {
+        "name": "Tu Hai",
+        "url": "https://open.spotify.com/album/1fNMM6cLOd5JSLGoyPk0ao"
+      },
+      "artists": [
+        {
+          "name": "Chaitanya Kapadia",
+          "url": "https://open.spotify.com/artist/6UFYVLwCYJ5KwctNvBS9of"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Tu Hai",
+      "url": "https://open.spotify.com/track/6JXEYsJZH5Mr7tTKXMvqBp"
+    },
+    {
+      "album": {
         "name": "Tu Hai Toh",
         "url": "https://open.spotify.com/album/535GQZgByPr4o4ER7rjzfY"
       },
@@ -23566,6 +23772,28 @@
       "duration_ms": 242769,
       "name": "Tum",
       "url": "https://open.spotify.com/track/27Z3Ez48so7wcbrcX45Hw2"
+    },
+    {
+      "album": {
+        "name": "Tum Aur Hum",
+        "url": "https://open.spotify.com/album/0nAPwLz75vfXZKvCyc6ySl"
+      },
+      "artists": [
+        {
+          "name": "Sujeet Anahata Thakur",
+          "url": "https://open.spotify.com/artist/61CLoY2iiFnPYVNk4HfMcu"
+        },
+        {
+          "name": "Dhaani",
+          "url": "https://open.spotify.com/artist/3IvTiRvWEhN3Mw5HVvifpS"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Tum Aur Hum",
+      "url": "https://open.spotify.com/track/4h6ppY2cuFjUxdHEEWscZ4"
     },
     {
       "album": {
@@ -25052,7 +25280,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 193977,
       "name": "Why",
       "url": "https://open.spotify.com/track/02YrnF5rRjmhMdT0DfXY9y"

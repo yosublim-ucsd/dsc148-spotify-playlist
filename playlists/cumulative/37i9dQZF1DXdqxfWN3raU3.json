@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 168778,
       "name": "antes que sea tarde",
       "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
@@ -2186,6 +2186,24 @@
       "duration_ms": 198000,
       "name": "Destino",
       "url": "https://open.spotify.com/track/1h3O9kqjPGkMYOtNNR7q3z"
+    },
+    {
+      "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "album": {
@@ -4727,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "Miel (Say Something)",
+        "url": "https://open.spotify.com/album/5mcIMYOfKAPPiIWEvpJ5G7"
+      },
+      "artists": [
+        {
+          "name": "Zyanya",
+          "url": "https://open.spotify.com/artist/10Q8hJxeiEUVGm5MoFTqeB"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Miel (Say Something)",
+      "url": "https://open.spotify.com/track/3jQlts5apBbDzswCzjrQsR"
+    },
+    {
+      "album": {
         "name": "Mil D\u00edas",
         "url": "https://open.spotify.com/album/6IIBk8tGXPYHiYX0jgrXyX"
       },
@@ -5352,7 +5388,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 202942,
       "name": "No Fui Solo Yo",
       "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"

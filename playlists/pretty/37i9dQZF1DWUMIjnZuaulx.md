@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:2b9paaAwb2Xd3iR1LSnCDN">Brent Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,748 likes - 98 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,785 likes - 98 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

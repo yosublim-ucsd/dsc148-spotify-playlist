@@ -3081,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Bleed But Never Die",
+        "url": "https://open.spotify.com/album/625mKCJ7AWHexgVGAbGYk6"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172389,
+      "name": "Bleed But Never Die",
+      "url": "https://open.spotify.com/track/1ZTV0DR29Kw0ImAHnIHe5W"
+    },
+    {
+      "album": {
         "name": "Blindfold",
         "url": "https://open.spotify.com/album/6dQvhMXgcjGuCsrF4XmfuM"
       },
@@ -3398,7 +3416,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 131161,
       "name": "Body of Mine",
       "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
@@ -6403,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "RANGE",
+        "url": "https://open.spotify.com/album/7LerrzHMBhTnAkSuwJcBQB"
+      },
+      "artists": [
+        {
+          "name": "dogworld",
+          "url": "https://open.spotify.com/artist/705EfRTwmRqmocyAbjp3BR"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172261,
+      "name": "DASHCAM",
+      "url": "https://open.spotify.com/track/3ozyemGTyE9W2xw6wc48pe"
+    },
+    {
+      "album": {
         "name": "Day In The Life",
         "url": "https://open.spotify.com/album/51iGoWMV4jpde8LHDPAvl6"
       },
@@ -7300,7 +7336,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 165510,
       "name": "Don't",
       "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
@@ -7966,7 +8002,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 179000,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/2WZbZXFmpm2kK3t6OzttqX"
@@ -9094,6 +9130,24 @@
       "duration_ms": 199560,
       "name": "Fish in a Pond",
       "url": "https://open.spotify.com/track/5ruregBwvhzlgYHFpmkH6t"
+    },
+    {
+      "album": {
+        "name": "FISHSACK",
+        "url": "https://open.spotify.com/album/1tLCiV9OJr0pcfXGLttBQ2"
+      },
+      "artists": [
+        {
+          "name": "dogworld",
+          "url": "https://open.spotify.com/artist/705EfRTwmRqmocyAbjp3BR"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200654,
+      "name": "FISHSACK",
+      "url": "https://open.spotify.com/track/52NiXjaFL8Bvbovwdbqlds"
     },
     {
       "album": {
@@ -11288,7 +11342,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
@@ -11850,7 +11904,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 183579,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/095RuNxw9kLodCTvfjA7P5"
@@ -12186,6 +12240,24 @@
       "duration_ms": 250530,
       "name": "Hot, Young Doctors",
       "url": "https://open.spotify.com/track/2Hum7q1uyC8isvzf1X5QrT"
+    },
+    {
+      "album": {
+        "name": "Hothead",
+        "url": "https://open.spotify.com/album/1N1QvK5vJI4ukehOCEVR4D"
+      },
+      "artists": [
+        {
+          "name": "Public Opinion",
+          "url": "https://open.spotify.com/artist/62vfQ1IiuwsEwyqPWiAsWF"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126172,
+      "name": "Hothead",
+      "url": "https://open.spotify.com/track/60qHPJtfDV6wr7rRXvrrlP"
     },
     {
       "album": {
@@ -19216,7 +19288,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 189226,
       "name": "Plant Pot Song",
       "url": "https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj"
@@ -19548,6 +19620,24 @@
       "duration_ms": 169400,
       "name": "Precious Cargo",
       "url": "https://open.spotify.com/track/3WwpXIUD8U6LIQOW6heHfu"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234566,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/56U1pIituJfEkU0impIpYA"
     },
     {
       "album": {
@@ -20744,6 +20834,24 @@
       "duration_ms": 161784,
       "name": "RUN TO BUY VACUUM",
       "url": "https://open.spotify.com/track/0fWHQ0HDdc9XBKx4lC0xQ1"
+    },
+    {
+      "album": {
+        "name": "MARTYR; ACT III",
+        "url": "https://open.spotify.com/album/2RlAvt31kvMzjSd4r878i8"
+      },
+      "artists": [
+        {
+          "name": "Nashon",
+          "url": "https://open.spotify.com/artist/12X1zDSQlW0c6uRXGoOzHi"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183370,
+      "name": "runaway",
+      "url": "https://open.spotify.com/track/5LhNmaUkX1neD9Pm0FYUJC"
     },
     {
       "album": {
@@ -22870,7 +22978,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 89311,
       "name": "spin the bottle",
       "url": "https://open.spotify.com/track/7JXtmsHpGslWNlBloLG8WP"
@@ -24588,6 +24696,24 @@
       "duration_ms": 247845,
       "name": "That Aint It Chief",
       "url": "https://open.spotify.com/track/3a9omPjoVfcqTYyoWppALc"
+    },
+    {
+      "album": {
+        "name": "that's honey",
+        "url": "https://open.spotify.com/album/2gEmO876arHTBUwMOH269e"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223750,
+      "name": "that's honey",
+      "url": "https://open.spotify.com/track/61M8NiGTSJNy0kFnirktM3"
     },
     {
       "album": {
@@ -27680,7 +27806,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 201731,
       "name": "With Love",
       "url": "https://open.spotify.com/track/71uqQ3hm1ilBnT8Z4NECkc"

@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u304b\u3089\u3042\u3052\u5f01\u5f53",
-  "num_followers": 15021,
+  "num_followers": 15026,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-13 18:13:44",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 207486,
-      "name": "\u82b1\u5360\u3044",
-      "url": "https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj"
-    },
-    {
-      "added_at": "2024-08-13 18:13:44",
-      "album": {
         "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
         "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 234323,
       "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
+    },
+    {
+      "added_at": "2024-08-13 18:13:44",
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 207486,
+      "name": "\u82b1\u5360\u3044",
+      "url": "https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj"
     },
     {
       "added_at": "2024-08-13 18:13:44",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-08-13 18:13:44",
       "album": {
-        "name": "\u604b\u306f\u76f2\u76ee",
-        "url": "https://open.spotify.com/album/0zLsKt7QYohdMzLycZcwL6"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "\u604b\u306f\u76f2\u76ee",
-      "url": "https://open.spotify.com/track/7mFz5BQBeBS17IkoqryOOk"
-    },
-    {
-      "added_at": "2024-08-13 18:13:44",
-      "album": {
         "name": "nevermind",
         "url": "https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 158500,
       "name": "nevermind",
       "url": "https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1"
+    },
+    {
+      "added_at": "2024-08-13 18:13:44",
+      "album": {
+        "name": "\u604b\u306f\u76f2\u76ee",
+        "url": "https://open.spotify.com/album/0zLsKt7QYohdMzLycZcwL6"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "\u604b\u306f\u76f2\u76ee",
+      "url": "https://open.spotify.com/track/7mFz5BQBeBS17IkoqryOOk"
     },
     {
       "added_at": "2024-08-13 18:13:44",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-08-13 18:13:44",
       "album": {
+        "name": "\u30d0\u30c3\u30c8\u30ea\u30a2\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 277701,
+      "name": "\u73fe\u5728\u3092\u751f\u304d\u308b\u306e\u3060\u3002",
+      "url": "https://open.spotify.com/track/0zZn7tupk239zwb3SPFmT1"
+    },
+    {
+      "added_at": "2024-08-13 18:13:44",
+      "album": {
         "name": "\u30a8\u30a6\u30ec\u30ab",
         "url": "https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 188733,
       "name": "\u3059\u304d\u3002",
       "url": "https://open.spotify.com/track/3AxjdcjAKcidO2oUApgVsd"
-    },
-    {
-      "added_at": "2024-08-13 18:13:44",
-      "album": {
-        "name": "\u30d0\u30c3\u30c8\u30ea\u30a2\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 277701,
-      "name": "\u73fe\u5728\u3092\u751f\u304d\u308b\u306e\u3060\u3002",
-      "url": "https://open.spotify.com/track/0zZn7tupk239zwb3SPFmT1"
     },
     {
       "added_at": "2024-08-13 18:13:44",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-08-13 18:13:44",
       "album": {
-        "name": "\u541b\u306e\u8857\u307e\u3067",
-        "url": "https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "\u541b\u306e\u8857\u307e\u3067",
-      "url": "https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG"
-    },
-    {
-      "added_at": "2024-08-13 18:13:44",
-      "album": {
         "name": "Terminal",
         "url": "https://open.spotify.com/album/3jkN1x44uOSBYsg5JbLTUa"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 278733,
       "name": "long good-bye",
       "url": "https://open.spotify.com/track/1bmg5GeIX2HhOOB1TrzWKF"
+    },
+    {
+      "added_at": "2024-08-13 18:13:44",
+      "album": {
+        "name": "\u541b\u306e\u8857\u307e\u3067",
+        "url": "https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "\u541b\u306e\u8857\u307e\u3067",
+      "url": "https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG"
     },
     {
       "added_at": "2024-08-13 18:13:44",

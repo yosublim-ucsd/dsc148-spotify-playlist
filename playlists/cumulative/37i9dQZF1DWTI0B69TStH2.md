@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Greg Strangler\. Playlista odświeżana w każdą środę.
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:4GNfmsk4UMneqeoOldw3vN">Greg Strangler</a>\. Playlista odświeżana w każdą środę.
 
 2,493 songs - 5 day 19 hr 19 min
 

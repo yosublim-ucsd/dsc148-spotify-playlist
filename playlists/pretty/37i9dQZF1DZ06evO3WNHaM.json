@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 372039,
+  "num_followers": 372264,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAADo+8NEbXdQAQ/wuFbkfBbX",
+  "snapshot_id": "ZrqiAAAAAACd7GiL3L3v4X2S55CYK8Jx",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 413346,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J"
+      "duration_ms": 299240,
+      "name": "Entombed",
+      "url": "https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 299240,
-      "name": "Entombed",
-      "url": "https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5"
+      "duration_ms": 413346,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J"
     },
     {
       "added_at": null,

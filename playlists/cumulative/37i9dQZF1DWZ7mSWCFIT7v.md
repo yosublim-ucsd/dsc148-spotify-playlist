@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-357 songs - 1 day 4 hr 50 min
+359 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Cup Noodle](https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fragments](https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV) | 3:30 | 2021-10-06 |  |
 | [Deipkier](https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI) | 7:55 | 2021-10-06 | 2024-04-19 |
 | [Deipkier](https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V) | 7:55 | 2021-10-06 | 2023-04-30 |
+| [Derecho](https://open.spotify.com/track/1ex9tLfCgzOjV5rAU622nk) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Derecho](https://open.spotify.com/album/6dfr8bom2gZBPVaFMMxwzW) | 4:25 | 2024-08-14 |  |
 | [Derrwut](https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB) | [Rogelio the IIIrd](https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve) | [Derrwut](https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7) | 2:41 | 2024-05-08 |  |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 |  |
 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 | 2024-02-02 |  |
@@ -124,7 +125,7 @@
 | [FALLING RIZLAS](https://open.spotify.com/track/2KeaniyEzZlYZzR1qodSso) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [AZD](https://open.spotify.com/album/7BgZb2snTbs5xpRHlQ8VYt) | 2:25 | 2021-10-06 |  |
 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 | 2023-08-29 |  |
 | [Felt compute, might delete](https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Felt compute, might delete](https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8) | 3:49 | 2021-10-06 | 2023-05-13 |
-| [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-06 |  |
+| [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-06 | 2024-08-15 |
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2022-07-27 |
 | [FlimFlam](https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO), [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [FlimFlam](https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD) | 3:11 | 2021-10-06 | 2023-01-19 |
 | [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 | 2021-10-06 |  |
@@ -142,6 +143,7 @@
 | [Green Phase, Part One](https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible](https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2) | 3:27 | 2021-10-06 | 2023-03-02 |
 | [Greetings From Dave](https://open.spotify.com/track/2esi96DLJFBgjjtUxyH2GI) | [Kreidler](https://open.spotify.com/artist/6YuaNIJm6LAKBvRdb8PGIt) | [Spells and Daubs](https://open.spotify.com/album/0iFbTMV6YQsccp8bKWvLfh) | 3:34 | 2022-02-12 | 2022-07-27 |
 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 | 2021-11-25 |  |
+| [Hidden Hass](https://open.spotify.com/track/702aIe9qKIXTXDSluPyD4V) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Hidden Hass](https://open.spotify.com/album/0oe44ilOSSLd6RNtmDqkdn) | 2:07 | 2024-08-14 |  |
 | [Honsu](https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Candid](https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8) | 5:48 | 2023-11-23 |  |
 | [Hoshikuzu Tenboudai](https://open.spotify.com/track/4AnwTVc8llyJ2ekSmAzIFu) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Yasuragi Land](https://open.spotify.com/album/11saLOyIsjX1NsXHIVcpFc) | 2:35 | 2021-10-06 | 2022-07-20 |
 | [I Can't Die as Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die as Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 | 2023-02-16 |  |
@@ -361,7 +363,7 @@
 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 | 2021-10-06 | 2023-02-03 |
 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 | 2021-10-06 | 2024-04-19 |
 | [Zero](https://open.spotify.com/track/3HEy3iRI7Z5yb4G7cJp1Ii) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Zero](https://open.spotify.com/album/7aCYZPFnKoO8R4YNutJl1e) | 4:52 | 2021-10-06 | 2022-07-29 |
-| [Я не хочу знать](https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B) | [Gilb'r](https://open.spotify.com/artist/2KqugPbttJDL3ZdRUTpU4x), [Cosmic Neman](https://open.spotify.com/artist/7gdIA6xBjnLNBBIXyBKGbn) | [On danse comme des fous](https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU) | 3:28 | 2021-10-06 |  |
+| [Я не хочу знать](https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B) | [Gilb'r](https://open.spotify.com/artist/2KqugPbttJDL3ZdRUTpU4x), [Cosmic Neman](https://open.spotify.com/artist/7gdIA6xBjnLNBBIXyBKGbn) | [On danse comme des fous](https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU) | 3:28 | 2021-10-06 | 2024-08-15 |
 | [ゾッド](https://open.spotify.com/track/59HhbPtgARl5cLuJGjP1Ow) | [Mukqs](https://open.spotify.com/artist/2pM2N6yzrf4201puxjeIKY) | [起き上がり](https://open.spotify.com/album/71NkK6ps2GTJ0Tq6nRBU9k) | 9:42 | 2021-10-06 | 2024-07-09 |
 | [ニイミ](https://open.spotify.com/track/6uXnpJHSF3kWKMdy3EX1tU) | [Kentaro Minoura](https://open.spotify.com/artist/0xzPunBbhUsUCfv5WaxYGb) | [御徒街徒御](https://open.spotify.com/album/00NDibpwFIVSYsD9DRR4H1) | 5:22 | 2021-10-06 | 2022-07-28 |
 | [悲哀](https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [新しい日の誕生](https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N) | 9:23 | 2021-10-06 |  |

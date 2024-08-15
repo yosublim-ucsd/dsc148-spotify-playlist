@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 166956,
       "name": "Aloof",
       "url": "https://open.spotify.com/track/1CqkvBoq1vYh0TVX67aVFe"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 150000,
       "name": "Bold And Brave",
       "url": "https://open.spotify.com/track/7HZzB7zkpy0AciPo7vsAkU"
@@ -1738,6 +1738,24 @@
       "duration_ms": 166395,
       "name": "Champion",
       "url": "https://open.spotify.com/track/66tuuvPdvGc0MfN6Ptotyw"
+    },
+    {
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/5Yhb3nK5JcYIZptfthFyG4"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Jatt",
+          "url": "https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129356,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/0EoKkTLTUJRn9oeDQMdFpc"
     },
     {
       "album": {
@@ -2133,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "Dab 45",
+        "url": "https://open.spotify.com/album/0Gna8wT4zu7QzgTfhR0HWP"
+      },
+      "artists": [
+        {
+          "name": "Baaghi",
+          "url": "https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Dab 45",
+      "url": "https://open.spotify.com/track/1zbxvF3nCwHoaHZWD83NqE"
+    },
+    {
+      "album": {
         "name": "Daku",
         "url": "https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR"
       },
@@ -2370,6 +2406,32 @@
       "duration_ms": 172104,
       "name": "Desi Drip",
       "url": "https://open.spotify.com/track/169QUibETixunbbMjZo9at"
+    },
+    {
+      "album": {
+        "name": "Desi Touch",
+        "url": "https://open.spotify.com/album/5pB1MlqZwkvtTHlYsG9AYV"
+      },
+      "artists": [
+        {
+          "name": "Sharry Mann",
+          "url": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
+        },
+        {
+          "name": "NAAZ",
+          "url": "https://open.spotify.com/artist/72PtZluO8R8nEvd36geyyo"
+        },
+        {
+          "name": "Taseer",
+          "url": "https://open.spotify.com/artist/7gQmf386XqGGfIAoGrjKan"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190441,
+      "name": "Desi Touch",
+      "url": "https://open.spotify.com/track/0qYRT0Wu43MmRpKoCH2ECW"
     },
     {
       "album": {
@@ -4002,7 +4064,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 176170,
       "name": "Hood Famous",
       "url": "https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho"
@@ -6481,6 +6543,28 @@
     },
     {
       "album": {
+        "name": "No Complaints",
+        "url": "https://open.spotify.com/album/0OtLOnVWbSfusWi7Zt0nu0"
+      },
+      "artists": [
+        {
+          "name": "Simu Dhillon",
+          "url": "https://open.spotify.com/artist/4J6ZAQTOOrnXrbo5Wffly1"
+        },
+        {
+          "name": "Dark Noise",
+          "url": "https://open.spotify.com/artist/1EBUCOWmx3MM6QVeTWH5N3"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137319,
+      "name": "No Complaints",
+      "url": "https://open.spotify.com/track/6UCA9U9yzgw2ZCNXIeXAfQ"
+    },
+    {
+      "album": {
         "name": "No Fake",
         "url": "https://open.spotify.com/album/4wxbtYf37aiM1RF0Q1iGS2"
       },
@@ -7040,7 +7124,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 189767,
       "name": "Panj Satt",
       "url": "https://open.spotify.com/track/6eqb8wEXFn5Xnk0myqmgHY"
@@ -7474,6 +7558,24 @@
       "duration_ms": 147433,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/2ffcSt4PuNL0OFCCXF3yUi"
+    },
+    {
+      "album": {
+        "name": "Responsible",
+        "url": "https://open.spotify.com/album/5eMbobEyAhvmwvJsK3k8qu"
+      },
+      "artists": [
+        {
+          "name": "Pavitar Lassoi",
+          "url": "https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178102,
+      "name": "Responsible",
+      "url": "https://open.spotify.com/track/50PVqUQXKUG5CvtJUowAfl"
     },
     {
       "album": {
@@ -8642,7 +8744,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 161739,
       "name": "Talk Of The Town",
       "url": "https://open.spotify.com/track/697Hmqu0HhFXBUfusFUZof"
@@ -9171,6 +9273,28 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/49rUzEeYHMvu4QOacfT1lO"
+      },
+      "artists": [
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        },
+        {
+          "name": "Loka",
+          "url": "https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167555,
+      "name": "Untouchable",
+      "url": "https://open.spotify.com/track/3capW6MfPbEYYBXTh23MIZ"
+    },
+    {
+      "album": {
         "name": "Dusk N Dawn",
         "url": "https://open.spotify.com/album/2GB5XPYMcM9ezM5g47mtKo"
       },
@@ -9268,7 +9392,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 164000,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/2jg12Hm0uoAdSDj6TpjII2"
@@ -9330,7 +9454,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 137839,
       "name": "Waaka",
       "url": "https://open.spotify.com/track/2TQWYINUwDQnKwNwweCL6A"

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,204 songs - 6 day 16 hr 29 min
+4,205 songs - 6 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [Calibrate](https://open.spotify.com/track/0LhquHcGTJrjNB4IbYg7Or) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Calibrate](https://open.spotify.com/album/4NiL5OBI2edynMCXLYRTGR) | 2:20 | 2020-05-30 | 2020-08-07 |
 | [California Dial](https://open.spotify.com/track/3Qlvubr1CzObDSus8RfTvc) | [Bawer](https://open.spotify.com/artist/0hL2YMWhS1RHJxrPDyilMg) | [California Dial](https://open.spotify.com/album/0QsSmmccqPp8l7IDgpKIMU) | 1:41 | 2020-12-18 | 2021-01-23 |
 | [California Sunset](https://open.spotify.com/track/3tMOe813dVniNHEtyi547N) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [California Sunset](https://open.spotify.com/album/4oato70XrrlN91MvZe6KRo) | 2:20 | 2021-11-12 | 2022-05-27 |
+| [Call a Friend](https://open.spotify.com/track/7LV39mLX4OVV5k8csHFq8f) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Call a Friend](https://open.spotify.com/album/3WF15nhwlNSyaMxUeu1nuJ) | 2:21 | 2024-08-12 |  |
 | [Call from NY](https://open.spotify.com/track/6nzYP3YSoRAm1HCKgG7Jyy) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Call from NY](https://open.spotify.com/album/3Y2cFxI2F2XtGrDb2PCYek) | 1:59 | 2022-01-06 | 2022-02-11 |
 | [Calm Down](https://open.spotify.com/track/5KhoMiyDDs4vQazM6eE7jA) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Calm Down](https://open.spotify.com/album/7HILhfhjOpTTtyYXMl5tqf) | 2:31 | 2022-01-13 | 2022-02-11 |
 | [Calm Waves](https://open.spotify.com/track/7tKy7iG3NQHW5DMmKKAmYX) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Calm Waves](https://open.spotify.com/album/42uGn6niQc8kZlk0e8POU8) | 1:40 | 2019-09-27 | 2020-03-04 |
@@ -4039,7 +4040,7 @@
 | [Wavy](https://open.spotify.com/track/7oT7NDlXx5xpteinixhpQo) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Wavy](https://open.spotify.com/album/2u9XgbMHjorMCmKW0H8kqQ) | 3:24 | 2023-02-23 | 2023-04-14 |
 | [Wax](https://open.spotify.com/track/3Zcyk6cGjOpIhWceeSJnPv) | [A S T R O](https://open.spotify.com/artist/35iqidtNbi2CzifmDD4URB) | [Wax](https://open.spotify.com/album/1dKOZDInIO3mK551bp0XdU) | 2:00 | 2019-05-26\* | 2019-08-17 |
 | [Way Back When](https://open.spotify.com/track/57B4YiWoBYdlfaoqhXUx0s) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Way Back When](https://open.spotify.com/album/0iqgkhHvnqVIJHuocun8kU) | 1:56 | 2021-03-14 | 2021-08-19 |
-| [way home](https://open.spotify.com/track/3qFu1A9mh9eG8xIGhYjOmR) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [way home](https://open.spotify.com/album/4wt7dpPKyWzgNcLIwEgvFS) | 2:01 | 2024-08-01 |  |
+| [way home](https://open.spotify.com/track/3qFu1A9mh9eG8xIGhYjOmR) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [way home](https://open.spotify.com/album/4wt7dpPKyWzgNcLIwEgvFS) | 2:01 | 2024-08-01 | 2024-08-15 |
 | [Way Too Much](https://open.spotify.com/track/4Mcx4sqOg4HgUahsmyF2Z6) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc), [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Way Too Much](https://open.spotify.com/album/34p5m3u2O645MSOAs8pBbG) | 2:28 | 2021-09-10 | 2021-09-11 |
 | [We Callin'](https://open.spotify.com/track/57UoXJs8Fab3J1buHiXi0j) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo) | [We Callin'](https://open.spotify.com/album/3WGlGmdIUN6INBwN5l9ARi) | 2:34 | 2020-07-28 | 2020-12-11 |
 | [We Lost Ourselves For No Reason](https://open.spotify.com/track/6bcWlANzUtlBb1bnPIgsCw) | [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Latenite Joints 012](https://open.spotify.com/album/2cUqKhaVa68Uu9xZ4zJAM9) | 2:16 | 2021-03-19 | 2021-04-02 |

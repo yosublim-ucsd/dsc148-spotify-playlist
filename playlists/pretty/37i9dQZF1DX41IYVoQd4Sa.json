@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
-  "num_followers": 29998,
+  "num_followers": 30007,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
-        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        }
-      ],
-      "duration_ms": 362108,
-      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
-    },
-    {
-      "added_at": "2024-08-08 21:00:00",
-      "album": {
         "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
         "url": "https://open.spotify.com/album/1eAZyULyRT2BgAaWSfdjku"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 159679,
       "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
       "url": "https://open.spotify.com/track/51Mk3S1G3YmcF6oHujOyJW"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        }
+      ],
+      "duration_ms": 362108,
+      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
     },
     {
       "added_at": "2024-08-08 21:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
+        "name": "You Are What You Do",
+        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
+      },
+      "artists": [
+        {
+          "name": "Aviram",
+          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
         "name": "Nouvelle vie",
         "url": "https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX"
       },
@@ -779,38 +795,6 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
-        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 245100,
-      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
-    },
-    {
-      "added_at": "2024-08-08 21:00:00",
-      "album": {
-        "name": "You Are What You Do",
-        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
-      },
-      "artists": [
-        {
-          "name": "Aviram",
-          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Smile Again",
-      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
-    },
-    {
-      "added_at": "2024-08-08 21:00:00",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 181600,
       "name": "Fool For Your Smile",
       "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 245100,
+      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
     },
     {
       "added_at": "2024-08-08 21:00:00",
@@ -911,34 +911,6 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
-        "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-        "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        },
-        {
-          "name": "Eder 2 Lipschitz",
-          "url": "https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2"
-        },
-        {
-          "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e2\u05d3\u05e8",
-          "url": "https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh"
-        },
-        {
-          "name": "\u05d4\u05e8\u05d9 \u05dc\u05d9\u05e4\u05e9\u05d9\u05e5",
-          "url": "https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s"
-        }
-      ],
-      "duration_ms": 190259,
-      "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-      "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
-    },
-    {
-      "added_at": "2024-08-08 21:00:00",
-      "album": {
         "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
         "url": "https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6"
       },
@@ -971,6 +943,54 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
+        "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+        "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
+      },
+      "artists": [
+        {
+          "name": "Ilan Peled",
+          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+      "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
+        "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        },
+        {
+          "name": "Eder 2 Lipschitz",
+          "url": "https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2"
+        },
+        {
+          "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e2\u05d3\u05e8",
+          "url": "https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh"
+        },
+        {
+          "name": "\u05d4\u05e8\u05d9 \u05dc\u05d9\u05e4\u05e9\u05d9\u05e5",
+          "url": "https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s"
+        }
+      ],
+      "duration_ms": 190259,
+      "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
+      "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
         "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
       },
@@ -991,22 +1011,18 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
-        "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
-        "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
+        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
       },
       "artists": [
         {
-          "name": "Ilan Peled",
-          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+          "name": "Aya Zahavi Feiglin",
+          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
         }
       ],
-      "duration_ms": 235000,
-      "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
-      "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
+      "duration_ms": 229000,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
     },
     {
       "added_at": "2024-08-08 21:00:00",
@@ -1031,34 +1047,18 @@
     {
       "added_at": "2024-08-08 21:00:00",
       "album": {
-        "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
-        "url": "https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR"
+        "name": "Goodbye Mary",
+        "url": "https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a"
       },
       "artists": [
         {
-          "name": "Jenny Penkin",
-          "url": "https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke"
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
         }
       ],
-      "duration_ms": 174750,
-      "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
-      "url": "https://open.spotify.com/track/116GDev72vb3hj162mjDGX"
-    },
-    {
-      "added_at": "2024-08-08 21:00:00",
-      "album": {
-        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
-      },
-      "artists": [
-        {
-          "name": "Aya Zahavi Feiglin",
-          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
+      "duration_ms": 183331,
+      "name": "Goodbye Mary",
+      "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

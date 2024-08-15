@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Arooj Aftab
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,149 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,174 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 78 | [Losing You \(feat\. Leona Berlin\)](https://open.spotify.com/track/4LfECSZuYTUTx4V4khGxeQ) | [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y), [Leona Berlin](https://open.spotify.com/artist/0E8W46zqpbupCQg9MJwsTJ) | [Losing You \(feat\. Leona Berlin\)](https://open.spotify.com/album/7sbFa47PRfw754EoTxQl1O) | 3:47 |
 | 79 | [Lost](https://open.spotify.com/track/0dKqpfmN02qTZaErAeW0q6) | [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu) | [Lost](https://open.spotify.com/album/7mn40LrC9Yl8myX7PsxfUd) | 3:08 |
 | 80 | [Jazz Hands \(feat\. CeeLo Green\)](https://open.spotify.com/track/5o0EnxQGxtzMH23QEiOsXL) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Jazz Hands \(feat\. CeeLo Green\)](https://open.spotify.com/album/3womuEXUOjSxKvWvdmFgNv) | 3:15 |
-| 81 | [VibeNineThree \(Rework\)](https://open.spotify.com/track/3EZoiGsnVUIFC0yEUZWRMA) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [Alexander Mack](https://open.spotify.com/artist/5zsaFqdIEz3d7CFEZcSLyz) | [VibeNineThree \(Rework\)](https://open.spotify.com/album/3A41GuS8aj91qyB6kHd49s) | 2:43 |
+| 81 | [VibeNineThree \(Rework\)](https://open.spotify.com/track/3EZoiGsnVUIFC0yEUZWRMA) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [Alexander Mack](https://open.spotify.com/artist/5zsaFqdIEz3d7CFEZcSLyz) | [VibeNineThree \(Rework\)](https://open.spotify.com/album/3A41GuS8aj91qyB6kHd49s) | 2:43 |
 | 82 | [Borrowed](https://open.spotify.com/track/7HkYJuh9rlIccacMBbhx0I) | [2nd Exit](https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y), [Imaginary Friend](https://open.spotify.com/artist/5pw6etTC4sdwI2ADgjVtlb) | [Borrowed](https://open.spotify.com/album/55iCeWre0HYqx7GxfK4hWw) | 4:28 |
 | 83 | [I'm Alright](https://open.spotify.com/track/0UIeAk2BvzzW0UH91nznNu) | [Unword](https://open.spotify.com/artist/0TOfKX2G0vTNKBi8INbutt), [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w) | [I'm Alright](https://open.spotify.com/album/7C9xAJiDpLWueWm8Kh9RDY) | 3:05 |
 | 84 | [Hometown Hero](https://open.spotify.com/track/4poofyrRe5Dh8p175GU0hz) | [Aaron Veal](https://open.spotify.com/artist/2zKQC2yK8SzmHcWhfrFnWL), [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt) | [Hometown Hero](https://open.spotify.com/album/1kUgbESxxgFkW9gu19RDoB) | 3:48 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 36482,
+  "num_followers": 36493,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAABlsYPoATzFXnDIQ7gw/cTr",
+  "snapshot_id": "ZrqiAAAAAAAh9q7pQ1SbNCUpJqVjwEjU",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Start a War",
-        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 148560,
-      "name": "The Enemy",
-      "url": "https://open.spotify.com/track/0Y2LxcRzgFFHWzoGBTlius"
+      "duration_ms": 177226,
+      "name": "This Is Not",
+      "url": "https://open.spotify.com/track/4Mu23ztHx0IDwh1QRozITg"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Start a War",
+        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 177226,
-      "name": "This Is Not",
-      "url": "https://open.spotify.com/track/4Mu23ztHx0IDwh1QRozITg"
+      "duration_ms": 148560,
+      "name": "The Enemy",
+      "url": "https://open.spotify.com/track/0Y2LxcRzgFFHWzoGBTlius"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udea8 someone tell rob the new beabadoobee album is here \ud83d\udea8",
-  "num_followers": 1151249,
+  "num_followers": 1151295,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrwL2QAAAADPu2YN8kyeAxbCyX+YgwaK",
+  "snapshot_id": "ZrzyIAAAAADX6+qi1MsEzugr5Gpk2VYd",
   "tracks": [
     {
       "added_at": "2024-08-07 17:26:36",
@@ -125,6 +125,38 @@
       "url": "https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y"
     },
     {
+      "added_at": "2024-08-14 18:06:24",
+      "album": {
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 203864,
+      "name": "Digital girl",
+      "url": "https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1"
+    },
+    {
+      "added_at": "2024-08-14 18:06:24",
+      "album": {
+        "name": "Get down / Loving you",
+        "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 145246,
+      "name": "Get down",
+      "url": "https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB"
+    },
+    {
       "added_at": "2024-08-01 22:00:00",
       "album": {
         "name": "Guess featuring Billie Eilish",
@@ -177,6 +209,22 @@
       "url": "https://open.spotify.com/track/37G7NBSwMiZfi3Swzgh4rW"
     },
     {
+      "added_at": "2024-08-14 17:07:18",
+      "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "still around",
@@ -191,6 +239,22 @@
       "duration_ms": 217871,
       "name": "still around",
       "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
+    },
+    {
+      "added_at": "2024-08-14 18:06:24",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/5wZufLuyvuv9n7pBhUT6ai"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "duration_ms": 146486,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/2kV2gzrfWhoxXBumKCeh01"
     },
     {
       "added_at": "2024-07-31 21:18:49",
@@ -241,6 +305,22 @@
       "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
     },
     {
+      "added_at": "2024-07-04 17:14:57",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
+    },
+    {
       "added_at": "2024-08-05 17:18:41",
       "album": {
         "name": "In & Out of Time",
@@ -271,22 +351,6 @@
       "duration_ms": 206597,
       "name": "Aggy",
       "url": "https://open.spotify.com/track/12xM3OgBvG73MOfVCEphGg"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Digital girl",
-        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "feel your love <3",
-      "url": "https://open.spotify.com/track/6f4zOGeP0rbjxpP3aeLCRB"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -353,26 +417,10 @@
       "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Country",
-        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 235865,
-      "name": "Beach Chair",
-      "url": "https://open.spotify.com/track/6iyNRQsrrbqQ9IEJsq5t0U"
-    },
-    {
-      "added_at": "2024-07-25 01:49:51",
-      "album": {
-        "name": "caught by a wind",
-        "url": "https://open.spotify.com/album/6RlPFqhYv6w3CKP0YKXuWB"
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
       },
       "artists": [
         {
@@ -380,25 +428,9 @@
           "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
         }
       ],
-      "duration_ms": 185986,
-      "name": "caught by a wind",
-      "url": "https://open.spotify.com/track/5pW040aRDPplY0Zdv06aas"
-    },
-    {
-      "added_at": "2024-07-04 17:14:57",
-      "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
+      "duration_ms": 224293,
+      "name": "feel your love <3",
+      "url": "https://open.spotify.com/track/6f4zOGeP0rbjxpP3aeLCRB"
     },
     {
       "added_at": "2024-08-07 17:26:36",
@@ -467,6 +499,22 @@
       "duration_ms": 181040,
       "name": "Joker Lips",
       "url": "https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Country",
+        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 235865,
+      "name": "Beach Chair",
+      "url": "https://open.spotify.com/track/6iyNRQsrrbqQ9IEJsq5t0U"
     },
     {
       "added_at": "2024-07-25 01:40:31",
@@ -1097,22 +1145,6 @@
       "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0G9aTAmGvg1q1ZWELfLwSQ"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 286694,
-      "name": "The Scientist - Spotify Singles",
-      "url": "https://open.spotify.com/track/3yDvl8B6st6XZ67gL9nLNK"
-    },
-    {
       "added_at": "2024-02-14 18:41:08",
       "album": {
         "name": "Missing Out",
@@ -1525,22 +1557,6 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7vdX9R9wDp0lQcisTd1G2o"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi"
-    },
-    {
       "added_at": "2024-02-16 05:41:10",
       "album": {
         "name": "SCRAPYARD",
@@ -1655,6 +1671,22 @@
       "duration_ms": 208732,
       "name": "Who Did You Touch?",
       "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7vdX9R9wDp0lQcisTd1G2o"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi"
     },
     {
       "added_at": "2024-05-03 04:57:06",

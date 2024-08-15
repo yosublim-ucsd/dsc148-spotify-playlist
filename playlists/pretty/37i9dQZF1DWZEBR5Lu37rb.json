@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 69534,
+  "num_followers": 69588,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Kwela",
-        "url": "https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA"
-      },
-      "artists": [
-        {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
-        }
-      ],
-      "duration_ms": 242613,
-      "name": "Emlanjeni",
-      "url": "https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 235171,
       "name": "Aye",
       "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Kwela",
+        "url": "https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "duration_ms": 242613,
+      "name": "Emlanjeni",
+      "url": "https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -559,6 +559,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Ngimtholile",
+        "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
+      },
+      "artists": [
+        {
+          "name": "Maverick Muji",
+          "url": "https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o"
+        },
+        {
+          "name": "Nonny",
+          "url": "https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G"
+        }
+      ],
+      "duration_ms": 244062,
+      "name": "Ngimtholile",
+      "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Ukhamba",
         "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 230000,
       "name": "Umbayimbayi",
       "url": "https://open.spotify.com/track/1bmZLmDu9jkzwHInzPsYLD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Ngimtholile",
-        "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
-      },
-      "artists": [
-        {
-          "name": "Maverick Muji",
-          "url": "https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o"
-        },
-        {
-          "name": "Nonny",
-          "url": "https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G"
-        }
-      ],
-      "duration_ms": 244062,
-      "name": "Ngimtholile",
-      "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Buyelekhaya",
         "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 277760,
       "name": "Nomvula",
       "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Uliza Kiatu",
-        "url": "https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p"
-      },
-      "artists": [
-        {
-          "name": "H_art the Band",
-          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
-        }
-      ],
-      "duration_ms": 258226,
-      "name": "Uliza Kiatu",
-      "url": "https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Bald Men Love Better",
         "url": "https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Uliza Kiatu",
+        "url": "https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p"
+      },
+      "artists": [
+        {
+          "name": "H_art the Band",
+          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
+        }
+      ],
+      "duration_ms": 258226,
+      "name": "Uliza Kiatu",
+      "url": "https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Nkwagala",
         "url": "https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 190122,
       "name": "Nkwagala",
       "url": "https://open.spotify.com/track/531luMexKodEekscAlLyVu"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Mababaza",
-        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
-      },
-      "artists": [
-        {
-          "name": "Joe Nina",
-          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "Zodwa",
-      "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Mababaza",
+        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
+      },
+      "artists": [
+        {
+          "name": "Joe Nina",
+          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "Zodwa",
+      "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Songs in The Key of Love",
         "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 222000,
       "name": "Ndicel'ikiss",
       "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Sawa Sawa",
-        "url": "https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw"
-      },
-      "artists": [
-        {
-          "name": "Eric Wainaina",
-          "url": "https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Ritwa Riaku",
-      "url": "https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 234605,
       "name": "Give You Love",
       "url": "https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Sawa Sawa",
+        "url": "https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw"
+      },
+      "artists": [
+        {
+          "name": "Eric Wainaina",
+          "url": "https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Ritwa Riaku",
+      "url": "https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9"
     },
     {
       "added_at": "2024-05-22 11:00:00",

@@ -3670,7 +3670,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 194896,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
@@ -6434,6 +6434,24 @@
       "duration_ms": 189571,
       "name": "What I Believe",
       "url": "https://open.spotify.com/track/24XgPPXmXoloTUDmmpu7A0"
+    },
+    {
+      "album": {
+        "name": "What I Know Now",
+        "url": "https://open.spotify.com/album/2djQN7IpTj79iHIFWR8iLl"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173573,
+      "name": "What I Know Now",
+      "url": "https://open.spotify.com/track/77uUGdoehrjJPP9IZlVq5F"
     },
     {
       "album": {

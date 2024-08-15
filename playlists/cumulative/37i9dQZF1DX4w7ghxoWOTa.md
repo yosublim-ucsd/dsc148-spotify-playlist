@@ -4,7 +4,7 @@
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-65 songs - 4 hr 38 min
+66 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [正解はひとつ!じゃない!!](https://open.spotify.com/track/3slLs4vWwt1aWW8PkFdSmO) | [ミルキィホームズ](https://open.spotify.com/artist/4XgSkyo3tmEoKYYBzFhyQu) | [正解はひとつ!じゃない!!](https://open.spotify.com/album/76bsRzjKBt66xEgseoXb64) | 4:02 | 2022-04-08 |  |
 | [水中飛行](https://open.spotify.com/track/2OytQYY4XxAspxnMf22AOK) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [水中飛行 \- 懐古庭園 Vol.03 \-](https://open.spotify.com/album/0Cqnoy1cXnlQzD30bUigS4) | 3:30 | 2022-04-08 |  |
 | [永遠無惨](https://open.spotify.com/track/3MWMvlodomBHhf4Z0XXHnU) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC), [死蝋月比古](https://open.spotify.com/artist/1VEoMFfkGwx0HB3kHsLMNk) | [永遠無惨](https://open.spotify.com/album/4OPK0HjPbloz9bmIVUw5yp) | 5:33 | 2022-04-08 |  |
+| [無欲のつもりで](https://open.spotify.com/track/7x7ihns6DnwPeEf3JdnwPN) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [無欲のつもりで](https://open.spotify.com/album/32lxzYgzwZR5DciRVkqNxW) | 2:32 | 2024-08-14 |  |
 | [秘密の扉から会いにきて](https://open.spotify.com/track/6MDuCmSdP00j47oEavVBwR) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [秘密の扉から会いにきて](https://open.spotify.com/album/2NfnOSntG6tB7nuFbfDksB) | 3:36 | 2022-04-08 |  |
 | [童話迷宮](https://open.spotify.com/track/1lEDbcMIAPnT2HYjxpDy3t) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [童話迷宮](https://open.spotify.com/album/3N5adcjY3Er5xUnU7eYpQn) | 3:55 | 2022-04-08 |  |
 | [純白サンクチュアリィ](https://open.spotify.com/track/1DOvTy3Ysf7b8VobWpbdZR) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [純白サンクチュアリィ](https://open.spotify.com/album/4KZcIpumgWdYOfIXl35bxE) | 4:52 | 2022-04-08 |  |

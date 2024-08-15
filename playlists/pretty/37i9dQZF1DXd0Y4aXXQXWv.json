@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : C\u00e9line Dion",
-  "num_followers": 479243,
+  "num_followers": 479281,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Fr\u00e9ro Delavega",
-        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
+        "name": "Brol",
+        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
       },
       "artists": [
         {
-          "name": "Fr\u00e9ro Delavega",
-          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         }
       ],
-      "duration_ms": 178986,
-      "name": "Le chant des sir\u00e8nes",
-      "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
+      "duration_ms": 189480,
+      "name": "Balance ton quoi",
+      "url": "https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -155,34 +155,18 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Brol",
-        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
+        "name": "Fr\u00e9ro Delavega",
+        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
       },
       "artists": [
         {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+          "name": "Fr\u00e9ro Delavega",
+          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
         }
       ],
-      "duration_ms": 189480,
-      "name": "Balance ton quoi",
-      "url": "https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "Caravane",
-      "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
+      "duration_ms": 178986,
+      "name": "Le chant des sir\u00e8nes",
+      "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -199,6 +183,22 @@
       "duration_ms": 164567,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        }
+      ],
+      "duration_ms": 206920,
+      "name": "Caravane",
+      "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Kendji",
-        "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "Andalouse",
-      "url": "https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
         "name": "La vraie vie (Deluxe)",
         "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 238146,
       "name": "Dommage",
       "url": "https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "Kendji",
+        "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "Andalouse",
+      "url": "https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
+        "name": "Rose des vents",
+        "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Si j'avais su",
+      "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
         "name": "Sans plus attendre",
         "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 232000,
       "name": "Sensualit\u00e9",
       "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
-        "name": "Claudio Cap\u00e9o (Version deluxe)",
-        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Un homme debout",
-      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
+        "name": "Claudio Cap\u00e9o (Version deluxe)",
+        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Un homme debout",
+      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
         "name": "M & J",
         "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
       },
@@ -663,38 +679,6 @@
       "duration_ms": 235226,
       "name": "Joe le taxi",
       "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Le Dernier Jour du Disco",
-      "url": "https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
-        "name": "Rose des vents",
-        "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Si j'avais su",
-      "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -715,6 +699,22 @@
       "duration_ms": 265400,
       "name": "Je te donne",
       "url": "https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Le Dernier Jour du Disco",
+      "url": "https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s"
     },
     {
       "added_at": "2024-07-25 10:27:51",

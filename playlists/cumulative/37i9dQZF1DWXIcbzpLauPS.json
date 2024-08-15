@@ -9697,6 +9697,24 @@
     },
     {
       "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/3GNcQlnhJl4TDH5E8QMj7N"
+      },
+      "artists": [
+        {
+          "name": "Advents",
+          "url": "https://open.spotify.com/artist/4uRiS36Rkfo2N0QMoBaYes"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226027,
+      "name": "Liminal",
+      "url": "https://open.spotify.com/track/6DOLZruEqao3kuRQJrh6DU"
+    },
+    {
+      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/4nCEePCITdLSbq32U5bEwO"
       },
@@ -10580,7 +10598,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 269786,
       "name": "Modern Error",
       "url": "https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL"

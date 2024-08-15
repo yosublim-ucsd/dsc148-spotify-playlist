@@ -1,6 +1,6 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 600663,
+  "num_followers": 600652,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
@@ -243,7 +243,7 @@
     {
       "added_at": "2024-07-12 21:18:27",
       "album": {
-        "name": "My Everything (Deluxe)",
+        "name": "My Everything - Deluxe",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-07-12 21:18:27",
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
+    },
+    {
+      "added_at": "2024-07-12 21:18:27",
+      "album": {
         "name": "Life Support",
         "url": "https://open.spotify.com/album/1TKYO9znkrY14VayHze05r"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 229881,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3"
-    },
-    {
-      "added_at": "2024-07-12 21:18:27",
-      "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
     }
   ],
   "unique_name": "Sad Bops",

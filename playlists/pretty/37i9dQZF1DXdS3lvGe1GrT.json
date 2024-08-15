@@ -1,13 +1,49 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: HAPPY LANDING",
-  "num_followers": 75253,
+  "num_followers": 75400,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrOaAAAAAADfUaZ9ft9Lt+U64BD8dj7D",
+  "snapshot_id": "ZrwrwAAAAABHHDZDRsFbTdO8IyO4u+Di",
   "tracks": [
+    {
+      "added_at": "2024-08-14 04:00:00",
+      "album": {
+        "name": "Watch Me Drive Them Dogs Wild",
+        "url": "https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 290003,
+      "name": "Watch Me Drive Them Dogs Wild",
+      "url": "https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l"
+    },
+    {
+      "added_at": "2024-08-14 04:00:00",
+      "album": {
+        "name": "this feels good, huh?",
+        "url": "https://open.spotify.com/album/4V0EFGYNJZsW52Oq7Eud12"
+      },
+      "artists": [
+        {
+          "name": "Torri Weidinger",
+          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
+        },
+        {
+          "name": "Kid Lake",
+          "url": "https://open.spotify.com/artist/1kXMITfjqoJtRMPH7lTIlg"
+        }
+      ],
+      "duration_ms": 332666,
+      "name": "this feels good, huh?",
+      "url": "https://open.spotify.com/track/126EvGQiA5WXSO4l0D3qeH"
+    },
     {
       "added_at": "2024-08-07 16:00:00",
       "album": {
@@ -23,6 +59,150 @@
       "duration_ms": 176117,
       "name": "Butterfly Song",
       "url": "https://open.spotify.com/track/6JuB5cewTiFUzvYRrD5FuE"
+    },
+    {
+      "added_at": "2024-07-17 16:23:52",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/186Tj7T6pJb69qNc14rt4F"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 180169,
+      "name": "My, My, My",
+      "url": "https://open.spotify.com/track/6IuUIvYSLfpsc9YUNrzotf"
+    },
+    {
+      "added_at": "2024-08-14 04:00:00",
+      "album": {
+        "name": "Orlando Earrings",
+        "url": "https://open.spotify.com/album/0QPRn3KH7om4u2qnKi0ucE"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Mann",
+          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+        }
+      ],
+      "duration_ms": 144628,
+      "name": "Orlando Earrings",
+      "url": "https://open.spotify.com/track/2KVwGjsKWMachlq3lqVOrk"
+    },
+    {
+      "added_at": "2024-08-14 04:00:00",
+      "album": {
+        "name": "Sunken Stones",
+        "url": "https://open.spotify.com/album/0HI8E0TBNdtVDDtFfchJFn"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Sunken Stones",
+      "url": "https://open.spotify.com/track/1XEqV9Q9YU8xb1AqCKTFgm"
+    },
+    {
+      "added_at": "2024-08-07 16:00:00",
+      "album": {
+        "name": "A Tree Falls",
+        "url": "https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 193187,
+      "name": "A Tree Falls",
+      "url": "https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv"
+    },
+    {
+      "added_at": "2024-08-14 04:00:00",
+      "album": {
+        "name": "Special Occasions",
+        "url": "https://open.spotify.com/album/0VUA5eTWnPbgs5oYdbStob"
+      },
+      "artists": [
+        {
+          "name": "Raymondouu",
+          "url": "https://open.spotify.com/artist/1vMUEoUwuJXajAddcGuwvN"
+        }
+      ],
+      "duration_ms": 243780,
+      "name": "Special Occasions",
+      "url": "https://open.spotify.com/track/24rVmtoVMIf77BoNTuEsQb"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Taste The Dirt",
+        "url": "https://open.spotify.com/album/5SFkvjzqD5QmOARqp1MIDm"
+      },
+      "artists": [
+        {
+          "name": "Steinza",
+          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+        }
+      ],
+      "duration_ms": 176931,
+      "name": "Taste The Dirt",
+      "url": "https://open.spotify.com/track/4tZbVjtbfPj5KpRAEXQQgP"
+    },
+    {
+      "added_at": "2024-08-14 04:00:00",
+      "album": {
+        "name": "The Bite",
+        "url": "https://open.spotify.com/album/1WKBH7Kast9jnPiQmestUl"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        }
+      ],
+      "duration_ms": 144764,
+      "name": "The Bite",
+      "url": "https://open.spotify.com/track/0JJXAho9s6XgwhItVV6kV5"
+    },
+    {
+      "added_at": "2024-07-03 14:20:32",
+      "album": {
+        "name": "call my name",
+        "url": "https://open.spotify.com/album/3J97lJZpNCtLWzUResJmTH"
+      },
+      "artists": [
+        {
+          "name": "phin",
+          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "call my name",
+      "url": "https://open.spotify.com/track/6rfXIASvO0iwomFkJ6grW6"
+    },
+    {
+      "added_at": "2024-08-14 04:00:00",
+      "album": {
+        "name": "Decay",
+        "url": "https://open.spotify.com/album/1193mItdC8qE42IqTtHoRN"
+      },
+      "artists": [
+        {
+          "name": "Bertie Newman",
+          "url": "https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh"
+        }
+      ],
+      "duration_ms": 219155,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/1WQXdtKCJ511sHGGcLl2mt"
     },
     {
       "added_at": "2024-08-07 16:00:00",
@@ -43,22 +223,6 @@
     {
       "added_at": "2024-08-07 16:00:00",
       "album": {
-        "name": "A Tree Falls",
-        "url": "https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 193187,
-      "name": "A Tree Falls",
-      "url": "https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
         "name": "Drunk Again",
         "url": "https://open.spotify.com/album/3eA5mXkG8NHiynlR7ZySqv"
       },
@@ -73,36 +237,20 @@
       "url": "https://open.spotify.com/track/1X5neZzSKeILZSfrfDnwSl"
     },
     {
-      "added_at": "2024-07-31 16:00:00",
+      "added_at": "2024-08-14 04:00:00",
       "album": {
-        "name": "Taste The Dirt",
-        "url": "https://open.spotify.com/album/5SFkvjzqD5QmOARqp1MIDm"
+        "name": "Fat Evil Dogs, Fat Evil Cats, Fat Evil Bears, Fat Evil Rats",
+        "url": "https://open.spotify.com/album/7l1Yfd8HlUZPJrRMpq8weU"
       },
       "artists": [
         {
-          "name": "Steinza",
-          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+          "name": "Fat, Evil Children",
+          "url": "https://open.spotify.com/artist/6m207mDPCrde3IiOjJpuJg"
         }
       ],
-      "duration_ms": 176931,
-      "name": "Taste The Dirt",
-      "url": "https://open.spotify.com/track/4tZbVjtbfPj5KpRAEXQQgP"
-    },
-    {
-      "added_at": "2024-07-03 14:20:32",
-      "album": {
-        "name": "call my name",
-        "url": "https://open.spotify.com/album/3J97lJZpNCtLWzUResJmTH"
-      },
-      "artists": [
-        {
-          "name": "phin",
-          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "call my name",
-      "url": "https://open.spotify.com/track/6rfXIASvO0iwomFkJ6grW6"
+      "duration_ms": 228000,
+      "name": "I Won't Change My Mind",
+      "url": "https://open.spotify.com/track/2t8kJIKiYnN4Ol7E2XtG1e"
     },
     {
       "added_at": "2024-08-07 16:00:00",
@@ -125,22 +273,6 @@
       "url": "https://open.spotify.com/track/0VQCXgULavafiHDRyrKFu2"
     },
     {
-      "added_at": "2024-07-17 16:23:52",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/186Tj7T6pJb69qNc14rt4F"
-      },
-      "artists": [
-        {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
-        }
-      ],
-      "duration_ms": 180169,
-      "name": "My, My, My",
-      "url": "https://open.spotify.com/track/6IuUIvYSLfpsc9YUNrzotf"
-    },
-    {
       "added_at": "2024-08-07 16:00:00",
       "album": {
         "name": "Horse's Mouth",
@@ -155,6 +287,22 @@
       "duration_ms": 255220,
       "name": "Horse's Mouth",
       "url": "https://open.spotify.com/track/5q7LiPO8nD3YOYlpoYq5yD"
+    },
+    {
+      "added_at": "2024-08-14 04:00:00",
+      "album": {
+        "name": "Utensil",
+        "url": "https://open.spotify.com/album/6Q6aPUTkAqzC9oWsfwBupX"
+      },
+      "artists": [
+        {
+          "name": "Hannah McKittrick",
+          "url": "https://open.spotify.com/artist/3KVvDAitKHTmt3SurrCMI1"
+        }
+      ],
+      "duration_ms": 253376,
+      "name": "Utensil",
+      "url": "https://open.spotify.com/track/4uxVtYDP2pnaiCMdQ7Iu3e"
     },
     {
       "added_at": "2024-08-01 22:24:03",
@@ -645,22 +793,6 @@
       "url": "https://open.spotify.com/track/2LR5hvCGwl23TSDiyFybyy"
     },
     {
-      "added_at": "2024-05-29 12:56:53",
-      "album": {
-        "name": "Rocky Doom",
-        "url": "https://open.spotify.com/album/18dZNZb5ijjIfVAmZSR0sT"
-      },
-      "artists": [
-        {
-          "name": "Angela Autumn",
-          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
-        }
-      ],
-      "duration_ms": 206464,
-      "name": "Electric Lizard",
-      "url": "https://open.spotify.com/track/2vctZ5ZX7cRMFGjcZzwWcK"
-    },
-    {
       "added_at": "2024-07-10 04:00:00",
       "album": {
         "name": "Firing Sideways",
@@ -675,22 +807,6 @@
       "duration_ms": 226849,
       "name": "Firing Sideways",
       "url": "https://open.spotify.com/track/1twpf8UNkH362vXO63l28C"
-    },
-    {
-      "added_at": "2024-06-12 16:16:43",
-      "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 210658,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
     },
     {
       "added_at": "2024-06-12 16:16:43",
@@ -999,22 +1115,6 @@
       "duration_ms": 238104,
       "name": "Wild Orchids",
       "url": "https://open.spotify.com/track/7M8laBhOwKrpbC2OdYBtlf"
-    },
-    {
-      "added_at": "2024-06-26 22:07:48",
-      "album": {
-        "name": "More Failure",
-        "url": "https://open.spotify.com/album/6XGQh9tk3AmOAg1ztdLB6t"
-      },
-      "artists": [
-        {
-          "name": "Baerd",
-          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
-        }
-      ],
-      "duration_ms": 117571,
-      "name": "More Failure",
-      "url": "https://open.spotify.com/track/6yMUfqtUBqfkX3wpUzmQ5T"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -1485,22 +1585,6 @@
       "url": "https://open.spotify.com/track/3du3GQoC8Tx9Tz9XFxqA4Y"
     },
     {
-      "added_at": "2024-05-22 16:34:37",
-      "album": {
-        "name": "Nose Job",
-        "url": "https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi"
-      },
-      "artists": [
-        {
-          "name": "Caity Krone",
-          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP"
-    },
-    {
       "added_at": "2024-05-29 12:56:53",
       "album": {
         "name": "Indigo",
@@ -1535,22 +1619,6 @@
     {
       "added_at": "2024-05-29 12:56:53",
       "album": {
-        "name": "Egret",
-        "url": "https://open.spotify.com/album/2CyIR0NfwY00x42QeDHvo9"
-      },
-      "artists": [
-        {
-          "name": "Dead Nettle",
-          "url": "https://open.spotify.com/artist/2vrX1fBDBPH5AEBsG4pFA1"
-        }
-      ],
-      "duration_ms": 239910,
-      "name": "Egret",
-      "url": "https://open.spotify.com/track/4tHHwu3DJa6TyuLlhH8bWF"
-    },
-    {
-      "added_at": "2024-05-29 12:56:53",
-      "album": {
         "name": "Hot Water Tap",
         "url": "https://open.spotify.com/album/4TpmNwbq1saup5fxCDQjGn"
       },
@@ -1563,54 +1631,6 @@
       "duration_ms": 189738,
       "name": "Hot Water Tap",
       "url": "https://open.spotify.com/track/1ay23RNA6mjw7WkUN11DEl"
-    },
-    {
-      "added_at": "2024-05-15 15:14:27",
-      "album": {
-        "name": "Artichoke/Object Permanence",
-        "url": "https://open.spotify.com/album/3MpP0TdFn7ziPaPNuNS4a4"
-      },
-      "artists": [
-        {
-          "name": "Bloomsday",
-          "url": "https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI"
-        }
-      ],
-      "duration_ms": 163698,
-      "name": "Artichoke",
-      "url": "https://open.spotify.com/track/08Z0xcdFb0KC0yt5QRVvxT"
-    },
-    {
-      "added_at": "2024-05-22 16:34:37",
-      "album": {
-        "name": "curse",
-        "url": "https://open.spotify.com/album/24mdQfh0a9aM0FuK7VRq9x"
-      },
-      "artists": [
-        {
-          "name": "Noah Pope",
-          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
-        }
-      ],
-      "duration_ms": 214814,
-      "name": "curse",
-      "url": "https://open.spotify.com/track/5QJm7O7PhFZUVbwD6seP6W"
-    },
-    {
-      "added_at": "2024-05-22 16:34:37",
-      "album": {
-        "name": "Green Morning",
-        "url": "https://open.spotify.com/album/608J5tNM6Lt827kWtBRaMw"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bazini",
-          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
-        }
-      ],
-      "duration_ms": 250560,
-      "name": "Green Morning",
-      "url": "https://open.spotify.com/track/42VWxciaW70cNreVvpx368"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

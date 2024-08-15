@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Denzel Curry
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,824 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,909 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 36 | [WHAT YOU WANT](https://open.spotify.com/track/1uPdPYQV4S2kl1IXjosbe8) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [WHAT YOU WANT](https://open.spotify.com/album/7c8JXgO8g5gs8ZYzI8eOBJ) | 2:07 |
 | 37 | [Hallelujah!](https://open.spotify.com/track/7lbPVYxNxuQMdDpC4lwv5n) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Hallelujah!](https://open.spotify.com/album/5X6t1Y5kuS47gJSwfrAEH0) | 2:37 |
 | 38 | [Provider](https://open.spotify.com/track/08BFS5v1nfJO8cnNqmuZGS) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Provider](https://open.spotify.com/album/3XJaGjWc4WWbYscxJoE5QI) | 2:33 |
-| 39 | [INSTANT TRANSFER](https://open.spotify.com/track/1duL1mw9wWk0Dj0WfvQQD2) | [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [INSTANT TRANSFER](https://open.spotify.com/album/32r3qSRm8OvUcT8UaUmb88) | 2:49 |
+| 39 | [INSTANT TRANSFER \(feat\. billy woods\)](https://open.spotify.com/track/1duL1mw9wWk0Dj0WfvQQD2) | [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [INSTANT TRANSFER](https://open.spotify.com/album/32r3qSRm8OvUcT8UaUmb88) | 2:49 |
 | 40 | [THE BADDEST \(BADDER\) \[feat\. Ayesha Erotica\]](https://open.spotify.com/track/5tzcByvFyzRPHXrBgOaxkk) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [THE BADDEST \(BADDER\) \[feat\. Ayesha Erotica\]](https://open.spotify.com/album/1G7CTjjWqcPtHXaqLT8KSJ) | 2:23 |
 | 41 | [URRRGE!!!!!!!!!! \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 2:32 |
 | 42 | [BLACK FLAG FREESTYLE \(with That Mexican OT\)](https://open.spotify.com/track/5HwYQgUgUsHC3RqfSFMPxq) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [BLACK FLAG FREESTYLE \(with That Mexican OT\)](https://open.spotify.com/album/6LYOGfTHG8i1bmf4FoyV2P) | 3:27 |

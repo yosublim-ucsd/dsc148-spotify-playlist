@@ -6473,6 +6473,28 @@
     },
     {
       "album": {
+        "name": "Preethi Anno Dyavru",
+        "url": "https://open.spotify.com/album/0xG8YWLgFSeyDCygRX9h97"
+      },
+      "artists": [
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Preethi Anno Dyavru",
+      "url": "https://open.spotify.com/track/608jUiP43iZPtJJTBryeZ4"
+    },
+    {
+      "album": {
         "name": "Preetiye",
         "url": "https://open.spotify.com/album/3CvlEQEBS8oUKbAZUfWwEo"
       },

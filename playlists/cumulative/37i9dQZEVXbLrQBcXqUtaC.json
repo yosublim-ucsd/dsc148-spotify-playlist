@@ -7578,7 +7578,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 149522,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
@@ -10088,7 +10088,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -16326,7 +16326,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -23020,6 +23020,24 @@
       "duration_ms": 468787,
       "name": "\u0627\u063a\u0627\u0646\u064a \u0639\u0631\u0627\u0642\u064a \u062d\u0632\u064a\u0646 | \u064a\u062a\u0639\u0628\u0643 \u064a\u062a\u0639\u0628\u0643 \u0643\u0648\u0646 \u0627\u0644\u0644\u0647 \u064a\u062a\u0639\u0628\u0643 .",
       "url": "https://open.spotify.com/track/1dSZXgfz8AHkWzLDH2b8xr"
+    },
+    {
+      "album": {
+        "name": "\u0627\u063a\u0627\u0646\u064a \u0639\u0631\u0627\u0642\u064a\u0629 | \u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a",
+        "url": "https://open.spotify.com/album/1Xt8fgPD0TddC7B1zuHQ2u"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u064a\u0648\u0632\u0643 \u0639\u0630\u0627\u0628 - 3DAB MUSIC",
+          "url": "https://open.spotify.com/artist/37AGNtJFOHYp8STnoFoZ2n"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249614,
+      "name": "\u0627\u063a\u0627\u0646\u064a \u0639\u0631\u0627\u0642\u064a\u0629 | \u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a",
+      "url": "https://open.spotify.com/track/1bfdoRNpw3XsBeCX7lH0Ot"
     },
     {
       "album": {

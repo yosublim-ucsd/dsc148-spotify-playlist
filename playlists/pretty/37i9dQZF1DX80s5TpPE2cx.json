@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 11417,
+  "num_followers": 11424,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "Love Is Contagious",
+        "url": "https://open.spotify.com/album/5Wt03bPDbH9Z1C6MUUuNiV"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 84346,
+      "name": "Wishes And Butterflies",
+      "url": "https://open.spotify.com/track/2sqs1oaraOEEmHRyTFcKT5"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "Supa Sigh",
         "url": "https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 212506,
       "name": "Supa Sigh",
       "url": "https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "Love Is Contagious",
-        "url": "https://open.spotify.com/album/5Wt03bPDbH9Z1C6MUUuNiV"
-      },
-      "artists": [
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 84346,
-      "name": "Wishes And Butterflies",
-      "url": "https://open.spotify.com/track/2sqs1oaraOEEmHRyTFcKT5"
     },
     {
       "added_at": "2024-06-24 06:54:45",

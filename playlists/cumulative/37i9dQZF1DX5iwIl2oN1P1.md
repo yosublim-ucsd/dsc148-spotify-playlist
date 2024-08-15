@@ -2,7 +2,7 @@
 
 ### [Sunday Bests](https://open.spotify.com/playlist/37i9dQZF1DX5iwIl2oN1P1)
 
-> Get your Sunday sound right with this collection of current Gospel essentials\. Cover: <a href="spotify:artist:03qM4LmPCrR7CuHTE0WAIW">Koryn Hawthorne</a>
+> Get your Sunday sound right with this collection of current Gospel essentials\. Cover: <a href="spotify:artist:3NYwlCIjzmWwNdLPGT9UV8">Phil Thompson</a>
 
 170 songs - 14 hr 42 min
 

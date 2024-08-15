@@ -1,13 +1,125 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Sex Week",
-  "num_followers": 224511,
+  "num_followers": 224660,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrT8BAAAAADLTSNnn7v7VjoLUDDKxWsE",
+  "snapshot_id": "ZrzWHAAAAAA/o93bldxqVP9wQLxoXt+j",
   "tracks": [
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "This Is Your New Life",
+        "url": "https://open.spotify.com/album/6ITnPUryni6QIRSIhDyNx2"
+      },
+      "artists": [
+        {
+          "name": "Mal Not Bad",
+          "url": "https://open.spotify.com/artist/2ufQNkP4cn7cHHgh9l3jqL"
+        }
+      ],
+      "duration_ms": 204602,
+      "name": "Far Gone",
+      "url": "https://open.spotify.com/track/3DyhzYQkaxYlX9mMqcrcms"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/6EbLfGgFP3pSlYcHybCWZG"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 203864,
+      "name": "Digital girl",
+      "url": "https://open.spotify.com/track/74EzPzqGWVsFneY19nYxCp"
+    },
+    {
+      "added_at": "2024-08-14 16:06:52",
+      "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/1gE0kS57l4cpmzX4nyICMb"
+      },
+      "artists": [
+        {
+          "name": "Market",
+          "url": "https://open.spotify.com/artist/7L9i7U3GAu8NDpxvuAjb8Y"
+        }
+      ],
+      "duration_ms": 277939,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/4boKhmp1Acx4RLXHZwzj6n"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "Get down / Loving you",
+        "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 145246,
+      "name": "Get down",
+      "url": "https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB"
+    },
+    {
+      "added_at": "2024-07-31 19:03:17",
+      "album": {
+        "name": "Some Kind of Angel / Split Lip",
+        "url": "https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "Some Kind of Angel",
+      "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "I Think About Heaven",
+        "url": "https://open.spotify.com/album/3hfKLdxRBRMIiyQYUV37QF"
+      },
+      "artists": [
+        {
+          "name": "Christopher Owens",
+          "url": "https://open.spotify.com/artist/0ukgSx1gUt5rUihbNh46qy"
+        }
+      ],
+      "duration_ms": 363512,
+      "name": "I Think About Heaven",
+      "url": "https://open.spotify.com/track/44ADDcYWJISFUrx8zIASLn"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "take it off",
+        "url": "https://open.spotify.com/album/1hvDZoqyROThc4D9BZnct4"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "take it off",
+      "url": "https://open.spotify.com/track/317sqVXjumPF2ucELiBVKE"
+    },
     {
       "added_at": "2024-08-07 16:00:00",
       "album": {
@@ -27,38 +139,6 @@
     {
       "added_at": "2024-08-07 16:00:00",
       "album": {
-        "name": "Chasing a Comfort",
-        "url": "https://open.spotify.com/album/373EmkGUoO2bHobyeR2RuA"
-      },
-      "artists": [
-        {
-          "name": "16 Underground",
-          "url": "https://open.spotify.com/artist/5Cs7NKdiqiINBKZnYWrBqS"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Chasing a Comfort",
-      "url": "https://open.spotify.com/track/4YHAfaaYdCdcvwhOD9YcOG"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
-        "name": "Want U Gone + Look the Other Way",
-        "url": "https://open.spotify.com/album/4ssozu9mV1froB5Qp3ZEHj"
-      },
-      "artists": [
-        {
-          "name": "Nick Wagen",
-          "url": "https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Want U Gone",
-      "url": "https://open.spotify.com/track/2Un8twj5MmECWhicSkJN4u"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
         "name": "Kid Muscle",
         "url": "https://open.spotify.com/album/7d47jgsqR9eeNMkN2hljXz"
       },
@@ -71,6 +151,22 @@
       "duration_ms": 311500,
       "name": "Kid Muscle",
       "url": "https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "Nightmare Blunt Rotation",
+        "url": "https://open.spotify.com/album/4aqNOef91W7UuJ3Nro3RL1"
+      },
+      "artists": [
+        {
+          "name": "atlgrandma",
+          "url": "https://open.spotify.com/artist/359MsXnylhLWcIP444SEAu"
+        }
+      ],
+      "duration_ms": 159016,
+      "name": "Nightmare Blunt Rotation",
+      "url": "https://open.spotify.com/track/4lGlnkSQDh8fJrBrqJzcqK"
     },
     {
       "added_at": "2024-07-31 16:00:00",
@@ -89,20 +185,220 @@
       "url": "https://open.spotify.com/track/04HUqn66kaoDpNHmgCTUEm"
     },
     {
-      "added_at": "2024-07-31 19:03:17",
+      "added_at": "2024-08-07 16:00:00",
       "album": {
-        "name": "Some Kind of Angel / Split Lip",
-        "url": "https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw"
+        "name": "Chasing a Comfort",
+        "url": "https://open.spotify.com/album/373EmkGUoO2bHobyeR2RuA"
       },
       "artists": [
         {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+          "name": "16 Underground",
+          "url": "https://open.spotify.com/artist/5Cs7NKdiqiINBKZnYWrBqS"
         }
       ],
-      "duration_ms": 274838,
-      "name": "Some Kind of Angel",
-      "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
+      "duration_ms": 215000,
+      "name": "Chasing a Comfort",
+      "url": "https://open.spotify.com/track/4YHAfaaYdCdcvwhOD9YcOG"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/3lHVxQdANV5kOduVnvVMCA"
+      },
+      "artists": [
+        {
+          "name": "Joppe",
+          "url": "https://open.spotify.com/artist/01P3sI9cTWVijMfNm0Jz7V"
+        }
+      ],
+      "duration_ms": 102456,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/0by3Svogff79GiMDrksjzz"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7sM3EjIPx3j5n3M0T0qjAt"
+      },
+      "artists": [
+        {
+          "name": "Ziggy 2000",
+          "url": "https://open.spotify.com/artist/1QTanwqlZCwb5kbYbkFI2r"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/08dq5IUNfwGsB8XdyXzLJJ"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "Seeing Double",
+        "url": "https://open.spotify.com/album/3Kj4i37UdHWwe3AeA7NkKj"
+      },
+      "artists": [
+        {
+          "name": "Lemonade Baby",
+          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
+        },
+        {
+          "name": "ronnie sinclair",
+          "url": "https://open.spotify.com/artist/1wflo00u0IhnrWx5u64O1K"
+        }
+      ],
+      "duration_ms": 164339,
+      "name": "Seeing Double",
+      "url": "https://open.spotify.com/track/01gWL54nQ0d7hAEeNGJ2hI"
+    },
+    {
+      "added_at": "2024-08-07 16:00:00",
+      "album": {
+        "name": "G\u00fafigis",
+        "url": "https://open.spotify.com/album/3ce5PIIXYHhKyXD5MZShdI"
+      },
+      "artists": [
+        {
+          "name": "Goofy Geese",
+          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
+        }
+      ],
+      "duration_ms": 210687,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/4A0yQ8p8rivsMC9eZ8G5dq"
+    },
+    {
+      "added_at": "2024-08-07 16:00:00",
+      "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/4tJrtdSJJqO10OuJNtq9dv"
+      },
+      "artists": [
+        {
+          "name": "JESS REISS",
+          "url": "https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1j9RysAbuhHrGemyEaDnwD"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "Black and Blue",
+        "url": "https://open.spotify.com/album/7324uRnQFT2oePk85niZup"
+      },
+      "artists": [
+        {
+          "name": "Sophie Thatcher",
+          "url": "https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9"
+        }
+      ],
+      "duration_ms": 229632,
+      "name": "Black and Blue",
+      "url": "https://open.spotify.com/track/6keMArAbNcO99gFh8kICMC"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/3yoDGQz5YqgD96RKJyJvLf"
+      },
+      "artists": [
+        {
+          "name": "deary",
+          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
+        }
+      ],
+      "duration_ms": 256750,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/3meXRMEexOIrdQbwvhKfDM"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/0PnfeZqipy9CZF9FzDAx4v"
+      },
+      "artists": [
+        {
+          "name": "Alix Page",
+          "url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/0mbBHDQu78jWP1rETou65s"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Can't Be Replaced",
+        "url": "https://open.spotify.com/album/7xJIMVxZethRdgC4RR2XLV"
+      },
+      "artists": [
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "Can't Be Replaced",
+      "url": "https://open.spotify.com/track/5CNIP9G7LJX4JeaVF1XxBd"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "King's Garden",
+        "url": "https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "King's Garden",
+      "url": "https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk"
+    },
+    {
+      "added_at": "2024-08-07 16:00:00",
+      "album": {
+        "name": "Want U Gone + Look the Other Way",
+        "url": "https://open.spotify.com/album/4ssozu9mV1froB5Qp3ZEHj"
+      },
+      "artists": [
+        {
+          "name": "Nick Wagen",
+          "url": "https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Want U Gone",
+      "url": "https://open.spotify.com/track/2Un8twj5MmECWhicSkJN4u"
+    },
+    {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "She Never Took a Chance On Me",
+        "url": "https://open.spotify.com/album/0G31sTetVG5R3wgE1dkqPY"
+      },
+      "artists": [
+        {
+          "name": "MacGregor Burns",
+          "url": "https://open.spotify.com/artist/4xGQxgAsQQ1HhujizkQUcE"
+        },
+        {
+          "name": "Luke Temple",
+          "url": "https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85"
+        }
+      ],
+      "duration_ms": 171232,
+      "name": "She Never Took a Chance On Me",
+      "url": "https://open.spotify.com/track/775Yt2WcD168sArd0kpGJ8"
     },
     {
       "added_at": "2024-08-07 16:00:00",
@@ -137,6 +433,22 @@
       "url": "https://open.spotify.com/track/2tOAaP3Z4mmoNJnnw5bCaj"
     },
     {
+      "added_at": "2024-08-14 03:36:47",
+      "album": {
+        "name": "Special Occasions",
+        "url": "https://open.spotify.com/album/0VUA5eTWnPbgs5oYdbStob"
+      },
+      "artists": [
+        {
+          "name": "Raymondouu",
+          "url": "https://open.spotify.com/artist/1vMUEoUwuJXajAddcGuwvN"
+        }
+      ],
+      "duration_ms": 243780,
+      "name": "Special Occasions",
+      "url": "https://open.spotify.com/track/24rVmtoVMIf77BoNTuEsQb"
+    },
+    {
       "added_at": "2024-08-07 16:00:00",
       "album": {
         "name": "Backseat",
@@ -155,22 +467,6 @@
     {
       "added_at": "2024-08-07 16:00:00",
       "album": {
-        "name": "G\u00fafigis",
-        "url": "https://open.spotify.com/album/3ce5PIIXYHhKyXD5MZShdI"
-      },
-      "artists": [
-        {
-          "name": "Goofy Geese",
-          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
-        }
-      ],
-      "duration_ms": 210687,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/4A0yQ8p8rivsMC9eZ8G5dq"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
         "name": "Yes, No Question",
         "url": "https://open.spotify.com/album/50IJsoyMo22R78EN1jMcPh"
       },
@@ -183,38 +479,6 @@
       "duration_ms": 126476,
       "name": "Lying",
       "url": "https://open.spotify.com/track/0TjBfsd2yWRTWLcLjRJncz"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/4tJrtdSJJqO10OuJNtq9dv"
-      },
-      "artists": [
-        {
-          "name": "JESS REISS",
-          "url": "https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1j9RysAbuhHrGemyEaDnwD"
-    },
-    {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/0PnfeZqipy9CZF9FzDAx4v"
-      },
-      "artists": [
-        {
-          "name": "Alix Page",
-          "url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/0mbBHDQu78jWP1rETou65s"
     },
     {
       "added_at": "2024-08-07 16:00:00",
@@ -263,22 +527,6 @@
       "duration_ms": 165213,
       "name": "Drivel",
       "url": "https://open.spotify.com/track/4K3J6PsyLCtw8alooROF91"
-    },
-    {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "Can't Be Replaced",
-        "url": "https://open.spotify.com/album/7xJIMVxZethRdgC4RR2XLV"
-      },
-      "artists": [
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "Can't Be Replaced",
-      "url": "https://open.spotify.com/track/5CNIP9G7LJX4JeaVF1XxBd"
     },
     {
       "added_at": "2024-08-07 16:00:00",

@@ -1,12 +1,12 @@
 {
-  "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 585309,
+  "description": "This Is blink-182. Los temas esenciales, todos en una lista.",
+  "num_followers": 585438,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAABEFbMoFNJ/tdOT2uJn/Sj5",
+  "snapshot_id": "ZrqiAAAAAACddVb2iiiyOMUS03+fdo6B",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Anthem Part Two",
-      "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
+      "duration_ms": 239333,
+      "name": "Stay Together For The Kids",
+      "url": "https://open.spotify.com/track/3YD9EehnGOf88rGSZFrnHg"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 239333,
-      "name": "Stay Together For The Kids",
-      "url": "https://open.spotify.com/track/3YD9EehnGOf88rGSZFrnHg"
+      "duration_ms": 227200,
+      "name": "Anthem Part Two",
+      "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
     },
     {
       "added_at": null,

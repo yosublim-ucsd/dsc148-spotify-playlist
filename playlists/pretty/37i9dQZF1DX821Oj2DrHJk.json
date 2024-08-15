@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 30153,
+  "num_followers": 30159,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Foreigner (Expanded)",
         "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 203133,
       "name": "Cold as Ice",
       "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Life on Mars? - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Life on Mars? - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Double Vision (Expanded)",
-        "url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 268693,
-      "name": "Hot Blooded",
-      "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "The Dark Side Of The Moon (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 380080,
       "name": "Money - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/7Gx2q0ueNwvDp2BOZYGCMO"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Double Vision (Expanded)",
+        "url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 268693,
+      "name": "Hot Blooded",
+      "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 422853,
-      "name": "Time - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/4xHWH1jwV5j4mBYRhxPbwZ"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Running on Empty (Remastered)",
         "url": "https://open.spotify.com/album/24UtAJJRIuHICjdIDqaNhg"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 259093,
       "name": "I Don't Like Mondays",
       "url": "https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 422853,
+      "name": "Time - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/4xHWH1jwV5j4mBYRhxPbwZ"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Prove It All Night",
-      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Desolation Angels (2009 Remaster)",
         "url": "https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 197466,
       "name": "Rock 'n' Roll Fantasy - 2009 Remaster",
       "url": "https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Prove It All Night",
+      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Approved By The Motors",
-        "url": "https://open.spotify.com/album/6i97ms05bUtfv2sWTsvzYg"
-      },
-      "artists": [
-        {
-          "name": "The Motors",
-          "url": "https://open.spotify.com/artist/4NsDGsuSfCM30e1JSMGeAn"
-        }
-      ],
-      "duration_ms": 278933,
-      "name": "Airport",
-      "url": "https://open.spotify.com/track/6F0CQMioZrqgkp3oHx4hpY"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Thick as a Brick",
         "url": "https://open.spotify.com/album/1ZxChDw03SUFGUz0RC8A8M"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 1360026,
       "name": "Thick as a Brick (Pt. I) - 1997 Remaster",
       "url": "https://open.spotify.com/track/0eufeeCADKlpxLA7HATWBW"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Approved By The Motors",
+        "url": "https://open.spotify.com/album/6i97ms05bUtfv2sWTsvzYg"
+      },
+      "artists": [
+        {
+          "name": "The Motors",
+          "url": "https://open.spotify.com/artist/4NsDGsuSfCM30e1JSMGeAn"
+        }
+      ],
+      "duration_ms": 278933,
+      "name": "Airport",
+      "url": "https://open.spotify.com/track/6F0CQMioZrqgkp3oHx4hpY"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Sladest (Expanded)",
-        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
+        "name": "Watch",
+        "url": "https://open.spotify.com/album/2Cg9BAwbhnHxLsHj5tv5uS"
       },
       "artists": [
         {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+          "name": "Manfred Mann's Earth Band",
+          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
         }
       ],
-      "duration_ms": 230173,
-      "name": "Get Down and Get With It",
-      "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
+      "duration_ms": 354933,
+      "name": "Davy's on the Road Again",
+      "url": "https://open.spotify.com/track/0jDZ3P4LFKO59BfDhSrFSU"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Watch",
-        "url": "https://open.spotify.com/album/2Cg9BAwbhnHxLsHj5tv5uS"
+        "name": "Sladest (Expanded)",
+        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
       },
       "artists": [
         {
-          "name": "Manfred Mann's Earth Band",
-          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
         }
       ],
-      "duration_ms": 354933,
-      "name": "Davy's on the Road Again",
-      "url": "https://open.spotify.com/track/0jDZ3P4LFKO59BfDhSrFSU"
+      "duration_ms": 230173,
+      "name": "Get Down and Get With It",
+      "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Sladest (Expanded)",
-        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Take Me Bak 'Ome",
-      "url": "https://open.spotify.com/track/6IctRzzSyMt5OtAjPaXgd4"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Live And Let Die (Soundtrack)",
         "url": "https://open.spotify.com/album/6DGYoKsdFqgsSAJf6dDN7O"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 214400,
       "name": "Can the Can",
       "url": "https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Sladest (Expanded)",
+        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Take Me Bak 'Ome",
+      "url": "https://open.spotify.com/track/6IctRzzSyMt5OtAjPaXgd4"
     }
   ],
   "unique_name": "70s Summer Rock",

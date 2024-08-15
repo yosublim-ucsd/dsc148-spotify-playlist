@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover: chokecherry",
+  "description": "A new wave of rock music. Cover:  ARXX",
   "name": "shockwave",
   "tracks": [
     {
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 116143,
       "name": "CARLING",
       "url": "https://open.spotify.com/track/4sSjMDi7SbXTFImSHEDr9x"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 248500,
       "name": "Cold",
       "url": "https://open.spotify.com/track/20d5r7dJunyrLNXZlv7jP5"
@@ -1248,6 +1248,24 @@
       "duration_ms": 147535,
       "name": "Country Life",
       "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
+    },
+    {
+      "album": {
+        "name": "Cowboy Milk",
+        "url": "https://open.spotify.com/album/4xLDL7CGdXugh9oxsQA5dV"
+      },
+      "artists": [
+        {
+          "name": "Beauty School",
+          "url": "https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189170,
+      "name": "Cowboy Milk",
+      "url": "https://open.spotify.com/track/4u3v4FhMii7GqEsxBUBhiJ"
     },
     {
       "album": {
@@ -1755,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Don't Ask Me",
+        "url": "https://open.spotify.com/album/6ONbdWpiQNBpEdx2y8vW24"
+      },
+      "artists": [
+        {
+          "name": "False Advertising",
+          "url": "https://open.spotify.com/artist/0w0G0yLuHEK0PKsNnLytAp"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210008,
+      "name": "Don't Ask Me",
+      "url": "https://open.spotify.com/track/3rW6duxzq9w9EofWw09eu9"
+    },
+    {
+      "album": {
         "name": "Cathexis",
         "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
       },
@@ -1950,7 +1986,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 253991,
       "name": "Faceless",
       "url": "https://open.spotify.com/track/4xfC8pDlqDofGmJwdj2Fhi"
@@ -2582,7 +2618,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 213970,
       "name": "Got It Made",
       "url": "https://open.spotify.com/track/3kbpQSZWt561MsdrRUwkyI"
@@ -2968,6 +3004,24 @@
       "duration_ms": 311698,
       "name": "How To Disappear",
       "url": "https://open.spotify.com/track/2q1uTb4UGj9T7nPiFR2Kwo"
+    },
+    {
+      "album": {
+        "name": "How to Walk",
+        "url": "https://open.spotify.com/album/1KfhJhQin6N1OnfQMb7nYG"
+      },
+      "artists": [
+        {
+          "name": "W. H. Lung",
+          "url": "https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234680,
+      "name": "How To Walk",
+      "url": "https://open.spotify.com/track/6uWU8pvBG7r5tEZDCl7u10"
     },
     {
       "album": {
@@ -4275,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/7Cfhjq1fNYfvm9KT41Wc2d"
+      },
+      "artists": [
+        {
+          "name": "She Drew The Gun",
+          "url": "https://open.spotify.com/artist/47meGvCz0CZklN50dgzjmL"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/219ayLInTTsroqX1bXL1kS"
+    },
+    {
+      "album": {
         "name": "Mitsuko",
         "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
       },
@@ -5457,6 +5529,24 @@
     },
     {
       "album": {
+        "name": "Self Confessions",
+        "url": "https://open.spotify.com/album/6Ya7gGfagnQgsX04iqxjWz"
+      },
+      "artists": [
+        {
+          "name": "Tally Spear",
+          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160280,
+      "name": "Self Confessions",
+      "url": "https://open.spotify.com/track/4SjHi8UKiEQFeikPErlcR2"
+    },
+    {
+      "album": {
         "name": "Service Stationed",
         "url": "https://open.spotify.com/album/2rGSlE6jVNffVrE1kof8Wa"
       },
@@ -5742,7 +5832,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 234080,
       "name": "So Medieval",
       "url": "https://open.spotify.com/track/1XXyubI3J3GRqpmVQPcBCT"
@@ -5803,6 +5893,24 @@
     },
     {
       "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/7d9yZXmvycybiUO1W3678F"
+      },
+      "artists": [
+        {
+          "name": "Light Grey",
+          "url": "https://open.spotify.com/artist/7hc1azqwLVlCwtE6acW1mZ"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148961,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/3saP81avLYdO7RwkMjewTt"
+    },
+    {
+      "album": {
         "name": "Speculate",
         "url": "https://open.spotify.com/album/0KpBHUkVGJVmOWZvnGQgIF"
       },
@@ -5814,7 +5922,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 248500,
       "name": "Speculate",
       "url": "https://open.spotify.com/track/6lvxk7lhf5MfdMf8kdT08i"
@@ -6005,6 +6113,24 @@
     },
     {
       "album": {
+        "name": "STUCK",
+        "url": "https://open.spotify.com/album/3J0ex9Eg21PORgqtZ2s2yR"
+      },
+      "artists": [
+        {
+          "name": "Kate Klein",
+          "url": "https://open.spotify.com/artist/67DWV4ny2wOneRM4QoLfLO"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108795,
+      "name": "STUCK",
+      "url": "https://open.spotify.com/track/5DhDVgtZ3jTT9hB1y7Wlzg"
+    },
+    {
+      "album": {
         "name": "Suff City",
         "url": "https://open.spotify.com/album/2oqoYX8ocgX1HooEd9fEMU"
       },
@@ -6149,6 +6275,24 @@
     },
     {
       "album": {
+        "name": "Where You'll Find Me",
+        "url": "https://open.spotify.com/album/5uriQhRrYZbapUWJhsI0yg"
+      },
+      "artists": [
+        {
+          "name": "Saloon Dion",
+          "url": "https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279697,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/2dtp4K6INdf7FjZJnYUGBp"
+    },
+    {
+      "album": {
         "name": "Tell Me I'm Wrong",
         "url": "https://open.spotify.com/album/12SxXpf86LVJYuNqQhkSPx"
       },
@@ -6290,6 +6434,24 @@
       "duration_ms": 158934,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/5wO1dqc1lSpQFFut9auHQC"
+    },
+    {
+      "album": {
+        "name": "MOULD",
+        "url": "https://open.spotify.com/album/3yefG16lyPXfugBkKjzYFf"
+      },
+      "artists": [
+        {
+          "name": "MOULD",
+          "url": "https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "The Space You Take Up",
+      "url": "https://open.spotify.com/track/3f2cilaLq2ILYnJyBwAYdz"
     },
     {
       "album": {
@@ -6456,6 +6618,24 @@
       "duration_ms": 191106,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0uEAKarNQvGAihjnah3asA"
+      },
+      "artists": [
+        {
+          "name": "ARXX",
+          "url": "https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219806,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4Pt4Vdrd62VdIB5Ax1uHrZ"
     },
     {
       "album": {
@@ -6924,6 +7104,24 @@
       "duration_ms": 164918,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/1lhC9yec2WzL63yZyDlAtq"
+    },
+    {
+      "album": {
+        "name": "Where Did I Go?",
+        "url": "https://open.spotify.com/album/22Ju9JxHW5fUcxcYTAd0RM"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127942,
+      "name": "Where Did I Go?",
+      "url": "https://open.spotify.com/track/1OWftpO1HUTtwcSCE7DqRg"
     },
     {
       "album": {

@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "That Kind of Life",
-        "url": "https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV"
-      },
-      "artists": [
-        {
-          "name": "Michigan Rattlers",
-          "url": "https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Total Freedom",
-        "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
+        "name": "That Kind of Life",
+        "url": "https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV"
       },
       "artists": [
         {
-          "name": "Kathleen Edwards",
-          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+          "name": "Michigan Rattlers",
+          "url": "https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E"
         }
       ],
-      "duration_ms": 270120,
-      "name": "Glenfern",
-      "url": "https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D"
+      "duration_ms": 229026,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1179,6 +1163,22 @@
       "duration_ms": 198120,
       "name": "Are You Listening?",
       "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Total Freedom",
+        "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "duration_ms": 270120,
+      "name": "Glenfern",
+      "url": "https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Miko Marks | OurVinyl Sessions",
+        "url": "https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "OurVinyl",
+          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
+        }
+      ],
+      "duration_ms": 281045,
+      "name": "Feel Like Going Home (OurVinyl Sessions)",
+      "url": "https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Soul In Mind",
         "url": "https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 228707,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Miko Marks | OurVinyl Sessions",
-        "url": "https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "OurVinyl",
-          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
-        }
-      ],
-      "duration_ms": 281045,
-      "name": "Feel Like Going Home (OurVinyl Sessions)",
-      "url": "https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Over Me",
-        "url": "https://open.spotify.com/album/0xQyYIK2Kzj3Eu2bcs7jbz"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 175509,
-      "name": "Over Me",
-      "url": "https://open.spotify.com/track/6a4MQYjKSAdN34HEP9s8uM"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Already Dead",
         "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 184500,
       "name": "Outwit the Devil",
       "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Over Me",
+        "url": "https://open.spotify.com/album/0xQyYIK2Kzj3Eu2bcs7jbz"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 175509,
+      "name": "Over Me",
+      "url": "https://open.spotify.com/track/6a4MQYjKSAdN34HEP9s8uM"
     },
     {
       "added_at": "2024-07-12 04:00:00",

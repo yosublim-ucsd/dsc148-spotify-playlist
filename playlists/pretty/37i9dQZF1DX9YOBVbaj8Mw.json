@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14389,
+  "num_followers": 14392,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "DEGRENGOLADA",
-        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
-      },
-      "artists": [
-        {
-          "name": "Nosowska",
-          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
-        }
-      ],
-      "duration_ms": 247249,
-      "name": "Pi\u0119kna degrengolada",
-      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "przestrze\u0144",
         "url": "https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 217245,
       "name": "lekka jak powietrze",
       "url": "https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "DEGRENGOLADA",
+        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        }
+      ],
+      "duration_ms": 247249,
+      "name": "Pi\u0119kna degrengolada",
+      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
+      },
+      "artists": [
+        {
+          "name": "Same Suki",
+          "url": "https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Pie\u015b\u0144 baby",
+      "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "p@Ran0j3",
         "url": "https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 127535,
       "name": "Coincidence - Part 1 - Prologue",
       "url": "https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
-      },
-      "artists": [
-        {
-          "name": "Same Suki",
-          "url": "https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd"
-        }
-      ],
-      "duration_ms": 99000,
-      "name": "Pie\u015b\u0144 baby",
-      "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Full Speed No Brakes",
-        "url": "https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z"
-      },
-      "artists": [
-        {
-          "name": "Boogie Boys",
-          "url": "https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Full Speed No Brakes",
-      "url": "https://open.spotify.com/track/69305G8R3qlddRjRZSq38d"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Unde Malum",
         "url": "https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 270333,
       "name": "Nie Zabijaj Ze Strachu",
       "url": "https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Full Speed No Brakes",
+        "url": "https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z"
+      },
+      "artists": [
+        {
+          "name": "Boogie Boys",
+          "url": "https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Full Speed No Brakes",
+      "url": "https://open.spotify.com/track/69305G8R3qlddRjRZSq38d"
     },
     {
       "added_at": "2024-03-25 08:52:09",

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30043,
+  "num_followers": 30046,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPMfqA9p4Tf/bEE//nJZwrA1E8n9e4",
+  "snapshot_id": "AAAPNNQsSGMCxPpF9tAyksgk9aJ++21N",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,22 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-08-14 15:03:39",
+      "album": {
+        "name": "Mutations",
+        "url": "https://open.spotify.com/album/3le0WTsv4dcgH7mqZ7bL0Z"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 164335,
+      "name": "Mutations - Edit",
+      "url": "https://open.spotify.com/track/5Uzoly9A6Y1SZt4Um5cU5u"
     },
     {
       "added_at": "2024-08-13 15:33:23",
@@ -719,30 +735,6 @@
       "duration_ms": 273291,
       "name": "Love Heart Cheat Code",
       "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
-    },
-    {
-      "added_at": "2024-05-29 16:10:54",
-      "album": {
-        "name": "Contact High",
-        "url": "https://open.spotify.com/album/0k4IKWG6ACOV5V1llFIafr"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Faux Real",
-          "url": "https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO"
-        },
-        {
-          "name": "Miki",
-          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
-        }
-      ],
-      "duration_ms": 183321,
-      "name": "Contact High",
-      "url": "https://open.spotify.com/track/4MwubKmGFxTUG8tyDik3Ux"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

@@ -4,7 +4,7 @@
 
 > 6 in the morning
 
-999 songs - 3 day 3 hr 56 min
+1,000 songs - 3 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [I Talk To Water \(With Perry Farrell\) \- CamelPhat Remix](https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [I Talk To Water \(With Perry Farrell\) \(CamelPhat Remix\)](https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe) | 3:00 | 2024-01-25 | 2024-06-21 |
 | [I Wanna \- Tchami Remix](https://open.spotify.com/track/4Z0OyS2aO8BXWY5sXSTwQc) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [I Wanna \(Tchami Remix\)](https://open.spotify.com/album/3YKX15J8s5PYibjYBwoSoz) | 3:35 | 2022-08-25 |  |
 | [I Wanna \- Tchami Remix](https://open.spotify.com/track/4eQiN1WgQ3Q8X7MF2okSTo) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [I Wanna \(Tchami Remix\)](https://open.spotify.com/album/2fOLNCoJ05kE14n4bXGDXr) | 3:35 | 2023-02-23 | 2024-04-19 |
+| [I've Arrived \(with Tomike\)](https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [I've Arrived \(with Tomike\)](https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM) | 2:30 | 2024-08-14 |  |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-08-18 | 2022-08-20 |
 | [Icy](https://open.spotify.com/track/0HYa1TKqAJj0QRMxilBYVV) | [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG) | [Icy](https://open.spotify.com/album/5rAwR12oyNnjR9lfkawxkd) | 2:55 | 2022-12-08 | 2023-03-10 |
 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 | 2024-05-09 |  |

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:7nfddgqZWzCgRcgZvjJqgo\">MESSIAH!</a>\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:5D70nuec9omH4CXmCGXGTu\">Lexa Gates</a>\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
+    {
+      "album": {
+        "name": "& the oscar goes 2",
+        "url": "https://open.spotify.com/album/3R62euFJfUSxD4A0BzC9r6"
+      },
+      "artists": [
+        {
+          "name": "b4u",
+          "url": "https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89485,
+      "name": "& the oscar goes 2",
+      "url": "https://open.spotify.com/track/6sVgwiRJB9UrymMZJqqRJe"
+    },
     {
       "album": {
         "name": "1 4 Granny",
@@ -822,6 +840,24 @@
       "duration_ms": 139459,
       "name": "A Man Once Depressed",
       "url": "https://open.spotify.com/track/7w9aym3ftmlmYWmVFK1bE8"
+    },
+    {
+      "album": {
+        "name": "food for thought",
+        "url": "https://open.spotify.com/album/0M1WBWkxXZ9xWtyuviqp8S"
+      },
+      "artists": [
+        {
+          "name": "justicexavier",
+          "url": "https://open.spotify.com/artist/52Wid2L5qIFP32nKreNX6q"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141587,
+      "name": "ABSOLUTELY BEAUTIFUL",
+      "url": "https://open.spotify.com/track/7lZCF61cpUeBeCcw5PfXwm"
     },
     {
       "album": {
@@ -2088,7 +2124,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 174241,
       "name": "Baby Driver",
       "url": "https://open.spotify.com/track/3zJzpr4aqrJU5iEsffmUOm"
@@ -5018,6 +5054,24 @@
       "duration_ms": 206451,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/40Gr98OxD5RYJLouzZHTIg"
+    },
+    {
+      "album": {
+        "name": "Chrome - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6b6cuhvYFCScmmFUHtKjyq"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187274,
+      "name": "Chrome - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7eaF2ASep9mUuFLN60y7BI"
     },
     {
       "album": {
@@ -8973,6 +9027,24 @@
     },
     {
       "album": {
+        "name": "Berhane's Son",
+        "url": "https://open.spotify.com/album/27YiMQggRT3R5RaD1gkrEH"
+      },
+      "artists": [
+        {
+          "name": "Mati",
+          "url": "https://open.spotify.com/artist/16nyx3S0mgSs2cGlw9Sol8"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155298,
+      "name": "garden my thoughts",
+      "url": "https://open.spotify.com/track/7kakB78GZh1C1ISDEsn6o3"
+    },
+    {
+      "album": {
         "name": "Gator Season",
         "url": "https://open.spotify.com/album/5ypYJLK29dHLVKXSB32AIK"
       },
@@ -9580,6 +9652,24 @@
       "duration_ms": 198517,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/28oUuNBe1YxigxUTSDolo5"
+    },
+    {
+      "album": {
+        "name": "GOOD GAME",
+        "url": "https://open.spotify.com/album/05BTUk3c3CDtRQCWjzYVDW"
+      },
+      "artists": [
+        {
+          "name": "BMW KENNY",
+          "url": "https://open.spotify.com/artist/3n6wgt7LmxAnT0XOHleQcP"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111133,
+      "name": "GOOD GAME",
+      "url": "https://open.spotify.com/track/2O26FRYISTWUtCbQFWxAoI"
     },
     {
       "album": {
@@ -11370,7 +11460,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 110333,
       "name": "in the mourning",
       "url": "https://open.spotify.com/track/77MEg4e5YVuhuSrFTmJGjD"
@@ -12773,6 +12863,28 @@
     },
     {
       "album": {
+        "name": "Lesson Learned",
+        "url": "https://open.spotify.com/album/6jarZM3uAsaefhcChudauA"
+      },
+      "artists": [
+        {
+          "name": "Lord Sko",
+          "url": "https://open.spotify.com/artist/4okQpk1QkE8PGtiwyakP4h"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "Lesson Learned",
+      "url": "https://open.spotify.com/track/5XnHs5wkdEuelNjXbvj6mb"
+    },
+    {
+      "album": {
         "name": "Beautiful Michi Girls",
         "url": "https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo"
       },
@@ -14068,7 +14180,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 168795,
       "name": "Make A Play",
       "url": "https://open.spotify.com/track/4nepgSbu8QPoUSlZU4x5Mf"
@@ -14126,6 +14238,28 @@
       "duration_ms": 140595,
       "name": "Make It Boom",
       "url": "https://open.spotify.com/track/4skAu73SkZYXC7qpDn0fnh"
+    },
+    {
+      "album": {
+        "name": "Paid Life 2",
+        "url": "https://open.spotify.com/album/7FG8UxsUdRxrCePZ6QXqhI"
+      },
+      "artists": [
+        {
+          "name": "Money Mu",
+          "url": "https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7"
+        },
+        {
+          "name": "Amg Twinz",
+          "url": "https://open.spotify.com/artist/3OfCA48fJTYJMwt0ljHMhE"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162909,
+      "name": "Make Sum",
+      "url": "https://open.spotify.com/track/1KQdJN9k9ecC1C5criS21R"
     },
     {
       "album": {
@@ -17180,7 +17314,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-25",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "our daily bread",
       "url": "https://open.spotify.com/track/2BZfFTse4OSlBkOFDxfaJe"
@@ -18402,6 +18536,24 @@
       "duration_ms": 189729,
       "name": "proper vertigo",
       "url": "https://open.spotify.com/track/4a0FB9DqWyo5Bqe7rDteya"
+    },
+    {
+      "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/3XJaGjWc4WWbYscxJoE5QI"
+      },
+      "artists": [
+        {
+          "name": "Lexa Gates",
+          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153053,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/08BFS5v1nfJO8cnNqmuZGS"
     },
     {
       "album": {
@@ -25948,7 +26100,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 206857,
       "name": "WYNWOOD",
       "url": "https://open.spotify.com/track/2A8GOD0NmU1qMcXyn3oQlK"

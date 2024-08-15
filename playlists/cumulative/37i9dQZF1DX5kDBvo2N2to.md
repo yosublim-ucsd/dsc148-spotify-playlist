@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-115 songs - 7 hr 7 min
+116 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [jag mår inte bra </3](https://open.spotify.com/track/78IgWqUnswiKKwxnr4jbWI) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [jag mår inte bra </3](https://open.spotify.com/album/1vdEbu1fVuZwJdnRMTr9KM) | 2:35 | 2024-06-28 | 2024-08-09 |
 | [Jeansjacka](https://open.spotify.com/track/5VQLwMSUdFIHOj7ao6Rg4R) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jeansjacka](https://open.spotify.com/album/4F5rh6QUQNOudxl8ph3lgu) | 3:51 | 2024-06-28 |  |
 | [Katterna](https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vilken del av oss gick fel?](https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa) | 2:58 | 2024-06-28 |  |
+| [Klyschor](https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Klyschor](https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd) | 2:33 | 2024-08-08 |  |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-28 |  |
 | [Leave Me Alone](https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Leave Me Alone](https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V) | 3:03 | 2024-06-28 |  |
 | [Louder](https://open.spotify.com/track/42Obtr1XEYyJGymYW3MIEW) | [Sissy Ford](https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l) | [Louder](https://open.spotify.com/album/1bECZOtl5rXMMJutsWrf6M) | 2:19 | 2024-06-28 |  |

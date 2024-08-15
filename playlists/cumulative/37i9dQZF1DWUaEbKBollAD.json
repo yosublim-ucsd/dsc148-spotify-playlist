@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 326368,
       "name": "Before Us",
       "url": "https://open.spotify.com/track/35nQObHeEnyN9j2HQ6CbrB"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 356052,
       "name": "Celestial 303 - Original Mix",
       "url": "https://open.spotify.com/track/2qfOLRhFtFiHjAEvc0J4fI"
@@ -536,6 +536,24 @@
       "duration_ms": 471724,
       "name": "Everything Is Life",
       "url": "https://open.spotify.com/track/5kJu55pjJfj62nIvcRwYMO"
+    },
+    {
+      "album": {
+        "name": "Eye Contact",
+        "url": "https://open.spotify.com/album/2jujhyMf8jsIzhgEuVBzE0"
+      },
+      "artists": [
+        {
+          "name": "Upper90",
+          "url": "https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230440,
+      "name": "Eye Contact",
+      "url": "https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy"
     },
     {
       "album": {
@@ -1079,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "KUM",
+        "url": "https://open.spotify.com/album/3iWNHswUreh7XwzsYeGOnG"
+      },
+      "artists": [
+        {
+          "name": "Animato",
+          "url": "https://open.spotify.com/artist/3EbiMr7AC6OqfPcrEHPVtL"
+        },
+        {
+          "name": "Volcano On Mars",
+          "url": "https://open.spotify.com/artist/4zQwbmuw1EcxLjA4ItvWk4"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449142,
+      "name": "KUM",
+      "url": "https://open.spotify.com/track/1eCwS9VyP57ZmQjbkdKIjD"
+    },
+    {
+      "album": {
         "name": "Libertas EP",
         "url": "https://open.spotify.com/album/55zffYkCjgLJxzPOLSUhWM"
       },
@@ -1188,6 +1228,24 @@
       "duration_ms": 394491,
       "name": "Mitsno Stoyaty",
       "url": "https://open.spotify.com/track/40gYiwafL92KAXN0Jv1t29"
+    },
+    {
+      "album": {
+        "name": "Le voyage dans la lune",
+        "url": "https://open.spotify.com/album/0dvlmNvi7bwLGzO2SG4KAa"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214257,
+      "name": "Moon Fever",
+      "url": "https://open.spotify.com/track/3mKB8BUg6JIXlNChQXQQNR"
     },
     {
       "album": {
@@ -1403,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Ruler Vibes",
+        "url": "https://open.spotify.com/album/7As2FWjonk7ZWSrA8aVMB4"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Ruler Vibes",
+      "url": "https://open.spotify.com/track/4JQ8XFbwScwKbKREaZSD45"
+    },
+    {
+      "album": {
         "name": "RUMI",
         "url": "https://open.spotify.com/album/4fIHE8l8KKJ5iRLw3BUGQc"
       },
@@ -1476,7 +1552,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 152398,
       "name": "Sancturary",
       "url": "https://open.spotify.com/track/1qB3FEc372Xpgdh6pP71z3"
@@ -1566,7 +1642,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 275914,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/0A5JyxmjVbXpYjUEYZAYtL"
@@ -1898,10 +1974,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 353194,
       "name": "UTOPIA - Giorgia Angiuli Remix",
       "url": "https://open.spotify.com/track/7xf3mveUjX2RmOjfMzRNWO"
+    },
+    {
+      "album": {
+        "name": "Divins Gr\u00e9goriens",
+        "url": "https://open.spotify.com/album/6Q7iGscBvCZRHitItQcS9M"
+      },
+      "artists": [
+        {
+          "name": "Hortus Musicus",
+          "url": "https://open.spotify.com/artist/77wX5TrF0K6zl4XTJ4rfYc"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Veni Creator Spiritus",
+      "url": "https://open.spotify.com/track/7fY6QtuDuUTY0ZgCLG9aXf"
     },
     {
       "album": {
@@ -1974,7 +2068,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 437521,
       "name": "Wachaka",
       "url": "https://open.spotify.com/track/66fPvJebZWxlDF5x3ZwcjK"
@@ -2018,6 +2112,24 @@
       "duration_ms": 170645,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"
+    },
+    {
+      "album": {
+        "name": "You Inspire Me",
+        "url": "https://open.spotify.com/album/4afGc57icTauYqr2NiXmVi"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "You Inspire Me",
+      "url": "https://open.spotify.com/track/6W6sLE6lR8WXMzGBFCtVUv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUaEbKBollAD"

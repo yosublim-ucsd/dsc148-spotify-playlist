@@ -1157,6 +1157,28 @@
     },
     {
       "album": {
+        "name": "enero en invierno - desde el taller",
+        "url": "https://open.spotify.com/album/7EskLL9urBXRdKbmI9ly0U"
+      },
+      "artists": [
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        },
+        {
+          "name": "Pato Cepeda",
+          "url": "https://open.spotify.com/artist/1PKydOaTMXD8XPd4aFtd8S"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223750,
+      "name": "fuentes de ortiz - desde el taller",
+      "url": "https://open.spotify.com/track/3ifgGxCmV1DsUA6NlbjIZw"
+    },
+    {
+      "album": {
         "name": "Fuera de mi lugar (a la medianoche)",
         "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
       },
@@ -3068,7 +3090,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 198000,
       "name": "ya no hay dudas - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1uJiKlVBweWo8Kd77eiRRH"

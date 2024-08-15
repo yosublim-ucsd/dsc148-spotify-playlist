@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta x Afrojack
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,198 likes - 10 songs - 26 min 31 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,193 likes - 10 songs - 26 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Somebody Else \(feat\. Blair\)](https://open.spotify.com/track/1NOZKVCCAHa61neGa8pPUX) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Blair](https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O) | [From Down Under](https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW) | 2:11 |
+| 1 | [Somebody Else \(feat\. Blair\)](https://open.spotify.com/track/1NOZKVCCAHa61neGa8pPUX) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r), [Blair](https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O) | [From Down Under](https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW) | 2:11 |
 | 2 | [Crush Me Down \(You Spin Me Around\)](https://open.spotify.com/track/23g2dvuaCjx1HhnjbjhEan) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM) | [Crush Me Down \(You Spin Me Around\) \[Hard Edit\]](https://open.spotify.com/album/5vPkT7NvfFm1N7p3KrAb31) | 2:01 |
 | 3 | [Kikuyu](https://open.spotify.com/track/3IQuYD2lrVj8NjAXCfU1TL) | [Jessi Selm](https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq) | [Kikuyu](https://open.spotify.com/album/6AUWyJYHCBr5Z5T3N0aA4a) | 3:01 |
 | 4 | [True](https://open.spotify.com/track/46stBt1QstaHewaL50xfDt) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [From Down Under](https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW) | 2:05 |

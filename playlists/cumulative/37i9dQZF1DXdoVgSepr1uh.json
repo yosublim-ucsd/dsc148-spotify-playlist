@@ -887,28 +887,6 @@
     },
     {
       "album": {
-        "name": "CUENTALE I E17",
-        "url": "https://open.spotify.com/album/7szrZs2g0r7WzIqUfZFx8R"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Gonzalo Nawel",
-          "url": "https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5"
-        }
-      ],
-      "date_added": "2024-06-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 132111,
-      "name": "CUENTALE I E17",
-      "url": "https://open.spotify.com/track/4TVKvQp8PDmDUJi0OQUnko"
-    },
-    {
-      "album": {
         "name": "C\u00f3mo Est\u00e1s?",
         "url": "https://open.spotify.com/album/2VEcetqb7yEZD9arTcyW8b"
       },
@@ -1178,6 +1156,28 @@
       "duration_ms": 186666,
       "name": "Diva",
       "url": "https://open.spotify.com/track/41eAvRCwPknwqqvyRMlERi"
+    },
+    {
+      "album": {
+        "name": "DJ ALEX, GONZALO NAWEL - CUENTALE I E17",
+        "url": "https://open.spotify.com/album/7szrZs2g0r7WzIqUfZFx8R"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Gonzalo Nawel",
+          "url": "https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132111,
+      "name": "DJ ALEX, GONZALO NAWEL - CUENTALE I E17",
+      "url": "https://open.spotify.com/track/4TVKvQp8PDmDUJi0OQUnko"
     },
     {
       "album": {

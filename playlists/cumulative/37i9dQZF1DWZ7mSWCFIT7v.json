@@ -1609,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Derecho",
+        "url": "https://open.spotify.com/album/6dfr8bom2gZBPVaFMMxwzW"
+      },
+      "artists": [
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265011,
+      "name": "Derecho",
+      "url": "https://open.spotify.com/track/1ex9tLfCgzOjV5rAU622nk"
+    },
+    {
+      "album": {
         "name": "Derrwut",
         "url": "https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 272327,
       "name": "Fern Flowers",
       "url": "https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx"
@@ -2526,6 +2544,24 @@
       "duration_ms": 252733,
       "name": "Haut",
       "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
+    },
+    {
+      "album": {
+        "name": "Hidden Hass",
+        "url": "https://open.spotify.com/album/0oe44ilOSSLd6RNtmDqkdn"
+      },
+      "artists": [
+        {
+          "name": "||||||||||||||||||||",
+          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "Hidden Hass",
+      "url": "https://open.spotify.com/track/702aIe9qKIXTXDSluPyD4V"
     },
     {
       "album": {
@@ -6602,7 +6638,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 208375,
       "name": "\u042f \u043d\u0435 \u0445\u043e\u0447\u0443 \u0437\u043d\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B"

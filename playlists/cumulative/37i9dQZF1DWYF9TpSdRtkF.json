@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 02",
+        "url": "https://open.spotify.com/album/2GToGpK197lsdbBkoj41Zt"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277653,
+      "name": "Believe my change!",
+      "url": "https://open.spotify.com/track/1TynNcWFdxFHDvPFlp405S"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER GENERATION 09 4 Luxury",
         "url": "https://open.spotify.com/album/3T1OK89HQ7sjaxeNiSbgOT"
       },
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 270493,
       "name": "FIND YOUR WIND!",
       "url": "https://open.spotify.com/track/6ybyRhhlDFCwDqqy9rB6O1"
@@ -3300,7 +3318,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 210480,
       "name": "Raise the FLAG",
       "url": "https://open.spotify.com/track/4DiglNq5mWTAjbAvLqd0e6"
@@ -3498,7 +3516,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 287373,
       "name": "ReTale",
       "url": "https://open.spotify.com/track/1VjpNNA4LiMrL9Bh2honei"

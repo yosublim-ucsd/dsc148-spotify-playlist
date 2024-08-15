@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 
 > 8月17日\~18日に開催される<a href="https://spotify\-earlynoise.jp/">RADAR:Early Noise Stage in SUMMER SONIC 2024</a>出演アーティストを特集！
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,953 likes - 46 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,972 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

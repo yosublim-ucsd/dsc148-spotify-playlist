@@ -1,12 +1,12 @@
 {
-  "description": "This is Little Jesus. The essential tracks, all in one playlist.",
-  "num_followers": 29862,
+  "description": "This Is Little Jesus. Los temas esenciales, todos en una lista.",
+  "num_followers": 29877,
   "original_name": "This Is Little Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAACDhNuzP+dlHwsu6eYkXVhT",
+  "snapshot_id": "ZrqiAAAAAABUilgUQqIFwhB7HxJcw0wR",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Show Debe Continuar",
+        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "T. N. S. A.",
+      "url": "https://open.spotify.com/track/3oslYn1eaqWHelZLDjohE1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
@@ -324,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 210866,
-      "name": "T. N. S. A.",
-      "url": "https://open.spotify.com/track/3oslYn1eaqWHelZLDjohE1"
+      "duration_ms": 269933,
+      "name": "Pase A La Red",
+      "url": "https://open.spotify.com/track/0L2Z6zPBxrbK9KsWqudiIG"
     },
     {
       "added_at": null,
@@ -379,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita Distancia",
-        "url": "https://open.spotify.com/album/0COlLwIKoLkM0CObynJaBj"
+        "name": "El Show Debe Continuar",
+        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
       },
       "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        },
         {
           "name": "Little Jesus",
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 135853,
-      "name": "Maldita Distancia",
-      "url": "https://open.spotify.com/track/4C55PjK12YhrZBt3TysuEI"
+      "duration_ms": 235733,
+      "name": "La Historia Sin Fin",
+      "url": "https://open.spotify.com/track/6dEN7xu4YO1WmHP0J2Of5a"
     },
     {
       "added_at": null,
@@ -431,6 +443,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maldita Distancia",
+        "url": "https://open.spotify.com/album/0COlLwIKoLkM0CObynJaBj"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 135853,
+      "name": "Maldita Distancia",
+      "url": "https://open.spotify.com/track/4C55PjK12YhrZBt3TysuEI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Show Debe Continuar",
+        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 318400,
+      "name": "Tierra Llamando A Sant",
+      "url": "https://open.spotify.com/track/3mMoZxMp4cIOzx2WfZ3f4o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redes Sociales",
         "url": "https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE"
       },
@@ -447,6 +495,22 @@
       "duration_ms": 190732,
       "name": "Los Esclavos",
       "url": "https://open.spotify.com/track/3rEwX4Ag28iVs3rcp5o952"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 94653,
+      "name": "Cine Permanencia Voluntaria",
+      "url": "https://open.spotify.com/track/5gPXLYNb9XRFHgRfcUKiHA"
     },
     {
       "added_at": null,
@@ -471,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
+        "name": "El Show Debe Continuar",
+        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
       },
       "artists": [
         {
@@ -480,9 +544,9 @@
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 94653,
-      "name": "Cine Permanencia Voluntaria",
-      "url": "https://open.spotify.com/track/5gPXLYNb9XRFHgRfcUKiHA"
+      "duration_ms": 220133,
+      "name": "Quiero M\u00e1s/Ser\u00e1 Mejor",
+      "url": "https://open.spotify.com/track/2ptx1t2u3IJsL8jKVbrUr1"
     },
     {
       "added_at": null,
@@ -559,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Show Debe Continuar",
-        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
       },
       "artists": [
         {
@@ -568,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Quiero M\u00e1s/Ser\u00e1 Mejor",
-      "url": "https://open.spotify.com/track/2ptx1t2u3IJsL8jKVbrUr1"
+      "duration_ms": 285440,
+      "name": "Los \u00c1ngeles, California",
+      "url": "https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C"
     },
     {
       "added_at": null,
@@ -591,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Los \u00c1ngeles, California",
-      "url": "https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo que necesitas es amor",
         "url": "https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe"
       },
@@ -619,38 +667,6 @@
       "duration_ms": 303920,
       "name": "Lo que necesitas es amor",
       "url": "https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Show Debe Continuar",
-        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 318400,
-      "name": "Tierra Llamando A Sant",
-      "url": "https://open.spotify.com/track/3mMoZxMp4cIOzx2WfZ3f4o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 121253,
-      "name": "Ni\u00f1a Bien",
-      "url": "https://open.spotify.com/track/05cP5FGnPjJZ1FkrGyTOkf"
     },
     {
       "added_at": null,
@@ -687,6 +703,22 @@
       "duration_ms": 188871,
       "name": "Fatal",
       "url": "https://open.spotify.com/track/6I8thLNz0QxMK0pklaL6Av"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 121253,
+      "name": "Ni\u00f1a Bien",
+      "url": "https://open.spotify.com/track/05cP5FGnPjJZ1FkrGyTOkf"
     },
     {
       "added_at": null,
@@ -739,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Show Debe Continuar",
-        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 269933,
-      "name": "Pase A La Red",
-      "url": "https://open.spotify.com/track/0L2Z6zPBxrbK9KsWqudiIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primavera 2020 (feat. Zoe Gotusso)",
         "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
       },
@@ -803,74 +819,6 @@
       "duration_ms": 256096,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/5WB0z3fy5pcngGdLbI8Ayt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Show Debe Continuar",
-        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Misterio, Cigarros y Menta",
-      "url": "https://open.spotify.com/track/1XeDKmPp1BUxoRk4GurxD8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Video Club Amores",
-        "url": "https://open.spotify.com/album/31tvW54Y2gBxdjJ7Gw8lNX"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "Video Club Amores",
-      "url": "https://open.spotify.com/track/0KgiNELjv8XGVU7vnR2Mcm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norte (Japanese Version)",
-        "url": "https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "J\u00f3venes - Bonus",
-      "url": "https://open.spotify.com/track/1Del9GKHyafG0uliX83jY2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buenos D\u00edas, Tardes Ya",
-        "url": "https://open.spotify.com/album/5yelo0AalKgvc2TzyOXbJ2"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "Buenos D\u00edas, Tardes Ya",
-      "url": "https://open.spotify.com/track/2R199UIEVC34Nou5YQahMj"
     }
   ],
   "unique_name": "This Is Little Jesus",

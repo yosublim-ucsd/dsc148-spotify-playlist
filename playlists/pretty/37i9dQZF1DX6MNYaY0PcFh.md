@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,363 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,396 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 53 | [Run It](https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Run It](https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF) | 3:31 |
 | 54 | [How It Is](https://open.spotify.com/track/7wetBN8fYQGEQyozI7fZMM) | [Lavito](https://open.spotify.com/artist/2f1ROIxC1XQB9beDbRhMzB), [Charlie Aylesbury](https://open.spotify.com/artist/1GR1GcuHbCWPMjN3cesPMp) | [How It Is](https://open.spotify.com/album/2x4kUhphJ4TI0I3KuvqA0o) | 2:29 |
 | 55 | [Sunshine](https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Sunshine](https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8) | 2:48 |
-| 56 | [KEEP IT ROLLING](https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF) | [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [KEEP IT ROLLING](https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH) | 3:19 |
-| 57 | [U Could Be Mine](https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [When I Dream](https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt) | 3:35 |
-| 58 | [Mind Still \(feat\. blythe\) \- Oppidan Remix](https://open.spotify.com/track/1w6YgFMLmba0xOMlFlqw7L) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Mind Still \(feat\. blythe\) \[Oppidan Remix\]](https://open.spotify.com/album/5Tn24LjHlcy9WpZ1PrlxRO) | 3:24 |
-| 59 | [Party All Night](https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Jamie Hai](https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ) | [Party All Night](https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP) | 2:32 |
+| 56 | [U Could Be Mine](https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [When I Dream](https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt) | 3:35 |
+| 57 | [KEEP IT ROLLING](https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF) | [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [KEEP IT ROLLING](https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH) | 3:19 |
+| 58 | [Party All Night](https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Jamie Hai](https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ) | [Party All Night](https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP) | 2:32 |
+| 59 | [Mind Still \(feat\. blythe\) \- Oppidan Remix](https://open.spotify.com/track/1w6YgFMLmba0xOMlFlqw7L) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Mind Still \(feat\. blythe\) \[Oppidan Remix\]](https://open.spotify.com/album/5Tn24LjHlcy9WpZ1PrlxRO) | 3:24 |
 | 60 | [You & I](https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [You & I](https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm) | 3:33 |
 
 Snapshot ID: `Zqy7owAAAABb0/8ytmQAa8/EkSsEXE3W`

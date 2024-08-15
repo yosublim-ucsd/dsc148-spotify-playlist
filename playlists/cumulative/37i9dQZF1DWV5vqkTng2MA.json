@@ -2679,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "Matter & Time",
+        "url": "https://open.spotify.com/album/7cqXhBKcaYvz8xpgLBQZao"
+      },
+      "artists": [
+        {
+          "name": "Bill Eberle",
+          "url": "https://open.spotify.com/artist/7bohL0j1kV0XMEk1enZQwQ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260213,
+      "name": "Matter & Time",
+      "url": "https://open.spotify.com/track/27k1PgzJjFJIsyInRJMGfA"
+    },
+    {
+      "album": {
         "name": "Midnight Wine",
         "url": "https://open.spotify.com/album/4AviuLYZTU7Bc0bk87H4uj"
       },
@@ -5048,7 +5066,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 201168,
       "name": "What Does It Mean to Be",
       "url": "https://open.spotify.com/track/2KBUrHOzhyEA6bnhCyB563"

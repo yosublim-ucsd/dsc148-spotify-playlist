@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > Hyperpopemocoretrap 100pre sad t odio bye 👾 Awexa en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,081 likes - 101 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,092 likes - 101 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

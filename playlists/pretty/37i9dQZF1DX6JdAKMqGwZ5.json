@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Natalia Lacunza.",
-  "num_followers": 194669,
+  "num_followers": 194679,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 193423,
-      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "HIMNOS DE GUERRA",
         "url": "https://open.spotify.com/album/3yzgOyDvJiXYYUpxztRHaF"
       },
@@ -567,22 +551,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Una noche m\u00e1s (feat. Bruses)",
-        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
+        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 183353,
-      "name": "Una noche m\u00e1s (feat. Bruses)",
-      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
+      "duration_ms": 193423,
+      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -603,6 +583,26 @@
       "duration_ms": 190398,
       "name": "Lo Contrario",
       "url": "https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Una noche m\u00e1s (feat. Bruses)",
+        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 183353,
+      "name": "Una noche m\u00e1s (feat. Bruses)",
+      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
-      },
-      "artists": [
-        {
-          "name": "Javi Chapela",
-          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
-        }
-      ],
-      "duration_ms": 233752,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Gente Corriente",
         "url": "https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 199200,
       "name": "Esp\u00edritu Ol\u00edmpico",
       "url": "https://open.spotify.com/track/6h0YQ6hAfOgpEz32vij8DI"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
+      },
+      "artists": [
+        {
+          "name": "Javi Chapela",
+          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
+        }
+      ],
+      "duration_ms": 233752,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0"
+        "name": "La Ceniza (feat. Valeria Castro)",
+        "url": "https://open.spotify.com/album/3H9GNHRuz3ybedGvH5WCyo"
       },
       "artists": [
         {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+          "name": "Ale Acosta",
+          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 196084,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN"
+      "duration_ms": 206666,
+      "name": "La Ceniza (feat. Valeria Castro)",
+      "url": "https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "La Ceniza (feat. Valeria Castro)",
-        "url": "https://open.spotify.com/album/3H9GNHRuz3ybedGvH5WCyo"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0"
       },
       "artists": [
         {
-          "name": "Ale Acosta",
-          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
-        },
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
         }
       ],
-      "duration_ms": 206666,
-      "name": "La Ceniza (feat. Valeria Castro)",
-      "url": "https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj"
+      "duration_ms": 196084,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Volver\u00e9is",
-        "url": "https://open.spotify.com/album/37A5BZoVIV9VfG2yRM0SwD"
-      },
-      "artists": [
-        {
-          "name": "Adi\u00f3s Amores",
-          "url": "https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT"
-        }
-      ],
-      "duration_ms": 189303,
-      "name": "Volver\u00e9is",
-      "url": "https://open.spotify.com/track/1DorbdhQk2qrzucKdxfv1d"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Acostumbrarme",
         "url": "https://open.spotify.com/album/5MyUQPlTNw14prHdnhRKaS"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Reventarme",
-        "url": "https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX"
+        "name": "Volver\u00e9is",
+        "url": "https://open.spotify.com/album/37A5BZoVIV9VfG2yRM0SwD"
       },
       "artists": [
         {
-          "name": "trashi",
-          "url": "https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ"
+          "name": "Adi\u00f3s Amores",
+          "url": "https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT"
         }
       ],
-      "duration_ms": 186382,
-      "name": "Reventarme",
-      "url": "https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1"
+      "duration_ms": 189303,
+      "name": "Volver\u00e9is",
+      "url": "https://open.spotify.com/track/1DorbdhQk2qrzucKdxfv1d"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1187,6 +1171,22 @@
       "duration_ms": 270137,
       "name": "The Last of Us",
       "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Reventarme",
+        "url": "https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX"
+      },
+      "artists": [
+        {
+          "name": "trashi",
+          "url": "https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Reventarme",
+      "url": "https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Echo de menos a los Arctic Monkeys",
+        "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "duration_ms": 199448,
+      "name": "Echo de menos a los Arctic Monkeys",
+      "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Ez Nintzen Ni Izango (Esa No Ser\u00eda Yo)",
         "url": "https://open.spotify.com/album/2eIfbE9QY4rESyCsu3JFUu"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 147789,
       "name": "No Te Voy a Besar",
       "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Echo de menos a los Arctic Monkeys",
-        "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 199448,
-      "name": "Echo de menos a los Arctic Monkeys",
-      "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "sangre y sal",
+        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "duration_ms": 171921,
+      "name": "n\u00fameros rojos",
+      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "campamento base",
         "url": "https://open.spotify.com/album/7mJty5NrSPAt2inyesbwSa"
       },
@@ -1479,26 +1499,6 @@
       "duration_ms": 226549,
       "name": "KORAJE",
       "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "sangre y sal",
-        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        },
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        }
-      ],
-      "duration_ms": 171921,
-      "name": "n\u00fameros rojos",
-      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1715,18 +1715,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Valle La Pena",
-        "url": "https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio"
+        "name": "Mimetizarnos",
+        "url": "https://open.spotify.com/album/6nsNU5wYVt9mbm1AXQRM3L"
       },
       "artists": [
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6"
+          "name": "TAURO",
+          "url": "https://open.spotify.com/artist/2B76nxBwYVPBmWnqUqbsIN"
+        },
+        {
+          "name": "HOLOGRAMMA",
+          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
         }
       ],
-      "duration_ms": 183524,
-      "name": "Valle La Pena",
-      "url": "https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i"
+      "duration_ms": 172562,
+      "name": "Mimetizarnos",
+      "url": "https://open.spotify.com/track/6436kNCDC0NvCgvBVCNsWG"
     }
   ],
   "unique_name": "Radar Indie",

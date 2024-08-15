@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,295 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,294 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 55 | [Przekaz](https://open.spotify.com/track/42QXTFTKlka5XAFZVHpc3d) | [HAŁASTRA](https://open.spotify.com/artist/0NRJ3fz8s0ghIVciOUvnfm), [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Gicik A’mane](https://open.spotify.com/artist/4dwH9xSn1PJA7nQogOlger), [Phunk'ill](https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM) | [KOMBINATORYKA](https://open.spotify.com/album/6pEdsCNTjZ0UODB0KdAnHL) | 3:36 |
 | 56 | [Nie ma sprawy](https://open.spotify.com/track/7dNLbmYbfHAQxIIcnD6Fri) | [Diho](https://open.spotify.com/artist/6PcYcDQ7UCL4U5PopumiWY), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT) | [Nie ma sprawy](https://open.spotify.com/album/3fsTzJ4ZEujyQuBd649DE0) | 2:12 |
 | 57 | [RYSY](https://open.spotify.com/track/6d2W4tWQGGhhnJe4zddAUi) | [Pawbeats](https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L), [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY), [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv) | [RYSY](https://open.spotify.com/album/3pBEh2pgcaYJz0qwWqYmtg) | 2:50 |
-| 58 | [Mamy ciężko](https://open.spotify.com/track/24DsDMTiN9Fwm4XIstmfn9) | [Solar](https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Mamy ciężko](https://open.spotify.com/album/0wYBM3GIqYhMZNUFXsLS5F) | 2:38 |
-| 59 | [HHULTRAS](https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz) | [Włodi](https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j) | [HHULTRAS](https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b) | 2:47 |
+| 58 | [HHULTRAS](https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz) | [Włodi](https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j) | [HHULTRAS](https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b) | 2:47 |
+| 59 | [Mamy ciężko](https://open.spotify.com/track/24DsDMTiN9Fwm4XIstmfn9) | [Solar](https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Mamy ciężko](https://open.spotify.com/album/0wYBM3GIqYhMZNUFXsLS5F) | 2:38 |
 | 60 | [Miłość zawsze jest](https://open.spotify.com/track/1xDgtJWs37XRF2PWFBcCz0) | [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [Miłość zawsze jest](https://open.spotify.com/album/2KzELKFk8kCzBu8aP10iNi) | 3:04 |
 | 61 | [Na jedna karte](https://open.spotify.com/track/0OBd3ANXiC25fwfAUgELva) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R) | [Na jedna karte](https://open.spotify.com/album/2WROFAMlXSu0nLDq28gLBr) | 2:45 |
 | 62 | [Miasto Boga](https://open.spotify.com/track/6sQuZ3E6SUUZmRTJ8DNgLH) | [Kali](https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R), [Sir Mich](https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP) | [Miasto Boga](https://open.spotify.com/album/2SioxbV84BRLxrFgBxExrn) | 3:48 |

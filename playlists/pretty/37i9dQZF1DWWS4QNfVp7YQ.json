@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 78565,
+  "num_followers": 78608,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Obscure Tribal",
+        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
+      },
+      "artists": [
+        {
+          "name": "Syztema",
+          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+        }
+      ],
+      "duration_ms": 168829,
+      "name": "Tambor Azteca",
+      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "La Ni\u00f1a (Remixes)",
         "url": "https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 264005,
       "name": "La Ni\u00f1a (Alan Rosales & Manu Morales Tribal Remix)",
       "url": "https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Obscure Tribal",
-        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
-      },
-      "artists": [
-        {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
-        }
-      ],
-      "duration_ms": 168829,
-      "name": "Tambor Azteca",
-      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
     },
     {
       "added_at": "2024-07-05 22:41:57",

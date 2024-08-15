@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>",
-  "num_followers": 10540,
+  "num_followers": 10555,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -853,38 +853,6 @@
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 289149,
-      "name": "HEAVENS GATE",
-      "url": "https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Anointing",
@@ -899,6 +867,22 @@
       "duration_ms": 153103,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -921,20 +905,44 @@
       "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
     },
     {
-      "added_at": "2024-02-09 00:01:00",
+      "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Dry Bones",
-        "url": "https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw"
       },
       "artists": [
         {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
         }
       ],
-      "duration_ms": 691541,
-      "name": "Dry Bones",
-      "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
+      "duration_ms": 289149,
+      "name": "HEAVENS GATE",
+      "url": "https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Halle - Remix",
+        "url": "https://open.spotify.com/album/2YeAPHd7mDzcnIdpoTeEwE"
+      },
+      "artists": [
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        },
+        {
+          "name": "Phindi P",
+          "url": "https://open.spotify.com/artist/5dE89DuV6VJledFjwVjemU"
+        },
+        {
+          "name": "TWC",
+          "url": "https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW"
+        }
+      ],
+      "duration_ms": 304927,
+      "name": "Halle - Remix",
+      "url": "https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH"
     },
     {
       "added_at": "2024-01-26 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: achi
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,467 likes - 176 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,468 likes - 176 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 5 | [夢寐 \(feat\. J Jelly\)](https://open.spotify.com/track/5cNWcuz1a3qHXMMcS4G4AI) | [WanillaCoco](https://open.spotify.com/artist/76sx7t1WnMy8XwQwY86nwk), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [夢寐 \(feat\. J Jelly\)](https://open.spotify.com/album/0U9BXpiyf7MOW1uILPJCvB) | 3:06 |
 | 6 | [Honesty](https://open.spotify.com/track/3BcEUl0zF9LoJHCTq4Fw9F) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Honesty](https://open.spotify.com/album/4feyMOtrlVm1JuT2Vy6IEs) | 4:11 |
 | 7 | [沉船仔](https://open.spotify.com/track/4GKz6m57hsGpIA9IsKZwyX) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx) | [沉船仔](https://open.spotify.com/album/6P9x2W060BFSpLFXxZKt6H) | 2:35 |
-| 8 | [I Wish](https://open.spotify.com/track/1uGWXD2mnNRqWtxBz8bVmm) | [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv), [Emlo](https://open.spotify.com/artist/5O4IDbze1xrfs2zY8wLJ1H) | [I Wish](https://open.spotify.com/album/3qntf8oitgKJp03AaMADp0) | 2:33 |
+| 8 | [I Wish](https://open.spotify.com/track/1uGWXD2mnNRqWtxBz8bVmm) | [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv), [Emlo](https://open.spotify.com/artist/1BHivWEpmuwIT1rBtmI0fb) | [I Wish](https://open.spotify.com/album/3qntf8oitgKJp03AaMADp0) | 2:33 |
 | 9 | [就係自己友](https://open.spotify.com/track/32CIyZTHJmgqwKaXzKOXQm) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [就係自己友](https://open.spotify.com/album/2Wi9QmjhuLLnpphJvV88us) | 3:16 |
 | 10 | [康城的日出](https://open.spotify.com/track/4jhfZuJuyQZWfxWXH8o7gJ) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [康城的日出](https://open.spotify.com/album/5sUmlMwOCRYqPxkaCKgJU8) | 2:44 |
 | 11 | [SUPER CALIFORNIA GIRLS](https://open.spotify.com/track/4y2eEk8LdvN7neCh7SdNEK) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [SUPER CALIFORNIA GIRLS](https://open.spotify.com/album/5kkEJIHCnbVY6bhJhHI77z) | 2:56 |

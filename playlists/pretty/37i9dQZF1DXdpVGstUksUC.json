@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 541836,
+  "num_followers": 541850,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Groovy",
+        "url": "https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1"
+      },
+      "artists": [
+        {
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Drowning on Empty",
+      "url": "https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "There is Nothing New Under the Sun",
         "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 371983,
       "name": "Too Stoned",
       "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Groovy",
-        "url": "https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1"
-      },
-      "artists": [
-        {
-          "name": "Geezer",
-          "url": "https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "Drowning on Empty",
-      "url": "https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Desert Cold",
-        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
-      },
-      "artists": [
-        {
-          "name": "Snowy Dunes",
-          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
-        }
-      ],
-      "duration_ms": 373133,
-      "name": "Desert Cold",
-      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love Fear Choices and Astronauts",
         "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Thornwyck Hymn",
-        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+        "name": "Desert Cold",
+        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
       },
       "artists": [
         {
-          "name": "My Dying Bride",
-          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+          "name": "Snowy Dunes",
+          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
         }
       ],
-      "duration_ms": 407783,
-      "name": "Thornwyck Hymn",
-      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
+      "duration_ms": 373133,
+      "name": "Desert Cold",
+      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 275066,
       "name": "Shifting Winds",
       "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Thornwyck Hymn",
+        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+      },
+      "artists": [
+        {
+          "name": "My Dying Bride",
+          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+        }
+      ],
+      "duration_ms": 407783,
+      "name": "Thornwyck Hymn",
+      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF"
-      },
-      "artists": [
-        {
-          "name": "All The Saints",
-          "url": "https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ"
-        }
-      ],
-      "duration_ms": 311546,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "In Search Of",
         "url": "https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 306973,
       "name": "Neptune's Convoy",
       "url": "https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF"
+      },
+      "artists": [
+        {
+          "name": "All The Saints",
+          "url": "https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ"
+        }
+      ],
+      "duration_ms": 311546,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Ilion",
+        "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
+      },
+      "artists": [
+        {
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+        }
+      ],
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Through The Eyes Of Heathens",
         "url": "https://open.spotify.com/album/4oFfTnY3Je6IT4QbeaPbQp"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 477920,
       "name": "Seer",
       "url": "https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Gravity X",
-        "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
-      },
-      "artists": [
-        {
-          "name": "Truckfighters",
-          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
-        }
-      ],
-      "duration_ms": 449946,
-      "name": "Desert Cruiser",
-      "url": "https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS"
     }
   ],
   "unique_name": "Stoner Rock",

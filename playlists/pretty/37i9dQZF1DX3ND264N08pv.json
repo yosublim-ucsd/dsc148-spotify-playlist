@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 74591,
+  "num_followers": 74627,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
+        "name": "Thunder In Paradise",
+        "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Shark Attack",
+      "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
         "name": "The Rusty Trombone",
         "url": "https://open.spotify.com/album/4Hu3riTVGkKf74N3qAwykS"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 173714,
       "name": "The Rusty Trombone",
       "url": "https://open.spotify.com/track/2BjnNxArj2lvXD7sqwQ0PL"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
-        "name": "Thunder In Paradise",
-        "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Shark Attack",
-      "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -839,18 +839,22 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "CocoNUTS",
-        "url": "https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu"
+        "name": "Schijt Aan!",
+        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
       },
       "artists": [
         {
           "name": "Never Surrender",
           "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
         }
       ],
-      "duration_ms": 202880,
-      "name": "CocoNUTS",
-      "url": "https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck"
+      "duration_ms": 194400,
+      "name": "Schijt Aan!",
+      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -975,22 +979,18 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "Schijt Aan!",
-        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
+        "name": "CocoNUTS",
+        "url": "https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu"
       },
       "artists": [
         {
           "name": "Never Surrender",
           "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Schijt Aan!",
-      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
+      "duration_ms": 202880,
+      "name": "CocoNUTS",
+      "url": "https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
-      },
-      "artists": [
-        {
-          "name": "Evil Activities",
-          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
         "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
         "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 279157,
       "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
       "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
+      },
+      "artists": [
+        {
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM"
-      },
-      "artists": [
-        {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        }
-      ],
-      "duration_ms": 234846,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
         "name": "Furious Anger",
         "url": "https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 230281,
       "name": "Mutilate",
       "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM"
+      },
+      "artists": [
+        {
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        }
+      ],
+      "duration_ms": 234846,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "The Ultimate Sound",
-        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 161419,
-      "name": "The Ultimate Sound",
-      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 178975,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
+        "name": "The Ultimate Sound",
+        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 161419,
+      "name": "The Ultimate Sound",
+      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1463,22 +1463,22 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC"
+        "name": "The Ultimate Killing Machine",
+        "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
       },
       "artists": [
         {
-          "name": "Alpha Lion",
-          "url": "https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         },
         {
-          "name": "Desolate One",
-          "url": "https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm"
+          "name": "Serouj Guidanian",
+          "url": "https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU"
         }
       ],
-      "duration_ms": 160909,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC"
+      "duration_ms": 205846,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1499,22 +1499,22 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "The Ultimate Killing Machine",
-        "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC"
       },
       "artists": [
         {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+          "name": "Alpha Lion",
+          "url": "https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno"
         },
         {
-          "name": "Serouj Guidanian",
-          "url": "https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU"
+          "name": "Desolate One",
+          "url": "https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm"
         }
       ],
-      "duration_ms": 205846,
-      "name": "Here To Stay",
-      "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
+      "duration_ms": 160909,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "The Oni Retribution",
-        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
+        "name": "The Protest",
+        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
       },
       "artists": [
         {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
         }
       ],
-      "duration_ms": 265900,
-      "name": "The Oni Retribution",
-      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
+      "duration_ms": 191779,
+      "name": "The Protest",
+      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "The Protest",
-        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
+        "name": "The Oni Retribution",
+        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
       },
       "artists": [
         {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
         }
       ],
-      "duration_ms": 191779,
-      "name": "The Protest",
-      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
+      "duration_ms": 265900,
+      "name": "The Oni Retribution",
+      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
     },
     {
       "added_at": "2024-08-02 06:50:39",

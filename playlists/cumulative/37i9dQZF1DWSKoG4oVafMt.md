@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-886 songs - 2 day 0 hr 4 min
+887 songs - 2 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Gabru Di Jaan](https://open.spotify.com/track/4apGS4ldFAEb4fDnkO1eWy) | [Mann Dhami](https://open.spotify.com/artist/56AGQhzutHSeoBy1kiWgET), [Kamal Khangura](https://open.spotify.com/artist/5pb4Hwfu5ykoQy94XHrOqT) | [Gabru Di Jaan](https://open.spotify.com/album/1JjswonXPB6XWFY4cS99Q5) | 2:57 | 2022-09-15 | 2022-09-23 |
 | [Gaddi Te Cash](https://open.spotify.com/track/0uRJ59HziWoXm7tRSKZVCd) | [Sunny Kahlon](https://open.spotify.com/artist/1H5i29nyKuLuvowaqkYDLF), [Rummi Dodher](https://open.spotify.com/artist/04lgbBBLaSklEQWkNPGHZd) | [Gaddi Te Cash](https://open.spotify.com/album/380vz7zqGCMEfdZsbXNPWo) | 3:11 | 2022-09-21 | 2022-12-16 |
 | [Gaddi Vich](https://open.spotify.com/track/0KxuTHWJkecNAPKuXWIqZH) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Gaddi Vich](https://open.spotify.com/album/6bfbWtvi8eyz80nVUOOX7t) | 2:52 | 2022-09-13 | 2023-02-02 |
-| [Gajra](https://open.spotify.com/track/4iiWWILhJEKbk9KnfTkyB4) | [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Gajra](https://open.spotify.com/album/0j1ktDsBcvOUKxIV9rapib) | 2:20 | 2024-03-26 |  |
+| [Gajra](https://open.spotify.com/track/4iiWWILhJEKbk9KnfTkyB4) | [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Gajra](https://open.spotify.com/album/0j1ktDsBcvOUKxIV9rapib) | 2:20 | 2024-03-26 | 2024-08-15 |
 | [Gal Ban Jae](https://open.spotify.com/track/3aIGOC1v9wB7njRT8lIWe3) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Gal Ban Jae](https://open.spotify.com/album/0Meuata3D39FTArEFqqnZg) | 3:31 | 2024-02-21 | 2024-04-04 |
 | [Gal Ban Jae](https://open.spotify.com/track/29d2haeSBT0E7ZIfj21JdF) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Gal Ban Jae](https://open.spotify.com/album/3kUDb1S9rTTuPauMvSDivX) | 3:31 | 2022-11-18 | 2024-03-02 |
 | [Gal Kaon Karda](https://open.spotify.com/track/4fyHxebtKweBmTdEwDmzFm) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Sadiyan Gallan 2](https://open.spotify.com/album/2DFsnJvHqSjPrYJekOc0Bz) | 3:27 | 2023-06-06 | 2024-04-04 |
@@ -844,6 +844,7 @@
 | [Valentine](https://open.spotify.com/track/3S1JzFfnjW5PHqi0HZ3Z8h) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW) | [Valentine](https://open.spotify.com/album/6SaqeZHD7NompLiV0HNMaA) | 2:17 | 2022-02-22 | 2022-03-11 |
 | [Value](https://open.spotify.com/track/3BR59UrLS2uSI45Q5hcl9v) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Value](https://open.spotify.com/album/6T2S8fCIQSmsQkPTdESBxi) | 4:35 | 2022-10-11 | 2023-02-04 |
 | [Ve Haaniyaan](https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Ve Haaniyaan](https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5) | 4:00 | 2024-02-06 |  |
+| [Ve Haaniyaan \(Female Version\)](https://open.spotify.com/track/2hjARU9stCimSBlpSliMSQ) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Ve Haaniyaan \(Female Version\)](https://open.spotify.com/album/3t8B4tf2XXm8bRggCe0KTO) | 3:23 | 2024-08-14 |  |
 | [Veham](https://open.spotify.com/track/2eZv9lBnm3x8mtCG8h1jJC) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Veham](https://open.spotify.com/album/0aR1TwlOoL2EDURRu06JrW) | 2:54 | 2022-07-22 | 2022-08-18 |
 | [Velly Touch](https://open.spotify.com/track/69w7HEi8HNfceDTx1rpWYl) | [Harjot](https://open.spotify.com/artist/7xk9bcMbRjtMCraHg4kSAd), [Meharwani](https://open.spotify.com/artist/6yYJCb4Qd0Uek7s1uDQLeW) | [Velly Touch](https://open.spotify.com/album/4gNRYP2tI4Sv5Tl57uTWrS) | 3:24 | 2022-03-21 | 2022-04-06 |
 | [Viah Da Card](https://open.spotify.com/track/231DYXxOB9cdA2OOhhlEIw) | [Dilpreet Matharu](https://open.spotify.com/artist/1gUNTGQ3bSoZfHXjPOncbL) | [Viah Da Card](https://open.spotify.com/album/0cybM6rUwqUug1y24DTESZ) | 2:54 | 2022-01-10 | 2022-02-01 |

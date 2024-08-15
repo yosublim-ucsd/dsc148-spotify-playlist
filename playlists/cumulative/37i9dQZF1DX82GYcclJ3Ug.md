@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: The Killers
 
-2,077 songs - 4 day 15 hr 53 min
+2,078 songs - 4 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Demise](https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Demise](https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42) | 3:12 | 2023-07-28 | 2023-09-16 |
 | [Demons](https://open.spotify.com/track/1svBusMnaBYZBvab7smEPv) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Demons](https://open.spotify.com/album/32IzWnzWKFtYeQXhnqApVo) | 3:01 | 2021-11-26 | 2022-01-15 |
 | [Designated Driver](https://open.spotify.com/track/2sAUIlFLzyDMMI17TtohBf) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Designated Driver](https://open.spotify.com/album/3U7ZF5UANVBDXSOiSSHXhl) | 3:58 | 2022-08-26 | 2022-12-03 |
+| [desire](https://open.spotify.com/track/59IZjbjihzu5wbWKQa3tKS) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [desire](https://open.spotify.com/album/0ILal2Iymn3PsxiQoDpo1C) | 2:31 | 2024-08-14 |  |
 | [Desire](https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Desire](https://open.spotify.com/album/1KT4zt8tTkUTQlUWJKLjQW) | 3:12 | 2023-08-04 | 2023-09-23 |
 | [Desperate Pleasures](https://open.spotify.com/track/0J6diw85NmHInEP6yoEKGa) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Desperate Pleasures](https://open.spotify.com/album/5LtVukpZ1oP9d7wSakQEtq) | 3:55 | 2021-11-26 | 2022-01-29 |
 | [Detroit](https://open.spotify.com/track/2NgvsclHyE5KaOVSxJxPTu) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Detroit](https://open.spotify.com/album/0Fg9GTE8wRg3bGirHuiduy) | 3:31 | 2024-07-26 |  |

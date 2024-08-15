@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans\. Cover: Wynton Marsalis
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,088 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,085 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 19 | [Hotter Than That](https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 3](https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn) | 3:02 |
 | 20 | [Do It Fluid](https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [My Feet Can't Fail Me Now](https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil) | 5:12 |
 | 21 | [Once In A While](https://open.spotify.com/track/1LnuXqYUH6jIWSIVyTMF9c) | [Norbert Susemihl](https://open.spotify.com/artist/1UkYB1n44YzBCtMaKde48Y), [Jason Marsalis](https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6), [Erika Lewis](https://open.spotify.com/artist/58WQdrfsIZV2HwaGkN1Pfr), [Shaye Cohn](https://open.spotify.com/artist/7HhwosbJ4EqUV4AzQXVUxB) | [Night on Frenchmen Street](https://open.spotify.com/album/44p3ndcrFCwxM6la37rd1M) | 4:31 |
-| 22 | [The Bare Necessities](https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6) | [Bill Murray](https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1), [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [The Jungle Book \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 3:00 |
+| 22 | [The Bare Necessities](https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6) | [Bill Murray](https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1), [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [The Jungle Book \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 3:00 |
 | 23 | [Tight Like This](https://open.spotify.com/track/0mkgfCq5dx1z1SMzaQGBKj) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Dear Louis](https://open.spotify.com/album/5OLuk4cPOgJ8zihkrFdAvx) | 7:04 |
 | 24 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 | 25 | [Saratoga Drag](https://open.spotify.com/track/5moLaoBxP6c8mAOw0IthLv) | [Luis Russell](https://open.spotify.com/artist/2QYQ1OaqqulNz8o2c80ViP), [Albert Nicholas](https://open.spotify.com/artist/6VeTIJi6Dlx8ywPfIwqALY), [Henry](https://open.spotify.com/artist/2JXBvjlBB0Qu7MJ1XblhSM), [J\. C\. Higginbotham](https://open.spotify.com/artist/5Qp4GPKEa8t2iM6ZDkg86Y), [Charlie Holmes](https://open.spotify.com/artist/5dhfT2nL6RlvrQ1E7E9QE9), [George](https://open.spotify.com/artist/5btCRpy3MmqEeGcm6PlOrA) | [The Luis Russell Story](https://open.spotify.com/album/7GZbePzYbEdPEKYC2NmFYQ) | 3:07 |

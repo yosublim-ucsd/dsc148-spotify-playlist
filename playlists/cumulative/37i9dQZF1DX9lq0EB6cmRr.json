@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-10-12",
-  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Jungin Huh(\ud5c8\uc815\uc778)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "name": "ClassiK",
+  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: David DQ Lee(\uc774\ub3d9\uaddc)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "name": "Classics Korea",
   "tracks": [
     {
       "album": {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 191440,
       "name": "10.1 (strings)",
       "url": "https://open.spotify.com/track/5pOtS3sP7IT1RRVM5hr3uS"
@@ -120,7 +120,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 40906,
       "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation VII",
       "url": "https://open.spotify.com/track/0mvx2tj7RIztJmOcL4TZlR"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 154333,
       "name": "12 \u00c9tudes, Op. 10: No. 12 in C Minor \"Revolutionary\"",
       "url": "https://open.spotify.com/track/2TDbO42FkShXZI55HghNOo"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 154333,
       "name": "12 \u00c9tudes, Op. 10: No. 12 in C Minor \"Revolutionary\"",
       "url": "https://open.spotify.com/track/3LSr6G2fhLtSZiAGHfikK4"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 254653,
       "name": "12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
       "url": "https://open.spotify.com/track/0uYOulzEKrKIRir1HcuMGo"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 254653,
       "name": "12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
       "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 212853,
       "name": "12 \u00c9tudes, Op. 10: No. 6 in E-Flat Minor \"Lament\"",
       "url": "https://open.spotify.com/track/0eqzWD8WhGvjNE2KQbuN61"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 212853,
       "name": "12 \u00c9tudes, Op. 10: No. 6 in E-Flat Minor \"Lament\"",
       "url": "https://open.spotify.com/track/0iiKUd0auI7AuEMUbLtWFL"
@@ -296,10 +296,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 136200,
       "name": "12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
       "url": "https://open.spotify.com/track/0rOPL4a9Hz5CSphjTwkkc6"
+    },
+    {
+      "album": {
+        "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
+        "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136200,
+      "name": "12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
+      "url": "https://open.spotify.com/track/27Tl9HCe5JKqqKVD9Mko3l"
     },
     {
       "album": {
@@ -580,7 +602,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 502240,
       "name": "Barcarolle in F-Sharp Major, Op. 60",
       "url": "https://open.spotify.com/track/4D5c2O7jJiKMk0e2csRWrH"
@@ -696,7 +718,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 319626,
       "name": "But Beautiful (feat. Danny Koo)",
       "url": "https://open.spotify.com/track/2pyp9twimZSVYkbCpFsyaX"
@@ -766,7 +788,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 451346,
       "name": "Cello Sonata No.1 in D Major, Op.12 : I. Adagio - Andante",
       "url": "https://open.spotify.com/track/2WfGNKZ2gpO2nq2FhLSqnb"
@@ -1028,7 +1050,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 173880,
       "name": "Die Zauberfl\u00f6te, K.620 / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herzen\"",
       "url": "https://open.spotify.com/track/1LS8z44ljIsRXJCDcIKVsg"
@@ -1112,7 +1134,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 309600,
       "name": "Family",
       "url": "https://open.spotify.com/track/7zYXGTdAyM2jJYCiKdWFld"
@@ -1276,7 +1298,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 254226,
       "name": "his days are like a passing shadow I",
       "url": "https://open.spotify.com/track/5AVrdzGQuarou1dHpnqJqQ"
@@ -1364,7 +1386,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 671773,
       "name": "Impromptu Op.142, D.935, No.3 'Rosamunde'",
       "url": "https://open.spotify.com/track/0I438LZWCVHD8Z1wMG8hPK"
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 94933,
       "name": "Manuel De Falla : Cancion del fuefo fatuo (\"El amor brujo\")",
       "url": "https://open.spotify.com/track/0tKfChdkcD6XRLzESdPd62"
@@ -1732,7 +1754,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 168013,
       "name": "Manuel De Falla : Danza del Molinero (\"El sombrero de tres picos\")",
       "url": "https://open.spotify.com/track/7aoqJgrvGikUKQE7NYK19G"
@@ -1780,7 +1802,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 696706,
       "name": "Mephisto Waltz No.1 in A Major, S.514",
       "url": "https://open.spotify.com/track/4uKWSTZnshdoSw0mwASnnJ"
@@ -2008,7 +2030,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 96093,
       "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": III. Rondo. Allegretto",
       "url": "https://open.spotify.com/track/2Wc6N3q1jAoEftfryRJjIT"
@@ -2030,7 +2052,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 347080,
       "name": "Piano Sonata No. 8 in E-Flat Major, D. 568: II. Andante molto",
       "url": "https://open.spotify.com/track/5OsaAWJPbbVeEz8jN9TFT9"
@@ -2096,7 +2118,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 188733,
       "name": "Rondo in B Minor, D. 895, op. 71 - I. Andante",
       "url": "https://open.spotify.com/track/2iN2EXB7WVl8ZEPi9sVDB0"
@@ -2114,7 +2136,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 264946,
       "name": "Save our lives",
       "url": "https://open.spotify.com/track/6jV7bp6RxyWGvUt4RptTiF"
@@ -2286,7 +2308,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 188546,
       "name": "Sonata for Solo Violin in A Minor, Op.27, No.2: IV. Les Furies (Allegro Furioso)",
       "url": "https://open.spotify.com/track/5MJ7PlUVP1cqpd7Bt6UVkU"
@@ -2578,7 +2600,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 269013,
       "name": "Tree - Orchestra Version",
       "url": "https://open.spotify.com/track/4Jd92aiHEfyHSf8IGlO9Ay"
@@ -2622,7 +2644,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 231360,
       "name": "Two Pieces for Cello and Piano, Op.2 : I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/6zI5QVxrwU3rOl03Ao5vzb"
@@ -2658,7 +2680,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 253360,
       "name": "Une Vie Part 1",
       "url": "https://open.spotify.com/track/66V6BzDDI5U9xEsrB5tTkK"
@@ -2966,6 +2988,24 @@
       "duration_ms": 246986,
       "name": "While You Live",
       "url": "https://open.spotify.com/track/2e1N2xPibfc6gsgjAmCv9j"
+    },
+    {
+      "album": {
+        "name": "Will You Be My Home",
+        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "Will You Be My Home",
+      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
     },
     {
       "album": {

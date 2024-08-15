@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Tenant\n",
-  "num_followers": 58368,
+  "num_followers": 58395,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrslZgAAAADosrG5DlAtlT6b7bgPuUbg",
+  "snapshot_id": "ZrygmgAAAAAsbiI4nBcRqIyaoBIscfwe",
   "tracks": [
     {
       "added_at": "2024-08-06 12:30:20",
@@ -27,6 +27,34 @@
       "duration_ms": 246066,
       "name": "Nagunaguta Edebadita (From \"Tenant\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/59nurG5HKf5mWx5jn2JuZi"
+    },
+    {
+      "added_at": "2024-08-14 12:15:59",
+      "album": {
+        "name": "Naane Krishna Naane Shaam (From \"Royal\")",
+        "url": "https://open.spotify.com/album/0n2tr7VDWEiCGNzqeQhWa9"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "M.M.Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        },
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "duration_ms": 240168,
+      "name": "Naane Krishna Naane Shaam (From \"Royal\")",
+      "url": "https://open.spotify.com/track/7IRutAFk82TSzHa4pwhBya"
     },
     {
       "added_at": "2024-08-13 09:20:00",
@@ -87,6 +115,30 @@
       "duration_ms": 176474,
       "name": "Aadi Baa Magane Bheema (From \"Bheema\")",
       "url": "https://open.spotify.com/track/2ViwIwFqOzQu3DONknuz3l"
+    },
+    {
+      "added_at": "2024-08-14 12:18:34",
+      "album": {
+        "name": "Thangalaan (Original Motion Picture Soundtrack) - Kannada",
+        "url": "https://open.spotify.com/album/0PjtFMVPtALIgzrpyZwx2T"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Narayanan Ravishankar",
+          "url": "https://open.spotify.com/artist/2eJunkotmRUe8mLJmqW8HD"
+        },
+        {
+          "name": "Varadharaj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/6EyWEa9HijFaUtqDaREPex"
+        }
+      ],
+      "duration_ms": 183385,
+      "name": "Thamateya Paari",
+      "url": "https://open.spotify.com/track/4NxmhyAoglB2bgTLqkmcLI"
     },
     {
       "added_at": "2024-08-12 04:24:17",

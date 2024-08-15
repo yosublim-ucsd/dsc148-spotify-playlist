@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 72066,
+  "num_followers": 72107,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAADpO7a1freGQOs/tsZbaxln",
+  "snapshot_id": "ZrqiAAAAAAB8Zu9pI0M2z6Ilg76QwW5Y",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 345600,
-      "name": "Juanito Alima\u00f1a",
-      "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Fight",
         "url": "https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 513320,
       "name": "Yo Puedo Vivir Del Amor",
       "url": "https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 345600,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
     },
     {
       "added_at": null,

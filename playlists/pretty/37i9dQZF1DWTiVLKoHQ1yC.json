@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 187811,
+  "num_followers": 187895,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-08-09 11:09:03",
       "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 169275,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 333750,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP"
-    },
-    {
-      "added_at": "2024-08-09 11:09:03",
-      "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 169275,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
     },
     {
       "added_at": "2024-08-09 11:09:03",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/7sUT01qCXPckucWAUpJdR2"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/7Ebf6mGvStX8TRTJCaC2vB"
-    },
-    {
-      "added_at": "2024-08-09 11:09:03",
-      "album": {
         "name": "Highest Love",
         "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 297374,
       "name": "Highest Love",
       "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/7sUT01qCXPckucWAUpJdR2"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7Ebf6mGvStX8TRTJCaC2vB"
     },
     {
       "added_at": "2024-08-09 11:09:03",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "It's Love (Trippin')",
-        "url": "https://open.spotify.com/album/2NWsEyK1jCTUINqSKWcVyA"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
-          "name": "Goldtrix",
-          "url": "https://open.spotify.com/artist/4Pif8am2UHNsBFcUA9zthX"
-        },
-        {
-          "name": "Andrea Brown",
-          "url": "https://open.spotify.com/artist/1pFPaJCULP8CZE6y0tbzyn"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "It's Love (Trippin')",
-      "url": "https://open.spotify.com/track/2bqwXwAj4ALLlDZ3JYbQVg"
-    },
-    {
-      "added_at": "2024-08-09 11:09:03",
-      "album": {
         "name": "Crazy Love (ANUQRAM Remix)",
         "url": "https://open.spotify.com/album/5EkwcV1x0pkD5wWJNaNG7U"
       },
@@ -1115,6 +1091,30 @@
     {
       "added_at": "2024-08-09 11:09:03",
       "album": {
+        "name": "It's Love (Trippin')",
+        "url": "https://open.spotify.com/album/2NWsEyK1jCTUINqSKWcVyA"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Goldtrix",
+          "url": "https://open.spotify.com/artist/4Pif8am2UHNsBFcUA9zthX"
+        },
+        {
+          "name": "Andrea Brown",
+          "url": "https://open.spotify.com/artist/1pFPaJCULP8CZE6y0tbzyn"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "It's Love (Trippin')",
+      "url": "https://open.spotify.com/track/2bqwXwAj4ALLlDZ3JYbQVg"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7kGKwjJjYg3y4vXZGRPgj1"
       },
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/3YwNWS7OPQHEp1wBorm5T0"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Emery Taylor",
-          "url": "https://open.spotify.com/artist/73xTk3QtMXI3Hd5PBVkNwx"
-        }
-      ],
-      "duration_ms": 232318,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/42j9s3ezCCR9wC1fJ4X3iz"
-    },
-    {
-      "added_at": "2024-08-09 11:09:03",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4A0StE56VMKnr1QlzosEua"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 189836,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/75gsMOTK0ZXgBeJ4wvDpL4"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/3YwNWS7OPQHEp1wBorm5T0"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Emery Taylor",
+          "url": "https://open.spotify.com/artist/73xTk3QtMXI3Hd5PBVkNwx"
+        }
+      ],
+      "duration_ms": 232318,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/42j9s3ezCCR9wC1fJ4X3iz"
     },
     {
       "added_at": "2024-08-09 11:09:03",

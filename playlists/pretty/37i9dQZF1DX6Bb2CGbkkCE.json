@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 5471,
+  "num_followers": 5476,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Just Until....",
+        "url": "https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 182974,
+      "name": "Dream in Color",
+      "url": "https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Just Until....",
-        "url": "https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 182974,
-      "name": "Dream in Color",
-      "url": "https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP"
     },
     {
       "added_at": "2022-10-01 16:00:00",

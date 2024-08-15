@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Jay Park\(박재범\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-557 songs - 1 day 12 hr 23 min
+558 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Bad Influence](https://open.spotify.com/track/5IfWm7ztpJW3Up9pTLAAUc) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [Bad Influence](https://open.spotify.com/album/64UpaMQNLdwF1JD0JDaWor) | 2:40 | 2022-03-24 | 2023-03-22 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-08 | 2024-04-24 |
 | [Beauty\(2021\)](https://open.spotify.com/track/2aY3oOlqP2IfFeyLL2Xjyu) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Beauty\(2021\)](https://open.spotify.com/album/2POm3VpxdpC8NyZ5qpC5G8) | 3:41 | 2022-01-21 | 2022-04-14 |
-| [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 | 2021-12-20 |  |
+| [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 | 2021-12-20 | 2024-08-15 |
 | [Because of love](https://open.spotify.com/track/7u8cKCV0mrXirJcHhhFFz6) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Because of love](https://open.spotify.com/album/6pfIavz40knR8l2TixGw5X) | 3:40 | 2024-05-02 | 2024-05-10 |
 | [Because of You](https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn) | 3:32 | 2022-02-10 |  |
 | [Because You're Not Here](https://open.spotify.com/track/1qCp5eczpNpcGnRkia5tCo) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/60w4ZxJnDrtlq7klh2e62m) | 4:18 | 2021-12-20 | 2022-10-25 |
@@ -284,6 +284,7 @@
 | [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 |  |
 | [Love should not be harsh on you](https://open.spotify.com/track/03TdLY0nav9sQ3kyjbyJ9t) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Love should not be harsh on you](https://open.spotify.com/album/6jHa0QNqdyT3w2jGIpR2z5) | 4:28 | 2021-12-20 | 2022-07-28 |
 | [Love Sick](https://open.spotify.com/track/0Vb3ELQ111quZfXfnrmIdc) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 1st Full Album 'Customary Place'](https://open.spotify.com/album/5MfVAeTyhatiLjzaPtMbsh) | 3:42 | 2022-03-24 | 2022-07-29 |
+| [Love That Only Heaven Allows](https://open.spotify.com/track/7KqDuh9FooIIU2aw7iJY3A) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Love That Only Heaven Allows](https://open.spotify.com/album/6FrA8j1imC1nXzzXjb1Psy) | 3:59 | 2024-08-14 |  |
 | [Love War](https://open.spotify.com/track/3ZLH3WCaGQ2mvynea5a29s) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Love War](https://open.spotify.com/album/59DdpwFqZnqs1Bz4bgKxW7) | 4:00 | 2023-07-20 | 2023-09-10 |
 | [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 | 2024-06-19 |  |
 | [Love, ing](https://open.spotify.com/track/53NfwDBeFuzW8eDxEQyCJd) | [Sun Ye](https://open.spotify.com/artist/7CBvUrPXH5uzagKCfAS54Q) | [Love, ing](https://open.spotify.com/album/0Rx8VbEuZPctmQeeS3p8qL) | 4:33 | 2022-04-01 | 2022-06-23 |

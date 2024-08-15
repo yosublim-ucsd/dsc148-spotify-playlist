@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Ric Hassani",
-  "num_followers": 238232,
+  "num_followers": 238255,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
-        "name": "Hold You Down",
-        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 158069,
-      "name": "Hold You Down",
-      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2N2sszhtSKyCQGLtGEigLG"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 153098,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7mE7qAkm5kvgalbtZhTQ0v"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
+        "name": "Bad Decisions & Foreplay",
+        "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 169571,
+      "name": "Bad Decisions & Foreplay",
+      "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
         "name": "wap",
         "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 168000,
       "name": "wap",
       "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
-        "name": "Bad Decisions & Foreplay",
-        "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 169571,
-      "name": "Bad Decisions & Foreplay",
-      "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
-        "name": "Abeke",
-        "url": "https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv"
-      },
-      "artists": [
-        {
-          "name": "Godwin",
-          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
-        },
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        }
-      ],
-      "duration_ms": 247880,
-      "name": "Abeke",
-      "url": "https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 205000,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
+        "name": "Abeke",
+        "url": "https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        },
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        }
+      ],
+      "duration_ms": 247880,
+      "name": "Abeke",
+      "url": "https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
+        "name": "4 Days",
+        "url": "https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 154199,
+      "name": "4 Days",
+      "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
         "name": "Love Garden",
         "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 150765,
       "name": "Love Garden",
       "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
-        "name": "4 Days",
-        "url": "https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 154199,
-      "name": "4 Days",
-      "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
-        "name": "Kelewele (feat. Joeboy)",
-        "url": "https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Kelewele (feat. Joeboy)",
-      "url": "https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
         "name": "BOOK OF VASA",
         "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 168613,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
+        "name": "Kelewele (feat. Joeboy)",
+        "url": "https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Kelewele (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
-        "name": "Man Not God",
-        "url": "https://open.spotify.com/album/7pqhzzJiTABC6QZJkrLfZf"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 165004,
-      "name": "Man Not God",
-      "url": "https://open.spotify.com/track/3rGnjwEwcqb2iMfchx0ZpF"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
         "name": "Men Are Crazy",
         "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 186666,
       "name": "Men Are Crazy",
       "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
+        "name": "Man Not God",
+        "url": "https://open.spotify.com/album/7pqhzzJiTABC6QZJkrLfZf"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 165004,
+      "name": "Man Not God",
+      "url": "https://open.spotify.com/track/3rGnjwEwcqb2iMfchx0ZpF"
     },
     {
       "added_at": "2024-08-09 00:01:00",

@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
     },
     {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Coed Singles",
+        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
+      },
+      "artists": [
+        {
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+        }
+      ],
+      "duration_ms": 151455,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
+    },
+    {
       "added_at": "2022-03-28 19:29:09",
       "album": {
         "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
@@ -247,22 +263,6 @@
       "duration_ms": 191306,
       "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
       "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Coed Singles",
-        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
-      },
-      "artists": [
-        {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
-        }
-      ],
-      "duration_ms": 151455,
-      "name": "Have You Heard",
-      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -363,18 +363,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "What is This Thing Called Love?",
-        "url": "https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN"
+        "name": "That's How Rhythm Was Born",
+        "url": "https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj"
       },
       "artists": [
         {
-          "name": "The Pied Pipers",
-          "url": "https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd"
+          "name": "The Boswell Sisters",
+          "url": "https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN"
+        },
+        {
+          "name": "Jimmie Grier",
+          "url": "https://open.spotify.com/artist/0J5t0Dwzv8SbJMf1K6Vp02"
         }
       ],
-      "duration_ms": 168158,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy"
+      "duration_ms": 201400,
+      "name": "The Object Of My Affection (with Jimmie Grier) - 78 rpm Version",
+      "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -395,22 +399,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "That's How Rhythm Was Born",
-        "url": "https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj"
+        "name": "What is This Thing Called Love?",
+        "url": "https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN"
       },
       "artists": [
         {
-          "name": "The Boswell Sisters",
-          "url": "https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN"
-        },
-        {
-          "name": "Jimmie Grier",
-          "url": "https://open.spotify.com/artist/0J5t0Dwzv8SbJMf1K6Vp02"
+          "name": "The Pied Pipers",
+          "url": "https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd"
         }
       ],
-      "duration_ms": 201400,
-      "name": "The Object Of My Affection (with Jimmie Grier) - 78 rpm Version",
-      "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
+      "duration_ms": 168158,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy"
     },
     {
       "added_at": "2020-08-17 22:49:59",

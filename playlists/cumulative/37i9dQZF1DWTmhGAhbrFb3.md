@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-438 songs - 21 hr 31 min
+439 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Apadhup](https://open.spotify.com/track/5kqBvbo0emHRHrcnluvsNO) | [Adhira Acharya](https://open.spotify.com/artist/6EDrxyhlk9JAPbyn1VC3xb) | [The Wooden Watchtower](https://open.spotify.com/album/72eh8pWxp4HdpOslUyjSD5) | 4:00 | 2023-04-06 | 2024-01-18 |
 | [Apricus](https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Apricus](https://open.spotify.com/album/2rk6uIsjnpHpOFYHmx8Emk) | 2:39 | 2023-04-06 | 2024-06-19 |
 | [Ara](https://open.spotify.com/track/6SbFBs5pon9flXihCWlfO4) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Ara](https://open.spotify.com/album/3ihuFLmR9nqUwShXXOsSWP) | 2:45 | 2024-01-17 |  |
+| [Archimedes](https://open.spotify.com/track/7JD5pmj7dqDmLGAarMgWYD) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Archimedes](https://open.spotify.com/album/6wVDnC1pOc8e3274c7Ep0c) | 3:13 | 2024-08-14 |  |
 | [Armonikos](https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ) | [Armonikos](https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R) | [Armonikos](https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz) | 2:35 | 2023-04-06 | 2024-01-18 |
 | [As Day Fades Into Night](https://open.spotify.com/track/5nxgnk2YmJRZUr1k0QvEIK) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [As Day Fades Into Night](https://open.spotify.com/album/2McYGVYPvWLpzWcJZIbupc) | 3:12 | 2024-01-17 |  |
 | [Astrion](https://open.spotify.com/track/7d7v5LnQwiKNSh2NhQnMJB) | [Aiden Hill](https://open.spotify.com/artist/0uDN7TDcYwRt0WhDSYFz3R) | [Astrion](https://open.spotify.com/album/4VPcY56Ln1jWfwtffYBoKZ) | 2:58 | 2024-04-22 | 2024-06-19 |
@@ -87,7 +88,7 @@
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2023-04-06 | 2024-01-18 |
 | [Corfu](https://open.spotify.com/track/26Ai0IMyGM4cGA0Dp2uTjm) | [The Blue Sun](https://open.spotify.com/artist/7IovadbLWNyXi5BWqo98gD) | [The Blue Sun](https://open.spotify.com/album/2vYFhbACGYRpPk5tlH0drO) | 3:48 | 2023-04-06 | 2024-04-03 |
 | [Cosmic Bells](https://open.spotify.com/track/5jetoEQ0EDEXF5RtwODdw9) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Cosmic Bells](https://open.spotify.com/album/58r9xAtFKqSt6CGWLz3kmF) | 2:33 | 2024-05-20 |  |
-| [Crimson Skies](https://open.spotify.com/track/4RDswM1o8ulgXwj4zh1qVb) | [Barbena](https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL) | [Crimson Skies](https://open.spotify.com/album/0I0iTRLRdj9uU8I8TKUIKh) | 3:11 | 2023-09-15 |  |
+| [Crimson Skies](https://open.spotify.com/track/4RDswM1o8ulgXwj4zh1qVb) | [Barbena](https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL) | [Crimson Skies](https://open.spotify.com/album/0I0iTRLRdj9uU8I8TKUIKh) | 3:11 | 2023-09-15 | 2024-08-15 |
 | [Cross My Heart](https://open.spotify.com/track/50BBDsisFzJGiFbg6FDRAV) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:28 | 2023-04-06 | 2024-01-18 |
 | [Crystal Rainbow](https://open.spotify.com/track/38KA0V0itQdu90o81fF216) | [Divinioso](https://open.spotify.com/artist/6Zh8cnbJ69ONeH5eDcUqpR) | [Crystal Rainbow](https://open.spotify.com/album/1gIS9yjql6sT3bQmRYZuMk) | 3:39 | 2023-04-06 | 2024-04-03 |
 | [Crystal Waters Symphony](https://open.spotify.com/track/1EabAR979mR0wzcZWQmF2P) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [Crystal Waters Symphony](https://open.spotify.com/album/2JAiz3QMhfqIntK8kwjViq) | 2:48 | 2024-06-18 |  |

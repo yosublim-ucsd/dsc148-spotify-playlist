@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by J Balvin, Peso Pluma & Titi Double P, Manuel Turizo, and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,234 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,367 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

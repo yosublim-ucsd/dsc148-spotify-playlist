@@ -2,7 +2,7 @@
 
 ### [This Is Black Coffee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3R5f8c)
 
-> This is Black Coffee\. The essential tracks, all in one playlist.
+> This is Black Coffee\. Tutti i brani in un'unica playlist.
 
 97 songs - 12 hr 5 min
 

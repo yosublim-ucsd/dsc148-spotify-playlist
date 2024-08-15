@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,001 likes - 38 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,024 likes - 38 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 31 | [Carolina \(Club Mix\)](https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Gold, Vol\. 1](https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk) | 3:13 |
 | 32 | [Catalina La Coja](https://open.spotify.com/track/0YRYTEfZUNm1oxEVbJYmWB) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [La Guerra De Las Puntas](https://open.spotify.com/album/7MRIkW4ZvHEVWVvoGDieW8) | 4:09 |
 | 33 | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/track/3EJTCYD1PUIpYIz11C028p) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/album/1YAZf04dRwNpRg689EKfgI) | 3:12 |
-| 34 | [Nafagua](https://open.spotify.com/track/4nxGdxGI4DmH5wKbNBE9Yu) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/4X7kDkmya4KmYTPM4albiP) | 3:25 |
+| 34 | [Pai](https://open.spotify.com/track/7nVxxifuVHGa97WVNIVoMG) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [Puro Exitos: Las Chicas Rolands](https://open.spotify.com/album/4T4kwbbas6ZdwBYUCVPfeY) | 3:23 |
 | 35 | [Vamos Vamos Todos Con la Seleccion](https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Baila Baila](https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo) | 1:53 |
-| 36 | [Pai](https://open.spotify.com/track/7nVxxifuVHGa97WVNIVoMG) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [Puro Exitos: Las Chicas Rolands](https://open.spotify.com/album/4T4kwbbas6ZdwBYUCVPfeY) | 3:23 |
-| 37 | [Quemala](https://open.spotify.com/track/0NEBWdknV109G27t9N6p4C) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc) | [Quemala](https://open.spotify.com/album/1Jbvn94xFJLtzxVf63RoGB) | 2:25 |
-| 38 | [Imagenes](https://open.spotify.com/track/70T2o1RBFIaOImnNiP7J5t) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 4:10 |
+| 36 | [Quemala](https://open.spotify.com/track/0NEBWdknV109G27t9N6p4C) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc) | [Quemala](https://open.spotify.com/album/1Jbvn94xFJLtzxVf63RoGB) | 2:25 |
+| 37 | [Imagenes](https://open.spotify.com/track/70T2o1RBFIaOImnNiP7J5t) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 4:10 |
+| 38 | [Nafagua](https://open.spotify.com/track/4nxGdxGI4DmH5wKbNBE9Yu) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/4X7kDkmya4KmYTPM4albiP) | 3:25 |
 
 Snapshot ID: `ZpGu/AAAAAAy3yeVeI0Uvwp4yS44C6vJ`

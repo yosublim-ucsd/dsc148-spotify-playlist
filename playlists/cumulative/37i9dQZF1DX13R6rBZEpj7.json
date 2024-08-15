@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 268000,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
@@ -2260,6 +2260,28 @@
       "duration_ms": 301400,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT"
+    },
+    {
+      "album": {
+        "name": "Give Me Your Love (Baby) (Zero Remix)",
+        "url": "https://open.spotify.com/album/5wKVgLmw73r4bEslj3t7wy"
+      },
+      "artists": [
+        {
+          "name": "Christian Rogers",
+          "url": "https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Give Me Your Love (Baby) (Zero Remix)",
+      "url": "https://open.spotify.com/track/5Qmto687964VIdsAsfmV5n"
     },
     {
       "album": {

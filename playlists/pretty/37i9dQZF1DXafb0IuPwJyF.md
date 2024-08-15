@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 優里
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,391 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,556 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [M4D LUV](https://open.spotify.com/track/1VvnwevAQLDauz6iZbbxDv) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [M4D LUV](https://open.spotify.com/album/4q7ZGmbDGNH3ZXRfKWqHbJ) | 3:17 |
 | 50 | [You](https://open.spotify.com/track/0zTkGAcW8rSKudSDgAzRwN) | [808](https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7) | [You](https://open.spotify.com/album/7sXKtNSDdHLOipBi2PeUSq) | 3:42 |
 
-Snapshot ID: `Zrt08AAAAACKQl6XTPCLX2LTWnN28EKm`
+Snapshot ID: `Zrw3nwAAAABPVOr0lN070sb/g6tBUanT`

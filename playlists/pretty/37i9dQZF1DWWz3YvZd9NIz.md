@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,386 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,488 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 51 | [BELIEVE](https://open.spotify.com/track/5wbOCSgL2J390XSAv2cagW) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [BassWar & CaoX](https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX) | [BELIEVE](https://open.spotify.com/album/4PVQayLg2VKRGKRkCGacjv) | 3:00 |
 | 52 | [Silence \- Brennan Heart Remix](https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Silence \(feat\. Sarah McLachlan\) \[Brennan Heart Remix\]](https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr) | 4:23 |
 | 53 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 |
-| 54 | [Vois Sur Ton Chemin \- Hardstyle](https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa) | [Bern\-AT & WARLEX](https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf), [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [Vois Sur Ton Chemin \(Hardstyle\)](https://open.spotify.com/album/2ZmO15M5AqVAnO4zrVbeXR) | 3:59 |
-| 55 | [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 |
+| 54 | [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 |
+| 55 | [Vois Sur Ton Chemin \- Hardstyle](https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa) | [Bern\-AT & WARLEX](https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf), [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [Vois Sur Ton Chemin \(Hardstyle\)](https://open.spotify.com/album/2ZmO15M5AqVAnO4zrVbeXR) | 3:59 |
 | 56 | [Oh Fortuna \- Carmina Burana](https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [SMVGGLERS](https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Oh Fortuna](https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0) | 2:50 |
 | 57 | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF) | 3:00 |
 | 58 | [Zombie Nation](https://open.spotify.com/track/28p8D5MFCUPjLO7xfybSqT) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Zombie Nation](https://open.spotify.com/album/7MlmX8r4WQ4U1HmaSu2mVU) | 2:29 |

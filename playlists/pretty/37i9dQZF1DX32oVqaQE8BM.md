@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,429 likes - 252 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,502 likes - 252 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 42 | [lights](https://open.spotify.com/track/1xoG5b5c7Rx28Y2T97qyaj) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [lights](https://open.spotify.com/album/2TLVyMD4mZ5lBjlEHD2jPN) | 2:15 |
 | 43 | [For The Future](https://open.spotify.com/track/3aaNzCBIgHCsi6scJKpqGf) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [For The Future](https://open.spotify.com/album/2Eg8q0vcRxt6IKpyei0aqX) | 3:05 |
 | 44 | [ethereal](https://open.spotify.com/track/4fC9s3NtmRHeK1B3xJC45M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [ethereal](https://open.spotify.com/album/0UZKU872aVTdCf71eDHLkH) | 2:26 |
-| 45 | [Branching Spiral](https://open.spotify.com/track/5elH9TFqpMKCbnuNl2zjdx) | [Richard Houghten](https://open.spotify.com/artist/1CsZ0ihKPWBDUERlQt8ekr), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Branching Spiral](https://open.spotify.com/album/6TS4jjFcfJGCK8P94MsWeZ) | 2:51 |
+| 45 | [Branching Spiral](https://open.spotify.com/track/5elH9TFqpMKCbnuNl2zjdx) | [Richard Houghten](https://open.spotify.com/artist/1CsZ0ihKPWBDUERlQt8ekr), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Branching Spiral](https://open.spotify.com/album/6TS4jjFcfJGCK8P94MsWeZ) | 2:51 |
 | 46 | [Recharge](https://open.spotify.com/track/3Y2IyKykThXzRpDgiwWNnq) | [lost.mindd](https://open.spotify.com/artist/6MzDAmtVfhn4nnlAhE4Ewa) | [Recharge](https://open.spotify.com/album/6JiMZbXZnQJ3UmFyRsgWFt) | 2:12 |
 | 47 | [Pure Love](https://open.spotify.com/track/26bvQf4ljKD95E8EsAlBRq) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Pure Love](https://open.spotify.com/album/6FiKg8yY7tOK2txKXUpFcb) | 2:18 |
 | 48 | [Pink Clouds](https://open.spotify.com/track/2YF1RVNUetGq90CbHz23tl) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Pink Clouds](https://open.spotify.com/album/1SWtOevSJat2m0GFNM0LPQ) | 2:54 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-101 songs - 4 hr 46 min
+103 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [BELIEVE ME](https://open.spotify.com/track/1iYzpPZzxkdgZG3ukBRE9m) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:48 | 2023-12-13 |  |
 | [Big Things](https://open.spotify.com/track/2K08mIndQivtEZEbPAYXqf) | [CalVin](https://open.spotify.com/artist/7rJxklCqe6KJGSK3duDt4Q) | [Talk My Shit Starr \(Deluxe\)](https://open.spotify.com/album/7dmXvkChLHyjuwKWmnHrmj) | 2:28 | 2023-12-13 |  |
 | [Bing James \(ft\. Jay Rock\)](https://open.spotify.com/track/3wGkYZLDYtULqg635DyKw8) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Funeral](https://open.spotify.com/album/2x657XotA7LCsPElXmXX4W) | 3:23 | 2023-12-13 |  |
+| [Bitter](https://open.spotify.com/track/53PhCf5rWmxBYWPNjfiaWL) | [Jayacara](https://open.spotify.com/artist/77MEEt77ZHE6FU3jrxYDd6) | [Bitter](https://open.spotify.com/album/1cQURsqOSrMRgFmRHyLhMW) | 2:46 | 2024-08-14 |  |
 | [BK BABY](https://open.spotify.com/track/4wPbpGQP6HWNDUOEh21NYs) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:44 | 2023-12-13 |  |
 | [BLACK SHEEP OUTRO](https://open.spotify.com/track/0P6CMd1DCS3nRWeihcr6oW) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 3:56 | 2023-12-13 |  |
 | [Blackberry Zap](https://open.spotify.com/track/7nQ5vYfpRleN1UPTD1vgj1) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:58 | 2023-12-13 |  |
@@ -103,6 +104,7 @@
 | [WALK IN](https://open.spotify.com/track/6G3SpOQw2lInNobvvgfMIW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 2:13 | 2023-12-13 |  |
 | [Washing Machine](https://open.spotify.com/track/2W6zBqZSsoeGgBHmXNvLER) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Washing Machine](https://open.spotify.com/album/0QyvrkxKHVpxDckhyAjNMP) | 2:52 | 2023-12-13 |  |
 | [Webb](https://open.spotify.com/track/4ejCNPGH9DCpNzP0EViZ4w) | [iivrson](https://open.spotify.com/artist/7jsiVHCNUT0PsO9fIskEXC) | [Webb](https://open.spotify.com/album/2UhPwewlKdNzT2WRlVH82Q) | 2:36 | 2023-12-13 |  |
+| [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 | 2024-08-14 |  |
 | [WILDIN](https://open.spotify.com/track/0SyHqKuXo2wuDgPJiHD2wx) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 2:00 | 2023-12-13 |  |
 | [Xion](https://open.spotify.com/track/5BXGLYOc7VY1YZsrLYDOxZ) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [IMMIGRANT](https://open.spotify.com/album/01OhPa84ZZEYBZl2Lvo4iZ) | 2:14 | 2023-12-13 |  |
 | [Y OFC](https://open.spotify.com/track/6oGcbDKQFAcIfmFJYSlGxf) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 3:23 | 2023-12-13 |  |

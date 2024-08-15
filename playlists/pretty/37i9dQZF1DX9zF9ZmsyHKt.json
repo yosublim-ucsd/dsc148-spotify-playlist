@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 331261,
+  "num_followers": 331111,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "menina solta",
+        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "menina solta",
+      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "menina solta",
-        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "menina solta",
-      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Dona Cila",
-      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Todo Caminho \u00c9 Sorte (\u00e1lbum Comentado)",
         "url": "https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 229480,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Dona Cila",
+      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 205945,
-      "name": "Bixinho",
-      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Mariana Nolasco",
         "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 210261,
       "name": "Poemas Que Colori",
       "url": "https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 205945,
+      "name": "Bixinho",
+      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Solo Seduzente",
-        "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
-      },
-      "artists": [
-        {
-          "name": "Dani Russo",
-          "url": "https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r"
-        }
-      ],
-      "duration_ms": 125990,
-      "name": "Solo Seduzente",
-      "url": "https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Origem",
         "url": "https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 281034,
       "name": "Feito Fuma\u00e7a",
       "url": "https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Solo Seduzente",
+        "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
+      },
+      "artists": [
+        {
+          "name": "Dani Russo",
+          "url": "https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r"
+        }
+      ],
+      "duration_ms": 125990,
+      "name": "Solo Seduzente",
+      "url": "https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Vinte Palavras ao Redor do Sol",
-        "url": "https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1tia de Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Quem Vai Quem Vem",
-      "url": "https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Jaguatirica Print",
         "url": "https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 178304,
       "name": "Garota Ligeira",
       "url": "https://open.spotify.com/track/1ceOQ6Xoy2Pt08CF88G4ef"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Vinte Palavras ao Redor do Sol",
+        "url": "https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1tia de Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Quem Vai Quem Vem",
+      "url": "https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Coisas Do Meu Pessoal",
-        "url": "https://open.spotify.com/album/45ezXhsXFqhqVYRLcxFlWB"
-      },
-      "artists": [
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Marias",
-      "url": "https://open.spotify.com/track/4jaiXJPx1kFVJLl2pz1b9k"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Del\u00edrio",
         "url": "https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 174186,
       "name": "Del\u00edrio",
       "url": "https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Coisas Do Meu Pessoal",
+        "url": "https://open.spotify.com/album/45ezXhsXFqhqVYRLcxFlWB"
+      },
+      "artists": [
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Marias",
+      "url": "https://open.spotify.com/track/4jaiXJPx1kFVJLl2pz1b9k"
     },
     {
       "added_at": "2022-10-07 03:01:33",

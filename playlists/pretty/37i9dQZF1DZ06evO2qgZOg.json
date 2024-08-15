@@ -1,12 +1,12 @@
 {
   "description": "This Is Skillet. Los temas esenciales, todos en una lista.",
-  "num_followers": 282424,
+  "num_followers": 282520,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAAB+OQ6dPW+8XQvPvc3V/nEo",
+  "snapshot_id": "ZrqiAAAAAAACoqccdJ9UVPYNogj7Bq3+",
   "tracks": [
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious: The Aftermath (Deluxe)",
-        "url": "https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW"
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 231105,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74"
+      "duration_ms": 273626,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3PwUxOBMBkwILa7Y0s6h8S"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW"
+        "name": "Victorious: The Aftermath (Deluxe)",
+        "url": "https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 273626,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3PwUxOBMBkwILa7Y0s6h8S"
+      "duration_ms": 231105,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74"
     },
     {
       "added_at": null,

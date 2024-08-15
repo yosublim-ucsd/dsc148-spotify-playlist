@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,215 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,201 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 78 | [Nosso Sonho](https://open.spotify.com/track/2utewTyarSbTNi8T6TB7sr) | [Claudinho & Buchecha](https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU) | [Novo Millennium](https://open.spotify.com/album/2PEn9XdR7UtrtNEXu9AtG4) | 5:04 |
 | 79 | [Festa no Apê \(Dragostea Din Tei\)](https://open.spotify.com/track/4MhdkKwzXifgDrdtNvMvJJ) | [Latino](https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5) | [Latino Apresenta as Aventuras de DJ L \- Festa no Apê](https://open.spotify.com/album/6gPlOUYW8fgYluWN0NCJEG) | 4:11 |
 | 80 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
-| 81 | [Telegrama](https://open.spotify.com/track/0hDGrqlzFtt73WkNIKMDA8) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Valeu Exalta!](https://open.spotify.com/album/6VOMUqy6aAwy0L2ISPGrIJ) | 3:39 |
-| 82 | [Ousadia & Alegria \- Ao Vivo](https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Neymar](https://open.spotify.com/artist/2SnSnBn2zvkXGNqifnj5i2) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 2:28 |
-| 83 | [Desafio \- Ao Vivo](https://open.spotify.com/track/59hKLIqy6OA39DNdF33U3B) | [XANDDY HARMONIA](https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J) | [Harmonia do Samba \(Ao Vivo\)](https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76) | 2:49 |
+| 81 | [Ousadia & Alegria \- Ao Vivo](https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Neymar](https://open.spotify.com/artist/2SnSnBn2zvkXGNqifnj5i2) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 2:28 |
+| 82 | [Desafio \- Ao Vivo](https://open.spotify.com/track/59hKLIqy6OA39DNdF33U3B) | [XANDDY HARMONIA](https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J) | [Harmonia do Samba \(Ao Vivo\)](https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76) | 2:49 |
+| 83 | [Telegrama](https://open.spotify.com/track/0hDGrqlzFtt73WkNIKMDA8) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Valeu Exalta!](https://open.spotify.com/album/6VOMUqy6aAwy0L2ISPGrIJ) | 3:39 |
 | 84 | [Eu Sou a Diva Que Você Quer Copiar](https://open.spotify.com/track/5oU2Oa0dIlqTMRSEAnIlY5) | [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [Eu Sou a Diva Que Você Quer Copiar](https://open.spotify.com/album/4MLicWEL0VWklsLxmNHRaa) | 2:26 |
 | 85 | [FICA À VONTADE](https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [FICA À VONTADE](https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY) | 2:20 |
 | 86 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |

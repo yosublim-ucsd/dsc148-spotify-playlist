@@ -5115,6 +5115,28 @@
     },
     {
       "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/3vjoM3ygN0rQ1VurKFVmi1"
+      },
+      "artists": [
+        {
+          "name": "Rated R",
+          "url": "https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj"
+        },
+        {
+          "name": "Florida Man Frank",
+          "url": "https://open.spotify.com/artist/45dP0xtCIxFhKMtZN5Amm7"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186437,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/0X4rmRgLzakHuykZOwhNVD"
+    },
+    {
+      "album": {
         "name": "ANTIFRACTALS",
         "url": "https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S"
       },
@@ -12814,7 +12836,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 144324,
       "name": "STEPPIN",
       "url": "https://open.spotify.com/track/0Cxf7WWBmKaLLKr6sjAveV"

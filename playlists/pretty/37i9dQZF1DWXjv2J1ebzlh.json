@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 113206,
+  "num_followers": 113269,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Dog With a Rope (Quantic Presenta Flowering Inferno)",
         "url": "https://open.spotify.com/album/0NiH3ROfMf9ZGYj07RP0B0"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 377293,
       "name": "Cumbia Sobre el Mar",
       "url": "https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "\u0130kimiz Bir Fidan\u0131z (45'lik)",
         "url": "https://open.spotify.com/album/3IkS5E4iTSOdTiufaoNx0Q"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 210580,
       "name": "\u0130kimiz Bir Fidan\u0131z",
       "url": "https://open.spotify.com/track/1rRHrIgrPPHUYD97oYAgli"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Cart\u00e3o Postal",
-        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
-      },
-      "artists": [
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
-        }
-      ],
-      "duration_ms": 128903,
-      "name": "Espera Pra Ver",
-      "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Mahal",
         "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 278471,
       "name": "Black Sand",
       "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Cart\u00e3o Postal",
+        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
+      },
+      "artists": [
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "duration_ms": 128903,
+      "name": "Espera Pra Ver",
+      "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
       },
       "artists": [
         {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 140426,
-      "name": "Gente Aberta",
-      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
+      "duration_ms": 140706,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
         }
       ],
-      "duration_ms": 140706,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
+      "duration_ms": 140426,
+      "name": "Gente Aberta",
+      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Quarteto Em Cy",
+        "url": "https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Em Cy",
+          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
+        }
+      ],
+      "duration_ms": 161106,
+      "name": "Tudo Que Voce Podia Ser",
+      "url": "https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Omara Portuondo (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 245280,
       "name": "Cumbia Espacial",
       "url": "https://open.spotify.com/track/36573bwqNlXfYksha3cVRP"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Quarteto Em Cy",
-        "url": "https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Em Cy",
-          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
-        }
-      ],
-      "duration_ms": 161106,
-      "name": "Tudo Que Voce Podia Ser",
-      "url": "https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "You've Got a Woman",
-        "url": "https://open.spotify.com/album/2RfURH6OZDRc4sHloLYC3D"
-      },
-      "artists": [
-        {
-          "name": "Lion",
-          "url": "https://open.spotify.com/artist/37UBXFAuwG66gXZSVL4Qnk"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "You've Got a Woman",
-      "url": "https://open.spotify.com/track/6G6mulVvHFpJsnoKASUPYP"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "La Candela Viva",
         "url": "https://open.spotify.com/album/2UChA5fC8ycqyOJbMwjtZw"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 247306,
       "name": "El Pescador",
       "url": "https://open.spotify.com/track/5STDVTFO7ziu4LDaaRCx2n"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "You've Got a Woman",
+        "url": "https://open.spotify.com/album/2RfURH6OZDRc4sHloLYC3D"
+      },
+      "artists": [
+        {
+          "name": "Lion",
+          "url": "https://open.spotify.com/artist/37UBXFAuwG66gXZSVL4Qnk"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "You've Got a Woman",
+      "url": "https://open.spotify.com/track/6G6mulVvHFpJsnoKASUPYP"
     },
     {
       "added_at": "2024-06-04 22:00:00",

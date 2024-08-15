@@ -2521,6 +2521,28 @@
     },
     {
       "album": {
+        "name": "DJ HUMBLE (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1rhbprgJVR4NBkxwJZ4zwl"
+      },
+      "artists": [
+        {
+          "name": "Jay Glass Dubs",
+          "url": "https://open.spotify.com/artist/2Uo8hdDlnsj9baLt1jPiVu"
+        },
+        {
+          "name": "Sissi Rada",
+          "url": "https://open.spotify.com/artist/6tur6gkfmy5lrI9A4rIzlt"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475250,
+      "name": "As Happy as a Sandboy",
+      "url": "https://open.spotify.com/track/1jcOLLOtYQ9lfIBCw64T16"
+    },
+    {
+      "album": {
         "name": "Saccades",
         "url": "https://open.spotify.com/album/2StQxbMJUpPYFPH1znrqGd"
       },
@@ -5632,7 +5654,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
@@ -6540,6 +6562,42 @@
       "duration_ms": 366549,
       "name": "CRUX",
       "url": "https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD"
+    },
+    {
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265548,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
+    },
+    {
+      "album": {
+        "name": "Cr\u00edo Cuervos",
+        "url": "https://open.spotify.com/album/17GaCOxc4k6GZjvUj0HEld"
+      },
+      "artists": [
+        {
+          "name": "Tucci",
+          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238808,
+      "name": "Cr\u00edo Cuervos",
+      "url": "https://open.spotify.com/track/1t7BihSMV0dlAlP259WKiW"
     },
     {
       "album": {
@@ -10492,7 +10550,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 136317,
       "name": "Forgotten Flower",
       "url": "https://open.spotify.com/track/0Hjd5PfLJYEKEb6G4RIXqG"
@@ -12407,6 +12465,24 @@
     },
     {
       "album": {
+        "name": "Hooked Paw",
+        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200378,
+      "name": "Hooked Paw",
+      "url": "https://open.spotify.com/track/5O0NtSxrPa8nNCMrPqyxrQ"
+    },
+    {
+      "album": {
         "name": "Air Texture VIII Anthony Naples + DJ Python",
         "url": "https://open.spotify.com/album/6Vj1Pi89N2wqNqHFhEw4cB"
       },
@@ -13188,7 +13264,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 257091,
       "name": "I Need Time",
       "url": "https://open.spotify.com/track/6pa6928PyZgyt5fpusQvux"
@@ -17721,6 +17797,46 @@
     },
     {
       "album": {
+        "name": "Meta",
+        "url": "https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc"
+      },
+      "artists": [
+        {
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        },
+        {
+          "name": "Mykola Lebed",
+          "url": "https://open.spotify.com/artist/73OfnS2YlWCMKgwtWPlBMA"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "Meta V",
+      "url": "https://open.spotify.com/track/1hO2aMpprNNIcLjvVx18es"
+    },
+    {
+      "album": {
+        "name": "Meta",
+        "url": "https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc"
+      },
+      "artists": [
+        {
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352314,
+      "name": "Meta VI",
+      "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
+    },
+    {
+      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
       },
@@ -18010,7 +18126,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 270557,
       "name": "MissU",
       "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
@@ -18732,6 +18848,28 @@
       "duration_ms": 225493,
       "name": "Mutant Fur",
       "url": "https://open.spotify.com/track/08KSLMce7oT11dlRwClDqs"
+    },
+    {
+      "album": {
+        "name": "Nostalgia Por Mesoz\u00f3ica",
+        "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
+      },
+      "artists": [
+        {
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        },
+        {
+          "name": "Arthur Mine",
+          "url": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169214,
+      "name": "Muzak For Mesozoic Showreel",
+      "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
     },
     {
       "album": {
@@ -19982,6 +20120,24 @@
       "duration_ms": 278000,
       "name": "N\u00e6sten",
       "url": "https://open.spotify.com/track/1orAT1aA83nsTtTxjJEpkA"
+    },
+    {
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145344,
+      "name": "O O O O",
+      "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
     },
     {
       "album": {
@@ -22396,7 +22552,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 208484,
       "name": "Ready to Leave",
       "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
@@ -22887,6 +23043,24 @@
     },
     {
       "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Rhythm-O-Green",
+      "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
+    },
+    {
+      "album": {
         "name": "Ribbon Bone [Silk Chaser]",
         "url": "https://open.spotify.com/album/1WVXUTLIyRZiYnptpDoYky"
       },
@@ -23184,7 +23358,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 339125,
       "name": "Ros Elavy",
       "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
@@ -23866,7 +24040,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 168230,
       "name": "Se o arrependimento matasse",
       "url": "https://open.spotify.com/track/1oUOHThOffguKFRhWcNeSV"
@@ -24694,6 +24868,50 @@
       "duration_ms": 264093,
       "name": "Sky Breaking, Clouds Falling",
       "url": "https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3"
+    },
+    {
+      "album": {
+        "name": "Hooked Paw",
+        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363483,
+      "name": "Sky Hooks",
+      "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
+    },
+    {
+      "album": {
+        "name": "Sky Time",
+        "url": "https://open.spotify.com/album/6a3obHasxduXehtFxlS7CX"
+      },
+      "artists": [
+        {
+          "name": "YAI",
+          "url": "https://open.spotify.com/artist/6CV1eZ3xM0Sfpfd6gkufrJ"
+        },
+        {
+          "name": "John Thayer",
+          "url": "https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k"
+        },
+        {
+          "name": "David Lackner",
+          "url": "https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182391,
+      "name": "Sky Time",
+      "url": "https://open.spotify.com/track/0Br1XgqraY0UkXY56QQ0oS"
     },
     {
       "album": {
@@ -28178,7 +28396,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 336600,
       "name": "the REAL - HAAi Remix",
       "url": "https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q"
@@ -31312,7 +31530,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 293370,
       "name": "VOAR",
       "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
@@ -32120,7 +32338,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 72000,
       "name": "Where'd You Put Me",
       "url": "https://open.spotify.com/track/3jf2rCDNPvdBrAfjEl3THV"
@@ -33036,7 +33254,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 100869,
       "name": "zen jam",
       "url": "https://open.spotify.com/track/53enCvgjbPueMfdhw5wrzt"

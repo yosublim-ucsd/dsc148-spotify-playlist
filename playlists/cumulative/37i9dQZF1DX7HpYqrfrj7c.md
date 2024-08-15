@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-73 songs - 3 hr 45 min
+77 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,9 @@
 | [Before Summer](https://open.spotify.com/track/1jnWjDA9rRION0bHhA6N51) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF) | [Last Summer](https://open.spotify.com/album/5YFuPF7T8Qf1Mln3HJydpX) | 2:47 | 2024-06-24 |  |
 | [belief tree](https://open.spotify.com/track/4sT5NZD0cHvpB3fcDkrGpD) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [belief tree](https://open.spotify.com/album/0BgIDqOrGPMFtBQW7N2LWS) | 3:00 | 2024-06-24 |  |
 | [Blind Bat](https://open.spotify.com/track/4ZiN3nmZEfWQhGdKWYZjhn) | [K\-DEF](https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7) | [One Man Band](https://open.spotify.com/album/0w9EYiEPKzjrX0WQ48yUy2) | 1:13 | 2024-06-24 |  |
+| [blow for blow.](https://open.spotify.com/track/0ejflAxFckJQrUKxiT1LP8) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [white night.](https://open.spotify.com/album/3aaNpWGGAwZUE0Y1lzqbV1) | 1:56 | 2024-08-14 |  |
 | [blue lines](https://open.spotify.com/track/1jrhlv8aZdzs2qYVDa0l82) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [Placemaker](https://open.spotify.com/album/1SXZh1pLNYyfiAmld7JjJ8) | 2:15 | 2024-06-24 |  |
+| [Boat Milk](https://open.spotify.com/track/54yuzll85z9HIliCaVBKUC) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Boat Milk](https://open.spotify.com/album/3u3N27byTbYbzTCygIneSd) | 2:43 | 2024-08-14 |  |
 | [Bullshit \- Instrumental](https://open.spotify.com/track/7foxmWRpEa1fiYGz7JbAKH) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \- Deluxe Edition](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 4:19 | 2024-06-24 |  |
 | [Classic](https://open.spotify.com/track/1oSACtYTXU47tpiYnPAgt5) | [Tony Bones The Producer](https://open.spotify.com/artist/3a9BCUwqB1bnRFuegvAFD7) | [Magic Roundabout](https://open.spotify.com/album/1znaGWauyGfsGRtOh3DK3Q) | 2:37 | 2024-06-24 |  |
 | [Climax \- Instrumental Mix](https://open.spotify.com/track/6phS0dmak9yAw1vhYJAj9T) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:22 | 2024-06-24 |  |
@@ -28,6 +30,7 @@
 | [Conflict of Interest](https://open.spotify.com/track/2o5FbeBMDj0FhMUsEKNdbQ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Conflict of Interest](https://open.spotify.com/album/36yRNyJruLwrhGsdYcWeQA) | 2:41 | 2024-06-26 |  |
 | [Coolidge \- Bonus Instrumental](https://open.spotify.com/track/5qUuC5Om5JOLAXftkf7VBl) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Glasklar](https://open.spotify.com/album/1o2Hq0jhbHgZ369iorIKTb) | 1:41 | 2024-07-04 |  |
 | [Cotton Candy](https://open.spotify.com/track/5pDR1Z9j4FCTK0EbVQLH5z) | [U\-WARRIOR](https://open.spotify.com/artist/0VaCOtKG226cWSr9GQVeeN), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Cotton Candy](https://open.spotify.com/album/2C3TpTptiDdkNIqp0iZXGV) | 2:00 | 2024-06-24 |  |
+| [Cyan Depts](https://open.spotify.com/track/3lnehwcx8TU534hIPcZHYk) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Cyan Depts](https://open.spotify.com/album/4D681WRORwtP5p7ch1IYlg) | 2:08 | 2024-08-14 |  |
 | [DFTF \(J Dilla instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp) | [Yancey Boys \(Instrumentals\)](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:23 | 2024-06-24 |  |
 | [Do You Believe? \- Instrumental](https://open.spotify.com/track/5wB50WI6crBSLs29UZFFCH) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [Do You Believe? EP](https://open.spotify.com/album/0TWSUGFl8CfJo4HDYnGcak) | 3:41 | 2024-06-24 |  |
 | [Don't U Kno \(Instrumental\)](https://open.spotify.com/track/5rMTikALrtzbfNsqP7Ewgt) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [In and of Itself \(Instrumental\)](https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn) | 2:59 | 2024-06-24 |  |
@@ -64,6 +67,7 @@
 | [Proof](https://open.spotify.com/track/5J3blYdGa29GfqTi4FFqTY) | [The Cancel](https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH), [DJ Shon](https://open.spotify.com/artist/2Me9Ky7kqAJtVJKcfTlqHy) | [The All Boom](https://open.spotify.com/album/7xFXnNeyFek3kCgYBkkus0) | 2:00 | 2024-06-24 |  |
 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 | 2024-06-24 |  |
 | [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:27 | 2024-06-24 |  |
+| [Rather Unique](https://open.spotify.com/track/3Ot1hQQbfRh4Z6wCJuXo7Q) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [It Was Fun While It Lasted](https://open.spotify.com/album/28v6wAkRaAi0FNOaqsPAzi) | 2:42 | 2024-08-14 |  |
 | [Ruthles \- Instrumental](https://open.spotify.com/track/5ZaZyV92QlH2wGLWLbLfuK) | [Peebs The Prophet](https://open.spotify.com/artist/3orf8fIyCMlFkLUeYK0DCi) | [Ills of the Earth](https://open.spotify.com/album/7lc43Wd0bsY6agW6UIbDH2) | 3:49 | 2024-06-24 |  |
 | [San Francisco Knights \(Instrumental\)](https://open.spotify.com/track/31xZVD02zeo37iR93FRRGv) | [Thes One](https://open.spotify.com/artist/6G69CndLxnRxLdy8MVLNmG) | [10 Years of Thes One](https://open.spotify.com/album/623wsoLB2FtwXyV6dWY9R6) | 3:50 | 2024-06-24 |  |
 | [She Said \- Remix Instrumental](https://open.spotify.com/track/1VPWK4FEOmwLP6jHVmAj1p) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \- Originals, Remixes & Rarities](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:30 | 2024-06-24 |  |

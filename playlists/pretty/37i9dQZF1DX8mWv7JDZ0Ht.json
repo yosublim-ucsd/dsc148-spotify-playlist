@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Gabriela",
-  "num_followers": 434613,
+  "num_followers": 434602,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "Sonora Sessions: Gabriel Nandes",
         "url": "https://open.spotify.com/album/2NWyCcCBNoxMHom6j01ous"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 188507,
       "name": "Voc\u00ea Mentiu",
       "url": "https://open.spotify.com/track/7bwie2qmIvmqGMk3adpAYK"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "meu am\u00f4 chegou",
         "url": "https://open.spotify.com/album/0l3M2JIfMna1QGYI4zZu4Y"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 220160,
       "name": "meu am\u00f4 chegou",
       "url": "https://open.spotify.com/track/3OQCoAzGLMflBKEML4RLDe"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Guaec\u00e1",
-        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
-      },
-      "artists": [
-        {
-          "name": "LUAU",
-          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Guaec\u00e1",
-      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "Falta Pouco",
         "url": "https://open.spotify.com/album/0Sip43K1gjoRwBib3Rbbnh"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Concreto (2024 Rework)",
-        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
+        "name": "Guaec\u00e1",
+        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+          "name": "LUAU",
+          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
         }
       ],
-      "duration_ms": 194196,
-      "name": "Recome\u00e7o - Bonus Track",
-      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
+      "duration_ms": 156240,
+      "name": "Guaec\u00e1",
+      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -675,6 +659,22 @@
       "duration_ms": 187982,
       "name": "PLENA TER\u00c7A FEIRA",
       "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Concreto (2024 Rework)",
+        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 194196,
+      "name": "Recome\u00e7o - Bonus Track",
+      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "que mal que tem?",
-        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157708,
-      "name": "que mal que tem?",
-      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "Noites De Monza",
         "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 82380,
       "name": "Dan\u00e7a Comigo",
       "url": "https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
+      },
+      "artists": [
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 128904,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Miragem",
-        "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
+        "name": "que mal que tem?",
+        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
       },
       "artists": [
         {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 128904,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
+      "duration_ms": 157708,
+      "name": "que mal que tem?",
+      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
     },
     {
       "added_at": "2024-08-09 14:39:16",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
+        "name": "me ama",
+        "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 226461,
+      "name": "me ama",
+      "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
         "name": "Culpado",
         "url": "https://open.spotify.com/album/3VNqH2ZaJVBptOxIuXnCqI"
       },
@@ -1259,38 +1275,6 @@
     {
       "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "GUARDA O TEU CORA\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/6ygRDr2Uf4Tz7jvVitXyJy"
-      },
-      "artists": [
-        {
-          "name": "Arthur Martins",
-          "url": "https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "GUARDA O TEU CORA\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/0IHNarDUnqJzHCWSGeGSGS"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
-        "name": "me ama",
-        "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
-      },
-      "artists": [
-        {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
-        }
-      ],
-      "duration_ms": 226461,
-      "name": "me ama",
-      "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
-    },
-    {
-      "added_at": "2024-08-09 14:39:16",
-      "album": {
         "name": "Entre o Nada e o Infinito",
         "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 175080,
       "name": "acende essa ponta",
       "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "GUARDA O TEU CORA\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/6ygRDr2Uf4Tz7jvVitXyJy"
+      },
+      "artists": [
+        {
+          "name": "Arthur Martins",
+          "url": "https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "GUARDA O TEU CORA\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/0IHNarDUnqJzHCWSGeGSGS"
     },
     {
       "added_at": "2024-08-09 14:39:16",

@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
-  "num_followers": 113085,
+  "num_followers": 113093,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-08-09 09:02:37",
       "album": {
-        "name": "Vom Rand der Zeit",
-        "url": "https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH"
-      },
-      "artists": [
-        {
-          "name": "Olli Schulz",
-          "url": "https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "So schreibt man seinen Song",
-      "url": "https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe"
-    },
-    {
-      "added_at": "2024-08-09 09:02:37",
-      "album": {
         "name": "Ostkreuz",
         "url": "https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 205078,
       "name": "Ostkreuz",
       "url": "https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy"
+    },
+    {
+      "added_at": "2024-08-09 09:02:37",
+      "album": {
+        "name": "Vom Rand der Zeit",
+        "url": "https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH"
+      },
+      "artists": [
+        {
+          "name": "Olli Schulz",
+          "url": "https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "So schreibt man seinen Song",
+      "url": "https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe"
     },
     {
       "added_at": "2024-08-09 09:02:37",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-08-09 09:02:37",
       "album": {
-        "name": "Das erste Mal",
-        "url": "https://open.spotify.com/album/3XTth7s9YmgxGuMoYd15IM"
-      },
-      "artists": [
-        {
-          "name": "Milliarden",
-          "url": "https://open.spotify.com/artist/1GltDYqF7Pl8qKkIuN85GA"
-        }
-      ],
-      "duration_ms": 247070,
-      "name": "Das erste Mal",
-      "url": "https://open.spotify.com/track/7gsAQKpCsXV8i31cljdW6u"
-    },
-    {
-      "added_at": "2024-08-09 09:02:37",
-      "album": {
         "name": "All meine Angst",
         "url": "https://open.spotify.com/album/2QDzccyAFESmxf8ZdWPHfk"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 137826,
       "name": "All meine Angst",
       "url": "https://open.spotify.com/track/0rE6YPbzad41mlswdKI43l"
+    },
+    {
+      "added_at": "2024-08-09 09:02:37",
+      "album": {
+        "name": "Das erste Mal",
+        "url": "https://open.spotify.com/album/3XTth7s9YmgxGuMoYd15IM"
+      },
+      "artists": [
+        {
+          "name": "Milliarden",
+          "url": "https://open.spotify.com/artist/1GltDYqF7Pl8qKkIuN85GA"
+        }
+      ],
+      "duration_ms": 247070,
+      "name": "Das erste Mal",
+      "url": "https://open.spotify.com/track/7gsAQKpCsXV8i31cljdW6u"
     },
     {
       "added_at": "2024-08-09 09:02:37",

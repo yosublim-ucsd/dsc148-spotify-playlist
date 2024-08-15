@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 
 > Floor fillers and big streamers of 2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,457 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,568 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 | 66 | [Book Of Love \(feat\. Polina\)](https://open.spotify.com/track/2erg7Xduc8OHhkLepV4eER) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [POLINA](https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:18 |
 | 67 | [Coming Over \(feat\. James Hersey\)](https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [This Mixtape is Fire.](https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed) | 2:58 |
 | 68 | [Rivers](https://open.spotify.com/track/3NBDgwEAGMj0aKRsU8zoO9) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm) | [Rivers](https://open.spotify.com/album/0lpByNVVfNDqTes37JjvoA) | 3:27 |
-| 69 | [Ganjaman](https://open.spotify.com/track/6RwUhWOoRECbpM9FBh13Z2) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [Ganjaman](https://open.spotify.com/album/1gaKmKxsQv1tu6w4UB9TIm) | 2:58 |
-| 70 | [SummerThing!](https://open.spotify.com/track/1KcnJTiXJXAqW5bB7zpkBC) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW) | [SummerThing!](https://open.spotify.com/album/0MRRBtUQH6706AqLBYHkZI) | 3:55 |
+| 69 | [SummerThing!](https://open.spotify.com/track/1KcnJTiXJXAqW5bB7zpkBC) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW) | [SummerThing!](https://open.spotify.com/album/0MRRBtUQH6706AqLBYHkZI) | 3:55 |
+| 70 | [Ganjaman](https://open.spotify.com/track/6RwUhWOoRECbpM9FBh13Z2) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [Ganjaman](https://open.spotify.com/album/1gaKmKxsQv1tu6w4UB9TIm) | 2:58 |
 | 71 | [L'amour toujours \- Radio Edit](https://open.spotify.com/track/4nYKcVxSChmk3RvFbZjYob) | [Dzeko & Torres](https://open.spotify.com/artist/5Ip2ecnyGpNyZvPuuYU8Ai), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [L'amour toujours \(Tiësto Radio Edit\)](https://open.spotify.com/album/02S1Zr7KKBKJ44IFqmze8v) | 2:42 |
 | 72 | [I Love It When You Cry \(Moxoki\) \- Radio Edit](https://open.spotify.com/track/6vscP7Fweq7fwosyliwjRq) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Moxie Raia](https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp) | [Neon Future II](https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W) | 3:11 |
 | 73 | [How Hard I Try](https://open.spotify.com/track/7uzudGwu8EG5deuFD7EEJm) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [How Hard I Try](https://open.spotify.com/album/6cvHoxaW0RCXQMC5xQyAXF) | 3:18 |

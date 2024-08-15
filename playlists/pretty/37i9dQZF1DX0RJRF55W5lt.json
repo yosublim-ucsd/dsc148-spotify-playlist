@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Sunship",
-  "num_followers": 560388,
+  "num_followers": 560538,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-18 14:40:12",
       "album": {
-        "name": "Wishing I Were Home",
-        "url": "https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 375994,
-      "name": "Wishing I Were Home",
-      "url": "https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO"
-    },
-    {
-      "added_at": "2024-06-18 14:40:12",
-      "album": {
         "name": "Deep Inside (Remixes)",
         "url": "https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 145940,
       "name": "Deep Inside - Shadow Child Remix Edit",
       "url": "https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM"
+    },
+    {
+      "added_at": "2024-06-18 14:40:12",
+      "album": {
+        "name": "Wishing I Were Home",
+        "url": "https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 375994,
+      "name": "Wishing I Were Home",
+      "url": "https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO"
     },
     {
       "added_at": "2024-06-18 14:40:12",

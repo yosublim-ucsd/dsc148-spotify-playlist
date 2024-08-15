@@ -5661,6 +5661,28 @@
     },
     {
       "album": {
+        "name": "Tua M\u00e3o Est\u00e1 Sobre Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/393f84redJv6wrMIWR5vuu"
+      },
+      "artists": [
+        {
+          "name": "Nazareno Central Music",
+          "url": "https://open.spotify.com/artist/3gXotllnfcMmLC7e3OL7ae"
+        },
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562960,
+      "name": "Tua M\u00e3o Est\u00e1 Sobre Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/5cTkv3P2hUg5Bv1OY9jTCF"
+    },
+    {
+      "album": {
         "name": "Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
       },
@@ -5730,7 +5752,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 214445,
       "name": "T\u00e1 Chorando Por Qu\u00ea?",
       "url": "https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE"

@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 109242,
+  "num_followers": 109290,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
-      },
-      "artists": [
-        {
-          "name": "3 Winans Brothers",
-          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
-        },
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 569724,
-      "name": "Dance - Louie Vega Dance Ritual Mix",
-      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "It's Over Now",
         "url": "https://open.spotify.com/album/2OTynXGD4thV4JRXfKpCPf"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 377768,
       "name": "It's Over Now - Extended Vocal Mix",
       "url": "https://open.spotify.com/track/76sTVWN1GTofI77lz4nlxk"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
+      },
+      "artists": [
+        {
+          "name": "3 Winans Brothers",
+          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 569724,
+      "name": "Dance - Louie Vega Dance Ritual Mix",
+      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "Mister Vi",
+          "url": "https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L"
+        }
+      ],
+      "duration_ms": 596157,
+      "name": "I'm A Blessed Man",
+      "url": "https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
         "name": "History Repeating",
         "url": "https://open.spotify.com/album/0SshAJzzWIFTmybkYTDXVz"
       },
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Stand (feat. Cor.Ece)",
-        "url": "https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Cor.Ece",
-          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
-        }
-      ],
-      "duration_ms": 182821,
-      "name": "Stand (feat. Cor.Ece) - Edit",
-      "url": "https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "Set Me Free - Remixes",
         "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
       },
@@ -1107,6 +1107,26 @@
       "duration_ms": 435920,
       "name": "Set Me Free - Original Mix",
       "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "Stand (feat. Cor.Ece)",
+        "url": "https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Cor.Ece",
+          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        }
+      ],
+      "duration_ms": 182821,
+      "name": "Stand (feat. Cor.Ece) - Edit",
+      "url": "https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -1135,42 +1155,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
-      },
-      "artists": [
-        {
-          "name": "Leroy Styles",
-          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
-        },
-        {
-          "name": "Mister Vi",
-          "url": "https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L"
-        }
-      ],
-      "duration_ms": 596157,
-      "name": "I'm A Blessed Man",
-      "url": "https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "At the Club",
-        "url": "https://open.spotify.com/album/0g6MukWd7tGaELufBpokoy"
-      },
-      "artists": [
-        {
-          "name": "Timmy Regisford",
-          "url": "https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "At the Club",
-      "url": "https://open.spotify.com/track/6cBAUOASCcklnDYqSyMqBp"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "Holy Sun",
         "url": "https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 236900,
       "name": "Holy Sun - Retromigration Remix - Edit",
       "url": "https://open.spotify.com/track/4AR4AyuKGNdqtaFZgOvsj6"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "At the Club",
+        "url": "https://open.spotify.com/album/0g6MukWd7tGaELufBpokoy"
+      },
+      "artists": [
+        {
+          "name": "Timmy Regisford",
+          "url": "https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "At the Club",
+      "url": "https://open.spotify.com/track/6cBAUOASCcklnDYqSyMqBp"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -1335,30 +1335,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Devoted",
-        "url": "https://open.spotify.com/album/4CDM5zo71P6JWyDzovwcZh"
-      },
-      "artists": [
-        {
-          "name": "Micky More & Andy Tee",
-          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
-        },
-        {
-          "name": "Reverendos Of Soul",
-          "url": "https://open.spotify.com/artist/33jL232lcWHCMDWg0yk7JK"
-        },
-        {
-          "name": "Anduze",
-          "url": "https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn"
-        }
-      ],
-      "duration_ms": 220475,
-      "name": "Devoted - Radio Edit",
-      "url": "https://open.spotify.com/track/1HzfuIqWacyHTNjyY99Ivu"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "Can\u2019t Stop (Dennis F\u2019s Falling 4 U Mix Edit)",
         "url": "https://open.spotify.com/album/6aJHmzrFn7rr0zKQncSGCC"
       },
@@ -1383,6 +1359,30 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
+        "name": "Devoted",
+        "url": "https://open.spotify.com/album/4CDM5zo71P6JWyDzovwcZh"
+      },
+      "artists": [
+        {
+          "name": "Micky More & Andy Tee",
+          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+        },
+        {
+          "name": "Reverendos Of Soul",
+          "url": "https://open.spotify.com/artist/33jL232lcWHCMDWg0yk7JK"
+        },
+        {
+          "name": "Anduze",
+          "url": "https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn"
+        }
+      ],
+      "duration_ms": 220475,
+      "name": "Devoted - Radio Edit",
+      "url": "https://open.spotify.com/track/1HzfuIqWacyHTNjyY99Ivu"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
         "name": "Defined",
         "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
       },
@@ -1395,26 +1395,6 @@
       "duration_ms": 342893,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "Testify (Urban Blues Project present Jay Williams)",
-        "url": "https://open.spotify.com/album/162yn9UxDQfAM1w8CNaYrH"
-      },
-      "artists": [
-        {
-          "name": "Urban Blues Project",
-          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
-        },
-        {
-          "name": "Jay Williams",
-          "url": "https://open.spotify.com/artist/2aR7Liq6qXllMrLVZJpYlR"
-        }
-      ],
-      "duration_ms": 509237,
-      "name": "Testify (Urban Blues Project present Jay Williams) - The U.B.P. Sunday Vocal",
-      "url": "https://open.spotify.com/track/3yhzQOEmEKRYQ0Vd9MraHD"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -1435,6 +1415,26 @@
       "duration_ms": 372908,
       "name": "Inspiration",
       "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "Testify (Urban Blues Project present Jay Williams)",
+        "url": "https://open.spotify.com/album/162yn9UxDQfAM1w8CNaYrH"
+      },
+      "artists": [
+        {
+          "name": "Urban Blues Project",
+          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
+        },
+        {
+          "name": "Jay Williams",
+          "url": "https://open.spotify.com/artist/2aR7Liq6qXllMrLVZJpYlR"
+        }
+      ],
+      "duration_ms": 509237,
+      "name": "Testify (Urban Blues Project present Jay Williams) - The U.B.P. Sunday Vocal",
+      "url": "https://open.spotify.com/track/3yhzQOEmEKRYQ0Vd9MraHD"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -1539,46 +1539,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "It's Alright (Felix Dickinson Remix)",
-        "url": "https://open.spotify.com/album/5TQkvWjd14kFdZMYJ15GJx"
-      },
-      "artists": [
-        {
-          "name": "Sven Hammond",
-          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
-        },
-        {
-          "name": "Felix Dickinson",
-          "url": "https://open.spotify.com/artist/2GofebLNzSdGLYaz3U1NZu"
-        }
-      ],
-      "duration_ms": 544146,
-      "name": "It's Alright (Felix Dickinson Remix)",
-      "url": "https://open.spotify.com/track/2VhsxUaKEWxM7rD1ZaB3gB"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "Basic Blaze",
-        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
-      },
-      "artists": [
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        },
-        {
-          "name": "Palmer Brown",
-          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
-        }
-      ],
-      "duration_ms": 319760,
-      "name": "My Beat - feat. Palmer Brown",
-      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "I Thank You",
         "url": "https://open.spotify.com/album/6nnLLH1JF1utW5SqtTcEF4"
       },
@@ -1603,6 +1563,26 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
+        "name": "Basic Blaze",
+        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "Palmer Brown",
+          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
+        }
+      ],
+      "duration_ms": 319760,
+      "name": "My Beat - feat. Palmer Brown",
+      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
         "name": "Meridian 2016",
         "url": "https://open.spotify.com/album/7IevppU9STA3qUXHvkbKK9"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 424226,
       "name": "What's Your Number - Jazzanova Re-Number",
       "url": "https://open.spotify.com/track/45q5jidHHt7JkO9p9D2SER"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "It's Alright (Felix Dickinson Remix)",
+        "url": "https://open.spotify.com/album/5TQkvWjd14kFdZMYJ15GJx"
+      },
+      "artists": [
+        {
+          "name": "Sven Hammond",
+          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
+        },
+        {
+          "name": "Felix Dickinson",
+          "url": "https://open.spotify.com/artist/2GofebLNzSdGLYaz3U1NZu"
+        }
+      ],
+      "duration_ms": 544146,
+      "name": "It's Alright (Felix Dickinson Remix)",
+      "url": "https://open.spotify.com/track/2VhsxUaKEWxM7rD1ZaB3gB"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Let It All Out",
-        "url": "https://open.spotify.com/album/0O8bIeUyL9souZRxkr7yrw"
-      },
-      "artists": [
-        {
-          "name": "Sam Redmore",
-          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
-        },
-        {
-          "name": "Lumi HD",
-          "url": "https://open.spotify.com/artist/7CeO40Nfey4GMEozUQxIDp"
-        }
-      ],
-      "duration_ms": 296500,
-      "name": "Let It All Out",
-      "url": "https://open.spotify.com/track/5HjvvAXCLDCNKEkL45UP3Q"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "I've Gotta Stand Up (Brand New Man) [Dave Lee Garage City Mix]",
         "url": "https://open.spotify.com/album/5mycMHSrq2UUFX90AaWBJy"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 365395,
       "name": "I've Gotta Stand Up (Brand New Man) - Dave Lee Garage City Mix",
       "url": "https://open.spotify.com/track/1WrWti3qRX8WFcudGkAXtJ"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/0O8bIeUyL9souZRxkr7yrw"
+      },
+      "artists": [
+        {
+          "name": "Sam Redmore",
+          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
+        },
+        {
+          "name": "Lumi HD",
+          "url": "https://open.spotify.com/artist/7CeO40Nfey4GMEozUQxIDp"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "Let It All Out",
+      "url": "https://open.spotify.com/track/5HjvvAXCLDCNKEkL45UP3Q"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -1951,18 +1951,26 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
-        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
+        "name": "Forever (feat. Sabrina Johnston) [Michael Gray Remix]",
+        "url": "https://open.spotify.com/album/2Rqv0UbKa9oQYj7RlF0xkq"
       },
       "artists": [
         {
-          "name": "Shazzi",
-          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
+          "name": "Key To Life",
+          "url": "https://open.spotify.com/artist/6WenpbjcPCj6MIhb3sVydR"
+        },
+        {
+          "name": "Sabrina Johnston",
+          "url": "https://open.spotify.com/artist/02JfoUargkADbNg0uXdAR8"
+        },
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
         }
       ],
-      "duration_ms": 252842,
-      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
+      "duration_ms": 184997,
+      "name": "Forever (feat. Sabrina Johnston) - Michael Gray Remix",
+      "url": "https://open.spotify.com/track/2CPthPKsaGxuEvPiB2fS57"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -1987,26 +1995,18 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Forever (feat. Sabrina Johnston) [Michael Gray Remix]",
-        "url": "https://open.spotify.com/album/2Rqv0UbKa9oQYj7RlF0xkq"
+        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
+        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
       },
       "artists": [
         {
-          "name": "Key To Life",
-          "url": "https://open.spotify.com/artist/6WenpbjcPCj6MIhb3sVydR"
-        },
-        {
-          "name": "Sabrina Johnston",
-          "url": "https://open.spotify.com/artist/02JfoUargkADbNg0uXdAR8"
-        },
-        {
-          "name": "Michael Gray",
-          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+          "name": "Shazzi",
+          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
         }
       ],
-      "duration_ms": 184997,
-      "name": "Forever (feat. Sabrina Johnston) - Michael Gray Remix",
-      "url": "https://open.spotify.com/track/2CPthPKsaGxuEvPiB2fS57"
+      "duration_ms": 252842,
+      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2067,6 +2067,34 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
+        "name": "Warning (Radio Edit)",
+        "url": "https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD"
+      },
+      "artists": [
+        {
+          "name": "Terry Hunter",
+          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
+        },
+        {
+          "name": "Reelsoul",
+          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Warning - Radio Edit",
+      "url": "https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
         "name": "Fix Your Love",
         "url": "https://open.spotify.com/album/4Yinw5qIb3dMxdmSGQdYmP"
       },
@@ -2111,34 +2139,6 @@
       "duration_ms": 476097,
       "name": "Gypsy Woman (She's Homeless) - Coflo Soulful Mix",
       "url": "https://open.spotify.com/track/0U35iCBlT3ZPBDH9QrHobs"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "Warning (Radio Edit)",
-        "url": "https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD"
-      },
-      "artists": [
-        {
-          "name": "Terry Hunter",
-          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
-        },
-        {
-          "name": "Reelsoul",
-          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
-        },
-        {
-          "name": "DJ Spen",
-          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Warning - Radio Edit",
-      "url": "https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2355,26 +2355,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Voices & Visions",
-        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
-      },
-      "artists": [
-        {
-          "name": "Copyright",
-          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
-        },
-        {
-          "name": "Song Williamson",
-          "url": "https://open.spotify.com/artist/06O1ocpjJ5R5NXjzIR18MB"
-        }
-      ],
-      "duration_ms": 483573,
-      "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
-      "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "Betcha Wouldn't Hurt Me",
         "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
       },
@@ -2395,18 +2375,22 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Here We Go",
-        "url": "https://open.spotify.com/album/3nH3tGTMP6OyyfEUS0SQge"
+        "name": "Voices & Visions",
+        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
       "artists": [
         {
-          "name": "Ken@Work",
-          "url": "https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj"
+          "name": "Copyright",
+          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
+        },
+        {
+          "name": "Song Williamson",
+          "url": "https://open.spotify.com/artist/06O1ocpjJ5R5NXjzIR18MB"
         }
       ],
-      "duration_ms": 286513,
-      "name": "Here We Go",
-      "url": "https://open.spotify.com/track/5ysvcQAzheQErRhz7FjOqm"
+      "duration_ms": 483573,
+      "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
+      "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2435,6 +2419,22 @@
       "duration_ms": 247918,
       "name": "For The Culture - Sean McCabe & Black Sonix Remix Edit",
       "url": "https://open.spotify.com/track/7HOZfuZ9OzOtfHfOW3XNaK"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "Here We Go",
+        "url": "https://open.spotify.com/album/3nH3tGTMP6OyyfEUS0SQge"
+      },
+      "artists": [
+        {
+          "name": "Ken@Work",
+          "url": "https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj"
+        }
+      ],
+      "duration_ms": 286513,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/5ysvcQAzheQErRhz7FjOqm"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2515,26 +2515,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Charlotte Small",
-          "url": "https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o"
-        }
-      ],
-      "duration_ms": 497280,
-      "name": "Rain - Terry Hunter Rainy Daze Remix",
-      "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "Make A Way",
         "url": "https://open.spotify.com/album/1naMhW1gTqsRdRwwGwmZPV"
       },
@@ -2555,6 +2535,26 @@
       "duration_ms": 166874,
       "name": "Make A Way - Radio Mix",
       "url": "https://open.spotify.com/track/3uVlZFHNyOw65Q5flFIwTY"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Charlotte Small",
+          "url": "https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o"
+        }
+      ],
+      "duration_ms": 497280,
+      "name": "Rain - Terry Hunter Rainy Daze Remix",
+      "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2607,6 +2607,26 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
+        "name": "Keep on Stepping",
+        "url": "https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS"
+      },
+      "artists": [
+        {
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "duration_ms": 202835,
+      "name": "Keep on Stepping",
+      "url": "https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
         "name": "Mercyless (Atjazz Unreleased Astro Remixes)",
         "url": "https://open.spotify.com/album/1as93MXHLXN6Vhrpt2ABQO"
       },
@@ -2627,26 +2647,6 @@
       "duration_ms": 416509,
       "name": "Mercyless - Atjazz Unreleased Astro Remix",
       "url": "https://open.spotify.com/track/2Uhl0LNSb2sQIWK5sO2RXQ"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "Keep on Stepping",
-        "url": "https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS"
-      },
-      "artists": [
-        {
-          "name": "Marcel Vogel",
-          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        }
-      ],
-      "duration_ms": 202835,
-      "name": "Keep on Stepping",
-      "url": "https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2735,30 +2735,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "BACK TO BASIC",
-        "url": "https://open.spotify.com/album/6vn8AFZ29OxHh4YXucchb3"
-      },
-      "artists": [
-        {
-          "name": "Amp Fiddler",
-          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
-        },
-        {
-          "name": "Orlando Voorn",
-          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
-        },
-        {
-          "name": "Soul Clap",
-          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
-        }
-      ],
-      "duration_ms": 405301,
-      "name": "BACK TO BASIC - Soul Clap groove remix",
-      "url": "https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "How He Works (feat. Nico Vega) [Remixes]",
         "url": "https://open.spotify.com/album/1Qsr3G0Kw5Fhp5zA9FAMy2"
       },
@@ -2779,6 +2755,30 @@
       "duration_ms": 424113,
       "name": "How He Works (feat. Nico Vega) - Cee ElAssaad Remix",
       "url": "https://open.spotify.com/track/6YzcH2ogzF1CvNMjfmlqNU"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "BACK TO BASIC",
+        "url": "https://open.spotify.com/album/6vn8AFZ29OxHh4YXucchb3"
+      },
+      "artists": [
+        {
+          "name": "Amp Fiddler",
+          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+        },
+        {
+          "name": "Orlando Voorn",
+          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
+        },
+        {
+          "name": "Soul Clap",
+          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
+        }
+      ],
+      "duration_ms": 405301,
+      "name": "BACK TO BASIC - Soul Clap groove remix",
+      "url": "https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2867,26 +2867,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "If Luvin You Is Wrong",
-        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
-      },
-      "artists": [
-        {
-          "name": "Arnaud D",
-          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
-        },
-        {
-          "name": "Earl W. Green",
-          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
-        }
-      ],
-      "duration_ms": 476097,
-      "name": "If Luvin You Is Wrong - Main Mix",
-      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "Good Inside",
         "url": "https://open.spotify.com/album/1AWrBTbrVDAnyqxfro2Fi0"
       },
@@ -2903,6 +2883,26 @@
       "duration_ms": 376565,
       "name": "Good Inside",
       "url": "https://open.spotify.com/track/4Wg5xrNoixLwpVtghEDczg"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "If Luvin You Is Wrong",
+        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
+      },
+      "artists": [
+        {
+          "name": "Arnaud D",
+          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
+        },
+        {
+          "name": "Earl W. Green",
+          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
+        }
+      ],
+      "duration_ms": 476097,
+      "name": "If Luvin You Is Wrong - Main Mix",
+      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
     },
     {
       "added_at": "2024-08-01 12:36:57",

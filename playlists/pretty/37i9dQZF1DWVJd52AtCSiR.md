@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,637 likes - 66 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,761 likes - 66 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 49 | [Rafiki's Fireflies](https://open.spotify.com/track/2GamicW8mLY9RxSLfPrN9L) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 1:52 |
 | 50 | [Enchanted Suite \- From "Enchanted"/Score](https://open.spotify.com/track/42TTHCYkSo0ER8RLmyV3Hu) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 4:32 |
 | 51 | [Ella and Kit](https://open.spotify.com/track/1lMaFGcFzfESerHh28aMLA) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:11 |
-| 52 | [Main Titles \- Jungle Run](https://open.spotify.com/track/1T9cr9vATD3qqo4xY1Xr0H) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Jungle Book \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 2:25 |
+| 52 | [Main Titles \- Jungle Run](https://open.spotify.com/track/1T9cr9vATD3qqo4xY1Xr0H) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Jungle Book \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 2:25 |
 | 53 | [Bedtime](https://open.spotify.com/track/6Fk3FHkenVKzkppY122Jsr) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 1:22 |
 | 54 | [Coronation Day \- From "Frozen"/Score](https://open.spotify.com/track/5aZR1xKXqOw72KQ8kW6rw1) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \- Original Motion Picture Soundtrack](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 1:14 |
 | 55 | [This Is Gonna Be Good](https://open.spotify.com/track/4aLwn0jWTr8TKhzypCToNF) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [The Princess And The Frog](https://open.spotify.com/album/1gq7uhfNW4QMeRr9msV68P) | 3:20 |

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-941 songs - 1 day 12 hr 33 min
+943 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [I.](https://open.spotify.com/track/6A5EYxkV7gzZv3PW96u3Jf) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [I.](https://open.spotify.com/album/0vBKiSgFfpnnAD37wjuicI) | 2:07 | 2022-04-22 | 2022-12-10 |
 | [IAH](https://open.spotify.com/track/1N9Bw73tG0owhecdbSTENt) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Shanghai 2004](https://open.spotify.com/album/38iWAh9jYsGlOYpqsG82lA) | 1:28 | 2024-05-29 |  |
 | [If You Want Me To Stay](https://open.spotify.com/track/6ppxI6qxTQnyJlpoBoDdBA) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [If You Want Me To Stay](https://open.spotify.com/album/2axBvm9VWTwYhCGXa7Iq3J) | 2:19 | 2022-04-22 | 2023-10-13 |
+| [Ignite](https://open.spotify.com/track/4p5CY3aCPoLwJ2xRFyUSPS) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Ignite](https://open.spotify.com/album/2NdajnVAkzx22HQ5BuEwAS) | 2:17 | 2024-08-09 |  |
 | [Ilene](https://open.spotify.com/track/0Y5hAGvfwXoQnjWEd90ju2) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [Sharingan](https://open.spotify.com/album/5ISSZnA4V8C7eCia0WIhsY) | 2:09 | 2022-04-15 |  |
 | [Illjazz](https://open.spotify.com/track/6Nf3WJHF1ZCya9gwD55NwD) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Illjazz](https://open.spotify.com/album/3zh3LrNpLIKuNr2aI5FCsS) | 2:27 | 2022-12-16 | 2023-09-22 |
 | [In Bloom](https://open.spotify.com/track/6uxits25W76rYLfFshJKvs) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL), [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [In Bloom](https://open.spotify.com/album/6OjWvKpu6EoPGlnNaO5WXb) | 2:30 | 2022-10-28 |  |
@@ -384,6 +385,7 @@
 | [Jump and Run](https://open.spotify.com/track/7MFQThHWQWeBLUrynWMxWh) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [KRETEK](https://open.spotify.com/artist/1Xvvf9ExdWJYvtXk2F5rVA) | [Jump and Run](https://open.spotify.com/album/120G1tTg76kYPRDFTVMBAu) | 2:50 | 2023-09-22 | 2023-10-16 |
 | [Just One Of Those Things](https://open.spotify.com/track/0cPgDhXIJMX45AIRCdzYZz) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Just One of Those Things](https://open.spotify.com/album/4ECH1gTcz4Svspd0UrgwCT) | 4:06 | 2022-07-29 | 2023-10-06 |
 | [just relax](https://open.spotify.com/track/0POolioSzFOWb0n0it50Lz) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:36 | 2022-04-15 | 2022-07-08 |
+| [Kalku](https://open.spotify.com/track/4N8GzYrf8f5YlNLPBlI42O) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Kalku](https://open.spotify.com/album/5J2CGNOWmqj2r38MfeCifJ) | 2:21 | 2024-08-09 |  |
 | [Keen](https://open.spotify.com/track/3HKKgefffjG5gdPE5Jtcrr) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/1lUR5pE0fCBd1RokHDIHr0) | 2:56 | 2022-05-13 | 2022-11-21 |
 | [Keen](https://open.spotify.com/track/51Ie5gtGGban5Lff22PCzX) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv) | 2:56 | 2022-11-11 | 2023-10-06 |
 | [Keeping it Simple](https://open.spotify.com/track/2EroBxY4W8upCJjPw1BLgy) | [ps\-www](https://open.spotify.com/artist/6XVRxs1WvIk0T0h3pdhCyp) | [Keeping it Simple](https://open.spotify.com/album/4Ha7Uno2UwquGMGMoiy70r) | 2:38 | 2022-04-15 | 2022-09-24 |
@@ -615,7 +617,7 @@
 | [Purple Dye](https://open.spotify.com/track/3vVMkpipMN0Ps0SBixQDmQ) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Purple Dye](https://open.spotify.com/album/3AQVZ5POGGPq6mZfPu8qD6) | 2:09 | 2022-04-22 |  |
 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 | 2022-09-02 |  |
 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 | 2023-09-08 |  |
-| [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 | 2022-04-15 |  |
+| [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 | 2022-04-15 | 2024-08-15 |
 | [Pusher Street](https://open.spotify.com/track/2386ucGjI6rRj5OJTdP9To) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:31 | 2022-04-15 | 2022-06-10 |
 | [Pyramid Heat](https://open.spotify.com/track/7b09GgDHcFj9N2ZT1TEREZ) | [ZEBERIA](https://open.spotify.com/artist/57IZvDFDI399Ure7mSkg25) | [Beats & Pieces Vol.1](https://open.spotify.com/album/4OQ7snOtKPtpi699tgT7GL) | 2:25 | 2022-11-25 |  |
 | [quarantine blues](https://open.spotify.com/track/5OqQA1I96jy9HrawfMBV3a) | [willie johns](https://open.spotify.com/artist/3LFJ3lXQkAanKfb32WaZvm) | [quarantine blues](https://open.spotify.com/album/0KqGi4gaU2mBGqHDWWL3be) | 3:00 | 2022-04-15 | 2024-04-28 |
@@ -792,7 +794,7 @@
 | [supajam](https://open.spotify.com/track/0EJPiTVZZJ4LIrfQcQpDlI) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [supajam](https://open.spotify.com/album/2qoWl3DKNFoKvMQSv79tl0) | 2:00 | 2023-12-15 |  |
 | [Supalonley](https://open.spotify.com/track/3Bhi8rQjwOviWEpnt17Ser) | [Instant Influence](https://open.spotify.com/artist/5Enyz9z97MuIj0QCfUOT1X) | [Supalonely](https://open.spotify.com/album/3gT6m4IDzhjMUot8ZgKAIM) | 3:07 | 2022-11-25 |  |
 | [Superfly](https://open.spotify.com/track/6jT11modKRcuxt9pmvAzy2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Superfly](https://open.spotify.com/album/4jqthv8J5DGQ40yFC2zNjF) | 1:51 | 2022-04-15 | 2022-07-29 |
-| [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 |  |
+| [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 | 2024-08-15 |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
 | [Surfing Cats](https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Surfing Cats](https://open.spotify.com/album/0DCV1oGMFWeM9lB2pvYPaN) | 2:08 | 2024-03-22 |  |
 | [Surroundings](https://open.spotify.com/track/5YmU5VNKazzBih5dXGIhBf) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Surroundings](https://open.spotify.com/album/2IPez7qLA9jrHocjh7qckN) | 2:38 | 2024-02-23 |  |

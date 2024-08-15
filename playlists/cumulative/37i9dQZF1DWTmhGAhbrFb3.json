@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Archimedes",
+        "url": "https://open.spotify.com/album/6wVDnC1pOc8e3274c7Ep0c"
+      },
+      "artists": [
+        {
+          "name": "Alfa Cognitive",
+          "url": "https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193874,
+      "name": "Archimedes",
+      "url": "https://open.spotify.com/track/7JD5pmj7dqDmLGAarMgWYD"
+    },
+    {
+      "album": {
         "name": "Armonikos",
         "url": "https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz"
       },
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 191183,
       "name": "Crimson Skies",
       "url": "https://open.spotify.com/track/4RDswM1o8ulgXwj4zh1qVb"

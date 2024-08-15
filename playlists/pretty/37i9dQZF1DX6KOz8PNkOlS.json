@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 467399,
+  "num_followers": 467571,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -1085,6 +1085,22 @@
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
+    },
+    {
       "added_at": "2023-10-10 01:29:29",
       "album": {
         "name": "Ghosts",
@@ -1103,22 +1119,6 @@
       "duration_ms": 258120,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2023-11-23 03:41:20",
@@ -1153,20 +1153,20 @@
       "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-09-25 02:40:58",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
       },
       "artists": [
         {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
         }
       ],
-      "duration_ms": 281730,
-      "name": "Love Hope Change",
-      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2022-02-09 03:25:54",
@@ -1185,20 +1185,36 @@
       "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     },
     {
-      "added_at": "2023-09-25 02:40:58",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+        "name": "1995",
+        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
       "artists": [
         {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
         }
       ],
-      "duration_ms": 177733,
-      "name": "Lexicon",
-      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
+      "duration_ms": 281730,
+      "name": "Love Hope Change",
+      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Je t'aime encore",
+        "url": "https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ"
+      },
+      "artists": [
+        {
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+        }
+      ],
+      "duration_ms": 217230,
+      "name": "Je t'aime encore",
+      "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
     },
     {
       "added_at": "2023-03-22 17:53:19",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Je t'aime encore",
-        "url": "https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ"
-      },
-      "artists": [
-        {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
-        }
-      ],
-      "duration_ms": 217230,
-      "name": "Je t'aime encore",
-      "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Apollonia",
         "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 158314,
       "name": "Foreign Affair",
       "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
+    },
+    {
+      "added_at": "2022-08-13 01:09:13",
+      "album": {
+        "name": "Marci",
+        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
+      },
+      "artists": [
+        {
+          "name": "Marci",
+          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
+        }
+      ],
+      "duration_ms": 209873,
+      "name": "Immaterial Girl",
+      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
     },
     {
       "added_at": "2024-01-03 18:42:32",
@@ -1263,6 +1279,22 @@
       "duration_ms": 213956,
       "name": "So Pacific",
       "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Feel The Pain / Fast Car",
+        "url": "https://open.spotify.com/album/59k0HhGr9KJeyxddg8pW1I"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/5j0CsCmOawMGWDHwZ148nI"
     },
     {
       "added_at": "2022-01-13 02:15:51",
@@ -1283,38 +1315,6 @@
       "duration_ms": 233000,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/76J5USnS7KSKZVwZURVlMI"
-    },
-    {
-      "added_at": "2022-08-13 01:09:13",
-      "album": {
-        "name": "Marci",
-        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
-      },
-      "artists": [
-        {
-          "name": "Marci",
-          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
-        }
-      ],
-      "duration_ms": 209873,
-      "name": "Immaterial Girl",
-      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Feel The Pain / Fast Car",
-        "url": "https://open.spotify.com/album/59k0HhGr9KJeyxddg8pW1I"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/5j0CsCmOawMGWDHwZ148nI"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1437,6 +1437,22 @@
       "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
     },
     {
+      "added_at": "2023-09-13 16:09:15",
+      "album": {
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+      },
+      "artists": [
+        {
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
+    },
+    {
       "added_at": "2023-08-31 18:57:48",
       "album": {
         "name": "After Hours (Yu Su Remix)",
@@ -1457,22 +1473,6 @@
       "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
     },
     {
-      "added_at": "2023-09-13 16:09:15",
-      "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
-      },
-      "artists": [
-        {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Tuesday",
@@ -1487,6 +1487,22 @@
       "duration_ms": 172320,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
+    },
+    {
+      "added_at": "2022-09-15 12:32:00",
+      "album": {
+        "name": "caso de estudio",
+        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
+      },
+      "artists": [
+        {
+          "name": "s e r \u00e9 n a t e",
+          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
+        }
+      ],
+      "duration_ms": 183494,
+      "name": "how",
+      "url": "https://open.spotify.com/track/5uvQg4kzC2Tp1cJMpoPQe7"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1525,22 +1541,6 @@
       "url": "https://open.spotify.com/track/522A3dgrvWe27tK3L3gbYF"
     },
     {
-      "added_at": "2022-09-15 12:32:00",
-      "album": {
-        "name": "caso de estudio",
-        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
-      },
-      "artists": [
-        {
-          "name": "s e r \u00e9 n a t e",
-          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
-        }
-      ],
-      "duration_ms": 183494,
-      "name": "how",
-      "url": "https://open.spotify.com/track/5uvQg4kzC2Tp1cJMpoPQe7"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Sinking",
@@ -1561,6 +1561,22 @@
       "url": "https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4"
     },
     {
+      "added_at": "2022-01-13 02:46:07",
+      "album": {
+        "name": "Double Dinners",
+        "url": "https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ"
+      },
+      "artists": [
+        {
+          "name": "Cousin Kula",
+          "url": "https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd"
+        }
+      ],
+      "duration_ms": 309240,
+      "name": "BabyBack",
+      "url": "https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Home Cooking",
@@ -1579,22 +1595,6 @@
       "duration_ms": 207201,
       "name": "Thornton Heath",
       "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
-    },
-    {
-      "added_at": "2022-01-13 02:46:07",
-      "album": {
-        "name": "Double Dinners",
-        "url": "https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ"
-      },
-      "artists": [
-        {
-          "name": "Cousin Kula",
-          "url": "https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd"
-        }
-      ],
-      "duration_ms": 309240,
-      "name": "BabyBack",
-      "url": "https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd"
     },
     {
       "added_at": "2021-10-15 03:01:31",

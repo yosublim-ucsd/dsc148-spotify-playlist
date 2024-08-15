@@ -1,12 +1,12 @@
 {
-  "description": "This Is ATARASHII GAKKO!. Los temas esenciales, todos en una lista.",
-  "num_followers": 50407,
+  "description": "This is ATARASHII GAKKO!. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 50412,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAACAtjCn7ueaZ/ceo9l6Lk2Z",
+  "snapshot_id": "ZrqiAAAAAACIPy/1sNuk7tAuDovhBL3Y",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokyo Calling",
-        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 191180,
-      "name": "Tokyo Calling",
-      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u653e\u751f\u4f1a",
         "url": "https://open.spotify.com/album/37asoWjHlM134Da94j5kAc"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 183000,
       "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
       "url": "https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokyo Calling",
+        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 191180,
+      "name": "Tokyo Calling",
+      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HANAKO",
-        "url": "https://open.spotify.com/album/5d3BzQ6GQQqBa8y92I7hT5"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 221676,
-      "name": "HANAKO",
-      "url": "https://open.spotify.com/track/4hlkSKWZBIv4f4sWmWCM56"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WOO! GO!",
         "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 199413,
       "name": "WOO! GO!",
       "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HANAKO",
+        "url": "https://open.spotify.com/album/5d3BzQ6GQQqBa8y92I7hT5"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 221676,
+      "name": "HANAKO",
+      "url": "https://open.spotify.com/track/4hlkSKWZBIv4f4sWmWCM56"
     },
     {
       "added_at": null,

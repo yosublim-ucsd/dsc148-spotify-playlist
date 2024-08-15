@@ -5990,10 +5990,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 124240,
       "name": "There's So Much More",
       "url": "https://open.spotify.com/track/3R2VHQSDiUTr9iIm04Vrwt"
+    },
+    {
+      "album": {
+        "name": "Edie Adams",
+        "url": "https://open.spotify.com/album/4YhLTK5d5Ad8P9eCeruAwO"
+      },
+      "artists": [
+        {
+          "name": "Edie Adams",
+          "url": "https://open.spotify.com/artist/20xJMiNKh4U7fPPZMcqS34"
+        },
+        {
+          "name": "Joe Leahy Orchestra",
+          "url": "https://open.spotify.com/artist/7KGif6Pwikw0EuWwKLWnyI"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121693,
+      "name": "There's so Much More",
+      "url": "https://open.spotify.com/track/1TBgleqZqpTc2IGPVkYLuS"
     },
     {
       "album": {

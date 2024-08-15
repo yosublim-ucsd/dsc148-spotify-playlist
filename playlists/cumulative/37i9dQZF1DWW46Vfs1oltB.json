@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: lIlBOI(\ub9b4\ubcf4\uc774))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: YUNGIN, Loopy)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -13580,6 +13580,28 @@
       "duration_ms": 211213,
       "name": "Killawhale (feat. Keith Ape & JayAllday)",
       "url": "https://open.spotify.com/track/1kSuvS3t4OaWkbVAz5mzPS"
+    },
+    {
+      "album": {
+        "name": "Kingpin",
+        "url": "https://open.spotify.com/album/1bSjAfDaIUh4e4we2Lcdvd"
+      },
+      "artists": [
+        {
+          "name": "YUNGIN",
+          "url": "https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262548,
+      "name": "Kingpin",
+      "url": "https://open.spotify.com/track/5Bcm2vFJTFpHBRl8pUHWaM"
     },
     {
       "album": {

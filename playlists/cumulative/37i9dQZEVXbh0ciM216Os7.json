@@ -5606,10 +5606,36 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 142522,
       "name": "Colorful Cutlery",
       "url": "https://open.spotify.com/track/0w7FEMzLpwtZR04euj7OIf"
+    },
+    {
+      "album": {
+        "name": "Colorful Cutlery",
+        "url": "https://open.spotify.com/album/0zqc8hjaTkKSBlWYN6OviE"
+      },
+      "artists": [
+        {
+          "name": "SARKASTIKJ",
+          "url": "https://open.spotify.com/artist/4dOk8QiMiIv280F6RKn8nr"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Sheek Louch",
+          "url": "https://open.spotify.com/artist/14ejEUaU0wE2iAenbbv9b8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142522,
+      "name": "Colorful Cutlery",
+      "url": "https://open.spotify.com/track/4rYCsiH5ONq1kCIVYOn8rL"
     },
     {
       "album": {
@@ -31672,7 +31698,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 127240,
       "name": "Tout nou - Bande originale du film \"Flic ou voyou\"",
       "url": "https://open.spotify.com/track/2xieSVze8QaFJ1Ghb1GQWP"
@@ -32530,7 +32556,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 147760,
       "name": "Variation voyou - Bande originale du film \"Flic ou voyou\"",
       "url": "https://open.spotify.com/track/1IBberkY9L1xOpLH9OOvaQ"

@@ -8474,7 +8474,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 185986,
       "name": "caught by a wind",
       "url": "https://open.spotify.com/track/5pW040aRDPplY0Zdv06aas"
@@ -12249,6 +12249,24 @@
     },
     {
       "album": {
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203864,
+      "name": "Digital girl",
+      "url": "https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1"
+    },
+    {
+      "album": {
         "name": "Dinosaurs in Love",
         "url": "https://open.spotify.com/album/51i7nDExHfxOSRqTFswUIE"
       },
@@ -15134,7 +15152,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
@@ -17750,6 +17768,24 @@
       "duration_ms": 135214,
       "name": "Georgia Peach (Sketch)",
       "url": "https://open.spotify.com/track/4ymCext30WfpFv4suoi0Tg"
+    },
+    {
+      "album": {
+        "name": "Get down / Loving you",
+        "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145246,
+      "name": "Get down",
+      "url": "https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB"
     },
     {
       "album": {
@@ -45247,6 +45283,24 @@
     },
     {
       "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/5wZufLuyvuv9n7pBhUT6ai"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146486,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/2kV2gzrfWhoxXBumKCeh01"
+    },
+    {
+      "album": {
         "name": "Sunday926",
         "url": "https://open.spotify.com/album/51WB8ybA3Iv9bEvOZgiNa9"
       },
@@ -47990,7 +48044,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 286694,
       "name": "The Scientist - Spotify Singles",
       "url": "https://open.spotify.com/track/3yDvl8B6st6XZ67gL9nLNK"

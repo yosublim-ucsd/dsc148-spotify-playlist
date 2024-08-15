@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Aziz Hedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,502 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,516 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 16 | [SUPER CALIFORNIA GIRLS](https://open.spotify.com/track/4y2eEk8LdvN7neCh7SdNEK) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [SUPER CALIFORNIA GIRLS](https://open.spotify.com/album/5kkEJIHCnbVY6bhJhHI77z) | 2:56 |
 | 17 | [Take It Slow](https://open.spotify.com/track/5DXX82PVYUYIdAb6czzR6l) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Take It Slow](https://open.spotify.com/album/5tmiUYxb4Xx7GgPC8D3LdZ) | 3:49 |
 | 18 | [Thing I Desire](https://open.spotify.com/track/6xiR9KifftI2POJ091SlIw) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Thing I Desire](https://open.spotify.com/album/3X175TeVLuIdBCfd61jSDm) | 3:51 |
-| 19 | [it's my fault](https://open.spotify.com/track/3CQJRcZf9yNgIDCQBllfxx) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [gimbap](https://open.spotify.com/album/50xp8elLZomzlu6uE4RebW) | 3:30 |
+| 19 | [it's my fault](https://open.spotify.com/track/3CQJRcZf9yNgIDCQBllfxx) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [it's my fault](https://open.spotify.com/album/50xp8elLZomzlu6uE4RebW) | 3:30 |
 | 20 | [Hey Girl](https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 3:35 |
 | 21 | [KNEW IT](https://open.spotify.com/track/6yiTqPoI5v9VqgoiYFDIp6) | [Guiitarima](https://open.spotify.com/artist/5bjTbW3SokvyaTObxfuJqd) | [KNEW IT](https://open.spotify.com/album/6yslHTNtBuq3h32V506VLY) | 3:12 |
 | 22 | [Under God](https://open.spotify.com/track/6fFOO5Rdc1U3JCtxCR2O95) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [For Someone Somewhere Who Isn't Us](https://open.spotify.com/album/1chZE5RjHe3KrE242WlAIk) | 2:57 |

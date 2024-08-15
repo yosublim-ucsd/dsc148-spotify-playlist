@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125830,
+  "num_followers": 125843,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS08GziPtDn3TC3KkbxUbL46QuhiTp",
+  "snapshot_id": "AAAS1bxSobsYPEpXE1meUrEvTaGC4LLK",
   "tracks": [
+    {
+      "added_at": "2024-08-14 14:09:26",
+      "album": {
+        "name": "Euphoria Rush",
+        "url": "https://open.spotify.com/album/7a3WhUPay2Vg17GgIkmnYt"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Euphoria Rush",
+      "url": "https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq"
+    },
     {
       "added_at": "2024-08-13 14:16:14",
       "album": {
@@ -1135,26 +1155,6 @@
       "duration_ms": 164124,
       "name": "MEANT 2 BE",
       "url": "https://open.spotify.com/track/4zMVHb3ZWygsiB3oxDiur4"
-    },
-    {
-      "added_at": "2024-05-24 14:30:52",
-      "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/1F2S0yuHSOnWaEjQRyMSq6"
-      },
-      "artists": [
-        {
-          "name": "Modestep",
-          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        }
-      ],
-      "duration_ms": 223541,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/2zzdZqzq6GZ5Vlr4Z2Ghep"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

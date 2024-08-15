@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO33TpHq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO33TpHq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO33TpHq)
 
-### [This Is Phil Wickham](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33TpHq)
+### [This is Phil Wickham](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33TpHq)
 
-> This is Phil Wickham\. The essential tracks, all in one playlist.
+> This is Phil Wickham\. De essentiële nummers, allemaal in één playlist.
 
 56 songs - 4 hr 24 min
 

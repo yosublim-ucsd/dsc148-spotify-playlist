@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu\. Cover: Jacqline
 
-1,506 songs - 3 day 6 hr 9 min
+1,507 songs - 3 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,6 +725,7 @@
 | [Kiss a Little Less](https://open.spotify.com/track/674Cu9dE65EX0N4PbjFLVR) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [Kiss a Little Less](https://open.spotify.com/album/6uiIbsLYa4WWjWRJdraNqo) | 3:09 | 2024-04-18 | 2024-05-17 |
 | [Kiss Me](https://open.spotify.com/track/4JQQp0QINDwgTRlqQmC7xU) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Truth & Consequences](https://open.spotify.com/album/0UeGiO8l1r0HtBGmkkB9ic) | 3:21 | 2022-09-15 | 2022-09-30 |
 | [Kite \- Acoustic](https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Kite \(Acoustic\)](https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd) | 2:29 | 2024-03-07 | 2024-04-19 |
+| [Klyschor](https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Klyschor](https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd) | 2:33 | 2024-08-08 |  |
 | [Knallpulver](https://open.spotify.com/track/4KFTbuGudoMnSKwFlK4yrO) | [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Knallpulver](https://open.spotify.com/album/4OAO9n9fnusvbLTBa3m0fl) | 2:38 | 2022-05-26 | 2022-07-28 |
 | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO) | 3:08 | 2022-05-05 | 2023-02-18 |
 | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/track/23CTXfKqXyz4QkEwCGONhz) | [Ella Hedström](https://open.spotify.com/artist/2yZOGE9w5XZPTWF9e6wYEr) | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/album/3wGLhdFwuUVEpkuswcM5km) | 2:54 | 2022-05-05 | 2022-07-22 |

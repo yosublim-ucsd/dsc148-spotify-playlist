@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Zild
 
-124 songs - 7 hr 52 min
+126 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,9 +33,11 @@
 | [EL CHAPO](https://open.spotify.com/track/2DbrW7nxlnFEPTPB1rEsbr) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [EL CHAPO](https://open.spotify.com/album/5UTVGVCRmc1DU24M5Fu93Q) | 2:56 | 2024-07-19 |  |
 | [Feel This Way](https://open.spotify.com/track/5VqFa9E5BNTBsDd7uKE5R0) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Feel This Way](https://open.spotify.com/album/0v5fmGTPGUHJR1tq8x0r3W) | 3:50 | 2024-07-02 | 2024-08-03 |
 | [FOOLISHLY](https://open.spotify.com/track/7Ei0sWKIjUA1Q5DlWAlhab) | [Lucas Miguel](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA), [Athena Gail](https://open.spotify.com/artist/7B2olqCA3cYn1IrKE13V5F) | [FOOLISHLY](https://open.spotify.com/album/7IawnKqyCJY4JXRp7PcQ0E) | 3:12 | 2024-07-02 | 2024-07-09 |
-| [Fruitcake \- From "Fruitcake"](https://open.spotify.com/track/6RMAZ62wCGBCoY7q86SkrH) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Fruitcake \(From "Fruitcake"\)](https://open.spotify.com/album/2Eb8N686jvzJXWjtF4kOZY) | 4:41 | 2024-07-02 |  |
+| [Fruitcake \- From "Fruitcake"](https://open.spotify.com/track/6RMAZ62wCGBCoY7q86SkrH) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Fruitcake \(From "Fruitcake"\)](https://open.spotify.com/album/2Eb8N686jvzJXWjtF4kOZY) | 4:41 | 2024-07-02 | 2024-08-15 |
+| [Gabi](https://open.spotify.com/track/2WJv0Oat2e39R4iAWZVm0l) | [Nameless Kids](https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2) | [Gabi](https://open.spotify.com/album/5MJpKfU02ZKk1pv1vCf2Rb) | 4:25 | 2024-08-14 |  |
 | [Gitna](https://open.spotify.com/track/673iq8PwHzUQCSlbCtzPcq) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Gitna](https://open.spotify.com/album/052lYoydf0M5IFm6I7dkn8) | 4:42 | 2024-08-02 |  |
 | [Gupit \(with Alamat\)](https://open.spotify.com/track/2DK8sb1DDQ3r9gJ602NP5W) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Gupit \(with Alamat\)](https://open.spotify.com/album/6q8e4tluebb674QYLTMyot) | 3:19 | 2024-07-02 |  |
+| [Halikana](https://open.spotify.com/track/2bdSVYtbQe5RWW6g4kXIsO) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Halikana](https://open.spotify.com/album/6YOAxlb0s1MCSyfWsTdka3) | 3:23 | 2024-08-14 |  |
 | [Hanggang Kailan](https://open.spotify.com/track/2i1TTUWdQlntOpxMZKVzf9) | [Darren Espanto](https://open.spotify.com/artist/0u4G1K1CSzcp5PZ6G6FIGu) | [Hanggang Kailan](https://open.spotify.com/album/1d8wq7e8BiL3c0RVdiDju3) | 3:53 | 2024-07-02 | 2024-07-13 |
 | [Hey You](https://open.spotify.com/track/5VbhpRXYHv8encAvLTk9AE) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Hey You](https://open.spotify.com/album/6Ux8KoRZJYi5td2vKRFd6J) | 4:31 | 2024-07-02 |  |
 | [Hirana](https://open.spotify.com/track/6mOhNJfrKXWD5SnrqPwR6o) | [CRIMASON](https://open.spotify.com/artist/2omAS3u3ZQaxiWXA9OmiWj) | [Hirana](https://open.spotify.com/album/6ZRHYWB8uI6CjfBHTyLAhS) | 4:56 | 2024-07-02 | 2024-07-13 |
@@ -91,7 +93,7 @@
 | [PAPALAYO](https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [PAPALAYO](https://open.spotify.com/album/4th74t7vSm28kVsqVwb9ii) | 4:00 | 2024-07-02 | 2024-07-19 |
 | [pati ng ulan](https://open.spotify.com/track/7xDxh11hPnoyFeQ8BMCS60) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [pati ng ulan](https://open.spotify.com/album/338bWmo7P3asnye9ba4D7I) | 2:41 | 2024-07-19 |  |
 | [Paumanhin](https://open.spotify.com/track/3tSRjmIZdw0d8S36aJDsEu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:51 | 2024-07-02 | 2024-07-19 |
-| [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/track/5PrQ7aBjgQMa2eKvCjneUq) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/album/2449JgrjgDvIKzQjy1BEJm) | 3:50 | 2024-07-02 |  |
+| [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/track/5PrQ7aBjgQMa2eKvCjneUq) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/album/2449JgrjgDvIKzQjy1BEJm) | 3:50 | 2024-07-02 | 2024-08-15 |
 | [Pinaglaban](https://open.spotify.com/track/4Kt8WjjUi3ot5GBAPFDB3X) | [Jason Marvin](https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560) | [Pinaglaban](https://open.spotify.com/album/2RRER38RGdbWCmb5JWGnu4) | 3:11 | 2024-07-26 |  |
 | [Pramis](https://open.spotify.com/track/7hYIVov3HlUYABCA0Jafms) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Aurora](https://open.spotify.com/album/7mGQSG3GPyox65DMOAX0j7) | 3:33 | 2024-07-02 | 2024-07-13 |
 | [prinsesa](https://open.spotify.com/track/6N7A3JFbsVOUcfiT6ltjrq) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [prinsesa](https://open.spotify.com/album/4dKvGzZY4pHryHIuY5dm4W) | 4:01 | 2024-07-12 |  |

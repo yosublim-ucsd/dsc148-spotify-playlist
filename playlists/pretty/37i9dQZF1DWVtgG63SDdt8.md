@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:6d9rhdwIVsqblUFXu7qEBp">Gable Price and Friends</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,395 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,396 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 20 | [Fear of God ∞](https://open.spotify.com/track/27GcUxI5ScpItTrA82fwSD) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [INFINITY](https://open.spotify.com/album/026YDYCcrzKoCrELvYR1ZM) | 4:33 |
 | 21 | [Bless The Lord](https://open.spotify.com/track/3E11GLIEZ6EVipo4iicyXO) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Bless The Lord](https://open.spotify.com/album/5RiIEZcWk9PN68CWuk1pvU) | 3:16 |
 | 22 | [Night Vision](https://open.spotify.com/track/34NKt8JYjz9iz8RyueyEzJ) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Night Vision](https://open.spotify.com/album/4WaCm52e3znrtzT9zgtIt2) | 4:53 |
-| 23 | [Endless Well](https://open.spotify.com/track/6RDfVNCRkNkoXPpncyHTkH) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Sounds From The House \- Vol\. 1](https://open.spotify.com/album/5OmEixUzkXth6PVgD7OAoJ) | 5:59 |
+| 23 | [Endless Well / Show Me Your Face](https://open.spotify.com/track/6RDfVNCRkNkoXPpncyHTkH) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Sounds From The House \- Vol\. 1](https://open.spotify.com/album/5OmEixUzkXth6PVgD7OAoJ) | 5:59 |
 | 24 | [Same Jesus](https://open.spotify.com/track/1MzHif37jMiFwZHazy8im1) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Basic Faith](https://open.spotify.com/album/0Jo3ugiIh8DU5OHgsiXXpe) | 3:46 |
 | 25 | [Hallelujah Jesus Saves \- Live](https://open.spotify.com/track/1iARDWqCpnMLukpsDzSI4T) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Rich Dicas](https://open.spotify.com/artist/2Il0umOD4O5CpMBiWGymmH), [Millie Ferguson](https://open.spotify.com/artist/355iCx2proSfiHlXqUhINW) | [Hallelujah Jesus Saves](https://open.spotify.com/album/4xBgYQzhcjR11iONHQ42JA) | 4:46 |
 | 26 | [More of You](https://open.spotify.com/track/1MvI2mOvdgQY8G5ReFtq8S) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [More of You](https://open.spotify.com/album/2JnM5bI6wqYCh6cp534dk1) | 6:48 |

@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47470,
+  "num_followers": 47469,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAHv3sWetTmDmuqfF5idCWAmT9zKFGd",
+  "snapshot_id": "AAAHwGaozix0yDstyBcALX5vaHgWDD1r",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1213,6 +1213,26 @@
       "url": "https://open.spotify.com/track/5ihUSA58Ykw7ZPR0aRyMCX"
     },
     {
+      "added_at": "2024-08-15 00:41:04",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/282eak3jJSMoNdWT4DurIX"
+      },
+      "artists": [
+        {
+          "name": "CICERO!",
+          "url": "https://open.spotify.com/artist/14Feld1YPnynu1a1hPzxaa"
+        },
+        {
+          "name": "Damon.",
+          "url": "https://open.spotify.com/artist/0BerNbI4jj8PSQqsU8B1RH"
+        }
+      ],
+      "duration_ms": 174761,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1hq6SZDCvuxVNoylxmUnAn"
+    },
+    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Side By Side (with MKLA)",
@@ -2075,26 +2095,6 @@
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
-    },
-    {
-      "added_at": "2024-08-12 00:41:04",
-      "album": {
-        "name": "All My Friends (Eden Prince Remix)",
-        "url": "https://open.spotify.com/album/4lXBBbiEgwTzcfAkqdXJV1"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        },
-        {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
-        }
-      ],
-      "duration_ms": 173548,
-      "name": "All My Friends - Eden Prince Remix",
-      "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
     }
   ],
   "unique_name": "EDM Top 100",

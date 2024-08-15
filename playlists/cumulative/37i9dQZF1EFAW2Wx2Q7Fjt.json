@@ -382,6 +382,24 @@
     {
       "album": {
         "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5W30YJavMoHwG64cPD4L9C"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174116,
+      "name": "Cupid (Twin Ver.) - Live Studio Version OT4",
+      "url": "https://open.spotify.com/track/4gXHG9domIKO6FIViDISA4"
+    },
+    {
+      "album": {
+        "name": "The Beginning",
         "url": "https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73"
       },
       "artists": [
@@ -392,7 +410,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 173461,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6"

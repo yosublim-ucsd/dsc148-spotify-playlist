@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: kZm
 
-972 songs - 2 day 2 hr 10 min
+973 songs - 2 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,6 +898,7 @@
 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 | 2024-04-24 | 2024-06-19 |
 | [ぼちぼちいこか](https://open.spotify.com/track/6CCERwzPgMBGA8JgyebMvO) | [WATT a.k.a\. YOTTERUBUTTERU](https://open.spotify.com/artist/1xM3qD3oQS9quA6J7caYGA), [HI\-KING TAKASE](https://open.spotify.com/artist/1xcYMxnEm3xG7OcGpoBTh1) | [ぼちぼちいこか](https://open.spotify.com/album/6tYOfQypLM3RyqZoKGDCaQ) | 1:51 | 2024-05-01 | 2024-05-08 |
 | [もう一度キスをして](https://open.spotify.com/track/3mdyNzxy8EfEhitWY71KL2) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [もう一度キスをして](https://open.spotify.com/album/2vBJrNRG3j0CYzqV5iD8gs) | 2:37 | 2024-04-30 | 2024-06-12 |
+| [やるなら今しかねー](https://open.spotify.com/track/5zLlR3WzEAXteagaJI9KxK) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [やるなら今しかねー](https://open.spotify.com/album/0tQLevjH0sd6qcJhPKLZUH) | 3:20 | 2024-08-14 |  |
 | [わるもの](https://open.spotify.com/track/5Qn8Qe98eSY9s2SnAvXX9q) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [わるもの](https://open.spotify.com/album/4jUMIuyD5V9lDSTLuK6Tye) | 3:32 | 2024-05-15 | 2024-07-03 |
 | [アツい](https://open.spotify.com/track/6n8OtvTLfvgElvXHFGT03Z) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [アツい](https://open.spotify.com/album/51e7SrfvveBwClUJ8ypaZL) | 2:30 | 2024-07-30 |  |
 | [イカれたゲーム](https://open.spotify.com/track/35AqyuX0ti4FuUnaElmC0o) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [イカれたゲーム](https://open.spotify.com/album/3hEPaFA3NrAuHf28kaaqjB) | 3:38 | 2023-10-31 | 2023-11-02 |

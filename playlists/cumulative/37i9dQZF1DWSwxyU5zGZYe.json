@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 176571,
       "name": "Rehmat - Rebound",
       "url": "https://open.spotify.com/track/7ogWAgzSoUVd7vySj2zX3p"
@@ -3218,6 +3218,32 @@
       "duration_ms": 268700,
       "name": "You're So Beautiful",
       "url": "https://open.spotify.com/track/78vh1SHHtT8MUZ2MUft4xG"
+    },
+    {
+      "album": {
+        "name": "Vedaa - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/2dchYcy81PlHNcuZnF6ZOl"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334500,
+      "name": "Zaroorat Se Zyada - Female Version - From \"Vedaa\"",
+      "url": "https://open.spotify.com/track/1UrVeNKlZD1Ib6v8rhEtEk"
     },
     {
       "album": {

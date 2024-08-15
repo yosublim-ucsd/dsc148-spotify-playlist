@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover: Fit For A King
 
-976 songs - 2 day 12 hr 36 min
+977 songs - 2 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [Lights & Fire](https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lights & Fire](https://open.spotify.com/album/2M1MruXHvS7YndZJ2jgDUD) | 3:30 | 2022-01-21 | 2022-02-11 |
 | [Like A Villain](https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:30 | 2022-07-13 | 2022-07-23 |
 | [Lilac](https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [Lilac](https://open.spotify.com/album/2cpSxn3vfj4aRwbI7XaLdC) | 4:03 | 2022-07-13 | 2022-07-15 |
+| [Liminal](https://open.spotify.com/track/6DOLZruEqao3kuRQJrh6DU) | [Advents](https://open.spotify.com/artist/4uRiS36Rkfo2N0QMoBaYes) | [Liminal](https://open.spotify.com/album/3GNcQlnhJl4TDH5E8QMj7N) | 3:46 | 2024-08-12 |  |
 | [Limitless](https://open.spotify.com/track/2ymlRQX0M06wDpzsCxXaxj) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Limitless](https://open.spotify.com/album/4nCEePCITdLSbq32U5bEwO) | 3:28 | 2023-11-27 | 2024-08-13 |
 | [Little Light](https://open.spotify.com/track/5cemE29LCUtsLtg0a18kK2) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [In the Balance](https://open.spotify.com/album/6uHaWH6DIPK4weWssYgoHv) | 3:03 | 2021-12-17 | 2022-01-22 |
 | [Lockdown](https://open.spotify.com/track/1sRlEiwjCS0swVrNVnPNd0) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Lockdown](https://open.spotify.com/album/0S1HfNJJZeAQfLywooIxpT) | 3:41 | 2024-02-09 | 2024-06-05 |
@@ -570,7 +571,7 @@
 | [Misery \(feat\. Atreyu\)](https://open.spotify.com/track/6fkc33TnVtVRGEgGBWRY09) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Misery \(feat\. Atreyu\)](https://open.spotify.com/album/6cB7t1q4PrgmDmAyuJFW4j) | 3:12 | 2023-10-27 | 2024-04-19 |
 | [Misguided](https://open.spotify.com/track/3XzHz4DaqxbsjDEoEyW0RX) | [AVIIRA](https://open.spotify.com/artist/5jrO7JLjq5hKKKENDwrun4) | [Avalanche](https://open.spotify.com/album/2Z0dWUt45um1flzsxi6Nd3) | 3:48 | 2022-01-07 | 2022-04-09 |
 | [Mistake](https://open.spotify.com/track/4tOCjcTo8c4wH5krCVgwsw) | [Dead Rabbitts](https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Mistake](https://open.spotify.com/album/173Zbg8d7uScUUd4c1NJRW) | 3:22 | 2024-07-12 |  |
-| [Modern Error](https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Modern Error](https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8) | 4:29 | 2024-04-12 |  |
+| [Modern Error](https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Modern Error](https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8) | 4:29 | 2024-04-12 | 2024-08-15 |
 | [Mojave Repressions](https://open.spotify.com/track/5wnV8Xgk0EZvpObhpY4ukb) | [Merrow](https://open.spotify.com/artist/6lMwUV4nVScxzSAQYX4JNF) | [Mojave Repressions](https://open.spotify.com/album/0Lnn1lxdvapbmEEOHbCBan) | 6:13 | 2022-07-13 | 2022-07-22 |
 | [Monster](https://open.spotify.com/track/3s14tMRyXZ9p9vpWfjAf3Q) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Alternate Realities](https://open.spotify.com/album/71Lcm9f08c9QDz7beKpp43) | 3:18 | 2022-03-18 | 2022-05-21 |
 | [Monster](https://open.spotify.com/track/6sq2FStQI6nEw7NiSWTgTu) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Monster](https://open.spotify.com/album/5JaW7zptptjNILAtgA0sxD) | 2:52 | 2024-08-12 |  |

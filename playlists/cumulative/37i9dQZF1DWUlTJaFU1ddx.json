@@ -406,7 +406,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 211282,
       "name": "Hala O Ghala",
       "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 254394,
       "name": "Ma Bdi Heb",
       "url": "https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8"
@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Rahat Wen",
+        "url": "https://open.spotify.com/album/2zVGJy2Wgq8WrsamstI0qs"
+      },
+      "artists": [
+        {
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199505,
+      "name": "Rahat Wen",
+      "url": "https://open.spotify.com/track/4ueBwVQmqlHQ92Whn1vlq8"
+    },
+    {
+      "album": {
         "name": "Serti Halali",
         "url": "https://open.spotify.com/album/0IiY9pwCRMsRdldrMpW03A"
       },
@@ -1318,6 +1336,24 @@
       "duration_ms": 228333,
       "name": "Zubalah",
       "url": "https://open.spotify.com/track/3AQMp7f6Pgm3gHUGoTqDyL"
+    },
+    {
+      "album": {
+        "name": "\u0623\u0648\u0642\u0627\u062a",
+        "url": "https://open.spotify.com/album/0IgOIkkKUW98PalSz7W2SB"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222900,
+      "name": "\u0623\u0648\u0642\u0627\u062a",
+      "url": "https://open.spotify.com/track/1kNEA479Q065mAaNhaT8Rn"
     },
     {
       "album": {

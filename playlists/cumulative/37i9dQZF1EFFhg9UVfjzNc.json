@@ -1693,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/0DTMyf02zFSa3ZHq5Ouv6h"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Rodrigues_",
+          "url": "https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232836,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3FGMRWDJuA3D4UpsIs084q"
+    },
+    {
+      "album": {
         "name": "Bondade e Fidelidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN"
       },

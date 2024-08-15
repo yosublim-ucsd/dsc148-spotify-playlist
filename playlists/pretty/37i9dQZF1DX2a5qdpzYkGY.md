@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,313 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,315 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 34 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
 | 35 | [Materia](https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 3:08 |
 | 36 | [Highway Brain Planet \(Credits\)](https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR) | [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Second Spring OST](https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI) | 2:31 |
-| 37 | [Genesis](https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Genesis](https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3) | 3:19 |
-| 38 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
+| 37 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
+| 38 | [Genesis](https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Genesis](https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3) | 3:19 |
 | 39 | [Ultramarine](https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Ultramarine](https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac) | 3:09 |
 | 40 | [Who Is Still Dreaming?](https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z) | [June11](https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4) | [11000 Dreams](https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8) | 3:32 |
 | 41 | [Lenz Pianoday 2022](https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL) | [Jan Sturm](https://open.spotify.com/artist/6IVzJ4t1rAmWv72P9VbYgm), [STURM](https://open.spotify.com/artist/3PiKVGvjj3QLtRaKfU0ggL) | [Lenz Pianoday 2022](https://open.spotify.com/album/5o3mfWFGzWv89xNQCOVk19) | 2:19 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 52 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 |
 | 53 | [Lightless Room](https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu) | [Lucas Carlson](https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7) | [Lightless Room](https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc) | 4:59 |
 | 54 | [Stuck T](https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI) | [Sharko](https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5) | [Sharko III](https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8) | 1:16 |
-| 55 | [All the Way Round \- Photay Remix](https://open.spotify.com/track/1PKUVKUDXmeT8uu4Rb3f9b) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [All the Way Round \(Photay Remix\)](https://open.spotify.com/album/5O0UsXMCeUEhdWcYv6N6wl) | 4:56 |
-| 56 | [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 |
+| 55 | [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 |
+| 56 | [All the Way Round \- Photay Remix](https://open.spotify.com/track/1PKUVKUDXmeT8uu4Rb3f9b) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [All the Way Round \(Photay Remix\)](https://open.spotify.com/album/5O0UsXMCeUEhdWcYv6N6wl) | 4:56 |
 | 57 | [Passing Lights \- Cinematic Version](https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr) | [Douran](https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ) | [Reflections 02](https://open.spotify.com/album/33CSkPGUlGsQ6a4pBFfRL2) | 2:36 |
 | 58 | [Open Hill](https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Horizon](https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we) | 4:16 |
 | 59 | [El Momento](https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [El Momento](https://open.spotify.com/album/2Qx4zobEOV9BRW3wL1IbRI) | 3:19 |

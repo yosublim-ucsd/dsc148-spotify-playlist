@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "\u7121\u6b32\u306e\u3064\u3082\u308a\u3067",
+        "url": "https://open.spotify.com/album/32lxzYgzwZR5DciRVkqNxW"
+      },
+      "artists": [
+        {
+          "name": "Aki Hata",
+          "url": "https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152766,
+      "name": "\u7121\u6b32\u306e\u3064\u3082\u308a\u3067",
+      "url": "https://open.spotify.com/track/7x7ihns6DnwPeEf3JdnwPN"
+    },
+    {
+      "album": {
         "name": "\u79d8\u5bc6\u306e\u6249\u304b\u3089\u4f1a\u3044\u306b\u304d\u3066",
         "url": "https://open.spotify.com/album/2NfnOSntG6tB7nuFbfDksB"
       },

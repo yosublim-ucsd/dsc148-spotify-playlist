@@ -1,12 +1,12 @@
 {
-  "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 53181,
+  "description": "This Is Nick Drake. Los temas esenciales, todos en una lista.",
+  "num_followers": 53191,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAAAM2tkPq8fz0LGLvTNH8Uw/",
+  "snapshot_id": "ZrqiAAAAAAD1KuvJiMoL8QrnZ6DesTEB",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Tree",
-        "url": "https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo"
+        "name": "Made To Love Magic",
+        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 31146,
-      "name": "Come Into The Garden (Introduction)",
-      "url": "https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK"
+      "duration_ms": 203986,
+      "name": "Hanging On A Star",
+      "url": "https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made To Love Magic",
-        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 203986,
-      "name": "Hanging On A Star",
-      "url": "https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb"
+      "duration_ms": 31146,
+      "name": "Come Into The Garden (Introduction)",
+      "url": "https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK"
     },
     {
       "added_at": null,

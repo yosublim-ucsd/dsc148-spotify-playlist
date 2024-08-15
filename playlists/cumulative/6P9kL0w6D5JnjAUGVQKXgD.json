@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 173548,
       "name": "All My Friends - Eden Prince Remix",
       "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
@@ -11710,6 +11710,28 @@
       "duration_ms": 113149,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/07QCSa14E5bfOOkTXR7oLD"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/282eak3jJSMoNdWT4DurIX"
+      },
+      "artists": [
+        {
+          "name": "CICERO!",
+          "url": "https://open.spotify.com/artist/14Feld1YPnynu1a1hPzxaa"
+        },
+        {
+          "name": "Damon.",
+          "url": "https://open.spotify.com/artist/0BerNbI4jj8PSQqsU8B1RH"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174761,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1hq6SZDCvuxVNoylxmUnAn"
     },
     {
       "album": {

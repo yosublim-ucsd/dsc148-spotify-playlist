@@ -1,12 +1,12 @@
 {
-  "description": "This is Eir Aoi. The essential tracks, all in one playlist.",
-  "num_followers": 21311,
-  "original_name": "This Is Eir Aoi",
+  "description": "This is \u85cd\u4e95\u30a8\u30a4\u30eb. The essential tracks, all in one playlist.",
+  "num_followers": 21310,
+  "original_name": "This Is \u85cd\u4e95\u30a8\u30a4\u30eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAADdwfkyjNT3n917ZyLTvE2f",
+  "snapshot_id": "ZrqiAAAAAAD1+s8v4qRlSY7b8vI2qHEW",
   "tracks": [
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PHOENIX PRAYER",
-        "url": "https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q"
+        "name": "\u30a2\u30c8\u30c3\u30af",
+        "url": "https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 252775,
-      "name": "PHOENIX PRAYER",
-      "url": "https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8"
+      "duration_ms": 251404,
+      "name": "\u30a2\u30c8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PHOENIX PRAYER",
+        "url": "https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 252775,
+      "name": "PHOENIX PRAYER",
+      "url": "https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INNOCENCE",
         "url": "https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 279080,
       "name": "dear brightness",
       "url": "https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a2\u30c8\u30c3\u30af",
-        "url": "https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 251404,
-      "name": "\u30a2\u30c8\u30c3\u30af",
-      "url": "https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6d41\u661f / \u7d04\u675f",
-        "url": "https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "\u30d2\u30c8\u30ab\u30b1\u30e9\u306e\u52c7\u6c17",
-      "url": "https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
         "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 269253,
       "name": "Close Friend",
       "url": "https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6d41\u661f / \u7d04\u675f",
+        "url": "https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "\u30d2\u30c8\u30ab\u30b1\u30e9\u306e\u52c7\u6c17",
+      "url": "https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLAU",
-        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 266786,
-      "name": "\u30d5\u30a7\u30a4\u30b9\u30ec\u30b9",
-      "url": "https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KALEIDOSCOPE",
         "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 209066,
       "name": "\u30ed\u30bc",
       "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 266786,
+      "name": "\u30d5\u30a7\u30a4\u30b9\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "IGNITE",
-        "url": "https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB"
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6"
       },
       "artists": [
         {
@@ -704,25 +704,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Brainwash",
-      "url": "https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D'AZUR",
-        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 265053,
-      "name": "\u30c4\u30ca\u30ac\u30eb\u30aa\u30e2\u30a4",
-      "url": "https://open.spotify.com/track/3VFdCj1qd29ODOSDvGxhOQ"
+      "duration_ms": 311960,
+      "name": "CaCO",
+      "url": "https://open.spotify.com/track/0E5vf3YTVdn7sbaNkdSJae"
     },
     {
       "added_at": null,
@@ -759,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HELLO HELLO HELLO",
-        "url": "https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "CaCO",
-      "url": "https://open.spotify.com/track/0E5vf3YTVdn7sbaNkdSJae"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D'AZUR",
         "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
       },
@@ -784,9 +752,25 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 238293,
-      "name": "\u305a\u3063\u3068\u305d\u3070\u3067",
-      "url": "https://open.spotify.com/track/1aBr7sWU2lxnH1Hef7W4HZ"
+      "duration_ms": 265053,
+      "name": "\u30c4\u30ca\u30ac\u30eb\u30aa\u30e2\u30a4",
+      "url": "https://open.spotify.com/track/3VFdCj1qd29ODOSDvGxhOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IGNITE",
+        "url": "https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Brainwash",
+      "url": "https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D'AZUR",
+        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 238293,
+      "name": "\u305a\u3063\u3068\u305d\u3070\u3067",
+      "url": "https://open.spotify.com/track/1aBr7sWU2lxnH1Hef7W4HZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u8679\u306e\u97f3",
         "url": "https://open.spotify.com/album/1yF6vfgTYetiqEG2DKqRX0"
       },
@@ -837,6 +837,6 @@
       "url": "https://open.spotify.com/track/0ZbSm8hdg3lGC3gnh5JZsn"
     }
   ],
-  "unique_name": "This Is Eir Aoi",
+  "unique_name": "This Is \u85cd\u4e95\u30a8\u30a4\u30eb",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5"
 }

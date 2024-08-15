@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Perreo hecho en Argentina\. Foto: El Osito Wito & Nashy\-Nashai
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,720 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,722 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 44 | [Abrazaditos](https://open.spotify.com/track/7wJ6YSZqZCsZlmmGb9Qx6Z) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Abrazaditos](https://open.spotify.com/album/3h7OLtE2e8qlFpXm1tHJj3) | 2:44 |
 | 45 | [Vente](https://open.spotify.com/track/3a6CoIDFv3XmCTIahaQWoK) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [Vente](https://open.spotify.com/album/004RhTHPEEuZkt79PrUyZO) | 2:28 |
 | 46 | [Llanta y Cadena](https://open.spotify.com/track/1CUYf2HYi0asSYXcSKE0pu) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [Llanta y Cadena](https://open.spotify.com/album/2adayY6Q5Cd4k66JnJYUjP) | 2:05 |
-| 47 | [CUENTALE I E17](https://open.spotify.com/track/4TVKvQp8PDmDUJi0OQUnko) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Gonzalo Nawel](https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5) | [CUENTALE I E17](https://open.spotify.com/album/7szrZs2g0r7WzIqUfZFx8R) | 2:12 |
+| 47 | [DJ ALEX, GONZALO NAWEL \- CUENTALE I E17](https://open.spotify.com/track/4TVKvQp8PDmDUJi0OQUnko) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Gonzalo Nawel](https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5) | [DJ ALEX, GONZALO NAWEL \- CUENTALE I E17](https://open.spotify.com/album/7szrZs2g0r7WzIqUfZFx8R) | 2:12 |
 | 48 | [UNA GATA](https://open.spotify.com/track/2ZsBl5LVGMYuxOuK6uCqmf) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [UNA GATA](https://open.spotify.com/album/5CJfj01zYIljBUYaYrCQRI) | 3:04 |
 | 49 | [Qué Estará Haciendo?](https://open.spotify.com/track/3XwTUXkY4TtZRBavE3juvc) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Qué Estará Haciendo?](https://open.spotify.com/album/1gqHK0ozy1Qh5BRSRkvzif) | 2:39 |
 | 50 | [R.A.M](https://open.spotify.com/track/3gGEqo7JghOxoFxsidkKti) | [Rodrii Ortiz](https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [R.A.M](https://open.spotify.com/album/4447UuRd2hMZa9RGX7Ua5Y) | 3:08 |

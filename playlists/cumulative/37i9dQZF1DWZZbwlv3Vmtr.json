@@ -6497,6 +6497,24 @@
     },
     {
       "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/2NdajnVAkzx22HQ5BuEwAS"
+      },
+      "artists": [
+        {
+          "name": "Kuma",
+          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137538,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/4p5CY3aCPoLwJ2xRFyUSPS"
+    },
+    {
+      "album": {
         "name": "Sharingan",
         "url": "https://open.spotify.com/album/5ISSZnA4V8C7eCia0WIhsY"
       },
@@ -7158,6 +7176,24 @@
       "duration_ms": 96023,
       "name": "just relax",
       "url": "https://open.spotify.com/track/0POolioSzFOWb0n0it50Lz"
+    },
+    {
+      "album": {
+        "name": "Kalku",
+        "url": "https://open.spotify.com/album/5J2CGNOWmqj2r38MfeCifJ"
+      },
+      "artists": [
+        {
+          "name": "Gooee",
+          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141194,
+      "name": "Kalku",
+      "url": "https://open.spotify.com/track/4N8GzYrf8f5YlNLPBlI42O"
     },
     {
       "album": {
@@ -11534,7 +11570,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 112235,
       "name": "Purple love",
       "url": "https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4"
@@ -14896,7 +14932,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 134573,
       "name": "Superman in the Tree",
       "url": "https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv"

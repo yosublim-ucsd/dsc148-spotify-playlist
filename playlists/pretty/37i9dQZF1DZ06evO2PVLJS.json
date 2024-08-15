@@ -1,12 +1,12 @@
 {
-  "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1019861,
+  "description": "This Is Vicente Fern\u00e1ndez. Los temas esenciales, todos en una lista.",
+  "num_followers": 1020033,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAADPVbcVmbpQhAzS5MstnnfK",
+  "snapshot_id": "ZrqiAAAAAAAtDeXYTAujfRXGe+F0nYnC",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Que Manera Te Olvido",
-        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 144973,
-      "name": "No Me S\u00e9 Rajar",
-      "url": "https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mujeres Divinas",
         "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 190226,
       "name": "Estos Celos",
       "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Que Manera Te Olvido",
+        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 144973,
+      "name": "No Me S\u00e9 Rajar",
+      "url": "https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Amigo El Tordillo",
-        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Muerte De Un Gallero",
         "url": "https://open.spotify.com/album/63Z87jsEERYnhzD0oqAf0w"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 202053,
       "name": "Cruz de Olvido",
       "url": "https://open.spotify.com/track/2vJyNEy7aNXMZomvzn5bJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Amigo El Tordillo",
+        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Mexicano en la M\u00e9xico",
-        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estatua De Marfil",
         "url": "https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 184426,
       "name": "Nos Estorbo la Ropa",
       "url": "https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Mexicano en la M\u00e9xico",
+        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk"
     },
     {
       "added_at": null,

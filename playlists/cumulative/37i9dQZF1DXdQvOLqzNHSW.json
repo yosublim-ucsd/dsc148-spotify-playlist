@@ -9026,7 +9026,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 170616,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/2yyM5THIv0BU4Jo1twbXaL"
@@ -13680,6 +13680,24 @@
       "duration_ms": 249304,
       "name": "Whatever Comes to Mind",
       "url": "https://open.spotify.com/track/4ZEwzNvzSlciLfAtPVPbmI"
+    },
+    {
+      "album": {
+        "name": "What\u2019s In The Tea?",
+        "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
+      },
+      "artists": [
+        {
+          "name": "Calimossa",
+          "url": "https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173052,
+      "name": "What\u2019s In The Tea?",
+      "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
     },
     {
       "album": {

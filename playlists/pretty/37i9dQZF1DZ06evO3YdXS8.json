@@ -1,12 +1,12 @@
 {
   "description": "This Is Selena. Los temas esenciales, todos en una lista.",
-  "num_followers": 620823,
+  "num_followers": 620883,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAAB9iLa4dpuVnha1moHn46a2",
+  "snapshot_id": "ZrqiAAAAAACOdDJLDhtO90AyqJrNyWeX",
   "tracks": [
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movie Soundtrack",
-        "url": "https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO"
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 518640,
-      "name": "Cumbia Medley - Live",
-      "url": "https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW"
+      "duration_ms": 190773,
+      "name": "Yo Te Sigo Queriendo",
+      "url": "https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+        "name": "Movie Soundtrack",
+        "url": "https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Yo Te Sigo Queriendo",
-      "url": "https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou"
+      "duration_ms": 518640,
+      "name": "Cumbia Medley - Live",
+      "url": "https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW"
     },
     {
       "added_at": null,

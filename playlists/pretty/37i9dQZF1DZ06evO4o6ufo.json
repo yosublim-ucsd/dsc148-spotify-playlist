@@ -1,12 +1,12 @@
 {
-  "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 63670,
+  "description": "This Is Panter B\u00e9lico. Los temas esenciales, todos en una lista.",
+  "num_followers": 63749,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAAAnNv2d85PNSCb4P3UfSAFR",
+  "snapshot_id": "ZrqiAAAAAAB9WmukWpGRbFGqFUrphim9",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 205901,
+      "name": "El Due\u00f1o Del Palenque (En Vivo)",
+      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mexicano",
         "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 203632,
       "name": "Ac\u00e1 Entre Nos",
       "url": "https://open.spotify.com/track/6EkflBPiKJi7JYfKq6Zpp9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Acci\u00f3n",
-        "url": "https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO"
-      },
-      "artists": [
-        {
-          "name": "La Revancha RC",
-          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 158270,
-      "name": "En Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N"
     },
     {
       "added_at": null,
@@ -715,22 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+        "name": "En Acci\u00f3n",
+        "url": "https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "La Revancha RC",
+          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
         },
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 205901,
-      "name": "El Due\u00f1o Del Palenque (En Vivo)",
-      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
+      "duration_ms": 158270,
+      "name": "En Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N"
     },
     {
       "added_at": null,
@@ -747,6 +747,38 @@
       "duration_ms": 174422,
       "name": "La Ley Del Monte",
       "url": "https://open.spotify.com/track/5EPXydzAN5pEXarJiqX4hn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 178175,
+      "name": "El Puente Roto (En Vivo)",
+      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 149137,
+      "name": "Te Veo A Las 10",
+      "url": "https://open.spotify.com/track/7EEO6ASheyPzDmbecAmyJT"
     },
     {
       "added_at": null,
@@ -771,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
       },
       "artists": [
         {
@@ -780,9 +812,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 149137,
-      "name": "Te Veo A Las 10",
-      "url": "https://open.spotify.com/track/7EEO6ASheyPzDmbecAmyJT"
+      "duration_ms": 194590,
+      "name": "Tristes Recuerdos",
+      "url": "https://open.spotify.com/track/48nNPyh2n8qKXpqAUPpbBI"
     },
     {
       "added_at": null,
@@ -796,25 +828,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 178175,
-      "name": "El Puente Roto (En Vivo)",
-      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mexicano",
-        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 194590,
-      "name": "Tristes Recuerdos",
-      "url": "https://open.spotify.com/track/48nNPyh2n8qKXpqAUPpbBI"
+      "duration_ms": 155688,
+      "name": "El Encuentro (En Vivo)",
+      "url": "https://open.spotify.com/track/1D3OhGcH2CEdfIQn91LF8q"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 155688,
-      "name": "El Encuentro (En Vivo)",
-      "url": "https://open.spotify.com/track/1D3OhGcH2CEdfIQn91LF8q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mexicano",
         "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
       },
@@ -883,6 +883,26 @@
       "duration_ms": 132637,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/0yRpco279sej0ajW7c7RZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "duration_ms": 155991,
+      "name": "El Compa Koki (En Vivo)",
+      "url": "https://open.spotify.com/track/69778UGlmKlyVTkMkC9YvC"
     },
     {
       "added_at": null,
@@ -919,26 +939,6 @@
       "duration_ms": 180638,
       "name": "Casi se les hizo (En Vivo)",
       "url": "https://open.spotify.com/track/23hDimVkIikKt2uPGaL0Iy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        }
-      ],
-      "duration_ms": 155991,
-      "name": "El Compa Koki (En Vivo)",
-      "url": "https://open.spotify.com/track/69778UGlmKlyVTkMkC9YvC"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Plug\-in to the official Kickback 2023 playlist, co\-created by gamers, producers, and the Atlanta community.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,298 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,271 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 37 | [Camelot](https://open.spotify.com/track/0HrufiqKFHnmOdsejPy7Ek) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Camelot](https://open.spotify.com/album/4J8PQCMh1uciw9AoTQMR9Q) | 2:28 |
 | 38 | [MIDDLE CHILD](https://open.spotify.com/track/29H8RkqW9GaFy8tdjriuX3) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3sKVIPkLkFNgyc02SCDQVW) | 3:33 |
 | 39 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/1AFAn7IMQDSM95ZIcZJCP4) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who is Nardo Wick?](https://open.spotify.com/album/5rr453Bj1rQuZMwp13I4sz) | 4:39 |
-| 40 | [STREET SWEEPER \(feat\. Future\)](https://open.spotify.com/track/6FccIKUJRJefzuUQmWWn56) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 3:12 |
-| 41 | [ADDYS \(feat\. Nechie\)](https://open.spotify.com/track/4zLPScUJbOSqLdU650FV2W) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Nechie](https://open.spotify.com/artist/0DO5d7KMv6Gn1mIbDhlyUf) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 2:59 |
-| 42 | [SKYBOX](https://open.spotify.com/track/1b9Gr8TaCLNaNGs0CThOq1) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 2:58 |
-| 43 | [ROCKSTAR BIKERS & CHAINS](https://open.spotify.com/track/29I6SeVUhXghf2pCQkh5Q4) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 2:09 |
+| 40 | [STREET SWEEPER \(feat\. Future\)](https://open.spotify.com/track/6FccIKUJRJefzuUQmWWn56) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WUNNA \- Deluxe](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 3:12 |
+| 41 | [ADDYS \(feat\. Nechie\)](https://open.spotify.com/track/4zLPScUJbOSqLdU650FV2W) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Nechie](https://open.spotify.com/artist/0DO5d7KMv6Gn1mIbDhlyUf) | [WUNNA \- Deluxe](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 2:59 |
+| 42 | [SKYBOX](https://open.spotify.com/track/1b9Gr8TaCLNaNGs0CThOq1) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \- Deluxe](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 2:58 |
+| 43 | [ROCKSTAR BIKERS & CHAINS](https://open.spotify.com/track/29I6SeVUhXghf2pCQkh5Q4) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \- Deluxe](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 2:09 |
 | 44 | [Hot \(feat\. Gunna\)](https://open.spotify.com/track/5PIWsuoBRvyxw4Ex1xNh4P) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/5AivpkHClIpmRxheNz1TzN) | 3:13 |
 | 45 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/6LG2kCL9HLP0gEfv2slGuC) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/1qXoQyLW6uBNVLsC4jleZC) | 3:23 |
 | 46 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 348603,
+  "num_followers": 349273,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAAAw5VQUNhjNTYRN5GYkFaxn",
+  "snapshot_id": "ZrqiAAAAAAAa+Mj5ZYpwHzQdlHcY+qel",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonsense (Sped Up Version)",
-        "url": "https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k"
+        "name": "Why",
+        "url": "https://open.spotify.com/album/55QjSqhCofvsx559gCIMI7"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 137514,
-      "name": "Nonsense - Sped Up Version",
-      "url": "https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR"
+      "duration_ms": 171096,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/1byScELwcJffsdL5QWa6Yk"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/55QjSqhCofvsx559gCIMI7"
+        "name": "Nonsense (Sped Up Version)",
+        "url": "https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 171096,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/1byScELwcJffsdL5QWa6Yk"
+      "duration_ms": 137514,
+      "name": "Nonsense - Sped Up Version",
+      "url": "https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR"
     },
     {
       "added_at": null,

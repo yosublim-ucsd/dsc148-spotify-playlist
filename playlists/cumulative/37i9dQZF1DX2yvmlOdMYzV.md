@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-777 songs - 1 day 18 hr 22 min
+778 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [dreaming](https://open.spotify.com/track/6mjCfixEcMad2k7OiMLhMJ) | [Mar](https://open.spotify.com/artist/6e2Hf0OeWo1XAK5Sg70oBQ) | [life is a chord progression](https://open.spotify.com/album/7CZmImneBX6du6FXPt143z) | 3:02 | 2021-12-15 | 2022-07-29 |
 | [drift](https://open.spotify.com/track/5FWmsWC8TyoupXKAPq9nll) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [drift](https://open.spotify.com/album/4HW40GFEiWYuLcJJsglKYF) | 1:58 | 2024-04-05 |  |
 | [Drifty](https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Demos](https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp) | 3:57 | 2021-12-15 | 2023-02-13 |
-| [Dripping](https://open.spotify.com/track/3Gjx7TOIYZkO9X8HoikLgy) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Sky Without Stars](https://open.spotify.com/album/3QIrrLWq2wnMdScMx1YXeS) | 3:56 | 2023-09-22 |  |
+| [Dripping](https://open.spotify.com/track/3Gjx7TOIYZkO9X8HoikLgy) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Sky Without Stars](https://open.spotify.com/album/3QIrrLWq2wnMdScMx1YXeS) | 3:56 | 2023-09-22 | 2024-08-15 |
 | [Drream](https://open.spotify.com/track/0Sfjn8R8lvJwB4xjPAA2MU) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR) | [Drream](https://open.spotify.com/album/3LTsCYKj2YIWrlq5GiZ2dy) | 3:10 | 2023-08-25 | 2024-06-16 |
 | [Drunk AF](https://open.spotify.com/track/1syXzcic9jT7Vqq0i17pLt) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [They Cloned Tyrone \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/7DQGbVYleJAOwg9ETfeBZA) | 2:34 | 2023-07-28 | 2023-08-03 |
 | [Drunk AF](https://open.spotify.com/track/4YMByiGyuFyc7nfwGKvDvA) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [They Cloned Tyrone \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/7mr0vhCKqriCbhPXlY1z1v) | 2:34 | 2023-07-28 | 2023-08-26 |
@@ -278,6 +278,7 @@
 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 | 2023-03-31 | 2023-08-26 |
 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 | 2024-03-29 |  |
 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 | 2024-04-05 |  |
+| [High Up](https://open.spotify.com/track/2KmeUx0icTRa0Y3RywknuL) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC), [Meduulla](https://open.spotify.com/artist/4lqGh1wTFGSdZYm3G07fwW) | [High Up](https://open.spotify.com/album/5ZtxgAIPluVagpMb73UIDF) | 3:07 | 2024-07-26 |  |
 | [Higher Self](https://open.spotify.com/track/2KcaOSZlR03H41Nhmg2QyH) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Higher Self](https://open.spotify.com/album/1MQEYp0fugw64pyAodgnxe) | 4:01 | 2023-10-20 | 2024-07-09 |
 | [Hip Dips](https://open.spotify.com/track/2DRBmze6Xcwi5VZt8XBNZh) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 1:26 | 2023-05-19 | 2024-01-28 |
 | [Hold Me \(feat\. PawPaw Rod & Knucks\)](https://open.spotify.com/track/3IIK2PF857uUCC8rLUEkwv) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:30 | 2024-04-26 |  |

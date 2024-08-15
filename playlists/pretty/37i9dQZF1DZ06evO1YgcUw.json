@@ -1,12 +1,12 @@
 {
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
-  "num_followers": 316302,
+  "num_followers": 316331,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAAAtPE0e7adA2zCwMHYtsx6D",
+  "snapshot_id": "ZrqiAAAAAABLrPaCnJMT8xzAygW+exXL",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of The Beach Boys: Sounds Of Summer (Expanded Edition Super Deluxe)",
-        "url": "https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Surfin' U.S.A. - 2021 Stereo Mix",
-      "url": "https://open.spotify.com/track/5r84UnwABy2ZcG0BbYUS60"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 131520,
       "name": "Be True To Your School - Remastered",
       "url": "https://open.spotify.com/track/0Tc7E6YsVc87M2op6fmFwI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of The Beach Boys: Sounds Of Summer (Expanded Edition Super Deluxe)",
+        "url": "https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Surfin' U.S.A. - 2021 Stereo Mix",
+      "url": "https://open.spotify.com/track/5r84UnwABy2ZcG0BbYUS60"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summer Days (And Summer Nights) [Remastered]",
-        "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 136106,
-      "name": "You're So Good To Me - Remastered 2001",
-      "url": "https://open.spotify.com/track/67HRoUJMVorQPymcqdkJVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 149013,
       "name": "Rock And Roll Music - Remastered 2012",
       "url": "https://open.spotify.com/track/0nmfRjxDxOhs2CggxvGPHS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summer Days (And Summer Nights) [Remastered]",
+        "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 136106,
+      "name": "You're So Good To Me - Remastered 2001",
+      "url": "https://open.spotify.com/track/67HRoUJMVorQPymcqdkJVA"
     },
     {
       "added_at": null,

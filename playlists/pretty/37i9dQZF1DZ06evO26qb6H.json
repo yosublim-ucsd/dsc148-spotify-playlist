@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3119,
+  "num_followers": 3118,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrlQgAAAAACJC1UR38Pq0DlgNLGaoSMV",
+  "snapshot_id": "ZrqiAAAAAABT1paepjxXFwC+j3V5T1CU",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,33 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 143960,
-      "name": "Stuck in Between",
-      "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
+      "duration_ms": 181626,
+      "name": "DOCTORS",
+      "url": "https://open.spotify.com/track/4skjbY4ZWLhgMrEq6FNsFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
+        "url": "https://open.spotify.com/album/1l8cso9L0nNR3GuiB5mKve"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 171888,
+      "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
+      "url": "https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os"
     },
     {
       "added_at": null,
@@ -99,30 +123,6 @@
       "duration_ms": 157557,
       "name": "Do Not Disturb (feat. Lil Yachty & Offset)",
       "url": "https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
-        "url": "https://open.spotify.com/album/1l8cso9L0nNR3GuiB5mKve"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 171888,
-      "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
-      "url": "https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os"
     },
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 181626,
-      "name": "DOCTORS",
-      "url": "https://open.spotify.com/track/4skjbY4ZWLhgMrEq6FNsFN"
+      "duration_ms": 143960,
+      "name": "Stuck in Between",
+      "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
     },
     {
       "added_at": null,
@@ -527,30 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Offline III",
-        "url": "https://open.spotify.com/album/2cEJL06Jf94WFiGKmVJoTy"
-      },
-      "artists": [
-        {
-          "name": "Chrystian Lehr",
-          "url": "https://open.spotify.com/artist/4kFWTKFddUzdFcWTDD2ikE"
-        },
-        {
-          "name": "O.T. Genasis",
-          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 145210,
-      "name": "Habit (feat. O.T. Genasis & Murda Beatz)",
-      "url": "https://open.spotify.com/track/26Ft7fvwTz6EG3TXIjUDEo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beef",
         "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 181306,
       "name": "Beef",
       "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Offline III",
+        "url": "https://open.spotify.com/album/2cEJL06Jf94WFiGKmVJoTy"
+      },
+      "artists": [
+        {
+          "name": "Chrystian Lehr",
+          "url": "https://open.spotify.com/artist/4kFWTKFddUzdFcWTDD2ikE"
+        },
+        {
+          "name": "O.T. Genasis",
+          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 145210,
+      "name": "Habit (feat. O.T. Genasis & Murda Beatz)",
+      "url": "https://open.spotify.com/track/26Ft7fvwTz6EG3TXIjUDEo"
     },
     {
       "added_at": null,
@@ -787,46 +787,6 @@
       "duration_ms": 204804,
       "name": "1Night (feat. PARTYNEXTDOOR, 21 Savage & Murda Beatz)",
       "url": "https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/4hoY7EvJ5DFDNGlN2eG2MN"
-      },
-      "artists": [
-        {
-          "name": "Duvy",
-          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 136306,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5ZuP7gjwZlBcGsxcSOtpfa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bless Yo Trap",
-        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
-      },
-      "artists": [
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Pockets",
-      "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
     }
   ],
   "unique_name": "This Is Murda Beatz",

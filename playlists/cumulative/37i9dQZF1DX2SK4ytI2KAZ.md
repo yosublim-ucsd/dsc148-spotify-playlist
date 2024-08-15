@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-604 songs - 1 day 9 hr 11 min
+605 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [DEAR MISS HOLLOWAY](https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [DEAR MISS HOLLOWAY](https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU) | 3:29 | 2022-06-27 | 2023-03-29 |
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-05-27 | 2022-07-30 |
 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 | 2021-03-10 | 2024-02-17 |
+| [desire](https://open.spotify.com/track/59IZjbjihzu5wbWKQa3tKS) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [desire](https://open.spotify.com/album/0ILal2Iymn3PsxiQoDpo1C) | 2:31 | 2024-08-14 |  |
 | [Devils Haircut](https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 3:15 | 2023-09-15 |  |
 | [Did I Make You Up?](https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Did I Make You Up?](https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc) | 2:29 | 2022-11-17 | 2023-06-01 |
 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-06-27 | 2023-03-25 |
@@ -332,7 +333,7 @@
 | [melancholyism.](https://open.spotify.com/track/03ejfFAbwrrANbH4fZzF0W) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [melancholyism.](https://open.spotify.com/album/1Umawe3NueijnMkEGiQwZV) | 3:08 | 2021-03-10 | 2022-07-29 |
 | [melancholyism.](https://open.spotify.com/track/60w2EqVhEnedIgZLtIONnU) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [don't you wanna be glad?](https://open.spotify.com/album/272SGdcepKg8hv0LlOBT3U) | 3:08 | 2022-06-27 | 2023-03-25 |
 | [Melt](https://open.spotify.com/track/4Axn3CdPeSAciEvCa2p7Xs) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1) | [Melt](https://open.spotify.com/album/2SnSHHqNCdsZQjw0X7XgLt) | 2:55 | 2021-03-10 | 2022-05-03 |
-| [Memory](https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 3:17 | 2024-05-05 |  |
+| [Memory](https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 3:17 | 2024-05-05 | 2024-08-15 |
 | [Mine](https://open.spotify.com/track/3UAjMpjuJMpOeQBSbEPOld) | [Finom](https://open.spotify.com/artist/1lGRK7KK1IuflIyNSE9R3M) | [Mine](https://open.spotify.com/album/14B9stWZTTHUUT3kofBc90) | 3:15 | 2023-09-15 | 2023-10-14 |
 | [Miracle](https://open.spotify.com/track/4NTerkM5Eqn2rRwFMESuzD) | [Hirsch](https://open.spotify.com/artist/5L0UU9wI651RERYSEddxsa) | [Denihilism](https://open.spotify.com/album/2Y3mY1DhPSEiYGz7mYrGCz) | 3:25 | 2021-03-12 | 2022-07-28 |
 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 | 2022-03-11 | 2022-04-21 |

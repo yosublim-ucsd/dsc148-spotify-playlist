@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2014.",
-  "num_followers": 124444,
+  "num_followers": 124526,
   "original_name": "Dance Hits of 2014",
   "owner": {
     "name": "Spotify",
@@ -139,7 +139,7 @@
     {
       "added_at": "2021-04-30 05:40:01",
       "album": {
-        "name": "My Everything (Deluxe)",
+        "name": "My Everything - Deluxe",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
@@ -815,26 +815,18 @@
     {
       "added_at": "2021-04-30 05:40:01",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
+        "name": "Worlds",
+        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
       },
       "artists": [
         {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        },
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
         }
       ],
-      "duration_ms": 247146,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/5C4NMi4fPpdFPnMZVsyG8H"
+      "duration_ms": 350690,
+      "name": "Sad Machine",
+      "url": "https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH"
     },
     {
       "added_at": "2021-04-30 05:40:01",
@@ -859,18 +851,26 @@
     {
       "added_at": "2021-04-30 05:40:01",
       "album": {
-        "name": "Worlds",
-        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
       },
       "artists": [
         {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
         }
       ],
-      "duration_ms": 350690,
-      "name": "Sad Machine",
-      "url": "https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH"
+      "duration_ms": 247146,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/5C4NMi4fPpdFPnMZVsyG8H"
     },
     {
       "added_at": "2021-04-30 05:40:01",

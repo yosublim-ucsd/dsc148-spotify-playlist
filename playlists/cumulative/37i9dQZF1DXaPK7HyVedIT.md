@@ -2,7 +2,7 @@
 
 ### [Dance Paradise](https://open.spotify.com/playlist/37i9dQZF1DXaPK7HyVedIT)
 
-> Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz, Rooftime
+> Eletrônico do momento para curtir onde estiver\. Foto: JORD
 
 402 songs - 22 hr 4 min
 
@@ -149,7 +149,7 @@
 | [Ghost of You \- Royale BR Remix](https://open.spotify.com/track/2wmvkVrSdEMs0qjLOrUR6x) | [Krmoni](https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz), [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs) | [Ghost of You \(Royale BR Remix\)](https://open.spotify.com/album/4dflvWfPGgf4Dh3EslCRPD) | 3:08 | 2024-02-09 | 2024-02-24 |
 | [Giving Up](https://open.spotify.com/track/6xDQ9iGsPvCRvRLvXsBuxx) | [EDGR](https://open.spotify.com/artist/0WMuIwO9iaJZagSAdO5wuV), [Lucas Aoki](https://open.spotify.com/artist/1pRgPGhVhp7imQlJ1QYNGl) | [Giving Up](https://open.spotify.com/album/63biSnB8ly2hFQXlQw158c) | 3:35 | 2024-07-12 |  |
 | [Go Back \(feat\. AGGE\)](https://open.spotify.com/track/4jWfLtPxJZroRYfb7dXttK) | [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8), [AGGE](https://open.spotify.com/artist/6lToVu9We2bx2cbmc0qtg9) | [Go Back \(feat\. AGGE\)](https://open.spotify.com/album/66YkNXT0BS3m32UfzoXXkk) | 3:40 | 2024-07-12 |  |
-| [Golden Summer](https://open.spotify.com/track/6V3rAi5WlFaEF7GkqrSK1w) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Golden Summer](https://open.spotify.com/album/2M101QeUMxmUS6xvgRy8k9) | 2:45 | 2024-08-09 |  |
+| [Golden Summer](https://open.spotify.com/track/6V3rAi5WlFaEF7GkqrSK1w) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Golden Summer](https://open.spotify.com/album/2M101QeUMxmUS6xvgRy8k9) | 2:45 | 2024-08-09 | 2024-08-15 |
 | [Good Times](https://open.spotify.com/track/5onEEf02y74La3YKychBPy) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Good Times](https://open.spotify.com/album/1dFJbWmnfP9cZtk98aKBCb) | 6:11 | 2024-06-21 |  |
 | [Gotta Know](https://open.spotify.com/track/2gwQYJuB0J6EAxyixjEwaS) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Gotta Know](https://open.spotify.com/album/7yLsleNnqM3ZoIO7v92o4k) | 2:47 | 2023-07-21 | 2023-09-23 |
 | [Greatest Treasure](https://open.spotify.com/track/41UxmLmDVcy8F611JOz5ky) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Swank!](https://open.spotify.com/artist/7FzrPr3R6xIyrKiWmRN7nR) | [Greatest Treasure](https://open.spotify.com/album/5mfryTcly790YaawqhCsFj) | 3:52 | 2023-07-21 | 2023-07-29 |

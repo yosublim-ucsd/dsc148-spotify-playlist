@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 29946,
+  "num_followers": 29956,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Other Directions (Remastered and Unreleased Tracks)",
+        "url": "https://open.spotify.com/album/5cKcN1R8UBM5AHySPWAdCQ"
+      },
+      "artists": [
+        {
+          "name": "Nicola Conte",
+          "url": "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Sea and Sand",
+      "url": "https://open.spotify.com/track/6SywHlqpazHVFfzw1rAnVz"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Afrobeat Makers, Vol. 3 (The Tony Allen Experiments)",
         "url": "https://open.spotify.com/album/1GjbremREcqamlsdqM3gEI"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 241318,
       "name": "Howls",
       "url": "https://open.spotify.com/track/0h51tz4qtVPvygXm291ceN"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Other Directions (Remastered and Unreleased Tracks)",
-        "url": "https://open.spotify.com/album/5cKcN1R8UBM5AHySPWAdCQ"
-      },
-      "artists": [
-        {
-          "name": "Nicola Conte",
-          "url": "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Sea and Sand",
-      "url": "https://open.spotify.com/track/6SywHlqpazHVFfzw1rAnVz"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "L'indispensabile",
+        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
+      },
+      "artists": [
+        {
+          "name": "Vinicio Capossela",
+          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
+        }
+      ],
+      "duration_ms": 407760,
+      "name": "Ultimo amore",
+      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Shades of Chet",
         "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 457360,
       "name": "You can't go home again",
       "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "L'indispensabile",
-        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
-      },
-      "artists": [
-        {
-          "name": "Vinicio Capossela",
-          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
-        }
-      ],
-      "duration_ms": 407760,
-      "name": "Ultimo amore",
-      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "L'AMANTE BUGIARDO",
-        "url": "https://open.spotify.com/album/0RPLTYJMUU6fMKpwRKnzmv"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Uri Caine",
-          "url": "https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "L'AMANTE BUGIARDO",
-      "url": "https://open.spotify.com/track/5Ek1lMjwxJ24Bb1vBAbPqD"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1291,18 +1271,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+        "name": "L'AMANTE BUGIARDO",
+        "url": "https://open.spotify.com/album/0RPLTYJMUU6fMKpwRKnzmv"
       },
       "artists": [
         {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Uri Caine",
+          "url": "https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA"
         }
       ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+      "duration_ms": 256560,
+      "name": "L'AMANTE BUGIARDO",
+      "url": "https://open.spotify.com/track/5Ek1lMjwxJ24Bb1vBAbPqD"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 299787,
       "name": "Habibi Baby",
       "url": "https://open.spotify.com/track/0pCfYzmqBqZN9uRoVfErBF"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+      },
+      "artists": [
+        {
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+        }
+      ],
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Impulsi",
-        "url": "https://open.spotify.com/album/5Yimn2Kv6tcODUaPOsNy6t"
-      },
-      "artists": [
-        {
-          "name": "Sofia Trio",
-          "url": "https://open.spotify.com/artist/0oG6YXfxoK5hrNtD4ee7Mg"
-        }
-      ],
-      "duration_ms": 326817,
-      "name": "Javier",
-      "url": "https://open.spotify.com/track/7lETJyf7RkzZxANVgSdcIZ"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Franco Cerri Jazz",
         "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 79041,
       "name": "Generazia",
       "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+      },
+      "artists": [
+        {
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+        }
+      ],
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "For Those I Never Knew",
-        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+        "name": "Impulsi",
+        "url": "https://open.spotify.com/album/5Yimn2Kv6tcODUaPOsNy6t"
       },
       "artists": [
         {
-          "name": "Luca Flores",
-          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+          "name": "Sofia Trio",
+          "url": "https://open.spotify.com/artist/0oG6YXfxoK5hrNtD4ee7Mg"
         }
       ],
-      "duration_ms": 269139,
-      "name": "How Far Can You Fly? (Ladder) - Original Version",
-      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
+      "duration_ms": 326817,
+      "name": "Javier",
+      "url": "https://open.spotify.com/track/7lETJyf7RkzZxANVgSdcIZ"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "The Tales Of Doctor 3",
-        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
-      },
-      "artists": [
-        {
-          "name": "Doctor 3",
-          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
-        }
-      ],
-      "duration_ms": 422573,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Julia de Palma In Concert",
         "url": "https://open.spotify.com/album/3Jwv7FkYyegDB5Pl6V8pQL"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 283977,
       "name": "Bugiardo, incosciente",
       "url": "https://open.spotify.com/track/3DXgG3Nncn1x9qrpZHZl0V"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "The Tales Of Doctor 3",
+        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
+      },
+      "artists": [
+        {
+          "name": "Doctor 3",
+          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
+        }
+      ],
+      "duration_ms": 422573,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "First Name: Oona",
+        "url": "https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ"
+      },
+      "artists": [
+        {
+          "name": "Oona Rea",
+          "url": "https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb"
+        }
+      ],
+      "duration_ms": 138653,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Pinocchio e altri racconti",
         "url": "https://open.spotify.com/album/7cXmGBHyTP2o8BaqWIktSu"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 388693,
       "name": "Lucignolo",
       "url": "https://open.spotify.com/track/0awnjSleN0JiwdTw31ffK9"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "First Name: Oona",
-        "url": "https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ"
-      },
-      "artists": [
-        {
-          "name": "Oona Rea",
-          "url": "https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb"
-        }
-      ],
-      "duration_ms": 138653,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1935,26 +1935,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Facing North",
-        "url": "https://open.spotify.com/album/7BG1DgkjLbJR5QQ2FBgswN"
+        "name": "Nauplia",
+        "url": "https://open.spotify.com/album/0kOi2BR2cvfhtqBi7e7CqR"
       },
       "artists": [
         {
-          "name": "Claudio Filippini",
-          "url": "https://open.spotify.com/artist/26vqH4OquRRTf6lnRe4gbX"
+          "name": "Maria Pia De Vito",
+          "url": "https://open.spotify.com/artist/2WdJBOMuv70FribaCLT5vE"
         },
         {
-          "name": "Palle Danielsson",
-          "url": "https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ"
-        },
-        {
-          "name": "Olavi Louhivuori",
-          "url": "https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT"
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
         }
       ],
-      "duration_ms": 293866,
-      "name": "Nothing To Lose",
-      "url": "https://open.spotify.com/track/4dloclI8tlsFDjUTTSYuXY"
+      "duration_ms": 248240,
+      "name": "Come un ritratto",
+      "url": "https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts"
     }
   ],
   "unique_name": "Jazz Italia",

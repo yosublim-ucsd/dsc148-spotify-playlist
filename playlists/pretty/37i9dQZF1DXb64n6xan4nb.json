@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 30912,
+  "num_followers": 30911,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
-      },
-      "artists": [
-        {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 213707,
       "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1179,26 +1179,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "ASTROMANTIC",
-        "url": "https://open.spotify.com/album/0EeOUSpx4sHDdDJkGRT5Qm"
+        "name": "2nd",
+        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
       },
       "artists": [
         {
-          "name": "m-flo loves melody. & \u5c71\u672c\u9818\u5e73",
-          "url": "https://open.spotify.com/artist/25wuh8MLTzDAvOSODdOcKL"
-        },
-        {
-          "name": "melody.",
-          "url": "https://open.spotify.com/artist/6BZBjaVlILy9In8IdZdQt8"
-        },
-        {
-          "name": "Ryohei Yamamoto",
-          "url": "https://open.spotify.com/artist/6Ns2D6pApdQrTDnzW1nfUn"
+          "name": "J.ae",
+          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
         }
       ],
-      "duration_ms": 350960,
-      "name": "miss you",
-      "url": "https://open.spotify.com/track/5vYzF4Lh3wwUAsugpFYLYQ"
+      "duration_ms": 249106,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1219,18 +1211,26 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "2nd",
-        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
+        "name": "ASTROMANTIC",
+        "url": "https://open.spotify.com/album/0EeOUSpx4sHDdDJkGRT5Qm"
       },
       "artists": [
         {
-          "name": "J.ae",
-          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
+          "name": "m-flo loves melody. & \u5c71\u672c\u9818\u5e73",
+          "url": "https://open.spotify.com/artist/25wuh8MLTzDAvOSODdOcKL"
+        },
+        {
+          "name": "melody.",
+          "url": "https://open.spotify.com/artist/6BZBjaVlILy9In8IdZdQt8"
+        },
+        {
+          "name": "Ryohei Yamamoto",
+          "url": "https://open.spotify.com/artist/6Ns2D6pApdQrTDnzW1nfUn"
         }
       ],
-      "duration_ms": 249106,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
+      "duration_ms": 350960,
+      "name": "miss you",
+      "url": "https://open.spotify.com/track/5vYzF4Lh3wwUAsugpFYLYQ"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "izi 1\uc9d1",
-        "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf"
-        }
-      ],
-      "duration_ms": 238825,
-      "name": "\uc751\uae09\uc2e4",
-      "url": "https://open.spotify.com/track/2JPmkr5otXP3G5LMK497c9"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "#007 Another Days\u2026",
         "url": "https://open.spotify.com/album/0QMnDxAi0gDANQrGJMuxeq"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 278946,
       "name": "I'm sorry",
       "url": "https://open.spotify.com/track/1QR3xt4FeHEqESaZylDAoY"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "izi 1\uc9d1",
+        "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf"
+        }
+      ],
+      "duration_ms": 238825,
+      "name": "\uc751\uae09\uc2e4",
+      "url": "https://open.spotify.com/track/2JPmkr5otXP3G5LMK497c9"
     },
     {
       "added_at": "2022-06-13 13:22:46",

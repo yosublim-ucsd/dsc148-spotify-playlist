@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This Is Mr. Big. Los temas esenciales, todos en una lista.",
+  "description": "This is Mr. Big. The essential tracks, all in one playlist.",
   "name": "This Is Mr. Big",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 251900,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/17AdKvkNwCHuSPmTn6l4aA"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 175840,
       "name": "Damn I'm In Love Again",
       "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
@@ -362,6 +362,24 @@
       "duration_ms": 245771,
       "name": "Good Luck Trying",
       "url": "https://open.spotify.com/track/4JoPj8nwOmUR3Ih1gSNE25"
+    },
+    {
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245771,
+      "name": "Good Luck Trying",
+      "url": "https://open.spotify.com/track/7tB9vlz01OoHthwGM4e3Eq"
     },
     {
       "album": {
@@ -520,7 +538,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 292026,
       "name": "Lost In America",
       "url": "https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr"

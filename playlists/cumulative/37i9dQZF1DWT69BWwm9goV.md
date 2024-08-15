@@ -2,14 +2,16 @@
 
 ### [OUTSIDE](https://open.spotify.com/playlist/37i9dQZF1DWT69BWwm9goV)
 
-> A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Omar Apollo
+> A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Suki Waterhouse
 
-29 songs - 1 hr 23 min
+32 songs - 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 | 2024-04-02 |  |
 | [Bands \(feat\. OhGeesy, Fenix Flexin & Master Kato\)](https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Rob Vicious](https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Master Kato](https://open.spotify.com/artist/6pb2Dl1FHK081UKW6aUqgF) | [Shoreline Mafia Presents Rob Vicious: Traplantic](https://open.spotify.com/album/2rSKi2QJ6v22f464Uq3ose) | 2:54 | 2024-04-02 |  |
+| [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-14 |  |
+| [Blackout Drunk \(Spotify OUTSIDE Version\) \- Live from Ojai, CA](https://open.spotify.com/track/4UNPiA1Fy8LCCXDjv1z4QG) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [SPOTIFY OUTSIDE](https://open.spotify.com/album/3hXNqpeNR603puVaRFMLfI) | 2:45 | 2024-08-14 |  |
 | [Burn \(Spotify OUTSIDE Version\) \- Live from Nashville](https://open.spotify.com/track/7sbC0OC0HQZRzRkzdwi2pe) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [OUTSIDE](https://open.spotify.com/album/5QCncBR19XVNeTeIyGJijz) | 3:25 | 2024-04-02 |  |
 | [Camelot](https://open.spotify.com/track/44sYqNBttbXNxya33FJ3Dj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 2:28 | 2024-04-02 |  |
 | [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 | 2024-06-26 |  |
@@ -33,6 +35,7 @@
 | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/track/3QlLPR0FihjO5CGGfsaxoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/album/4BXnoSeA4uOTWm29ZXDLZu) | 3:23 | 2024-05-31 |  |
 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 | 2024-04-02 |  |
 | [SLUT ME OUT \- Live From Spotify Green Screen](https://open.spotify.com/track/5Uu6DwDs2C7pIlSaLL90CA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT \(Live From Spotify Green Screen\)](https://open.spotify.com/album/04vFQKejywyFsm8Imdddv1) | 2:02 | 2024-04-02 |  |
+| [Spite](https://open.spotify.com/track/1yMkrQypE7sGZrd2ZlSmRA) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn) | 2:39 | 2024-08-14 |  |
 | [Still Got It \- Live from Spotify Green Screen](https://open.spotify.com/track/0Lo1FAFOyXXX1ptjez0Odn) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Still Got It \(Live from Spotify Green Screen\)](https://open.spotify.com/album/3xPu6oQFNfcC3e3Bcj2viF) | 2:47 | 2024-04-02 |  |
 | [Still In Shocc \(Spotify OUTSIDE Version\) \- Live from Watts, CA](https://open.spotify.com/track/0zivr0gI6MPlcy2apSKMA7) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [SPOTIFY OUTSIDE](https://open.spotify.com/album/0RG860dF0cxd5ODJOYJlOX) | 2:35 | 2024-04-02 |  |
 | [Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [The Wolf of Grape Street](https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml) | 3:39 | 2024-04-02 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 58387,
+  "num_followers": 58463,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "4 ON DA FLOOR",
-        "url": "https://open.spotify.com/album/2KrfHNsJL9pcWUxaAqzoZu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "Viper",
-      "url": "https://open.spotify.com/track/3SYkywr2DJIjcw1MTwKB0n"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Bullerengue",
         "url": "https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 195121,
       "name": "Bullerengue",
       "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "4 ON DA FLOOR",
+        "url": "https://open.spotify.com/album/2KrfHNsJL9pcWUxaAqzoZu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Viper",
+      "url": "https://open.spotify.com/track/3SYkywr2DJIjcw1MTwKB0n"
     },
     {
       "added_at": "2024-08-09 04:00:00",

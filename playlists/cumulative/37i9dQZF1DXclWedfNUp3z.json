@@ -4119,6 +4119,28 @@
     },
     {
       "album": {
+        "name": "Meta",
+        "url": "https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc"
+      },
+      "artists": [
+        {
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        },
+        {
+          "name": "Mykola Lebed",
+          "url": "https://open.spotify.com/artist/73OfnS2YlWCMKgwtWPlBMA"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "Meta V",
+      "url": "https://open.spotify.com/track/1hO2aMpprNNIcLjvVx18es"
+    },
+    {
+      "album": {
         "name": "Switched-On",
         "url": "https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi"
       },
@@ -4598,7 +4620,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 279000,
       "name": "Nutrition - Single Edit",
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
@@ -5428,6 +5450,24 @@
       "duration_ms": 269619,
       "name": "Reverie for Fragile Houseplants",
       "url": "https://open.spotify.com/track/2wA6lj5uEjfVVDflH5t3Ud"
+    },
+    {
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Rhythm-O-Green",
+      "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
     },
     {
       "album": {
@@ -6492,7 +6532,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 104560,
       "name": "Sunflower, Raise Your Heavy Head and Face the Sun!",
       "url": "https://open.spotify.com/track/2mXwSbqPRfmiG2KcM81Y1j"
@@ -6959,6 +6999,28 @@
     },
     {
       "album": {
+        "name": "Nostalgia Por Mesoz\u00f3ica",
+        "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
+      },
+      "artists": [
+        {
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        },
+        {
+          "name": "Arthur Mine",
+          "url": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Troglodytes",
+      "url": "https://open.spotify.com/track/3VbiLxS654IIzKlczvH8MR"
+    },
+    {
+      "album": {
         "name": "Greenhouse",
         "url": "https://open.spotify.com/album/3lE6biKXqjrFOKqRmFDZJS"
       },
@@ -7400,7 +7462,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-15",
       "duration_ms": 1173500,
       "name": "We Lay Down in a Field of Orange Flowers and We Listened to the Birds",
       "url": "https://open.spotify.com/track/25np9YI8L2IWtcxDoTFgoG"

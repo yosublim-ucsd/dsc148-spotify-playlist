@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-358 songs - 21 hr 2 min
+360 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [For The Summer, Or Forever](https://open.spotify.com/track/61NedbqrI3b0o8piJjQZu0) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb) | [For The Summer, Or Forever](https://open.spotify.com/album/4fZV90dhfZIM0370Dw999y) | 4:01 | 2021-10-16 | 2024-04-19 |
 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 | 2021-10-16 |  |
 | [Forevertime Journeys](https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW) | [naran ratan](https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj) | [Trees etc.](https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI) | 1:33 | 2021-10-16 |  |
-| [forged by the water](https://open.spotify.com/track/3PaPtDDaqFKphKZNupca3K) | [Borealism](https://open.spotify.com/artist/6FsyvM4nmEVkHPWR79ymC7) | [DVALE](https://open.spotify.com/album/648NzHsmlleh5hig97kc25) | 2:49 | 2021-10-16 |  |
+| [forged by the water](https://open.spotify.com/track/3PaPtDDaqFKphKZNupca3K) | [Borealism](https://open.spotify.com/artist/6FsyvM4nmEVkHPWR79ymC7) | [DVALE](https://open.spotify.com/album/648NzHsmlleh5hig97kc25) | 2:49 | 2021-10-16 | 2024-08-15 |
 | [Four Glass Steps](https://open.spotify.com/track/34Jlc2jWDf7CogIa8driCU) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Four Glass Steps](https://open.spotify.com/album/3mfGzMbRtYHYt2eU9BblDX) | 4:14 | 2021-10-16 | 2022-07-27 |
 | [Gale Still Blowing](https://open.spotify.com/track/4sMQ7GTYDKqfcI8CpqXDVe) | [Early Fern](https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE) | [Perpetual Care](https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY) | 4:57 | 2023-03-29 |  |
 | [garra de leon](https://open.spotify.com/track/4gfdPZgxnRawkEpTDthXOX) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [garra de leon](https://open.spotify.com/album/7CclyjtDDQtLblH4Wxadbw) | 2:49 | 2023-05-24 | 2023-11-22 |
@@ -204,6 +204,7 @@
 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 | 2021-10-16 |  |
 | [memorial park](https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha) | 2:31 | 2021-10-16 | 2022-07-28 |
 | [memorial park](https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1) | 2:31 | 2021-10-16 | 2024-02-15 |
+| [Meta V](https://open.spotify.com/track/1hO2aMpprNNIcLjvVx18es) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig), [Mykola Lebed](https://open.spotify.com/artist/73OfnS2YlWCMKgwtWPlBMA) | [Meta](https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc) | 5:48 | 2024-08-14 |  |
 | [Mexico Edit](https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Hardy Boys](https://open.spotify.com/album/58ocne0PjbMjQN4iIXCxNv) | 2:17 | 2024-07-19 |  |
 | [Migrations](https://open.spotify.com/track/4oiwHTTaiLERMEEhHwqnq2) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T), [Marcus Fischer](https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9) | [Lowlands](https://open.spotify.com/album/5bd2paC7EFKOS6YJv4se2e) | 3:16 | 2021-10-16 | 2022-07-10 |
 | [mirage](https://open.spotify.com/track/5Sort7TKBLV8Mf5SiW85bw) | [\[zoethecat\]](https://open.spotify.com/artist/2a0He55lnQxr74EmQv8yyi) | [mirage](https://open.spotify.com/album/3X8ZJ5G96XzV3LBJpe8Qs3) | 2:02 | 2021-10-16 |  |
@@ -224,6 +225,7 @@
 | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR) | 6:53 | 2021-10-16 |  |
 | [No Reason](https://open.spotify.com/track/0UpLU5jqHxdTX07vuPkz7w) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [No Reason](https://open.spotify.com/album/3OoHHwGuSGx1ONteqz6rIY) | 2:49 | 2021-10-16 |  |
 | [Nutrition \- Single Edit](https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00) | [Tenka](https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw), [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Nutrition](https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi) | 4:39 | 2022-09-15 |  |
+| [O O O O](https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:25 | 2024-08-14 |  |
 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 | 2021-10-16 | 2024-04-19 |
 | [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 | 2022-01-07 |  |
 | [P a r a l l a x](https://open.spotify.com/track/5cWpQKs9O72HG4cYYZyiv9) | [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf) | [Parallax](https://open.spotify.com/album/40LaUfA7iILyLnjZOxnst0) | 4:16 | 2022-03-30 | 2024-07-02 |
@@ -292,7 +294,7 @@
 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 | 2021-10-16 | 2024-04-19 |
 | [Spring Siesta](https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Spring Siesta](https://open.spotify.com/album/4oR4Hey6GVUpl6GGtaaaze) | 4:01 | 2023-04-12 |  |
 | [Street Talk](https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv) | 3:49 | 2021-10-16 | 2022-07-27 |
-| [Study of a Bull](https://open.spotify.com/track/7r4YdYRQNVZMd2M37DVQhu) | [Rushab Nandha](https://open.spotify.com/artist/08JY95hQcpOet2v3lYRoaA) | [Study of a Bull](https://open.spotify.com/album/24Us6fvwBE6xFuGi7u7twU) | 4:22 | 2022-09-30 |  |
+| [Study of a Bull](https://open.spotify.com/track/7r4YdYRQNVZMd2M37DVQhu) | [Rushab Nandha](https://open.spotify.com/artist/08JY95hQcpOet2v3lYRoaA) | [Study of a Bull](https://open.spotify.com/album/24Us6fvwBE6xFuGi7u7twU) | 4:22 | 2022-09-30 | 2024-08-15 |
 | [submerge](https://open.spotify.com/track/0jzQF9trHn9PvZcJvuXKDm) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [submerge](https://open.spotify.com/album/7DnxnmMo2zzENpShlvxTzk) | 1:39 | 2023-01-06 | 2023-06-16 |
 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 | 2021-10-16 |  |
 | [summer \(shade\)](https://open.spotify.com/track/05JBitld3kGDUrkeZ0hQmg) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/5PlR2KmCcUMqsMaVkYFufQ) | 2:15 | 2021-10-16 | 2024-01-31 |
