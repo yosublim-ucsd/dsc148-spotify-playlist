@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Nostalgix",
-  "num_followers": 446954,
+  "num_followers": 447026,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Lockdown",
@@ -1287,6 +1271,22 @@
       "duration_ms": 185624,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1469,26 +1469,6 @@
       "url": "https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2"
     },
     {
-      "added_at": "2024-06-24 15:40:12",
-      "album": {
-        "name": "The Power",
-        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        },
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        }
-      ],
-      "duration_ms": 197841,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Anytime",
@@ -1507,6 +1487,26 @@
       "duration_ms": 123241,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
+    },
+    {
+      "added_at": "2024-06-24 15:40:12",
+      "album": {
+        "name": "The Power",
+        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "duration_ms": 197841,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1749,22 +1749,6 @@
       "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Back Around",
-        "url": "https://open.spotify.com/album/3tjJQbcPfSKRx66koPczab"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 155774,
-      "name": "Back Around",
-      "url": "https://open.spotify.com/track/1qBHrESbnwFaTy0xzFADOx"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Chain Gang",
@@ -1779,6 +1763,22 @@
       "duration_ms": 107536,
       "name": "Chain Gang",
       "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Back Around",
+        "url": "https://open.spotify.com/album/3tjJQbcPfSKRx66koPczab"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 155774,
+      "name": "Back Around",
+      "url": "https://open.spotify.com/track/1qBHrESbnwFaTy0xzFADOx"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1853,24 +1853,28 @@
       "url": "https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "BAD",
-        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
       },
       "artists": [
         {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
         },
         {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
         }
       ],
-      "duration_ms": 173571,
-      "name": "BAD",
-      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
+      "duration_ms": 220898,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1909,28 +1913,24 @@
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "NRG",
-        "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
       },
       "artists": [
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
         },
         {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        },
-        {
-          "name": "Kota",
-          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
         }
       ],
-      "duration_ms": 220898,
-      "name": "NRG",
-      "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+      "duration_ms": 173571,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2061,22 +2061,6 @@
       "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
     },
     {
-      "added_at": "2024-06-24 15:40:12",
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Certified",
@@ -2091,6 +2075,22 @@
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
+      "added_at": "2024-06-24 15:40:12",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2165,6 +2165,22 @@
       "url": "https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz"
     },
     {
+      "added_at": "2024-06-24 15:40:12",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/1SIP2J0K5Gd0yfJ1leFkGp"
+      },
+      "artists": [
+        {
+          "name": "Megisto",
+          "url": "https://open.spotify.com/artist/7I71G5L7KmvTcTcBFUcL1h"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/3G5bdVaVsCbQB9NELmOvJ5"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Intoxicated",
@@ -2183,22 +2199,6 @@
       "duration_ms": 196190,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/31rfmss1bYtH3MxPGw6FwE"
-    },
-    {
-      "added_at": "2024-06-24 15:40:12",
-      "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/1SIP2J0K5Gd0yfJ1leFkGp"
-      },
-      "artists": [
-        {
-          "name": "Megisto",
-          "url": "https://open.spotify.com/artist/7I71G5L7KmvTcTcBFUcL1h"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/3G5bdVaVsCbQB9NELmOvJ5"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2249,6 +2249,30 @@
       "url": "https://open.spotify.com/track/1lF6fVuFGAT9EAkD0S04ql"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
+    },
+    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "I Just Wanna",
@@ -2291,26 +2315,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
+        "name": "Kiss Like This",
+        "url": "https://open.spotify.com/album/51rptGPulz1W0ZDwYtSibw"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
+      "duration_ms": 143148,
+      "name": "Kiss Like This",
+      "url": "https://open.spotify.com/track/1VGFyQ88dFZXj1LUlkXnHC"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2327,38 +2343,6 @@
       "duration_ms": 131520,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Kiss Like This",
-        "url": "https://open.spotify.com/album/51rptGPulz1W0ZDwYtSibw"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 143148,
-      "name": "Kiss Like This",
-      "url": "https://open.spotify.com/track/1VGFyQ88dFZXj1LUlkXnHC"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Don't Talk To Me",
-        "url": "https://open.spotify.com/album/0dnWVPoq8FCEjAlxNNWBX0"
-      },
-      "artists": [
-        {
-          "name": "N2N",
-          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
-        }
-      ],
-      "duration_ms": 186962,
-      "name": "Don't Talk To Me",
-      "url": "https://open.spotify.com/track/3rO0TlnVlPQviUMnUkfJ1A"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2407,6 +2391,22 @@
       "duration_ms": 156190,
       "name": "I\u2019m A Freak (feat. Kazhi)",
       "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Don't Talk To Me",
+        "url": "https://open.spotify.com/album/0dnWVPoq8FCEjAlxNNWBX0"
+      },
+      "artists": [
+        {
+          "name": "N2N",
+          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
+        }
+      ],
+      "duration_ms": 186962,
+      "name": "Don't Talk To Me",
+      "url": "https://open.spotify.com/track/3rO0TlnVlPQviUMnUkfJ1A"
     }
   ],
   "unique_name": "Nasty Bits",

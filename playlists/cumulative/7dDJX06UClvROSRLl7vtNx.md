@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-515 songs - 22 hr 32 min
+516 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Now I'm Gone](https://open.spotify.com/track/15hgvY0km8TmpJbFLe9X7k) | [Luna Blue](https://open.spotify.com/artist/1JNyuExWIvx8kH5NOlSBuA) | [Now I'm Gone](https://open.spotify.com/album/1rCZsToVVv9nP1nuHOqpMd) | 2:30 | 2024-06-07 | 2024-07-14 |
 | [Nowhere To Go](https://open.spotify.com/track/4xSQow8DRpIJZCjqyvXKDM) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [Nowhere To Go](https://open.spotify.com/album/64xMBNeyIilz6sU5GGFhwr) | 2:34 | 2024-07-13 | 2024-07-29 |
 | [Ocean Quiet](https://open.spotify.com/track/6zFCci00787rGrLkWDwog8) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Ocean Quiet](https://open.spotify.com/album/4KrSgkyrBWUG4fS3N1CgZ9) | 2:47 | 2023-09-22 |  |
+| [Oh Honey](https://open.spotify.com/track/4S4O7Fi5RPcGagt4cpYDXY) | [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD) | [Oh Honey](https://open.spotify.com/album/3EIZFxKQuFV7B6GPrBhwmj) | 2:21 | 2024-08-15 |  |
 | [Old Friends](https://open.spotify.com/track/4iJGQ9cTFCPRUbd79ZwcvK) | [Agezzi](https://open.spotify.com/artist/3MqEFVmis08ouKYDtArXy6), [Nick Palm](https://open.spotify.com/artist/4P2MPcslWikUgT6wNmHQLV), [Nalestar](https://open.spotify.com/artist/0Vk0t5vDLM69GHthqkKIea) | [Old Friends](https://open.spotify.com/album/7bgRbp7mMV6VPTtC82bVBi) | 3:02 | 2024-05-17 | 2024-07-05 |
 | [older me](https://open.spotify.com/track/2fvrsGK5vwPbJeQsGRFSBD) | [Altero](https://open.spotify.com/artist/4Yc8Z66BiZxpRDFu2xcs5D), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [older me](https://open.spotify.com/album/30RIiOK8iSFvZYzZrYYJiS) | 2:54 | 2024-06-07 | 2024-06-23 |
 | [On My Mind](https://open.spotify.com/track/4TUaU58i6tdPM6nUQsuGXg) | [INGO](https://open.spotify.com/artist/02nC5Y8T3ypxNiVetKbtWe), [VLCNO](https://open.spotify.com/artist/4hLLtXtfMsPwv2IDrHX7WV), [Rufus Palma](https://open.spotify.com/artist/44CzGf8c8HGNeTVwPERzV3) | [On My Mind](https://open.spotify.com/album/5pG10xasQCekacngUjs6uW) | 2:09 | 2024-08-07 |  |

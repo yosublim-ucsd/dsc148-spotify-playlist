@@ -1,12 +1,12 @@
 {
-  "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2028301,
+  "description": "This is Bob Marley & The Wailers. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 2028455,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAACZNKDcztwm5RZhBJRDtzcj",
+  "snapshot_id": "ZrvzgAAAAABVj91A3BbNAdirTYRskv9O",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 188026,
-      "name": "So Much Things To Say",
-      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
+      "duration_ms": 170293,
+      "name": "Bad Card",
+      "url": "https://open.spotify.com/track/2Zw5FtdFtvKWg4h44GOv3R"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 170293,
-      "name": "Bad Card",
-      "url": "https://open.spotify.com/track/2Zw5FtdFtvKWg4h44GOv3R"
+      "duration_ms": 188026,
+      "name": "So Much Things To Say",
+      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
     },
     {
       "added_at": null,

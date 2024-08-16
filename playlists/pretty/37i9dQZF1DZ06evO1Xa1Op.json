@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 20326,
+  "num_followers": 20328,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAADKfun0Y6dkzMWWNRTYSDFd",
+  "snapshot_id": "ZrvzgAAAAAAXPyw3WYjC76RV084nQZEx",
   "tracks": [
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 239866,
-      "name": "Malahani",
-      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 348760,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
+      "duration_ms": 239866,
+      "name": "Malahani",
+      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
     },
     {
       "added_at": null,

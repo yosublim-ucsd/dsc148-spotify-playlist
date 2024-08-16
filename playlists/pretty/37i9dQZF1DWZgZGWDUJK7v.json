@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: This is a Campus Romance Series(\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 91155,
+  "num_followers": 91186,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Borrow your night (Romance 101 X 10CM)",
-        "url": "https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "Borrow your night (Romance 101 X 10CM)",
-      "url": "https://open.spotify.com/track/5KVLNQ87MPlHDXR8WXXZmh"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "Wego Wego (Killer Peter X Xdinary Heroes) [Original Webtoon Soundtrack]",
         "url": "https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 188146,
       "name": "Wego Wego",
       "url": "https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "Borrow your night (Romance 101 X 10CM)",
+        "url": "https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "Borrow your night (Romance 101 X 10CM)",
+      "url": "https://open.spotify.com/track/5KVLNQ87MPlHDXR8WXXZmh"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-        "url": "https://open.spotify.com/album/6vjWWclU2DqncdQsLWS9hh"
-      },
-      "artists": [
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-      "url": "https://open.spotify.com/track/79iwErOUuLtnx11lTepXLz"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "Thirtieth Midnight (Romance 101 X YOUNHA)",
         "url": "https://open.spotify.com/album/1GtpQlCKGVslJZAqNQKvNf"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Like the Wind Didn't Blow (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
-        "url": "https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR"
+        "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+        "url": "https://open.spotify.com/album/6vjWWclU2DqncdQsLWS9hh"
       },
       "artists": [
         {
-          "name": "Mr. Choi from Yanbian",
-          "url": "https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU"
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Like the Wind Didn\u2019t Blow",
-      "url": "https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO"
+      "duration_ms": 227600,
+      "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+      "url": "https://open.spotify.com/track/79iwErOUuLtnx11lTepXLz"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -503,6 +487,22 @@
       "duration_ms": 259346,
       "name": "Never Loved This Way Before",
       "url": "https://open.spotify.com/track/0WbOmRgxeIScXc0H50zjIx"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "Like the Wind Didn't Blow (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
+        "url": "https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Choi from Yanbian",
+          "url": "https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Like the Wind Didn\u2019t Blow",
+      "url": "https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
-        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Dive into you",
-      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 243866,
       "name": "Draw",
       "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
+        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Dive into you",
+      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "The rose of Versailles (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-        "url": "https://open.spotify.com/album/3zlaBKIqfjp78kCxhpuOwy"
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
       },
       "artists": [
         {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
         }
       ],
-      "duration_ms": 239826,
-      "name": "The rose of Versailles (Original Soundtrack from the Webtoon The Siren : Becoming the Villain\u2032s Family)",
-      "url": "https://open.spotify.com/track/0XGWWHxYoXtlv13HAAG0uW"
+      "duration_ms": 306499,
+      "name": "I Don't Want To Say Goodbye",
+      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
+        "name": "The rose of Versailles (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+        "url": "https://open.spotify.com/album/3zlaBKIqfjp78kCxhpuOwy"
       },
       "artists": [
         {
-          "name": "Sin Ye Young",
-          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
         }
       ],
-      "duration_ms": 306499,
-      "name": "I Don't Want To Say Goodbye",
-      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
+      "duration_ms": 239826,
+      "name": "The rose of Versailles (Original Soundtrack from the Webtoon The Siren : Becoming the Villain\u2032s Family)",
+      "url": "https://open.spotify.com/track/0XGWWHxYoXtlv13HAAG0uW"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1115,38 +1115,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "I'M BACK (Killer Peter X BLAS\u00c9)[Original Webtoon Soundtrack]",
-        "url": "https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h"
-      },
-      "artists": [
-        {
-          "name": "BLAS\u00c9",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
-        }
-      ],
-      "duration_ms": 176711,
-      "name": "I'M BACK",
-      "url": "https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
-        "name": "The Moon Has Passed (The Moon during the Day)",
-        "url": "https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx"
-      },
-      "artists": [
-        {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "The Moon Has Passed",
-      "url": "https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "Warm Black Tea (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4qbWHHolrtV3k5UUhvPOGc"
       },
@@ -1179,6 +1147,38 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
+        "name": "I'M BACK (Killer Peter X BLAS\u00c9)[Original Webtoon Soundtrack]",
+        "url": "https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h"
+      },
+      "artists": [
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        }
+      ],
+      "duration_ms": 176711,
+      "name": "I'M BACK",
+      "url": "https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "The Moon Has Passed (The Moon during the Day)",
+        "url": "https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "duration_ms": 226386,
+      "name": "The Moon Has Passed",
+      "url": "https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
         "name": "99 (Guide to Proper Romance X Standing Egg)",
         "url": "https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
-        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "First Love Story",
-      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "Love Revolution (Original Webtoon Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/6VlqnZEXPCAqiL1IfEKX6c"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 240733,
       "name": "As You Know",
       "url": "https://open.spotify.com/track/0i28ygiBZomLVQHG2OgB4F"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "First Love Story",
+      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Starlight (No Office Romance! X JINI) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/3xJ4992CDlMMCIdjpRTkfy"
-      },
-      "artists": [
-        {
-          "name": "JINI",
-          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/10mZOfUMXYsXVTGuxp69O3"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
         "url": "https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 207560,
       "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
       "url": "https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "Starlight (No Office Romance! X JINI) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/3xJ4992CDlMMCIdjpRTkfy"
+      },
+      "artists": [
+        {
+          "name": "JINI",
+          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/10mZOfUMXYsXVTGuxp69O3"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Dear You (She is My Type\u2661 X Standing Egg)",
-        "url": "https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU"
+        "name": "Desire And Hope (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+        "url": "https://open.spotify.com/album/2HXglsCZnqJU8W1qd6cER8"
       },
       "artists": [
         {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+          "name": "HAEUN",
+          "url": "https://open.spotify.com/artist/0WKfT4co6LsEBQr7Gmype2"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Dear You (She is My Type\u2661 X Standing Egg)",
-      "url": "https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4"
+      "duration_ms": 212973,
+      "name": "Desire And Hope (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+      "url": "https://open.spotify.com/track/1Ag5qTEW7daPrRNgQESisT"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1379,6 +1379,22 @@
       "duration_ms": 195906,
       "name": "Just stay with me (Feat. Swan)",
       "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "Dear You (She is My Type\u2661 X Standing Egg)",
+        "url": "https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Dear You (She is My Type\u2661 X Standing Egg)",
+      "url": "https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Beautiful GunbarI OST",
-        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "a story to tell (Original Ver.)",
-      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "Lost Way (Good Doctor X Gaho)",
         "url": "https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 184040,
       "name": "Lost Way",
       "url": "https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Desire And Hope (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-        "url": "https://open.spotify.com/album/2HXglsCZnqJU8W1qd6cER8"
-      },
-      "artists": [
-        {
-          "name": "HAEUN",
-          "url": "https://open.spotify.com/artist/0WKfT4co6LsEBQr7Gmype2"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Desire And Hope (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-      "url": "https://open.spotify.com/track/1Ag5qTEW7daPrRNgQESisT"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "The One And Only You (The Moon during the Day X SANDEUL)",
         "url": "https://open.spotify.com/album/1f0Oe09V16PPgKaOksD2zb"
       },
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "At Every Moment (Bunny and Guys X Kim Jae Hwan)",
-        "url": "https://open.spotify.com/album/4ycFxbIJKkWZYf0KDs2TYT"
-      },
-      "artists": [
-        {
-          "name": "KIM JAE HWAN",
-          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "At Every Moment (Bunny and Guys X Kim Jae Hwan)",
-      "url": "https://open.spotify.com/track/6fyKDf4FtlozjMNbE1LEe6"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "Plainwalker X KIMJAEJOONG (Original Webtoon Soundtrack) [Japan Ver.]",
         "url": "https://open.spotify.com/album/0M7wvYPIu6ZJ1bIG2q1Quf"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 269800,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/7wGyK1pItt5T0a3p3mZOOl"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "At Every Moment (Bunny and Guys X Kim Jae Hwan)",
+        "url": "https://open.spotify.com/album/4ycFxbIJKkWZYf0KDs2TYT"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "At Every Moment (Bunny and Guys X Kim Jae Hwan)",
+      "url": "https://open.spotify.com/track/6fyKDf4FtlozjMNbE1LEe6"
     }
   ],
   "unique_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",

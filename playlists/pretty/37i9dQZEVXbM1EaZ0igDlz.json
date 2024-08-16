@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Austria.",
-  "num_followers": 9568,
+  "num_followers": 9570,
   "original_name": "Top Songs - Austria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LlAWmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LlFoGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-08-09 09:24:03",
@@ -860,7 +860,7 @@
       "added_at": "2024-08-09 09:24:03",
       "album": {
         "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
       },
       "artists": [
         {
@@ -878,7 +878,7 @@
       ],
       "duration_ms": 167228,
       "name": "FIELD TRIP",
-      "url": "https://open.spotify.com/track/7vv89PswQvqGKCGJ1rw5on"
+      "url": "https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u"
     },
     {
       "added_at": "2024-08-09 09:24:03",
@@ -900,7 +900,7 @@
       "added_at": "2024-08-09 09:24:03",
       "album": {
         "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO"
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
         }
       ],
-      "duration_ms": 198786,
+      "duration_ms": 198773,
       "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
       "added_at": "2024-08-09 09:24:03",
@@ -935,8 +935,8 @@
     {
       "added_at": "2024-08-09 09:24:03",
       "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
       "artists": [
         {
@@ -946,7 +946,7 @@
       ],
       "duration_ms": 244360,
       "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     }
   ],
   "unique_name": "Top Songs - Austria",

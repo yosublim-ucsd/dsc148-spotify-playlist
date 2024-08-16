@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-582 songs - 1 day 5 hr 38 min
+583 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Everything Will Be Okay.](https://open.spotify.com/track/0UrDqX6CTQFrOnRo1chtLo) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Lost Words EP](https://open.spotify.com/album/3bS5ZqH24CFVNO43q2I0uI) | 3:05 | 2023-06-23 | 2023-08-10 |
 | [EVERYTIME I SEE YOUR FACE](https://open.spotify.com/track/3e3sh4nCgOPuQOulCWZpIY) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [BLINDSIDE](https://open.spotify.com/album/5kAH2guuQEtM5kb6lrrNXi) | 4:17 | 2023-12-26 | 2024-07-19 |
 | [EX](https://open.spotify.com/track/2jPZeSOSA0rFr9YIfpdNtD) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [EX](https://open.spotify.com/album/3oPmjApdBC7DFJYekgWEVp) | 2:15 | 2023-06-16 | 2023-08-10 |
+| [EXECUTIONER](https://open.spotify.com/track/0gYS6XPKlUbOFPYibwW58o) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [EXECUTIONER](https://open.spotify.com/album/47zIUPtRpiGINO2YAbRFi9) | 1:30 | 2024-08-15 |  |
 | [fade](https://open.spotify.com/track/4QIunJj1Sw6BgYYB2iEIeU) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [fade](https://open.spotify.com/album/2cqvuYk4Haj2e44X4zfONh) | 2:26 | 2024-05-10 |  |
 | [Fall Too Deep](https://open.spotify.com/track/2u3vR9khIpQjCYu9TCUn5L) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Fall Too Deep](https://open.spotify.com/album/2OpVgefNKPZTYbIEmyIAi1) | 3:05 | 2023-07-21 | 2023-08-10 |
 | [Falling](https://open.spotify.com/track/2Bhv2dpgjAfpJejQltrlOJ) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 4:27 | 2023-06-21 | 2023-08-10 |

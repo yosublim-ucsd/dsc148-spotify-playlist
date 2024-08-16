@@ -2,7 +2,7 @@
 
 ### [Éxitos Paraguay](https://open.spotify.com/playlist/37i9dQZF1DX15N77UE8GEz)
 
-> ¡Escucha los éxitos de hoy!<br/>Foto: KAROL G
+> ¡Escucha los éxitos de hoy!<br/>Foto: Kapo
 
 119 songs - 6 hr 26 min
 

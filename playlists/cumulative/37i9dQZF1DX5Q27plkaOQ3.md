@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Riot Ten
 
-730 songs - 1 day 16 hr 51 min
+731 songs - 1 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,7 @@
 | [Mind & Body](https://open.spotify.com/track/38eFNBOXqh8FEWOkY8z9wF) | [SUAHN](https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX), [Ethan Glass](https://open.spotify.com/artist/1QcqiiBi6BHRzdgDHvpqu9) | [Mind & Body](https://open.spotify.com/album/5zB87dPnUtR5Ch6JVQ3Ubh) | 4:09 | 2022-03-04 | 2022-07-28 |
 | [Mind & Body](https://open.spotify.com/track/6YsT7iK2yKRamjUI0Gt5Rh) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [Mind & Body](https://open.spotify.com/album/3U9B2nWzZpMT8vWoVv1VSx) | 2:35 | 2022-03-18 | 2023-04-01 |
 | [Mind Control](https://open.spotify.com/track/28vsBdSYrVngw6b7hA6bos) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Mind Control](https://open.spotify.com/album/7f0LR3Mm5uD7oCBjCJ2Xt4) | 3:18 | 2023-12-15 |  |
-| [MIND CONTROL \(EDDIE Remix\)](https://open.spotify.com/track/44hbzdovYYuLzLuQspQ84x) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [WRATH OF THE WICKED \- Remixes](https://open.spotify.com/album/0JGzk0KXvrLNoznenUrvbH) | 3:24 | 2024-04-12 |  |
+| [MIND CONTROL \(EDDIE Remix\)](https://open.spotify.com/track/44hbzdovYYuLzLuQspQ84x) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [WRATH OF THE WICKED \- Remixes](https://open.spotify.com/album/0JGzk0KXvrLNoznenUrvbH) | 3:24 | 2024-04-12 | 2024-08-16 |
 | [Mind Pluck](https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [Mind Pluck](https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz) | 4:30 | 2023-08-04 |  |
 | [MIND THE DROP](https://open.spotify.com/track/6gGkBZziur9cF7AmHWw7JD) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Shyloom](https://open.spotify.com/artist/25MZxyt3nsEKGyDJQvb6HG) | [MV//MNT VOL\. 02](https://open.spotify.com/album/0rcbtltuPNcfIfgmgTIpUf) | 4:33 | 2023-12-08 | 2024-07-19 |
 | [Mirage](https://open.spotify.com/track/46brJGJA9VTxjTGVfw41gu) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Mirage](https://open.spotify.com/album/1SXcW1GgimXzhgFF9AHUr2) | 3:48 | 2023-06-09 | 2023-11-25 |
@@ -508,6 +508,7 @@
 | [RAD](https://open.spotify.com/track/06bf6XZYNj4mtDODZRDruu) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW) | [RAD](https://open.spotify.com/album/2K9g3b8ghtQSnYWzfg5sj3) | 4:05 | 2023-10-13 | 2023-10-21 |
 | [RAD](https://open.spotify.com/track/6fdEHZu9ESPsZ2yc8wKwlP) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW) | [HEARTWAVE](https://open.spotify.com/album/4FevY6KzCiRMzeCO2D4jcB) | 4:05 | 2023-10-13 | 2024-04-19 |
 | [Ragnarok](https://open.spotify.com/track/5n5d39gcjEstUpM6kadJYF) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Ragnarok](https://open.spotify.com/album/263NdHDN0i3w7CNrfDFh6P) | 4:09 | 2022-04-08 | 2023-04-01 |
+| [Rave Operator](https://open.spotify.com/track/37vXJPguVozs4XKe31ilWD) | [Automhate](https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf) | [Rave Operator / Sewer Party](https://open.spotify.com/album/43czCEDLV4BAKuwx7Dsidc) | 4:43 | 2024-08-09 |  |
 | [RAVEN](https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [RAVEN](https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS) | 3:04 | 2023-10-13 |  |
 | [Ravestab](https://open.spotify.com/track/6AlatqBSgJ0dkRB5Hak7Va) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Wax Gibbons EP](https://open.spotify.com/album/2byGPU6HriaXEvGCVsSFiw) | 2:57 | 2021-12-17 | 2022-03-12 |
 | [Raveyard](https://open.spotify.com/track/47Azb1Ud85D0xD9TIiLY4H) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Raveyard EP](https://open.spotify.com/album/6bZLh5NXERd8EMo447YbYL) | 2:30 | 2022-03-18 | 2023-02-26 |

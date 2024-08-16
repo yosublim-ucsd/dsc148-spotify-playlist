@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 203922,
+  "num_followers": 203932,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "Meant to Be",
+        "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 226155,
       "name": "Beautiful (feat. India.Arie)",
       "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "Meant to Be",
-        "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Meant to Be",
-      "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 231879,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Every Falling Tear",
         "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 246461,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 231879,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "SURREAL",
-        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 174409,
-      "name": "SURREAL",
-      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 188133,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "SURREAL",
+        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 174409,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "The Glorious Unfolding",
-        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 171150,
       "name": "Can't Help Falling In Love - LIGHT",
       "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "The Glorious Unfolding",
+        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Love Will Never Fail",
-        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
-      },
-      "artists": [
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "Love Will Never Fail (I Corinthians 13)",
-      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 207986,
       "name": "If Only",
       "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Love Will Never Fail",
+        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
+      },
+      "artists": [
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "Love Will Never Fail (I Corinthians 13)",
+      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Songs from the Cloud",
-        "url": "https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Route 777",
-      "url": "https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/3nSpXaQTtT0JMU6JRT0J05"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 133159,
       "name": "ILY",
       "url": "https://open.spotify.com/track/4ApkZY3507VSE1ZXrVO9oT"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Songs from the Cloud",
+        "url": "https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Route 777",
+      "url": "https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Nobody's Perfect",
-        "url": "https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 151530,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 246240,
       "name": "I'm in Love With You",
       "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Nobody's Perfect",
+        "url": "https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 151530,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/7audZAXHAdxmRD3YJErUVm"
-      },
-      "artists": [
-        {
-          "name": "Danielle Apicella",
-          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
-        }
-      ],
-      "duration_ms": 213846,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/6IWcLsZ9h2Kde0Qjyt8BdS"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Boo",
         "url": "https://open.spotify.com/album/10EcjUCmjAYuZwcVrAVAgl"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 140539,
       "name": "Boo",
       "url": "https://open.spotify.com/track/2VtzylTht013sVNsLS9HVv"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/7audZAXHAdxmRD3YJErUVm"
+      },
+      "artists": [
+        {
+          "name": "Danielle Apicella",
+          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
+        }
+      ],
+      "duration_ms": 213846,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/6IWcLsZ9h2Kde0Qjyt8BdS"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1699,26 +1699,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD"
+        "name": "COME MY WAY",
+        "url": "https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY"
       },
       "artists": [
         {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+          "name": "Jay Sanon",
+          "url": "https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu"
         },
         {
-          "name": "Jenge",
-          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+          "name": "Jekasole",
+          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
         }
       ],
-      "duration_ms": 154020,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V"
+      "duration_ms": 180000,
+      "name": "COME MY WAY",
+      "url": "https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI"
     }
   ],
   "unique_name": "Higher Love",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > sipping diet pepsi  🥤
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,161,393 likes - 105 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,161,072 likes - 105 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

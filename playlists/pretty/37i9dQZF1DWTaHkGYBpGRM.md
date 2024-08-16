@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 
 > Long distance is hard, but true love knows no boundaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,369 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,441 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 32 | [arms](https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:21 |
 | 33 | [All I Do Is Dream of You](https://open.spotify.com/track/5eximiWUaKZdE1y1zHbVwL) | [Faultline](https://open.spotify.com/artist/2MDj3VdPVUo2w1A6bRwvAh), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [All I Do Is Dream of You](https://open.spotify.com/album/2Lng1m3dqvpXdcqGITtLF8) | 2:42 |
 | 34 | [Falling Slowly](https://open.spotify.com/track/2rqU6isUjWk7s2y0ZEkmhb) | [Steve Kazee](https://open.spotify.com/artist/2E0WuV49YeVlDWrmLf4jKK), [Cristin Milioti](https://open.spotify.com/artist/0KV9UzwJbLgC8QdOAxKlTU), [Once Ensemble](https://open.spotify.com/artist/28Tjtr1MQlXJwcNVgcwOTG) | [Once: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6BBjG9s1OPJXQh0dAiLwKN) | 4:26 |
-| 35 | [Half The World Away](https://open.spotify.com/track/21HfUACOv1lgBiYocruoW8) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 3:18 |
+| 35 | [Half The World Away](https://open.spotify.com/track/21HfUACOv1lgBiYocruoW8) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \- Deluxe](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 3:18 |
 | 36 | [I Hate Phone Calls \(Long Distance Sucks\)](https://open.spotify.com/track/1gVTPQFznRUAgn29hv4MhG) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Chapter 1: Things We're Not Saying](https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn) | 3:11 |
 | 37 | [Oceans Away](https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Oceans Away](https://open.spotify.com/album/4JXvWkSdccqwwRJBVvF4Oq) | 3:13 |
 | 38 | [Please Stay](https://open.spotify.com/track/7qAKvYovBPy0xYHhTPDvzx) | [Francois Klark](https://open.spotify.com/artist/6pWdTbfpN654qlN83k3O0P) | [Love](https://open.spotify.com/album/2La7xTAa08WD8tdexulTGi) | 3:44 |

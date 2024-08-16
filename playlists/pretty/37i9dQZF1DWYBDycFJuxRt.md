@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: iri \*👉 <a href="https://spice.eplus.jp/articles/331143?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,038 likes - 73 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,052 likes - 73 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 45 | [熱狂の捌け口](https://open.spotify.com/track/6v4N4cA20aLWzXib9pOxrf) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [熱狂の捌け口](https://open.spotify.com/album/2fw6V0QESuFBuV8AwpOVKn) | 3:45 |
 | 46 | [ヒトゴト for ヌーヌー](https://open.spotify.com/track/3ZQPj05YTtebSu1juOSA0Q) | [HITOGOTO](https://open.spotify.com/artist/6SVwLbFkRf9djuC309LHT3), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [ヒトゴト for ヌーヌー](https://open.spotify.com/album/3JeWIOp9U3C8tlhdNnoaJh) | 2:55 |
 | 47 | [Rush Of Blood](https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Rush Of Blood](https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ) | 3:22 |
-| 48 | [Yo Me Estreso](https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Yo Me Estreso](https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1) | 3:13 |
+| 48 | [Yo Me Estreso](https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Yo Me Estreso](https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1) | 3:13 |
 | 49 | [Feel My Pain](https://open.spotify.com/track/3GFEzOfU3OKFCCT29jpeFb) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Feel My Pain](https://open.spotify.com/album/5IumowGu6MaiOJXKBzJyIw) | 2:34 |
 | 50 | [Good day](https://open.spotify.com/track/1glWb1FkQ8VmnZDkOQm87n) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [Good day](https://open.spotify.com/album/1FOAMzmdgueoPIxncrrKQb) | 4:19 |
 | 51 | [OH YEAH!!](https://open.spotify.com/track/0BDRJ7QGGTayn8tRs57dRa) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [OH YEAH!!](https://open.spotify.com/album/4MECa3KFiSzR9GDhJN4bmo) | 3:11 |

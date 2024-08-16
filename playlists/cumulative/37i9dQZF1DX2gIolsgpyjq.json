@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: DJ Suzy",
+  "description": "The best new music by independent artists in the Nordics. Cover: Giift",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -930,7 +930,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 202134,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 190836,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/3t3JMd6WEeXVLVslzzDFKh"
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 222733,
       "name": "Don't Risk It",
       "url": "https://open.spotify.com/track/2eO5PBPjJLW28WELR8JSbo"
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 200347,
       "name": "Follow",
       "url": "https://open.spotify.com/track/23zsgE928KYBi7taB6XMqG"
@@ -2596,6 +2596,24 @@
       "duration_ms": 130616,
       "name": "forget you",
       "url": "https://open.spotify.com/track/4vi667XVbRUTchDlwk2fA7"
+    },
+    {
+      "album": {
+        "name": "FORGET YOUR SORROWS (AND COME TO THE RAVE)",
+        "url": "https://open.spotify.com/album/3Eyw9VglzNvPIHCm534Wrq"
+      },
+      "artists": [
+        {
+          "name": "Prof. Stranger",
+          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248095,
+      "name": "FORGET YOUR SORROWS (AND COME TO THE RAVE)",
+      "url": "https://open.spotify.com/track/4TPFV0y3fV4VqfF70K3LeX"
     },
     {
       "album": {
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 169813,
       "name": "Go",
       "url": "https://open.spotify.com/track/23UcwWw8NmM8acCXXfbTrg"
@@ -3520,7 +3538,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 267096,
       "name": "I Do Love",
       "url": "https://open.spotify.com/track/0S5BZvdfluxlvCFZrEo1Vc"
@@ -4340,7 +4358,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 173843,
       "name": "left me to die",
       "url": "https://open.spotify.com/track/7nrEb8wSNXpJVYCnBSRMFT"
@@ -4658,7 +4676,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 200314,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/6MPY7cE0xXEYfiimIbHcfe"
@@ -4832,6 +4850,28 @@
       "duration_ms": 510933,
       "name": "L\u00e4ngtan (F#)",
       "url": "https://open.spotify.com/track/0dTwPhMpjSNfBFth5tyqr0"
+    },
+    {
+      "album": {
+        "name": "Made For U",
+        "url": "https://open.spotify.com/album/4xzYqS6ACCrbvA88HiGEEp"
+      },
+      "artists": [
+        {
+          "name": "Molly Mae",
+          "url": "https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl"
+        },
+        {
+          "name": "Dexter Eliot",
+          "url": "https://open.spotify.com/artist/2nkhLHFv3rEjkZFqBvM4JZ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "Made For U",
+      "url": "https://open.spotify.com/track/27dxmU4PsdnXeWY3Zq3jVr"
     },
     {
       "album": {
@@ -5190,7 +5230,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 255743,
       "name": "New Moon, Same Old Me",
       "url": "https://open.spotify.com/track/4aH7cgsTvH758qlvc5v4m7"
@@ -5350,6 +5390,24 @@
       "duration_ms": 173747,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/2F18iEZb7BiYbWXZBw1w5M"
+    },
+    {
+      "album": {
+        "name": "No One Else",
+        "url": "https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231072,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq"
     },
     {
       "album": {
@@ -5625,6 +5683,24 @@
     },
     {
       "album": {
+        "name": "Off My Chest",
+        "url": "https://open.spotify.com/album/2AxIZshVCDqJMyuiFbjoxD"
+      },
+      "artists": [
+        {
+          "name": "JEONA",
+          "url": "https://open.spotify.com/artist/5d9C0JNNcd3zaujraQUOJG"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168108,
+      "name": "Off My Chest",
+      "url": "https://open.spotify.com/track/22zpUv58DM0ZbWFSGiYX2b"
+    },
+    {
+      "album": {
         "name": "OFTEN",
         "url": "https://open.spotify.com/album/0lYNraGyhY09SzMS8LNOc0"
       },
@@ -5636,7 +5712,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 184877,
       "name": "OFTEN",
       "url": "https://open.spotify.com/track/6lx8boMh0kWEeXubQawkWS"
@@ -5744,7 +5820,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 190344,
       "name": "one good reason",
       "url": "https://open.spotify.com/track/28m6u1EywxomZiKMGhfL9x"
@@ -5997,6 +6073,24 @@
     },
     {
       "album": {
+        "name": "Peaches in My Halo",
+        "url": "https://open.spotify.com/album/3LgWjh5MxALSUmhnzoohBy"
+      },
+      "artists": [
+        {
+          "name": "Veronica D'Souza",
+          "url": "https://open.spotify.com/artist/21He92qeN5qrcZzQ0vbFGJ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213451,
+      "name": "Peaches in My Halo",
+      "url": "https://open.spotify.com/track/4Yag4QcBTTbzOhTYmLOVRR"
+    },
+    {
+      "album": {
         "name": "MAGNANIMITY",
         "url": "https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL"
       },
@@ -6030,6 +6124,24 @@
       "duration_ms": 178363,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG"
+    },
+    {
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/38MIFMz92VM00t31cYSBjn"
+      },
+      "artists": [
+        {
+          "name": "Pom Poko",
+          "url": "https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190584,
+      "name": "Pile Of Wood",
+      "url": "https://open.spotify.com/track/5VvrluL9oo4Sq4gvCyimcS"
     },
     {
       "album": {
@@ -6168,7 +6280,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 195187,
       "name": "Presence",
       "url": "https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw"
@@ -6330,7 +6442,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 217704,
       "name": "Rather Die",
       "url": "https://open.spotify.com/track/22s4gALYjR7Nsm4YNaDlcy"
@@ -8061,6 +8173,24 @@
     },
     {
       "album": {
+        "name": "Tu Mirada",
+        "url": "https://open.spotify.com/album/1RoQIKvC40xS3gWMDtcPp7"
+      },
+      "artists": [
+        {
+          "name": "N\u00e1poles",
+          "url": "https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195451,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/59RgXziyTx99zd6pBRzSEr"
+    },
+    {
+      "album": {
         "name": "Turtle Jazz",
         "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
       },
@@ -8116,6 +8246,24 @@
       "duration_ms": 315737,
       "name": "Underwater Station (Safer)",
       "url": "https://open.spotify.com/track/6NLgA7ndnmuXHQdUWTLo9x"
+    },
+    {
+      "album": {
+        "name": "Until The Last Teardrop",
+        "url": "https://open.spotify.com/album/1nZKUlQPy91A2RIoQWHQHj"
+      },
+      "artists": [
+        {
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201425,
+      "name": "Until The Last Teardrop",
+      "url": "https://open.spotify.com/track/5hO0Dr7JhoGMlG8UpW6pzR"
     },
     {
       "album": {
@@ -8300,7 +8448,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 145548,
       "name": "waste",
       "url": "https://open.spotify.com/track/7Kn3tgPBG36YPq4rDz6kWN"
@@ -8380,6 +8528,24 @@
       "duration_ms": 102456,
       "name": "What If",
       "url": "https://open.spotify.com/track/0by3Svogff79GiMDrksjzz"
+    },
+    {
+      "album": {
+        "name": "What To Say",
+        "url": "https://open.spotify.com/album/0pFyMM5YQIotCb01K297KJ"
+      },
+      "artists": [
+        {
+          "name": "N.I.K",
+          "url": "https://open.spotify.com/artist/5ZxZX70VVUDqKeK0TI1D2l"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108888,
+      "name": "What To Say",
+      "url": "https://open.spotify.com/track/3EGPK9EEJ50mtV05uiuBRX"
     },
     {
       "album": {
@@ -8575,6 +8741,24 @@
     },
     {
       "album": {
+        "name": "Within Reach",
+        "url": "https://open.spotify.com/album/4xY87BJP0vDPKmR8mHJG43"
+      },
+      "artists": [
+        {
+          "name": "Soho Disco",
+          "url": "https://open.spotify.com/artist/4QUOWaXZAU66Kgr3ynuYUy"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Within Reach",
+      "url": "https://open.spotify.com/track/44WJI0MqTyCz4mH0gSM38g"
+    },
+    {
+      "album": {
         "name": "Without Calling",
         "url": "https://open.spotify.com/album/2seZnoNRl94w7Qfrwgwn6x"
       },
@@ -8670,6 +8854,24 @@
       "duration_ms": 186333,
       "name": "Yangtze",
       "url": "https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk"
+    },
+    {
+      "album": {
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/5TEyVFRjLXhtXNp7amcoPy"
+      },
+      "artists": [
+        {
+          "name": "Nothing In Common",
+          "url": "https://open.spotify.com/artist/7a8QU2xPgOH1ly5JDbkeM5"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187515,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/7y4TtTnqAQnYprtUFzj0yX"
     },
     {
       "album": {

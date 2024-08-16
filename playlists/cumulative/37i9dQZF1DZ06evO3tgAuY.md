@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3tgAuY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3tgAuY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3tgAuY)
 
-### [This Is Alex Favela](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tgAuY)
+### [Alex Favela This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tgAuY)
 
-> This is Alex Favela\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> .Alex Favela This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
 
 54 songs - 2 hr 29 min
 

@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-686 songs - 1 day 5 hr 24 min
+687 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Aviron](https://open.spotify.com/track/6AZJTapFookh7e2ot25hZE) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Prospicio](https://open.spotify.com/album/2Jva3LhKgM8We64wBcUtAX) | 2:30 | 2021-12-07 | 2024-04-19 |
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-05-03 |  |
 | [Babirusa](https://open.spotify.com/track/1imHuSNiRo2ePp7BQZrGCO) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Babirusa](https://open.spotify.com/album/5Z7SPXUfQWmok6CTmNXfLM) | 2:32 | 2021-12-07 | 2023-05-20 |
+| [Ballerina Waltz](https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Ballerina Waltz](https://open.spotify.com/album/70NHM7YBG7jEC0Xm3PR5p9) | 2:35 | 2024-08-13 |  |
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-03-01 |  |
 | [Beautiful Moment](https://open.spotify.com/track/3AfzEYAQSIboniOJSV4ifN) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [Beautiful Moment](https://open.spotify.com/album/33A6unt8FX7mZxOpv4dUz5) | 2:29 | 2024-07-16 |  |
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-08 |  |
@@ -534,7 +535,7 @@
 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 | 2022-01-04 |  |
 | [Simple Beauty](https://open.spotify.com/track/6r5txGtAi1qZDRt93OJrcF) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Simple Beauty](https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3) | 2:48 | 2023-09-05 |  |
 | [simplified](https://open.spotify.com/track/0eCVi3Gu6YwE6Zh0ukFFvo) | [Lyle Shattler](https://open.spotify.com/artist/6b9XvfnznB6bPK95vnhO0k) | [simplified](https://open.spotify.com/album/2DS1bD4i7ywzL5vlVSFhuS) | 2:32 | 2021-12-07 | 2022-12-24 |
-| [Sincerely](https://open.spotify.com/track/4AvIQWGzD3YoYi2BEAxegJ) | [Deborah Fulmen](https://open.spotify.com/artist/3u1wiRKUBM08aAzGxjNwZb) | [Sincerely](https://open.spotify.com/album/23rm68zt8EUysobz9LTR9B) | 3:15 | 2022-04-20 |  |
+| [Sincerely](https://open.spotify.com/track/4AvIQWGzD3YoYi2BEAxegJ) | [Deborah Fulmen](https://open.spotify.com/artist/3u1wiRKUBM08aAzGxjNwZb) | [Sincerely](https://open.spotify.com/album/23rm68zt8EUysobz9LTR9B) | 3:15 | 2022-04-20 | 2024-08-16 |
 | [Sinkadus](https://open.spotify.com/track/0dLptfXupd4zsgppQgrvVO) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Sinkadus](https://open.spotify.com/album/54JglKkD4WG2OzwhmXUv9M) | 2:32 | 2021-12-07 | 2022-07-16 |
 | [Sketches](https://open.spotify.com/track/4g7wXitUwsMOjZMA9m1vy6) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Sketches](https://open.spotify.com/album/11g6l4agw2isqnalKB9bbS) | 2:37 | 2022-04-20 |  |
 | [Skies Seducing The Clouds](https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Skies Seducing The Clouds](https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU) | 2:14 | 2024-01-09 |  |

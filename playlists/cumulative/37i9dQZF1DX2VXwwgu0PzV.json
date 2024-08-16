@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=pfkatCuATDu7xqiKIfGolg>No\u00ebl Mio</a>",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG?si=vsH5vPTPSlW5rGV8Tv3E1Q>Monaze </a> &  <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=J8gfGOjvQC2ejtWvZlrnIA>Theresa Phondo</a>",
   "name": "Youth Service",
   "tracks": [
     {
@@ -944,7 +944,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 140178,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/32OEwId2uqL5jnsMWLGFij"
@@ -2562,6 +2562,32 @@
       "duration_ms": 172190,
       "name": "Catapult",
       "url": "https://open.spotify.com/track/2lM86aKtryhryetDt1fhYB"
+    },
+    {
+      "album": {
+        "name": "Center",
+        "url": "https://open.spotify.com/album/3bEYIv9GIQeg1RaIlcDXfM"
+      },
+      "artists": [
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        },
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Center",
+      "url": "https://open.spotify.com/track/52KBBrT6byL09W57V4Cgah"
     },
     {
       "album": {
@@ -4603,6 +4629,28 @@
     },
     {
       "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208887,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO"
+    },
+    {
+      "album": {
         "name": "Exit",
         "url": "https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL"
       },
@@ -5020,7 +5068,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 190086,
       "name": "Fire - Remix",
       "url": "https://open.spotify.com/track/1xlDaW6jp8aVe5uRtypeYH"
@@ -6430,7 +6478,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 171607,
       "name": "Grace on Myself",
       "url": "https://open.spotify.com/track/0AeKbsWLgBbIJoKlj5L1al"
@@ -7029,6 +7077,24 @@
     },
     {
       "album": {
+        "name": "Hello God",
+        "url": "https://open.spotify.com/album/2qqLvjojjvz28wG4EL3Bk2"
+      },
+      "artists": [
+        {
+          "name": "LeinaDaniels",
+          "url": "https://open.spotify.com/artist/3gBAWrSR275eGBBNvLK2ov"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "Hello God",
+      "url": "https://open.spotify.com/track/43YXA51Bv778v8fg1Yf0Uq"
+    },
+    {
+      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/2xBNAgpCRFDKJtPpnZhSsK"
       },
@@ -7316,6 +7382,32 @@
       "duration_ms": 165000,
       "name": "Holy",
       "url": "https://open.spotify.com/track/3jwNKRDcqiaB5A16L218vY"
+    },
+    {
+      "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/62DYVzYrbeBAljrVDKJfnC"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "Stanley Ifenna",
+          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
+        },
+        {
+          "name": "Dells TMX",
+          "url": "https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149454,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/3rHkPWnb6D1LqG7VYAo98V"
     },
     {
       "album": {
@@ -7746,6 +7838,24 @@
       "duration_ms": 169764,
       "name": "I'm Blessed",
       "url": "https://open.spotify.com/track/7v4H9T5hP9EhzK2Z8ZoVkw"
+    },
+    {
+      "album": {
+        "name": "I'm Legendary",
+        "url": "https://open.spotify.com/album/42gD4wnU0aoB78OJhDZPPI"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "I'm Legendary",
+      "url": "https://open.spotify.com/track/3lAbxmMcXxYTfndH16p5f2"
     },
     {
       "album": {
@@ -8454,7 +8564,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 178026,
       "name": "Jehovah",
       "url": "https://open.spotify.com/track/5CaugalaJTwQSSa6f6EC9G"
@@ -9893,6 +10003,32 @@
     },
     {
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/7wLvWvkwKKa39lvG97uhjb"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "GIDYON",
+          "url": "https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2"
+        },
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168284,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/3bXHJ2c3YY6Y5lj7435s52"
+    },
+    {
+      "album": {
         "name": "Melody II (Remix)",
         "url": "https://open.spotify.com/album/2KbYSTtkIBX1AFkMpN8Z6O"
       },
@@ -10466,7 +10602,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 148662,
       "name": "Morning",
       "url": "https://open.spotify.com/track/77GQu7p7eINm6pZ9PGqVJn"
@@ -11024,7 +11160,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 175000,
       "name": "Need You",
       "url": "https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu"
@@ -11197,6 +11333,28 @@
     },
     {
       "album": {
+        "name": "No Distractions",
+        "url": "https://open.spotify.com/album/2otbsOuVe9QSa1ydGLHpEH"
+      },
+      "artists": [
+        {
+          "name": "Lekan Salamii",
+          "url": "https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176378,
+      "name": "No Distractions",
+      "url": "https://open.spotify.com/track/4Lb7GCURnLKzLllifdE5DI"
+    },
+    {
+      "album": {
         "name": "No Longer Bound (I'm Free)",
         "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
@@ -11343,6 +11501,24 @@
     },
     {
       "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/4MhNxnmyEKvKAPPUeK2UuV"
+      },
+      "artists": [
+        {
+          "name": "O'Tobi",
+          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/3g26G1OaxMCo4nzf8y32WJ"
+    },
+    {
+      "album": {
         "name": "No Trouble",
         "url": "https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB"
       },
@@ -11358,6 +11534,24 @@
       "duration_ms": 170019,
       "name": "No Trouble",
       "url": "https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX"
+    },
+    {
+      "album": {
+        "name": "NO TURNING BACK",
+        "url": "https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127317,
+      "name": "NO TURNING BACK",
+      "url": "https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ"
     },
     {
       "album": {
@@ -12789,6 +12983,32 @@
     },
     {
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/3adnpUnQaNijP89YvtTKei"
+      },
+      "artists": [
+        {
+          "name": "Sam Jamz",
+          "url": "https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        },
+        {
+          "name": "Mark Success",
+          "url": "https://open.spotify.com/artist/2UsJ6DTOfg7n99HC3aJAip"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193968,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/4az3Od71TQllyfYR9Ba1cU"
+    },
+    {
+      "album": {
         "name": "PRAY FOR ME",
         "url": "https://open.spotify.com/album/5XaflvAOcoSJKWoVmywB9Z"
       },
@@ -12998,7 +13218,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 162375,
       "name": "Rababa, Pt. 2",
       "url": "https://open.spotify.com/track/681NH9WYKS9l4SyZFpho81"
@@ -13404,7 +13624,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 153931,
       "name": "Riding",
       "url": "https://open.spotify.com/track/6Rst46PdVcm3RLZApWwKoV"
@@ -13932,7 +14152,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 195148,
       "name": "Soar",
       "url": "https://open.spotify.com/track/6lPa6AZncKnEmMA3Wc0tGb"
@@ -15132,7 +15352,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 178775,
       "name": "This Loving",
       "url": "https://open.spotify.com/track/5cNSb8EdbjGZEVoiNLsObZ"
@@ -16020,6 +16240,24 @@
       "duration_ms": 179700,
       "name": "Who Goes That Man",
       "url": "https://open.spotify.com/track/0tMKAOXphAtH2qia9Nm9C7"
+    },
+    {
+      "album": {
+        "name": "Woe is Me",
+        "url": "https://open.spotify.com/album/3xuWIUR6OYod51CAL3OstV"
+      },
+      "artists": [
+        {
+          "name": "Bro Chosen",
+          "url": "https://open.spotify.com/artist/2LReHs5LvynTE5Gbs58ndj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Woe is Me",
+      "url": "https://open.spotify.com/track/3yGMCdv3T7ByVauEij7aQ5"
     },
     {
       "album": {

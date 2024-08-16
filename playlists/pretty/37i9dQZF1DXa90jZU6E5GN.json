@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the Year of the Cowgirl with queen Carly Pearce! \u2728 ",
-  "num_followers": 235177,
+  "num_followers": 235432,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-02 13:56:32",
       "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm"
-    },
-    {
-      "added_at": "2024-08-02 13:56:32",
-      "album": {
         "name": "Tanya Tucker / Super Hits",
         "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2024-08-02 13:56:32",
       "album": {
-        "name": "Why Not Me",
-        "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3"
       },
       "artists": [
         {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 209106,
-      "name": "Why Not Me",
-      "url": "https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex"
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm"
+    },
+    {
+      "added_at": "2024-08-02 13:56:32",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ"
     },
     {
       "added_at": "2024-08-02 13:56:32",

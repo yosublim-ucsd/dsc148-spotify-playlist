@@ -1,13 +1,33 @@
 {
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=OffopowoQTecX1GXkafgIQ>Folabi Nuel</a>",
-  "num_followers": 31259,
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2?si=r-oS_wFgQRGQat9MhKLT2g>Tim Godfrey</a>",
+  "num_followers": 31286,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrW9qQAAAAD1ifCrNdrsvnPiTamClvFW",
+  "snapshot_id": "Zr6WvAAAAAB2gwT30M/UK7XgP+KUfwx5",
   "tracks": [
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 208887,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO"
+    },
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
@@ -23,22 +43,6 @@
       "duration_ms": 225941,
       "name": "I Believe It (The Life of Jesus)",
       "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
-    },
-    {
-      "added_at": "2024-06-29 09:12:38",
-      "album": {
-        "name": "Take all the Praise",
-        "url": "https://open.spotify.com/album/7M4bQLCG8KzBmhiMy9aW70"
-      },
-      "artists": [
-        {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
-        }
-      ],
-      "duration_ms": 391489,
-      "name": "Take all the Praise",
-      "url": "https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -59,30 +63,6 @@
       "duration_ms": 240200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Halle - Remix",
-        "url": "https://open.spotify.com/album/2YeAPHd7mDzcnIdpoTeEwE"
-      },
-      "artists": [
-        {
-          "name": "Peterson Okopi",
-          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
-        },
-        {
-          "name": "Phindi P",
-          "url": "https://open.spotify.com/artist/5dE89DuV6VJledFjwVjemU"
-        },
-        {
-          "name": "TWC",
-          "url": "https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW"
-        }
-      ],
-      "duration_ms": 304927,
-      "name": "Halle - Remix",
-      "url": "https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -109,22 +89,6 @@
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 306780,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "Holy Forever",
@@ -139,6 +103,42 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 297693,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "GOD IS GOOD",
+        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "GOD IS GOOD",
+      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -225,20 +225,24 @@
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+        "name": "Life After Death",
+        "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
         }
       ],
-      "duration_ms": 297693,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
+      "duration_ms": 219266,
+      "name": "Cornerstone (feat. Zach Williams)",
+      "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -309,46 +313,6 @@
       "url": "https://open.spotify.com/track/7v4H9T5hP9EhzK2Z8ZoVkw"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "GOD IS GOOD",
-        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "GOD IS GOOD",
-      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Life After Death",
-        "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Cornerstone (feat. Zach Williams)",
-      "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "Take Me to the River (I Will Swim)",
@@ -401,42 +365,6 @@
       "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "You Are Great",
-        "url": "https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Chizie",
-          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        },
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        },
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "You Are Great",
-      "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "CAN YOU IMAGINE?",
@@ -475,6 +403,42 @@
       "duration_ms": 808677,
       "name": "Worthy of My Praise",
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "You Are Great",
+        "url": "https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "You Are Great",
+      "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -601,42 +565,6 @@
       "url": "https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS"
     },
     {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "E Dey Flow",
-        "url": "https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Chizie",
-          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        }
-      ],
-      "duration_ms": 156108,
-      "name": "E Dey Flow",
-      "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Hallelujah Again (Revelation 19:3)",
@@ -683,6 +611,42 @@
       "duration_ms": 193501,
       "name": "Take It All Back",
       "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "E Dey Flow",
+        "url": "https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "duration_ms": 156108,
+      "name": "E Dey Flow",
+      "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -771,6 +735,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 511207,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Elevated",
         "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
@@ -817,22 +797,6 @@
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 511207,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
-    },
-    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Find Me Here (Blessings Find Me)",
@@ -847,6 +811,26 @@
       "duration_ms": 126315,
       "name": "Find Me Here (Blessings Find Me)",
       "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "This God Is Too Good",
+        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Chigozie Achugo",
+          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
+        }
+      ],
+      "duration_ms": 271438,
+      "name": "You Are God (feat. Chigozie Achugo)",
+      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -937,10 +921,26 @@
       "url": "https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu"
     },
     {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 306780,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "This God Is Too Good",
-        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
+        "name": "The Son of God (& Imela)",
+        "url": "https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn"
       },
       "artists": [
         {
@@ -948,13 +948,13 @@
           "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         },
         {
-          "name": "Chigozie Achugo",
-          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
+          "name": "Enitan Adaba",
+          "url": "https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI"
         }
       ],
-      "duration_ms": 271438,
-      "name": "You Are God (feat. Chigozie Achugo)",
-      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
+      "duration_ms": 354572,
+      "name": "Imela (feat. Enitan Adaba)",
+      "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
     },
     {
       "added_at": "2023-12-29 00:01:00",

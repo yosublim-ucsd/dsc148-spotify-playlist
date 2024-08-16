@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Barder.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Barry B, Carolina Durante.",
   "name": "Rock 2024",
   "tracks": [
     {
@@ -262,6 +262,24 @@
       "duration_ms": 185174,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL"
+    },
+    {
+      "album": {
+        "name": "Cada instante",
+        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rtico",
+          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205263,
+      "name": "Cada instante",
+      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
     },
     {
       "album": {
@@ -771,6 +789,46 @@
     },
     {
       "album": {
+        "name": "Fuera De Lugar",
+        "url": "https://open.spotify.com/album/00yW3R9E734W48i9Umcz1t"
+      },
+      "artists": [
+        {
+          "name": "Natillas",
+          "url": "https://open.spotify.com/artist/5eTXkgo5fxz9qzMrqcTIBu"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242529,
+      "name": "Fuera De Lugar",
+      "url": "https://open.spotify.com/track/5ep0F3gWVy96PVpp4hf8SA"
+    },
+    {
+      "album": {
+        "name": "Ganas de verte",
+        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
+      },
+      "artists": [
+        {
+          "name": "Pagafantas",
+          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
+        },
+        {
+          "name": "Luc\u00eda Moreno",
+          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174613,
+      "name": "Ganas de verte",
+      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
+    },
+    {
+      "album": {
         "name": "Hago lo que quiero",
         "url": "https://open.spotify.com/album/6tGbYLMLltcvrohfxWayvp"
       },
@@ -782,7 +840,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 172599,
       "name": "Hago lo que quiero",
       "url": "https://open.spotify.com/track/3ovVn2nRqhzrIIUJsUnDl8"
@@ -1650,7 +1708,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 154414,
       "name": "Piensa en m\u00ed",
       "url": "https://open.spotify.com/track/5C1mVFpqXdnCpDUtDgpije"
@@ -2021,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "The Bed, The Room, The Rain and You",
+        "url": "https://open.spotify.com/album/1TPWuITTFW8RdqRfrNVEO5"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148422,
+      "name": "The Bed, The Room, The Rain and You",
+      "url": "https://open.spotify.com/track/73MkKDeELnYufTdyA3Xj5R"
+    },
+    {
+      "album": {
         "name": "The Last of Us",
         "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
       },
@@ -2220,7 +2296,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 211623,
       "name": "Un viento de amnesia",
       "url": "https://open.spotify.com/track/4GWcRyNfjTawfSSNF1nBOd"
@@ -2310,7 +2386,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 248975,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/1ZD4PRGZC7HyPLxncinlt4"

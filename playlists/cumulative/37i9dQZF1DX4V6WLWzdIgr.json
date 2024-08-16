@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "BUBAR",
+        "url": "https://open.spotify.com/album/5ziZ1115qWXIYGaQyqWryk"
+      },
+      "artists": [
+        {
+          "name": "Masdddho",
+          "url": "https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311261,
+      "name": "BUBAR",
+      "url": "https://open.spotify.com/track/2DncDLvbz8UxX8faINaShQ"
+    },
+    {
+      "album": {
         "name": "Bubrah",
         "url": "https://open.spotify.com/album/5Nkut8ikqRpSbTAplNoMat"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 129602,
+  "num_followers": 129632,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAABbyPP0w98mz1TZBIoY/Dtm",
+  "snapshot_id": "ZrvzgAAAAABql2jeOdu4ZaGFY/5mvFPt",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "In Your Words",
+      "url": "https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 230256,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Contractor",
-      "url": "https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Contractor",
+      "url": "https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bill & Ted Face The Music (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4RFYP3Mo9vSA6Cf7HXDxsa"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 239441,
       "name": "The Death Of Us - From The \"Bill & Ted Face The Music\" Soundtrack",
       "url": "https://open.spotify.com/track/3ipiVujau0BpkJ0PmYUtWx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 324666,
-      "name": "In Your Words",
-      "url": "https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY"
     },
     {
       "added_at": null,

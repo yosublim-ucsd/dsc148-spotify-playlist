@@ -2,7 +2,7 @@
 
 ### [Disney Halloween](https://open.spotify.com/playlist/37i9dQZF1DWYa1w6FMMTnG)
 
-> Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.
+> Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
 111 songs - 5 hr 23 min
 

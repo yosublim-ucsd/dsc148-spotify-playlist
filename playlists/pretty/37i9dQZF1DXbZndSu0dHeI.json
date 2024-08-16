@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 225006,
+  "num_followers": 225068,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-02-03 00:30:16",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
-    },
-    {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
         "name": "The Florist",
         "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 190601,
       "name": "The Florist",
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
     },
     {
       "added_at": "2024-05-31 19:59:04",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
-      "added_at": "2024-03-22 16:44:40",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2tggKTosyVKKepsled2gaO"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 207353,
-      "name": "Be Your Boy",
-      "url": "https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM"
-    },
-    {
       "added_at": "2023-05-18 14:23:33",
       "album": {
         "name": "Dark Corners and Alchemy",
@@ -1215,6 +1199,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2024-03-22 16:44:40",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2tggKTosyVKKepsled2gaO"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 207353,
+      "name": "Be Your Boy",
+      "url": "https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM"
     },
     {
       "added_at": "2022-08-05 10:31:40",

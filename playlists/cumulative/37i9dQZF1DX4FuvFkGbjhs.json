@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Jorja Smith ",
+  "description": "Beyond titles, beyond genre. Cover: Kaeto",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 188164,
       "name": "30 Degrees",
       "url": "https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX"
@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/5TaDHs2jWD0vtpu34360yU"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160438,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/0a0KflahMJP1r7ryTBdHF6"
+    },
+    {
+      "album": {
         "name": "BETWEEN2WORLDS",
         "url": "https://open.spotify.com/album/0vU9edLqvX0azxdWwKzCKl"
       },
@@ -378,7 +396,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 161825,
       "name": "Bubble Wrap",
       "url": "https://open.spotify.com/track/5fcMtHMqoUB5j7nx08XylC"
@@ -486,7 +504,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 207473,
       "name": "Chicago Town",
       "url": "https://open.spotify.com/track/4HWoSEMc2gaaNBuAN47r8H"
@@ -762,10 +780,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 245985,
       "name": "Don't Ask",
       "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
+    },
+    {
+      "album": {
+        "name": "Paris / San Francisco",
+        "url": "https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227096,
+      "name": "Don't Go Back To Paris",
+      "url": "https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN"
     },
     {
       "album": {
@@ -1064,6 +1100,24 @@
       "duration_ms": 231483,
       "name": "Fucked Up",
       "url": "https://open.spotify.com/track/37bFATT8sxbVSJfPWegCSK"
+    },
+    {
+      "album": {
+        "name": "Garmonbozia",
+        "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Garmonbozia",
+      "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
     },
     {
       "album": {
@@ -1448,7 +1502,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 114081,
       "name": "ice (feat. BAMBII)",
       "url": "https://open.spotify.com/track/6hJctn0h0dnTfpijZcK8E9"
@@ -1922,7 +1976,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 116550,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG"
@@ -2399,6 +2453,28 @@
     },
     {
       "album": {
+        "name": "Set It Free [Feat. Richie]",
+        "url": "https://open.spotify.com/album/4cHbKnuwv6Y9EmEWvefqgY"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Richie",
+          "url": "https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245403,
+      "name": "Set It Free [Feat. Richie]",
+      "url": "https://open.spotify.com/track/6NV7Oyl0h2FzLvDC2IrVM4"
+    },
+    {
+      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/7n4NbaMVbblA9sIMzVXaej"
       },
@@ -2601,6 +2677,46 @@
     },
     {
       "album": {
+        "name": "Summer 2000 Baby / Take a Trip",
+        "url": "https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242410,
+      "name": "Summer 2000 Baby",
+      "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/27WtbsG9A8Rnaru5BG9ew2"
+      },
+      "artists": [
+        {
+          "name": "Surya Sen",
+          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139325,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3c7s8EXeQpSRfy9UtZ6lN5"
+    },
+    {
+      "album": {
         "name": "tears",
         "url": "https://open.spotify.com/album/4NCgay1BBCiIn6kl3F1S0P"
       },
@@ -2616,6 +2732,24 @@
       "duration_ms": 127510,
       "name": "tears",
       "url": "https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R"
+    },
+    {
+      "album": {
+        "name": "Thank Goodness",
+        "url": "https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200061,
+      "name": "Thank Goodness",
+      "url": "https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh"
     },
     {
       "album": {
@@ -2786,7 +2920,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 166650,
       "name": "time & time again",
       "url": "https://open.spotify.com/track/4j2wf2zy3TfUuRaaIg0ouk"
@@ -2920,7 +3054,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 191286,
       "name": "U R MINE",
       "url": "https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy"
@@ -3120,6 +3254,24 @@
       "duration_ms": 121884,
       "name": "You're the Best",
       "url": "https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE"
+    },
+    {
+      "album": {
+        "name": "Your Future Self",
+        "url": "https://open.spotify.com/album/01Ozj1B14JPx3j2Cq7F53S"
+      },
+      "artists": [
+        {
+          "name": "Tom Vek",
+          "url": "https://open.spotify.com/artist/4dGVRIf2xj0JhawVheLiOI"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282926,
+      "name": "Your Future Self",
+      "url": "https://open.spotify.com/track/0GWFtOdfZhtpq2dimXZrLr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4FuvFkGbjhs"

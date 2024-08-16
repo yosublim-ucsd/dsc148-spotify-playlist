@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 27685,
+  "num_followers": 27694,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAABvrxKZXhPgO+nPVyuAul8P",
+  "snapshot_id": "ZrvzgAAAAAAFe0W0GOpDHKWlv1wFV8bK",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 223426,
-      "name": "Superfantastic",
-      "url": "https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq"
+      "duration_ms": 211573,
+      "name": "Ain't Seen Love Like That - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/0Np00vOtVvqZpHqEyYylAs"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 211573,
-      "name": "Ain't Seen Love Like That - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/0Np00vOtVvqZpHqEyYylAs"
+      "duration_ms": 223426,
+      "name": "Superfantastic",
+      "url": "https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq"
     },
     {
       "added_at": null,
@@ -548,9 +548,25 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 245771,
-      "name": "Good Luck Trying",
-      "url": "https://open.spotify.com/track/7tB9vlz01OoHthwGM4e3Eq"
+      "duration_ms": 251900,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/17AdKvkNwCHuSPmTn6l4aA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Strike Like Lightning - Remastered",
-      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Big [Expanded]",
         "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
       },
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 288746,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
+      "duration_ms": 222506,
+      "name": "Strike Like Lightning - Remastered",
+      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
     },
     {
       "added_at": null,

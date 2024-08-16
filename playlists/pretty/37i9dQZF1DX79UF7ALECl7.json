@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121786,
+  "num_followers": 121788,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Hundred Fifty Up",
-        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 264192,
-      "name": "Hundred Fifty Up",
-      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Space Logic",
         "url": "https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 211025,
       "name": "I Need You to Hear Me",
       "url": "https://open.spotify.com/track/329rKlFCy5U6H9U7AtSAvP"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Hundred Fifty Up",
+        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 264192,
+      "name": "Hundred Fifty Up",
+      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Especiale(Fresh & Low Productions present Fresh Juice II)",
-        "url": "https://open.spotify.com/album/6cTmxKG2mtM54GGlx6dfvE"
-      },
-      "artists": [
-        {
-          "name": "Fresh & Low",
-          "url": "https://open.spotify.com/artist/2W4RGn8br96aceIfOzi8fI"
-        },
-        {
-          "name": "Fresh Juice II",
-          "url": "https://open.spotify.com/artist/6u4I3abi3QBppCjKCA6ERU"
-        }
-      ],
-      "duration_ms": 440000,
-      "name": "Especiale - Carnival Mix",
-      "url": "https://open.spotify.com/track/35lgMCRHT2Ehy6r6RTcTmf"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "NaturHaus",
         "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 246407,
       "name": "Too Hot, Too Cold",
       "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Especiale(Fresh & Low Productions present Fresh Juice II)",
+        "url": "https://open.spotify.com/album/6cTmxKG2mtM54GGlx6dfvE"
+      },
+      "artists": [
+        {
+          "name": "Fresh & Low",
+          "url": "https://open.spotify.com/artist/2W4RGn8br96aceIfOzi8fI"
+        },
+        {
+          "name": "Fresh Juice II",
+          "url": "https://open.spotify.com/artist/6u4I3abi3QBppCjKCA6ERU"
+        }
+      ],
+      "duration_ms": 440000,
+      "name": "Especiale - Carnival Mix",
+      "url": "https://open.spotify.com/track/35lgMCRHT2Ehy6r6RTcTmf"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -747,38 +763,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "I Don't Know Why",
-        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "I Don't Know Why",
-      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Gaia - Radio Edit",
-      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Golven",
         "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 194421,
       "name": "Golven",
       "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 245202,
+      "name": "Gaia - Radio Edit",
+      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
-      },
-      "artists": [
-        {
-          "name": "Baka G",
-          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
-        }
-      ],
-      "duration_ms": 345534,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Infinity (The Remixes)",
         "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 176356,
       "name": "Infinity (SLCT Remix) - Instrumental Version",
       "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
+      },
+      "artists": [
+        {
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
+        }
+      ],
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Anima",
         "url": "https://open.spotify.com/album/0XJNZA4EavYZ26GZl69o66"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 390485,
       "name": "Anima",
       "url": "https://open.spotify.com/track/5unR3ptVUULyGcG9LKC9Lg"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
     },
     {
       "added_at": "2024-06-03 13:14:44",

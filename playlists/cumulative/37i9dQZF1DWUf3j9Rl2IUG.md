@@ -2,13 +2,13 @@
 
 ### [Gbedu](https://open.spotify.com/playlist/37i9dQZF1DWUf3j9Rl2IUG)
 
-> Afrobeats' hottest singles\. Cover: Yemi Alade
+> Afrobeats' hottest singles\. Cover: Joeboy
 
-381 songs - 18 hr 12 min
+382 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 Bottles](https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [10 Bottles](https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh) | 2:58 | 2023-12-08 |  |
+| [10 Bottles](https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [10 Bottles](https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh) | 2:58 | 2023-12-08 | 2024-08-16 |
 | [2 Bad](https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [2 Bad](https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ) | 2:36 | 2023-03-15 | 2023-03-31 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-15 | 2023-06-23 |
 | [24/7](https://open.spotify.com/track/3bCbycN2nBKSeixp5sDmMi) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body, Soul & Spirit](https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ) | 2:26 | 2023-11-17 | 2023-12-08 |
@@ -389,5 +389,6 @@
 | [Yo Fam!](https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Yo Fam!](https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3) | 2:41 | 2023-09-08 | 2023-10-18 |
 | [You Go Know](https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [You Go Know](https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG) | 2:22 | 2023-03-23 | 2023-05-16 |
 | [Zaza](https://open.spotify.com/track/40wQLcBCqPVIHj6Hk8D3QP) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Zaza](https://open.spotify.com/album/1NKJU8S17PA7KpNrkP8OtT) | 2:16 | 2023-04-09 | 2023-04-26 |
+| [Zombie](https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Zombie](https://open.spotify.com/album/1EFBHXQWEoTrB6eMzvq9hc) | 2:13 | 2024-08-16 |  |
 
 \*This playlist was first scraped on 2022-12-01. Prior content cannot be recovered.

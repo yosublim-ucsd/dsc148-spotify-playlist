@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0xEkN2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0xEkN2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0xEkN2)
 
-### [This Is Panteon Rococo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xEkN2)
+### [Ovo je Panteon Rococo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xEkN2)
 
-> This is Panteon Rococo\. The essential tracks, all in one playlist.
+> This is Panteon Rococo\. Sve bitne numere na jednoj plejlisti.
 
 62 songs - 4 hr 2 min
 

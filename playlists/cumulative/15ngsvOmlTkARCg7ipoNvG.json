@@ -6443,6 +6443,24 @@
     },
     {
       "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/0n9jQMmpINdDUNPM2wLOFt"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60458,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/5gEkuJw8f6lNXOkbs72R9Y"
+    },
+    {
+      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/6wxCyPlB5QcvBXLrkkq3EC"
       },

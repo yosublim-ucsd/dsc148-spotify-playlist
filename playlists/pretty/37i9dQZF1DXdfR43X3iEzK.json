@@ -1,6 +1,6 @@
 {
   "description": "The best in new alternative pop. Cover: The Dare",
-  "num_followers": 45892,
+  "num_followers": 45932,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Call Me Up",
         "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 161168,
       "name": "Call Me Up",
       "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
+        "name": "HERicane",
+        "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
-        "name": "HERicane",
-        "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "HERicane",
-      "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
         "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
         "name": "Coming Back To Me Good",
         "url": "https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Happy World",
-        "url": "https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 179993,
-      "name": "Happy World",
-      "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "All Your Life",
         "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 221693,
       "name": "All Your Life",
       "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Happy World",
+        "url": "https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 179993,
+      "name": "Happy World",
+      "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy"
-      },
-      "artists": [
-        {
-          "name": "Bradley Simpson",
-          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Realms",
         "url": "https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 170339,
       "name": "Realms",
       "url": "https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "duration_ms": 142906,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
+        "name": "Say That You Will Wait For Me",
+        "url": "https://open.spotify.com/album/0npGwOcpQK5h9alSSpiAJU"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 220386,
+      "name": "Say That You Will Wait For Me",
+      "url": "https://open.spotify.com/track/1cnwhilvfTskSErS8A8Ppx"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
         "name": "WHO AM I",
         "url": "https://open.spotify.com/album/3lscD3431rsquJaUgnUAU3"
       },
@@ -1263,26 +1283,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Say That You Will Wait For Me",
-        "url": "https://open.spotify.com/album/0npGwOcpQK5h9alSSpiAJU"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        },
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 220386,
-      "name": "Say That You Will Wait For Me",
-      "url": "https://open.spotify.com/track/1cnwhilvfTskSErS8A8Ppx"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "crush (tom verlaine)",
         "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
       },
@@ -1299,18 +1299,34 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "RAT TRAP 5: the beginning",
-        "url": "https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn"
+        "name": "Skydiver",
+        "url": "https://open.spotify.com/album/7rujHjkYRu2sJrCfJSlFtE"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 178260,
-      "name": "American Spirit",
-      "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
+      "duration_ms": 239106,
+      "name": "Skydiver",
+      "url": "https://open.spotify.com/track/1IX5RUHNGNdIM92qwebSU8"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "effort in",
+        "url": "https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 145910,
+      "name": "effort in",
+      "url": "https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1331,22 +1347,6 @@
       "duration_ms": 207734,
       "name": "trespass coat",
       "url": "https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
-        "name": "Skydiver",
-        "url": "https://open.spotify.com/album/7rujHjkYRu2sJrCfJSlFtE"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "Skydiver",
-      "url": "https://open.spotify.com/track/1IX5RUHNGNdIM92qwebSU8"
     }
   ],
   "unique_name": "alt/pop",

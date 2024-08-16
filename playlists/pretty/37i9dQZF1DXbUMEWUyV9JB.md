@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,409 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,419 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 71 | [No me llames más](https://open.spotify.com/track/1P6GdZP0fBY4CRoYXG3r7b) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [No me llames más](https://open.spotify.com/album/1sj3t4g3wAxDe0dNWHqwyZ) | 3:16 |
 | 72 | [Máscara \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/track/0EpNfDwNgFUEdHvJ5jSgby) | [Fany y sus Tropicales](https://open.spotify.com/artist/6rzdQptvODu9LGopgGv393) | [Máscara \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/album/4ss2BW6S7DpHIrYbcm9fWh) | 3:11 |
 | 73 | [Qué Pensaste](https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN) | [Grupo Dominio](https://open.spotify.com/artist/3AIAbiLXeCSSSqYqo8zMAi), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Qué Pensaste](https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes) | 3:20 |
-| 74 | [Será](https://open.spotify.com/track/3ivQpS9JxcZ9wewc0aXoDH) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Será](https://open.spotify.com/album/6zUJ9NMTQ9mGThgPH6lF4f) | 2:37 |
-| 75 | [Cumbia En La Playa](https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [Quienes Somos](https://open.spotify.com/album/3A20APioynHFJaz8sItaP1) | 5:45 |
+| 74 | [Cumbia En La Playa](https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [Quienes Somos](https://open.spotify.com/album/3A20APioynHFJaz8sItaP1) | 5:45 |
+| 75 | [Será](https://open.spotify.com/track/3ivQpS9JxcZ9wewc0aXoDH) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Será](https://open.spotify.com/album/6zUJ9NMTQ9mGThgPH6lF4f) | 2:37 |
 | 76 | [Peligrosa y Linda](https://open.spotify.com/track/67H1L34DWG4M0wr4Y0VuNj) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX), [Wilceu Pause](https://open.spotify.com/artist/44Eoyx3pVM83sgqDzyY7sk) | [Peligrosa y Linda](https://open.spotify.com/album/1Ja4Zw46RSoClT3fBjFv3G) | 3:30 |
 | 77 | [Adoro](https://open.spotify.com/track/10DXxZz4pj3Y3kNrutKbB8) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Adoro](https://open.spotify.com/album/5j4gCXvNTkOlYblzmA7eYR) | 3:30 |
 | 78 | [Besar Tu Piel \(Con Buenos Aires\) \- En Vivo](https://open.spotify.com/track/4Vq5kQseWne9B8Mu9lO2aD) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Besar Tu Piel \(Con Buenos Aires\) \[En Vivo\]](https://open.spotify.com/album/4l63VeyYTk3AQg7d3EVsHx) | 3:12 |

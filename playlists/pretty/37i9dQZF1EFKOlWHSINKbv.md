@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155 likes - 148 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157 likes - 148 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 114 | [Shades](https://open.spotify.com/track/2EvnVj3AAmUBpbUgxpwtT9) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/1qYHiqLhWX6LRpBcqMV6by) | 5:57 |
 | 115 | [Still Miss You](https://open.spotify.com/track/4dVbGJjN7yjcfabOVBbX8p) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 2:52 |
 | 116 | [Turn Down for You \(feat\. Tank & Aroc!\)](https://open.spotify.com/track/75e7DFaTCLylS4hMRjHW2U) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Aroc!](https://open.spotify.com/artist/0uT3QSrGqBESB5s0XMa3WK) | [Cuffing Season](https://open.spotify.com/album/02Pte1TJ00hQSaWJCyJLzm) | 4:19 |
-| 117 | [American Mood](https://open.spotify.com/track/1qaK2WV09lYnzL3agJ79JW) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [American Mood](https://open.spotify.com/album/2EyxMEOKoNDsQluub6Wir5) | 4:15 |
-| 118 | [Bar Song](https://open.spotify.com/track/2UWs1yE9D6PXiwhRBOQ2Nw) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:48 |
+| 117 | [Bar Song](https://open.spotify.com/track/2UWs1yE9D6PXiwhRBOQ2Nw) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:48 |
+| 118 | [American Mood](https://open.spotify.com/track/1qaK2WV09lYnzL3agJ79JW) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [American Mood](https://open.spotify.com/album/2EyxMEOKoNDsQluub6Wir5) | 4:15 |
 | 119 | [Better](https://open.spotify.com/track/5hti7vGvZaAcfahfFdpflH) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Better](https://open.spotify.com/album/4gqJu8BjHIzyqJcXTQYX4f) | 2:46 |
 | 120 | [Wardrobe](https://open.spotify.com/track/1CgbQfXghlIMIrutpdWFWo) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Pulse](https://open.spotify.com/album/2aW8o2fX02d38656R9vNsx) | 3:31 |
 | 121 | [This Is What It Looks Like](https://open.spotify.com/track/4T56v5HtcI2xlxgDBTc9GC) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 5:01 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 147 | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/63S7ixo9OYf1VLCRjGoBWI) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/4rKCnoYMhbRTdsaIxjjh7K) | 3:41 |
 | 148 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 
-Snapshot ID: `AbZbTQAAAADmrOVkuBs6m8MCmfzRP/Pk`
+Snapshot ID: `AbZg7AAAAABc9Jv3pLrvL/N8I2Dz8dy5`

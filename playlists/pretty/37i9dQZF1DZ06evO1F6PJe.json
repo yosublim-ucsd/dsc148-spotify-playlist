@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 102328,
+  "num_followers": 102333,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAAAwUq51qJ3EbIwJgYSrVhqb",
+  "snapshot_id": "ZrvzgAAAAAAhr3pXKfOjxKwcO6LgxvZM",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Driving Towards The Daylight",
-        "url": "https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "I Got All You Need",
-      "url": "https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At The Hollywood Bowl With Orchestra",
         "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
       },
@@ -379,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+        "name": "Driving Towards The Daylight",
+        "url": "https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R"
       },
       "artists": [
         {
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 260173,
-      "name": "Black Night",
-      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
+      "duration_ms": 183493,
+      "name": "I Got All You Need",
+      "url": "https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj"
     },
     {
       "added_at": null,
@@ -407,6 +391,22 @@
       "duration_ms": 232933,
       "name": "Long Distance Blues",
       "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 272280,
+      "name": "Twenty-Four Hour Blues",
+      "url": "https://open.spotify.com/track/1GIkTBgTJYpWmvLYz2Nxrp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "With You I Go",
         "url": "https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 304360,
       "name": "With You I Go",
       "url": "https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 272280,
-      "name": "Twenty-Four Hour Blues",
-      "url": "https://open.spotify.com/track/1GIkTBgTJYpWmvLYz2Nxrp"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S.O.S. 4: Blues For Your Soul",
-        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Driving Wheel",
-      "url": "https://open.spotify.com/track/4Lvby06863caCqrmISPYp3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Deluxe Vol. 2",
         "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
       },
@@ -679,6 +659,22 @@
       "duration_ms": 252493,
       "name": "I Want To Shout About It",
       "url": "https://open.spotify.com/track/14oXexdYYKuABVxIldH4BS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 301760,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Road To Redemption",
-        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
       },
       "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 301760,
-      "name": "Black Roses",
-      "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
+      "duration_ms": 213826,
+      "name": "Driving Wheel",
+      "url": "https://open.spotify.com/track/4Lvby06863caCqrmISPYp3"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charisma",
+        "url": "https://open.spotify.com/album/6PXxlkzFaMeMEf2ziEOyhs"
+      },
+      "artists": [
+        {
+          "name": "Andy Wood",
+          "url": "https://open.spotify.com/artist/5joubZqEbfc77SxLgM85XW"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "Moaning Lisa",
+      "url": "https://open.spotify.com/track/0OhxYM6kukjY0jP8LAly8s"
     },
     {
       "added_at": null,

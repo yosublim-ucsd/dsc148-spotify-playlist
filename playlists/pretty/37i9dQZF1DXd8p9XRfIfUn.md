@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: AKRIILA, TAICHU
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,737 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,746 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 21 | [Su Mirada](https://open.spotify.com/track/1MOaqR0xrws9MZ3Yf57f9C) | [Don Kila](https://open.spotify.com/artist/2Ccy32OrB8C3KTfwpD5nui), [ELOCK](https://open.spotify.com/artist/4Jm5DmScIBNV66mvwMx7t9), [Dobble](https://open.spotify.com/artist/2cUPc5nStERPfcSlK2z6ws), [K\-BO](https://open.spotify.com/artist/34lEWpozHuvD8b3cAQHnzQ) | [Su Mirada](https://open.spotify.com/album/30VzYxItBPxQndd3ImIPCX) | 4:00 |
 | 22 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
 | 23 | [q macizo te valgo vrga](https://open.spotify.com/track/1ldKQrLChHxRskT8p5uvkh) | [Luis Mint](https://open.spotify.com/artist/1kGLVoWLKArhbWhADndMKu) | [q macizo te valgo vrga](https://open.spotify.com/album/167Ybro29cAmgra8lwmRJh) | 1:54 |
-| 24 | [FBI](https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [FBI](https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL) | 2:32 |
+| 24 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 | 25 | [FOTITOS X DM](https://open.spotify.com/track/68gGjajzOvXdkybl51Ia9T) | [Lexxx Torres](https://open.spotify.com/artist/5JUJKO2egZMEcwR3fB3u0w) | [FOTITOS X DM](https://open.spotify.com/album/53oeLJB3gVKrNY6zxSD6qX) | 3:03 |
-| 26 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
+| 26 | [FBI](https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [FBI](https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL) | 2:32 |
 | 27 | [Desbloqueada](https://open.spotify.com/track/3F7gFZVbm4oqxVcuBYNq8H) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [Desbloqueada](https://open.spotify.com/album/4MBe8XkehD9SCiu1w4vFd0) | 2:35 |
 | 28 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 |
 | 29 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |

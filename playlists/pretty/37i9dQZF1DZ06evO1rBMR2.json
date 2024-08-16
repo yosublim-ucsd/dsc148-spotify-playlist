@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 115277,
+  "description": "This Is Los Huracanes del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 115308,
   "original_name": "This Is Los Huracanes del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAADx6/CtXfKMmoSFJMyzGjLM",
+  "snapshot_id": "ZrvzgAAAAABd0DFB5W+FLruTyfzbPr1D",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vientos Huracanados",
-        "url": "https://open.spotify.com/album/1eBRnitNiRIR4CGDfyTrM4"
+        "name": "Puro Pa` Arriba",
+        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 165642,
-      "name": "Medio Pueblo",
-      "url": "https://open.spotify.com/track/5BLHGE5bPjXGaDaVnCM9CT"
+      "duration_ms": 180768,
+      "name": "Ay Amigo",
+      "url": "https://open.spotify.com/track/4QCDEseQ7VOQpV30TMA4Sc"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puro Pa` Arriba",
-        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
+        "name": "Vientos Huracanados",
+        "url": "https://open.spotify.com/album/1eBRnitNiRIR4CGDfyTrM4"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 180768,
-      "name": "Ay Amigo",
-      "url": "https://open.spotify.com/track/4QCDEseQ7VOQpV30TMA4Sc"
+      "duration_ms": 165642,
+      "name": "Medio Pueblo",
+      "url": "https://open.spotify.com/track/5BLHGE5bPjXGaDaVnCM9CT"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puro Pa` Arriba",
-        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
+        "name": "Norte\u00f1o 2000",
+        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 177032,
-      "name": "Paloma Querida",
-      "url": "https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo"
+      "duration_ms": 124055,
+      "name": "El Embrujado",
+      "url": "https://open.spotify.com/track/3ImJG38rC30tii4Mx5iFhS"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1o 2000",
-        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
+        "name": "Puro Pa` Arriba",
+        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 124055,
-      "name": "El Embrujado",
-      "url": "https://open.spotify.com/track/3ImJG38rC30tii4Mx5iFhS"
+      "duration_ms": 177032,
+      "name": "Paloma Querida",
+      "url": "https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo"
     },
     {
       "added_at": null,

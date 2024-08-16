@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=LIvjpBufTzuEnfsCe5ul3g\">Manana</a>, <a href=\"https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=egylZMFXTKKjxV-LkmPxCQ\">Shallipopi</a> and <a href=\"https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=Hb4fENpGRRW4g9bWlLEXHA\">Joshua Baraka</a>",
+  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=LIvjpBufTzuEnfsCe5ul3g\">Manana</a>",
   "name": "RADAR Africa",
   "tracks": [
     {
@@ -714,6 +714,24 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "album": {
+        "name": "Baridi",
+        "url": "https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195419,
+      "name": "Baridi",
+      "url": "https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY"
     },
     {
       "album": {
@@ -2077,6 +2095,28 @@
     },
     {
       "album": {
+        "name": "The Party & The After Party",
+        "url": "https://open.spotify.com/album/56Kq8ZQ6hr8weMZ39FfkZq"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Extra Pressure",
+      "url": "https://open.spotify.com/track/5psM7zuqtSaMnLr9WzI4s5"
+    },
+    {
+      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
       },
@@ -2350,7 +2390,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 217421,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct"
@@ -2368,7 +2408,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 209454,
       "name": "Future",
       "url": "https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA"
@@ -2622,7 +2662,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 199306,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK"
@@ -3110,7 +3150,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 234545,
       "name": "Jioni",
       "url": "https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w"
@@ -3682,6 +3722,24 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "album": {
+        "name": "Our Broken Hearts Mend",
+        "url": "https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233920,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/3YbWbLKexX7qyDjWxs4s9h"
     },
     {
       "album": {
@@ -6222,6 +6280,24 @@
       "duration_ms": 196471,
       "name": "The One (Chop Life)",
       "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"
+    },
+    {
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/7zaEINCxXYRwKQPskpmTPQ"
+      },
+      "artists": [
+        {
+          "name": "Kethan",
+          "url": "https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170303,
+      "name": "This Type of Love",
+      "url": "https://open.spotify.com/track/5MDhcZJvpTGWnJrBCOgSgu"
     },
     {
       "album": {

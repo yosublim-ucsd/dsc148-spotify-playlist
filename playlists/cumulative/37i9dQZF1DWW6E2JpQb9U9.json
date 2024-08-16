@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 617491,
       "name": "Dorado y P\u00farpura - En Vivo",
       "url": "https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB"
@@ -4292,7 +4292,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 410746,
       "name": "Pantalla Del Mundo Nuevo",
       "url": "https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M"
@@ -4346,7 +4346,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 377832,
       "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
       "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
@@ -4666,6 +4666,24 @@
       "duration_ms": 309720,
       "name": "Pistolas - En Vivo",
       "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
+    },
+    {
+      "album": {
+        "name": "Por Mil Noches (En Vivo)",
+        "url": "https://open.spotify.com/album/1OSrYHj95HX9relLWTvp7d"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303857,
+      "name": "Por Mil Noches - En Vivo",
+      "url": "https://open.spotify.com/track/6TggFUAsxDQXxqd9qTUKF5"
     },
     {
       "album": {
@@ -5855,6 +5873,28 @@
     },
     {
       "album": {
+        "name": "El T\u00edo Valen y El Sindicato de la Locura (En Vivo en el Teatro Bar La Plata)",
+        "url": "https://open.spotify.com/album/2AfRfXEJvS3m4RfA3wBzYw"
+      },
+      "artists": [
+        {
+          "name": "El Tio Valen",
+          "url": "https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8"
+        },
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282118,
+      "name": "Trasnoche - En Vivo en el Teatro Bar La Plata",
+      "url": "https://open.spotify.com/track/6xve3kRT3BJpXaTe0S1zYa"
+    },
+    {
+      "album": {
         "name": "En Vivo All Boys",
         "url": "https://open.spotify.com/album/0nmz8GOCgQ2cRHtUPqpH6c"
       },
@@ -6032,7 +6072,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 145712,
       "name": "Una Persona Especial (En Vivo)",
       "url": "https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht"

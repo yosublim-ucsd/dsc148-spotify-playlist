@@ -1,6 +1,6 @@
 {
   "description": "Celebrating our EQUAL ambassador Kesha and the women she champions at the top of our list!  ",
-  "num_followers": 58927,
+  "num_followers": 58926,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-08-08 14:26:38",
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/6auO2yyC62fgBHAXmPf7ap"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 185785,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/66KnATMXwIjIR4ju5KYznX"
-    },
-    {
-      "added_at": "2024-08-08 14:26:38",
-      "album": {
         "name": "Free Like",
         "url": "https://open.spotify.com/album/3oLm7KrYF4ZMdqlialglaN"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 169114,
       "name": "Free Like",
       "url": "https://open.spotify.com/track/1pRvzjKNkW5DY1ycqAftIR"
+    },
+    {
+      "added_at": "2024-08-08 14:26:38",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6auO2yyC62fgBHAXmPf7ap"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 185785,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/66KnATMXwIjIR4ju5KYznX"
     },
     {
       "added_at": "2024-08-08 14:26:38",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-08-08 14:26:38",
       "album": {
-        "name": "Body (feat. Tima Dee)",
-        "url": "https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Tima Dee",
-          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
-        }
-      ],
-      "duration_ms": 165468,
-      "name": "Body (feat. Tima Dee)",
-      "url": "https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE"
-    },
-    {
-      "added_at": "2024-08-08 14:26:38",
-      "album": {
         "name": "Son Of A Gun",
         "url": "https://open.spotify.com/album/293OStVaxP03Eovnp5aeC0"
       },
@@ -723,18 +703,22 @@
     {
       "added_at": "2024-08-08 14:26:38",
       "album": {
-        "name": "Power of Panic",
-        "url": "https://open.spotify.com/album/1zfxKqa3dLKcXto7XOZT0u"
+        "name": "Body (feat. Tima Dee)",
+        "url": "https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58"
       },
       "artists": [
         {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
         }
       ],
-      "duration_ms": 167200,
-      "name": "Ticking Time Bomb",
-      "url": "https://open.spotify.com/track/1CtVZuYHOWTY7QYSTbYbu4"
+      "duration_ms": 165468,
+      "name": "Body (feat. Tima Dee)",
+      "url": "https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE"
     },
     {
       "added_at": "2024-08-08 14:26:38",
@@ -751,6 +735,22 @@
       "duration_ms": 169870,
       "name": "Peppermint Sky",
       "url": "https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK"
+    },
+    {
+      "added_at": "2024-08-08 14:26:38",
+      "album": {
+        "name": "Power of Panic",
+        "url": "https://open.spotify.com/album/1zfxKqa3dLKcXto7XOZT0u"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Ticking Time Bomb",
+      "url": "https://open.spotify.com/track/1CtVZuYHOWTY7QYSTbYbu4"
     },
     {
       "added_at": "2024-08-08 14:26:38",

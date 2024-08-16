@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-985 songs - 2 day 0 hr 56 min
+986 songs - 2 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-12 | 2023-01-29 |
 | [Cuma](https://open.spotify.com/track/4v1eCQCl3d5w8a6Czv4qTv) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [HAFTASONU](https://open.spotify.com/album/2xTlPPoVRncrhgRLSc8moa) | 2:10 | 2023-06-24 | 2023-11-03 |
 | [DACIA](https://open.spotify.com/track/0okYvXKPqzZpj3iZrJH6JK) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DACIA](https://open.spotify.com/album/4nO3TIfUPnGSnryBvA9q1N) | 2:09 | 2023-01-15 | 2023-05-03 |
-| [DACIA X YATIYA \- Remix](https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [DACIA X YATIYA \(Remix\)](https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG) | 2:38 | 2024-02-27 |  |
+| [DACIA X YATIYA \- Remix](https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [DACIA X YATIYA \(Remix\)](https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG) | 2:38 | 2024-02-27 | 2024-08-16 |
 | [Daima](https://open.spotify.com/track/1u61m2yf7AaeGjASOpOOqR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Daima](https://open.spotify.com/album/4R1bXGAqz7bizLhnIaZm8p) | 3:24 | 2022-04-30 | 2022-08-01 |
 | [Dal](https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Harekete kimse mâni olamaz.](https://open.spotify.com/album/43HQQ1JRPf6BqgZalomLrV) | 4:28 | 2021-11-21 | 2021-11-28 |
 | [Dale Don Dale](https://open.spotify.com/track/5NNq3XWctTpeywNXk7gXSp) | [anybxr fuhrxr](https://open.spotify.com/artist/4QjAWiU4hVMAajZYqmQdpM) | [Dale Don Dale](https://open.spotify.com/album/09gpaz79RQkO8wDsG9KTIF) | 1:58 | 2024-08-06 | 2024-08-08 |
@@ -311,7 +311,7 @@
 | [Efkarım Var](https://open.spotify.com/track/1m4nj2HR88dY4hleKc71qn) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Yaşam Çiçeği](https://open.spotify.com/album/5XAbg5hEVbP2Io6EzpvnyP) | 3:12 | 2021-04-09 | 2021-07-10 |
 | [El Patron](https://open.spotify.com/track/5h7jMTFPuqd5Equ7jUSFDT) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [EL PATRON](https://open.spotify.com/album/6aKRuXIgsdwIVonTP7PguK) | 2:33 | 2021-04-11 | 2021-04-18 |
 | [Elimde Fotoğrafın](https://open.spotify.com/track/4VC8fmwVLEqppUhyTx7pJa) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Sevgimin Bedeli](https://open.spotify.com/album/5CL86tQ9NiYSd6Bkzrp4Fv) | 6:55 | 2022-03-08 | 2022-03-16 |
-| [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-05-19 |  |
+| [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-05-19 | 2024-08-16 |
 | [Ellerin Hani?](https://open.spotify.com/track/6Mv4D3yBHN5lN7jowqJmm9) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [Ellerin Hani?](https://open.spotify.com/album/0PK542P19KxsrC0erdCNHy) | 3:05 | 2023-01-15 | 2023-01-22 |
 | [ELLERİM BOŞ](https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ELLERİM BOŞ](https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj) | 2:04 | 2023-10-02 |  |
 | [ELMAS](https://open.spotify.com/track/37yAd2kwEI9axbB6UznrOQ) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [ELMAS](https://open.spotify.com/album/3I9p3UhZEHa6jmZyHhveco) | 3:04 | 2021-05-09 | 2021-06-12 |
@@ -506,6 +506,7 @@
 | [Jalebi Baby](https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Jalebi Baby](https://open.spotify.com/album/2k8nShpibT4psqEQV7Smqc) | 3:09 | 2021-04-10 | 2021-04-15 |
 | [Jalebi Baby](https://open.spotify.com/track/40R5dXDbS3mLG9ng7COXtt) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Jalebi Baby](https://open.spotify.com/album/6ZVhO5wnf5PfUfREZylP2u) | 3:09 | 2021-03-30 | 2021-04-10 |
 | [JET BABA](https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [JET BABA](https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm) | 2:20 | 2023-12-02 | 2024-06-16 |
+| [Kabul Olan Tek Duamsın](https://open.spotify.com/track/36oBlwSPNtA48TLYqk4SNp) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn) | [Kabul Olan Tek Duamsın](https://open.spotify.com/album/711zVBGg9kjmtHfcHZIZZE) | 3:30 | 2024-08-15 |  |
 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/14y1hmMvxwpDLbZnY5i0Ne) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/7jSFXGgz5Yx96tTnshqitQ) | 2:26 | 2024-07-27 |  |
 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 | 2024-08-09 | 2024-08-11 |
 | [Kader](https://open.spotify.com/track/3F0f7Sn5dKdUHJUcyh38mY) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Kader](https://open.spotify.com/album/1WqBaT9UT7Q1onJHbplcWt) | 3:09 | 2021-07-18 | 2021-07-30 |
@@ -760,7 +761,7 @@
 | [RXCKSTAR](https://open.spotify.com/track/5PdGvW7w6Xf2tKZ8lKjJWd) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [RXCKSTAR](https://open.spotify.com/album/1XexpWydcoRRNHMaygdPbY) | 1:13 | 2024-01-29 | 2024-02-21 |
 | [Rüya Gibi](https://open.spotify.com/track/06wiBJmkmQSQUEUj8TESu0) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Mavzer Tabancas](https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0) | [Rüya Gibi](https://open.spotify.com/album/768mfmAJuwFne65w5xmGso) | 2:50 | 2023-11-07 | 2024-03-07 |
 | [Rüyamda Buluttum](https://open.spotify.com/track/4DIgXpNk216oU44hPmyxy6) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Demet Evgar](https://open.spotify.com/artist/5PZbAEIJg4YfrzvOIfdzbD) | [Rüyamda Buluttum / Acı Kiraz](https://open.spotify.com/album/6GuB5ytaOBqaiK4dFXc86C) | 3:26 | 2021-08-15 | 2021-10-03 |
-| [Saat 03.00 \(By Volga Tamöz\)](https://open.spotify.com/track/45cI1Cz1nyp1sHiUd2kgal) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Dört Dörtlük](https://open.spotify.com/album/6BlUffy1dlYUfo3uUhnwP8) | 3:32 | 2024-06-18 | 2024-08-11 |
+| [Saat 03.00 \(By Volga Tamöz\)](https://open.spotify.com/track/45cI1Cz1nyp1sHiUd2kgal) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Dört Dörtlük](https://open.spotify.com/album/6BlUffy1dlYUfo3uUhnwP8) | 3:32 | 2024-06-18 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-10 |
 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/1e6BkMSpHCTNoBGyn1C6oV) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SEVİMSİZ](https://open.spotify.com/album/2IQFXC71m1lcpg5YIy4KIF) | 1:35 | 2024-06-08 | 2024-06-23 |
 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 | 2024-05-31 | 2024-06-09 |

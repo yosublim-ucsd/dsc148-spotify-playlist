@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 244166,
+  "num_followers": 244275,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAAC5XTW7fIqaE15M3iogRU3x",
+  "snapshot_id": "ZrvzgAAAAAB4HL7sUAmYhVMaoD7JJCgK",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 186121,
+      "name": "penhasco.",
+      "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 167122,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 186121,
-      "name": "penhasco.",
-      "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CACHORRINHAS",
-        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 134936,
-      "name": "CACHORRINHAS",
-      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Combatchy (feat. MC Rebecca)",
         "url": "https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 157600,
       "name": "Combatchy (feat. MC Rebecca)",
       "url": "https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CACHORRINHAS",
+        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 134936,
+      "name": "CACHORRINHAS",
+      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
     },
     {
       "added_at": null,

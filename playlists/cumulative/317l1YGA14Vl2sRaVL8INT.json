@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Blurry",
+        "url": "https://open.spotify.com/album/5WOGUqHDzVSJSghJRAVKl0"
+      },
+      "artists": [
+        {
+          "name": "Good Terms",
+          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172013,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/4LCUSqUApVvY2my2UmnfLS"
+    },
+    {
+      "album": {
         "name": "Greatest Hits: God's Favorite Band",
         "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
       },
@@ -2080,6 +2098,46 @@
       "duration_ms": 200920,
       "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
       "url": "https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE"
+    },
+    {
+      "album": {
+        "name": "Behind Bars (Remixed and Remastered)",
+        "url": "https://open.spotify.com/album/7ukWpKTCe1kEPD8qPn4Uy4"
+      },
+      "artists": [
+        {
+          "name": "88 Fingers Louie",
+          "url": "https://open.spotify.com/artist/1ROFZ7U6Yvj0lHzydH8x6J"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128260,
+      "name": "I Hate Myself",
+      "url": "https://open.spotify.com/track/2o3Oszqet28ISSpzWPbTPF"
+    },
+    {
+      "album": {
+        "name": "I Hate Myself",
+        "url": "https://open.spotify.com/album/5m0n6HekuvU8BCquIEla3m"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139581,
+      "name": "I Hate Myself",
+      "url": "https://open.spotify.com/track/5mBMihCbadPG6ff57Op4WR"
     },
     {
       "album": {

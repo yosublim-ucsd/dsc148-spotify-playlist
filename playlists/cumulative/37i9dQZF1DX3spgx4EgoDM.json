@@ -3883,6 +3883,24 @@
     },
     {
       "album": {
+        "name": "Nuestro Lugar Favorito",
+        "url": "https://open.spotify.com/album/4HkVGLhyOMKFGrBUjD8i00"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193278,
+      "name": "Nuestro Lugar Favorito",
+      "url": "https://open.spotify.com/track/1e9yPXR55yigIsBDhVx2fZ"
+    },
+    {
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
       },
@@ -4102,7 +4120,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 267964,
       "name": "Onda Free",
       "url": "https://open.spotify.com/track/2bU0djUCBF7dQl9fbRVHTW"

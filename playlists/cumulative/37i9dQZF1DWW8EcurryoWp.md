@@ -2,9 +2,9 @@
 
 ### [Alternative Ireland](https://open.spotify.com/playlist/37i9dQZF1DWW8EcurryoWp)
 
-> The best new Irish alternative sounds\. Cover: chameleon
+> The best new Irish alternative sounds\. Cover: Gurriers
 
-81 songs - 4 hr 48 min
+84 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 | 2024-06-20 |  |
 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 | 2024-06-20 |  |
 | [At Your Door](https://open.spotify.com/track/6KE0OMBcrLWD6UbThRZkW5) | [The Burma](https://open.spotify.com/artist/6nnn5LYcpqTA3f7mjLcpuK) | [Crazy Dreams & Cruel Realities](https://open.spotify.com/album/3AtPIPXneAYe1XKGet7Xhb) | 3:46 | 2024-06-20 |  |
-| [Aug 5th](https://open.spotify.com/track/1ovnbUnr1yO4hYqMRKQctV) | [NIALLISH](https://open.spotify.com/artist/4rG3saZbVCrcSaCM5XbbmS) | [Aug 5th](https://open.spotify.com/album/7wxt9oC9GZiOoOFF2jgw6r) | 2:07 | 2024-06-20 |  |
+| [Aug 5th](https://open.spotify.com/track/1ovnbUnr1yO4hYqMRKQctV) | [NIALLISH](https://open.spotify.com/artist/4rG3saZbVCrcSaCM5XbbmS) | [Aug 5th](https://open.spotify.com/album/7wxt9oC9GZiOoOFF2jgw6r) | 2:07 | 2024-06-20 | 2024-08-16 |
 | [Babyteeth](https://open.spotify.com/track/4ExOypIb635SdfLjCr6vrQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Supernumeraries](https://open.spotify.com/album/0TvQYUhMSRAT00e3qHXt7y) | 4:12 | 2024-06-20 | 2024-07-19 |
 | [Bad Machine](https://open.spotify.com/track/23ICIRdFlz7XTWc3fz8Kuq) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [Bad Machine](https://open.spotify.com/album/20tBlGSdefnG0bzav4JByv) | 3:28 | 2024-06-20 | 2024-07-05 |
 | [Baked Cheesecake](https://open.spotify.com/track/2f9blujS4WOKvmQ50k2TqU) | [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Berlin](https://open.spotify.com/album/7dLIT8Z8tQOguvIlYTfqpv) | 3:58 | 2024-06-20 | 2024-07-13 |
@@ -28,7 +28,7 @@
 | [Crash and Burn](https://open.spotify.com/track/71yDRBo3i9b5kQZClMO2t4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Crash and Burn / Said Nothing](https://open.spotify.com/album/4XWv8Kw5seA17Ki0uMwnBf) | 3:29 | 2024-06-20 | 2024-07-27 |
 | [CSB](https://open.spotify.com/track/7oflizr4wg5N1DnVt0YZoQ) | [Skies Behind](https://open.spotify.com/artist/4Y0QbsWzdVpjGquNqZuAo8) | [The Spaces](https://open.spotify.com/album/0uCPP0LYOmW1BJbHf7fib8) | 3:19 | 2024-06-20 |  |
 | [Doctor](https://open.spotify.com/track/4y3huzGv2hwDcEinxfAAwm) | [HAWKE THE BAND](https://open.spotify.com/artist/4J60NlrfKz5XOOG2qi2jGY) | [Doctor](https://open.spotify.com/album/7p22ll5NRESGc4I7B6m2ZI) | 3:01 | 2024-06-20 |  |
-| [Don't Wanna Talk About It](https://open.spotify.com/track/0THLcu5UQrY7q0RW2ZU6Ze) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [Don't Wanna Talk About It](https://open.spotify.com/album/25bQY9BdoUpb5SXlxyt6jX) | 2:44 | 2024-06-20 |  |
+| [Don't Wanna Talk About It](https://open.spotify.com/track/0THLcu5UQrY7q0RW2ZU6Ze) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [Don't Wanna Talk About It](https://open.spotify.com/album/25bQY9BdoUpb5SXlxyt6jX) | 2:44 | 2024-06-20 | 2024-08-16 |
 | [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-06-20 |  |
 | [Everybody Leaves](https://open.spotify.com/track/10v69ck5BJLWCBCiIsnaGF) | [eurelle](https://open.spotify.com/artist/6XSTacYVitxfbDlteNG93I) | [Everybody Leaves](https://open.spotify.com/album/3cSYWgtP64LMZ0EO3VeKj2) | 4:03 | 2024-06-20 |  |
 | [Exit Oblivion](https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [all good](https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes) | 3:30 | 2024-06-20 |  |
@@ -37,11 +37,12 @@
 | [Fool](https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Fool](https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e) | 3:11 | 2024-06-20 |  |
 | [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Chi\-chi](https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 | 2024-06-20 |  |
 | [Haunted](https://open.spotify.com/track/38NEzzR2y74D41NvB09VBn) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Haunted](https://open.spotify.com/album/6qnp9qiW7lBpM2mTUGtIOr) | 3:32 | 2024-06-20 |  |
-| [Have Fun!](https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Have Fun!](https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq) | 4:30 | 2024-06-20 |  |
+| [Have Fun!](https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Have Fun!](https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq) | 4:30 | 2024-06-20 | 2024-08-16 |
 | [I Never Knew You Well](https://open.spotify.com/track/4pU9XfXGm1773grbmqu4gh) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [CALL ME TWICE PT\. 1](https://open.spotify.com/album/433SKA9JbP0aeE103H6mmA) | 4:29 | 2024-07-18 |  |
 | [I Never Knew You Well](https://open.spotify.com/track/584EHgjZawSuATtQfBiatd) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [I Never Knew You Well](https://open.spotify.com/album/0oHMTATKEwfYUkgJJVsxmv) | 4:29 | 2024-06-20 |  |
 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 | 2024-06-20 | 2024-07-19 |
 | [If I'm Honest](https://open.spotify.com/track/2h4BzF4qLauHjl10V1y0Xy) | [of all living things](https://open.spotify.com/artist/3pNytGB05MU3Rb5yCVs9yl) | [If I'm Honest](https://open.spotify.com/album/7jfek22365V5tQCUrpntc3) | 3:01 | 2024-06-20 |  |
+| [in your eyes](https://open.spotify.com/track/2uIVqkvexfD6BF2xDXs9fR) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [in your eyes](https://open.spotify.com/album/74A8qsiGrv3YIbAsPUGPBV) | 3:55 | 2024-08-15 |  |
 | [Ingrid Bergman](https://open.spotify.com/track/14BOO0aHNAlSHBA2qZbHer) | [All of Eden](https://open.spotify.com/artist/35SCef5OjAjpX89gpHuMRO) | [Ingrid Bergman](https://open.spotify.com/album/4xoqOw1eTKcjVnqu9M4HXd) | 4:03 | 2024-06-20 |  |
 | [it's alright](https://open.spotify.com/track/7rA54vu3U32Xr2jT0evIyg) | [InBetween Honey](https://open.spotify.com/artist/3dUXgmYPiKgVslodN39C6v) | [it's alright](https://open.spotify.com/album/2sh9FG6zeOq9yl91bgwBoh) | 2:29 | 2024-07-25 |  |
 | [Kilanova Horizon](https://open.spotify.com/track/6KDSxUrvroOumG9XvAzPrd) | [Luna Motif](https://open.spotify.com/artist/72RZQEW8b04412JotqI9Nx) | [Kilanova Horizon](https://open.spotify.com/album/4to3MRaVBH84yfK3d9tUTI) | 2:59 | 2024-06-20 |  |
@@ -60,6 +61,7 @@
 | [Out of Style](https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Out of Style](https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC) | 2:44 | 2024-06-20 |  |
 | [Part Of You](https://open.spotify.com/track/2PFF992BZV08mBUmBjXwZ2) | [Four Faces](https://open.spotify.com/artist/3pEp0EpInOqtjpm9O03n0H) | [Part Of You](https://open.spotify.com/album/5guvor0zF8XSjPPvdEwIRM) | 3:41 | 2024-07-25 |  |
 | [Patchwork](https://open.spotify.com/track/2iCu9AHyRd7SGtqM2Njczy) | [Oisín](https://open.spotify.com/artist/3cEXUDLDM6nSC5dd13sBBB) | [Patchwork](https://open.spotify.com/album/14FwliJLQLlA2WPaYWUDNM) | 2:53 | 2024-06-20 |  |
+| [patrick](https://open.spotify.com/track/1nC4M0b5jJZLTisNET5LWo) | [drifting.](https://open.spotify.com/artist/4VEAvjBB04pvTuBP06UeAV) | [73 dame st.](https://open.spotify.com/album/2wA80Wc7ur8nRWx2bSfkQM) | 3:47 | 2024-08-15 |  |
 | [Pretty Happy Alone](https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM) | [The Love Buzz](https://open.spotify.com/artist/103TWTu6vxVZ9g6eqA1ntP) | [Pretty Happy Alone](https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq) | 3:02 | 2024-06-20 |  |
 | [Prospect](https://open.spotify.com/track/0DcWjXflMeyVYxZtqWIfj5) | [Blue Slate](https://open.spotify.com/artist/5zExcYSTt7HvimLkiRk0Cp) | [Prospect](https://open.spotify.com/album/5h8CK1D14urflOzCftKBXn) | 3:26 | 2024-06-20 |  |
 | [rain](https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5) | [wxlfcut](https://open.spotify.com/artist/4KsTSYMKkgKaRpPAbjbLnJ) | [rain](https://open.spotify.com/album/704xBAoF4PQXfM188RR020) | 3:08 | 2024-06-20 |  |
@@ -78,7 +80,7 @@
 | [switching tongues](https://open.spotify.com/track/0oscvFSKOFlJSnRYOYmlZu) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [switching tongues](https://open.spotify.com/album/28EXVEcrRvzNyp7BpLJ6S8) | 2:29 | 2024-06-20 |  |
 | [Talk To](https://open.spotify.com/track/6gTSHLGb157BB1Y4GakOnv) | [Sheerbuzz](https://open.spotify.com/artist/66Jf8kE6FvL3FiLHD0lWTY) | [Talk To](https://open.spotify.com/album/3CNF54cH33278EJcku3gXI) | 4:31 | 2024-06-20 | 2024-07-19 |
 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 | 2024-06-20 |  |
-| [The Bass](https://open.spotify.com/track/0gMUe9f7zSPbLIx9Js05J1) | [I Dreamed I Dream](https://open.spotify.com/artist/6Mtmyy5Gpg33uPrT44YtDV) | [Why Say A Lot?](https://open.spotify.com/album/2ibsIihIJ6P00cX0ag8N2j) | 4:44 | 2024-06-20 |  |
+| [The Bass](https://open.spotify.com/track/0gMUe9f7zSPbLIx9Js05J1) | [I Dreamed I Dream](https://open.spotify.com/artist/6Mtmyy5Gpg33uPrT44YtDV) | [Why Say A Lot?](https://open.spotify.com/album/2ibsIihIJ6P00cX0ag8N2j) | 4:44 | 2024-06-20 | 2024-08-16 |
 | [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 | 2024-06-20 |  |
 | [The Pressures of the Heart](https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Pressures of the Heart](https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe) | 2:54 | 2024-07-04 |  |
 | [The Ridiculousness Of Everything](https://open.spotify.com/track/40NZRbfShwYGFsrd59sFBN) | [Strangers with Guns](https://open.spotify.com/artist/1xeBRN8R2Y9VytLrJRH86c) | [The Ridiculousness Of Everything](https://open.spotify.com/album/3AfG0QxWrPgYCikqUatu3L) | 4:21 | 2024-07-04 |  |
@@ -87,6 +89,7 @@
 | [Twist and Turn](https://open.spotify.com/track/7F8SxhlfzFP16sn1UuTXHZ) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Twist and Turn](https://open.spotify.com/album/6zZbKGTLAW78P3GNpJMHCM) | 3:14 | 2024-06-20 |  |
 | [Veins](https://open.spotify.com/track/5c31xDjXsYX1XE2Gm09fa9) | [Emma Noodles](https://open.spotify.com/artist/1zUi5dJeT7ImOnG6lEgypQ) | [Veins](https://open.spotify.com/album/5Glooco0j7yIOlwAdPxYrX) | 3:31 | 2024-06-20 |  |
 | [While You Sleep](https://open.spotify.com/track/4jbOJaTKiur366ygUgcp6h) | [Mustafa Karakışla](https://open.spotify.com/artist/0tGT2RhFiBgnNf1AY4muYM) | [While You Sleep](https://open.spotify.com/album/2aZy0r1AaBS3lLgl9PWBsp) | 4:01 | 2024-06-20 |  |
+| [why don't u like me anymore?](https://open.spotify.com/track/70VQZmJsY927oN249j8Czv) | [thanks mom](https://open.spotify.com/artist/3vcuC4PZIUr3AVzbJvvHmD) | [why don't u like me anymore?](https://open.spotify.com/album/03eD81EVF26nuHjHzC9dzI) | 3:39 | 2024-08-15 |  |
 | [You Say You Won't](https://open.spotify.com/track/3UlUAEdJiku8r0E0YEEvjY) | [HAVVK](https://open.spotify.com/artist/0up20da9ITwCzq8Qv9JTCB) | [You Say You Won't](https://open.spotify.com/album/2sxtUQm9mQsbMgQvesRgqb) | 4:01 | 2024-06-20 |  |
 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 | 2024-06-20 |  |
 

@@ -2,12 +2,13 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> den største danske rap lige nu..\.  <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> gæster <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI's</a> radiokanal <a href="spotify:album:4B4EYQ1TfHMWJlOTTpenmn">FOMO 88.8 FM</a> 🔊🔊 lyt lige med der
+> den største danske rap lige nu..\.  <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI</a> sørger for hyggen på <a href="spotify:album:4B4EYQ1TfHMWJlOTTpenmn">FOMO 88.8 FM</a> 🔊
 
-211 songs - 9 hr 7 min
+212 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [007](https://open.spotify.com/track/00EfuUUB0p9I4Ilq72WmYT) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [007](https://open.spotify.com/album/1QltDJCPYys8wTwNOFxTvo) | 2:24 | 2024-08-15 |  |
 | [10/10](https://open.spotify.com/track/58Jj3c8s3JHbHw424dK2bv) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Blåregn / 10/10](https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh) | 2:18 | 2024-05-23 | 2024-06-22 |
 | [2 Kanoner](https://open.spotify.com/track/0cqiuOOf7cZvp3dTq1AQmA) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/3OJwewaRbFMwueVlJpfssy) | 2:40 | 2024-04-18 | 2024-05-03 |
 | [2 Kanoner](https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p) | 2:40 | 2023-09-21 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Haqiem Rusli",
-  "num_followers": 334982,
+  "num_followers": 334994,
   "original_name": "Carta Malaysia 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zrxi0gAAAABd8vz8Fn2ymDLUe4o2fg+J",
+  "snapshot_id": "Zr2c2AAAAADUWYA8MmkalLrIgSxvzEWq",
   "tracks": [
     {
       "added_at": "2024-08-14 07:54:58",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/6ceBB340aX6EUqLZpelyk2"
     },
     {
+      "added_at": "2024-08-15 06:14:48",
+      "album": {
+        "name": "Sialnya, Hidup Harus Tetap Berjalan",
+        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Untungnya, Hidup Harus Tetap Berjalan",
+      "url": "https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO"
+    },
+    {
       "added_at": "2024-08-14 07:54:58",
       "album": {
         "name": "Mungkin Aku Tak Penting? (feat. Tish Errda)",
@@ -699,30 +715,6 @@
       "duration_ms": 192124,
       "name": "kembali",
       "url": "https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF"
-    },
-    {
-      "added_at": "2024-08-14 07:54:58",
-      "album": {
-        "name": "Ashiap - New Version",
-        "url": "https://open.spotify.com/album/02M8rVGX8fAw9mHc6CO45b"
-      },
-      "artists": [
-        {
-          "name": "Atta Halilintar",
-          "url": "https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67"
-        },
-        {
-          "name": "Joe Flizzow",
-          "url": "https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7"
-        },
-        {
-          "name": "MK K-Clique",
-          "url": "https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ"
-        }
-      ],
-      "duration_ms": 206785,
-      "name": "Ashiap - New Version",
-      "url": "https://open.spotify.com/track/1hOHDn1ZCacxzThjn3W6db"
     },
     {
       "added_at": "2024-08-14 07:54:58",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Ania Leon, Arek Kopera",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: nat cichocka",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 196724,
       "name": "Nim przykryje kurz",
       "url": "https://open.spotify.com/track/7fnfY4WdBrHS9RMlLmUXnK"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 185313,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6IdIY0pXH9j0PSatRSNK95"
@@ -3369,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Wolne dni",
+        "url": "https://open.spotify.com/album/5bKJlrbwmH5QprokmwvAqz"
+      },
+      "artists": [
+        {
+          "name": "Ala Zastary",
+          "url": "https://open.spotify.com/artist/3QmNltluzWxV1Pi1foWdqw"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216125,
+      "name": "Wolne dni",
+      "url": "https://open.spotify.com/track/0IWJkyd6Ulnb6SAQmYU7YJ"
+    },
+    {
+      "album": {
         "name": "Wolne duchy (feat. Daria Zawia\u0142ow, Mrozu & Kacperczyk)",
         "url": "https://open.spotify.com/album/3TNtZ6k211KiaNhldNtGie"
       },
@@ -3396,6 +3414,50 @@
       "duration_ms": 185471,
       "name": "Wolne duchy",
       "url": "https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH"
+    },
+    {
+      "album": {
+        "name": "wrogowie",
+        "url": "https://open.spotify.com/album/1tZtVZ2zMmPxYr7YRzXFuH"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        },
+        {
+          "name": "Dawid P\u0142onka",
+          "url": "https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206303,
+      "name": "wrogowie",
+      "url": "https://open.spotify.com/track/5D6U01nI60WYFbLGFj1tld"
+    },
+    {
+      "album": {
+        "name": "Wsch\u00f3d",
+        "url": "https://open.spotify.com/album/0XYL9Ik9aLA9AUs2EPqR3G"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "Wsch\u00f3d",
+      "url": "https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh"
     },
     {
       "album": {
@@ -3542,7 +3604,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 208933,
       "name": "Zacznij od Bacha",
       "url": "https://open.spotify.com/track/7Bbdn8qRvGdx7HsyfLpzxP"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: mukio (\u5f35\u7267\u55ac)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Our Shame  (\u51f9\u8207\u5c71)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 177525,
       "name": "10 out of 10",
       "url": "https://open.spotify.com/track/3fTpEVNXla3OEavoAqXmF0"
@@ -2019,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "ok to be not ok",
+        "url": "https://open.spotify.com/album/4Op5st5g671g45uIqIunE0"
+      },
+      "artists": [
+        {
+          "name": "Our Shame",
+          "url": "https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216542,
+      "name": "ok to be not ok",
+      "url": "https://open.spotify.com/track/22ArmhlSvZq2pxTKb3dNjk"
+    },
+    {
+      "album": {
         "name": "\u7c21\u55ae\u4e00\u53e5\u8a71",
         "url": "https://open.spotify.com/album/2W7mTvqn6ddqigrpeQ2x2p"
       },
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 137468,
       "name": "Pink Lamborghini",
       "url": "https://open.spotify.com/track/5nSu2pNBi44MIGTs6h7S78"
@@ -4474,6 +4492,24 @@
       "duration_ms": 221500,
       "name": "\u8e8d",
       "url": "https://open.spotify.com/track/0vQw7IhLHzTInsj5OQnh35"
+    },
+    {
+      "album": {
+        "name": "\u904e\u53bb\u306e\u541b\u3078\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/6ryuZFXjSo5V81tz4hD15U"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u6c5f\u5143\uff08Jack Wang\uff09",
+          "url": "https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264920,
+      "name": "\u904e\u53bb\u306e\u541b\u3078\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/7cNeoHZrCQJ2Lt8Yiyl8wh"
     },
     {
       "album": {

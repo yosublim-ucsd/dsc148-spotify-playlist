@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia, Diorama e I Melodrama in cover 🎸
+> Rock, indie e punk dall'Italia, 43.Nove in cover 🎸
 
-1,037 songs - 2 day 9 hr 16 min
+1,039 songs - 2 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [Fading Away](https://open.spotify.com/track/4yhwX1xznY4gHKw8JqglUl) | [Dance! No Thanks](https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC) | [Fading Away](https://open.spotify.com/album/1nCZzNHlTrBURvqWZzHd3s) | 2:21 | 2023-05-04 | 2023-05-26 |
 | [Fading into Day](https://open.spotify.com/track/27IYZNTtmNT7aZExGrJCzv) | [An Early Bird](https://open.spotify.com/artist/3FVXLavQJNLUKjTyFWRpOv), [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [Fading into Day](https://open.spotify.com/album/0lcTfY7Bazk27HmeMTguXx) | 3:36 | 2022-07-14 | 2022-08-26 |
 | [Fare Schifo](https://open.spotify.com/track/3eMEvU8ug9yO60FrUp7mNp) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [Fare Schifo](https://open.spotify.com/album/1aR2qJePO3Sjx8cMfdBWR5) | 2:56 | 2024-04-25 | 2024-07-05 |
-| [Farfalla](https://open.spotify.com/track/7tvhTjn5uZBNTBqeugZwPg) | [Pietro Mio](https://open.spotify.com/artist/51kKYDRaem5nTYfN58QAqb) | [Arriva..\. Pietro Mio!](https://open.spotify.com/album/6DdlmlMY96zeVY2hH1QyDS) | 2:39 | 2024-05-30 |  |
+| [Farfalla](https://open.spotify.com/track/7tvhTjn5uZBNTBqeugZwPg) | [Pietro Mio](https://open.spotify.com/artist/51kKYDRaem5nTYfN58QAqb) | [Arriva..\. Pietro Mio!](https://open.spotify.com/album/6DdlmlMY96zeVY2hH1QyDS) | 2:39 | 2024-05-30 | 2024-08-16 |
 | [Fascicolo](https://open.spotify.com/track/4Fcx1JUbfBCJXa1y6NTvvL) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Fascicolo](https://open.spotify.com/album/15HdBdKwZhIzxV6TyOZw6o) | 2:42 | 2024-01-18 | 2024-04-12 |
 | [FATT A ROT](https://open.spotify.com/track/2JHHDgAwZzUOSvssfiGCtA) | [Zack](https://open.spotify.com/artist/0digr9CIDd0VatlphDu3rO) | [FATT A ROT](https://open.spotify.com/album/7GWhDLkh4mVZzU9fjw6oct) | 2:23 | 2024-04-25 | 2024-05-17 |
 | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v) | 2:53 | 2022-06-17 | 2023-06-02 |
@@ -477,7 +477,7 @@
 | [Kawasaki, Vol\. 1](https://open.spotify.com/track/2095aCnjEciEBnu5t72XXK) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [Kawasaki](https://open.spotify.com/album/58PrjlnW7Z4oHjWevekZsn) | 4:05 | 2022-09-08 | 2022-10-07 |
 | [Kids](https://open.spotify.com/track/4u8gdATR26AY9kIJ2hQ9OD) | [Forty Winks](https://open.spotify.com/artist/3CYhQGDlNto80C0SM6snJD) | [Kids](https://open.spotify.com/album/5x5SLbDOVv2HMBmillgSdV) | 2:04 | 2023-01-19 | 2023-02-17 |
 | [Kill me](https://open.spotify.com/track/61NuA3h0Sci2DzqMKJuQRj) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd), [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC), [Rich Meyer](https://open.spotify.com/artist/0gf7WPq62Kdo41WVmYQmMV) | [Kill me](https://open.spotify.com/album/2mERqCNjJa8xQ8AmGwxvTv) | 1:58 | 2022-05-09 | 2022-05-20 |
-| [KILLER \(feat\. Rose Villain\)](https://open.spotify.com/track/33DOYNnargf2vYuMEfDd6E) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [POGO MIXTAPE VOL.1](https://open.spotify.com/album/6XmCk9ofF63wwmhE0b3PIS) | 2:37 | 2024-05-16 |  |
+| [KILLER \(feat\. Rose Villain\)](https://open.spotify.com/track/33DOYNnargf2vYuMEfDd6E) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [POGO MIXTAPE VOL.1](https://open.spotify.com/album/6XmCk9ofF63wwmhE0b3PIS) | 2:37 | 2024-05-16 | 2024-08-16 |
 | [Killer's Kiss](https://open.spotify.com/track/4BxrY1OQppoKIB6eU8hHi3) | [The Devils](https://open.spotify.com/artist/4dr588YumnHS2BIa7QOZI8) | [Killer's Kiss](https://open.spotify.com/album/7wio3SvT1ocHajBBexFD3Z) | 3:17 | 2024-01-25 | 2024-04-05 |
 | [Kinder Cereali all'amianto](https://open.spotify.com/track/220I3ZfW30nk9VWtYkMNHT) | [Nicolò Carnesi](https://open.spotify.com/artist/0ZGHrDv9xsaEJgRzfKLLQE), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Kinder Cereali all'amianto](https://open.spotify.com/album/2vLROsFj2B8hG0fYJNV8O5) | 3:10 | 2022-05-09 | 2022-07-15 |
 | [Kingston](https://open.spotify.com/track/7qSR7XjG33IecK7QQZ7EZN) | [Selflore](https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP) | [Kingston](https://open.spotify.com/album/5uDldxfvAeabJ6ylTDNwy2) | 2:34 | 2023-04-06 | 2023-05-12 |
@@ -503,6 +503,7 @@
 | [La musica è finita](https://open.spotify.com/track/3StEZwbxvR10edtOJoq2Ox) | [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [La musica è finita](https://open.spotify.com/album/79iordJotLmxKPRHQTUU88) | 3:18 | 2023-06-01 | 2023-09-29 |
 | [La Nebbia](https://open.spotify.com/track/4LMP98OkdEMSaKnBqeNFps) | [No Good](https://open.spotify.com/artist/3vxvA2XRiEQ3pSYO274jRB) | [La Nebbia](https://open.spotify.com/album/1hs9EjBUQEiSvuVK33goLl) | 3:28 | 2023-04-13 | 2023-06-16 |
 | [La nostra prova di danza](https://open.spotify.com/track/2YLygfqBuoaOUohpbku4a4) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [La nostra prova di danza](https://open.spotify.com/album/5Mysrog26p6sagyaSE1ii6) | 2:53 | 2024-03-21 | 2024-06-01 |
+| [La nuit des étoiles filantes](https://open.spotify.com/track/6V3zDLMjjWfbDlCDfa6hGg) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [La nuit des étoiles filantes](https://open.spotify.com/album/2ps575UCu0BaLgGa0pJqR9) | 3:26 | 2024-08-15 |  |
 | [LA PESTE](https://open.spotify.com/track/1Yn1JtWWc7193IHkHe9kUV) | [LUK](https://open.spotify.com/artist/2yAYxQNQD9CJQqCiGYrka7) | [LA PESTE](https://open.spotify.com/album/0b9iFdSpeJdXkXN7x84oua) | 3:19 | 2023-04-27 | 2023-05-19 |
 | [La Regina Dei Rimpianti](https://open.spotify.com/track/4JeOpzmxZQGLDzFJIbGSCa) | [TACØMA](https://open.spotify.com/artist/2L6Hcxzw6hUF4KBIekm153) | [La Regina Dei Rimpianti](https://open.spotify.com/album/58KH0qJIPDMcqidVmnkzFr) | 2:40 | 2024-03-07 | 2024-04-05 |
 | [La sola concreta realtà](https://open.spotify.com/track/0Ymdein1FEwzOT3MsDpzIC) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [La sola concreta realtà](https://open.spotify.com/album/4ikitSU0lmSZNpN7egaUOX) | 3:04 | 2024-03-21 | 2024-06-14 |
@@ -582,6 +583,7 @@
 | [Merighi](https://open.spotify.com/track/3Wj3jsgEoSFZ36XutM5fDi) | [Altre di B](https://open.spotify.com/artist/7gHvb6j40CCF43HVJH19Ub) | [Merighi](https://open.spotify.com/album/5RcR73Q9U83k2zuoqLWlp6) | 2:45 | 2024-01-11 | 2024-02-16 |
 | [Metaverso](https://open.spotify.com/track/3cdxIBtLMgq01XrPBxWHjS) | [Astromare](https://open.spotify.com/artist/1r3n1Aw68kcHF3YyDsWrI6) | [Metaverso](https://open.spotify.com/album/7rliopC64eRNswUw2Xc3Le) | 2:24 | 2023-11-30 | 2024-01-26 |
 | [Meteorite](https://open.spotify.com/track/7kSfhUgQA737ErOYmI5RmL) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Meteorite](https://open.spotify.com/album/348OlaHzQYwg5MFmVSq5lH) | 3:21 | 2024-02-15 | 2024-03-22 |
+| [Mi chiedo perché](https://open.spotify.com/track/6BkS8wTcsg0rOEhjGYb1V9) | [Tu](https://open.spotify.com/artist/1l8UlwcWtd59MMDIIjBJbm), [Carolina Bubbico](https://open.spotify.com/artist/0HWrWCAD8nN3DnbR02wVxW) | [Mi chiedo perché](https://open.spotify.com/album/176GybSDUFc5jrvlHBVYjj) | 3:50 | 2024-08-15 |  |
 | [Mi consuma](https://open.spotify.com/track/2iy3ER68HZMrBA8hVuFLcz) | [Tueri Damasco](https://open.spotify.com/artist/7v7fysSXW70UvLEJEUSohB) | [Mi consuma](https://open.spotify.com/album/4DgUhoesj1LSg5D6ohNTuu) | 2:38 | 2024-02-22 | 2024-03-22 |
 | [Mi Dai Fastidio](https://open.spotify.com/track/6omYaEUDoM1x4IOWk3jLHa) | [Red Room](https://open.spotify.com/artist/23EkTjOVuZv8jya1fjV4Th) | [Mi Dai Fastidio](https://open.spotify.com/album/6Et8ZuL26YLkiYAozpBUym) | 2:08 | 2024-06-27 | 2024-07-05 |
 | [MI FAI VENIRE](https://open.spotify.com/track/268VnTQdISBVKmKhplrCUS) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [MI FAI VENIRE](https://open.spotify.com/album/5wHd3qad8Ht7zOSgHI7zOu) | 2:34 | 2023-04-06 | 2023-05-19 |

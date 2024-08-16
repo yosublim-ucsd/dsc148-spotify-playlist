@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Zöelle
 
-288 songs - 17 hr 8 min
+289 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2022-10-14 |  |
 | [Baño De Damas \- Remastered Version](https://open.spotify.com/track/4z7Ikyt4VRGbPipnCK04oy) | [Claudia Puyó](https://open.spotify.com/artist/19TslKl8qhtMCbzoujrhv9) | [Del Oeste](https://open.spotify.com/album/7DcjcfgU8gnJdqD2tSuTSQ) | 3:49 | 2022-04-01 | 2022-07-08 |
 | [Beepolar](https://open.spotify.com/track/1c3zOt71eu0X7VK0gdTLDZ) | [María Rosa Yorio](https://open.spotify.com/artist/2GrKE2j3FFdSw8eAtrZqmq) | [Beepolar](https://open.spotify.com/album/7JZFUuT2erC1rHv6DV3ApA) | 3:46 | 2022-01-20 | 2022-07-29 |
+| [beso despedida](https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG) | [ERNES](https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU) | [beso despedida](https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5) | 2:16 | 2024-08-15 |  |
 | [Binario](https://open.spotify.com/track/5jXbK5R4O34yVQcA1K3dT9) | [Vale Cini](https://open.spotify.com/artist/7rQ7RP2RmLJh2EYATNDtZ1) | [Binario](https://open.spotify.com/album/72kJCAW25d4XGohTiwL5G9) | 4:12 | 2022-01-20 | 2022-07-26 |
 | [Binario](https://open.spotify.com/track/74jUxEgPy6Hu1mWF0WSe4X) | [Vale Cini](https://open.spotify.com/artist/7rQ7RP2RmLJh2EYATNDtZ1) | [La Bestia Melancólica](https://open.spotify.com/album/6L40FqZzA9MEIu4REZeHb1) | 4:12 | 2022-01-20 | 2022-07-24 |
 | [Bolero Falaz](https://open.spotify.com/track/50qbVfHyBNEHImuPvgFEqM) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Dopelganga](https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl) | 4:05 | 2022-12-09 | 2024-04-19 |
@@ -291,7 +292,7 @@
 | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/track/0NWggrKGAMZvthO4SkCVky) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/album/5NHOtWzCEgxgdUZdsHtsz9) | 3:39 | 2022-01-20 | 2022-07-27 |
 | [Vocales](https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V) | [HTML](https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8) | [17](https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb) | 2:36 | 2022-01-20 | 2022-09-17 |
 | [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 | 2022-01-20 |  |
-| [Voy a Dejar Esta Casa Papá](https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 4:53 | 2022-01-20 |  |
+| [Voy a Dejar Esta Casa Papá](https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 4:53 | 2022-01-20 | 2024-08-16 |
 | [Voy a Ponerme Bien](https://open.spotify.com/track/2ygIcGSO2bkGxN6aFMhNaV) | [Luciana Segovia](https://open.spotify.com/artist/1h0VgUZrsCsorbQQ7k8EQ5) | [Voy a Ponerme Bien](https://open.spotify.com/album/0lPUCCUNW4FXNSjkFWAxMH) | 2:56 | 2022-01-20 | 2022-07-29 |
 | [Vómito](https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Primera Temporada](https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk) | 2:17 | 2022-01-20 |  |
 | [¿A Dónde Voy Si Se Termina el Mundo?](https://open.spotify.com/track/7jXOyUXySEKG0V7Kxpiy4t) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [Las Presencias, Pt\. I](https://open.spotify.com/album/2OHrRjpglp8VuWitqQ7Pqh) | 3:36 | 2022-01-20 | 2022-07-28 |

@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT Killah en portada.",
-  "num_followers": 254575,
+  "num_followers": 254588,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -199,7 +199,7 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2",
+        "name": "ORQU\u00cdDEAS PARTE 2 - Deluxe",
         "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
       },
       "artists": [
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "WYA REMIX WHITE",
         "url": "https://open.spotify.com/album/6R29zteRiORMadmQCkLLBZ"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 353544,
       "name": "WYA REMIX WHITE",
       "url": "https://open.spotify.com/track/1bvWJa118mABR5vJbHpESU"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "POR TI",
         "url": "https://open.spotify.com/album/0M47gcDDiE1RX0nMTsaGLH"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 184242,
       "name": "POR TI",
       "url": "https://open.spotify.com/track/5QpfbG5nGJ5qAOQGbEvDmi"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Me Olvid\u00e9",
-      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 253150,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "alexademie",
         "url": "https://open.spotify.com/album/1BfuhqJvGSzRfswonWNmRf"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 167707,
       "name": "alexademie",
       "url": "https://open.spotify.com/track/3St7sFGXYDJqgbdxnT9gwR"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 253150,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Makin Money",
-        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Makin Money",
-      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Calles De Madrid",
         "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 166815,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7LThzTLxMenP3WKcoGXind"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Makin Money",
+        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Makin Money",
+      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "SIN PERDER, NUNK CUENTA",
         "url": "https://open.spotify.com/album/50LHRqNoAFdauzswqXWajX"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Carmes\u00ed",
         "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 165562,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Musiquita Triste",
-        "url": "https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Musiquita Triste",
-      "url": "https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1335,6 +1319,22 @@
       "duration_ms": 168004,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Musiquita Triste",
+        "url": "https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Musiquita Triste",
+      "url": "https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "ahora A.K.A NAO",
-        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Mi Piscis",
-      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Honest (feat. C. Tangana)",
         "url": "https://open.spotify.com/album/3QFSisENbuki9rhPLgpbic"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 215348,
       "name": "Honest (feat. C. Tangana)",
       "url": "https://open.spotify.com/track/3FiX402udtjX777EHZUAbU"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "ahora A.K.A NAO",
+        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Mi Piscis",
+      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "9:15",
-        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+        "name": "Opciones",
+        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
       },
       "artists": [
         {
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 124800,
-      "name": "9:15",
-      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
+      "duration_ms": 213444,
+      "name": "Opciones",
+      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1687,8 +1687,8 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Opciones",
-        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
+        "name": "9:15",
+        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
       },
       "artists": [
         {
@@ -1696,9 +1696,9 @@
           "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 213444,
-      "name": "Opciones",
-      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
+      "duration_ms": 124800,
+      "name": "9:15",
+      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "hiErve",
+        "url": "https://open.spotify.com/album/0QF0ORnA9iD1vXxEg0RMGI"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 150982,
+      "name": "hiErve",
+      "url": "https://open.spotify.com/track/6qEnwPIOzDOsMeJfxYmTwO"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
       },
@@ -1759,18 +1775,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "hiErve",
-        "url": "https://open.spotify.com/album/0QF0ORnA9iD1vXxEg0RMGI"
+        "name": "YNQNP",
+        "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
       },
       "artists": [
         {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
         }
       ],
-      "duration_ms": 150982,
-      "name": "hiErve",
-      "url": "https://open.spotify.com/track/6qEnwPIOzDOsMeJfxYmTwO"
+      "duration_ms": 150186,
+      "name": "YNQNP",
+      "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1799,26 +1819,6 @@
       "duration_ms": 192000,
       "name": "RIP",
       "url": "https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "YNQNP",
-        "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "YNQNP",
-      "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
     },
     {
       "added_at": "2024-08-09 06:00:00",

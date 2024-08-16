@@ -2697,6 +2697,28 @@
     },
     {
       "album": {
+        "name": "Miked Up!",
+        "url": "https://open.spotify.com/album/3ndkwWjE0AQrwrrXLtxo8J"
+      },
+      "artists": [
+        {
+          "name": "Varre Vartiainen",
+          "url": "https://open.spotify.com/artist/2XhdWDg4TZrfKrGb3dg3QG"
+        },
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388666,
+      "name": "Miked Up! - Single Version",
+      "url": "https://open.spotify.com/track/6ArOfditpv6yFDP69kcpzn"
+    },
+    {
+      "album": {
         "name": "Moon over Mysore",
         "url": "https://open.spotify.com/album/3ErQYvguy4PL1uTzdjXxPT"
       },
@@ -3472,6 +3494,24 @@
       "duration_ms": 358973,
       "name": "Prediction Error",
       "url": "https://open.spotify.com/track/4Jc9LMJDhsGPWvavMogMGU"
+    },
+    {
+      "album": {
+        "name": "Pressured Speech",
+        "url": "https://open.spotify.com/album/4jxAXUOK25NssMMcUbtwA3"
+      },
+      "artists": [
+        {
+          "name": "Aurora Hentunen",
+          "url": "https://open.spotify.com/artist/1EKGcwLLFmHbD4qLBq1MME"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296373,
+      "name": "Pressured Speech",
+      "url": "https://open.spotify.com/track/78uwjBJlo0HOdrzxFfE03F"
     },
     {
       "album": {

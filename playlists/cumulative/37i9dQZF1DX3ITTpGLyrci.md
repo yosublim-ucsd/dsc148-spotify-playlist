@@ -4,7 +4,7 @@
 
 > Get the drinks on ice, this one is on us!
 
-296 songs - 14 hr 51 min
+297 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-05-10 |  |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-15 |  |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2023-04-18 |  |
+| [Ain't Giving Up](https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Ain’t Giving Up](https://open.spotify.com/album/6DLqWNcNqD90oEgI7KWkaw) | 3:11 | 2024-08-15 |  |
 | [Ain't Me Without You](https://open.spotify.com/track/2sYjsgw4R4wJhThhSGlSZS) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Ain't Me Without You](https://open.spotify.com/album/57Y1Qva1WV0As9PPcgjl1x) | 3:50 | 2023-04-18 | 2024-03-29 |
 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 | 2023-06-30 | 2024-03-29 |
 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-03-29 |  |
@@ -250,7 +251,7 @@
 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 | 2023-04-18 | 2024-03-29 |
 | [Straight Up](https://open.spotify.com/track/0JWDYfnOtq6ku2f1ZHPSCz) | [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Straight Up \(feat\. Shayan\)](https://open.spotify.com/album/5Q1GQ337FRQZRzul996nJy) | 2:28 | 2024-06-27 |  |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-06-27 |  |
-| [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 | 2023-04-18 |  |
+| [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 | 2023-04-18 | 2024-08-16 |
 | [Sunlight \(feat\. Years & Years\) \- Radio Edit](https://open.spotify.com/track/5r3aYGutXgsxSqB6W3RrzJ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years & Years\) \[Radio Edit\]](https://open.spotify.com/album/7yDiBp7t2j6OT7KopH2ulG) | 3:13 | 2023-04-18 | 2023-07-01 |
 | [Sunshine \(feat\. Dan Harkna\) \- Radio Edit](https://open.spotify.com/track/3jbsz68DZXoqTlCz0n05xn) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Dan Harkna](https://open.spotify.com/artist/5xeGJm9dgg2x5luZLEYtMx) | [Sunshine \(feat\. Dan Harkna\) \[Radio Edit\]](https://open.spotify.com/album/7qAljACjJJN2jhgB4aA9sZ) | 3:00 | 2023-04-18 | 2023-07-19 |
 | [Sweat](https://open.spotify.com/track/37Ik0Rvl2cptEffURjIls9) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Sweat](https://open.spotify.com/album/5MEqr6fRpxyFlgzijl10Uf) | 2:45 | 2023-04-18 | 2023-06-14 |

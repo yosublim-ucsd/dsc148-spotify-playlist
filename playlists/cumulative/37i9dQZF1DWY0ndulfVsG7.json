@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Rossa, Ariel NOAH",
+  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Pop Shuvit, Noh Salleh",
   "name": "Berjiran",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 267880,
       "name": "Aku dan Dirimu (feat. Ari Lasso)",
       "url": "https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP"
+    },
+    {
+      "album": {
+        "name": "Aku Yang Jatuh Cinta",
+        "url": "https://open.spotify.com/album/3JyJQxbVR1nCUdNn1aXYTX"
+      },
+      "artists": [
+        {
+          "name": "Dudy Oris",
+          "url": "https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196343,
+      "name": "Aku Yang Jatuh Cinta",
+      "url": "https://open.spotify.com/track/2JqsSFo6HqOxnmxBtHfNY6"
     },
     {
       "album": {
@@ -515,6 +533,46 @@
     },
     {
       "album": {
+        "name": "GILA KUASA",
+        "url": "https://open.spotify.com/album/6RA1f4vPGw6fSpKXOqmBtI"
+      },
+      "artists": [
+        {
+          "name": "Pop Shuvit",
+          "url": "https://open.spotify.com/artist/0iQ4UvqTfRPoNioVeQLa0W"
+        },
+        {
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "Gila Kuasa",
+      "url": "https://open.spotify.com/track/238lp3Oabvp5UxygKfP8cw"
+    },
+    {
+      "album": {
+        "name": "Impian",
+        "url": "https://open.spotify.com/album/1rGFUVZxs41YwTvWv0q0Xt"
+      },
+      "artists": [
+        {
+          "name": "Hyper Act",
+          "url": "https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200163,
+      "name": "Hanya Aku",
+      "url": "https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg"
+    },
+    {
+      "album": {
         "name": "Percubaan Pertama",
         "url": "https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT"
       },
@@ -801,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Hafiz",
+        "url": "https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I"
+      },
+      "artists": [
+        {
+          "name": "Hafiz Suip",
+          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246520,
+      "name": "Ku Akui",
+      "url": "https://open.spotify.com/track/2oC99uEopMvVGjsb70kour"
+    },
+    {
+      "album": {
         "name": "Ada Apa Dengan Cinta? (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
       },
@@ -920,7 +996,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 266306,
       "name": "Matahariku",
       "url": "https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD"
@@ -1000,7 +1076,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 271800,
       "name": "Nada Nada Cinta",
       "url": "https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP"
@@ -1072,7 +1148,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 253133,
       "name": "Pencinta Wanita",
       "url": "https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB"
@@ -1462,7 +1538,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 258331,
       "name": "Sudah Ku Tahu",
       "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"

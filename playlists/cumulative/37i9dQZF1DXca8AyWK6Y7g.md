@@ -4,7 +4,7 @@
 
 > i could kiss a hundred people 💋  Mimi Webb
 
-2,144 songs - 4 day 11 hr 50 min
+2,145 songs - 4 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -940,7 +940,7 @@
 | [I Never Learn](https://open.spotify.com/track/5XlnAIPiOSEODsogL9Doxz) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [I Never Learn](https://open.spotify.com/album/3AUVlIKnnnWZAcqzxTKx4G) | 3:17 | 2022-01-14 | 2022-03-12 |
 | [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 | 2023-11-10 | 2024-08-01 |
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-10-08 | 2022-01-08 |
-| [I Sent My Therapist To Therapy](https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy](https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob) | 3:00 | 2023-12-08 |  |
+| [I Sent My Therapist To Therapy](https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy](https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob) | 3:00 | 2023-12-08 | 2024-08-16 |
 | [i should call my friends](https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [i should call my friends](https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe) | 2:39 | 2023-10-13 | 2023-11-11 |
 | [I Should Have Stayed at Home](https://open.spotify.com/track/2y42aEs7Rczw5eMLK9UMeW) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [I Should Have Stayed at Home](https://open.spotify.com/album/7Gg6nUfvmeyxJ2FBvP3tDR) | 2:43 | 2023-04-07 |  |
 | [I Should've Told You](https://open.spotify.com/track/7FNfzTdPSOA7jzlQQ7gZK2) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Should've Told You](https://open.spotify.com/album/1N4ACWnpLSrpXokSWcsh9j) | 3:17 | 2020-07-12 | 2021-11-10 |
@@ -2053,6 +2053,7 @@
 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 | 2023-12-08 |  |
 | [We're All Falling Apart](https://open.spotify.com/track/7uhPrSyqbRDSwWd0JBTsA7) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [We're All Falling Apart](https://open.spotify.com/album/35IjLV9YXGSRULuZlhqAO1) | 3:02 | 2021-09-12 | 2021-10-11 |
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2021-02-19 | 2021-04-17 |
+| [Weapons in My Pocket](https://open.spotify.com/track/4n7yEzciVwVWhcRX9x91X3) | [Nico & Chelsea](https://open.spotify.com/artist/2D3SlrKnJAnNyxf2ty2a97), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG), [Nico Collins](https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U) | [Weapons in My Pocket](https://open.spotify.com/album/201KAyIz8tMKwbdPVZdODc) | 3:09 | 2024-08-02 |  |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-20 | 2023-02-11 |
 | [Weirdo](https://open.spotify.com/track/2bXZrZbhRU6IQha9s5I2X2) | [More Fatter](https://open.spotify.com/artist/2pM3a5lWWUSNOPRGYcmGqT) | [Weirdo](https://open.spotify.com/album/2vmFFnnKahsKFQ4xeQhf9N) | 3:01 | 2020-09-22 | 2021-03-19 |
 | [Welcome To My Mind](https://open.spotify.com/track/7nzql8a3IiReUSRBl6Wp0f) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Welcome To My Mind](https://open.spotify.com/album/6fl5LVepYW1aXMJTJ0DKnz) | 2:16 | 2020-06-12 | 2021-02-03 |

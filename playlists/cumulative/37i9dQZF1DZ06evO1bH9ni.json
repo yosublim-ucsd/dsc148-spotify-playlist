@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Los Dos Carnales. Los temas esenciales, todos en una lista.",
+  "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
   "name": "This Is Los Dos Carnales",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 153000,
       "name": "El Doble R",
       "url": "https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO"
@@ -936,6 +936,24 @@
       "duration_ms": 205543,
       "name": "Kil\u00f3metro 11-60 - En Vivo",
       "url": "https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX"
+    },
+    {
+      "album": {
+        "name": "La Carreta",
+        "url": "https://open.spotify.com/album/2cIZr4ziArJjeMQBtOtIe0"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133930,
+      "name": "La Carreta",
+      "url": "https://open.spotify.com/track/3JObT2hSLZU1tCC5CFtlIZ"
     },
     {
       "album": {

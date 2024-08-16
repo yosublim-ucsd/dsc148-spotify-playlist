@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 71591,
+  "num_followers": 71610,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 255000,
-      "name": "\u8a93\u3044\u306eWingbeat",
-      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
+      "duration_ms": 215968,
+      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
+      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 215968,
-      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
-      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
+      "duration_ms": 255000,
+      "name": "\u8a93\u3044\u306eWingbeat",
+      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -655,6 +655,38 @@
     {
       "added_at": "2024-07-23 15:00:00",
       "album": {
+        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+        "url": "https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm"
+      },
+      "artists": [
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u30e2\u30ab",
+          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
+        },
+        {
+          "name": "\u30ea\u30b5",
+          "url": "https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy"
+        },
+        {
+          "name": "\u82b1\u97f3",
+          "url": "https://open.spotify.com/artist/1AqDR86SBj1gA4LuyPKz0S"
+        },
+        {
+          "name": "\u3064\u3050\u307f",
+          "url": "https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ"
+        }
+      ],
+      "duration_ms": 240725,
+      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+      "url": "https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd"
+    },
+    {
+      "added_at": "2024-07-23 15:00:00",
+      "album": {
         "name": "\u30b4\u30fc\u30ab!\u3054\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
         "url": "https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU"
       },
@@ -667,22 +699,6 @@
       "duration_ms": 233960,
       "name": "YAPPY! SCHOOL CARNIVAL\u2606\u5f61",
       "url": "https://open.spotify.com/track/1vpQNpxodWPEL69zLaCVAw"
-    },
-    {
-      "added_at": "2024-07-23 15:00:00",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
-        "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
-          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
-        }
-      ],
-      "duration_ms": 293600,
-      "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -783,6 +799,22 @@
     {
       "added_at": "2024-07-23 15:00:00",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
+        "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
+          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
+        }
+      ],
+      "duration_ms": 293600,
+      "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM"
+    },
+    {
+      "added_at": "2024-07-23 15:00:00",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
         "url": "https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY"
       },
@@ -795,6 +827,22 @@
       "duration_ms": 266066,
       "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
       "url": "https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM"
+    },
+    {
+      "added_at": "2024-07-23 15:00:00",
+      "album": {
+        "name": "\u30ad\u30df\u304c\u3044\u306a\u304f\u3061\u3083\u3063!",
+        "url": "https://open.spotify.com/album/19s8qe8u31NWdy8uadZp1T"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 233633,
+      "name": "\u308f\u3061\u3083\uff65\u3082\u3061\u3083\uff65\u307a\u3063\u305f\u3093\u884c\u9032\u66f2",
+      "url": "https://open.spotify.com/track/3glyw1cmMPbcuhgYNPm4VE"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -831,38 +879,6 @@
     {
       "added_at": "2024-07-23 15:00:00",
       "album": {
-        "name": "\u30ad\u30df\u304c\u3044\u306a\u304f\u3061\u3083\u3063!",
-        "url": "https://open.spotify.com/album/19s8qe8u31NWdy8uadZp1T"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 233633,
-      "name": "\u308f\u3061\u3083\uff65\u3082\u3061\u3083\uff65\u307a\u3063\u305f\u3093\u884c\u9032\u66f2",
-      "url": "https://open.spotify.com/track/3glyw1cmMPbcuhgYNPm4VE"
-    },
-    {
-      "added_at": "2024-07-23 15:00:00",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
-        "url": "https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG"
-      },
-      "artists": [
-        {
-          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
-          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
-      "url": "https://open.spotify.com/track/2E6CWvJDz4Jz1y0R9HoRTR"
-    },
-    {
-      "added_at": "2024-07-23 15:00:00",
-      "album": {
         "name": "Pastel \u00e0 la mode",
         "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
       },
@@ -879,34 +895,18 @@
     {
       "added_at": "2024-07-23 15:00:00",
       "album": {
-        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-        "url": "https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
+        "url": "https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG"
       },
       "artists": [
         {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
-        },
-        {
-          "name": "\u30e2\u30ab",
-          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
-        },
-        {
-          "name": "\u30ea\u30b5",
-          "url": "https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy"
-        },
-        {
-          "name": "\u82b1\u97f3",
-          "url": "https://open.spotify.com/artist/1AqDR86SBj1gA4LuyPKz0S"
-        },
-        {
-          "name": "\u3064\u3050\u307f",
-          "url": "https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ"
+          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
+          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
         }
       ],
-      "duration_ms": 240725,
-      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-      "url": "https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd"
+      "duration_ms": 235426,
+      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
+      "url": "https://open.spotify.com/track/2E6CWvJDz4Jz1y0R9HoRTR"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -959,6 +959,38 @@
     {
       "added_at": "2024-07-23 15:00:00",
       "album": {
+        "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+        "url": "https://open.spotify.com/album/6ySP0mPO2c9WiCBDUkoREy"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u6f84",
+          "url": "https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV"
+        },
+        {
+          "name": "\u862d",
+          "url": "https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu"
+        },
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u53cb\u5e0c\u90a3",
+          "url": "https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw"
+        },
+        {
+          "name": "\u3053\u3053\u308d",
+          "url": "https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM"
+        }
+      ],
+      "duration_ms": 258265,
+      "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+      "url": "https://open.spotify.com/track/6fPkczUh0DSxfwxAz9WgOW"
+    },
+    {
+      "added_at": "2024-07-23 15:00:00",
+      "album": {
         "name": "Don't be afraid!",
         "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
       },
@@ -1003,38 +1035,6 @@
       "duration_ms": 197666,
       "name": "\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!",
       "url": "https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7"
-    },
-    {
-      "added_at": "2024-07-23 15:00:00",
-      "album": {
-        "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
-        "url": "https://open.spotify.com/album/6ySP0mPO2c9WiCBDUkoREy"
-      },
-      "artists": [
-        {
-          "name": "\u9999\u6f84",
-          "url": "https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV"
-        },
-        {
-          "name": "\u862d",
-          "url": "https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu"
-        },
-        {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
-        },
-        {
-          "name": "\u53cb\u5e0c\u90a3",
-          "url": "https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw"
-        },
-        {
-          "name": "\u3053\u3053\u308d",
-          "url": "https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM"
-        }
-      ],
-      "duration_ms": 258265,
-      "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
-      "url": "https://open.spotify.com/track/6fPkczUh0DSxfwxAz9WgOW"
     },
     {
       "added_at": "2024-07-23 15:00:00",

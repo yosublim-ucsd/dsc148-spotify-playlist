@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 > Todos tus éxitos favoritos de Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,254 likes - 103 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,290 likes - 103 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

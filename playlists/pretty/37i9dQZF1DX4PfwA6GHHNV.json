@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 18353,
+  "num_followers": 18381,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -195,30 +195,6 @@
     {
       "added_at": "2024-08-09 16:46:32",
       "album": {
-        "name": "COLADINHO",
-        "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
-      },
-      "artists": [
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        },
-        {
-          "name": "Liz Kaweria",
-          "url": "https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77"
-        },
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "COLADINHO",
-      "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
-    },
-    {
-      "added_at": "2024-08-09 16:46:32",
-      "album": {
         "name": "Abelha",
         "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
       },
@@ -243,6 +219,30 @@
     {
       "added_at": "2024-08-09 16:46:32",
       "album": {
+        "name": "COLADINHO",
+        "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
+      },
+      "artists": [
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Liz Kaweria",
+          "url": "https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77"
+        },
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "COLADINHO",
+      "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
+    },
+    {
+      "added_at": "2024-08-09 16:46:32",
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/2ssOy85YiJXKAA8dj6YBaV"
       },
@@ -259,26 +259,6 @@
       "duration_ms": 162093,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1khbyrHruJLXl5uFftk3ZP"
-    },
-    {
-      "added_at": "2024-08-09 16:46:32",
-      "album": {
-        "name": "Hipnose",
-        "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 209471,
-      "name": "Hipnose",
-      "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
     },
     {
       "added_at": "2024-08-09 16:46:32",
@@ -303,6 +283,26 @@
       "duration_ms": 196383,
       "name": "Jovinho",
       "url": "https://open.spotify.com/track/03sHFROBP18Wr2NayNAj6Q"
+    },
+    {
+      "added_at": "2024-08-09 16:46:32",
+      "album": {
+        "name": "Hipnose",
+        "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 209471,
+      "name": "Hipnose",
+      "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
     },
     {
       "added_at": "2024-08-09 16:46:32",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-08-09 16:46:32",
       "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "VER\u00c3O",
+      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
+    },
+    {
+      "added_at": "2024-08-09 16:46:32",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2024-08-09 16:46:32",
       "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "VER\u00c3O",
-      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
-    },
-    {
-      "added_at": "2024-08-09 16:46:32",
-      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-09 16:46:32",
       "album": {
-        "name": "MAIS VERDE",
-        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
-      },
-      "artists": [
-        {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "MAIS VERDE",
-      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
-    },
-    {
-      "added_at": "2024-08-09 16:46:32",
-      "album": {
         "name": "Anel da Pandora",
         "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 199012,
       "name": "Anel da Pandora",
       "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
+    },
+    {
+      "added_at": "2024-08-09 16:46:32",
+      "album": {
+        "name": "MAIS VERDE",
+        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "MAIS VERDE",
+      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
     },
     {
       "added_at": "2024-08-09 16:46:32",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-08-09 16:46:32",
       "album": {
+        "name": "Deixa Eu Te Contar",
+        "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Deixa Eu Te Contar",
+      "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
+    },
+    {
+      "added_at": "2024-08-09 16:46:32",
+      "album": {
         "name": "N\u00e3o Prometeu Nada",
         "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 175200,
       "name": "N\u00e3o Prometeu Nada",
       "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
-    },
-    {
-      "added_at": "2024-08-09 16:46:32",
-      "album": {
-        "name": "Deixa Eu Te Contar",
-        "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Deixa Eu Te Contar",
-      "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
     },
     {
       "added_at": "2024-08-09 16:46:32",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-08-09 16:46:32",
       "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        }
-      ],
-      "duration_ms": 127090,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
-    },
-    {
-      "added_at": "2024-08-09 16:46:32",
-      "album": {
         "name": "Atitude",
         "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
       },
@@ -895,6 +879,42 @@
       "duration_ms": 185741,
       "name": "Brinca Comigo",
       "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+    },
+    {
+      "added_at": "2024-08-09 16:46:32",
+      "album": {
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        }
+      ],
+      "duration_ms": 127090,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
+    },
+    {
+      "added_at": "2024-08-09 16:46:32",
+      "album": {
+        "name": "Desacelera",
+        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
+        }
+      ],
+      "duration_ms": 164007,
+      "name": "Desacelera",
+      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
     },
     {
       "added_at": "2024-08-09 16:46:32",
@@ -935,26 +955,6 @@
       "duration_ms": 158400,
       "name": "\u00c1guas Passadas",
       "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
-    },
-    {
-      "added_at": "2024-08-09 16:46:32",
-      "album": {
-        "name": "Desacelera",
-        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
-        }
-      ],
-      "duration_ms": 164007,
-      "name": "Desacelera",
-      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
     },
     {
       "added_at": "2024-08-09 16:46:32",

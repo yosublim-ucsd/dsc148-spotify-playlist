@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists + the best afro beat from both worlds! Cover: Be\u00e9le, Maria Becerra, Joeboy & Humby ",
-  "num_followers": 117532,
+  "num_followers": 117559,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
-        "name": "GOOD DAY (feat. Camidoh)",
-        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 164765,
-      "name": "GOOD DAY (feat. Camidoh)",
-      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
+        "name": "GOOD DAY (feat. Camidoh)",
+        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 164765,
+      "name": "GOOD DAY (feat. Camidoh)",
+      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
     },
     {
       "added_at": "2024-06-07 09:14:55",

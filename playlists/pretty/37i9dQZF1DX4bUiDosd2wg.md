@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,101 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,105 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 87 | [Memory Of The Wind](https://open.spotify.com/track/7k5iu5vr7IEW3BdSgwY9mw) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Principle Of My Soul](https://open.spotify.com/album/7M4SHsmPs6QAqu9aIYJOPx) | 5:08 |
 | 88 | [I can't go to Shinchon](https://open.spotify.com/track/7GcWRHZZVmZmMJZht8TZSz) | [The Postmen](https://open.spotify.com/artist/0Q9OOK3JOdq1VJj31uhRJL) | [I can't go to Shinchon](https://open.spotify.com/album/0Nw1gRzmw5dF4uuGrXX6nw) | 3:45 |
 | 89 | [Forbidden Love](https://open.spotify.com/track/1b50WKDTc8NAyN6ZEPiKCo) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [Kim Kyungho 1997](https://open.spotify.com/album/40sjgUIzAZJIO8UpgMoLRQ) | 4:31 |
-| 90 | [Endless](https://open.spotify.com/track/1OzCTRwO4znqWZsPJZpRSt) | [플라워](https://open.spotify.com/artist/5sp44iOiTOC0lXmN8zMRaT) | [해룡이의 Sad Love Story](https://open.spotify.com/album/7KFnrJoRlzphnYp2tZefaS) | 4:15 |
+| 90 | [Endless](https://open.spotify.com/track/1OzCTRwO4znqWZsPJZpRSt) | [플라워](https://open.spotify.com/artist/5sp44iOiTOC0lXmN8zMRaT) | [소품집 : 해룡의 Sad Love Story](https://open.spotify.com/album/7KFnrJoRlzphnYp2tZefaS) | 4:15 |
 | 91 | [무한지애 \(無恨之愛\) Muhanjiae \(No Love For Love\)](https://open.spotify.com/track/54gRZzn9mt1cn3e1dPN4YC) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [Change](https://open.spotify.com/album/0qCuLEkytKGnnmgsOnpwS5) | 4:33 |
 | 92 | [슬픈 언약식](https://open.spotify.com/track/4fjszCyp9aPlac5nTpxYPJ) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [4Love](https://open.spotify.com/album/0gEHgjhOKYuP73SzPRDf8w) | 4:39 |
 | 93 | [마지막 약속](https://open.spotify.com/track/6GzhacPOP82WUlTLCatTPY) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [4Love](https://open.spotify.com/album/0gEHgjhOKYuP73SzPRDf8w) | 4:14 |

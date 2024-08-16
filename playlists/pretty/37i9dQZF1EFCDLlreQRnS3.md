@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 54 | [Dizzy](https://open.spotify.com/track/64LUjD3YocS7RTVKH9cryO) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Dizzy](https://open.spotify.com/album/5vgiAIFtHN4DRQjBG5wf5F) | 2:28 |
 | 55 | [Fast Lane](https://open.spotify.com/track/5Q79xM1viK36w808nH17S4) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Fast Lane](https://open.spotify.com/album/5HCQ1g5WrQuojo1eRv8FP6) | 2:00 |
 | 56 | [On the Weekend \- Phantoms Remix](https://open.spotify.com/track/0yfUO4Z7ERcVIoCisyHeiX) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:47 |
-| 57 | [21](https://open.spotify.com/track/6XnBxunhT15siJYMdXwcIm) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe), [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [21](https://open.spotify.com/album/3UngvNb7RYdv9OlQCqChLM) | 3:57 |
-| 58 | [Closure](https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Closure](https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A) | 2:13 |
+| 57 | [Closure](https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Closure](https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A) | 2:13 |
+| 58 | [21](https://open.spotify.com/track/6XnBxunhT15siJYMdXwcIm) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe), [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [21](https://open.spotify.com/album/3UngvNb7RYdv9OlQCqChLM) | 3:57 |
 | 59 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 |
 | 60 | [Pretty When You Lie](https://open.spotify.com/track/2Bl0J01BAk7JkMGCtLdRz5) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pretty When You Lie](https://open.spotify.com/album/7xEXzVF62ib2CVTIqKZGJa) | 2:15 |
 | 61 | [Give It Up](https://open.spotify.com/track/29MyHIVuh2jrMIxFOVK4b0) | [Yann Lauren](https://open.spotify.com/artist/2X8aqXXVsPW1HhrAtjgXeF), [Wolfskind](https://open.spotify.com/artist/1TBWWvhaT8b4ItnaIPrVNH), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Give It Up](https://open.spotify.com/album/0AQktZu7BXdcQzAtx9uLbM) | 2:39 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 108 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 109 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbZbdAAAAABsc0YxjMNInffi1m69b9f7`
+Snapshot ID: `AbZhFAAAAADDSoAQ2IU/uI9cSRbtvjms`

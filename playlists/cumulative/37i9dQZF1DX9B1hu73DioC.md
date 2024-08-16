@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for park hangs, summer get togethers, or self care.
 
-802 songs - 1 day 23 hr 46 min
+803 songs - 1 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-07-26 | 2023-09-16 |
 | [Fuck Tha World](https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Fuck Tha World](https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ) | 2:21 | 2023-04-06 | 2023-05-07 |
 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2020-10-16 | 2023-04-07 |
-| [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2024-01-12 |  |
+| [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2024-01-12 | 2024-08-16 |
 | [GARDEN 2 \- Spencer\. Remix](https://open.spotify.com/track/4PTVeseRKeHsJyw3VuOKGS) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3), [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [SLEEP CYCLE Remixes](https://open.spotify.com/album/4WGEDA8ooTjCiOHgWz6sjT) | 1:29 | 2021-06-04 | 2022-06-03 |
 | [Gemini and Leo \- Edit](https://open.spotify.com/track/00aTAUXcHPWUDxupOKMauy) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Gemini and Leo](https://open.spotify.com/album/2GWtyxZd4E4kPM98yglBVY) | 3:42 | 2021-06-25 | 2022-07-21 |
 | [Get Closer](https://open.spotify.com/track/4roBcHq6JZq6FBfbf0k6uF) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Get Closer](https://open.spotify.com/album/1SKAfddsLQC9iKrYq1dAOm) | 3:21 | 2021-06-04 | 2022-07-28 |
@@ -314,6 +314,7 @@
 | [good connection](https://open.spotify.com/track/6SdjacnbT4YCCTSZ4kZM23) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [good connection](https://open.spotify.com/album/055Lz66jZK65hYlxnyWSfF) | 2:35 | 2021-06-04 | 2022-04-02 |
 | [Good For Now \(feat\. Lucky Daye\)](https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Good For Now](https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt) | 4:01 | 2023-01-11 | 2023-03-22 |
 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 | 2023-02-10 | 2023-05-24 |
+| [Good Stuff](https://open.spotify.com/track/15uPQvxN5wjdpO8THuhuNP) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 3:03 | 2024-07-05 |  |
 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 | 2022-08-05 | 2023-02-25 |
 | [Great Big Warm House](https://open.spotify.com/track/7weCXHnDhWWMZ5kMeA2Xt0) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Golden Vessel Produced By Filous](https://open.spotify.com/album/2a22GfHU2FWvOvKG21Ldso) | 2:22 | 2023-09-08 | 2023-12-13 |
 | [Gretel](https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 3:10 | 2022-05-31 | 2022-06-01 |

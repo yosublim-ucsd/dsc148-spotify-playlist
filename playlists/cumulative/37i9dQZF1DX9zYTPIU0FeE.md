@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC?si=l9R0of3kQnmpGcQ\-5hrIdQ">Gabi Motuba</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG?si=ujjJuO6pS66aEH6wk3AgTQ">Keenan Meyer</a>
 
-227 songs - 1 day 0 hr 10 min
+228 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Order My Steps](https://open.spotify.com/track/7yCyhdtftzMiWWzLb2us5w) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Order My Steps](https://open.spotify.com/album/3ZHh1lGS16LHqtaL9dNGTC) | 6:15 | 2024-07-11 |  |
 | [P \(x\) J](https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [P \(x\) J](https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt) | 4:32 | 2024-02-16 |  |
 | [Piece of Ground](https://open.spotify.com/track/4x69jUo3ULAWef7TggDHG7) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [What Is Wrong With Groovin'](https://open.spotify.com/album/08ytgP2RhHhihp6HpKaPEs) | 4:25 | 2023-09-29 |  |
-| [Pink Sunset](https://open.spotify.com/track/761V4Wr2AVIKdJtV5o5czc) | [The Unity Band](https://open.spotify.com/artist/1bCno1jVp2qYgeHYLagBnd) | [Breaking Bread](https://open.spotify.com/album/6M46nDC2qUNcCeuSLS0AWq) | 6:23 | 2023-08-25 |  |
+| [Pink Sunset](https://open.spotify.com/track/761V4Wr2AVIKdJtV5o5czc) | [The Unity Band](https://open.spotify.com/artist/1bCno1jVp2qYgeHYLagBnd) | [Breaking Bread](https://open.spotify.com/album/6M46nDC2qUNcCeuSLS0AWq) | 6:23 | 2023-08-25 | 2024-08-16 |
 | [Prayer](https://open.spotify.com/track/45rFXj6zMsy5WICsFu83mb) | [BandaBanda & The Crocodiles](https://open.spotify.com/artist/4fGYO2jfAKQYa4gyjMrRhH) | [Africado](https://open.spotify.com/album/0qIUwch0zfEtS24JO6Y3DK) | 5:09 | 2022-04-28 | 2023-08-26 |
 | [Prayer for Nkosi, Pt\. 2](https://open.spotify.com/track/0PfVyANYegV6krdO2cjD8q) | [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4) | [Africans in Space](https://open.spotify.com/album/23MvA3cqTJoiGLQV8Bil0N) | 5:06 | 2023-11-01 | 2023-11-17 |
 | [Promenade](https://open.spotify.com/track/0CXt2Bj9qskjdluQaOWwLP) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and the Politics of Memory](https://open.spotify.com/album/14ZKx2M8Jb8ydk7XQUfmBf) | 5:39 | 2022-04-28 | 2022-10-07 |
@@ -223,6 +223,7 @@
 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 | 2024-01-11 |  |
 | [Water Signs](https://open.spotify.com/track/2nsw0NQR8x2HCjgSZ4cnUV) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Simon Manana](https://open.spotify.com/artist/3q7fjTvf2EjwCnFKHr86x9), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Micca Manganye](https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae) | [Water Signs](https://open.spotify.com/album/4yVOwDT9cBY7j30TQcA89d) | 6:18 | 2023-02-03 | 2024-01-26 |
 | [Water Spirits: Izinkonjana](https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Water Spirits: Izinkonjana](https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl) | 6:34 | 2024-05-02 |  |
+| [We Have Been Here Before](https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG) | [We Have Been Here Before](https://open.spotify.com/album/27kRcs08cwVT7xZHKCLQPE) | 4:50 | 2024-08-15 |  |
 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 | 2022-04-28 | 2024-01-26 |
 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 | 2023-08-25 |  |
 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 | 2022-04-28 | 2024-03-22 |

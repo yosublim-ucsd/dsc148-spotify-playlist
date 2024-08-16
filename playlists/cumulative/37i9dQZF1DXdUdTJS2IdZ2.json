@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: brb.",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: hongjoin",
   "name": "Rising 65",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 164318,
       "name": "Aku Lit",
       "url": "https://open.spotify.com/track/2h7CfdfaQnAM64W6D1vCXp"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 144190,
       "name": "AMCM JEK",
       "url": "https://open.spotify.com/track/59scWqiu46YVbCH1YfSikx"
@@ -265,6 +265,36 @@
     },
     {
       "album": {
+        "name": "BooLala",
+        "url": "https://open.spotify.com/album/0Mo1Wr8hTM8JSWRf7aWWbE"
+      },
+      "artists": [
+        {
+          "name": "Qis Maraj",
+          "url": "https://open.spotify.com/artist/0rRWud0f3XEpYgiHcIiBSv"
+        },
+        {
+          "name": "Mawar Berduri",
+          "url": "https://open.spotify.com/artist/54aZKdmW2cKsm5lb5GjsKL"
+        },
+        {
+          "name": "2KangKata",
+          "url": "https://open.spotify.com/artist/0JrpOAWI4ugYpZq7kC4FvR"
+        },
+        {
+          "name": "Deen",
+          "url": "https://open.spotify.com/artist/0px5yhDl6K2LDcA5MPwyUV"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "BooLala",
+      "url": "https://open.spotify.com/track/58lbCaCQlQ6NUiiE7bV7ZB"
+    },
+    {
+      "album": {
         "name": "Bread and Better (feat. \u59dc\u6fe4 & Gentle Bones)",
         "url": "https://open.spotify.com/album/5Auuj50jZELJGtmV2mndGG"
       },
@@ -320,7 +350,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 304200,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3Rht33HE6Sl61uyJlhcrnR"
@@ -830,7 +860,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 174000,
       "name": "EX YOU",
       "url": "https://open.spotify.com/track/6EFncLJszMqRd6bOA0uOOv"
@@ -889,7 +919,7 @@
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 150291,
+      "duration_ms": 150000,
       "name": "forever!",
       "url": "https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy"
     },
@@ -968,6 +998,32 @@
       "duration_ms": 171789,
       "name": "GENTLE BABY",
       "url": "https://open.spotify.com/track/11yHeKNuagn6X2XOhO108a"
+    },
+    {
+      "album": {
+        "name": "golden",
+        "url": "https://open.spotify.com/album/26O1qrgmmjV9ecV6WQv8nm"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302486,
+      "name": "golden",
+      "url": "https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf"
     },
     {
       "album": {
@@ -1771,6 +1827,32 @@
     },
     {
       "album": {
+        "name": "ON MY MIND",
+        "url": "https://open.spotify.com/album/2YPiU7we72n4L41noa9kbe"
+      },
+      "artists": [
+        {
+          "name": "Dominic Chin",
+          "url": "https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ"
+        },
+        {
+          "name": "lamin",
+          "url": "https://open.spotify.com/artist/5fhS2j2Yz5Wsg0vISg63hT"
+        },
+        {
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "ON MY MIND",
+      "url": "https://open.spotify.com/track/75ErYzaKYDkIETxsdyk9gA"
+    },
+    {
+      "album": {
         "name": "One Sunrise At A Time",
         "url": "https://open.spotify.com/album/615YUEpbaWtii06WTIBWPK"
       },
@@ -1890,7 +1972,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 208163,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/3H0HcXW9NBBgvTCCvGVgF3"
@@ -1948,7 +2030,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 223250,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/4fFcewf8HQoRfMqqU4pe7q"
@@ -2067,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/4u3P9Pf8zfz8TC103weUOJ"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/1DzSF2LxR4lYV1mrLLhqXK"
+    },
+    {
+      "album": {
         "name": "she's coming alive",
         "url": "https://open.spotify.com/album/5kbbwFduOW0mWoxDJ0ivP9"
       },
@@ -2082,6 +2182,24 @@
       "duration_ms": 213000,
       "name": "she's coming alive",
       "url": "https://open.spotify.com/track/0xpgLRE5cCKL8vnUeFiBYz"
+    },
+    {
+      "album": {
+        "name": "sidewalk",
+        "url": "https://open.spotify.com/album/2IWJKDRmq8hOJN4iPhh9wk"
+      },
+      "artists": [
+        {
+          "name": "Odelia Rei",
+          "url": "https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "sidewalk",
+      "url": "https://open.spotify.com/track/2u5Q7TjmuGD0PXsSEb9Fv2"
     },
     {
       "album": {
@@ -2190,7 +2308,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 230627,
       "name": "stay",
       "url": "https://open.spotify.com/track/4juJw6XXVZNb25sJWCHk1Z"
@@ -2278,7 +2396,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 87357,
       "name": "Swag",
       "url": "https://open.spotify.com/track/1HbRWWqzfF55MzMpe6ZDl2"
@@ -2318,7 +2436,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 196923,
       "name": "sweet little dreams",
       "url": "https://open.spotify.com/track/4Ty7RFTDDKAG79XWetL9YO"
@@ -2427,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "The Name Is (Bro Unga Peru)",
+        "url": "https://open.spotify.com/album/0UC4hzPPAkN8TCvri3Xs7q"
+      },
+      "artists": [
+        {
+          "name": "Shabir Sulthan",
+          "url": "https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100500,
+      "name": "The Name Is (Bro Unga Peru)",
+      "url": "https://open.spotify.com/track/7dgvXRjFRde7AghLhzi5kZ"
+    },
+    {
+      "album": {
         "name": "the wind is beginning to blow",
         "url": "https://open.spotify.com/album/6JzAblfpFUpyYpbhxdWdkW"
       },
@@ -2442,7 +2578,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 170666,
       "name": "the wind is beginning to blow",
       "url": "https://open.spotify.com/track/1ZakJyD24hLcW6ZM5rkNrS"
@@ -2579,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "V-01C3",
+        "url": "https://open.spotify.com/album/3TG85uRfuOzPNPJnoKMpAj"
+      },
+      "artists": [
+        {
+          "name": "Estelle Fly",
+          "url": "https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "V-01C3",
+      "url": "https://open.spotify.com/track/6nbURiHdTMYSDfzADo6HBF"
+    },
+    {
+      "album": {
         "name": "wanted you",
         "url": "https://open.spotify.com/album/0ckTkTRmAJ2RTka6bybDGW"
       },
@@ -2696,7 +2850,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 174117,
       "name": "what if nobody kisses me?",
       "url": "https://open.spotify.com/track/2419DCCjkCVM96bZPDGJQc"
@@ -2732,7 +2886,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 155904,
       "name": "What You Gon Do \u4f60\u8be5\u600e\u4e48\u529e",
       "url": "https://open.spotify.com/track/2ILasPbLhnkUQ267mTaMbN"
@@ -2790,7 +2944,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 208615,
       "name": "WHO'S NEXT?",
       "url": "https://open.spotify.com/track/7BhMLf6LvVDqBoZqHqGNDc"
@@ -3214,6 +3368,24 @@
       "duration_ms": 245624,
       "name": "\u90a3\u4e9b\u5e74\u7684\u5c0f\u5e78\u8fd0",
       "url": "https://open.spotify.com/track/4LaGsVSasJrPQNLI3KNwBM"
+    },
+    {
+      "album": {
+        "name": "\u96be\u9053",
+        "url": "https://open.spotify.com/album/7816IMimLBMi8wg3iSnPx0"
+      },
+      "artists": [
+        {
+          "name": "Ben Hum",
+          "url": "https://open.spotify.com/artist/4ATqdfAOYsKwaVVPEktade"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157539,
+      "name": "\u96be\u9053",
+      "url": "https://open.spotify.com/track/7i5AvBRpqVYoIlhh8Z5gJE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdUdTJS2IdZ2"

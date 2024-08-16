@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "AAADewOv+8F0NFyyptNSizbO9TTicW6h",
+  "snapshot_id": "AAADfRB4W+AZe1DwzBvIv08kGSI1gTqU",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -13127,6 +13127,38 @@
       "duration_ms": 370033,
       "name": "Tet Chaj\u00e9",
       "url": "https://open.spotify.com/track/6tpxV3D3WKEdcIwyFy4kEV"
+    },
+    {
+      "added_at": "2024-08-15 19:05:35",
+      "album": {
+        "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30b9\u30da\u30b7\u30e3\u30eb",
+        "url": "https://open.spotify.com/album/46xhGBdollRAui0FdpJVJy"
+      },
+      "artists": [
+        {
+          "name": "\u7b20\u4e95 \u7d00\u7f8e\u5b50",
+          "url": "https://open.spotify.com/artist/4UgoOhsP6AlN1SIkFRBCit"
+        }
+      ],
+      "duration_ms": 258519,
+      "name": "\u30d0\u30a4\u30d6\u30ec\u30a4\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3pV989KB6C0hAnRFb4Qcsg"
+    },
+    {
+      "added_at": "2024-08-15 20:26:01",
+      "album": {
+        "name": "SMILE",
+        "url": "https://open.spotify.com/album/0SWkx3Mhw5VfsruSF9jTZY"
+      },
+      "artists": [
+        {
+          "name": "Mami Ayukawa",
+          "url": "https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM"
+        }
+      ],
+      "duration_ms": 291851,
+      "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30afNIGHT",
+      "url": "https://open.spotify.com/track/0kGcw9BC4b99bm0r3ne7i4"
     }
   ],
   "unique_name": "Worldly",

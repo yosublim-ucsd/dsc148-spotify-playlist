@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Час перепочити 🌻🧘🌲
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,761 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,775 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 46 | [Лину](https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Музичний щоденник\. Частина №1](https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM) | 1:52 |
 | 47 | [Small things](https://open.spotify.com/track/0pIkEi390vLhzMPLpTqhHD) | [NOIRA](https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo), [TIMEA](https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1) | [Small things](https://open.spotify.com/album/3TEpoDnyz0GjzCyTCq5ptu) | 3:09 |
 | 48 | [Лебідонько](https://open.spotify.com/track/3jvcFXp201IwQ1hGpq0Xoj) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Лебідонько](https://open.spotify.com/album/19UW7SaVHmcUDFXhj2webN) | 2:16 |
-| 49 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 |
-| 50 | [Літом](https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7) | [Геля Зозуля](https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B) | [Літом](https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy) | 2:13 |
+| 49 | [Літом](https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7) | [Геля Зозуля](https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B) | [Літом](https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy) | 2:13 |
+| 50 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 |
 | 51 | [Вір мені](https://open.spotify.com/track/27k4QLPYGhiApZKCQI4c9y) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Вір мені](https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C) | 2:16 |
 | 52 | [Makoterchyk](https://open.spotify.com/track/2VHw1Ie1Job3uYw0GYMOwL) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Makoterchyk](https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw) | 4:15 |
 | 53 | [З тобою](https://open.spotify.com/track/5ErRotOfxOqygtKwW1Bkjd) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [З тобою](https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf) | 3:00 |

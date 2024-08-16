@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj5RrzpGbto.md) - [plain]
 
 > ช่วงวันแม่ มาฟังเพลงศิลปินตัวแม่อินเตอร์ล่าสุดที่นี่กัน\. ศิลปิน: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,409 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,445 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

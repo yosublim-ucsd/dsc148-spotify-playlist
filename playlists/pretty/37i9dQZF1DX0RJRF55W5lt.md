@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,538 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,662 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 70 | [Joy](https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0) | [Janet Rushmore](https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU) | [Smack Da House Vol.2](https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT) | 5:29 |
 | 71 | [Dancing for Heaven \- Club](https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [House Tracks for the Dancefloor, Vol\. One](https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9) | 6:12 |
 | 72 | [Club Lonely](https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt) | [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Club Asylum Sampler, Vol\. 1](https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq) | 5:14 |
-| 73 | [Happy to Be Deep](https://open.spotify.com/track/4lj7TqR5hgkvJosxlHSAvi) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 7:17 |
+| 73 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
 | 74 | [Do It Right Baby](https://open.spotify.com/track/5Xt5Tb41aRmIKBpPG3VBYA) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [UK Garage Classics \- Best of Jeremy Sylvester, Vol\. 3](https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT) | 6:04 |
 | 75 | [Joyrider \- Y Tribe's Underground Remix](https://open.spotify.com/track/01GLLCecGsPfuPmFHDqMCu) | [Colour Girl](https://open.spotify.com/artist/3KZJwlDEn12LcMe7y1uPlH), [Y Tribe](https://open.spotify.com/artist/2oJ21FASyQQIfQEcl4G8Nj) | [Raw Talent: 3 Years In The Makin' \(2007\-2010\)](https://open.spotify.com/album/6GvInLag1pb1mhCn11p5iw) | 3:59 |
 

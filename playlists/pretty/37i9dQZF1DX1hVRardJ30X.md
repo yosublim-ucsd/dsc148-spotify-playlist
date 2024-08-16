@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by J Balvin, Peso Pluma & Titi Double P, Manuel Turizo, and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,367 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,527 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 16 | [TURBINA](https://open.spotify.com/track/0rzvrAIOOLq1BlOfmfluY3) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [TURBINA](https://open.spotify.com/album/3L8jy2X8qNlS1AIYQyAAsn) | 3:10 |
 | 17 | [POR EL CONTRARIO \(DEMO\)](https://open.spotify.com/track/2GIebvHnyaKLLHgQ58f98j) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [POR EL CONTRARIO](https://open.spotify.com/album/2cnThiqtDHLhqWA37xkDFh) | 3:17 |
 | 18 | [Maradona \(Tatara\)](https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Maradona \(Tatara\)](https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW) | 2:30 |
-| 19 | [Young Rich & In Love \- KAYTRANADA Remix](https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:52 |
+| 19 | [Young Rich & In Love \- KAYTRANADA Remix](https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \- Deluxe](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:52 |
 | 20 | [Luceros](https://open.spotify.com/track/6BTWEnqNZ5ROT2RhFBGgNh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Luceros](https://open.spotify.com/album/4G08b4Dtfq0YjjQNTQcUv5) | 2:28 |
 | 21 | [NO NOS PARECEMOS](https://open.spotify.com/track/0rQ7Ox0xRKOaEg6MaY14m6) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [NO NOS PARECEMOS](https://open.spotify.com/album/3cbrQxgtLU6AAEYeNprQtK) | 4:34 |
 | 22 | [AL CHILE](https://open.spotify.com/track/386FztxeWI2aSqF6jLfGUT) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [AL CHILE](https://open.spotify.com/album/5J9rc3hd9K8IPPEZMTglFz) | 2:55 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C?si=6pB76--cQgW9yydRzvv4XQ\">Elle E</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ\">Run Into Waves</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -294,6 +294,24 @@
       "duration_ms": 145694,
       "name": "Almal Baklei",
       "url": "https://open.spotify.com/track/6tk21RK5t7pAJtoZL2txVB"
+    },
+    {
+      "album": {
+        "name": "Alone At Last",
+        "url": "https://open.spotify.com/album/5Ouc8dsexIm7HTxk9jtgzc"
+      },
+      "artists": [
+        {
+          "name": "Run Into Waves",
+          "url": "https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216626,
+      "name": "Alone At Last",
+      "url": "https://open.spotify.com/track/0RAg0cxBDe3QyVs3omhabP"
     },
     {
       "album": {
@@ -5288,7 +5306,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 250370,
       "name": "Murmurs",
       "url": "https://open.spotify.com/track/4Bje2kBjtCQBKGpZAN8onp"
@@ -6183,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "PLUS MINUS",
+        "url": "https://open.spotify.com/album/74wqMfp38DGFfVBAJPJYEx"
+      },
+      "artists": [
+        {
+          "name": "Hendriek Bleik",
+          "url": "https://open.spotify.com/artist/4k0tcb0DEpNlQzOD8mKtCT"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163371,
+      "name": "PLUS MINUS",
+      "url": "https://open.spotify.com/track/7vGJj71Z0RRVOzpdnpYjip"
+    },
+    {
+      "album": {
         "name": "Prediker",
         "url": "https://open.spotify.com/album/6DLr0e6UlImONhBrEK9Dlp"
       },
@@ -6230,7 +6266,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 191332,
       "name": "Probleem Kind",
       "url": "https://open.spotify.com/track/3kKrPNNzkND3hG2kaa2aUj"

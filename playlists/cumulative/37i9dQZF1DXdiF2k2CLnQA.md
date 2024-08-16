@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️ Cover: HammerFall
 
-111 songs - 7 hr 1 min
+112 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 |  |
 | [Walk](https://open.spotify.com/track/3BID61NKkUQkX41pU5PtQG) | [AB/CD](https://open.spotify.com/artist/75IFS4w4dhyYMDGnTfzOAx) | [Walk](https://open.spotify.com/album/02kooDQ13rPXUwtcqQQH8u) | 3:10 | 2024-06-27 |  |
 | [Wasted](https://open.spotify.com/track/6PA4LL6g9HxAa9lfBl1Ttp) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Wasted](https://open.spotify.com/album/2v4S2oaNDQ15PVNAkFRXqz) | 3:26 | 2024-06-27 | 2024-08-02 |
+| [Wayward Eyes](https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Endtime Signals](https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI) | 3:28 | 2024-08-15 |  |
 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 | 2024-06-27 | 2024-08-02 |
 | [Wow! Wow! Wow!](https://open.spotify.com/track/65UAJffAS7gUxrqYBIqrU2) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Wow! Wow! Wow!](https://open.spotify.com/album/1GaAZvieXoy9wQw8Fq1EFG) | 3:40 | 2024-06-27 | 2024-08-02 |
 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-06-27 | 2024-08-02 |

@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-249 songs - 21 hr 42 min
+251 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Made In Finland](https://open.spotify.com/track/3tshGD2GGqWYPPnB5L9DL7) | [Markus Venehsalo](https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2), [Mavon Safia](https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit) | [Made in Finland](https://open.spotify.com/album/49Fi3MgqfxOr16AnpIa9M7) | 4:26 | 2023-03-31 |  |
 | [Matka](https://open.spotify.com/track/1oQGPJopKpQ8amfXDfE37W) | [Leo Hynninen](https://open.spotify.com/artist/2sGqLEHBjdeKv6hi3tAsqj) | [Matka](https://open.spotify.com/album/3SQeJqqtmhPYfd3OCB6mUY) | 2:30 | 2023-12-15 | 2024-04-27 |
 | [Mercy](https://open.spotify.com/track/5g7R1HYpEUNtD1G0yYadAI) | [Northern gospel project](https://open.spotify.com/artist/0B4CulblTpweOC0a5uHoF9) | [Mercy](https://open.spotify.com/album/7wBPnoHvTAXNkPTuAmgCbU) | 5:00 | 2022-09-02 | 2023-09-15 |
+| [Miked Up! \- Single Version](https://open.spotify.com/track/6ArOfditpv6yFDP69kcpzn) | [Varre Vartiainen](https://open.spotify.com/artist/2XhdWDg4TZrfKrGb3dg3QG), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Miked Up!](https://open.spotify.com/album/3ndkwWjE0AQrwrrXLtxo8J) | 6:28 | 2024-08-15 |  |
 | [Moon Over Mysore](https://open.spotify.com/track/2ViBKbHDsJuvU2eTireOAY) | [Kokko Quartet](https://open.spotify.com/artist/3KHGL7g4Udxn7D3Tja53Ve) | [Moon over Mysore](https://open.spotify.com/album/3ErQYvguy4PL1uTzdjXxPT) | 4:39 | 2022-09-02 | 2023-11-24 |
 | [More from Her](https://open.spotify.com/track/3IAcrSQpmuOHMd672Zi5Ac) | [Sylvain Rifflet](https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [More from Her](https://open.spotify.com/album/0dEOv7WHeFq5nRa2UqYAlb) | 3:40 | 2024-04-05 |  |
 | [Mortality, Pt\. II](https://open.spotify.com/track/5QBRP37BIIHDBb3dyqzcBN) | [Mortality](https://open.spotify.com/artist/5AlwhHyKcptUXruUkubQB0), [Mikko Pettinen](https://open.spotify.com/artist/43o5pKu9yDVBHxif5Idqgq), [Tapio Ylinen](https://open.spotify.com/artist/4O7qDcBIik3w3KyASCdevO) | [Mortality, Pt\. II](https://open.spotify.com/album/3vVCiB4LlNd0Cgb2OwafrN) | 8:04 | 2024-03-22 |  |
@@ -173,6 +174,7 @@
 | [Poncho](https://open.spotify.com/track/5l2mlrojPLmgdfMkgVxvCn) | [Mirja Mäkelä Trio](https://open.spotify.com/artist/5zDGpXwDXOqJQ1jh8GrfAy) | [Poncho](https://open.spotify.com/album/7n4lTJfOOXLAb5QqkvdfR1) | 3:14 | 2022-09-02 | 2023-09-15 |
 | [Portal Koma](https://open.spotify.com/track/2fFiFoqruKK5NaUgKJE55y) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Portal Koma](https://open.spotify.com/album/2g8TgNKQNPmRHJmgek64Sf) | 3:52 | 2023-10-05 | 2023-10-20 |
 | [Prediction Error](https://open.spotify.com/track/4Jc9LMJDhsGPWvavMogMGU) | [Arto Ikävalko](https://open.spotify.com/artist/6fbXrjG4gnY40gjD0LQWgs), [Joonas Tuuri](https://open.spotify.com/artist/39FhDhKtjqPOVn531rYne6), [Ville Luukkonen](https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK) | [Changing Priors](https://open.spotify.com/album/5EhpoI6mfx5Ew6ENylDmfc) | 5:58 | 2024-04-26 |  |
+| [Pressured Speech](https://open.spotify.com/track/78uwjBJlo0HOdrzxFfE03F) | [Aurora Hentunen](https://open.spotify.com/artist/1EKGcwLLFmHbD4qLBq1MME) | [Pressured Speech](https://open.spotify.com/album/4jxAXUOK25NssMMcUbtwA3) | 4:56 | 2024-08-15 |  |
 | [Pretty, pretty](https://open.spotify.com/track/4NyZ3VSI467QyI8bysOScq) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [Pretty, pretty](https://open.spotify.com/album/261ugORy4WXLVPQqtcrtib) | 2:45 | 2024-07-25 |  |
 | [Projekt 13](https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l) | [Markus Venehsalo](https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2), [Mavon Safia](https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [Projekt 13](https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL) | 4:11 | 2023-02-17 | 2023-04-01 |
 | [Pöllö](https://open.spotify.com/track/058ODZGnIEka63MaKmwj7Z) | [Njet Njet 9](https://open.spotify.com/artist/7rNnHAMppjTUfTcoIQTJEQ) | [Pöllö](https://open.spotify.com/album/6kPy7rOuH5WO1rOVRI2ZBU) | 6:02 | 2023-05-26 | 2023-10-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras powered by  <a href="spotify:genre:0JQ5DAqbMKFJ1bGfuFbFuR">La Tierra de Música Mexicana</a> \. Cover: Grupo Marca Registrada & JPL
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,325,600 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,325,710 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

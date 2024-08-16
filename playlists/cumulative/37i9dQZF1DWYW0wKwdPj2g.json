@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Jimmy D Psalmist",
+  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Dunsin Oyekan",
   "name": "Come Alive",
   "tracks": [
+    {
+      "album": {
+        "name": "Ain't Bragging (Live)",
+        "url": "https://open.spotify.com/album/6G67sJTPZPEosjkooWtain"
+      },
+      "artists": [
+        {
+          "name": "Churemi",
+          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326827,
+      "name": "Ain't Bragging - Live",
+      "url": "https://open.spotify.com/track/10oklXEk4wEvuvmmarG4lS"
+    },
     {
       "album": {
         "name": "All Things Are Possible (Live)",
@@ -376,10 +394,40 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 523333,
       "name": "Done so Much",
       "url": "https://open.spotify.com/track/0oktbWzrkxJyjtucARGMdN"
+    },
+    {
+      "album": {
+        "name": "E Ti Tobi to (Live)",
+        "url": "https://open.spotify.com/album/5mY52gjoMuJsiLybLRQR3J"
+      },
+      "artists": [
+        {
+          "name": "EmmaOMG",
+          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
+        },
+        {
+          "name": "The OhEmGee Choir",
+          "url": "https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb"
+        },
+        {
+          "name": "Pelumi Deborah",
+          "url": "https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx"
+        },
+        {
+          "name": "BBO",
+          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 826096,
+      "name": "E Ti Tobi to (Live)",
+      "url": "https://open.spotify.com/track/6CyvOdf4V0PM8mU3ktVzsh"
     },
     {
       "album": {
@@ -416,7 +464,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 635240,
       "name": "Ekujuleni (Live at Goshen City Church 2023)",
       "url": "https://open.spotify.com/track/639batqvLenaQp4sh5Jov7"
@@ -900,7 +948,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 337946,
       "name": "King Jesus (Live in Bryanston, 2022) (feat. Siphelele Vundla & Awethu Namba-Satsha)",
       "url": "https://open.spotify.com/track/1aFilSkkqwbcDmwpBzIN6b"
@@ -926,6 +974,28 @@
       "duration_ms": 561739,
       "name": "Lord You are Beautiful",
       "url": "https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy"
+    },
+    {
+      "album": {
+        "name": "Maisha Yangu / Baba Yangu, Baba Yangu (Live in Kenya)",
+        "url": "https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542850,
+      "name": "Maisha Yangu / Baba Yangu, Baba Yangu - Live in Kenya",
+      "url": "https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT"
     },
     {
       "album": {
@@ -1455,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Rahama (Live)",
+        "url": "https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596544,
+      "name": "Rahama (Live)",
+      "url": "https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651"
+    },
+    {
+      "album": {
         "name": "Reign Lord (Sovereign) [Live]",
         "url": "https://open.spotify.com/album/0nux4SSbd3MQOUupsY10nT"
       },
@@ -1470,7 +1558,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 630470,
       "name": "Reign Lord (Sovereign) - Live",
       "url": "https://open.spotify.com/track/4gHf19oU8KGnuUTNIJf6F7"

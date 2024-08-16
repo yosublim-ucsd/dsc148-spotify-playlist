@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,226 likes - 467 songs - 1 day 0 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,223 likes - 467 songs - 1 day 0 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Bayaan.
 
-1,556 songs - 3 day 13 hr 2 min
+1,557 songs - 3 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 | 2022-11-25 | 2023-05-31 |
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-01-12 | 2024-03-16 |
 | [Don't Call Me Again](https://open.spotify.com/track/3PObfP8Tm1PkPwo4vsZnaW) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:24 | 2022-09-08 | 2023-05-23 |
+| [Don't Do Well Alone](https://open.spotify.com/track/1E3l1pjDVsdVmyHcbBwvB5) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Don't Do Well Alone](https://open.spotify.com/album/03dAFgKbuDVNLxMPopWAxI) | 3:21 | 2024-08-09 |  |
 | [don't forget about me](https://open.spotify.com/track/7zrGDodwUZ2yU0ZgzV78DF) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [don't forget about me](https://open.spotify.com/album/0fVIxgVxPzOVs1vLO7ZZEa) | 2:52 | 2024-06-07 |  |
 | [Don't Need You](https://open.spotify.com/track/3shtho9vze9NHIz40VF88W) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 3:05 | 2022-03-24 | 2022-04-09 |
 | [Don't Talk To Me](https://open.spotify.com/track/2Z1Lt7J11dSp42X03PWGh5) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Teething](https://open.spotify.com/album/2EuCweXAgt5dcTayQRPoEo) | 3:41 | 2024-04-26 | 2024-06-04 |
@@ -1223,7 +1224,7 @@
 | [THAT'S MY BABY](https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [THAT'S MY BABY](https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe) | 3:55 | 2023-05-30 | 2023-08-19 |
 | [The Countdown](https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 4:37 | 2024-05-10 | 2024-06-23 |
 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-06-14 |  |
-| [The Girl Who Cried Love](https://open.spotify.com/track/35r2RTtVGguSzfGPJgoxLl) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [The Girl Who Cried Love \(Sped Up + Slowed Down\)](https://open.spotify.com/album/20XULojiPjEGzjhUDiNoo7) | 2:57 | 2024-05-17 |  |
+| [The Girl Who Cried Love](https://open.spotify.com/track/35r2RTtVGguSzfGPJgoxLl) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [The Girl Who Cried Love \(Sped Up + Slowed Down\)](https://open.spotify.com/album/20XULojiPjEGzjhUDiNoo7) | 2:57 | 2024-05-17 | 2024-08-16 |
 | [The Light](https://open.spotify.com/track/2ySkMWsWrVA7rvppQUTn8u) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/6Q8UbSdYcoTdMCayeAWMqY) | 3:12 | 2022-02-03 | 2022-12-15 |
 | [The Pain](https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [The Pain](https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD) | 3:41 | 2024-03-01 | 2024-04-14 |
 | [The Whole Story](https://open.spotify.com/track/32nJA8poeqnOofwpmdnl5k) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 2:32 | 2024-02-09 | 2024-04-06 |

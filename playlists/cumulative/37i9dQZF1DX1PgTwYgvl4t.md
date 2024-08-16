@@ -2,9 +2,9 @@
 
 ### [Naija Worship](https://open.spotify.com/playlist/37i9dQZF1DX1PgTwYgvl4t)
 
-> Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=wGtUH00wTBaQMiSBC7lBZA>Moses Bliss</a>
+> Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=P3aUHJWgRLCGMmhYuDEMtQ>Sunmisola Agbebi</a>
 
-77 songs - 8 hr 39 min
+78 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All My Life](https://open.spotify.com/track/2UWV6y2LKiLQdd92zGUDHp) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [All My Life](https://open.spotify.com/album/0ymijpS9vH1roB2dmCVuCQ) | 7:51 | 2024-05-24 |  |
 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 | 2024-05-09 |  |
 | [All the Glory](https://open.spotify.com/track/1IKW8otsHgan6kLcd8I2he) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU), [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [The Spirit of Light](https://open.spotify.com/album/1grxa0bu0S0u98pDXNnFSg) | 5:27 | 2024-05-09 |  |
-| [All to You](https://open.spotify.com/track/32naTG3cDf7G72CB7CgCHC) | [Fredrock](https://open.spotify.com/artist/7lGQM4ChTijSo7u4dKP5Jy) | [All to You](https://open.spotify.com/album/3sEcky04bBERIf8So7cqKV) | 3:48 | 2024-06-14 |  |
+| [All to You](https://open.spotify.com/track/32naTG3cDf7G72CB7CgCHC) | [Fredrock](https://open.spotify.com/artist/7lGQM4ChTijSo7u4dKP5Jy) | [All to You](https://open.spotify.com/album/3sEcky04bBERIf8So7cqKV) | 3:48 | 2024-06-14 | 2024-08-16 |
 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 | 2024-06-07 |  |
 | [Arojinle](https://open.spotify.com/track/6IAkCy6DH4eZTomOlQ5nSU) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/0jfLu0yOlJBXzpBCHE4msv) | 14:43 | 2024-05-09 | 2024-05-24 |
 | [Arojinle](https://open.spotify.com/track/7JFcGjkEFAqIepGcdHdsaP) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/6osSGQmHfGd496n4gWm3At) | 14:43 | 2024-05-09 |  |
@@ -52,6 +52,7 @@
 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 | 2024-05-09 |  |
 | [Logan Ti O De](https://open.spotify.com/track/6xXbKuOenaaq45LvF0VFtb) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [The Spirit of Light](https://open.spotify.com/album/7BqAuNsaQdbaxlwTXl9RLO) | 4:21 | 2024-05-09 |  |
 | [Maisha Yangu \(B'Ola\) \- Live](https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu \(B'Ola\) \[Live\]](https://open.spotify.com/album/4f288ErjAgfMrpxPIHvazp) | 4:13 | 2024-07-19 |  |
+| [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 | 2024-08-16 |  |
 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 | 2024-05-09 |  |
 | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb) | 3:34 | 2024-08-02 |  |
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2024-05-09 |  |
@@ -68,7 +69,7 @@
 | [Only one thing is needed](https://open.spotify.com/track/0IXW08BrMsIePLbK9o0HM5) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Only one thing is needed](https://open.spotify.com/album/6qH0qNNxBEFTlpCadAxial) | 6:42 | 2024-07-12 |  |
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-05-09 |  |
 | [Osuba \- Remix](https://open.spotify.com/track/3X6x1sYQIiUCUwzY3u94qI) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq), [TWC](https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW) | [Osuba \- Remix](https://open.spotify.com/album/55HkimoZNtqiYb81B2XFIS) | 5:23 | 2024-08-09 |  |
-| [Rescue The Perishing](https://open.spotify.com/track/4s3qSbjkrTX48tz50UYHA7) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Rescue The Perishing](https://open.spotify.com/album/3SdyZkiUe9YG86xFsIXQYC) | 3:44 | 2024-05-24 |  |
+| [Rescue The Perishing](https://open.spotify.com/track/4s3qSbjkrTX48tz50UYHA7) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Rescue The Perishing](https://open.spotify.com/album/3SdyZkiUe9YG86xFsIXQYC) | 3:44 | 2024-05-24 | 2024-08-16 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-05-09 |  |
 | [Spontaneous Endless Worship](https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Spontaneous Endless Worship](https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN) | 5:35 | 2024-05-09 |  |
 | [The Kadosh \(Live\)](https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Kadosh \(Live\)](https://open.spotify.com/album/0EpEj8YqjDrd84uJBBCugr) | 9:05 | 2024-05-09 |  |

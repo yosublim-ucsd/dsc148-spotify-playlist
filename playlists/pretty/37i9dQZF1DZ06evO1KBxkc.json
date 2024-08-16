@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 199123,
+  "num_followers": 199133,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAAB8JeVmsCrOaZn/vmoCoCa4",
+  "snapshot_id": "ZrvzgAAAAAB6gq8LUSMJ/Os1v77uPA2h",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith Of A Mustard Seed",
-        "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 211288,
-      "name": "Worth A Heartbreak (feat. Blxst & A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/3upHz9svrEy675Ev9pT1Zn"
+      "duration_ms": 143493,
+      "name": "Stretch You Out (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z"
     },
     {
       "added_at": null,
@@ -415,22 +411,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+        "name": "Faith Of A Mustard Seed",
+        "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 143493,
-      "name": "Stretch You Out (feat. A Boogie wit da Hoodie)",
-      "url": "https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z"
+      "duration_ms": 211288,
+      "name": "Worth A Heartbreak (feat. Blxst & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/3upHz9svrEy675Ev9pT1Zn"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Somebody (feat. Future)",
-      "url": "https://open.spotify.com/track/27wHINa0EyMyU55WyiEV9l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 AVA",
         "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 205702,
       "name": "24 Hours (feat. Lil Durk) [Bonus]",
       "url": "https://open.spotify.com/track/4O7FYAjDATiyylfIIAuRNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Somebody (feat. Future)",
+      "url": "https://open.spotify.com/track/27wHINa0EyMyU55WyiEV9l"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Need You Around (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/6fPEC2rEv7GIrDLJ4xL2ev"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 183652,
       "name": "Chills (LA Hills)",
       "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Need You Around (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/6fPEC2rEv7GIrDLJ4xL2ev"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TBA",
+        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "DJ SpinKing",
+          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Timeless (feat. DJ SPINKING)",
+      "url": "https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
       },
@@ -743,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TBA",
-        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "DJ SpinKing",
-          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Timeless (feat. DJ SPINKING)",
-      "url": "https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/2y5ufPCn1z5JRTWuUB2b4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 214857,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2y5ufPCn1z5JRTWuUB2b4C"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "Let's Go Away (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/7LrWraeGYpRBoNp2OeroW2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scriptures",
         "url": "https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 332195,
       "name": "Young Grizzley World (feat. A Boogie Wit Da Hoodie & YNW Melly)",
       "url": "https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "Let's Go Away (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/7LrWraeGYpRBoNp2OeroW2"
     },
     {
       "added_at": null,

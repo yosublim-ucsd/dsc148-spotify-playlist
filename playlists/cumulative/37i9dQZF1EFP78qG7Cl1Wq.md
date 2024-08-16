@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-229 songs - 12 hr 1 min
+230 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [A Feeling I've Never Been](https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:44 | 2024-06-14 |  |
 | [Accelerate \(feat\. Ty Dolla $ign & 2 Chainz\)](https://open.spotify.com/track/0iSDDumvHTzv6we9Yr1HzY) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:03 | 2024-06-14 |  |
 | [Act Right](https://open.spotify.com/track/4HrzHPy0T96QY6oOwtK5pN) | [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA) | [Act Right](https://open.spotify.com/album/6HH95w2rb4C79Awy1cPAF5) | 2:22 | 2024-06-14 |  |
-| [Admit It \(u dont want 2\)](https://open.spotify.com/track/74cQSljwBwRAHbuXHf2HYs) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 6:25 | 2024-06-14 |  |
+| [Admit It \(u dont want 2\)](https://open.spotify.com/track/4u2FSICPtwCoskbhscHWlD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz) | 6:25 | 2024-08-15 |  |
+| [Admit It \(u dont want 2\)](https://open.spotify.com/track/74cQSljwBwRAHbuXHf2HYs) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 6:25 | 2024-06-14 | 2024-08-16 |
 | [Afraid To Fall](https://open.spotify.com/track/0YlyEicyEhlWU1z6rKrWqT) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:10 | 2024-06-14 |  |
 | [Ahead of Myself](https://open.spotify.com/track/4wZxKVfyQUk47Y4Rr6pfnD) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:49 | 2024-06-14 |  |
 | [ain't a lonely christmas song \(feat\. Tayla Parx\)](https://open.spotify.com/track/1WSOncoBvbmkvujGKVBQKu) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 2:52 | 2024-06-14 |  |

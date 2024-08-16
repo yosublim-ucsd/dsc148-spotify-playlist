@@ -4,7 +4,7 @@
 
 > 
 
-1,949 songs - 4 day 9 hr 1 min
+1,953 songs - 4 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2021-08-05 |  |
 | [Christbait Rising](https://open.spotify.com/track/4qVI1SgIKvAjFFQgkLGMKT) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [Streetcleaner](https://open.spotify.com/album/5fRIh0Yk4eFLst6Nj7RUDF) | 6:59 | 2022-04-03 |  |
 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2022-06-08 |  |
+| [Chucuchá](https://open.spotify.com/track/6eFrdLR3Np9mtHxKpmipWE) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [El Sonido](https://open.spotify.com/album/5UKWW8fo5JwmhJczeGMjAl) | 3:26 | 2024-08-15 |  |
 | [Church Outfit](https://open.spotify.com/track/4V40V5u9oVRgRRLElF4IHS) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 1:54 | 2023-12-24 |  |
 | [Cigarette Ahegao](https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:03 | 2021-08-05 |  |
 | [Cigarettes out the Window](https://open.spotify.com/track/5GKekzF1YcR2DQd9c3DI8y) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U) | 3:18 | 2022-06-22 |  |
@@ -386,6 +387,7 @@
 | [Cop Car](https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd) | 3:03 | 2022-10-25 |  |
 | [Copy Cat \(feat\. Tierra Whack\)](https://open.spotify.com/track/4AhAT2GxKdNYWc5bmdoAES) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Copy Cat \(feat\. Tierra Whack\)](https://open.spotify.com/album/68s3DYnoXMqMpLtq27Csq6) | 3:52 | 2021-08-05 |  |
 | [COPYCAT](https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:14 | 2021-08-05 |  |
+| [Corazón Sin Cara](https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:31 | 2024-08-15 |  |
 | [Corcovado \(Quiet Nights Of Quiet Stars\) \- Single Version](https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:19 | 2023-01-03 |  |
 | [Corduroy Dreams](https://open.spotify.com/track/02tvc9CFnTyHuSRlGeNv9w) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 3:26 | 2021-08-05 |  |
 | [Country Dance \(arr\. for violin and piano\)](https://open.spotify.com/track/40qKTdvPQApkBitQH1dHFy) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Carl Maria von Weber](https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2), [Takako Nishizaki](https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj), [Terence Dennis](https://open.spotify.com/artist/2bbCfH8cgOhmLwMVSzEhXm) | [Takako Nishizaki Plays Suzuki Evergreens, Vol\. 4](https://open.spotify.com/album/38QrWQ9EtheWod0TKtPRSv) | 1:42 | 2023-06-16 |  |
@@ -1002,6 +1004,7 @@
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2021-08-05 |  |
 | [Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [How The Dogs Chill, Vol.1](https://open.spotify.com/album/12KUsz5VGp0SNjfXPxNVjE) | 5:32 | 2024-07-17 |  |
 | [Livin' On A Prayer](https://open.spotify.com/track/7vwxFi1ZGjYLQBWrzhlvSE) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits \- The Ultimate Collection \(Deluxe\)](https://open.spotify.com/album/1m48hdS1VeCbPI7rWlxPL1) | 4:10 | 2021-08-05 |  |
+| [Lloraras](https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Traicionera \(Baile Total\)](https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH) | 3:42 | 2024-08-15 |  |
 | [Lo peor](https://open.spotify.com/track/7CFDbGeL3Ol4N2YoJyNE73) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 1:38 | 2021-11-14 |  |
 | [Loba](https://open.spotify.com/track/1fPCGREltHJuV3axEPydLp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:09 | 2021-08-05 |  |
 | [Lobotomy](https://open.spotify.com/track/3YbMdHrZlBALzNw3LFyZWp) | [✧BRAINDAAMAGE✧](https://open.spotify.com/artist/0Pn6XyvS2qCahtBOwcqsNf) | [Lobotomy](https://open.spotify.com/album/1WlAHqwHcX1tJ3DtofFJ1O) | 3:23 | 2023-06-06 |  |
@@ -1912,7 +1915,7 @@
 | [wtf](https://open.spotify.com/track/3OYSWIgKXiwjutuQ4NEk1b) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 1:12 | 2021-08-05 |  |
 | [WTF](https://open.spotify.com/track/7iZw6wgm7duXlA1uT5ACxF) | [Young Spool](https://open.spotify.com/artist/0yq8vmzSViFTXmrdPeWDrB), [Jakob](https://open.spotify.com/artist/28CcJl2mUKYXWpUhLGRqpd) | [WTF](https://open.spotify.com/album/7Fsnty3Gb788dnTXTxQCld) | 1:29 | 2021-08-05 |  |
 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 | 2024-07-12 |  |
-| [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 | 2024-08-06 |  |
+| [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 | 2024-08-06 | 2024-08-16 |
 | [X](https://open.spotify.com/track/2W2QiVQs0TugOUUYWgnV8E) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:54 | 2022-11-03 |  |
 | [xanny](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:03 | 2021-08-05 |  |
 | [Xenobeat](https://open.spotify.com/track/0jwFNzGu6vnxQU9xomySQo) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [Rituals](https://open.spotify.com/album/2wksMR06cu1z0P3UHB8rlJ) | 2:32 | 2022-06-09 |  |
@@ -1928,6 +1931,7 @@
 | [Yellow Flicker Beat](https://open.spotify.com/track/5PQ17j37k1X7ZCIKqWQgbw) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 3:54 | 2021-08-05 |  |
 | [Yer Killin' Me](https://open.spotify.com/track/79lzbYqczF4oLoOkxx9mHK) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Greatest Hits](https://open.spotify.com/album/7fYIVBhlC5gKvOSDFsUxxT) | 3:54 | 2021-12-30 |  |
 | [yes & no](https://open.spotify.com/track/6UVZo6UKUZC1J2KPP3IIwQ) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [yes & no](https://open.spotify.com/album/7oq0WKmeG97JxVBn3ggwp4) | 2:58 | 2021-08-05 |  |
+| [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 | 2024-08-15 |  |
 | [Yonkers](https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:09 | 2021-11-14 |  |
 | [You Are My Music](https://open.spotify.com/track/4NXTg4Wzw1u7E0wErQxdhr) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [Sushi \(4004\)](https://open.spotify.com/album/4hpBGLRgpvJhGO3mzpKsAY) | 5:16 | 2022-11-06 |  |
 | [you arent all cool and edgy just cuz you like lain](https://open.spotify.com/track/760Y4cz8AyJjCcJpHDbHA1) | [snafu](https://open.spotify.com/artist/6D9QrghftPFUTOPkxAJfSp) | [songs about self hatred](https://open.spotify.com/album/13itaA5Koqxnrqkyb3lPIN) | 1:16 | 2023-01-15 |  |

@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 230433,
       "name": "Break Away",
       "url": "https://open.spotify.com/track/5Xkpr3gOB0WzVOa8xBGqeF"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 211720,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 217966,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/6b1rteUzofKjQVnPN3Lv6N"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 212086,
       "name": "It's Supposed To Hurt",
       "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
@@ -940,6 +940,24 @@
       "duration_ms": 155658,
       "name": "Italian Horror",
       "url": "https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98"
+    },
+    {
+      "album": {
+        "name": "Keep on Moving",
+        "url": "https://open.spotify.com/album/6yoQ4DhCRvnd9KqXwnuCdE"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171109,
+      "name": "Keep on Moving",
+      "url": "https://open.spotify.com/track/78QbRv8ek0BCKvLN8PXtmb"
     },
     {
       "album": {
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 245467,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
@@ -1059,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Lonely is the Muse",
+        "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241579,
+      "name": "Lonely is the Muse",
+      "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
+    },
+    {
+      "album": {
         "name": "Hold My Gun",
         "url": "https://open.spotify.com/album/3J1wLwAw5CoFFSPv8n7Oeu"
       },
@@ -1074,6 +1110,24 @@
       "duration_ms": 246453,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/4SgpPHapJLYPEzAyLbWoWt"
+    },
+    {
+      "album": {
+        "name": "Los\u200b\u200bing",
+        "url": "https://open.spotify.com/album/6ANRjmHs0tkRDJRpnUtuSV"
+      },
+      "artists": [
+        {
+          "name": "Nada Surf",
+          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245293,
+      "name": "Los\u200b\u200bing",
+      "url": "https://open.spotify.com/track/1thKJQhqOpkOXiwMAB3xYm"
     },
     {
       "album": {
@@ -1124,7 +1178,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 134373,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
@@ -1427,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168160,
+      "name": "Persuasion",
+      "url": "https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo"
+    },
+    {
+      "album": {
         "name": "Invader",
         "url": "https://open.spotify.com/album/75oBrpmF0Rcy7jgkZYilcY"
       },
@@ -1486,6 +1558,24 @@
       "duration_ms": 195760,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
+    },
+    {
+      "album": {
+        "name": "SAD KIDS",
+        "url": "https://open.spotify.com/album/7BVnanvuTGAIKmtSaG8v88"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163920,
+      "name": "SAD KIDS",
+      "url": "https://open.spotify.com/track/4Byz072ns7kJTnxVY4Q8CQ"
     },
     {
       "album": {
@@ -1875,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "Leatherman & the Mojave Green",
+        "url": "https://open.spotify.com/album/4yk7MTt8bfsZbJFJ7CI93I"
+      },
+      "artists": [
+        {
+          "name": "Troy Kingi",
+          "url": "https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/0ZN8kajcWw7pDNzTgsYMLB"
+    },
+    {
+      "album": {
         "name": "Through The Trees",
         "url": "https://open.spotify.com/album/2rP1TqqHpwQZE8WqFONuDF"
       },
@@ -2131,7 +2239,7 @@
     },
     {
       "album": {
-        "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
+        "name": "You Hear Yes",
         "url": "https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI"
       },
       "artists": [
@@ -2152,7 +2260,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163934,
-      "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
+      "name": "You Hear Yes",
       "url": "https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv"
     },
     {

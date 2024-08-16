@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Yoss Bones en portada. ",
-  "num_followers": 14661,
+  "num_followers": 14667,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Mis Demonios",
-        "url": "https://open.spotify.com/album/5xXtWGBc3x0tqPSgPlmA8B"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Mis Demonios",
-      "url": "https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Orgullo Rolo",
         "url": "https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Mis Demonios",
+        "url": "https://open.spotify.com/album/5xXtWGBc3x0tqPSgPlmA8B"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Mis Demonios",
+      "url": "https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "T\u00e9 Con Miel",
         "url": "https://open.spotify.com/album/5fK00gfjMpU3hRUsIC9ryP"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Dulcinea",
-        "url": "https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La mejor noche d mi vida <3",
-      "url": "https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Dulcinea",
+        "url": "https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La mejor noche d mi vida <3",
+      "url": "https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "PAC-MAN",
         "url": "https://open.spotify.com/album/48EaiFxq0j5dywhlAQNYd3"
       },
@@ -507,6 +507,42 @@
       "duration_ms": 209759,
       "name": "PAC-MAN",
       "url": "https://open.spotify.com/track/10mihya6eHDgKZwbTowXiQ"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Voy tranquilo",
+        "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
+      },
+      "artists": [
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "duration_ms": 142921,
+      "name": "Voy tranquilo",
+      "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Rap de culto",
+        "url": "https://open.spotify.com/album/6uGPj9zJFxiih5f8H0Vn9Q"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 152429,
+      "name": "Rap de culto",
+      "url": "https://open.spotify.com/track/5PoukzPE9YDkXaVk9cThDQ"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -535,42 +571,6 @@
       "duration_ms": 154285,
       "name": "Cypher MND #18 v.1: Neo Pistea, Obie Wanshot & CNO",
       "url": "https://open.spotify.com/track/6NemFvDNVbQgKyArKaZCFn"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Rap de culto",
-        "url": "https://open.spotify.com/album/6uGPj9zJFxiih5f8H0Vn9Q"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        }
-      ],
-      "duration_ms": 152429,
-      "name": "Rap de culto",
-      "url": "https://open.spotify.com/track/5PoukzPE9YDkXaVk9cThDQ"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Voy tranquilo",
-        "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
-      },
-      "artists": [
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        }
-      ],
-      "duration_ms": 142921,
-      "name": "Voy tranquilo",
-      "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "ICONIC PERRA",
+        "url": "https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Viangogh",
+          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
+        }
+      ],
+      "duration_ms": 124705,
+      "name": "ICONIC PERRA",
+      "url": "https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Cxrtier",
         "url": "https://open.spotify.com/album/18yDCznNglFexmWgTQJAeC"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 244878,
       "name": "Cxrtier",
       "url": "https://open.spotify.com/track/4d1VlTfnv3hn488JmtH3h7"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "ICONIC PERRA",
-        "url": "https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU"
-      },
-      "artists": [
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Viangogh",
-          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
-        }
-      ],
-      "duration_ms": 124705,
-      "name": "ICONIC PERRA",
-      "url": "https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Millo",
-        "url": "https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1"
-      },
-      "artists": [
-        {
-          "name": "Dehry",
-          "url": "https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA"
-        },
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        },
-        {
-          "name": "MC Albertico",
-          "url": "https://open.spotify.com/artist/4NEqPORTyRAaVwrEAATFWO"
-        }
-      ],
-      "duration_ms": 199997,
-      "name": "Millo",
-      "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "No Pidas Tanto",
         "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
       },
@@ -1155,6 +1131,30 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Millo",
+        "url": "https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1"
+      },
+      "artists": [
+        {
+          "name": "Dehry",
+          "url": "https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "MC Albertico",
+          "url": "https://open.spotify.com/artist/4NEqPORTyRAaVwrEAATFWO"
+        }
+      ],
+      "duration_ms": 199997,
+      "name": "Millo",
+      "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "MC Davo En Vivo: Parte 1",
         "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
       },
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
+        "name": "Aire para Vivir",
+        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
       },
       "artists": [
         {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
         }
       ],
-      "duration_ms": 186197,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
+      "duration_ms": 223512,
+      "name": "Aire para Vivir",
+      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1211,18 +1207,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Aire para Vivir",
-        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
       },
       "artists": [
         {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
         }
       ],
-      "duration_ms": 223512,
-      "name": "Aire para Vivir",
-      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
+      "duration_ms": 186197,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Just in Case",
-        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        }
-      ],
-      "duration_ms": 209490,
-      "name": "Just in Case",
-      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Manantial",
         "url": "https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 180000,
       "name": "Mientras Dorm\u00edas",
       "url": "https://open.spotify.com/track/13uMnjrM1uVDuHgAbEkgMc"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Just in Case",
+        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 209490,
+      "name": "Just in Case",
+      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "El Juanito Y El Mu\u00f1equia",
-        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
-      },
-      "artists": [
-        {
-          "name": "Baby Syko",
-          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
-        }
-      ],
-      "duration_ms": 214569,
-      "name": "El Juanito Y El Mu\u00f1equia",
-      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Esc\u00e1ndalo",
         "url": "https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 202803,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "El Juanito Y El Mu\u00f1equia",
+        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
+      },
+      "artists": [
+        {
+          "name": "Baby Syko",
+          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
+        }
+      ],
+      "duration_ms": 214569,
+      "name": "El Juanito Y El Mu\u00f1equia",
+      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1647,6 +1647,46 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Se\u00f1ales de Humo",
+        "url": "https://open.spotify.com/album/1525dAl7d9a6LOmTfsh6BE"
+      },
+      "artists": [
+        {
+          "name": "Canto Quetzal",
+          "url": "https://open.spotify.com/artist/5q2JMx13gkrD62aHfBgoUa"
+        },
+        {
+          "name": "Lengualerta",
+          "url": "https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW"
+        }
+      ],
+      "duration_ms": 247741,
+      "name": "Se\u00f1ales de Humo",
+      "url": "https://open.spotify.com/track/4fKB4aYQsMDfQjZQ2NskwW"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Droga",
+        "url": "https://open.spotify.com/album/6fyTpFJ692gCsBXpngo3a7"
+      },
+      "artists": [
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        },
+        {
+          "name": "Rodesens",
+          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
+        }
+      ],
+      "duration_ms": 147594,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/37QFvs4p1XY1ObRyXZGHqj"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "El Principio",
         "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
       },
@@ -1687,46 +1727,6 @@
       "duration_ms": 219422,
       "name": "Se Juega",
       "url": "https://open.spotify.com/track/79YIeUN59Tzz8qbAixInUs"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Droga",
-        "url": "https://open.spotify.com/album/6fyTpFJ692gCsBXpngo3a7"
-      },
-      "artists": [
-        {
-          "name": "Thomas Parr",
-          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
-        },
-        {
-          "name": "Rodesens",
-          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
-        }
-      ],
-      "duration_ms": 147594,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/37QFvs4p1XY1ObRyXZGHqj"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Se\u00f1ales de Humo",
-        "url": "https://open.spotify.com/album/1525dAl7d9a6LOmTfsh6BE"
-      },
-      "artists": [
-        {
-          "name": "Canto Quetzal",
-          "url": "https://open.spotify.com/artist/5q2JMx13gkrD62aHfBgoUa"
-        },
-        {
-          "name": "Lengualerta",
-          "url": "https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW"
-        }
-      ],
-      "duration_ms": 247741,
-      "name": "Se\u00f1ales de Humo",
-      "url": "https://open.spotify.com/track/4fKB4aYQsMDfQjZQ2NskwW"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "SHININ' (PISPO)",
-        "url": "https://open.spotify.com/album/2qJeWkFjVmcK9X11QgkcS6"
-      },
-      "artists": [
-        {
-          "name": "ha$lopablito",
-          "url": "https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX"
-        },
-        {
-          "name": "Pocket Tincho",
-          "url": "https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "SHININ' (PISPO)",
-      "url": "https://open.spotify.com/track/13GchKfm2oLMK17m0FAkIJ"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "No Lo Sab\u00eda",
         "url": "https://open.spotify.com/album/19m2uImtcXFG4l8C7apxDp"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 181317,
       "name": "No Lo Sab\u00eda",
       "url": "https://open.spotify.com/track/53ElsLZ9pgLzvEv1nkeNii"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "SHININ' (PISPO)",
+        "url": "https://open.spotify.com/album/2qJeWkFjVmcK9X11QgkcS6"
+      },
+      "artists": [
+        {
+          "name": "ha$lopablito",
+          "url": "https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX"
+        },
+        {
+          "name": "Pocket Tincho",
+          "url": "https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "SHININ' (PISPO)",
+      "url": "https://open.spotify.com/track/13GchKfm2oLMK17m0FAkIJ"
     },
     {
       "added_at": "2024-08-02 06:00:00",

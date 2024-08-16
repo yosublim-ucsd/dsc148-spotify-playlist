@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Calema
+> Uma playlist de pura alma pop! Foto: Fernando Daniel, Sara Correia, Bispo
 
-85 songs - 4 hr 37 min
+87 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Eu Prometo \(feat\. Nuno Ribeiro\)](https://open.spotify.com/track/3fM66OkuxlPrrHPp5J5978) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt) | [Eu Prometo \(feat\. Nuno Ribeiro\)](https://open.spotify.com/album/2vXp7NGxTjJaI4VQF5LdTy) | 2:43 | 2024-06-27 |  |
 | [Faz Bem](https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Faz Bem](https://open.spotify.com/album/1TW06h2SedE0SrfFXK7QHo) | 3:03 | 2024-06-27 |  |
 | [Filha de Lisboa](https://open.spotify.com/track/4DUfHfmKcl4YKTlrgFAjLD) | [Catarina Castanhas](https://open.spotify.com/artist/7oMMnf1YRqDS8mJ1GYGwHf) | [Filha de Lisboa](https://open.spotify.com/album/2AvgPZA0PszARWc0zS5Fyf) | 3:04 | 2024-07-18 |  |
+| [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/track/3Q4rvGBoHiTxNDqR13iaKF) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/album/5QpUym9AFfvPiT74s7T3XM) | 3:53 | 2024-08-15 |  |
 | [Foste Embora](https://open.spotify.com/track/6elFmzmHRGXeqyya232ZFu) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Aparentemente \- vol 1](https://open.spotify.com/album/626ozUdqBKuPW0cmLkHEuJ) | 2:39 | 2024-06-27 |  |
 | [Fumaça \(feat\. Veigh\)](https://open.spotify.com/track/1Qi9DwRbJCAyBsLWY8Lope) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Fumaça \(feat\. Veigh\)](https://open.spotify.com/album/0wQJo0SvCjABJJjgINGylA) | 3:22 | 2024-06-27 |  |
 | [G Wagon](https://open.spotify.com/track/726AIEba3u6eETD7A4e5LJ) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [G Wagon](https://open.spotify.com/album/5yOXfIJsr2DBJuFTKRG3Az) | 3:10 | 2024-07-04 | 2024-07-17 |
@@ -70,9 +71,9 @@
 | [Ondas Do Mar](https://open.spotify.com/track/57U5uPOSahT6Cis5IgPw6g) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Ondas Do Mar](https://open.spotify.com/album/22sH7NUz2saNvEwVx1YOgD) | 2:00 | 2024-06-27 | 2024-07-27 |
 | [Outro Planeta](https://open.spotify.com/track/5gowKvKBEEpQhdAL2Qklhe) | [Virgul](https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq) | [Outro Planeta](https://open.spotify.com/album/2QEjRxraeyKj7iYlLLQUCM) | 3:04 | 2024-07-04 |  |
 | [Pelos Cantos do Mundo](https://open.spotify.com/track/1tEbzUsK47jPVTYJNDqAc1) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Pelos Cantos do Mundo](https://open.spotify.com/album/1LIT5KUsrJIMfio5tuRJoa) | 3:30 | 2024-06-27 |  |
-| [Perfume](https://open.spotify.com/track/2o7yOQTog50uh8TI0b34fz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Perfume](https://open.spotify.com/album/5zJ1AeTR9z6a7XuEaHxuRF) | 3:40 | 2024-06-27 |  |
+| [Perfume](https://open.spotify.com/track/2o7yOQTog50uh8TI0b34fz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Perfume](https://open.spotify.com/album/5zJ1AeTR9z6a7XuEaHxuRF) | 3:40 | 2024-06-27 | 2024-08-16 |
 | [POP TOMA](https://open.spotify.com/track/3QOvVqKEPJpQVCqckmSUO5) | [Lena d’Água](https://open.spotify.com/artist/6236JGmsEzqSEobDtH75lS) | [POP TOMA](https://open.spotify.com/album/3vNo4rcNjJTI6oPYLfasOF) | 2:57 | 2024-06-28 | 2024-07-12 |
-| [portas do sol](https://open.spotify.com/track/1iL2qN1fpyE9MxUhUUu0O4) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [portas do sol](https://open.spotify.com/album/0Ik78gbm575dclbfvP4y9T) | 3:48 | 2024-06-27 |  |
+| [portas do sol](https://open.spotify.com/track/1iL2qN1fpyE9MxUhUUu0O4) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [portas do sol](https://open.spotify.com/album/0Ik78gbm575dclbfvP4y9T) | 3:48 | 2024-06-27 | 2024-08-16 |
 | [Povo](https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Povo](https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D) | 3:30 | 2024-06-27 |  |
 | [Promessas](https://open.spotify.com/track/5nQoajzUX1uJ70yLCPU3kI) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Margarida Rotilo](https://open.spotify.com/artist/6AiYa8nZTEc2u3HOFu3I7Y) | [Promessas](https://open.spotify.com/album/2DXHdgkLVueeCGmljBfZQs) | 2:34 | 2024-07-25 |  |
 | [Quero\-te Tanto](https://open.spotify.com/track/5KXvtkQlN2oyT0ZohwFw7Q) | [Anjos](https://open.spotify.com/artist/55emZB6OJOvHmTpuqa6HZz) | [Quero\-te Tanto](https://open.spotify.com/album/4YlvibOyd9OdHdfUZ36N08) | 2:46 | 2024-06-27 |  |
@@ -92,6 +93,7 @@
 | [Sozinho](https://open.spotify.com/track/6FRjQPBZ4pEdKWGSCSgeh8) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Sozinho](https://open.spotify.com/album/3RYhMw7mbqMFHEGyo3nkOf) | 2:28 | 2024-06-27 | 2024-07-05 |
 | [Talvez...](https://open.spotify.com/track/65BXCyoVQ1sSGj0z6UxRcL) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Talvez...](https://open.spotify.com/album/0o8AGwMQunsC0QMOk4hZt3) | 3:04 | 2024-06-27 |  |
 | [Tu Amor](https://open.spotify.com/track/3pXyAh3uYKEehDa6EcHRI8) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Tu Amor](https://open.spotify.com/album/2IqpqWDTt6n9oLHboUZkaB) | 3:53 | 2024-06-27 | 2024-07-19 |
+| [Tu És Capaz](https://open.spotify.com/track/7FWthtHNaVxbg5C1aQ68Fl) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Tu És Capaz](https://open.spotify.com/album/0ZDVybzvo8hbZ2IUWxK4Vz) | 2:53 | 2024-08-15 |  |
 | [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 | 2024-07-18 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

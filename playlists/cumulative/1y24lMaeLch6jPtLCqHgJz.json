@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "5 Notes From Paradise",
+        "url": "https://open.spotify.com/album/2XBLkyTxtVoGBHz12ZNUmn"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212109,
+      "name": "5 Notes From Paradise",
+      "url": "https://open.spotify.com/track/3NSiLcsfh1oqbLXYRZqp1x"
+    },
+    {
+      "album": {
         "name": "90s Bitch",
         "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
@@ -4441,6 +4459,28 @@
     },
     {
       "album": {
+        "name": "Mount It",
+        "url": "https://open.spotify.com/album/1EX1RWvSHy75dKe9R5D3PO"
+      },
+      "artists": [
+        {
+          "name": "Steven Vegas",
+          "url": "https://open.spotify.com/artist/5QCtrEvIJdRTN1XCZVKeOQ"
+        },
+        {
+          "name": "JITRA",
+          "url": "https://open.spotify.com/artist/0TlzdOK3rEw8B06WGwXaTZ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131204,
+      "name": "Mount It",
+      "url": "https://open.spotify.com/track/6gxdGjHvDqYMGNq2MIog9m"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
       },
@@ -7414,6 +7454,24 @@
       "duration_ms": 142500,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/0ejDlgGyrvUNEyYUfNdcjf"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Weekend",
+        "url": "https://open.spotify.com/album/1ySr3refuNS1FVvYTxwIO9"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "Welcome To The Weekend",
+      "url": "https://open.spotify.com/track/16TlP5h8EAcM3umJfAV5jT"
     },
     {
       "album": {

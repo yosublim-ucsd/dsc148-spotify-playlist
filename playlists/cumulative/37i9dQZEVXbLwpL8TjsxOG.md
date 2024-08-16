@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-952 songs - 2 day 7 hr 54 min
+953 songs - 2 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-05-14 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-23 | 2023-08-26 |
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-11-28 | 2024-01-02 |
-| [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-08-03 |  |
+| [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-08-03 | 2024-08-16 |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:47 | 2021-06-13 | 2021-07-07 |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6fRxMU4LWwyaSSowV441IU) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4jGaPN2gEpKciN02ZKRShT) | 3:47 | 2021-03-27\* | 2021-06-13 |
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2024-05-13 |
@@ -638,7 +638,7 @@
 | [一表人才](https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [一表人才](https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs) | 4:19 | 2021-11-20 | 2023-01-12 |
 | [一路向北](https://open.spotify.com/track/31RIphTQ9y4zStkH5xRWgW) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/6rRydp9XlVoLfTtA3qpWcn) | 4:54 | 2023-05-15 | 2023-05-17 |
 | [七里香](https://open.spotify.com/track/3kwqNLXvsjSrIXbVsRBj8q) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 4:55 | 2023-05-08 | 2023-05-19 |
-| [七點半鐘的陽光](https://open.spotify.com/track/7Hgtq72EtYE65iuAyIb5tY) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 4:11 | 2024-03-13 | 2024-08-15 |
+| [七點半鐘的陽光](https://open.spotify.com/track/7Hgtq72EtYE65iuAyIb5tY) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 4:11 | 2024-03-13 |  |
 | [三個字](https://open.spotify.com/track/524AUGUhR1F8SRiumM4T5e) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D) | [三個字](https://open.spotify.com/album/4caS8RrS6eIRCPi5JTsFQG) | 3:46 | 2021-11-10 | 2022-02-16 |
 | [三生有幸](https://open.spotify.com/track/7sKrSZ1EDBtSkCIHs6MGKh) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [TO WHOM IT MAY CONCERN](https://open.spotify.com/album/3eTjNOLjVqpNBzxVTlrIkF) | 3:37 | 2024-07-07 |  |
 | [三生有幸](https://open.spotify.com/track/5GnB3Nz0WfhOZK50PtAcma) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [三生有幸](https://open.spotify.com/album/0GNN3DUnDHMoKiPEwykUfc) | 3:37 | 2024-02-24 | 2024-07-08 |
@@ -829,10 +829,11 @@
 | [油麻地莎士比亞](https://open.spotify.com/track/5EWNjlmkXpFRfEApInFALy) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [油麻地莎士比亞](https://open.spotify.com/album/0EfztYThUhyMDApNuvDJto) | 4:32 | 2024-04-03 | 2024-04-28 |
 | [洗面](https://open.spotify.com/track/3a9EtOIDDtBel1IEXf6fYl) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Cleanse](https://open.spotify.com/album/34T3MdB25TSeAooi2QxCRz) | 3:51 | 2023-06-03 | 2023-06-27 |
 | [流離者的海](https://open.spotify.com/track/4ZyOwXlKGOU1hhRaP2wlqu) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [流離者的海](https://open.spotify.com/album/2mCCfFrHnm4YWsS8z5Nh6A) | 3:02 | 2023-09-16 | 2023-09-30 |
-| [浪漫殺死巨蟹座](https://open.spotify.com/track/2fOpn6RdCJzcYl32PZCMM3) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [浪漫殺死巨蟹座](https://open.spotify.com/album/7yMSjlEGWD3lU3ayZbZbVw) | 4:04 | 2023-07-22 |  |
+| [浪漫殺死巨蟹座](https://open.spotify.com/track/2fOpn6RdCJzcYl32PZCMM3) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [浪漫殺死巨蟹座](https://open.spotify.com/album/7yMSjlEGWD3lU3ayZbZbVw) | 4:04 | 2023-07-22 | 2024-08-16 |
 | [浮床](https://open.spotify.com/track/3gOTUuIDMbBYECtnPadsxY) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [浮床](https://open.spotify.com/album/0HjgPj2BylDhJNRGN6OqUq) | 3:33 | 2023-09-15 | 2023-12-02 |
 | [深閨](https://open.spotify.com/track/6apc6NX2mDQ59mortxddQQ) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [深閨](https://open.spotify.com/album/2KCTK4HgfH3dOaWiA7tTB9) | 4:22 | 2024-04-18 |  |
 | [深閨 feat\. Kelly Chen 陳慧琳](https://open.spotify.com/track/10YtrR4JpndrvuI2vohpUM) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [深閨 feat\. Kelly Chen 陳慧琳](https://open.spotify.com/album/3OSRx8acDQauCZ3ef1SbBo) | 4:22 | 2024-06-13 |  |
+| [漸漸我們](https://open.spotify.com/track/4CMTigUypmopzPdO3a8h0D) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo), [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [漸漸我們](https://open.spotify.com/album/1urrWCvkMQkFgKCrUFRUx9) | 4:21 | 2024-08-15 |  |
 | [濤](https://open.spotify.com/track/1xRMtDxiU8xxAlaDscHIoT) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [濤](https://open.spotify.com/album/2fwUdeULjPXQyCvKdUbIoI) | 3:52 | 2023-08-02 |  |
 | [為何嚴重到這樣](https://open.spotify.com/track/2nNl8uFxj9tu9jqYwSzkMm) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [為何嚴重到這樣](https://open.spotify.com/album/6DDFMr8Io5YbT7WW1DNdfP) | 4:38 | 2023-11-29 | 2023-12-21 |
 | [烏梅子醬](https://open.spotify.com/track/4p9jbhD6N7HpuECGusu6iT) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 4:17 | 2023-03-07 | 2023-04-20 |

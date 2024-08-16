@@ -4,7 +4,7 @@
 
 > It’s pop punk, it’s the best\. Celebrating 30 years of Hopeless Records.
 
-257 songs - 14 hr 3 min
+260 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Be Ok \- RMX](https://open.spotify.com/track/2a8qG0E7Ix3YgMvy64QdFf) | [Petti Hendrix](https://open.spotify.com/artist/5UH0futyctGehzyRRBWukQ), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Be Ok \(RMX\)](https://open.spotify.com/album/3iHvJy9uyIj79BLz6g9efV) | 3:32 | 2024-05-07 | 2024-06-29 |
 | [BLOOD AND SUGAR](https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [BLOOD AND SUGAR](https://open.spotify.com/album/030TjWifiM82d85tllj2QY) | 3:06 | 2023-05-19 | 2023-12-02 |
 | [Blue Eyed Boy](https://open.spotify.com/track/3SRcU6n6IQCwvl1mKOvaaR) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Suicide and Sunshine](https://open.spotify.com/album/2UI2oA0YxNgDB2Zbm7HCaH) | 2:57 | 2023-06-30 |  |
+| [Blurry](https://open.spotify.com/track/4LCUSqUApVvY2my2UmnfLS) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Blurry](https://open.spotify.com/album/5WOGUqHDzVSJSghJRAVKl0) | 2:52 | 2024-08-15 |  |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 | 2023-10-19 | 2023-12-02 |
 | [Boxing Day](https://open.spotify.com/track/6uDMP9Hlgy2FemC6sp9ZRt) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:59 | 2023-12-01 | 2024-01-10 |
 | [Brave as a Noun](https://open.spotify.com/track/6bfPo8Ge3VoD4dEGSDs0R9) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People Are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 1:14 | 2023-10-17 | 2023-12-02 |
@@ -121,6 +122,8 @@
 | [Hours Outside in the Snow](https://open.spotify.com/track/01xK7M26pBF7pGrdnkXSPh) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Sports](https://open.spotify.com/album/1xmzPFLf2gjDF0D8OQJyAo) | 3:30 | 2023-12-01 | 2024-01-10 |
 | [How To Live With Yourself](https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU) | 2:45 | 2024-03-08 |  |
 | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv) | 3:20 | 2024-01-09 |  |
+| [I Hate Myself](https://open.spotify.com/track/2o3Oszqet28ISSpzWPbTPF) | [88 Fingers Louie](https://open.spotify.com/artist/1ROFZ7U6Yvj0lHzydH8x6J) | [Behind Bars \(Remixed and Remastered\)](https://open.spotify.com/album/7ukWpKTCe1kEPD8qPn4Uy4) | 2:08 | 2024-08-15 |  |
+| [I Hate Myself](https://open.spotify.com/track/5mBMihCbadPG6ff57Op4WR) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [I Hate Myself](https://open.spotify.com/album/5m0n6HekuvU8BCquIEla3m) | 2:19 | 2024-08-15 |  |
 | [I Hope You’re Happy](https://open.spotify.com/track/1sBvGY100lfD3w6tR22M1D) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 2:59 | 2023-10-19 | 2023-12-02 |
 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/1bOGXE0pJ19nDabUM9wlR6) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/album/5oHRBkovo2MwTnjorK3d16) | 2:05 | 2024-06-28 |  |
 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:13 | 2024-06-28 |  |

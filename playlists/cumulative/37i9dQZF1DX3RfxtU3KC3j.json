@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. Kapak: Zaaf\n",
+  "description": "Gitar ve davulu konu\u015fturanlar. Kapak: Paptircem\n",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 176564,
       "name": "\u0130leri",
       "url": "https://open.spotify.com/track/1dsVlDr3aHdYYsH3XWBOIp"
@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Kara Delik",
+        "url": "https://open.spotify.com/album/5pRs1cWtW1IjNwtOZ5IfxO"
+      },
+      "artists": [
+        {
+          "name": "Ufuk Beydemir",
+          "url": "https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "Kara Delik",
+      "url": "https://open.spotify.com/track/5iz5KvWyYzAJEgHivkQJrK"
+    },
+    {
+      "album": {
         "name": "Kibir",
         "url": "https://open.spotify.com/album/3HGINmAbIlGynA3E4sa4BC"
       },
@@ -802,7 +820,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 200000,
       "name": "Koca Bir Hatayd\u0131 (Seni Tan\u0131mak)",
       "url": "https://open.spotify.com/track/69yMM2HDz1NfT2VXJ2HSGY"
@@ -910,7 +928,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 152666,
       "name": "K\u00fcst\u00fcm Bu \u015eehre",
       "url": "https://open.spotify.com/track/7zhNK5ceWIIbeJWUBuVy5b"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 237818,
       "name": "Raz\u0131ysan Gel",
       "url": "https://open.spotify.com/track/0YWl5fQhbMl0UZPuew9XdB"
@@ -1268,6 +1286,42 @@
       "duration_ms": 203128,
       "name": "Son Arzum",
       "url": "https://open.spotify.com/track/625VGPqFsGw96PM609TOrs"
+    },
+    {
+      "album": {
+        "name": "S\u00f6yle Sevgilim",
+        "url": "https://open.spotify.com/album/0IRFNnCSPTGl1IwAjmm7E2"
+      },
+      "artists": [
+        {
+          "name": "Kirli",
+          "url": "https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203999,
+      "name": "S\u00f6yle Sevgilim",
+      "url": "https://open.spotify.com/track/0f590ou0JkmPoMR5cdVu6C"
+    },
+    {
+      "album": {
+        "name": "TELA\u015eK",
+        "url": "https://open.spotify.com/album/4EE6Qv3NZpEU3j4beiGyrw"
+      },
+      "artists": [
+        {
+          "name": "Rafat Hasanl\u0131",
+          "url": "https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202946,
+      "name": "TELA\u015eK",
+      "url": "https://open.spotify.com/track/6BJOpJ3yLeUY5rDCKPCIxg"
     },
     {
       "album": {
@@ -1590,6 +1644,24 @@
       "duration_ms": 195000,
       "name": "\u00d6d\u00fcn Verdim",
       "url": "https://open.spotify.com/track/4U0n8zk7ec1WVseHvF4P28"
+    },
+    {
+      "album": {
+        "name": "\u00d6l \u0130\u00e7imde (Rock Version)",
+        "url": "https://open.spotify.com/album/0O73jnNQtUF0qqxP7I7ywd"
+      },
+      "artists": [
+        {
+          "name": "Paptircem",
+          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197922,
+      "name": "\u00d6l \u0130\u00e7imde - Rock Version",
+      "url": "https://open.spotify.com/track/2fjm3nI93CHchxnUBEecB5"
     },
     {
       "album": {

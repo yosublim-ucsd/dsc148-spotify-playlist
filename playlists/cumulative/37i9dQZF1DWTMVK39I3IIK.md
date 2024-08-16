@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste nye knive i dansk musik🔪 Dos Santos på coveret
+> de skarpeste nye knive i dansk musik🔪 LILLI på coveret 🦋
 
-76 songs - 4 hr 9 min
+78 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL) | 2:52 | 2024-06-27 |  |
 | [Brev Fra En Forræder](https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 4:03 | 2024-06-27 |  |
 | [Brænder Stadig](https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Dem, Vi Plejede At Være](https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm) | 3:08 | 2024-06-27 |  |
+| [Butterfly Street](https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Butterfly Street](https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0) | 2:46 | 2024-08-15 |  |
 | [Bænkevarmer](https://open.spotify.com/track/5rfWrweJSSVvC4Mg7opz8I) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:25 | 2024-06-27 |  |
 | [dagdrømmer](https://open.spotify.com/track/5esSVR7UK3Nc7ymSOWJIc5) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer](https://open.spotify.com/album/5LmtvUZQ9bkItt9x1E2tA6) | 2:50 | 2024-06-27 |  |
 | [Dans I Morgen \(feat\. Wads.png\)](https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Wads.png](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Dans I Morgen](https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7) | 3:12 | 2024-06-27 |  |
@@ -39,7 +40,8 @@
 | [Fra Wien Til Rom](https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Legebørn](https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD) | 4:08 | 2024-06-27 |  |
 | [Gennem Dit Hjerte \(feat\. Hans Philip\)](https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Når Man Taler Om Solen](https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx) | 2:52 | 2024-06-27 |  |
 | [Gennemsku Mig Nu](https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [grib mig hvis jeg falder](https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj) | 3:13 | 2024-06-27 |  |
-| [Genstart](https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [GENSTART](https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11) | 4:40 | 2024-06-27 |  |
+| [Genstart](https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [GENSTART](https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11) | 4:40 | 2024-06-27 | 2024-08-16 |
+| [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Loving you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 | 2024-08-15 |  |
 | [Gi' Mig Lige](https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Gi' Mig Lige](https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA) | 2:41 | 2024-07-11 |  |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-27 |  |
 | [Halskæde](https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Halskæde](https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq) | 2:37 | 2024-06-27 |  |
@@ -51,7 +53,7 @@
 | [Jaloux](https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Jaloux](https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW) | 2:37 | 2024-06-27 |  |
 | [JEG TOG FEJL](https://open.spotify.com/track/16HT5c4HSKErYQYPClyAUb) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [JEG TOG FEJL](https://open.spotify.com/album/2itUyX1wmrsc42VapC3MIo) | 2:57 | 2024-06-27 | 2024-07-15 |
 | [Jeg ved det godt](https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [En sød lille én](https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A) | 2:51 | 2024-06-27 |  |
-| [Kemisk](https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [Piratradio](https://open.spotify.com/album/355gSMNGokAKgdynsIfQ43) | 2:48 | 2024-07-11 |  |
+| [Kemisk](https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [Piratradio](https://open.spotify.com/album/355gSMNGokAKgdynsIfQ43) | 2:48 | 2024-07-11 | 2024-08-16 |
 | [Kender Du Følelsen](https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Trampoliner](https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4) | 2:31 | 2024-06-27 |  |
 | [Klubben \(i Klubben\) \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Klubben \(i Klubben\)](https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j) | 2:51 | 2024-06-27 | 2024-08-05 |
 | [Kærligheden Vinder](https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Kærligheden Vinder](https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt) | 3:32 | 2024-06-27 |  |

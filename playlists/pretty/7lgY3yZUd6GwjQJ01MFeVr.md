@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain](/playlists/plain/7lgY3yZUd6GwjQJ01MFeVr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7lgY3yZUd6GwjQJ01MFeVr)
 
-### [Top Country Hits \- Summer 2024 ](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
+### [Top Country Hits \- Festival Season 2024](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
 
 > Today's top country music! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, Bailey Zimmerman, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,877 likes - 92 songs - 5 hr 1 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,875 likes - 92 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 91 | [lose you again \(feat\. parmalee\)](https://open.spotify.com/track/7ASsus03w3IMiFqldg9pAG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:43 |
 | 92 | [Run Your Mouth](https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 2:40 |
 
-Snapshot ID: `AAAaN18xhi9Kn/w8Ar1rILrOilcB7u2u`
+Snapshot ID: `AAAaONo091SxIKK1Q8vKadyd2LvxtFia`

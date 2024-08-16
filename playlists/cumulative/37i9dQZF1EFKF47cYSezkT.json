@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "KARD 7th Mini Album 'Where To Now? (Part.1 : Yellow Light)'",
+        "url": "https://open.spotify.com/album/0eXeBtUotmPrJtREbEa3nE"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Tell My Momma",
+      "url": "https://open.spotify.com/track/4PAMDOg5KBjnzocJ60eMpl"
+    },
+    {
+      "album": {
         "name": "I'd Step On Lego For You.",
         "url": "https://open.spotify.com/album/2AdpJvtbF0pGyrincYRjWG"
       },

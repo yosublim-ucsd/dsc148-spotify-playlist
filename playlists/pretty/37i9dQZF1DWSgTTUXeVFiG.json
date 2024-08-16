@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 10744,
+  "num_followers": 10801,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,18 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "40 Anniversary (Live Hits)",
-        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
+        "name": "Eddie Santiago (En Vivo)",
+        "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Hector Tricoche",
-          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 286573,
-      "name": "Lobo Domesticado \"En Vivo\"",
-      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
+      "duration_ms": 373400,
+      "name": "Lluvia - En Vivo",
+      "url": "https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -763,18 +759,22 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Eddie Santiago (En Vivo)",
-        "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
+        "name": "40 Anniversary (Live Hits)",
+        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Hector Tricoche",
+          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
         }
       ],
-      "duration_ms": 373400,
-      "name": "Lluvia - En Vivo",
-      "url": "https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M"
+      "duration_ms": 286573,
+      "name": "Lobo Domesticado \"En Vivo\"",
+      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
     },
     {
       "added_at": "2024-03-19 14:30:29",

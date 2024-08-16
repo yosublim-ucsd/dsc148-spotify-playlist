@@ -336,7 +336,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 148657,
       "name": "Coco",
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 129153,
       "name": "CRF - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 180000,
       "name": "L7ara",
       "url": "https://open.spotify.com/track/18svODSSAYC1DeOpn20xYT"
@@ -948,6 +948,24 @@
       "duration_ms": 176973,
       "name": "La nuit",
       "url": "https://open.spotify.com/track/0EqzmPWtJPcFvJfsa9rga7"
+    },
+    {
+      "album": {
+        "name": "LA V\u00c9RIT\u00c9",
+        "url": "https://open.spotify.com/album/5FUZ5W7cH3nbNk9qhkBVBt"
+      },
+      "artists": [
+        {
+          "name": "SCOOL BOY",
+          "url": "https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "LA V\u00c9RIT\u00c9",
+      "url": "https://open.spotify.com/track/6I62xlNh5YncMsdiatltxw"
     },
     {
       "album": {
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 173453,
       "name": "Love (French Remix)",
       "url": "https://open.spotify.com/track/7jOKVEH8BKVJekdWY9yOeH"
@@ -1574,6 +1592,24 @@
       "duration_ms": 182000,
       "name": "Parle Pas",
       "url": "https://open.spotify.com/track/2yNX0x2kAXhfjWvaTYCYN5"
+    },
+    {
+      "album": {
+        "name": "Depuis le temps",
+        "url": "https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Parler tout bas",
+      "url": "https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx"
     },
     {
       "album": {

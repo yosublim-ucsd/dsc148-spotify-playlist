@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: 鄧小巧
+> 感受超級女聲力量。Cover: moon tang
 
-352 songs - 21 hr 13 min
+355 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [全死角美少女戰士](https://open.spotify.com/track/2uXTxj4B5vtsT8ieJA8U8f) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [全死角美少女戰士](https://open.spotify.com/album/4GCGAl1CFMKWvjZ2vRL256) | 3:43 | 2024-06-27 |  |
 | [兩個月亮 hirsk Remix](https://open.spotify.com/track/39DVBbBivh9J0uJxxg5AVb) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [兩個月亮 hirsk Remix](https://open.spotify.com/album/0e31QRXXBiJltLdFL2xZum) | 3:13 | 2024-06-27 |  |
 | [公主抱](https://open.spotify.com/track/1x2wm1D5mqJ50xjCwnJTeU) | [Beanies](https://open.spotify.com/artist/7qSIVdLkdZZd7U3FHueB0r) | [公主抱](https://open.spotify.com/album/0txui9bU12kPbv0q43EKxO) | 3:10 | 2024-06-27 |  |
+| [公審法院](https://open.spotify.com/track/6ckM8jlHCubm0ad3DOz8hS) | [趙展彤 VAL](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG), [Chloe Wong 黃筠兒](https://open.spotify.com/artist/2JLMtU26DC66HgEAq6TQY8), [Kilby Chan 超酸](https://open.spotify.com/artist/7MqXSsZ53ZvfcplaVcP43C) | [公審法院](https://open.spotify.com/album/66j7GnlvlEecqqpAKFHmny) | 3:38 | 2024-08-15 |  |
 | [六度相隔理論](https://open.spotify.com/track/5xPanuB9wjmTaZslFji92G) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [六度相隔理論](https://open.spotify.com/album/3wxU6Q9INasmx6GYVpZ8Lv) | 3:55 | 2024-06-27 |  |
 | [再見有時](https://open.spotify.com/track/4u5nTCAJFJQMfLRpvHOObF) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [再見有時](https://open.spotify.com/album/7kp4JhNciF6fVBUXF3Wh3b) | 3:56 | 2024-06-27 |  |
 | [分手100天](https://open.spotify.com/track/1Gff3RIM10I4eVgKQ8tfGa) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [分手100天](https://open.spotify.com/album/65lSGYexBOmExNTUaPwEBX) | 4:02 | 2024-06-27 |  |
@@ -190,6 +191,7 @@
 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 | 2024-06-27 |  |
 | [垃圾女星](https://open.spotify.com/track/2tAHyOEk02Ao7hGMazvaFg) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [垃圾女星](https://open.spotify.com/album/7hIgg1r3CdA8OgHHbFCDtN) | 3:31 | 2024-06-27 |  |
 | [報復式浪漫](https://open.spotify.com/track/6HITvIt0YrLqYbDzyl1pbI) | [Elly艾妮](https://open.spotify.com/artist/1Qr8KvDLnY4wY8ndgYOu9S) | [TOKYO BLOOM](https://open.spotify.com/album/5bwMm6xNRjR4s55ADigscJ) | 4:09 | 2024-06-27 |  |
+| [外星人接我回去](https://open.spotify.com/track/6GeBNMn9w7i6O6fJnrUt1d) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [外星人接我回去](https://open.spotify.com/album/7m6KVg6aPZIU7Bs0xOtUcN) | 3:50 | 2024-08-15 |  |
 | [外星少女失語症](https://open.spotify.com/track/1b3RrSZo4YlfMld5CwwFez) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [外星少女失語症](https://open.spotify.com/album/2pBDOiVOij3gFzBGsE1IkS) | 3:03 | 2024-08-01 |  |
 | [夜風中 \- 電視劇《繁花》歌曲](https://open.spotify.com/track/0lvs3h7idaLPhnG1eslC75) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [夜風中 \(電視劇《繁花》歌曲\)](https://open.spotify.com/album/0VuHTFO8gQFu81ggO0yuVP) | 3:40 | 2024-06-27 |  |
 | [夢想與夢](https://open.spotify.com/track/2aVETk75kz1k0xh7zxi83q) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX), [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [WE ARE TWINS](https://open.spotify.com/album/3SKJDhMkmIFrE4RQRtiMDS) | 3:11 | 2024-06-27 |  |
@@ -349,6 +351,7 @@
 | [開燈 \. 熄燈 \- 熄燈版](https://open.spotify.com/track/0ESNH8JaBCbLb2PH5rZpL1) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret](https://open.spotify.com/album/5CsoFDurYbSRb02fd5AqRQ) | 4:15 | 2024-06-27 |  |
 | [間歇性休眠](https://open.spotify.com/track/6NTpMNt4qi3icnZq9Wh5WE) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [間歇性休眠](https://open.spotify.com/album/2N8gg8nxAPMrAJOJkCnM0H) | 4:41 | 2024-06-27 |  |
 | [關我蛋治](https://open.spotify.com/track/6DRatWcrhtv1ba4xeV01Bi) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [關我蛋治](https://open.spotify.com/album/6o5YClIb0rr2h6a189V9iK) | 3:16 | 2024-06-27 |  |
+| [阿姐今年已經30歲](https://open.spotify.com/track/6zqysqnKJv93lCU4LgPil3) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [阿姐今年已經30歲](https://open.spotify.com/album/2OFMhoYXMpQZlZTEJeJcZX) | 3:40 | 2024-08-15 |  |
 | [隔離 \- Studio Live Duet](https://open.spotify.com/track/7Fr7Ag2bQyJl86BtsFmdOW) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Processing](https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh) | 4:10 | 2024-06-27 |  |
 | [雙喜樓](https://open.spotify.com/track/3Tt6UGlrrAWy3WqnVLmHNB) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX) | [雙喜樓](https://open.spotify.com/album/0rfxdOX5Bo3UhbPDgXIqPm) | 2:51 | 2024-06-27 |  |
 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 | 2024-06-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,295 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,334 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 32 | [Gaslighter's Ball](https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Gaslighter's Ball](https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo) | 3:10 |
 | 33 | [Overall Junction](https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 8:20 |
 | 34 | [Lookin' Good](https://open.spotify.com/track/1Lw0Oi8JapLOIU8bfZV7PW) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Earnest Johnson](https://open.spotify.com/artist/1zkJyhY4Yx9tiouTnGrs2I), [Odie Payne, Jr.](https://open.spotify.com/artist/1A9aTffrO3x44CEX13JGIc) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 3:17 |
-| 35 | [Extra Jimmies](https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [What's The Word?](https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD) | 2:38 |
-| 36 | [Roller Coaster](https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:53 |
+| 35 | [Roller Coaster](https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:53 |
+| 36 | [Extra Jimmies](https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [What's The Word?](https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD) | 2:38 |
 | 37 | [Cha Cha The Blues](https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Stand Back!](https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe) | 3:12 |
 | 38 | [Chitlin Con Carne](https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:14 |
 | 39 | [The Sulfur Blues](https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf) | [Andrea Chiarini](https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3) | [The Sulfur Blues](https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF) | 3:26 |
 | 40 | [Runner](https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End ll](https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz) | 3:37 |
 | 41 | [Boedo's Blues](https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Boedo's Blues](https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf) | 2:13 |
-| 42 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
-| 43 | [Alone With Yourself](https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Alone With Yourself](https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH) | 3:53 |
-| 44 | [End Of The Blues](https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 4:27 |
+| 42 | [Alone With Yourself](https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Alone With Yourself](https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH) | 3:53 |
+| 43 | [End Of The Blues](https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 4:27 |
+| 44 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
 | 45 | [Screamin'](https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:36 |
 | 46 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 |
 | 47 | [Frankie And Johnny Boogie](https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN) | [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ) | [All Kinds Of Blues](https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW) | 4:06 |

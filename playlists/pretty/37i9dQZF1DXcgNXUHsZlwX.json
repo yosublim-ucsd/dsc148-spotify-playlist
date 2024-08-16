@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 131371,
+  "num_followers": 131389,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Goodnight Summerland",
-        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 256199,
-      "name": "Saying Something",
-      "url": "https://open.spotify.com/track/2lnDQ3UhWyiW74IW8IPB4Q"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "(les) m\u00e9andres de la soif",
         "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 153789,
       "name": "4900$",
       "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 256199,
+      "name": "Saying Something",
+      "url": "https://open.spotify.com/track/2lnDQ3UhWyiW74IW8IPB4Q"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 257838,
       "name": "Pleure pas pour moi",
       "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Strange Medicine",
-        "url": "https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D"
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
       "artists": [
         {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
         }
       ],
-      "duration_ms": 219910,
-      "name": "Maker Taker",
-      "url": "https://open.spotify.com/track/4Eg7gCb7YW3ASrcjNMrHTw"
+      "duration_ms": 223733,
+      "name": "Post Mortem",
+      "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1311,6 +1315,22 @@
       "duration_ms": 222586,
       "name": "Du temps",
       "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Strange Medicine",
+        "url": "https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 219910,
+      "name": "Maker Taker",
+      "url": "https://open.spotify.com/track/4Eg7gCb7YW3ASrcjNMrHTw"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1347,6 +1367,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Jason Bajada",
+          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Grande ivresse",
+      "url": "https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "nina",
         "url": "https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq"
       },
@@ -1359,26 +1399,6 @@
       "duration_ms": 194253,
       "name": "nina",
       "url": "https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Post Mortem",
-      "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1467,26 +1487,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Jason Bajada",
-          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Grande ivresse",
-      "url": "https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Printemps",
         "url": "https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Dans la for\u00eat num\u00e9rique",
-        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me Mini\u00e8re",
-          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Nos corps",
-      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Le jardin se meurt",
         "url": "https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 347533,
       "name": "Le jardin se meurt",
       "url": "https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Dans la for\u00eat num\u00e9rique",
+        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Nos corps",
+      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Espoir",
-        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
-      },
-      "artists": [
-        {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
-        }
-      ],
-      "duration_ms": 210177,
-      "name": "Espoir",
-      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Trait d'union",
         "url": "https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 245250,
       "name": "Trait d'union",
       "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Espoir",
+        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "duration_ms": 210177,
+      "name": "Espoir",
+      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
     },
     {
       "added_at": "2024-08-02 04:00:00",

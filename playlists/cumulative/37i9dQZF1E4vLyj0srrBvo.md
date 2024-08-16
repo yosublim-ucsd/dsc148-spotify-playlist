@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4vLyj0srrBvo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Radio Grimes](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With FKA twigs, Crystal Castles, Purity Ring and more
+> Avec FKA twigs, Crystal Castles, Purity Ring et bien d'autres artistes
 
 1,774 songs - 4 day 13 hr 5 min
 
@@ -898,7 +898,7 @@
 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 | 2020-11-27 | 2024-03-17 |
 | [Lemon Glow](https://open.spotify.com/track/7pD6katrwWH7H3Xt8cIZS9) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 4:04 | 2020-10-22 | 2020-10-27 |
 | [LENG](https://open.spotify.com/track/4wpWZDW50CVGxQUgMmwmGZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:20 | 2022-06-22 | 2022-06-23 |
-| [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2023-06-04 |  |
+| [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2023-06-04 | 2024-08-16 |
 | [Letting Go](https://open.spotify.com/track/6hOGq1cnFnjGvef7YhjxcT) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Deep In the Iris](https://open.spotify.com/album/6iQmNq4zWPre5e2JJ24EPV) | 4:21 | 2022-04-18 | 2022-06-24 |
 | [Let’s Do It Baby](https://open.spotify.com/track/1w1Iq5xAIFDLcxN0yhwC0H) | [Cowboy](https://open.spotify.com/artist/3uLNUc7gXsoJEHcV8tt9Va) | [Let’s Do It Baby](https://open.spotify.com/album/4iq2W5tuE3fpL5eDroa7aB) | 2:53 | 2022-04-23 | 2022-05-08 |
 | [Levitation](https://open.spotify.com/track/1oCUj7YvKxxSKRDAU3pePN) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt) | 5:54 | 2020-10-18 | 2020-10-23 |
@@ -1177,7 +1177,7 @@
 | [Paper Love](https://open.spotify.com/track/2QffgsYVZkvMQsZmQdgf2L) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/3JL1FetkKuCnHzDLkVPcCg) | 3:17 | 2020-10-16\* | 2022-03-05 |
 | [Paper or Plastic](https://open.spotify.com/track/1GZpq8sfBMomGyHoXtuHnN) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Paper or Plastic](https://open.spotify.com/album/70ZDIcjus3w1qWhjhuuf28) | 2:55 | 2022-03-10 | 2022-10-14 |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2023-12-21 | 2024-03-20 |
-| [Paper Planes](https://open.spotify.com/track/3wnwq6OjbXRkmPaXy5blR6) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/5vbIuP9CUNilukfPqfKuCH) | 3:25 | 2024-04-23 | 2024-08-06 |
+| [Paper Planes](https://open.spotify.com/track/3wnwq6OjbXRkmPaXy5blR6) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/5vbIuP9CUNilukfPqfKuCH) | 3:25 | 2024-04-23 |  |
 | [Paradisin'](https://open.spotify.com/track/0e1yfIkdDkvhSo2dFYCZIL) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:06 | 2020-10-18 | 2021-01-13 |
 | [Paralysed](https://open.spotify.com/track/09GkI9oN1KSKig4wzERDPd) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO), [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Paralysed](https://open.spotify.com/album/3SfsT5wHEE7tF7Zhw5OuBB) | 2:51 | 2021-04-18 | 2021-04-19 |
 | [Paranoiac Intervals/Body Dysmorphia](https://open.spotify.com/track/1pWnBj0yhdVm9LmIDkq9Ow) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [White Is Relic/Irrealis Mood](https://open.spotify.com/album/5eEyUUEWLhSOoqgrwBKmtp) | 7:15 | 2023-02-15 | 2023-08-08 |
@@ -1289,7 +1289,7 @@
 | [Reverie](https://open.spotify.com/track/0CgPQLC958e6pAPCnMAy0G) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | 4:44 | 2022-04-30 | 2022-06-13 |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2024-01-03 | 2024-03-27 |
 | [Rhode](https://open.spotify.com/track/36RBtb5cme2MASrGN3xsQ8) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Shabrang](https://open.spotify.com/album/54tTC9UQtLnu5Wldhlnstr) | 3:22 | 2022-03-21 | 2024-04-10 |
-| [Ribs](https://open.spotify.com/track/38WyDtxZhxm63jiythwemE) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 4:18 | 2024-04-20 |  |
+| [Ribs](https://open.spotify.com/track/38WyDtxZhxm63jiythwemE) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 4:18 | 2024-04-20 | 2024-08-16 |
 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 | 2022-03-13 | 2022-11-29 |
 | [Rich Bitch Juice \- Laura Les Remix](https://open.spotify.com/track/0hfjiQ13PQ4TcHOXyi1NWx) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Rich Bitch Juice \(Remixes\)](https://open.spotify.com/album/2I6rSGR9i4vBsefiCbN559) | 2:20 | 2022-05-12 | 2022-12-11 |
 | [Ride Or Die \(feat\. Chilly Gonzales\)](https://open.spotify.com/track/1rP4GZ4eFK4W9c5QeFIn1Y) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [+/\-](https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA) | 3:43 | 2022-04-15 | 2022-04-16 |
@@ -1341,7 +1341,7 @@
 | [Scroll of Sorrow](https://open.spotify.com/track/6ztOsvtb6MjOYgOOnBmVfd) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0), [guayaba](https://open.spotify.com/artist/5kYSoXTfErwSZC3E7uw54d) | [U\-Void Synthesizer](https://open.spotify.com/album/2Hao6BBoElsB9A3JFeSo9n) | 3:05 | 2022-03-27 | 2022-10-14 |
 | [sea castle](https://open.spotify.com/track/5CBpq7vVKGHIer9BVbBaWD) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 3:27 | 2022-03-24 | 2023-06-08 |
 | [Sea Without Blue](https://open.spotify.com/track/1Qsdx0D4zH9bqvMyYhpV96) | [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [When We Stay Alive](https://open.spotify.com/album/7IBhWoqJNbJtTityLHPYaT) | 3:00 | 2022-04-04 | 2022-09-27 |
-| [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 | 2024-01-11 | 2024-08-15 |
+| [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 | 2024-01-11 |  |
 | [Second Life](https://open.spotify.com/track/5fvN12hwMxkeFwPXLQI74L) | [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Frostbite \(Deluxe\)](https://open.spotify.com/album/5PPPg0FgIdggO5tjRa2ge0) | 4:08 | 2022-03-14 | 2022-07-14 |
 | [Secrecy Is Incredibly Important To The Both of Them](https://open.spotify.com/track/6Ucrht7JfguIXoa4hF9Leo) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:52 | 2021-07-23 | 2022-10-08 |
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:05 | 2021-11-03 | 2022-09-29 |

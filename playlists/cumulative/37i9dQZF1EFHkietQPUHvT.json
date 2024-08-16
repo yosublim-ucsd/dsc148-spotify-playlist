@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/2QWxTZD0HTnNj4JTLCTzJH"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185626,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/09pDFuRiJpAwTIifF3aPht"
+    },
+    {
+      "album": {
         "name": "I Found You EP",
         "url": "https://open.spotify.com/album/5h5ux1uJHaRo82sDyhNOin"
       },

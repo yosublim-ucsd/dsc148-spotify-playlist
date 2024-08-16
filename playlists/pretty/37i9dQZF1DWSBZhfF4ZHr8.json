@@ -1,15 +1,63 @@
 {
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : J\u00e9r\u00e9my Frerot",
-  "num_followers": 223874,
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Ridsa",
+  "num_followers": 223881,
   "original_name": "Fresh Vari\u00e9t\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqwFYAAAAADVvK/YhEfocS2lLcL5uAO6",
+  "snapshot_id": "Zr56YAAAAAB19RE/PH1hMDWCATYwZwmF",
   "tracks": [
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "duration_ms": 136185,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Avec un H (Acoustique)",
+        "url": "https://open.spotify.com/album/6QArLJTHbHz2oEL5LSKJQY"
+      },
+      "artists": [
+        {
+          "name": "Maheva",
+          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
+        }
+      ],
+      "duration_ms": 177119,
+      "name": "T'es Partout",
+      "url": "https://open.spotify.com/track/3K8zTFf3LSOZ1qWPv9kXNd"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Comment tu fais \u00e7a ?",
+        "url": "https://open.spotify.com/album/4uenXkbXhN2VCgvkp2uoOo"
+      },
+      "artists": [
+        {
+          "name": "Eko Eko",
+          "url": "https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY"
+        }
+      ],
+      "duration_ms": 181162,
+      "name": "Comment tu fais \u00e7a ?",
+      "url": "https://open.spotify.com/track/7zDcBYvKt0xN33bNY7OOyX"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Gamins des sables",
         "url": "https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG"
@@ -25,7 +73,75 @@
       "url": "https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Elo\u00efz",
+        "url": "https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp"
+      },
+      "artists": [
+        {
+          "name": "Elo\u00efz",
+          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "C'est \u00e7a la vie",
+      "url": "https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Chaque seconde",
+        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Chaque seconde",
+      "url": "https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Pas de seum pour le summer",
+        "url": "https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Summer Body",
+      "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Lady Melody",
+        "url": "https://open.spotify.com/album/2swXFP1plSouufy9vuYqRg"
+      },
+      "artists": [
+        {
+          "name": "Tom Frager",
+          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
+        },
+        {
+          "name": "Philippine Lavrey",
+          "url": "https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY"
+        }
+      ],
+      "duration_ms": 134013,
+      "name": "Lady Melody",
+      "url": "https://open.spotify.com/track/2IHOFiaAcZWnhdTEaPzGMt"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Plus L'Time (Stereo Love)",
         "url": "https://open.spotify.com/album/09DH6CFGrS9EPoxv4Vi3ea"
@@ -49,95 +165,7 @@
       "url": "https://open.spotify.com/track/1SXq81JaEMfD3L7aGJv7K3"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Lady Melody",
-        "url": "https://open.spotify.com/album/2swXFP1plSouufy9vuYqRg"
-      },
-      "artists": [
-        {
-          "name": "Tom Frager",
-          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
-        },
-        {
-          "name": "Philippine Lavrey",
-          "url": "https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY"
-        }
-      ],
-      "duration_ms": 134013,
-      "name": "Lady Melody",
-      "url": "https://open.spotify.com/track/2IHOFiaAcZWnhdTEaPzGMt"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz"
-      },
-      "artists": [
-        {
-          "name": "RIDSA",
-          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
-        }
-      ],
-      "duration_ms": 136185,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "RECOMMENCE-MOI",
-        "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
-      },
-      "artists": [
-        {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
-        },
-        {
-          "name": "Christophe Willem",
-          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Les Larmes ne coulent pas",
-      "url": "https://open.spotify.com/track/6OG2MCk4VFb0pI92f9ec1B"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Umani Terra",
-        "url": "https://open.spotify.com/album/4bEcAf4AK0a2NV40KVX01y"
-      },
-      "artists": [
-        {
-          "name": "La petite culotte",
-          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
-        }
-      ],
-      "duration_ms": 189711,
-      "name": "Umani Terra",
-      "url": "https://open.spotify.com/track/779gHT6XTEHjMO1euJHCi6"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Chaque seconde",
-        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Chaque seconde",
-      "url": "https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/4dRr6s3IPF9OWzr6qIBQEt"
@@ -157,55 +185,43 @@
       "url": "https://open.spotify.com/track/5sij5devnFg3Uf5BhSLAZS"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Avec un H (Acoustique)",
-        "url": "https://open.spotify.com/album/6QArLJTHbHz2oEL5LSKJQY"
+        "name": "RECOMMENCE-MOI",
+        "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
       },
       "artists": [
         {
-          "name": "Maheva",
-          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        },
+        {
+          "name": "Christophe Willem",
+          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
         }
       ],
-      "duration_ms": 177119,
-      "name": "T'es Partout",
-      "url": "https://open.spotify.com/track/3K8zTFf3LSOZ1qWPv9kXNd"
+      "duration_ms": 222560,
+      "name": "Les Larmes ne coulent pas",
+      "url": "https://open.spotify.com/track/6OG2MCk4VFb0pI92f9ec1B"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Comment tu fais \u00e7a ?",
-        "url": "https://open.spotify.com/album/4uenXkbXhN2VCgvkp2uoOo"
+        "name": "Umani Terra",
+        "url": "https://open.spotify.com/album/4bEcAf4AK0a2NV40KVX01y"
       },
       "artists": [
         {
-          "name": "Eko Eko",
-          "url": "https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY"
+          "name": "La petite culotte",
+          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
         }
       ],
-      "duration_ms": 181162,
-      "name": "Comment tu fais \u00e7a ?",
-      "url": "https://open.spotify.com/track/7zDcBYvKt0xN33bNY7OOyX"
+      "duration_ms": 189711,
+      "name": "Umani Terra",
+      "url": "https://open.spotify.com/track/779gHT6XTEHjMO1euJHCi6"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Elo\u00efz",
-        "url": "https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp"
-      },
-      "artists": [
-        {
-          "name": "Elo\u00efz",
-          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "C'est \u00e7a la vie",
-      "url": "https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Je pense \u00e0 vous",
         "url": "https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Fille du Sud (Lambada)",
         "url": "https://open.spotify.com/album/1vJztGdHxVqQJ2oCQO7qNO"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/78aegnVpvsl3RcGFQ7KaAc"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "\u00c9quilibre (Summer \u00c9dition)",
         "url": "https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU"
@@ -253,23 +269,7 @@
       "url": "https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Pas de seum pour le summer",
-        "url": "https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Summer Body",
-      "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "HIT PARADE",
         "url": "https://open.spotify.com/album/0FzhFBFxmWr7vrmxMcZijS"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/1oJgld3iDUZ6pbP3q2cfix"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Le tour du monde",
         "url": "https://open.spotify.com/album/6nWL5kBOrcd6T6PbqDiiim"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/4zQnaIcM2gWNnEnrf0PPKd"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "R\u00e9sister (What about Peace?)",
         "url": "https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Am\u00e8re",
         "url": "https://open.spotify.com/album/7D1iEGT0tmSrwX2e0tlqDa"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/2LKcg2tRu36P7WnvSeZSnX"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "C'EST VRAI OU PAS",
         "url": "https://open.spotify.com/album/7fTIIvEY1iZRor9IJumqpB"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/7E15SgpsnmFGl8rCJhSriL"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Nos futurs",
         "url": "https://open.spotify.com/album/22DAZq1OtiMY3TtH4hSW4T"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/64DuaIW3blopxUIUsM2eNQ"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Z\u00c9RO PAR MOIS",
         "url": "https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Pygmalion",
         "url": "https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Les jours qui restent",
         "url": "https://open.spotify.com/album/1cc7KL70u0dacUY7Cog900"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/0frKjAjwE6M58Q6bmnesKk"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Tout ira bien",
         "url": "https://open.spotify.com/album/4I0IDPYWMSVOwBCmhSxnuj"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/6khbmpr97wNMcU7wa9uE4E"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Ton regard",
         "url": "https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Ta couleur pr\u00e9f\u00e9r\u00e9e",
         "url": "https://open.spotify.com/album/3T0Y8asYtc0IQS7EH3liOZ"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/2qBOBonAOBUyLIls4XRr7s"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Trop t\u00f4t",
         "url": "https://open.spotify.com/album/0b1MHM0bqn9ovncFVQs49z"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/5jIXED6iAgytXBQSmkyhGc"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Histoire sans t\u00eate",
         "url": "https://open.spotify.com/album/1iCKXUWg3xEVqiHZKz0AqI"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/2xpkMwNPBCANArBvZ26Otm"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "La couleur de la mer",
         "url": "https://open.spotify.com/album/3hGqqPnjxzG0SO1KCYHdqP"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/4Y85ePGohVZx7zmsyKeIPE"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Fighter (Eurovision Version)",
         "url": "https://open.spotify.com/album/759G3cPO8KnudNnVPW7MV9"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/6syLoIbMRXvCEr94FMVBHh"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Nous on sait",
         "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Embrasse-moi",
         "url": "https://open.spotify.com/album/7ar0xTKM2M4MT9xYSQJwRX"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/6IEqOFFBGjx2FW2pwPFAWT"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Enchanti\u00e9e",
         "url": "https://open.spotify.com/album/5xLMLmXJbLG9sJl9ZD8k4S"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/1njRdxvR3tH8EujVkgpNRI"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "L\u00e9a",
         "url": "https://open.spotify.com/album/2xewKyVhEUNYWYsz9CGQZs"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/5y4SGiUMB4cTr14h6kwFyZ"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "La Pieva (Chez moi)",
         "url": "https://open.spotify.com/album/6KpbzNOiNP1jQkkPWzfVHW"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/6E07sstGEhWgGwvAovMgyr"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Mon coeur s'emballe",
         "url": "https://open.spotify.com/album/2uvaskU3CUJ0J52tIgNSnd"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/4qHuDZFSevonIz8UO6mGTM"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Moi c'est Jeck",
         "url": "https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Papa",
         "url": "https://open.spotify.com/album/093D26r87WUjIS9cPvSuOT"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/4LXEefVm05vkHCF43zC8bJ"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Pas d'apr\u00e8s",
         "url": "https://open.spotify.com/album/5NSJgnOFxYZnCxNQk5OAkC"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/1Mqj9RgFGepZinzA1QleP5"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Adieu",
         "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Comme un \u00e9clair",
         "url": "https://open.spotify.com/album/7nJu0WVN2Kxu5BSQo4a7Hz"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/6vd6XwtWGL2cEeOhqOTaTt"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "La pluie",
         "url": "https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "On est plein",
         "url": "https://open.spotify.com/album/3RaPUwYRoMim1mYm7si46l"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Le go\u00fbt des choses",
         "url": "https://open.spotify.com/album/69StEYXe5ZG59fdse5uXgo"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/3T1PwgzMpInMf8fR9AivZm"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/7qgVZiCj6qmf3kFaqDzkTW"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/3haU6irRiO9hZdku6ftszL"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "RECOMMENCE-MOI",
         "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Premi\u00e8re Escale",
         "url": "https://open.spotify.com/album/3YzPMlRk7zWnkCz1lWGQFW"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/4jsoRGCNeiSsdxuNi8wIlc"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "JE RAME, JE TANGUE",
         "url": "https://open.spotify.com/album/1c3l6TYCRVmoXQhhcnAALy"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/4jolz1beeQ18zASUMbmwDE"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/1bwwkx1WmLDITtMewlvImf"

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3NdEAJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3NdEAJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3NdEAJ)
 
-### [This Is La Fiera de Ojinaga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NdEAJ)
+### [La Fiera de Ojinaga This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NdEAJ)
 
-> This is La Fiera de Ojinaga\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> .La Fiera de Ojinaga This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
 
 53 songs - 2 hr 38 min
 

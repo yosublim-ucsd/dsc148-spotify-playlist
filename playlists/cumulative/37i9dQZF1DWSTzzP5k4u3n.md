@@ -2,9 +2,9 @@
 
 ### [Suomirock tänään](https://open.spotify.com/playlist/37i9dQZF1DWSTzzP5k4u3n)
 
-> Tällä listalla parasta tuoretta suomirockia\. Kannessa Ilkka Alanko.
+> Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-113 songs - 6 hr 40 min
+118 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Aurinkomäki](https://open.spotify.com/track/7IEaEIzhKacGDNBMbmGH0M) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Aurinkomäki](https://open.spotify.com/album/4GO7fFLjd6nloXjZqtgmxP) | 3:09 | 2024-08-08 |  |
 | [Avaruus](https://open.spotify.com/track/0joGJWTBlCCgZ0GE2V4ZQZ) | [Osteri](https://open.spotify.com/artist/2t9k9hyU5yR4h856wYe9w5) | [Yhteyttämisestä](https://open.spotify.com/album/6eZ7nRMxiETGbmhjiRExRF) | 3:31 | 2024-07-02 | 2024-08-09 |
 | [Big Sleep](https://open.spotify.com/track/6MNXWlrmEGoCT6Is848M3E) | [Cats Of Transnistria](https://open.spotify.com/artist/2Rnlk97rOW76miPCgrvZKX) | [Big Sleep](https://open.spotify.com/album/7obZlqjwttYWmU5bpNN5L0) | 5:08 | 2024-07-02 | 2024-07-12 |
-| [Dance Peasant, Dance](https://open.spotify.com/track/3wutJpo6z2wiItT7pvd6j1) | [Mute Frank](https://open.spotify.com/artist/35Qt5LBqwwMjiyOhmx18qe) | [Dance Peasant, Dance](https://open.spotify.com/album/25ZYkDJfWW6NksXIxmgyur) | 3:37 | 2024-07-02 |  |
+| [Dance Peasant, Dance](https://open.spotify.com/track/3wutJpo6z2wiItT7pvd6j1) | [Mute Frank](https://open.spotify.com/artist/35Qt5LBqwwMjiyOhmx18qe) | [Dance Peasant, Dance](https://open.spotify.com/album/25ZYkDJfWW6NksXIxmgyur) | 3:37 | 2024-07-02 | 2024-08-16 |
 | [Destined for Desire](https://open.spotify.com/track/3zlZ9COQNYiSZIT2Uj3bFb) | [Stråle](https://open.spotify.com/artist/1OA4Q3DiU0S23HQM2aU31f) | [Destined for Desire](https://open.spotify.com/album/2o5S91KUH7NUIRRXCWe8lp) | 4:00 | 2024-07-02 |  |
 | [Ding dong](https://open.spotify.com/track/60qkcfklWUSHnr7ZfPXD4m) | [Jukka Takalo](https://open.spotify.com/artist/5n4acUEkrslnTj3RZu2549) | [Ding dong](https://open.spotify.com/album/3p2cjEjYOxj5lo7wc99FVi) | 3:44 | 2024-07-02 | 2024-08-09 |
 | [Eikun sitä vaan lähdin kyseleen](https://open.spotify.com/track/5avpyqsvp9i19ebJQwm53Q) | [Kaita Isäri Seppälä](https://open.spotify.com/artist/2Uzu5DGiDcgrATD8qtJqjS) | [Eikun sitä vaan lähdin kyseleen](https://open.spotify.com/album/6X1tbEVUUpK7uuHrUhZnFo) | 3:50 | 2024-07-02 |  |
@@ -45,7 +45,7 @@
 | [Kapteeni](https://open.spotify.com/track/3eYzh7MET7DfMWbSoiQ5zj) | [Juuso](https://open.spotify.com/artist/0XkYgQirNpuUpQKa2YN4Uw) | [Kapteeni](https://open.spotify.com/album/1OUCSFLe2WX05AqvOrTcEn) | 2:36 | 2024-07-02 | 2024-07-05 |
 | [Karma Corrupted](https://open.spotify.com/track/5fv1YoBQm6rqR3CgcKYW05) | [Myon](https://open.spotify.com/artist/0bn2hcS30y2GaCwA9OCoWL) | [Terra Nova](https://open.spotify.com/album/0sFgF6uCSxmiiG8orITQLS) | 5:37 | 2024-07-02 | 2024-07-12 |
 | [Kaunis](https://open.spotify.com/track/6T6D0KAk4q6ujqWkTmQ0bL) | [Hugo Cajan](https://open.spotify.com/artist/2qtz8c5VZQMusKI1B24MW2) | [Kaunis](https://open.spotify.com/album/5k0ej6zgI4sOOIMrGCxZlY) | 3:24 | 2024-07-02 | 2024-07-05 |
-| [Kesä24](https://open.spotify.com/track/0yn3mJtuU5r4tIvj0zUBRd) | [Upotus](https://open.spotify.com/artist/3qcQS6lXIQJJlbNqzPNyWC) | [Kesä24](https://open.spotify.com/album/1bvalMmC0GWtotecVlTazm) | 3:40 | 2024-07-02 |  |
+| [Kesä24](https://open.spotify.com/track/0yn3mJtuU5r4tIvj0zUBRd) | [Upotus](https://open.spotify.com/artist/3qcQS6lXIQJJlbNqzPNyWC) | [Kesä24](https://open.spotify.com/album/1bvalMmC0GWtotecVlTazm) | 3:40 | 2024-07-02 | 2024-08-16 |
 | [Kesäsade](https://open.spotify.com/track/1qFDnZ6ZRYVEQoqpl2AHst) | [Hullu Pappila](https://open.spotify.com/artist/11oyEtmgXfScC4NniWCCWT) | [Kesäsade](https://open.spotify.com/album/6lnBNntMNnkN4PaPcBzkOU) | 4:01 | 2024-08-01 |  |
 | [Koiratanssit](https://open.spotify.com/track/0bBey46Oxohi6sDUNy7b7L) | [Tupakan Ystävät](https://open.spotify.com/artist/07Q5BDaUPOLW4HWUiNMjLw) | [Koiratanssit](https://open.spotify.com/album/2Hu1AZYWOlVsSm317bAXSp) | 3:35 | 2024-07-02 |  |
 | [Kompassi](https://open.spotify.com/track/0cUXDElEWqQ87agmCdQGjS) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Kompassi](https://open.spotify.com/album/13xUxVE7xv8mr0jZenEeEN) | 3:37 | 2024-07-04 |  |
@@ -55,6 +55,7 @@
 | [Kun kukaan ei huomaa](https://open.spotify.com/track/7o5cMmqHuxgErNxn12ROCc) | [Rakas Paheeni](https://open.spotify.com/artist/0K3ne1iuunHgCOAML6yOnz) | [Kun kukaan ei huomaa](https://open.spotify.com/album/03oSV0SZ4PnPzxlJeIqKCg) | 3:46 | 2024-07-02 | 2024-08-09 |
 | [Kun mä olin viis](https://open.spotify.com/track/4OrPTq9dAHGdQmxTdSWiPw) | [Ruotomieli](https://open.spotify.com/artist/4Y4boORAV5Jll6SbGkQsQ2) | [Kun mä olin viis](https://open.spotify.com/album/7Eq5e0aiq0gHMfCUEmNA8J) | 3:42 | 2024-08-08 |  |
 | [Kylmän Sillan Alla](https://open.spotify.com/track/2E0j7yqloN7JIgYA9FEjb6) | [Mikko & Talon Herrat](https://open.spotify.com/artist/0yrl0cloDoHPrNHdR9AdAp) | [Porkanperä](https://open.spotify.com/album/2AK2cEBhlq9yv7uiqkX7we) | 5:18 | 2024-07-02 | 2024-07-05 |
+| [Lanka palaa](https://open.spotify.com/track/5NaxtBnIffTak7GXo86VAM) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pelkkää Patee](https://open.spotify.com/album/04bPAbRKqEKWuKxtkevKY4) | 3:01 | 2024-08-15 |  |
 | [Lasiprinsessa](https://open.spotify.com/track/51yXdFuq2rEj4jbbP2b39V) | [Kirkkovene](https://open.spotify.com/artist/0SZkRVbgQe92d3RdjmYh9f) | [Lasiprinsessa](https://open.spotify.com/album/27wTlDJkFUzbSpmO60C3od) | 2:49 | 2024-07-02 | 2024-07-19 |
 | [Leiju](https://open.spotify.com/track/78ETHaYyLAfdtZx6jVoCdb) | [Hattara](https://open.spotify.com/artist/4bK357VA5lfLjj5GwFFjuR) | [Leiju](https://open.spotify.com/album/1O8BOLZUqyrG9gg5I0j9gA) | 3:34 | 2024-07-02 | 2024-08-09 |
 | [Leilan Boogie](https://open.spotify.com/track/0kLlX72WO3tY7kR0A5ALMk) | [AK\-77](https://open.spotify.com/artist/6MvyUZ15BwWLM4xxJaqEgR) | [Leilan Boogie](https://open.spotify.com/album/2nI6AuNmanI3LTlHiBZsX8) | 3:35 | 2024-08-08 |  |
@@ -63,13 +64,14 @@
 | [Maailma on](https://open.spotify.com/track/4JnxaZEVFf63QZbtvnm2Zl) | [Söndaag](https://open.spotify.com/artist/2AZyTe57nYroogm75TiIUy) | [Elämäntapakorjaus](https://open.spotify.com/album/5GPbZcHOS5Vzw7FIFrHz72) | 2:20 | 2024-08-08 |  |
 | [Maria Magdalena](https://open.spotify.com/track/5jxwZQig5KsjKJIxWP3uPa) | [Eino & Koskettajat](https://open.spotify.com/artist/1wfy1bnIcHWyNbJvdd2mWG) | [Maria Magdalena](https://open.spotify.com/album/22hAANG5aBV3YWRGlLVW4z) | 3:47 | 2024-07-02 |  |
 | [Matkalla tutkalla](https://open.spotify.com/track/7Fk8WZLszChGkC5FJyxhXR) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.6](https://open.spotify.com/album/1QtQXtUfWBVs1v26hHBUAX) | 3:50 | 2024-07-02 |  |
+| [Me olemme muisto vain](https://open.spotify.com/track/1T95Py9WIxGYrsnWStP8kK) | [Keba](https://open.spotify.com/artist/08o2XyGQXNOnPvN5r0o4VZ) | [Me olemme muisto vain / Kotikaupunki](https://open.spotify.com/album/451b2yTJF0KNP7CuI5NMii) | 3:35 | 2024-08-15 |  |
 | [Me ollaan tähtiä](https://open.spotify.com/track/7nnLA3p9y12PGoIyS079wN) | [LINDA](https://open.spotify.com/artist/4yxgOYrj12f0ujNMps2hv9) | [Me ollaan tähtiä](https://open.spotify.com/album/0heEiD5Zi25gTEagJuul2H) | 3:10 | 2024-07-02 | 2024-07-05 |
 | [Mitä kuuluu?](https://open.spotify.com/track/1hqz5yGEOnRgnJ5UkXKVmF) | [Hannu Halonen](https://open.spotify.com/artist/0OQ1klSAf9ZibGywCneXgg) | [Mitä kuuluu?](https://open.spotify.com/album/4P3EnPVDCYljvVmqx3qVxL) | 4:15 | 2024-08-08 |  |
 | [Mitä meistä jää](https://open.spotify.com/track/2eyWzMUQASQysU9DzGQ9aS) | [JP Leppäluoto](https://open.spotify.com/artist/24Rd4rNLnKZbKmCEl79Fxx) | [Mitä meistä jää](https://open.spotify.com/album/3fcNKRnfUEftW3irGCyLdL) | 2:58 | 2024-07-04 |  |
 | [Mitäköhän meistä jää](https://open.spotify.com/track/4zTFHxegCLq5LgzRUsfBre) | [Venkulit](https://open.spotify.com/artist/6iTidGnUAg4NMXtPtUJ49v) | [Mitäköhän meistä jää](https://open.spotify.com/album/3FgOyloBeaj8CavcYzK1mJ) | 3:18 | 2024-08-08 |  |
 | [More Than Friends](https://open.spotify.com/track/7eS3uBpcZJxbPaFgmXutXj) | [Lessdmv](https://open.spotify.com/artist/1poNyZahWTeyqi3ZJVPZ13) | [More Than Friends](https://open.spotify.com/album/0JDp5ZXDNGsWq5UFa57HHX) | 3:26 | 2024-07-02 |  |
 | [Mun Kärlek Jetaime](https://open.spotify.com/track/5QY5N6SJTlXZ982H0hZK4f) | [HARMAA PARDON?](https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX) | [Mielestä ja vastaan](https://open.spotify.com/album/7MlmV1v5wfKIFvXsiinccO) | 2:16 | 2024-07-02 | 2024-07-05 |
-| [Mä en muutu miksikään](https://open.spotify.com/track/5b1LCRyAG5Hqav7cDOyy5M) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Mä en muutu miksikään](https://open.spotify.com/album/5wqJbwrkOeSJFSZyouQ3Sz) | 3:40 | 2024-08-01 |  |
+| [Mä en muutu miksikään](https://open.spotify.com/track/5b1LCRyAG5Hqav7cDOyy5M) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Mä en muutu miksikään](https://open.spotify.com/album/5wqJbwrkOeSJFSZyouQ3Sz) | 3:40 | 2024-08-01 | 2024-08-16 |
 | [Odota mua](https://open.spotify.com/track/0QnhKvvJsSFry834t6lTnM) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Odota mua](https://open.spotify.com/album/0P9UUu2p9Br620MprJhdjo) | 3:07 | 2024-07-02 | 2024-07-05 |
 | [Odotan](https://open.spotify.com/track/6TrytYMEzVeZ0kOD660mX4) | [Osasto 33](https://open.spotify.com/artist/4SZkmTpM6qDizIilqifXMf) | [Odotan](https://open.spotify.com/album/5SziyeIbg4DVPruBDVZWba) | 3:36 | 2024-07-04 |  |
 | [Oikeeseen suuntaan](https://open.spotify.com/track/7nFfilDtnkasdtjayFsEo2) | [Tunnelbana](https://open.spotify.com/artist/5bNNuGL4THQqa5FIXs3Mdm) | [Oikeeseen suuntaan](https://open.spotify.com/album/7y4uBqCkuCYP5cdqWw7md3) | 3:02 | 2024-07-18 |  |
@@ -102,9 +104,11 @@
 | [Skorpionin käytävä](https://open.spotify.com/track/7KJ82tKpECjS9YC1Votnhk) | [Sysi & Savi](https://open.spotify.com/artist/6L8mmASe6E7N29roKdU8MV) | [Skorpionin käytävä](https://open.spotify.com/album/1TfWmD7pUIJEI5hPH2c50I) | 4:04 | 2024-07-02 | 2024-07-05 |
 | [SOS](https://open.spotify.com/track/6clMHx4aA0aoW5Sy1zASFy) | [Upotus](https://open.spotify.com/artist/3qcQS6lXIQJJlbNqzPNyWC), [Tapani](https://open.spotify.com/artist/6rTBfROF1wharmEtJvnEss) | [SOS](https://open.spotify.com/album/55oB0Bc2H8yLGK357ARn8h) | 3:45 | 2024-07-18 |  |
 | [Stop Signs](https://open.spotify.com/track/4vur3setjx4lLI9a3X4qkG) | [Kick the Giant](https://open.spotify.com/artist/4WIFyBWipDbMEraMXGwI8v) | [Stop Signs](https://open.spotify.com/album/71tvJ959D5T7e7TBJ9ojXd) | 4:00 | 2024-07-02 | 2024-07-12 |
+| [Suden hetki](https://open.spotify.com/track/0md54pF8ITOO95RaM9r9Oa) | [Karuma](https://open.spotify.com/artist/2EMjAmldY7Kn9ekRpwYx4j) | [Joki](https://open.spotify.com/album/007OXgtpDcAHd9g8pqUzv3) | 4:38 | 2024-08-15 |  |
 | [Sulle mitään vaikeaa](https://open.spotify.com/track/39N0gTICmkhE6NuQWIZKan) | [Taikayö Camping](https://open.spotify.com/artist/2UD3QYu1wvsmjaAlunrUJU) | [Sulle mitään vaikeaa](https://open.spotify.com/album/1GudJN4Mw6cSIOSS7YOgON) | 4:12 | 2024-07-02 |  |
 | [Sut luotiin lumoamaan](https://open.spotify.com/track/5kjwaozp3A3l5TXx8eoLbJ) | [Baikal](https://open.spotify.com/artist/6J6vHr5MrBjKaVixJq3iva) | [Sut luotiin lumoamaan](https://open.spotify.com/album/5j7QkVGfjNZHCpQzDf9iES) | 4:05 | 2024-07-02 |  |
 | [Så länge vi är två](https://open.spotify.com/track/73mgcHFdw3aniKmsyoQnA6) | [Tomas Höglund](https://open.spotify.com/artist/4EjGNLppk9slqsvnadsf0P) | [Så länge vi är två](https://open.spotify.com/album/2Z2O7WcPBelq8V73TH4gOk) | 3:19 | 2024-07-02 |  |
+| [Tanssi tyttö tanssi](https://open.spotify.com/track/6cBwIgISAd3zQO2F3gH5F2) | [Kalle Ahola](https://open.spotify.com/artist/1VkNoO2Us1nyZZWAgdpsds) | [Tanssi tyttö tanssi](https://open.spotify.com/album/7dsmSqsqpqdQgpo40FxGiY) | 4:05 | 2024-08-15 |  |
 | [Tanssi, Tarja!](https://open.spotify.com/track/3EMv5u7oxNI4I4vEjLjHzE) | [Justu](https://open.spotify.com/artist/5Bg4bVVWiZ4VdfWbhgKcZQ) | [Tanssi, Tarja!](https://open.spotify.com/album/4BPzMMKWOLzM2ewMhBkrEi) | 3:08 | 2024-07-02 |  |
 | [Terveisiä](https://open.spotify.com/track/0RKXac25WDEO1TYvwC0VZn) | [Kaku Kankka](https://open.spotify.com/artist/72YqLXcbWYYVEgiDyOFFpr) | [Koto](https://open.spotify.com/album/2pa4S4zCXGoEdu0lU9iG7Q) | 2:51 | 2024-07-02 |  |
 | [Tervemenoa vaan](https://open.spotify.com/track/64TPbYx8dyZfma78MkqrF8) | [Nymfiparakiitti](https://open.spotify.com/artist/2AAFoWB9ytUbsjUQGg9O5v) | [Tervemenoa vaan](https://open.spotify.com/album/3KjTv9wOZq2xfH8UD2BaRq) | 2:45 | 2024-07-02 | 2024-08-09 |
@@ -116,6 +120,7 @@
 | [Tänään lupaan \- Radio Edit](https://open.spotify.com/track/0hdo3lCErWLwfTxmidKVg3) | [HARMAA PARDON?](https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX) | [Tänään lupaan \(Radio Edit\)](https://open.spotify.com/album/02EdBP7yEBYEctENjIWSkg) | 3:07 | 2024-07-04 |  |
 | [Ullaa ullaa](https://open.spotify.com/track/4ypkXE5BFAF2n6s5D7oZsX) | [Ystävät](https://open.spotify.com/artist/0kM4Qayr5p0miggQlhxPXT) | [Ullaa ullaa](https://open.spotify.com/album/68OBanZzsyBSb76SDjApw5) | 3:01 | 2024-07-02 |  |
 | [Uskalla](https://open.spotify.com/track/5STQggpm9uduCqB8DwmCoM) | [Johannes Ahlvik](https://open.spotify.com/artist/37EYfHni5mewXoyrqjwNUk) | [Uskalla](https://open.spotify.com/album/5fKMLLfNHLU1mZ5JdD0IU8) | 3:40 | 2024-07-02 |  |
+| [Uus normi](https://open.spotify.com/track/2mQQRDkKqewjrcf6SnCiwI) | [HALKO](https://open.spotify.com/artist/79IxWunX0jajGf0HAUY4kJ) | [Uus normi](https://open.spotify.com/album/2MtgE4AUFaonlZTSFnq96C) | 2:55 | 2024-08-15 |  |
 | [Verivala](https://open.spotify.com/track/63wjcCy16aXLDK9G1t7lNP) | [kytät](https://open.spotify.com/artist/49jF8kdHtxnwhnQa5wiknv) | [Verivala](https://open.spotify.com/album/4CwyveLUU9sPzTWxdix0XS) | 2:37 | 2024-07-02 |  |
 | [Viimeiseen iltaan](https://open.spotify.com/track/6EQEjhlQW7rd2NWs1hoJa1) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Viimeiseen iltaan](https://open.spotify.com/album/2W895ZuuOiGR8n4slZetbU) | 3:00 | 2024-07-02 | 2024-08-09 |
 | [VMP](https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [VMP](https://open.spotify.com/album/4KYBQzyfGj65Q73OylcCY5) | 2:42 | 2024-07-18 |  |

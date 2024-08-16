@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : LauCarré
+> Les plus belles plumes rap français du moment\. Photo : Wallace Cleaver
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,097 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,125 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [J'irai pas voir un psy](https://open.spotify.com/track/1W26qte2Zepm5jKbDSTSf6) | [LauCarré](https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm) | [Merci la vie pour les douleurs](https://open.spotify.com/album/7gabBywNczFVUdfQmwvBaW) | 2:57 |
+| 1 | [le bus \- A COLORS SHOW](https://open.spotify.com/track/6tA6dED3veeMWrXexuWpbg) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [le bus \- A COLORS SHOW](https://open.spotify.com/album/6saCRQX2yRSt3FwsjBuo0c) | 2:58 |
 | 2 | [10h du mat'](https://open.spotify.com/track/1haWmfk43cAfj6M4O3t7NY) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98), [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [10h du mat'](https://open.spotify.com/album/0sp22JJLnrGFIPILQtBxzG) | 3:20 |
 | 3 | [La nuit](https://open.spotify.com/track/0jn1yQPQRWWjnxpoTfUr4g) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:56 |
-| 4 | [le bus \- A COLORS SHOW](https://open.spotify.com/track/6tA6dED3veeMWrXexuWpbg) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [le bus \- A COLORS SHOW](https://open.spotify.com/album/6saCRQX2yRSt3FwsjBuo0c) | 2:58 |
+| 4 | [Plus fort](https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [Plus fort que l'orage](https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy) | 2:30 |
 | 5 | [Générique de Fin \- Nouvelle École](https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:05 |
-| 6 | [Plus fort](https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [Plus fort que l'orage](https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy) | 2:30 |
-| 7 | [Anomalie](https://open.spotify.com/track/7uLmBIDzFOYECWnLvXa6qG) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [Anomalie](https://open.spotify.com/album/1H6RDsIjlGZliLI078xLsd) | 7:17 |
-| 8 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 |
+| 6 | [Anomalie](https://open.spotify.com/track/7uLmBIDzFOYECWnLvXa6qG) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [Anomalie](https://open.spotify.com/album/1H6RDsIjlGZliLI078xLsd) | 7:17 |
+| 7 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 |
+| 8 | [J'irai pas voir un psy](https://open.spotify.com/track/1W26qte2Zepm5jKbDSTSf6) | [LauCarré](https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm) | [Merci la vie pour les douleurs](https://open.spotify.com/album/7gabBywNczFVUdfQmwvBaW) | 2:57 |
 | 9 | [Requiem](https://open.spotify.com/track/38Ey8Cb60zEnsfl7IIvsOZ) | [Austin.](https://open.spotify.com/artist/68ZelUIcF3n3yNyakobhAG), [Almara](https://open.spotify.com/artist/1aicMxzdKTNAQhF4jt2b8H) | [Requiem](https://open.spotify.com/album/2RKkS3jHqfbZd6prSNPqJn) | 2:13 |
 | 10 | [La vérité](https://open.spotify.com/track/6Xi05MZvsGTf8DIWRKAkkX) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [La vérité](https://open.spotify.com/album/37HItjP0niHY1s2WTBZL9S) | 4:47 |
 | 11 | [Cohiba](https://open.spotify.com/track/7e5vYAwLS9rNuPnUHDXgSJ) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:12 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 39 | [CERCLE FERMÉ \- SOS FREESTYLE](https://open.spotify.com/track/5rhwgQSglUardhzznwgHTw) | [Selug](https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi), [$enar](https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5) | [CERCLE FERMÉ \- SOS FREESTYLE](https://open.spotify.com/album/2RdrOCuQna46cYGiKntWFP) | 1:54 |
 | 40 | [Hakim](https://open.spotify.com/track/3MLrnLglYGBraOy3Dw1bc0) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [YL](https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P) | [Hakim](https://open.spotify.com/album/7qDOg3miKligCldmyUtFJw) | 2:45 |
 
-Snapshot ID: `ZrU/4AAAAACqpRtrCAgTDEhDnDfMKaC6`
+Snapshot ID: `Zr56YAAAAACVzBlnY1bwotXKqVaWnCu/`

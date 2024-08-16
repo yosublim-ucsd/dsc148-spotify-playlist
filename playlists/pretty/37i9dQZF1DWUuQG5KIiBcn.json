@@ -1,6 +1,6 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 647051,
+  "num_followers": 647370,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-07-09 21:20:54",
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 169973,
-      "name": "Arturo Garza Trevino",
-      "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
-    },
-    {
-      "added_at": "2024-07-09 21:20:54",
-      "album": {
         "name": "Idolos Del Pueblo",
         "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 171920,
       "name": "Tres Veces Mojado",
       "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
+    },
+    {
+      "added_at": "2024-07-09 21:20:54",
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "Arturo Garza Trevino",
+      "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
     },
     {
       "added_at": "2024-07-09 21:20:54",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-09 21:20:54",
       "album": {
-        "name": "Exitos En Vivo Vol. 1",
-        "url": "https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 154011,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/2wA3Ztl0h9o1SoyzDJqoio"
-    },
-    {
-      "added_at": "2024-07-09 21:20:54",
-      "album": {
         "name": "Vicente Fern\u00e1ndez Y Sus Corridos Consentidos",
         "url": "https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 146213,
       "name": "Luis Pulido",
       "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"
+    },
+    {
+      "added_at": "2024-07-09 21:20:54",
+      "album": {
+        "name": "Exitos En Vivo Vol. 1",
+        "url": "https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 154011,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/2wA3Ztl0h9o1SoyzDJqoio"
     },
     {
       "added_at": "2024-07-09 21:20:54",

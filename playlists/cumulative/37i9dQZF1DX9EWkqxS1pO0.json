@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Beni Anla",
+        "url": "https://open.spotify.com/album/0168AFy8qdzlb6z5NddBxt"
+      },
+      "artists": [
+        {
+          "name": "Geceyi Kurtar",
+          "url": "https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Beni Anla",
+      "url": "https://open.spotify.com/track/4hDNZTqjqDrtM07DaOYAei"
+    },
+    {
+      "album": {
         "name": "Beni de Kendine Benzettin",
         "url": "https://open.spotify.com/album/4FrcDo79Wu0sZkhPPnOw6F"
       },
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 217083,
       "name": "Sabah\u0131n D\u00f6rt Bu\u00e7u\u011funda",
       "url": "https://open.spotify.com/track/5ps4DiaUpc6l96ixypIXkn"

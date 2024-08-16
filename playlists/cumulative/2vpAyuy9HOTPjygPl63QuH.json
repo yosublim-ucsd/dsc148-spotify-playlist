@@ -26223,6 +26223,24 @@
     },
     {
       "album": {
+        "name": "Planet Bass EP",
+        "url": "https://open.spotify.com/album/19Vy3V9OWtfe9MNKFi2Irz"
+      },
+      "artists": [
+        {
+          "name": "Dan Fresco",
+          "url": "https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234461,
+      "name": "Planet Bass",
+      "url": "https://open.spotify.com/track/5rNcvTadVp1GtW3G2OYNds"
+    },
+    {
+      "album": {
         "name": "Plata o Plomo",
         "url": "https://open.spotify.com/album/4F9rcupe4i6RkNJCdCGWTa"
       },

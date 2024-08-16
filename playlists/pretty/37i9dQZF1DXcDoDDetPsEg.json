@@ -1,13 +1,29 @@
 {
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Skillibeng",
-  "num_followers": 984582,
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Kenny Allstar",
+  "num_followers": 984587,
   "original_name": "Who We Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrOnjQAAAAAOYB1APzVL5C6nZH9yyOJj",
+  "snapshot_id": "Zr6IcAAAAAB6LCEjbb6Wk6A2UC71gP8y",
   "tracks": [
+    {
+      "added_at": "2024-08-07 16:57:49",
+      "album": {
+        "name": "gen z luv",
+        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "gen z luv",
+      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
+    },
     {
       "added_at": "2024-08-07 16:57:49",
       "album": {
@@ -27,6 +43,22 @@
       "duration_ms": 179974,
       "name": "KEHLANI (REMIX) [feat. Kehlani]",
       "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
+    },
+    {
+      "added_at": "2024-08-07 16:57:49",
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2024-08-07 16:57:49",
@@ -53,36 +85,24 @@
       "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
     },
     {
-      "added_at": "2024-08-07 16:57:49",
+      "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "gen z luv",
-        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
+        "name": "The Future's Yesterday",
+        "url": "https://open.spotify.com/album/5FrMqVI8SOcqfPRS8Uf4gI"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "gen z luv",
-      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
-    },
-    {
-      "added_at": "2024-08-07 16:57:49",
-      "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
+          "name": "Kenny Allstar",
+          "url": "https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV"
+        },
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
         }
       ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+      "duration_ms": 194738,
+      "name": "Jet Pack",
+      "url": "https://open.spotify.com/track/3V3UFoD3bOmQwmCMdwXTqw"
     },
     {
       "added_at": "2024-08-07 16:57:49",
@@ -253,6 +273,22 @@
       "url": "https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH"
     },
     {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
+        "name": "King David Flow",
+        "url": "https://open.spotify.com/album/1JicDIB0ZhrDisuWfR7LEd"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 227113,
+      "name": "King David Flow",
+      "url": "https://open.spotify.com/track/5qHkLB0G7fLWGqJgKaRaZp"
+    },
+    {
       "added_at": "2024-08-07 16:57:49",
       "album": {
         "name": "City Girls/Trackstar",
@@ -309,6 +345,22 @@
       "url": "https://open.spotify.com/track/405LD5JwS0BTkV4Ba6ci0A"
     },
     {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
+        "name": "Nelly & Kelly",
+        "url": "https://open.spotify.com/album/6EGAMJToxNacBIe6hbAYie"
+      },
+      "artists": [
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        }
+      ],
+      "duration_ms": 126131,
+      "name": "Nelly & Kelly",
+      "url": "https://open.spotify.com/track/1D4Z3SdmxBPgzufaNEJZj6"
+    },
+    {
       "added_at": "2024-08-07 16:57:49",
       "album": {
         "name": "Island 54",
@@ -327,6 +379,30 @@
       "duration_ms": 203918,
       "name": "Dilemma (feat. Sidhu Moose Wala)",
       "url": "https://open.spotify.com/track/1IQ7SE3i5bA3Ia4f1eZz9h"
+    },
+    {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
+        "name": "PINACOLADA",
+        "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
+      },
+      "artists": [
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 177847,
+      "name": "PINACOLADA",
+      "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
     },
     {
       "added_at": "2024-08-07 16:57:49",
@@ -597,6 +673,26 @@
       "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
     },
     {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
+        "name": "Yo Bunny",
+        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        },
+        {
+          "name": "Ugly Andz.",
+          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+        }
+      ],
+      "duration_ms": 110471,
+      "name": "Yo Bunny",
+      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
+    },
+    {
       "added_at": "2024-08-07 16:57:49",
       "album": {
         "name": "Lomo Lomo",
@@ -847,22 +943,6 @@
     {
       "added_at": "2024-08-07 16:57:49",
       "album": {
-        "name": "GANG",
-        "url": "https://open.spotify.com/album/1c02VhJeolcV3l94hdBnUU"
-      },
-      "artists": [
-        {
-          "name": "Kairo Keyz",
-          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "GANG",
-      "url": "https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V"
-    },
-    {
-      "added_at": "2024-08-07 16:57:49",
-      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -875,22 +955,6 @@
       "duration_ms": 175237,
       "name": "Burning",
       "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
-    },
-    {
-      "added_at": "2024-08-07 16:57:49",
-      "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2024-08-07 16:57:49",
@@ -1151,26 +1215,6 @@
       "duration_ms": 254922,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3fULF5CQpgCGpnUeLmRvTL"
-    },
-    {
-      "added_at": "2024-08-07 16:57:49",
-      "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
     },
     {
       "added_at": "2024-08-07 16:57:49",

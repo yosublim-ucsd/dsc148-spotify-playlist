@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO462cZX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO462cZX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO462cZX)
 
-### [This Is Deorro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO462cZX)
+### [Deorro This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO462cZX)
 
-> This is Deorro\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> .Deorro This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
 
 52 songs - 2 hr 50 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0sWg0jvufq5vIirWzlas0W.md) - [plain]
 
 > Over 7 hours of music for hanging out at the cottage\. Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_CottageLife\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 67,299 likes - 115 songs - 7 hr 42 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 67,302 likes - 115 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/0sWg0jvufq5vIirWzlas0W.md) - [plain]
 | 89 | [Diggin' A Hole](https://open.spotify.com/track/6c4RIQcixWsXmhHtfMWPRY) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Hit And Run: The Best Of Big Sugar](https://open.spotify.com/album/5DkVM509YTab4WVZWE84ez) | 5:23 |
 | 90 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |
 | 91 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 |
-| 92 | [Strange Currencies \- Remastered](https://open.spotify.com/track/4ymd3iAOgswyIZFHdwTILF) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 3:52 |
+| 92 | [Strange Currencies \- Remastered 2013](https://open.spotify.com/track/4ymd3iAOgswyIZFHdwTILF) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \- Remastered](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 3:52 |
 | 93 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 94 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
 | 95 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 |

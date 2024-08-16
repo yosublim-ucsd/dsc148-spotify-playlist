@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,104 songs - 4 day 15 hr 57 min
+2,105 songs - 4 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Belly, The Weeknd \- Die For It \(ft\. Nas\)](https://open.spotify.com/track/2Nc1v8I86FUGorwjXKo0in) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [See You Next Wednesday](https://open.spotify.com/album/7jJsNB4u538DpyZckBEKsB) | 3:19 | 2021-08-29 | 2021-08-30 |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-13 |
 | [Bezos I](https://open.spotify.com/track/0Kdj7nwaYQmvhxnqZaIQuW) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 0:58 | 2021-07-22 | 2021-08-08 |
+| [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-15 |  |
 | [Big Steppa](https://open.spotify.com/track/3oL6LBuc6KTge87a0lj6f3) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Big Steppa](https://open.spotify.com/album/7w9kuaedxNmAwNAVRALRNt) | 2:38 | 2022-11-26 | 2022-12-03 |
 | [BIGMANTING](https://open.spotify.com/track/58abKs7oVgVnpNeLkRNLYj) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [LIMBO](https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ) | 2:01 | 2022-12-10 | 2022-12-21 |
 | [Bikineis \(feat\. Cledos\)](https://open.spotify.com/track/19tC0uC0b9azd1B8tJbwNm) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Bikineis \(feat\. Cledos\)](https://open.spotify.com/album/2T5RRcrE3xQ8y2hnHXzB8A) | 2:22 | 2023-06-03 | 2023-07-16 |
@@ -1815,7 +1816,7 @@
 | [Tinakenkätyttö \(feat\. Kaija Koo\)](https://open.spotify.com/track/3aZTFdvN175mhpJHF2vJur) | [DOG HUSTLERS](https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb), [Kaija Koo](https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq) | [Tinakenkätyttö \(feat\. Kaija Koo\)](https://open.spotify.com/album/3JoQeJCBQPosFXAEtFYwJq) | 3:02 | 2024-04-13 | 2024-04-15 |
 | [Tinasormus \(feat\. Janne Hurme\)](https://open.spotify.com/track/5O76Qhhq088kM5g0RxT3Tp) | [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k), [Janne Hurme](https://open.spotify.com/artist/3zxooYS5gwpE15xpjX0N1A) | [Tinasormus \(feat\. Janne Hurme\)](https://open.spotify.com/album/105mwQbyQbZUMxxKlS1sRk) | 3:12 | 2024-05-25 | 2024-06-30 |
 | [Tippa\-T](https://open.spotify.com/track/6qverLcFcryBhJBgomIZjw) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Tippa\-T](https://open.spotify.com/album/4DaSkc8aIg2Kqk7vqdwoDo) | 2:16 | 2022-10-01 | 2023-02-14 |
-| [Tirehtööri](https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [Tirehtööri](https://open.spotify.com/album/5D0Gba4iAUAEa2O9lx8sP6) | 2:43 | 2024-07-06 |  |
+| [Tirehtööri](https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [Tirehtööri](https://open.spotify.com/album/5D0Gba4iAUAEa2O9lx8sP6) | 2:43 | 2024-07-06 | 2024-08-16 |
 | [Titans \(feat\. Sia & Labrinth\)](https://open.spotify.com/track/2nYPVp7BJuoaJ4rQmg5FM5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/5pmiFuzEtKlwWQhy5irJIJ) | 3:19 | 2021-03-27 | 2021-03-29 |
 | [Tivolit](https://open.spotify.com/track/6Su0vZAluexLSzvXR0V5hV) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Draaman kaari viehättää](https://open.spotify.com/album/2y7VeG13zC99aXEDF60IgJ) | 3:31 | 2021-05-17 | 2021-05-23 |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-27 |

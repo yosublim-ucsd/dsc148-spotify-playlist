@@ -4,7 +4,7 @@
 
 > Want to win a 5x class packs with KX Pilates!? Follow Morning Workout and sign up <a href="https://FiltrAU.lnk.to/MW\-KX!KX">here</a> for your chance to win!
 
-895 songs - 1 day 23 hr 13 min
+896 songs - 1 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,9 +271,10 @@
 | [Feels This Good](https://open.spotify.com/track/5JL0aPP9mvMHx0IGXqcI5C) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Feels This Good](https://open.spotify.com/album/74tuwcpsRBZgjtQxja5vVb) | 3:10 | 2023-03-03 | 2023-06-16 |
 | [Feet Don't Fail Me Now \- Paul Woolford Remix](https://open.spotify.com/track/7iW2RSkkn6hFlW4oePhWc5) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Feet Don't Fail Me Now \(Paul Woolford Remix\)](https://open.spotify.com/album/2Xi7POK6ZU8jUWiJW9bmZG) | 3:42 | 2021-07-31 | 2021-08-28 |
 | [Fighter](https://open.spotify.com/track/74fKiP8rXuzBVrPG37i3xs) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Fighter](https://open.spotify.com/album/2fJdAGjBEbv7tagp6tfBsn) | 2:33 | 2021-08-28 | 2022-01-14 |
-| [Final Form](https://open.spotify.com/track/6nUXH6o7OXDVykgwAtIIFU) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [The Return](https://open.spotify.com/album/1HxsSJHTqeUxDoKN26h8pB) | 3:36 | 2024-07-19 |  |
+| [Final Form](https://open.spotify.com/track/6nUXH6o7OXDVykgwAtIIFU) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [The Return](https://open.spotify.com/album/1HxsSJHTqeUxDoKN26h8pB) | 3:36 | 2024-07-19 | 2024-08-16 |
 | [Finally](https://open.spotify.com/track/5S7xGgvd4RWejVhj6mZHMq) | [Baron Von Trax](https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT) | [Finally](https://open.spotify.com/album/5J26cCE9pYXrdfNJ3pwV8k) | 4:18 | 2024-01-25 | 2024-07-19 |
 | [Find a Little Love, Love](https://open.spotify.com/track/4DwKtRyGPOnlFBuW8IdgMk) | [ABG](https://open.spotify.com/artist/6wG0OC1um2nNfcat45D2GT), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Find a Little Love, Love](https://open.spotify.com/album/7yf5nFCnlZOUrTNjy9NJRU) | 3:16 | 2022-12-02 | 2022-12-16 |
+| [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 | 2024-08-15 |  |
 | [Fire](https://open.spotify.com/track/4gk7wT7yyfXfOJMscVpmx2) | [Deadbeat](https://open.spotify.com/artist/7DoljqvX8N0tjx7hC5ni7e), [MR.O6OO](https://open.spotify.com/artist/6prEQtEIerqPBVuweTn39q), [Joey Illah](https://open.spotify.com/artist/6LqDmI7IuhPRe83EAdHAMV), [Double G Makeabanga](https://open.spotify.com/artist/1jaivhg27L4De3xnDn81vA) | [Fire](https://open.spotify.com/album/5CFE3fjxZLjnhmkzZqoldK) | 3:31 | 2022-10-21 | 2022-10-28 |
 | [Fire](https://open.spotify.com/track/1XTzKHCFNpATrGfOrWDDDn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [The Arrival](https://open.spotify.com/album/1OTee7Y96zHrodzEmflRVe) | 2:28 | 2021-06-11 | 2021-07-17 |
 | [Fire \(with Elderbrook\)](https://open.spotify.com/track/5HFPK8mcO6BGPZNeZPZI5L) | [Ytram](https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Fire \(with Elderbrook\)](https://open.spotify.com/album/1T7yxksU7XWdi3qpW9eWYC) | 2:43 | 2020-11-03\* | 2021-08-14 |

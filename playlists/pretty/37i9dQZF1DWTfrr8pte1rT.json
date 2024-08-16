@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: HVDES \\m/",
-  "num_followers": 329647,
+  "num_followers": 329703,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2024-08-09 19:32:35",
       "album": {
-        "name": "This Will Be My Year",
-        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "This Will Be My Year",
-      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
-    },
-    {
-      "added_at": "2024-08-09 19:32:35",
-      "album": {
         "name": "Onyx",
         "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 259401,
       "name": "Our Fire",
       "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
+    },
+    {
+      "added_at": "2024-08-09 19:32:35",
+      "album": {
+        "name": "This Will Be My Year",
+        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "This Will Be My Year",
+      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
     },
     {
       "added_at": "2024-08-09 19:32:35",

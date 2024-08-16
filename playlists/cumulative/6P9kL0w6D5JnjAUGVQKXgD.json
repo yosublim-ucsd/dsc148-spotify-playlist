@@ -12684,7 +12684,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
@@ -22384,6 +22384,28 @@
       "duration_ms": 218000,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/3hmfJkOJT6CUYwghxf9EQR"
+    },
+    {
+      "album": {
+        "name": "Only Love",
+        "url": "https://open.spotify.com/album/01Q20hGyOrok1D7K6RX7d6"
+      },
+      "artists": [
+        {
+          "name": "Lexton",
+          "url": "https://open.spotify.com/artist/0zdgWvks152kY7wW9luSWp"
+        },
+        {
+          "name": "Zanoii",
+          "url": "https://open.spotify.com/artist/4lDylUTkgTogwWesOxxYzc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/6oqT5na8quPXA1YWBZk6a7"
     },
     {
       "album": {

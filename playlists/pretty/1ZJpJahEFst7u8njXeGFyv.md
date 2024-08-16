@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 306,989 likes - 245 songs - 16 hr 16 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 306,983 likes - 245 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [River Flows in You](https://open.spotify.com/track/3xr8COed4nPPn6XWZ0iCGr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [The Best \- Reminiscent 10th Anniversary](https://open.spotify.com/album/7dZ49XnPBaF4e6SMYmsNQ1) | 3:38 |
 | 2 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 2:32 |
 | 3 | [Peaceful Paradise](https://open.spotify.com/track/3AKXbF7VasGhPv8Z10S6Dh) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Peaceful Paradise](https://open.spotify.com/album/24oSL9rC8r8OBsjVzbRhzG) | 2:44 |
-| 4 | [Solari](https://open.spotify.com/track/1yp9xapvzXJ6b7jin86HjO) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Solari](https://open.spotify.com/album/5pweojtaklLhDo7qdNVEBr) | 2:45 |
+| 4 | [solari](https://open.spotify.com/track/1yp9xapvzXJ6b7jin86HjO) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [solari](https://open.spotify.com/album/5pweojtaklLhDo7qdNVEBr) | 2:45 |
 | 5 | [24 Préludes, Op\. 28: No\. 15 in D\-Flat Major "Raindrop" \- Sostenuto](https://open.spotify.com/track/27ZSb3HbeMmiRiSfIwlfzU) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [24 Préludes, Op\. 28/No\. 15 in D\-Flat Major "Raindrop" \- Sostenuto](https://open.spotify.com/album/5wRbHwgKw55R4ZQO6Uqq5d) | 4:37 |
 | 6 | [Liszt Variation \(After Im Rhein, im schönen Strome, S\. 272, Arr\. for Piano by Florian Christl\)](https://open.spotify.com/track/5WokHL3JXjiuhg3XvhU3e5) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Liszt Variation \(After Im Rhein, im schönen Strome, S\. 272, Arr\. for Piano by Florian Christl\)](https://open.spotify.com/album/5tf3V0H7UhI6MoOFzd7nxV) | 3:17 |
 | 7 | [Sonata No\. 42 in D Minor](https://open.spotify.com/track/2RTqiYtiTKhkctjDOGgQlL) | [Domenico Cimarosa](https://open.spotify.com/artist/3UyRRlpJO3uCojQkBibqNZ), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Jean\-Sélim Abdelmoula](https://open.spotify.com/artist/7dmgAkp6pEiHPciRnTOfEh) | [Sonata No\. 42 in D Minor](https://open.spotify.com/album/3QGp7vVCkhhzwQY23RjzxE) | 2:36 |

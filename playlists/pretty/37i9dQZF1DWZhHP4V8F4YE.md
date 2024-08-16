@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,952 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,029 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 47 | [Kautaka](https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [JFS Music](https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1), [King Tone SA](https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA) | [Kautaka](https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA) | 3:19 |
 | 48 | [Yebo Lapho \(Gogo\) \(feat\. DJ Maphorisa & Djy Biza\)](https://open.spotify.com/track/0NLRYW9HyqHcbyzfAwskKN) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Thabza Tee](https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Yebo Lapho \(Gogo\) \(feat\. DJ Maphorisa & Djy Biza\)](https://open.spotify.com/album/0YjBn2M1uYiV6iOVqK9WTD) | 7:04 |
 | 49 | [Manzi Nte \(feat\. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo\)](https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P), [Silas Africa](https://open.spotify.com/artist/2m0tIjDO5ludphgMpEviTP), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Manzi Nte \(feat\. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo\)](https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg) | 7:23 |
-| 50 | [Ka Esi Le Onye Isi Oche](https://open.spotify.com/track/6PImXg1PaRBpFVdCAnSdUS) | [Gentleman Mike Ejeagha](https://open.spotify.com/artist/4JE96Bah2CDN05PLwVa9rp) | [Akuko N'egwu Original Vol.1](https://open.spotify.com/album/6VzoCVgO5TJ2abzeDnbGWs) | 16:56 |
+| 50 | [Ka Esi Le Onye Isi Oche](https://open.spotify.com/track/6PImXg1PaRBpFVdCAnSdUS) | [Gentleman Mike Ejeagha & His Trio](https://open.spotify.com/artist/4JE96Bah2CDN05PLwVa9rp) | [Akuko N'egwu Original Vol.1](https://open.spotify.com/album/6VzoCVgO5TJ2abzeDnbGWs) | 16:56 |
 
 Snapshot ID: `ZrntrgAAAACaTALEem/zciTB+z/9jWzh`

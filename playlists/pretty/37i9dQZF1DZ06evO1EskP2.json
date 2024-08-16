@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAACJlT4woTk1FbvCHAGw6qZa",
+  "snapshot_id": "ZrvzgAAAAADoCsVvMnuzBNgxyszrjUrf",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "We Make It Look Easy",
-      "url": "https://open.spotify.com/track/5LuaP36EadcPyFKEhlW08e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ready and Willing",
         "url": "https://open.spotify.com/album/38U6pAhmqMfBS7qZSIJQKl"
       },
@@ -455,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V"
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
       },
       "artists": [
         {
@@ -464,9 +448,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 230010,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn"
+      "duration_ms": 188368,
+      "name": "We Make It Look Easy",
+      "url": "https://open.spotify.com/track/5LuaP36EadcPyFKEhlW08e"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 230010,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hard Place",
         "url": "https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 187376,
-      "name": "Riddles",
-      "url": "https://open.spotify.com/track/4R4UunGPUhjkokEUiQ8iCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maui Rain",
         "url": "https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 217077,
       "name": "Maui Rain",
       "url": "https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 187376,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/4R4UunGPUhjkokEUiQ8iCA"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 234004,
-      "name": "I Won't Settle",
-      "url": "https://open.spotify.com/track/4xoN1xIoNeSY77gSA9pk0X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 206240,
       "name": "Here I Go Again",
       "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 234004,
+      "name": "I Won't Settle",
+      "url": "https://open.spotify.com/track/4xoN1xIoNeSY77gSA9pk0X"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moku Soul",
         "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 190463,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 286645,
-      "name": "Love Child",
-      "url": "https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 226185,
-      "name": "Walk on Water",
-      "url": "https://open.spotify.com/track/4s23CQT2CMFhIxYn9MyNLw"
+      "duration_ms": 286645,
+      "name": "Love Child",
+      "url": "https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 213480,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 226185,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/4s23CQT2CMFhIxYn9MyNLw"
     },
     {
       "added_at": null,

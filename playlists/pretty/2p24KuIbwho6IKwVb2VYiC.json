@@ -6,7 +6,7 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAef/lZUJ2Umlos65kfz6R9DgHcvxW7",
+  "snapshot_id": "AAAegeQGJEbTHkCVZah1VUVqFvPZ34IP",
   "tracks": [
     {
       "added_at": "2024-08-12 13:10:28",
@@ -233,6 +233,26 @@
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
+      "added_at": "2024-08-15 13:03:24",
+      "album": {
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/7uLQbckUJI5zR61O5HBXdj"
+      },
+      "artists": [
+        {
+          "name": "The Banker Boys",
+          "url": "https://open.spotify.com/artist/23ZQRnQKAovuLlXhc555tm"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "duration_ms": 151472,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/68ebuQxfTJnlg3KwSLVytP"
+    },
+    {
       "added_at": "2024-08-12 13:10:28",
       "album": {
         "name": "Love Bites (Feat. Tove Lo & SG Lewis) [Don Diablo Remix]",
@@ -379,7 +399,7 @@
     {
       "added_at": "2024-08-12 13:10:28",
       "album": {
-        "name": "Fire (Official UEFA EURO 2024 Song)",
+        "name": "Fire - Official UEFA EURO 2024 Song",
         "url": "https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ"
       },
       "artists": [

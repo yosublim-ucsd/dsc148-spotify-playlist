@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-138 songs - 9 hr 6 min
+139 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 | 2023-02-17 |  |
 | [Jugo](https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Versus](https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g) | 4:19 | 2023-02-17 |  |
 | [La Buena Vida](https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK) | [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Peluche Peligroso](https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn) | 3:47 | 2023-02-17 |  |
+| [La Moto del Benja](https://open.spotify.com/track/1GxsPPqwGdhvLJhqI1Vr2P) | [Só](https://open.spotify.com/artist/3si8Eu6UFP2Gi0NNtUND38) | [La Fundación](https://open.spotify.com/album/2D6zAs92V0BImoH66xkznU) | 4:29 | 2024-08-15 |  |
 | [Levántate y Anda](https://open.spotify.com/track/4s5x65KhC8IATvwQtTaXbR) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL), [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx), [Hugo Fattoruso](https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9) | [Levántate y Anda](https://open.spotify.com/album/49OWyv7bujYuq4ipISG2pW) | 3:08 | 2023-02-17 |  |
 | [Libre](https://open.spotify.com/track/2ithPgILb0VqnA8N944jHg) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Pangea](https://open.spotify.com/album/6atAn3qbgkoDZqeJW7qbj2) | 3:16 | 2024-01-12 | 2024-04-19 |
 | [Libre](https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Pangea](https://open.spotify.com/album/4UjEy9hqJdmG31HCaV1Lr4) | 3:16 | 2023-02-17 | 2024-01-24 |
@@ -116,7 +117,7 @@
 | [Recipe](https://open.spotify.com/track/1Sdz6Kvfs1bYTK0kLRuUSz) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Croupier Funk](https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1) | 4:56 | 2023-02-17 | 2024-04-19 |
 | [Resistencia](https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Resistencia](https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY) | 3:38 | 2023-09-07 | 2024-04-19 |
 | [Resistencia](https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Under](https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n) | 3:38 | 2023-02-17 | 2023-09-22 |
-| [Reírme Con Vos](https://open.spotify.com/track/6EUTGVABkd7ybTeaA7WStS) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [Reírme Con Vos](https://open.spotify.com/album/6RV6jO5nmkuxHXndvMU6dw) | 2:57 | 2024-03-29 |  |
+| [Reírme Con Vos](https://open.spotify.com/track/6EUTGVABkd7ybTeaA7WStS) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [Reírme Con Vos](https://open.spotify.com/album/6RV6jO5nmkuxHXndvMU6dw) | 2:57 | 2024-03-29 | 2024-08-16 |
 | [Rodrigo a 2000](https://open.spotify.com/track/5fuOd4j89PKi99U09WEDsY) | [Mustafunk](https://open.spotify.com/artist/5pQLa1PMOMiym6nfiUWqbu) | [El Jardín de los Siguientes](https://open.spotify.com/album/2hCERihqGjGe0gz68WxI2D) | 3:55 | 2024-07-11 |  |
 | [San Francisco Nights](https://open.spotify.com/track/761uhrvvqczdMTveo50Le4) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [San Francisco Nights](https://open.spotify.com/album/2woY6QuO4JtwfMmSs0mKPh) | 3:30 | 2024-06-14 |  |
 | [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 | 2024-01-12 |  |

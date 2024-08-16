@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 37902,
+  "num_followers": 37907,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAADO1Zp/8DQYUZSksK6b3nTe",
+  "snapshot_id": "ZrvzgAAAAAA9Q4G6ZE+hLxa1K9ouwjPM",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Time Together: The Live Album",
-        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 67533,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/4bpw64y9WQWuaHIQi7D0W0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Our Time Together: The Live Album",
+        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 67533,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4bpw64y9WQWuaHIQi7D0W0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 191613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Our Time Together: The Live Album",
-        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 251626,
-      "name": "Aim For My Head",
-      "url": "https://open.spotify.com/track/5Ii6ZhGfVWuKrKdStXdfpj"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 158124,
       "name": "Black N White",
       "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Our Time Together: The Live Album",
+        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 251626,
+      "name": "Aim For My Head",
+      "url": "https://open.spotify.com/track/5Ii6ZhGfVWuKrKdStXdfpj"
     },
     {
       "added_at": null,
@@ -803,22 +803,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "About 30",
-        "url": "https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo"
+        "name": "Time Zones & Tylenol",
+        "url": "https://open.spotify.com/album/7ENBhxS8JNn1ZOs3aMk7wv"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Sons of Sonix",
+          "url": "https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ"
+        },
+        {
+          "name": "Seyi Shay",
+          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
         },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 294753,
-      "name": "Ire (Remix) (feat. Jacob Banks)",
-      "url": "https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8"
+      "duration_ms": 174905,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/3SorhVpZkjyqRQJKJ4zM1g"
     },
     {
       "added_at": null,
@@ -843,26 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Zones & Tylenol",
-        "url": "https://open.spotify.com/album/7ENBhxS8JNn1ZOs3aMk7wv"
+        "name": "About 30",
+        "url": "https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo"
       },
       "artists": [
         {
-          "name": "Sons of Sonix",
-          "url": "https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ"
-        },
-        {
-          "name": "Seyi Shay",
-          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 174905,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/3SorhVpZkjyqRQJKJ4zM1g"
+      "duration_ms": 294753,
+      "name": "Ire (Remix) (feat. Jacob Banks)",
+      "url": "https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 243369,
+  "num_followers": 243408,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,22 @@
     {
       "added_at": "2024-06-20 23:55:00",
       "album": {
-        "name": "Todo Tiene Su Hora",
-        "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
+        "name": "Ateo",
+        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Tus Besos",
-      "url": "https://open.spotify.com/track/2QyJTZeqxmVfbesnoN3r7k"
+      "duration_ms": 239925,
+      "name": "Ateo",
+      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
     },
     {
       "added_at": "2024-06-20 23:55:00",
@@ -439,22 +443,18 @@
     {
       "added_at": "2024-06-20 23:55:00",
       "album": {
-        "name": "Ateo",
-        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
+        "name": "Todo Tiene Su Hora",
+        "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
       },
       "artists": [
         {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 239925,
-      "name": "Ateo",
-      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+      "duration_ms": 197400,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/2QyJTZeqxmVfbesnoN3r7k"
     },
     {
       "added_at": "2024-06-20 23:55:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-20 23:55:00",
       "album": {
-        "name": "Obl\u00edgame",
-        "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "Me Duele La Cabeza",
-      "url": "https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt"
-    },
-    {
-      "added_at": "2024-06-20 23:55:00",
-      "album": {
         "name": "Morir Solo",
         "url": "https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 242342,
       "name": "Morir Solo",
       "url": "https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO"
+    },
+    {
+      "added_at": "2024-06-20 23:55:00",
+      "album": {
+        "name": "Obl\u00edgame",
+        "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "Me Duele La Cabeza",
+      "url": "https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt"
     },
     {
       "added_at": "2024-06-20 23:55:00",

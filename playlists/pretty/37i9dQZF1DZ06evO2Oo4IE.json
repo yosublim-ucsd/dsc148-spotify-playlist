@@ -1,12 +1,12 @@
 {
-  "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 180444,
+  "description": "This is Janis Joplin. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 180449,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAAAWWAxP1IJwj8BJfw95zcLC",
+  "snapshot_id": "ZrvzgAAAAAAhAGmtTGQgqjdpJKC5HyjG",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis Joplin Live At Winterland '68",
-        "url": "https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT"
+        "name": "Janis Joplin: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
       },
       "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Flower In the Sun - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
-      "url": "https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi"
+      "duration_ms": 297066,
+      "name": "Piece Of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g"
     },
     {
       "added_at": null,
@@ -655,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis Joplin: The Woodstock Experience",
-        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
+        "name": "Janis Joplin Live At Winterland '68",
+        "url": "https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT"
       },
       "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 297066,
-      "name": "Piece Of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
-      "url": "https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g"
+      "duration_ms": 192466,
+      "name": "Flower In the Sun - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
+      "url": "https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi"
     },
     {
       "added_at": null,

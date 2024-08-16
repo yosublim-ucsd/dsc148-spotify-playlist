@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The smoothest Afro R&B out right now. Cover:  Elaine",
+  "description": "The smoothest Afro R&B out right now. Cover:  Manana",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -710,6 +710,24 @@
       "duration_ms": 192000,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41"
+    },
+    {
+      "album": {
+        "name": "Bad Side",
+        "url": "https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "Bad Side",
+      "url": "https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r"
     },
     {
       "album": {
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 199306,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK"
@@ -3100,7 +3118,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 220311,
       "name": "HOW FAR",
       "url": "https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl"
@@ -4012,6 +4030,24 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "album": {
+        "name": "Our Broken Hearts Mend",
+        "url": "https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233920,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/3YbWbLKexX7qyDjWxs4s9h"
     },
     {
       "album": {
@@ -5410,7 +5446,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 204413,
       "name": "Phases",
       "url": "https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi"
@@ -7078,6 +7114,24 @@
       "duration_ms": 169254,
       "name": "Tolo (Faut m'oublier)",
       "url": "https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6orgHTkhJhUseTwtujjvmz"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100800,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3pmtkeRPl7UNK389EC8lvS"
     },
     {
       "album": {

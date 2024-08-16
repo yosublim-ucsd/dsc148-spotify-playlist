@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 
 > Photo : Gazo x Adèle Castillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,803 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,804 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 |
-| 2 | [Monde](https://open.spotify.com/track/4zD7GnXyl94mNCbyaNw6xf) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp), [Ryan Koffi](https://open.spotify.com/artist/53qGMn2ruG0oTwyGyTsBUn) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:36 |
-| 3 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 |
-| 4 | [Demain](https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 2:27 |
-| 5 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 |
-| 6 | [Les restes de mon passé](https://open.spotify.com/track/1ZBL4zWtHXLC16LBJAHBWm) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:20 |
-| 7 | [J'écris](https://open.spotify.com/track/707blFQ6ZTTGSZUQCfdkIj) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [J'écris](https://open.spotify.com/album/0nqsL5Dloqn8mh1mZyOMI5) | 3:02 |
-| 8 | [Si ça va](https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 3:04 |
-| 9 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 |
-| 10 | [La nuit où](https://open.spotify.com/track/7BQWErX02AdVBgODbUglKI) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [La nuit où](https://open.spotify.com/album/06LTFfZ7cr6yyZbU2a5L7I) | 3:02 |
-| 11 | [MES RAISONS](https://open.spotify.com/track/4LU7DDq0gPHkQF1ORKji9Q) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [TOUT CE QUI BRILLE](https://open.spotify.com/album/1xLmdzwAhBEiWPkotbGcRZ) | 3:00 |
-| 12 | [La suite](https://open.spotify.com/track/0sZy9xmCCfPDBr2A8oM9KT) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [La suite](https://open.spotify.com/album/7HA25SoZlf9CcPCj7JtRcl) | 3:21 |
-| 13 | [Mytho](https://open.spotify.com/track/5XhNXFHAi60G64TB6lr666) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ), [KIK](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY) | [Mytho](https://open.spotify.com/album/1oTCVAoOTojhlOzGskugZ2) | 2:56 |
-| 14 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 |
-| 15 | [L.A.](https://open.spotify.com/track/0WMifeoCiWPDzQ7cglvJdl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [+33](https://open.spotify.com/album/7lxKqKo75kR9sm2GYdmZTr) | 3:51 |
-| 16 | [Carrousel](https://open.spotify.com/track/2JG62WPQxiKgIrlFoZO09R) | [Mohand Baha](https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl) | [Carrousel](https://open.spotify.com/album/66NLpOrD1ZixhLTN0toUPC) | 2:19 |
-| 17 | [Prends le bien](https://open.spotify.com/track/74bLCiY77MDrikVkjQ9avj) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Prends le bien](https://open.spotify.com/album/3JlsN1Zhe5AakJW4WdUaBN) | 2:07 |
-| 18 | [Sans Histoires](https://open.spotify.com/track/0yKiYhGtdEGT5hFkhJ84ys) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Sans Histoires](https://open.spotify.com/album/2yVFI5LJ49IV3UnWToc29i) | 2:45 |
-| 19 | [DON'T LET ME GO](https://open.spotify.com/track/3D74npENmWiyGOYEnaQgEd) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [DON'T LET ME GO](https://open.spotify.com/album/1JohKORtvRNUAmeSYCyCGJ) | 3:39 |
-| 20 | [Couleur Velours](https://open.spotify.com/track/2qsQNVUWZccCT4BjcBTWA2) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd), [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Couleur Velours](https://open.spotify.com/album/1JT57UhhSVXfBG62QBeuvb) | 2:28 |
-| 21 | [TOUS CEUX](https://open.spotify.com/track/7pIARWN4CjFAobfxYqOcgX) | [AMO](https://open.spotify.com/artist/7ymzaplgxOHvLpqgsv0FcO) | [TOUS CEUX](https://open.spotify.com/album/2M3FSKhks3bHfgFOJq54T3) | 3:10 |
+| 2 | [La nuit où](https://open.spotify.com/track/7BQWErX02AdVBgODbUglKI) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [La nuit où](https://open.spotify.com/album/06LTFfZ7cr6yyZbU2a5L7I) | 3:02 |
+| 3 | [Demain](https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 2:27 |
+| 4 | [Les restes de mon passé](https://open.spotify.com/track/1ZBL4zWtHXLC16LBJAHBWm) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:20 |
+| 5 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 |
+| 6 | [La suite](https://open.spotify.com/track/0sZy9xmCCfPDBr2A8oM9KT) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [La suite](https://open.spotify.com/album/7HA25SoZlf9CcPCj7JtRcl) | 3:21 |
+| 7 | [MES RAISONS](https://open.spotify.com/track/4LU7DDq0gPHkQF1ORKji9Q) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [TOUT CE QUI BRILLE](https://open.spotify.com/album/1xLmdzwAhBEiWPkotbGcRZ) | 3:00 |
+| 8 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 |
+| 9 | [Mytho](https://open.spotify.com/track/5XhNXFHAi60G64TB6lr666) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ), [KIK](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY) | [Mytho](https://open.spotify.com/album/1oTCVAoOTojhlOzGskugZ2) | 2:56 |
+| 10 | [L.A.](https://open.spotify.com/track/0WMifeoCiWPDzQ7cglvJdl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [+33](https://open.spotify.com/album/7lxKqKo75kR9sm2GYdmZTr) | 3:51 |
+| 11 | [Carrousel](https://open.spotify.com/track/2JG62WPQxiKgIrlFoZO09R) | [Mohand Baha](https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl) | [Carrousel](https://open.spotify.com/album/66NLpOrD1ZixhLTN0toUPC) | 2:19 |
+| 12 | [DON'T LET ME GO](https://open.spotify.com/track/3D74npENmWiyGOYEnaQgEd) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [DON'T LET ME GO](https://open.spotify.com/album/1JohKORtvRNUAmeSYCyCGJ) | 3:39 |
+| 13 | [Couleur Velours](https://open.spotify.com/track/2qsQNVUWZccCT4BjcBTWA2) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd), [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Couleur Velours](https://open.spotify.com/album/1JT57UhhSVXfBG62QBeuvb) | 2:28 |
+| 14 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 |
+| 15 | [Monde](https://open.spotify.com/track/4zD7GnXyl94mNCbyaNw6xf) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp), [Ryan Koffi](https://open.spotify.com/artist/53qGMn2ruG0oTwyGyTsBUn) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:36 |
+| 16 | [Sans Histoires](https://open.spotify.com/track/0yKiYhGtdEGT5hFkhJ84ys) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Sans Histoires](https://open.spotify.com/album/2yVFI5LJ49IV3UnWToc29i) | 2:45 |
+| 17 | [TOUS CEUX](https://open.spotify.com/track/7pIARWN4CjFAobfxYqOcgX) | [AMO](https://open.spotify.com/artist/7ymzaplgxOHvLpqgsv0FcO) | [TOUS CEUX](https://open.spotify.com/album/2M3FSKhks3bHfgFOJq54T3) | 3:10 |
+| 18 | [Prends le bien](https://open.spotify.com/track/74bLCiY77MDrikVkjQ9avj) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Prends le bien](https://open.spotify.com/album/3JlsN1Zhe5AakJW4WdUaBN) | 2:07 |
+| 19 | [Si ça va](https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 3:04 |
+| 20 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 |
+| 21 | [J'écris](https://open.spotify.com/track/707blFQ6ZTTGSZUQCfdkIj) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [J'écris](https://open.spotify.com/album/0nqsL5Dloqn8mh1mZyOMI5) | 3:02 |
 | 22 | [Mazel](https://open.spotify.com/track/1JQv5PYJLat5Ra2So7vTkI) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [KHEDMA 2](https://open.spotify.com/album/1S3jVlJByB4CzqwoVpaUAI) | 2:29 |
 | 23 | [Toupie](https://open.spotify.com/track/1VzqSvUk73RGYlrppGYAVD) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Toupie](https://open.spotify.com/album/4V0Xs2qQHKwNefb7MpuING) | 2:45 |
 | 24 | [Nouvelle Parisienne](https://open.spotify.com/track/4zapAHuwWQ30FI3iYIMwDF) | [Younsss](https://open.spotify.com/artist/78ZEXPRdY2LFBQW2MAO0Hp) | [Nouvelle Parisienne](https://open.spotify.com/album/4Vzp2WLzJUViQKK0UpRJS2) | 2:42 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 | 39 | [Désaccord](https://open.spotify.com/track/0srZ2zTRUkzbuh4HRJEZA4) | [Shana](https://open.spotify.com/artist/6T5gJDpQypBj9Enps7vQn5) | [Désaccord](https://open.spotify.com/album/2Ac5lEYGIOpyqaDmUYoDGc) | 3:04 |
 | 40 | [Risque](https://open.spotify.com/track/0JAKM5NQrqcgSummZSHf7b) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Tout de suite](https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5) | 2:57 |
 
-Snapshot ID: `ZqwFYAAAAADqN7RA9CJjWKfW7k0Sfejt`
+Snapshot ID: `Zr56YAAAAAD2ChxEm515qrPtCkC6iMHP`

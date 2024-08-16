@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 179779,
       "name": "AYAYAY (feat. Dillom)",
       "url": "https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ"
@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Pass U By",
+        "url": "https://open.spotify.com/album/1GNrcBRDyHm8ryGreISHG8"
+      },
+      "artists": [
+        {
+          "name": "Tamir",
+          "url": "https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209624,
+      "name": "Pass U By",
+      "url": "https://open.spotify.com/track/4WAeKtWuQ1otWjpJE1l19I"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05d4\u05d9\u05d4 \u05dc\u05da \u05d4\u05d9\u05e8\u05d7",
         "url": "https://open.spotify.com/album/0G3nqzymNWJxi2uVEkdMpT"
       },
@@ -244,6 +262,24 @@
       "duration_ms": 228043,
       "name": "\u05d0\u05d7\u05d9\u05dd",
       "url": "https://open.spotify.com/track/55C6c8MWZOh0hujJdokKDX"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d9\u05df \u05dc\u05d0\u05df \u05dc\u05dc\u05db\u05ea",
+        "url": "https://open.spotify.com/album/5b7bOHl6nOoUrY9FRIEtfG"
+      },
+      "artists": [
+        {
+          "name": "Liron Amram",
+          "url": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "\u05d0\u05d9\u05df \u05dc\u05d0\u05df \u05dc\u05dc\u05db\u05ea",
+      "url": "https://open.spotify.com/track/5hANgrBBT7n0LjLb6rnNaJ"
     },
     {
       "album": {
@@ -428,7 +464,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 194800,
       "name": "\u05d1\u05d0\u05e1\u05d4",
       "url": "https://open.spotify.com/track/44lS9cDoF392DsYu4RyXIo"
@@ -446,7 +482,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 132000,
       "name": "\u05d1\u05d0\u05e1\u05d9\u05dd \u05d5\u05d1\u05d9\u05e1\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3MMvOrlq14UPTCtxC2KXGH"
@@ -612,7 +648,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 212093,
       "name": "\u05d2\u05d5\u05e0\u05d1 \u05dc\u05d9 \u05d0\u05d5\u05e9\u05e8",
       "url": "https://open.spotify.com/track/5tzXI1IGozJ2tr2jN17khG"
@@ -727,6 +763,24 @@
     },
     {
       "album": {
+        "name": "\u05d3\u05d0\u05de",
+        "url": "https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169322,
+      "name": "\u05d3\u05d0\u05de",
+      "url": "https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6"
+    },
+    {
+      "album": {
         "name": "\u05d3\u05d1\u05e8\u05d9\u05dd \u05e9\u05db\u05ea\u05d1\u05ea\u05d9 (\u05e9\u05d9\u05e8 \u05dc\u05d6\u05db\u05e8\u05d5 \u05e9\u05dc \u05d0\u05d9\u05ea\u05d9 \u05e9\u05d4\u05dd \u05d6\"\u05dc)",
         "url": "https://open.spotify.com/album/4bt60omFrLrKMWc7VwfXVd"
       },
@@ -738,10 +792,28 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 227352,
       "name": "\u05d3\u05d1\u05e8\u05d9\u05dd \u05e9\u05db\u05ea\u05d1\u05ea\u05d9 - \u05e9\u05d9\u05e8 \u05dc\u05d6\u05db\u05e8\u05d5 \u05e9\u05dc \u05d0\u05d9\u05ea\u05d9 \u05e9\u05d4\u05dd \u05d6\"\u05dc",
       "url": "https://open.spotify.com/track/4i5wSSIGgXZaUmScGkCzIE"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05d5\u05ea\u05d9\u05e8 \u05d0\u05d7\u05e8\u05d9\u05d5 \u05d7\u05d1\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/6voUE5tioKUHVfEe0TV0ax"
+      },
+      "artists": [
+        {
+          "name": "Miri Mesika",
+          "url": "https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "\u05d4\u05d5\u05ea\u05d9\u05e8 \u05d0\u05d7\u05e8\u05d9\u05d5 \u05d7\u05d1\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/2G8zom5ZWoMGGVwWTPpN2V"
     },
     {
       "album": {
@@ -912,7 +984,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 220000,
       "name": "\u05d9\u05d5\u05e6\u05d0\u05ea \u05de\u05d6\u05d4",
       "url": "https://open.spotify.com/track/4xNo1LgWSCyjgK4OsUnLWg"
@@ -1489,6 +1561,28 @@
     },
     {
       "album": {
+        "name": "\u05e0\u05e1",
+        "url": "https://open.spotify.com/album/51FhEWNKJRRxTvNl3IWTlh"
+      },
+      "artists": [
+        {
+          "name": "Amir Sade",
+          "url": "https://open.spotify.com/artist/0WJRb30AqOO17jmpL3s8NN"
+        },
+        {
+          "name": "\u05d3\u05d5\u05d3 \u05d1\u05df \u05d0\u05e8\u05d6\u05d4",
+          "url": "https://open.spotify.com/artist/0zzoB1YCAFamA4SL7VEhxy"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198496,
+      "name": "\u05e0\u05e1",
+      "url": "https://open.spotify.com/track/1QPIWLLdudRB8mVHRvhFzy"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05d5\u05d3 \u05d0\u05d7\u05d3",
         "url": "https://open.spotify.com/album/5YLdnAImxgjXXAzccrP7kf"
       },
@@ -1540,7 +1634,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 166518,
       "name": "\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd \u05d3\u05dd",
       "url": "https://open.spotify.com/track/4SI4lBGwt4tiRmOtrJKKbk"
@@ -1566,6 +1660,28 @@
       "duration_ms": 237588,
       "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05de\u05e8\u05d2\u05d9\u05e9 \u05d7\u05d3\u05e9",
       "url": "https://open.spotify.com/track/0Kx1a50zYjkZJKx3lpR2ln"
+    },
+    {
+      "album": {
+        "name": "\u05e2\u05de\u05de\u05d9\u05d4",
+        "url": "https://open.spotify.com/album/1SJhgp2pQiNBEKpMpyb7Rt"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d7\u05e8 \u05d8\u05d1\u05d5\u05da",
+          "url": "https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC"
+        },
+        {
+          "name": "Margalit Tzan'ani",
+          "url": "https://open.spotify.com/artist/2l6M7GaS9x3rZOX6nDX3CM"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "\u05e2\u05de\u05de\u05d9\u05d4",
+      "url": "https://open.spotify.com/track/52BDVbcJ37rWktwgdX4Asl"
     },
     {
       "album": {

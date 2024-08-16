@@ -1,6 +1,6 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0 \ud83d\ude44 ",
-  "num_followers": 2749129,
+  "num_followers": 2749031,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
@@ -395,7 +395,7 @@
     {
       "added_at": "2024-08-08 21:46:08",
       "album": {
-        "name": "Stoney (Deluxe)",
+        "name": "Stoney - Deluxe",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
       "artists": [
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-08 21:46:08",
       "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
-    },
-    {
-      "added_at": "2024-08-08 21:46:08",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 205275,
       "name": "Over",
       "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
+    },
+    {
+      "added_at": "2024-08-08 21:46:08",
+      "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": "2024-08-08 21:46:08",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-08-08 21:46:08",
       "album": {
+        "name": "S.O.L.A.R.",
+        "url": "https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 188839,
+      "name": "Best Thing",
+      "url": "https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE"
+    },
+    {
+      "added_at": "2024-08-08 21:46:08",
+      "album": {
         "name": "FORWARD",
         "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2024-08-08 21:46:08",
       "album": {
-        "name": "S.O.L.A.R.",
-        "url": "https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87"
-      },
-      "artists": [
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 188839,
-      "name": "Best Thing",
-      "url": "https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE"
-    },
-    {
-      "added_at": "2024-08-08 21:46:08",
-      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 206013,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
+    },
+    {
+      "added_at": "2024-08-08 21:46:08",
+      "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 182439,
+      "name": "Lie Again",
+      "url": "https://open.spotify.com/track/2OTRqsDes7OYRRwbF2JXsa"
     },
     {
       "added_at": "2024-08-08 21:46:08",
@@ -1099,22 +1115,6 @@
       "duration_ms": 180023,
       "name": "Songs About U",
       "url": "https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5"
-    },
-    {
-      "added_at": "2024-08-08 21:46:08",
-      "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 182439,
-      "name": "Lie Again",
-      "url": "https://open.spotify.com/track/2OTRqsDes7OYRRwbF2JXsa"
     },
     {
       "added_at": "2024-08-08 21:46:08",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-08-08 21:46:08",
       "album": {
-        "name": "Adore You",
-        "url": "https://open.spotify.com/album/2wqfHaT71DWVCdCEGYhz00"
-      },
-      "artists": [
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 152896,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/40fckfhRuwuo6Y9hDPSE3L"
-    },
-    {
-      "added_at": "2024-08-08 21:46:08",
-      "album": {
         "name": "Please Do Not Lean",
         "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+    },
+    {
+      "added_at": "2024-08-08 21:46:08",
+      "album": {
+        "name": "Adore You",
+        "url": "https://open.spotify.com/album/2wqfHaT71DWVCdCEGYhz00"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 152896,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/40fckfhRuwuo6Y9hDPSE3L"
     },
     {
       "added_at": "2024-08-08 21:46:08",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-08-08 21:46:08",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
-    },
-    {
-      "added_at": "2024-08-08 21:46:08",
-      "album": {
         "name": "Crystal Tears",
         "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 239384,
       "name": "Crystal Tears",
       "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2024-08-08 21:46:08",
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
     },
     {
       "added_at": "2024-08-08 21:46:08",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-08-08 21:46:08",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2024-08-08 21:46:08",
@@ -1563,6 +1563,26 @@
       "duration_ms": 213956,
       "name": "Bleeding Me Dry - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D"
+    },
+    {
+      "added_at": "2024-08-08 21:46:08",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/2cVJ0gO2QyBC5o2A1DVFuk"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/1K1b1rPjbbam1NXUPg4VrK"
     },
     {
       "added_at": "2024-08-08 21:46:08",
@@ -1619,26 +1639,6 @@
       "duration_ms": 211204,
       "name": "This Way - From SUPERFLY - Original Soundtrack",
       "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
-    },
-    {
-      "added_at": "2024-08-08 21:46:08",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/2cVJ0gO2QyBC5o2A1DVFuk"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 200880,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/1K1b1rPjbbam1NXUPg4VrK"
     },
     {
       "added_at": "2024-08-08 21:46:08",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 
 ### [Disney Halloween](https://open.spotify.com/playlist/37i9dQZF1DWYa1w6FMMTnG)
 
-> Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.
+> Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,721 likes - 107 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,745 likes - 107 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 | 106 | [The Suspension Is Killing Me](https://open.spotify.com/track/4pb4UbeCqZx6lkdIsgmds4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Toy Story of Terror!](https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf) | 0:44 |
 | 107 | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/track/2m4RlNsMUbxChac9kX1Cu2) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/album/2OpuXAttHxigr3ChNOzN3U) | 2:40 |
 
-Snapshot ID: `ZqxZwAAAAAARR5rxUg1RCecrJFwVzgrq`
+Snapshot ID: `Zr5uDgAAAADNly2f6xyxPLeNMFs0NQD6`

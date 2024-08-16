@@ -4,7 +4,7 @@
 
 > L'été 2024 sera chaud 🌞
 
-280 songs - 14 hr 8 min
+281 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Mélanine](https://open.spotify.com/track/0t7d6wbJLS2A31yqlHFew7) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 3:01 | 2024-07-29 |  |
 | [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 | 2022-09-07 | 2023-04-28 |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-06-14 |  |
+| [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2024-08-15 |  |
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-06-06 | 2024-06-15 |
 | [Nouvelles](https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:59 | 2023-04-27 | 2023-05-11 |
 | [Oh qu'elle est belle](https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh qu'elle est belle](https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5) | 3:40 | 2024-06-06 | 2024-06-19 |
@@ -278,7 +279,7 @@
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-03-08 | 2024-07-16 |
 | [Whatever \(with Ava Max\) \- Acoustic](https://open.spotify.com/track/2ItCGswdKXWP6fF5FZFFKe) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Whatever \(The Remixes\)](https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s) | 3:45 | 2024-03-29 | 2024-04-05 |
 | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw) | 2:49 | 2023-06-29 | 2024-03-09 |
-| [Where Do I Go \- DJ Antoine & Mad Mark 2k24 Mix](https://open.spotify.com/track/0qDiKOEdW1Yc6tmYTIhzBv) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Mad Mark](https://open.spotify.com/artist/3yBEHAINorE3uSvsCmyCwQ), [INFINITY](https://open.spotify.com/artist/5FRJL1Agthaj5R9gwbOPvw) | [Where Do I Go \(DJ Antoine & Mad Mark 2k24 Mix\)](https://open.spotify.com/album/3bSgdpBX0uV9OkEKysp8Ha) | 2:25 | 2024-07-29 |  |
+| [Where Do I Go \- DJ Antoine & Mad Mark 2k24 Mix](https://open.spotify.com/track/0qDiKOEdW1Yc6tmYTIhzBv) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Mad Mark](https://open.spotify.com/artist/3yBEHAINorE3uSvsCmyCwQ), [INFINITY](https://open.spotify.com/artist/5FRJL1Agthaj5R9gwbOPvw) | [Where Do I Go \(DJ Antoine & Mad Mark 2k24 Mix\)](https://open.spotify.com/album/3bSgdpBX0uV9OkEKysp8Ha) | 2:25 | 2024-07-29 | 2024-08-16 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-19 | 2023-07-14 |
 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-03-28 | 2023-06-30 |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-07-13 | 2023-07-25 |

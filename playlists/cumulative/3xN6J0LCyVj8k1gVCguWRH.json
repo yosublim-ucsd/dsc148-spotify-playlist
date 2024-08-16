@@ -16974,7 +16974,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 170000,
       "name": "Don't Trip",
       "url": "https://open.spotify.com/track/7DaEQTp3aHWqoXPG5MzdZl"
@@ -32952,7 +32952,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 198373,
       "name": "Just Booked",
       "url": "https://open.spotify.com/track/7IKTiLzNRkGdmBJeTpbtci"
@@ -66254,6 +66254,24 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "album": {
+        "name": "Vampiro de Sangre Ajena",
+        "url": "https://open.spotify.com/album/4NuFeWHdccvce1BYFceSjh"
+      },
+      "artists": [
+        {
+          "name": "Mia Catalina",
+          "url": "https://open.spotify.com/artist/2lZWcBs83PIftGNK5jn176"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208390,
+      "name": "Vampiro de Sangre Ajena",
+      "url": "https://open.spotify.com/track/7N1pt1vCkErPegRLWG6smr"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1438333,
+  "num_followers": 1438344,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 268280,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Peach Fuzz",
-        "url": "https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Peach Fuzz",
-      "url": "https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 216781,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "Peach Fuzz",
+        "url": "https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Peach Fuzz",
+      "url": "https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 254245,
-      "name": "A Random Act Of Kindness",
-      "url": "https://open.spotify.com/track/5GepgBdAV6eI3RoijuHZua"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "Extralife",
         "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 285346,
       "name": "Futures",
       "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 254245,
+      "name": "A Random Act Of Kindness",
+      "url": "https://open.spotify.com/track/5GepgBdAV6eI3RoijuHZua"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -1403,22 +1403,18 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Getting It Right",
-        "url": "https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj"
+        "name": "Backpush",
+        "url": "https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj"
       },
       "artists": [
         {
-          "name": "Caitlin Rose",
-          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
-        },
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "Diamond Thug",
+          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
         }
       ],
-      "duration_ms": 170280,
-      "name": "Getting It Right",
-      "url": "https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8"
+      "duration_ms": 182152,
+      "name": "Backpush",
+      "url": "https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -1439,18 +1435,22 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Backpush",
-        "url": "https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj"
+        "name": "Getting It Right",
+        "url": "https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj"
       },
       "artists": [
         {
-          "name": "Diamond Thug",
-          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
+          "name": "Caitlin Rose",
+          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
+        },
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 182152,
-      "name": "Backpush",
-      "url": "https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF"
+      "duration_ms": 170280,
+      "name": "Getting It Right",
+      "url": "https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Half Moon Light",
-        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "Taking Me Back",
         "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 276087,
       "name": "Taking Me Back (Gently)",
       "url": "https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "Half Moon Light",
+        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "O' Be Joyful",
-        "url": "https://open.spotify.com/album/6YEijTlqiq6aidUCEGHysk"
-      },
-      "artists": [
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "O' Be Joyful",
-      "url": "https://open.spotify.com/track/2BH76TIFmTWXKnQxGlwfrG"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "Disposable",
         "url": "https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 217461,
       "name": "Disposable",
       "url": "https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "O' Be Joyful",
+        "url": "https://open.spotify.com/album/6YEijTlqiq6aidUCEGHysk"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "O' Be Joyful",
+      "url": "https://open.spotify.com/track/2BH76TIFmTWXKnQxGlwfrG"
     },
     {
       "added_at": "2024-07-05 19:52:41",

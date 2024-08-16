@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3895091,
+  "num_followers": 3895131,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "The Kind of Love",
-        "url": "https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ"
-      },
-      "artists": [
-        {
-          "name": "Luca",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "The Kind of Love",
-      "url": "https://open.spotify.com/track/7CyStHLAihLyfUX738UElG"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Into The Bloom",
         "url": "https://open.spotify.com/album/6mekDyVlyHqCPacthWRtP5"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 160887,
       "name": "Into The Bloom",
       "url": "https://open.spotify.com/track/5CGwVoSCM3jHWpZi4u6Jgc"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "The Kind of Love",
+        "url": "https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ"
+      },
+      "artists": [
+        {
+          "name": "Luca",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "The Kind of Love",
+      "url": "https://open.spotify.com/track/7CyStHLAihLyfUX738UElG"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -847,6 +847,38 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 224140,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Call my name",
+        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 174803,
+      "name": "Call my name",
+      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
       },
@@ -871,18 +903,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Call my name",
-        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
         }
       ],
-      "duration_ms": 174803,
-      "name": "Call my name",
-      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
+      "duration_ms": 361080,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -903,22 +939,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 224140,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/0UBMDH6SZpQCvGq42yjRtp"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 165952,
       "name": "Reason",
       "url": "https://open.spotify.com/track/6D8hNLZL3lz5Cp392mjrlG"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 361080,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 124710,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "snowfall",
         "url": "https://open.spotify.com/album/77vLEdWiuJQt9oyPG84csK"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 141785,
       "name": "snowfall",
       "url": "https://open.spotify.com/track/2e3KEsdhY5S2RDl593dbOE"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 124710,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/6686LB7eTGiHwFtOU0IkSC"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        },
+        {
+          "name": "Bye Ocean",
+          "url": "https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x"
+        }
+      ],
+      "duration_ms": 160256,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Double Reflections",
         "url": "https://open.spotify.com/album/4a4ko7jDduX8nERKBP9o28"
       },
@@ -1195,6 +1215,26 @@
       "duration_ms": 256500,
       "name": "Double Reflections",
       "url": "https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Fresh Air",
+        "url": "https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu"
+      },
+      "artists": [
+        {
+          "name": "Iaco",
+          "url": "https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg"
+        },
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Fresh Air",
+      "url": "https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1219,46 +1259,6 @@
       "duration_ms": 182444,
       "name": "Lost In The Melody",
       "url": "https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/6686LB7eTGiHwFtOU0IkSC"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        },
-        {
-          "name": "Bye Ocean",
-          "url": "https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x"
-        }
-      ],
-      "duration_ms": 160256,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Fresh Air",
-        "url": "https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu"
-      },
-      "artists": [
-        {
-          "name": "Iaco",
-          "url": "https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg"
-        },
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Fresh Air",
-      "url": "https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 199682,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Gleams",
         "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 293133,
       "name": "Gleams",
       "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 199682,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Heartburn",
         "url": "https://open.spotify.com/album/6xjTB9H3uNfy75leYV1NYY"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 221707,
       "name": "Heartburn",
       "url": "https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Devices / Green",
+        "url": "https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 310560,
+      "name": "Devices",
+      "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "LIFELINE",
         "url": "https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 206017,
       "name": "LIFELINE",
       "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Devices / Green",
-        "url": "https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 310560,
-      "name": "Devices",
-      "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
     },
     {
       "added_at": "2024-08-09 04:00:00",

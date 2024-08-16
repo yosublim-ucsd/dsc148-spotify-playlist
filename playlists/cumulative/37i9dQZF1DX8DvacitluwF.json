@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=nF-fMVhOQiuvVIe8SYx7WQ>Elaine</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=lju9s15lTYyoBzioK5ACXQ>Manana</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 209142,
       "name": "24/7",
       "url": "https://open.spotify.com/track/5y93qwHuziDlh2cD9Cnk5S"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 225226,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/4ijh3sciORErcse7mAkCYT"
@@ -442,6 +442,24 @@
       "duration_ms": 310000,
       "name": "Back 2 U",
       "url": "https://open.spotify.com/track/45GqiF1tr66MeXBeJztwdX"
+    },
+    {
+      "album": {
+        "name": "Bad Side",
+        "url": "https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "Bad Side",
+      "url": "https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r"
     },
     {
       "album": {
@@ -814,7 +832,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 202597,
       "name": "Buy Me Love",
       "url": "https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW"
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 160610,
       "name": "Failing Together",
       "url": "https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA"
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 148750,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 149437,
       "name": "Jalimane",
       "url": "https://open.spotify.com/track/6WdTGFsM5cDeIlau9LT7ui"
@@ -3644,7 +3662,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 234582,
       "name": "New Lamp",
       "url": "https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP"
@@ -4491,6 +4509,28 @@
     },
     {
       "album": {
+        "name": "Our Broken Hearts Mend",
+        "url": "https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "See What I See",
+      "url": "https://open.spotify.com/track/4rHHlFa6WXLZo2XEDQbeZW"
+    },
+    {
+      "album": {
         "name": "She'll Be OK",
         "url": "https://open.spotify.com/album/04XpFnF73mrCeMAyjqFTYg"
       },
@@ -4618,7 +4658,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 192000,
       "name": "Signs",
       "url": "https://open.spotify.com/track/0yHNLPBhDeJrFDPBhG2r77"
@@ -4964,6 +5004,24 @@
       "duration_ms": 111229,
       "name": "sweeeet",
       "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
+    },
+    {
+      "album": {
+        "name": "Sweep It Up",
+        "url": "https://open.spotify.com/album/5VgyQ6VrRVu3XmDlVRr7hY"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197958,
+      "name": "Sweep It Up",
+      "url": "https://open.spotify.com/track/2zrR38kgXUVkMDaaIYqZ3t"
     },
     {
       "album": {

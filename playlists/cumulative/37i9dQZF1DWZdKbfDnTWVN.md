@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T?si=NjKdf\-zpT96sXoM\_EXjuZw">Elsy Wameyo</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=b6B1ehSTSAygcrw\_hMd7Hw">BURUKLYN BOYZ</a>
 
-259 songs - 13 hr 22 min
+260 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [DOPAMINE](https://open.spotify.com/track/2CcplKJW7GB9npNNa1AYt7) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [DOPAMINE](https://open.spotify.com/album/0MkME8iQBoFjfG8ZabICmY) | 3:00 | 2024-07-25 |  |
 | [Dopamine](https://open.spotify.com/track/3aSOJiHOcx5zsyUcr1Bg6J) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Dopamine](https://open.spotify.com/album/0JVTNNL0MEpmriiOGcySqk) | 3:33 | 2024-06-06 | 2024-06-14 |
 | [Dracula](https://open.spotify.com/track/0zv6iIwVr3J9SftqWPQpJn) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba) | [Dracula](https://open.spotify.com/album/6xy2Lzt38yRXKgmbYR1ykk) | 3:27 | 2023-11-10 |  |
-| [Dream](https://open.spotify.com/track/467ctHllRGbSRoAGrVVxtN) | [4Mr Frank White](https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6), [BigMan](https://open.spotify.com/artist/0RUZcsYqLfJvpy8OPVrkJp), [Sabi Wu](https://open.spotify.com/artist/0Lb6QZKrLMSzlcljXexbtB) | [MZIZA KWA DIMANGA](https://open.spotify.com/album/5CsOKEM6jMlGIlLcfz2iBh) | 2:55 | 2024-04-11 |  |
+| [Dream](https://open.spotify.com/track/467ctHllRGbSRoAGrVVxtN) | [4Mr Frank White](https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6), [BigMan](https://open.spotify.com/artist/0RUZcsYqLfJvpy8OPVrkJp), [Sabi Wu](https://open.spotify.com/artist/0Lb6QZKrLMSzlcljXexbtB) | [MZIZA KWA DIMANGA](https://open.spotify.com/album/5CsOKEM6jMlGIlLcfz2iBh) | 2:55 | 2024-04-11 | 2024-08-16 |
 | [EASTSIDE GVNNA](https://open.spotify.com/track/7jPCujGKU8RWRyDh60Iull) | [Na$EER](https://open.spotify.com/artist/1zLpeIIskZiOUjHUtUi13r) | [THIS YEAR NEXT YEAR](https://open.spotify.com/album/4yDcMSzMAHd5H5hXDAaCnM) | 2:35 | 2023-11-10 | 2024-01-27 |
 | [F Tz Rappers 1](https://open.spotify.com/track/3mQcfTWi1Y19wLLgYnW5EU) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [F Tz Rappers 1](https://open.spotify.com/album/6iX9AgvygO9yt0WzQMBbUF) | 2:55 | 2023-09-07 | 2024-03-16 |
 | [Feelin' It](https://open.spotify.com/track/1KqtoMNOZbvsiB0K7ZWiHp) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Feelin' It](https://open.spotify.com/album/1tYGnwCO1uFu49hkYKK2nc) | 2:54 | 2022-06-16 | 2023-05-06 |
@@ -116,6 +116,7 @@
 | [Kuna Siku Youths Wataungana](https://open.spotify.com/track/3btdpyVBUk4rcTFZ0t2HpT) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Scar Mkadinali](https://open.spotify.com/artist/3RCoJbqdoT2wavPdNCob2T), [SirBwoy](https://open.spotify.com/artist/2YGz5XZZOcYA9TjDacv2aC) | [Haitaki Hasira](https://open.spotify.com/album/4XYUisoUrAzj5prx4rtIso) | 3:56 | 2024-06-27 |  |
 | [Kuwa Strong](https://open.spotify.com/track/0QM3gpqToq417bchLwu85C) | [Kahu$h](https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr) | [Kuwa Strong](https://open.spotify.com/album/2QpOPczp4woACSct0s87Gv) | 2:58 | 2024-01-26 |  |
 | [KUWALEMEA](https://open.spotify.com/track/7pxhYk6mLAUEaOeM89fofT) | [Mr.Tee](https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw), [MUNGA MKADINALI](https://open.spotify.com/artist/39m6eCI1C0YX4XeOEewMGm), [SOSATHEPRODIGY](https://open.spotify.com/artist/0W8SDXPes9KDEQLEO198Wm) | [KUWALEMEA](https://open.spotify.com/album/3zYa672gvfFg5JwkkwH8rr) | 2:43 | 2024-08-08 |  |
+| [Kwao](https://open.spotify.com/track/4oopCgSfLDpfMMFaIRKcVN) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Kwao](https://open.spotify.com/album/4GOcQBR1NzPrSGTziFWstk) | 3:25 | 2024-08-16 |  |
 | [Last Air Bender](https://open.spotify.com/track/4xIFdWcoMb9MqLYpvS8uCy) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 2:23 | 2022-05-19 | 2023-01-20 |
 | [LAST AIR BENDER](https://open.spotify.com/track/3Tkrl8e0p4WvXCq31ITeXw) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:30 | 2022-05-19 | 2023-01-19 |
 | [Legit\(Wakuu\)](https://open.spotify.com/track/0kJfgiUBkxwlRtLGnjfbOA) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Legit\(Wakuu\)](https://open.spotify.com/album/47eEMiMa40vDxXYjCeq4se) | 5:22 | 2023-10-12 | 2023-12-01 |

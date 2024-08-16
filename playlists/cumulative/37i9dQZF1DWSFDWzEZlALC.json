@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Berq",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 168629,
       "name": "00,00KG",
       "url": "https://open.spotify.com/track/6NARWPLA9xjUZ4oXIVAKOX"
@@ -236,6 +236,24 @@
       "duration_ms": 162962,
       "name": "21 N\u00e4chte wach",
       "url": "https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3"
+    },
+    {
+      "album": {
+        "name": "24 Grad im Schatten",
+        "url": "https://open.spotify.com/album/70JGJMnQ1IG202q1HwgHwx"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204405,
+      "name": "24 Grad im Schatten",
+      "url": "https://open.spotify.com/track/4eQoU8H2gG15HN2zxkwJhK"
     },
     {
       "album": {
@@ -500,7 +518,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 181913,
       "name": "8 stufen",
       "url": "https://open.spotify.com/track/7dDTdZHDyxGhyjjlvYHebZ"
@@ -522,6 +540,24 @@
       "duration_ms": 139981,
       "name": "80qm",
       "url": "https://open.spotify.com/track/13Ozua7wPk2dU3NIIgJJJo"
+    },
+    {
+      "album": {
+        "name": "9 To 5",
+        "url": "https://open.spotify.com/album/52CcrM08IJ53pgktQMagvQ"
+      },
+      "artists": [
+        {
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "9 To 5",
+      "url": "https://open.spotify.com/track/7HRHKWjJ2JOfygbeUtogCs"
     },
     {
       "album": {
@@ -1222,7 +1258,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 164146,
       "name": "autodach",
       "url": "https://open.spotify.com/track/77X6HRNZcjcmQS6AY6PS5r"
@@ -1822,7 +1858,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 256225,
       "name": "Blindflug",
       "url": "https://open.spotify.com/track/4YQwcCMjhGtYxaAva18c4w"
@@ -2028,6 +2064,28 @@
       "duration_ms": 151363,
       "name": "bucketlist",
       "url": "https://open.spotify.com/track/7HjJK7TngZk3Ervm9JCVdd"
+    },
+    {
+      "album": {
+        "name": "BYE X3 (MIT JEREMIAS)",
+        "url": "https://open.spotify.com/album/5YTiunGRpgmom2Xr1PYtel"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130409,
+      "name": "BYE X3 (MIT JEREMIAS)",
+      "url": "https://open.spotify.com/track/0ULpry2sJKjbSzabrh0yL3"
     },
     {
       "album": {
@@ -2450,7 +2508,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 139632,
       "name": "dede don don dede don dede don",
       "url": "https://open.spotify.com/track/50pM4sNi8kIAek5pzfE4xh"
@@ -2584,7 +2642,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 162045,
       "name": "diagnose 41.2",
       "url": "https://open.spotify.com/track/0e5MlmjzbjQbGuymTBeR7d"
@@ -3937,6 +3995,24 @@
     },
     {
       "album": {
+        "name": "fallenf\u00fcrimmer",
+        "url": "https://open.spotify.com/album/4vYKB3ayz4XtODI5OftzmG"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171049,
+      "name": "fallenf\u00fcrimmer",
+      "url": "https://open.spotify.com/track/2HaWqgIPYq3TJZOqCpT4dv"
+    },
+    {
+      "album": {
         "name": "Fang",
         "url": "https://open.spotify.com/album/4DErDX71xvkmCr2QJdk33d"
       },
@@ -4270,7 +4346,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 158002,
       "name": "frei (wo kein Bus mehr f\u00e4hrt)",
       "url": "https://open.spotify.com/track/5ioIt0oqZVHezZHcti2pc8"
@@ -5257,6 +5333,32 @@
     },
     {
       "album": {
+        "name": "hausnummer_16_v7",
+        "url": "https://open.spotify.com/album/4ng50O2sOGLOaxNPJexXGo"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141077,
+      "name": "hausnummer_16_v7",
+      "url": "https://open.spotify.com/track/4ZYojNQGIOdIzhuiKH2jCq"
+    },
+    {
+      "album": {
         "name": "hdl",
         "url": "https://open.spotify.com/album/1Yn1NgolpaCIAJFbuU8dZh"
       },
@@ -5809,6 +5911,24 @@
     },
     {
       "album": {
+        "name": "Ich trage Samt",
+        "url": "https://open.spotify.com/album/5wHD5ao5biGk9MuBuSVl8p"
+      },
+      "artists": [
+        {
+          "name": "piya",
+          "url": "https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162887,
+      "name": "Ich trage Samt",
+      "url": "https://open.spotify.com/track/5PXzqB5i6nroTtLJLy9dTr"
+    },
+    {
+      "album": {
         "name": "Ich Widerstehe",
         "url": "https://open.spotify.com/album/7BzCSY2zOVDmYQaQYSiN9C"
       },
@@ -6314,7 +6434,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 180526,
       "name": "Juli",
       "url": "https://open.spotify.com/track/7ATT3NKq4loDIZnpMvUK8S"
@@ -6744,6 +6864,24 @@
       "duration_ms": 163702,
       "name": "kenn ich auch",
       "url": "https://open.spotify.com/track/4R612vH0xIrZS89mPpX6hp"
+    },
+    {
+      "album": {
+        "name": "Kind",
+        "url": "https://open.spotify.com/album/5trcQO9w0S8auaknT2zFTI"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "Kind",
+      "url": "https://open.spotify.com/track/2ijN6TEWfzlyHK8fbRvbcx"
     },
     {
       "album": {
@@ -7340,7 +7478,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 162669,
       "name": "leben lang",
       "url": "https://open.spotify.com/track/7iSKTC8Bby6LbqVJXGfFly"
@@ -7362,7 +7500,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 143722,
       "name": "Leergetanzt",
       "url": "https://open.spotify.com/track/19XTfACt5ydlm3pF2g0F7h"
@@ -9985,6 +10123,24 @@
     },
     {
       "album": {
+        "name": "rohbeton",
+        "url": "https://open.spotify.com/album/609CS2jCvMY64FiiqiAGgd"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "rohbeton",
+      "url": "https://open.spotify.com/track/0U7dAKXYI6RMd4D1RuXdyw"
+    },
+    {
+      "album": {
         "name": "rosa rugosa",
         "url": "https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08"
       },
@@ -11083,6 +11239,24 @@
     },
     {
       "album": {
+        "name": "SOMMER MEINES LEBENS",
+        "url": "https://open.spotify.com/album/3w6SwmSkS2TApsASIKk3ls"
+      },
+      "artists": [
+        {
+          "name": "CAMO23",
+          "url": "https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108355,
+      "name": "SOMMER MEINES LEBENS",
+      "url": "https://open.spotify.com/track/3cX6tTqVJhjb5UR8TK5LTQ"
+    },
+    {
+      "album": {
         "name": "Sommer Mit Dir",
         "url": "https://open.spotify.com/album/0xkHpsxEoDhgHAoWUuoYyZ"
       },
@@ -11448,6 +11622,24 @@
       "duration_ms": 176013,
       "name": "Sterne Sehen",
       "url": "https://open.spotify.com/track/4vNMyM0fSjooHCBFOH0q8d"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7fDHX5PvCaeZd9RYdhwB25"
+      },
+      "artists": [
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136482,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1Vp0bkf6uEF72RMiPdsdn3"
     },
     {
       "album": {
@@ -12219,6 +12411,24 @@
     },
     {
       "album": {
+        "name": "Sichtrennen, Vergessen, Vergeben",
+        "url": "https://open.spotify.com/album/383NcF3nA2mYnCkpo54aP6"
+      },
+      "artists": [
+        {
+          "name": "Ronja",
+          "url": "https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217189,
+      "name": "Unser Outro",
+      "url": "https://open.spotify.com/track/2vNejHEBVOZZgWlpSGvney"
+    },
+    {
+      "album": {
         "name": "Unsere Stadt",
         "url": "https://open.spotify.com/album/2swQqkbjqMKNi0LyEm1ZS6"
       },
@@ -12397,6 +12607,32 @@
     },
     {
       "album": {
+        "name": "Verlieren in der Nacht",
+        "url": "https://open.spotify.com/album/5LI3dKMm96a28Kw4mrVuaN"
+      },
+      "artists": [
+        {
+          "name": "YRRRE",
+          "url": "https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC"
+        },
+        {
+          "name": "Lugatti",
+          "url": "https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg"
+        },
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "Verlieren in der Nacht",
+      "url": "https://open.spotify.com/track/0yXDlX0HomKLejRtKlW1wQ"
+    },
+    {
+      "album": {
         "name": "vermiss nicht mehr",
         "url": "https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ"
       },
@@ -12520,7 +12756,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 149217,
       "name": "Vielleicht",
       "url": "https://open.spotify.com/track/1aZjtwIU9TmxBtzS2ZL0C9"
@@ -13464,7 +13700,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 215309,
       "name": "Wilde Herzen",
       "url": "https://open.spotify.com/track/0JOBAZ4sdpXapQ8g35rMTh"

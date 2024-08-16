@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 548117,
+  "num_followers": 548202,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAABRBPnmWvALsnlFOgRPoFo/",
+  "snapshot_id": "ZrvzgAAAAAAtZsLOQ8fqcREm0YRckkoO",
   "tracks": [
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Capitalist",
-        "url": "https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr"
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/7m0JmDshYPjYJAb1C4aPdH"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 203813,
-      "name": "The Pride",
-      "url": "https://open.spotify.com/track/4HQAeEIplslteReNxE8jFW"
+      "duration_ms": 223766,
+      "name": "Battle Born",
+      "url": "https://open.spotify.com/track/07rwiVsch7a9DhwnX1eFrT"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
-        "url": "https://open.spotify.com/album/7m0JmDshYPjYJAb1C4aPdH"
+        "name": "American Capitalist",
+        "url": "https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 223766,
-      "name": "Battle Born",
-      "url": "https://open.spotify.com/track/07rwiVsch7a9DhwnX1eFrT"
+      "duration_ms": 203813,
+      "name": "The Pride",
+      "url": "https://open.spotify.com/track/4HQAeEIplslteReNxE8jFW"
     },
     {
       "added_at": null,

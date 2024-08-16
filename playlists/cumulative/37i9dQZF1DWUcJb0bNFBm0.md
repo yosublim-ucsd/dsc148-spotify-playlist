@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover:  Hitsujibungaku\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover:  Jirapah\)
 
-110 songs - 7 hr 59 min
+113 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cats, Cats and Cats Again](https://open.spotify.com/track/20XKgs3K7NhhmLloOYc1Rb) | [Cosmic Child](https://open.spotify.com/artist/0AbaYCVaRtwCSxFuRCZHjr) | [Blue](https://open.spotify.com/album/5hWisNpBSw9AGfbDL7bZNf) | 4:58 | 2024-06-27 |  |
 | [Chasing Time](https://open.spotify.com/track/2BV6kBmNvphHboUgcDZhRP) | [Dodo Museum](https://open.spotify.com/artist/0hImZdHwKiM7ftmeGUNQwX) | [Chasing Time](https://open.spotify.com/album/6ZzBZpjCqmMm7PBMtrPvgG) | 3:14 | 2024-06-27 |  |
 | [Counting the Days](https://open.spotify.com/track/33Dyqa1eiiiQbpnBALSdwf) | [spacedog spacecat](https://open.spotify.com/artist/1A44P1fBFCagfLtDp7MT0O) | [Counting the Days](https://open.spotify.com/album/5g2DGU2fA5y0VH2h8Len2S) | 3:10 | 2024-06-27 |  |
+| [Cul\-de\-sac](https://open.spotify.com/track/73EBtIHPOEjpOGjjyU5jCw) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw), [Henry Foundation](https://open.spotify.com/artist/4aYOEr2GSLK6mQOJnsVaIy) | [Cul\-de\-sac](https://open.spotify.com/album/2mxeaxiEB6S3bd7S3yW6pJ) | 3:09 | 2024-08-15 |  |
 | [Dari Pinggiran](https://open.spotify.com/track/3UNttJlYxUCXS1IzBzn77x) | [Bayangan](https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI) | [Dari Pinggiran](https://open.spotify.com/album/2XnOsx99FtOrDBxyFfNqdh) | 6:43 | 2024-06-27 |  |
 | [Dead End](https://open.spotify.com/track/5LN5ZQOFnWCSD7iz1dfzcG) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ) | [Dead End](https://open.spotify.com/album/1J3zpNBNUPyMdmQexmQJq2) | 4:53 | 2024-06-27 | 2024-08-09 |
 | [Divine Light](https://open.spotify.com/track/689CnhpaozpUpdCOfbSHCA) | [Dive Collate](https://open.spotify.com/artist/5lanIOAjhX1VTXe35ygUAf) | [Divine Light](https://open.spotify.com/album/3BTna0qdWfMHAXSW946ZzI) | 6:07 | 2024-06-27 |  |
@@ -90,6 +91,7 @@
 | [Runaway](https://open.spotify.com/track/6izvABDCV72LltDtObbvDw) | [SHIMMER SHRIMPMER](https://open.spotify.com/artist/5B7i15EPohPeNKNVLVjiaQ) | [Runaway](https://open.spotify.com/album/03UecZcOqMePoExqhAMZoH) | 4:40 | 2024-06-27 |  |
 | [Sad,Infinite And Dazed](https://open.spotify.com/track/4xJFWWfLJqGTezOA7neJhh) | [臥軌的火車 \(Railway Suicide Train\)](https://open.spotify.com/artist/5tEmnAxh19PkLJ5m8d8ATT) | [餘波](https://open.spotify.com/album/5IPiwxiTbZGlBmPvNaa8WU) | 4:50 | 2024-06-27 |  |
 | [Sent Away](https://open.spotify.com/track/6wJfypJ9DIlIFjPyc3tGAj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Sent Away](https://open.spotify.com/album/7M0krbTMzfkOJCMnabZwBL) | 6:00 | 2024-06-27 |  |
+| [Sesak](https://open.spotify.com/track/3x90drPC5kO0bprOfsQ5YR) | [Jirapah](https://open.spotify.com/artist/1ddNHmVJlB4hNba6tamgQG) | [Sesak](https://open.spotify.com/album/37IuuXyORVL5LmEfh1b67V) | 2:53 | 2024-08-15 |  |
 | [Shades of Blue](https://open.spotify.com/track/1DGh1bvZBWkZpXrfEGXMed) | [Rakua](https://open.spotify.com/artist/3c3nzxDoR0ZcVrBnpv8Wqn) | [Everything Faded Into Mist](https://open.spotify.com/album/6p86GPGo6YPu96F5TnoE1Z) | 4:26 | 2024-06-27 |  |
 | [Shinigami\(死神\)](https://open.spotify.com/track/7z6Iwx4sYHmDif3f5zi1Cd) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Shinigami\(死神\)](https://open.spotify.com/album/3dQhvpUmf07LR38HG5jFo4) | 4:20 | 2024-06-27 |  |
 | [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 | 2024-06-27 |  |
@@ -117,6 +119,7 @@
 | [やさしい雷](https://open.spotify.com/track/5XhPxlTWLqcQGdpdiX8XBc) | [穂ノ佳](https://open.spotify.com/artist/7MjbwNW2fwyau81CKD5ryJ) | [やさしい雷](https://open.spotify.com/album/3WlR1EZCXCZBsGQlDAVKDH) | 4:04 | 2024-06-27 | 2024-08-09 |
 | [傍晚去太子灣嗎](https://open.spotify.com/track/1qG2U4IDgPI37CixBQZ4PQ) | [Schoolgirl Byebye](https://open.spotify.com/artist/6kfcndVsu8F9Y5gL5xc717) | [傍晚去太子灣嗎](https://open.spotify.com/album/5Htgs7LGnn3EzjDIpjMi28) | 4:55 | 2024-06-27 |  |
 | [情人！](https://open.spotify.com/track/3FpBnK9vduKWb48YCXc9c8) | [河豚子](https://open.spotify.com/artist/4tZVnilXcr5CaAgaVVW2be) | [天堂不過就是我們的海](https://open.spotify.com/album/5fNNz4UYiGJ1Ge3mFlaE3D) | 3:33 | 2024-06-27 |  |
+| [最初の天使](https://open.spotify.com/track/3p9LwJEPqgy4xO0YPzel4V) | [ミレー](https://open.spotify.com/artist/5ksX7EDcPMxGNLDdoYnIlN) | [ブルー、燃えて](https://open.spotify.com/album/2ZVGLo7bZhWhsNOGO28Tkr) | 4:15 | 2024-08-15 |  |
 | [這片海沒有夕陽](https://open.spotify.com/track/0M52mIICT8TSkwbvC0lU9o) | [打倒三明治](https://open.spotify.com/artist/50FEJC364l9cY3wTRZQ8I8) | [INVISIBLE TUNNELS](https://open.spotify.com/album/6XJ2wPTUeVIo4ufktIBtjV) | 4:17 | 2024-06-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

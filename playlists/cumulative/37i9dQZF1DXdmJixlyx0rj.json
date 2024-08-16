@@ -303,7 +303,7 @@
       "artists": [
         {
           "name": "ONII",
-          "url": "https://open.spotify.com/artist/70NmIWDXyqMs4LmM6zCaG6"
+          "url": "https://open.spotify.com/artist/3MaLSP3dNqtSH7Wrz1pr35"
         }
       ],
       "date_added": "2024-08-14",
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 139842,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/3p3J8JhxzIoCmrLsIO3AnS"
@@ -3924,6 +3924,24 @@
       "duration_ms": 468000,
       "name": "Worries",
       "url": "https://open.spotify.com/track/2r8ZUEFWiviLOOBYIxzWt6"
+    },
+    {
+      "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/7unPe6VwxSHfIJ1uLgp8NW"
+      },
+      "artists": [
+        {
+          "name": "JUNTARO",
+          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183759,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/2tSQ6Y5ZQ3llad801vHf5R"
     },
     {
       "album": {

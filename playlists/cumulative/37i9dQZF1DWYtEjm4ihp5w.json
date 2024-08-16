@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen ma kayn f rap mghribi. Cover: Vargas",
+  "description": "Playlist dial a7sen ma kayn f rap mghribi. Cover: Figoshin",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -774,6 +774,24 @@
       "duration_ms": 168000,
       "name": "Cabeza",
       "url": "https://open.spotify.com/track/6HncaaVulbe96New1KaT6C"
+    },
+    {
+      "album": {
+        "name": "Cactus 2",
+        "url": "https://open.spotify.com/album/5eNDvQ4ivZr8AmeTow7aL3"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169593,
+      "name": "Cactus 2",
+      "url": "https://open.spotify.com/track/6AHf10DIiUmD5cG6ksph48"
     },
     {
       "album": {
@@ -3806,7 +3824,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 213061,
       "name": "Rajel",
       "url": "https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV"

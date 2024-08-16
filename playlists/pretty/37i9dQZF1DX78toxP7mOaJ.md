@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Honeyglaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,393 likes - 125 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,445 likes - 125 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

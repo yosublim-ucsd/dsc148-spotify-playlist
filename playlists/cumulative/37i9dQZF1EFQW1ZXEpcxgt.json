@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "SHOOTERS TOUCH VOL 1",
+        "url": "https://open.spotify.com/album/2MNYzCEdh3gih5pzdjOOCH"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/31XQO0rodpWPtg4kYPAr6q"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171525,
+      "name": "Gang In This Bitch",
+      "url": "https://open.spotify.com/track/2JzMVSuGi93uqnjCxpdzJS"
+    },
+    {
+      "album": {
         "name": "Gang Up (with Young Thug, 2 Chainz & Wiz Khalifa feat. PnB Rock)",
         "url": "https://open.spotify.com/album/4RTL2dk2qeQL5Udhatt73n"
       },

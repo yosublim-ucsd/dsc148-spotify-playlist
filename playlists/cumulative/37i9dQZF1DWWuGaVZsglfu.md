@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: Aziz Harun
 
-101 songs - 5 hr 52 min
+102 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-17 |  |
 | [Angau](https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Angau](https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL) | 2:40 | 2024-06-26 |  |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-31 |  |
-| [Ashiap \- New Version](https://open.spotify.com/track/1hOHDn1ZCacxzThjn3W6db) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [MK K\-Clique](https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ) | [Ashiap \- New Version](https://open.spotify.com/album/02M8rVGX8fAw9mHc6CO45b) | 3:26 | 2024-08-07 |  |
+| [Ashiap \- New Version](https://open.spotify.com/track/1hOHDn1ZCacxzThjn3W6db) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [MK K\-Clique](https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ) | [Ashiap \- New Version](https://open.spotify.com/album/02M8rVGX8fAw9mHc6CO45b) | 3:26 | 2024-08-07 | 2024-08-16 |
 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2024-06-26 | 2024-07-11 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-14 |  |
 | [Belum Mulai](https://open.spotify.com/track/5MFi8dcCIGTiuUIC2loVQc) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Belum Mulai](https://open.spotify.com/album/039LNwYmsa5hoQPDFbFbcc) | 3:34 | 2024-07-03 | 2024-08-15 |
@@ -72,6 +72,7 @@
 | [My Home Is In Your Arms](https://open.spotify.com/track/21otZelGEt8i36RHwxaNg5) | [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [My Home Is In Your Arms](https://open.spotify.com/album/5fKXjLbcXJTy5nvS6aJER3) | 3:01 | 2024-06-26 | 2024-07-04 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-06-26 | 2024-08-01 |
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-26 | 2024-07-11 |
+| [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-06-26 | 2024-07-25 |
 | [OMK](https://open.spotify.com/track/63VSYAxNF3tHP6D0N9uQXm) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH), [Zubir Khan](https://open.spotify.com/artist/1PCuqpInYSxQue3sDDM1Q5) | [OMK](https://open.spotify.com/album/4Zlt3S1NUaTrDdT8ZwT2ju) | 3:47 | 2024-06-26 | 2024-08-15 |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-06-26 | 2024-08-15 |

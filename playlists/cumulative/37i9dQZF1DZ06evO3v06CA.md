@@ -4,7 +4,7 @@
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 56 min
+89 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [City of New Orleans](https://open.spotify.com/track/15qBdyeOsal1QJvB3ysW9g) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [City Of New Orleans](https://open.spotify.com/album/7sZ5lfnlyqmnlcInnKf3o3) | 4:47 | 2023-04-28 |  |
 | [City of New Orleans \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 5:05 | 2023-04-28 |  |
 | [Coconut Tree \(with Willie Nelson\)](https://open.spotify.com/track/3UJZ4VcHfSWyrMky8vobzv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Life on a Rock](https://open.spotify.com/album/52WqC6vXDQ9anMNugsUCeO) | 3:24 | 2023-04-28 |  |
-| [Cowboys Are Frequently Secretly Fond Of Each Other](https://open.spotify.com/track/3QQGro8PgB6AIRz5R8D2nt) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 3:38 | 2024-06-17 |  |
+| [Cowboys Are Frequently Secretly Fond Of Each Other](https://open.spotify.com/track/06WARzJ6c5GYC9gSEmvO0q) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:38 | 2024-08-16 |  |
+| [Cowboys Are Frequently Secretly Fond Of Each Other](https://open.spotify.com/track/3QQGro8PgB6AIRz5R8D2nt) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 3:38 | 2024-06-17 | 2024-08-16 |
 | [Cowboys Are Frequently Secretly Fond Of Each Other](https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Cowboys Are Frequently Secretly Fond Of Each Other](https://open.spotify.com/album/3FP98bajALVr5zE3dSaaQF) | 3:38 | 2024-04-08 | 2024-06-17 |
 | [Crazy](https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:03 | 2023-04-28 |  |
 | [Crazy](https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 2:53 | 2024-02-17 | 2024-05-18 |

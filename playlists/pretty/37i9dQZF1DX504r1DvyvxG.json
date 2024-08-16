@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2646974,
+  "num_followers": 2646966,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 201373,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+      "duration_ms": 340200,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Duran Duran",
-        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 340200,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "American Pie",
         "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 243493,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
         }
       ],
-      "duration_ms": 177360,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
+      "duration_ms": 196466,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
         }
       ],
-      "duration_ms": 196466,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb"
+      "duration_ms": 177360,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "James Taylor Live",
-        "url": "https://open.spotify.com/album/38OACLXl1hgUnsuCUv13HC"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 301666,
-      "name": "Carolina In My Mind",
-      "url": "https://open.spotify.com/track/2Fv3LSqbgv5lrdClrc6XKc"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Happy Sad",
         "url": "https://open.spotify.com/album/20CYfxjKvqXkCXBhAgOE39"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 161253,
       "name": "Sing a Song for You",
       "url": "https://open.spotify.com/track/01o6YGrdvMrUAFmWgwoDCb"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "James Taylor Live",
+        "url": "https://open.spotify.com/album/38OACLXl1hgUnsuCUv13HC"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 301666,
+      "name": "Carolina In My Mind",
+      "url": "https://open.spotify.com/track/2Fv3LSqbgv5lrdClrc6XKc"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "We're Children Of Coincidence And Harpo Marx",
-        "url": "https://open.spotify.com/album/2Z4PxWel0AXEpfy0rSLhXK"
-      },
-      "artists": [
-        {
-          "name": "Dory Previn",
-          "url": "https://open.spotify.com/artist/4x3O97skvSMH61NkaKrZq8"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Woman Soul",
-      "url": "https://open.spotify.com/track/7mnR1m62Ynkqgm9HiziFH8"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Black Gold (Expanded Edition)",
         "url": "https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 274613,
       "name": "Turn, Turn, Turn (To Everything There Is a Season) - Live in Munich, Germany - April 1969",
       "url": "https://open.spotify.com/track/3RfmRk00qn35rvO6CXdnxb"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "We're Children Of Coincidence And Harpo Marx",
+        "url": "https://open.spotify.com/album/2Z4PxWel0AXEpfy0rSLhXK"
+      },
+      "artists": [
+        {
+          "name": "Dory Previn",
+          "url": "https://open.spotify.com/artist/4x3O97skvSMH61NkaKrZq8"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Woman Soul",
+      "url": "https://open.spotify.com/track/7mnR1m62Ynkqgm9HiziFH8"
     },
     {
       "added_at": "2023-03-31 04:00:00",

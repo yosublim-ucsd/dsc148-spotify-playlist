@@ -2,9 +2,9 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Ado
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: GEMN \(Tatsuya Kitani + Kento Nakajima\)
 
-523 songs - 1 day 6 hr 7 min
+525 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Butohkai](https://open.spotify.com/track/2YPyHDyTlMGFDAfGANRBrt) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [Butohkai](https://open.spotify.com/album/4fQ3PorkC0d1xWdSrf4tCh) | 4:34 | 2023-12-26 | 2024-01-05 |
 | [CANDY CANDY \- Moe Shop Remix](https://open.spotify.com/track/28d5jK6lX3Mipdta6dQWjJ) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [CANDY CANDY \(Moe Shop Remix\)](https://open.spotify.com/album/7rNO0ev82wqyzSZ8c9PAUG) | 4:45 | 2023-05-09 | 2023-06-09 |
 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 | 2023-07-04 | 2023-08-11 |
-| [Change](https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Change](https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl) | 3:11 | 2024-07-25 |  |
+| [Change](https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Change](https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl) | 3:11 | 2024-07-25 | 2024-08-16 |
 | [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-02-01 | 2024-02-10 |
 | [Choose me](https://open.spotify.com/track/5Uj6NgupVm7ByY1JXNYTp5) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [10th Anniversary Best Vol.1](https://open.spotify.com/album/1y1xNiR0afPdNSpCkq2FBT) | 3:38 | 2023-08-07 |  |
 | [CITY feat\. 柳美舞\(ばってん少女隊\)](https://open.spotify.com/track/5XkmFildPo2sqEmh7Ggxdj) | [月刊偶像](https://open.spotify.com/artist/66dObbkp79Ge6I1lGEzmzE), [柳美舞\(ばってん少女隊\)](https://open.spotify.com/artist/3VvFGH8cgshKWJLR9vChvA) | [CITY feat\. 柳美舞\(ばってん少女隊\)](https://open.spotify.com/album/1PEDi5OiDUL8mHqDElUugZ) | 3:25 | 2024-05-09 | 2024-05-17 |
@@ -79,6 +79,7 @@
 | [Firetruck](https://open.spotify.com/track/5D09TkOLzrkWTWqQxAId5V) | [SG5](https://open.spotify.com/artist/7D2TZnpK65Crptr2BgWrJ6) | [Firetruck](https://open.spotify.com/album/7bAkSGLaKkIcBb6RmhR8yN) | 2:24 | 2023-05-09 | 2023-05-17 |
 | [FLASH](https://open.spotify.com/track/0iCOM7P9YJosI9G6mIvU3K) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Perfume The Best "P Cubed"](https://open.spotify.com/album/2ys3daPjlHkDZqN3MuKXec) | 4:37 | 2024-05-09 | 2024-06-01 |
 | [FLY GUY](https://open.spotify.com/track/2aYHMki1NRAxRjdarrgCBF) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3), [MAX!!!](https://open.spotify.com/artist/1MgqejqU5aSwZkhkhPkefn) | [WHOOPEE LAND](https://open.spotify.com/album/0hue9kuX7nULpylyGYvMDS) | 2:38 | 2023-07-25 | 2023-08-04 |
+| [Fly High](https://open.spotify.com/track/2tCYdACL6qdDT0T1IshjyY) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/77wA5oi8vqF6VvSYeEt9P1) | 3:03 | 2024-08-15 |  |
 | [Fly High](https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:03 | 2024-06-06 | 2024-07-05 |
 | [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [t.komuro](https://open.spotify.com/artist/2bE0EJMa2PapJUQZYlyE6P) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 | 2024-02-15 | 2024-03-01 |
 | [Fukakoryoku](https://open.spotify.com/track/0lK0ONyDapmxGzYexyaAFW) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:20 | 2024-04-16 | 2024-04-19 |
@@ -354,7 +355,7 @@
 | [キラキラキラ](https://open.spotify.com/track/5B6lFLmKyXJBste5Tdp6Ar) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [DREAMERS](https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi) | [キラキラキラ](https://open.spotify.com/album/0dt8HhmDyL9TM2BMmnsEIe) | 3:03 | 2023-09-07 | 2023-10-04 |
 | [クラクラ](https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:11 | 2024-02-08 | 2024-02-21 |
 | [ケタタマ \- feat\. Mori Calliope](https://open.spotify.com/track/2LHNdyP8WcDUi70Y7LHOmL) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [ケタタマ \(feat\. Mori Calliope\)](https://open.spotify.com/album/3tliDt4FKNpQ02aPI2Ftet) | 3:26 | 2023-11-14 | 2024-02-21 |
-| [ゲシュタルト](https://open.spotify.com/track/1CGpikRs3ZSiaoURyrOSY7) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [GSA](https://open.spotify.com/album/4y9uzu1TPh8AdIHZnInEj6) | 3:18 | 2024-06-06 |  |
+| [ゲシュタルト](https://open.spotify.com/track/1CGpikRs3ZSiaoURyrOSY7) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [GSA](https://open.spotify.com/album/4y9uzu1TPh8AdIHZnInEj6) | 3:18 | 2024-06-06 | 2024-08-16 |
 | [ココロウチュウ](https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu) | [ニャンちゅうオールスターズ](https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ココロウチュウ](https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb) | 3:16 | 2024-07-25 | 2024-08-09 |
 | [ゴーストダイブ](https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ゴーストダイブ](https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw) | 3:18 | 2023-10-03 | 2023-11-17 |
 | [サイレンスで踊りたい](https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [サイレンスで踊りたい](https://open.spotify.com/album/3S4nFATM8NAwyDBukOWPAb) | 3:49 | 2023-10-03 | 2023-10-05 |
@@ -433,7 +434,7 @@
 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 | 2024-05-09 |  |
 | [勇者](https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:14 | 2023-10-05 | 2023-11-22 |
 | [可愛くてごめん](https://open.spotify.com/track/3K9RzumH1VCDgIZuwuT9bq) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [かぴ](https://open.spotify.com/artist/2IWA9Y19snO99fIgoMn8Tr) | [告白実行委員会 \-FLYING SONGS\- 恋してる](https://open.spotify.com/album/5HcJ1GcW9F1jPjuTCNx0FS) | 3:39 | 2024-04-18 |  |
-| [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:38 | 2024-05-09 |  |
+| [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:38 | 2024-05-09 | 2024-08-16 |
 | [咆哮](https://open.spotify.com/track/2SLEhOE9H8krvYCUyKuWKr) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [咆哮](https://open.spotify.com/album/4D6LjQuzHmoEDOgyww5GCO) | 2:21 | 2024-01-16 | 2024-02-21 |
 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 | 2023-09-05 | 2023-09-07 |
 | [唱](https://open.spotify.com/track/5yYsdZus3N5OH5w3gdTlJS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 3:12 | 2024-07-09 |  |
@@ -501,6 +502,7 @@
 | [美少女無罪♡パイレーツ](https://open.spotify.com/track/1oNtlE9GgtBZDngXi18Mw0) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [美少女無罪♡パイレーツ](https://open.spotify.com/album/1yAFPAP8UwTD1Q5vqSTAYP) | 3:39 | 2023-08-03 | 2023-12-08 |
 | [群青](https://open.spotify.com/track/0T4AitQuq8IJhWBWuZwkFA) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [群青](https://open.spotify.com/album/4nLIK2uFzYUJqLAfJZYgLx) | 4:08 | 2023-12-12 | 2024-04-12 |
 | [聖徳太子](https://open.spotify.com/track/3VlUafN0sD9ptDNLWQ38Ih) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [聖徳太子](https://open.spotify.com/album/0KUZJCsVYE0G1L9yv9uKa6) | 3:29 | 2023-10-19 | 2023-10-23 |
+| [舞台に立って](https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [舞台に立って](https://open.spotify.com/album/3OId6Q1stp8y4QOnQUZ9ku) | 3:27 | 2024-08-15 |  |
 | [舞台の上で](https://open.spotify.com/track/51SCBTWn7HbmBRPRHNB8Re) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA), [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [舞台の上で](https://open.spotify.com/album/4XYTZrIy61jFCIj0c4IoPB) | 3:38 | 2023-05-09 | 2023-12-08 |
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2023-07-25 | 2023-12-08 |
 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2023-12-19 |  |

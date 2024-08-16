@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NoCopyrightSounds](https://open.spotify.com/user/nocopyrightsounds) - 135,275 likes - 109 songs - 5 hr 44 min
+[NoCopyrightSounds](https://open.spotify.com/user/nocopyrightsounds) - 135,269 likes - 109 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

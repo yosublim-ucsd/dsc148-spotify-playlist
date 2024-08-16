@@ -2,7 +2,7 @@
 
 ### [This Is Little Jesus](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3b6YN5)
 
-> This Is Little Jesus\. Los temas esenciales, todos en una lista.
+> This is Little Jesus\. The essential tracks, all in one playlist.
 
 55 songs - 3 hr 43 min
 

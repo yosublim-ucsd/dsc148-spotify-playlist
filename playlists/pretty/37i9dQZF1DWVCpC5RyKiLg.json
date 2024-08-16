@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 720027,
+  "num_followers": 720019,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
+        "name": "Acredite",
+        "url": "https://open.spotify.com/album/0WvvOZUcB0ZZNV75w1vZXq"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Eu Era",
+      "url": "https://open.spotify.com/track/5hkjlU7sUcZb9wOYd1eRBE"
+    },
+    {
+      "added_at": "2024-07-09 15:59:51",
+      "album": {
         "name": "Sensa\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 269306,
       "name": "Linda Voz (Ol\u00e1)",
       "url": "https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb"
-    },
-    {
-      "added_at": "2024-07-09 15:59:51",
-      "album": {
-        "name": "Acredite",
-        "url": "https://open.spotify.com/album/0WvvOZUcB0ZZNV75w1vZXq"
-      },
-      "artists": [
-        {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Eu Era",
-      "url": "https://open.spotify.com/track/5hkjlU7sUcZb9wOYd1eRBE"
     },
     {
       "added_at": "2024-07-09 15:59:51",
@@ -943,22 +943,18 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
-        "name": "C\u00e9u de S\u00e3o Paulo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1BMtH8B8G43xHue4aOaabp"
+        "name": "Sigilo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Bosco & Vinicius",
-          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
         }
       ],
-      "duration_ms": 176155,
-      "name": "Deixa a Gente Quieto - Ao Vivo",
-      "url": "https://open.spotify.com/track/4PNi30UilK0CZi2z9wegMQ"
+      "duration_ms": 165366,
+      "name": "Sigilo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
     },
     {
       "added_at": "2024-07-09 15:59:51",
@@ -999,8 +995,44 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
-        "name": "Sigilo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
+        "name": "C\u00e9u de S\u00e3o Paulo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1BMtH8B8G43xHue4aOaabp"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vinicius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 176155,
+      "name": "Deixa a Gente Quieto - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PNi30UilK0CZi2z9wegMQ"
+    },
+    {
+      "added_at": "2024-07-09 15:59:51",
+      "album": {
+        "name": "Com ou Sem Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Com ou Sem Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
+    },
+    {
+      "added_at": "2024-07-09 15:59:51",
+      "album": {
+        "name": "Pulei na Piscina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
       },
       "artists": [
         {
@@ -1008,25 +1040,9 @@
           "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
         }
       ],
-      "duration_ms": 165366,
-      "name": "Sigilo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
-    },
-    {
-      "added_at": "2024-07-09 15:59:51",
-      "album": {
-        "name": "De Volta aos Bares",
-        "url": "https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Pode Ir Embora - Ao Vivo",
-      "url": "https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst"
+      "duration_ms": 181846,
+      "name": "Pulei na Piscina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
     },
     {
       "added_at": "2024-07-09 15:59:51",
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
-        "name": "Com ou Sem Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
+        "name": "De Volta aos Bares",
+        "url": "https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG"
       },
       "artists": [
         {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
         }
       ],
-      "duration_ms": 201856,
-      "name": "Com ou Sem Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
+      "duration_ms": 217666,
+      "name": "Pode Ir Embora - Ao Vivo",
+      "url": "https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst"
     },
     {
       "added_at": "2024-07-09 15:59:51",
@@ -1131,34 +1147,18 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
-        "name": "Pulei na Piscina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
+        "name": "Hits Para Namorar",
+        "url": "https://open.spotify.com/album/54jwx7wNnFOjaVn82mV3Rd"
       },
       "artists": [
         {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+          "name": "Guilherme & Santiago",
+          "url": "https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn"
         }
       ],
-      "duration_ms": 181846,
-      "name": "Pulei na Piscina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
-    },
-    {
-      "added_at": "2024-07-09 15:59:51",
-      "album": {
-        "name": "Ensaio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 161678,
-      "name": "Beijo De Varanda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
+      "duration_ms": 206880,
+      "name": "Jogado Na Rua",
+      "url": "https://open.spotify.com/track/09NdjJyx9HiLhGFd9YinIS"
     },
     {
       "added_at": "2024-07-09 15:59:51",
@@ -1175,22 +1175,6 @@
       "duration_ms": 202474,
       "name": "Nem Tchum - Ao Vivo",
       "url": "https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP"
-    },
-    {
-      "added_at": "2024-07-09 15:59:51",
-      "album": {
-        "name": "Hits Para Namorar",
-        "url": "https://open.spotify.com/album/54jwx7wNnFOjaVn82mV3Rd"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Santiago",
-          "url": "https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Jogado Na Rua",
-      "url": "https://open.spotify.com/track/09NdjJyx9HiLhGFd9YinIS"
     },
     {
       "added_at": "2024-07-09 15:59:51",
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
+        "name": "Ensaio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 161678,
+      "name": "Beijo De Varanda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
+    },
+    {
+      "added_at": "2024-07-09 15:59:51",
+      "album": {
         "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
         "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
       },
@@ -1267,22 +1267,18 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
-        "name": "Pesquisa no Google (feat. Henrique & Diego) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR"
+        "name": "Misturadin (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4"
       },
       "artists": [
         {
           "name": "Turma do Pagode",
           "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Henrique & Diego",
-          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
         }
       ],
-      "duration_ms": 169244,
-      "name": "Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k"
+      "duration_ms": 234603,
+      "name": "Se Eu Pudesse - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ScG8kxnidGAdI2OA8WSES"
     }
   ],
   "unique_name": "Faxina com Sofr\u00eancia",

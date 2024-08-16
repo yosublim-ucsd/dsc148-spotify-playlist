@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,106 likes - 194 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,159 likes - 194 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Force](https://open.spotify.com/track/4eaeb6yZdjHiZxah0DFsnK) | [Nth Shade](https://open.spotify.com/artist/7JjX7x1u28JKVMa8BZUSVB) | [Force](https://open.spotify.com/album/7eAyYcKJHcFtmUr7hTLhRu) | 2:12 |
+| 1 | [Force](https://open.spotify.com/track/4eaeb6yZdjHiZxah0DFsnK) | [Carinth](https://open.spotify.com/artist/330FPb6pKzidkaSS968Ezm) | [Force](https://open.spotify.com/album/7eAyYcKJHcFtmUr7hTLhRu) | 2:12 |
 | 2 | [Perfect Circus](https://open.spotify.com/track/08ZBgVEJzJxdEqMf8cE4Tt) | [Vince Voyage](https://open.spotify.com/artist/229yYJk7wWvnJcs9bhJx5N) | [Perfect Circus](https://open.spotify.com/album/5CRwyLx3ogA1XaEqaqJRMe) | 2:06 |
 | 3 | [Riviera Blue](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Riviera Blue](https://open.spotify.com/album/5xPcqCeZu9xKNJgQI1vriZ) | 2:40 |
 | 4 | [Signs](https://open.spotify.com/track/7sK0vS2FyHMb5wFGFcwUMI) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Signs](https://open.spotify.com/album/46l0p9rQdScWD3CZjMqWtn) | 2:14 |

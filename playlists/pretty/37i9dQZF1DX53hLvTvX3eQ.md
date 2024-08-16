@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 
 > 90년대 모두의 마음을 사로 잡았던 추억의 록 발라드를 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,282 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,303 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 2 | [그래서 그대는](https://open.spotify.com/track/5aVuzoktGBQRedWuHqRhLC) | [Yarn](https://open.spotify.com/artist/3226f2U0gI31nf1pUdNO8t) | [Yarn's Best Vol.1](https://open.spotify.com/album/43fHwMitZWvkOAN4aeI4jP) | 4:24 |
 | 3 | [고해](https://open.spotify.com/track/1cEODRpsqyAvzQvYJnDcGu) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB) | 5:02 |
 | 4 | [진혼](https://open.spotify.com/track/2BxUjHQRrYX82cP3wDvOTU) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Restructure](https://open.spotify.com/album/6NEUkvavXv0GoJYxWPpfLp) | 5:06 |
-| 5 | [Don't Cry](https://open.spotify.com/track/5wJOqoOsEqJWoHaisUpDVV) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [Melody Quus](https://open.spotify.com/album/6Nb2dANlImyX56CsWHxDEW) | 4:04 |
-| 6 | [Endless](https://open.spotify.com/track/1OzCTRwO4znqWZsPJZpRSt) | [플라워](https://open.spotify.com/artist/5sp44iOiTOC0lXmN8zMRaT) | [해룡이의 Sad Love Story](https://open.spotify.com/album/7KFnrJoRlzphnYp2tZefaS) | 4:15 |
+| 5 | [Don't Cry \(New Version\)](https://open.spotify.com/track/5wJOqoOsEqJWoHaisUpDVV) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [Melody Quus](https://open.spotify.com/album/6Nb2dANlImyX56CsWHxDEW) | 4:04 |
+| 6 | [Endless](https://open.spotify.com/track/1OzCTRwO4znqWZsPJZpRSt) | [플라워](https://open.spotify.com/artist/5sp44iOiTOC0lXmN8zMRaT) | [소품집 : 해룡의 Sad Love Story](https://open.spotify.com/album/7KFnrJoRlzphnYp2tZefaS) | 4:15 |
 | 7 | [잠시만 안녕](https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 6:48 |
 | 8 | [발걸음](https://open.spotify.com/track/7JN8HvhCflgYz0ZqZeoljj) | [에메랄드 캐슬](https://open.spotify.com/artist/7zPGoXRG2xvV99yRfzM3Yp) | [Invitation](https://open.spotify.com/album/1E1VNOZbbsnKxEpRgXP5Jd) | 4:09 |
 | 9 | [사랑 Two](https://open.spotify.com/track/5EGZGkg7DuToUdEa88W2xQ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [가을 우체국 앞에서](https://open.spotify.com/album/78rKb6IVqCQRpfQPBJwKTt) | 5:16 |

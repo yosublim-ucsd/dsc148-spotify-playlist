@@ -2,7 +2,7 @@
 
 ### [This Is Jennifer Lopez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vOtdC)
 
-> This is Jennifer Lopez\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This Is Jennifer Lopez\. Los temas esenciales, todos en una lista.
 
 79 songs - 4 hr 47 min
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 ### [This Is Maverick City Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3186ek)
 
-> This is Maverick City Music\. The essential tracks, all in one playlist.
+> This is Maverick City Music\. Track\-track unggulan, semuanya dalam satu playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,525 likes - 50 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,592 likes - 50 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Holy Ghost \(feat\. Bri Babineuax & Alton Eugene\)](https://open.spotify.com/track/7IEKYcNmE949Zrsh2mYNhd) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF), [Alton Eugene](https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 5:16 |
 | 50 | [Mighty One \(feat\. Todd Dulaney, Maryanne J\. George & Mav City Gospel Choir\)](https://open.spotify.com/track/1Ige5heWT74ObjEsIwlJCK) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 6:15 |
 
-Snapshot ID: `ZrqiAAAAAAC3i6Lc5MNuI8oh1v37gQoc`
+Snapshot ID: `ZrvzgAAAAABEas5r3nTK9X8mZoK0TmBf`

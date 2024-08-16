@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 409756,
       "name": "2 Roots",
       "url": "https://open.spotify.com/track/2rixeRSqKJP98HHOsLnHhr"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 219866,
       "name": "At Night I Think Of You - Seth Troxler & Nick Morgan Remix",
       "url": "https://open.spotify.com/track/2TfO3Q2lD898SIz0pVn7Qh"
@@ -2510,6 +2510,28 @@
       "duration_ms": 169943,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
+    },
+    {
+      "album": {
+        "name": "Closer (feat. Bantu)",
+        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Closer (feat. Bantu)",
+      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
     },
     {
       "album": {
@@ -4894,7 +4916,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 168281,
       "name": "Head Lost - Tseba Edit",
       "url": "https://open.spotify.com/track/48Tm8QzmiZvtzuRT1k522f"
@@ -8675,6 +8697,32 @@
     },
     {
       "album": {
+        "name": "Orion - Sistek Remix",
+        "url": "https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281433,
+      "name": "Orion - Sistek Remix",
+      "url": "https://open.spotify.com/track/7v0mEMXTjjyUyfI2bQlDkI"
+    },
+    {
+      "album": {
         "name": "Our House Is Barnhus",
         "url": "https://open.spotify.com/album/4OF4DPpJE0bl4TdDHI5C1j"
       },
@@ -9844,7 +9892,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 242540,
       "name": "Richa",
       "url": "https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf"
@@ -9896,7 +9944,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 379024,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/1TEFUqblpeWzf1jUBknQU4"
@@ -10232,7 +10280,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 186240,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/6zdyB0j8UBb1cvNiRLHaJW"
@@ -12279,6 +12327,32 @@
     },
     {
       "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/30sb6ff27adl8x19nQ51Zx"
+      },
+      "artists": [
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/6gXxUckROtxJeMb1Djj0aw"
+        },
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179374,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/7Mg5nr4B60ROtiaiVOOBop"
+    },
+    {
+      "album": {
         "name": "Ven Pa Ca",
         "url": "https://open.spotify.com/album/01PX8P5ZGqmTI8XlFH2a48"
       },
@@ -12620,7 +12694,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 245000,
       "name": "Waza",
       "url": "https://open.spotify.com/track/1YU39FUeTlcomSBNcFp7ed"

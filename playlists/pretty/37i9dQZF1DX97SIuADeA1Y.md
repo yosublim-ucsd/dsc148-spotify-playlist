@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,710 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,725 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 10 | [SAY IT RIGHT](https://open.spotify.com/track/0OqwQgw65uPda8vhAwC6Dj) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [SAY IT RIGHT](https://open.spotify.com/album/0JAVn7KQVTjlnoO8nOBhHu) | 3:33 |
 | 11 | [Boots](https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [BE.TH](https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF) | [Boots](https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z) | 2:41 |
 | 12 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 |
-| 13 | [Ring of Ice \- Stereoact Remix](https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ring of Ice \(Stereoact Remix\)](https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD) | 3:36 |
-| 14 | [Drunk in Love](https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Slap House Party](https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX) | 2:45 |
+| 13 | [Drunk in Love](https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Slap House Party](https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX) | 2:45 |
+| 14 | [Ring of Ice \- Stereoact Remix](https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ring of Ice \(Stereoact Remix\)](https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD) | 3:36 |
 | 15 | [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 |
 | 16 | [Shake That](https://open.spotify.com/track/0VGAT55tq7LHLfxtePPfpp) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/1l0BKwempUx5qlkpFe4E90) | 2:59 |
 | 17 | [Somebody That I Used to Know](https://open.spotify.com/track/19g33fGnzBMWNf7ILmbmuw) | [Altrøx](https://open.spotify.com/artist/045vOffxVPFfgpn3qjn5Yo), [Faruk Orman](https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq), [Tyzn](https://open.spotify.com/artist/4RtLJ6ksxpaktS32qE6kxo) | [Somebody That I Used to Know](https://open.spotify.com/album/1BvepLFynGGKZSF1rtgTcc) | 2:42 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 57 | [Fantasy Girl](https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Sarah Lahn](https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa) | [Fantasy Girl](https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC) | 3:15 |
 | 58 | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [Edward V](https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY) | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x) | 2:43 |
 | 59 | [Fire To Smoke](https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Fire To Smoke](https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW) | 2:43 |
-| 60 | [World in Your Eyes](https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [World in Your Eyes](https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E) | 2:11 |
+| 60 | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/track/5Owz0Wkb3XgaADAm6dEr2O) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/album/3yKdq0HWKiF25WjWAqTUAK) | 2:28 |
 
 Snapshot ID: `ZqKx9wAAAAAxBGb6i+Z6ojzNdIQRjj7u`

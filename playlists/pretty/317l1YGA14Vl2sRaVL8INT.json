@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s pop punk, it\u2019s the best. Celebrating 30 years of Hopeless Records.",
-  "num_followers": 43688,
+  "num_followers": 43685,
   "original_name": "Best Of Pop Punk ",
   "owner": {
     "name": "Hopeless Records",
     "url": "https://open.spotify.com/user/hopelessrecords"
   },
-  "snapshot_id": "AAAa8HnTMHO0FxdL8jnR2RPR5HxJPDV3",
+  "snapshot_id": "AAAa9nz1puLeHTVGzY+A0mwmd6NPi/30",
   "tracks": [
     {
       "added_at": "2024-08-01 23:09:22",
@@ -151,6 +151,42 @@
       "duration_ms": 133351,
       "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
       "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
+    },
+    {
+      "added_at": "2024-08-15 15:38:12",
+      "album": {
+        "name": "I Hate Myself",
+        "url": "https://open.spotify.com/album/5m0n6HekuvU8BCquIEla3m"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "duration_ms": 139581,
+      "name": "I Hate Myself",
+      "url": "https://open.spotify.com/track/5mBMihCbadPG6ff57Op4WR"
+    },
+    {
+      "added_at": "2024-08-15 15:38:28",
+      "album": {
+        "name": "Behind Bars (Remixed and Remastered)",
+        "url": "https://open.spotify.com/album/7ukWpKTCe1kEPD8qPn4Uy4"
+      },
+      "artists": [
+        {
+          "name": "88 Fingers Louie",
+          "url": "https://open.spotify.com/artist/1ROFZ7U6Yvj0lHzydH8x6J"
+        }
+      ],
+      "duration_ms": 128260,
+      "name": "I Hate Myself",
+      "url": "https://open.spotify.com/track/2o3Oszqet28ISSpzWPbTPF"
     },
     {
       "added_at": "2024-03-08 19:41:58",
@@ -311,6 +347,22 @@
       "duration_ms": 154333,
       "name": "Chewed Up",
       "url": "https://open.spotify.com/track/4hy4x8VaOCy1g3ObRygzR1"
+    },
+    {
+      "added_at": "2024-08-15 15:37:42",
+      "album": {
+        "name": "Blurry",
+        "url": "https://open.spotify.com/album/5WOGUqHDzVSJSghJRAVKl0"
+      },
+      "artists": [
+        {
+          "name": "Good Terms",
+          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/4LCUSqUApVvY2my2UmnfLS"
     },
     {
       "added_at": "2024-01-09 23:08:59",

@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,234 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,251 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SO HIGH](https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:56 |
-| 2 | [RAZONES \(feat\. Morad\)](https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:04 |
-| 3 | [Mouka](https://open.spotify.com/track/2KVSkX4aTymza4VMoOkz9K) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Mâle\-Chanceux](https://open.spotify.com/album/2W3tkAvXR3UVVYrzkHh9t9) | 3:12 |
-| 4 | [PAQUETA](https://open.spotify.com/track/5kvA2FZtSuUSZFMhezTJa3) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [PAQUETA](https://open.spotify.com/album/0qw2LFdyOFWvWUc2GGBBNS) | 2:29 |
-| 5 | [H'TARI](https://open.spotify.com/track/32BCg5KsxQsGZLjXPnJu5h) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ) | [H'TARI](https://open.spotify.com/album/6wLgx3quBbSXht5TIpUez7) | 3:35 |
-| 6 | [Maylin](https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Maylin](https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0) | 2:54 |
-| 7 | [Ya Omri](https://open.spotify.com/track/2BHUvJYgDuKYxDwT6XKGVa) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Ya Omri](https://open.spotify.com/album/7jYMiGKF1WgzccQ9IskNEG) | 3:14 |
-| 8 | [Matgheltech](https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Matgheltech](https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0) | 3:15 |
-| 9 | [Love \(French Remix\)](https://open.spotify.com/track/7jOKVEH8BKVJekdWY9yOeH) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Love \(French Remix\)](https://open.spotify.com/album/6x82evLa3aeI9agy8mNbE4) | 2:53 |
-| 10 | [HALAL & HARAM](https://open.spotify.com/track/2TPRpTpZrdWErCbMi0M93t) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [TRIPLEGO](https://open.spotify.com/artist/6cDxDe1MWGgUcNVVdxhCN2) | [HALAL & HARAM](https://open.spotify.com/album/1U3LMEoy7y5kew4H2vy4tK) | 3:30 |
-| 11 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 |
-| 12 | [LV](https://open.spotify.com/track/3PDz3mtJB61Zpc8Bq8ui51) | [Smurxa](https://open.spotify.com/artist/14vgRvHLwVocqfsOWht6wB) | [LV](https://open.spotify.com/album/6ZDribH9XHfeMilznJ2YmS) | 2:54 |
-| 13 | [L7ara](https://open.spotify.com/track/18svODSSAYC1DeOpn20xYT) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [L7ara](https://open.spotify.com/album/3tKdlwdmM8EfhPGNfQZzze) | 3:00 |
-| 14 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 |
+| 1 | [RAZONES \(feat\. Morad\)](https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:04 |
+| 2 | [SO HIGH](https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:56 |
+| 3 | [LA VÉRITÉ](https://open.spotify.com/track/6I62xlNh5YncMsdiatltxw) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LA VÉRITÉ](https://open.spotify.com/album/5FUZ5W7cH3nbNk9qhkBVBt) | 3:12 |
+| 4 | [Parler tout bas](https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps](https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu) | 3:21 |
+| 5 | [PAQUETA](https://open.spotify.com/track/5kvA2FZtSuUSZFMhezTJa3) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [PAQUETA](https://open.spotify.com/album/0qw2LFdyOFWvWUc2GGBBNS) | 2:29 |
+| 6 | [H'TARI](https://open.spotify.com/track/32BCg5KsxQsGZLjXPnJu5h) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ) | [H'TARI](https://open.spotify.com/album/6wLgx3quBbSXht5TIpUez7) | 3:35 |
+| 7 | [Maylin](https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Maylin](https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0) | 2:54 |
+| 8 | [CRF \- Nouvelle École](https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 2:09 |
+| 9 | [Ya Omri](https://open.spotify.com/track/2BHUvJYgDuKYxDwT6XKGVa) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Ya Omri](https://open.spotify.com/album/7jYMiGKF1WgzccQ9IskNEG) | 3:14 |
+| 10 | [Mouka](https://open.spotify.com/track/2KVSkX4aTymza4VMoOkz9K) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Mâle\-Chanceux](https://open.spotify.com/album/2W3tkAvXR3UVVYrzkHh9t9) | 3:12 |
+| 11 | [Matgheltech](https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Matgheltech](https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0) | 3:15 |
+| 12 | [HALAL & HARAM](https://open.spotify.com/track/2TPRpTpZrdWErCbMi0M93t) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [TRIPLEGO](https://open.spotify.com/artist/6cDxDe1MWGgUcNVVdxhCN2) | [HALAL & HARAM](https://open.spotify.com/album/1U3LMEoy7y5kew4H2vy4tK) | 3:30 |
+| 13 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 |
+| 14 | [LV](https://open.spotify.com/track/3PDz3mtJB61Zpc8Bq8ui51) | [Smurxa](https://open.spotify.com/artist/14vgRvHLwVocqfsOWht6wB) | [LV](https://open.spotify.com/album/6ZDribH9XHfeMilznJ2YmS) | 2:54 |
 | 15 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 |
 | 16 | [Tié fou](https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:37 |
 | 17 | [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 49 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 50 | [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 |
 
-Snapshot ID: `ZrnlNQAAAABuw3Zf5BzwDEIRj05ds1Dy`
+Snapshot ID: `Zr6IrAAAAAAXjF+RjeYbTgDYAztuOKcB`

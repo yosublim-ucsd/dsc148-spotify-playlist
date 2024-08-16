@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277567,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
+    },
+    {
+      "album": {
         "name": "Ascendance / Give It Up",
         "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
       },
@@ -292,7 +310,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 201707,
       "name": "Ayana",
       "url": "https://open.spotify.com/track/6C7dpTWYty3stEQ0KrLxep"
@@ -823,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Es Vedr\u00e0",
+        "url": "https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197593,
+      "name": "Es Vedr\u00e0",
+      "url": "https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm"
+    },
+    {
+      "album": {
         "name": "Eternal Summer",
         "url": "https://open.spotify.com/album/4BzUIyGCKu1Ywv9qceWMe2"
       },
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 284750,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/6RMu6i69byAclapnUHdyFZ"
@@ -1157,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
+    },
+    {
+      "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
       },
@@ -1245,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/2kgkjzGau4O5UHvwvKRMSp"
+      },
+      "artists": [
+        {
+          "name": "Tommy Farrow",
+          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224629,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/6PBWbcTVS9K0IwbM8RzrxO"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1"
       },
@@ -1278,7 +1350,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 232318,
       "name": "Hero",
       "url": "https://open.spotify.com/track/42j9s3ezCCR9wC1fJ4X3iz"
@@ -1516,7 +1588,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 169272,
       "name": "Home",
       "url": "https://open.spotify.com/track/0WrWaXFATnUTQHeLkTK2JU"
@@ -1634,6 +1706,28 @@
       "duration_ms": 295597,
       "name": "How Often - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
+    },
+    {
+      "album": {
+        "name": "Hyperreal (Middle of the Night)",
+        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Hyperreal (Middle of the Night)",
+      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
     },
     {
       "album": {
@@ -1792,7 +1886,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 252062,
       "name": "Incomplete Dreaming",
       "url": "https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn"
@@ -1876,7 +1970,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 191250,
       "name": "It's Love (Trippin')",
       "url": "https://open.spotify.com/track/2bqwXwAj4ALLlDZ3JYbQVg"
@@ -3082,10 +3176,32 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 189836,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/75gsMOTK0ZXgBeJ4wvDpL4"
+    },
+    {
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/0vIwbOMkRUnDXg9hXD693d"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/41O2JZyFZlRq5yko5nzjBD"
     },
     {
       "album": {
@@ -3765,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249749,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB"
+    },
+    {
+      "album": {
         "name": "Time (feat. Jules Buckley)",
         "url": "https://open.spotify.com/album/77wNbVUueAga2P28GqHovW"
       },
@@ -4065,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b"
+      },
+      "artists": [
+        {
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298125,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv"
+    },
+    {
+      "album": {
         "name": "Was It the Wind That Stirred The Trees",
         "url": "https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY"
       },
@@ -4302,7 +4454,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 417000,
       "name": "You and Me (We Owned It)",
       "url": "https://open.spotify.com/track/1ORzNmt5S14aUa9va4hviA"

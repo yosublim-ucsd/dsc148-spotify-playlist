@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,827 likes - 244 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,909 likes - 244 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 33 | [Tropical Minds](https://open.spotify.com/track/7fp2lnJSUplCgYaKaW2Gi3) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Tropical Minds](https://open.spotify.com/album/4WafkFO6tlXVITPHQCTAWE) | 2:55 |
 | 34 | [Daydream Echoes](https://open.spotify.com/track/2OgKVGGJ41EZf4gDuq5AJh) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [Daydream Echoes](https://open.spotify.com/album/3AbeNnmbc5uJpg8MYLwgfx) | 2:35 |
 | 35 | [Deep Breath and Smile](https://open.spotify.com/track/7wJIcCbpj43BeRfrjOCtLp) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Deep Breath and Smile](https://open.spotify.com/album/22Hg2QvGdNV6Yu44gK1fH0) | 2:28 |
-| 36 | [Visan](https://open.spotify.com/track/5ID0uf2gC9vqvTDPKyRSn3) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Visan](https://open.spotify.com/album/0NTjDooAcerrGclXFiYCUN) | 3:01 |
+| 36 | [Visan](https://open.spotify.com/track/5ID0uf2gC9vqvTDPKyRSn3) | [Loftet](https://open.spotify.com/artist/4GHbJV9Eb9ZLIgsUqLHUey) | [Visan](https://open.spotify.com/album/0NTjDooAcerrGclXFiYCUN) | 3:01 |
 | 37 | [orange blossom](https://open.spotify.com/track/3hZe8nKot26pcoNNYoYxCb) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [orange blossom](https://open.spotify.com/album/3upQYCHOSQ060swpvMzUkP) | 3:20 |
 | 38 | [The Midnight Mall](https://open.spotify.com/track/22YbxxoLOzanQNdAereRfl) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [The Midnight Mall](https://open.spotify.com/album/5nSnSy7UF9kbR2Uopy9JFJ) | 3:20 |
 | 39 | [Sound Bath](https://open.spotify.com/track/21Uih9JgA0z6Jy5ZcOy1Bv) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Roasted Pistachios](https://open.spotify.com/album/5WzuajJVWpOJQc2bfZFMcC) | 3:50 |

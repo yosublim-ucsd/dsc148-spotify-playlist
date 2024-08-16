@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,093 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,102 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,15 +29,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 19 | [maria mag nur kaviar](https://open.spotify.com/track/4fmSdDMyrWjWKaB1VlCiyu) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [maria mag nur kaviar](https://open.spotify.com/album/2OUvZEpZ16DEVbeGpLj9BL) | 2:21 |
 | 20 | [Zittern](https://open.spotify.com/track/5dUdIExBgfgxWoqJ77Xi4W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Zittern](https://open.spotify.com/album/1N1Pe9J71EgxGBCcWnrRWY) | 4:06 |
 | 21 | [Schreien!](https://open.spotify.com/track/6n12nfjzuGGJSK5IAmfx8A) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Schreien!](https://open.spotify.com/album/4e6jAKuaVuz2cuHju2vSyJ) | 2:54 |
-| 22 | [Karussell](https://open.spotify.com/track/30w4Rt68tx8Ea1qPP47AIM) | [STOCKMANN](https://open.spotify.com/artist/4qJ4NLG3pHFfFxOBhQmDzm), [Crystal F](https://open.spotify.com/artist/6oZhc4ONSAMn6RYg6o6VWL), [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Karussell](https://open.spotify.com/album/1jBkxZqTpkUpciIR5CAOEK) | 2:56 |
-| 23 | [Kannst du bei mir bleiben?](https://open.spotify.com/track/6P2p63GZxlsvoegju9iH1Z) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Kannst du bei mir bleiben?](https://open.spotify.com/album/4HfWSo2GOcajhwKOetWw4x) | 2:12 |
+| 22 | [Kannst du bei mir bleiben?](https://open.spotify.com/track/6P2p63GZxlsvoegju9iH1Z) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Kannst du bei mir bleiben?](https://open.spotify.com/album/4HfWSo2GOcajhwKOetWw4x) | 2:12 |
+| 23 | [Karussell](https://open.spotify.com/track/30w4Rt68tx8Ea1qPP47AIM) | [STOCKMANN](https://open.spotify.com/artist/4qJ4NLG3pHFfFxOBhQmDzm), [Crystal F](https://open.spotify.com/artist/6oZhc4ONSAMn6RYg6o6VWL), [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Karussell](https://open.spotify.com/album/1jBkxZqTpkUpciIR5CAOEK) | 2:56 |
 | 24 | [Lesbisch](https://open.spotify.com/track/15PJXv3g9r3Q6RLkotwpWf) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Lesbisch](https://open.spotify.com/album/1pbnCXnVelZ9NF1G6nJVNI) | 3:23 |
 | 25 | [BAUM](https://open.spotify.com/track/4fH8xERQuzAh1pfn5ZEQkS) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [BAUM](https://open.spotify.com/album/4JGG9900H46EBP4vR0GYyI) | 3:08 |
 | 26 | [absolute gewinner](https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [absolute gewinner](https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4) | 2:21 |
 | 27 | [Wenn Du Springst](https://open.spotify.com/track/6tGv9WOFiv14P6cpSEdeL6) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Schnee Im Sommer](https://open.spotify.com/album/1sjo1t4qs6MrfowKwoLhnH) | 2:57 |
 | 28 | [zwei bier \(la la la\)](https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [zwei bier \(la la la\)](https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa) | 3:29 |
-| 29 | [Lied vom donnernden Leben](https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Lied vom donnernden Leben](https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B) | 2:46 |
-| 30 | [Der Weg zu zweit](https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk) | [Der Weg zu zweit](https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1) | 2:32 |
+| 29 | [Der Weg zu zweit](https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk) | [Der Weg zu zweit](https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1) | 2:32 |
+| 30 | [Lied vom donnernden Leben](https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Lied vom donnernden Leben](https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B) | 2:46 |
 | 31 | [Therapie](https://open.spotify.com/track/0qDvx4nKq97cNYR3udSFBj) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Therapie](https://open.spotify.com/album/42NQ4ja4LsyTICmR1tL3vC) | 2:46 |
 | 32 | [Stures dummes Herz](https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO) | [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Stures dummes Herz](https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi) | 2:56 |
 | 33 | [Leere Flaschen](https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor) | [Anda Morts](https://open.spotify.com/artist/4I2FyJP0zs6IPgasQVwG7r) | [Leere Flaschen](https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK) | 2:53 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 38 | [Santorin](https://open.spotify.com/track/0LjYNuvubOTSr6g0LW8vYG) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Santorin](https://open.spotify.com/album/1MTXqKBpMDmbXCsWPnT6Bm) | 3:44 |
 | 39 | [Geheimnis](https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz) | [Florian Paul & Die Kapelle der letzten Hoffnung](https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV), [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Geheimnis](https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y) | 2:19 |
 | 40 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
-| 41 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
+| 41 | [Ostkreuz](https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy) | [Acht Eimer Hühnerherzen](https://open.spotify.com/artist/5Y2hHmvlOM6n0YP5wfe64i) | [Ostkreuz](https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF) | 3:25 |
 | 42 | [Mensch am Mond](https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Mensch am Mond](https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu) | 3:05 |
-| 43 | [Ostkreuz](https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy) | [Acht Eimer Hühnerherzen](https://open.spotify.com/artist/5Y2hHmvlOM6n0YP5wfe64i) | [Ostkreuz](https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF) | 3:25 |
+| 43 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
 | 44 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
 | 45 | [Niemand](https://open.spotify.com/track/3D61m9Qpfg6cOTJT2xk2Mp) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Niemand](https://open.spotify.com/album/3qytGqjTOexofW6yNOZvqX) | 3:04 |
 | 46 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |

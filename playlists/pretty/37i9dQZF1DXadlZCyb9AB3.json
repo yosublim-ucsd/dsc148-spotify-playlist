@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 175018,
+  "num_followers": 175140,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Double A Side",
-        "url": "https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO"
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA"
       },
       "artists": [
         {
-          "name": "Dream Nails",
-          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+          "name": "Slutever",
+          "url": "https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD"
         }
       ],
-      "duration_ms": 95373,
-      "name": "Vagina Police",
-      "url": "https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE"
+      "duration_ms": 146090,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "White Flag",
-        "url": "https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA"
+        "name": "Double A Side",
+        "url": "https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO"
       },
       "artists": [
         {
-          "name": "Slutever",
-          "url": "https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD"
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
         }
       ],
-      "duration_ms": 146090,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ"
+      "duration_ms": 95373,
+      "name": "Vagina Police",
+      "url": "https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "That's Not What I Heard",
-        "url": "https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "Where the Girls Are",
-      "url": "https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Soda Pop * Rip Off",
         "url": "https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 123240,
       "name": "What Kind of Monster Are You?",
       "url": "https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "That's Not What I Heard",
+        "url": "https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "Where the Girls Are",
+      "url": "https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "babyface",
-        "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
-      },
-      "artists": [
-        {
-          "name": "Sorry Mom",
-          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
-        }
-      ],
-      "duration_ms": 152297,
-      "name": "Seafood",
-      "url": "https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "xxx",
         "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 279787,
       "name": "Organs",
       "url": "https://open.spotify.com/track/369ZHVk9UlOxmRcjs6XeUr"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "babyface",
+        "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "duration_ms": 152297,
+      "name": "Seafood",
+      "url": "https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Hello Sir",
-        "url": "https://open.spotify.com/album/11N5aPE7xTJ3LxXrINuH8r"
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/50H78cd7BSk6xi8iWR5j6X"
       },
       "artists": [
         {
-          "name": "Lung Leg",
-          "url": "https://open.spotify.com/artist/4MSXrcdEDYgxKxlT1HpDiN"
+          "name": "Bacchae",
+          "url": "https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8"
         }
       ],
-      "duration_ms": 85493,
-      "name": "Kung Fu on the Internet",
-      "url": "https://open.spotify.com/track/0vFPN8xDwz6xWrFrAQvIoz"
+      "duration_ms": 165473,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/5LZmZSVTcDoGqhds6YJuBF"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Dead Man",
-        "url": "https://open.spotify.com/album/50H78cd7BSk6xi8iWR5j6X"
+        "name": "Hello Sir",
+        "url": "https://open.spotify.com/album/11N5aPE7xTJ3LxXrINuH8r"
       },
       "artists": [
         {
-          "name": "Bacchae",
-          "url": "https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8"
+          "name": "Lung Leg",
+          "url": "https://open.spotify.com/artist/4MSXrcdEDYgxKxlT1HpDiN"
         }
       ],
-      "duration_ms": 165473,
-      "name": "Dead Man",
-      "url": "https://open.spotify.com/track/5LZmZSVTcDoGqhds6YJuBF"
+      "duration_ms": 85493,
+      "name": "Kung Fu on the Internet",
+      "url": "https://open.spotify.com/track/0vFPN8xDwz6xWrFrAQvIoz"
     },
     {
       "added_at": "2024-07-22 20:24:37",

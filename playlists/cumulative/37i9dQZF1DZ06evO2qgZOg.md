@@ -2,7 +2,7 @@
 
 ### [This Is Skillet](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qgZOg)
 
-> This Is Skillet\. Los temas esenciales, todos en una lista.
+> This is Skillet\. Track\-track unggulan, semuanya dalam satu playlist.
 
 58 songs - 3 hr 31 min
 

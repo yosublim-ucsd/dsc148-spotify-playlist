@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=bNiHIB34TMaspnYDyfPLug">Phina</a>
 
-185 songs - 16 hr 14 min
+188 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Amenifanyia Amani](https://open.spotify.com/track/0RHHtjtdCby9OnPL2qvsZy) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 7:48 | 2022-06-24 |  |
 | [Ameniweka huru kweli](https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9) | [Papi Clever & Dorcas](https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J) | [AMENIWEKA HURU KWELI \(Nyimbo za wokovu\) ALBUM 2](https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu) | 6:38 | 2023-08-25 |  |
 | [Amua](https://open.spotify.com/track/4MJ9npZ1snF0HaquPpjqZV) | [Alexis Zawadi](https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3) | [Amua](https://open.spotify.com/album/3r8SRWMxBde6awir8fXmca) | 6:29 | 2023-05-12 | 2023-11-03 |
+| [Anabadilisha Matokeo](https://open.spotify.com/track/2OvikG1Odt1ADNBS9LjXm1) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Anabadilisha Matokeo](https://open.spotify.com/album/6LHPTkupbo2Zrsi2UdVpra) | 3:49 | 2024-08-16 |  |
 | [Anatengeneza](https://open.spotify.com/track/52C9ZVQeeeVUb9q9hXe0f7) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 8:28 | 2022-06-24 | 2023-04-21 |
 | [Asante Yesu](https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3) | 4:55 | 2022-06-24 |  |
 | [Asante Yesu](https://open.spotify.com/track/2rUsag6KYqJAT2FikN7Kdt) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7xdM3ySr8c2PNbdrAKeZ3P) | 4:55 | 2022-06-24 | 2024-04-19 |
@@ -67,6 +68,7 @@
 | [Mafinyo](https://open.spotify.com/track/0Dvegx9rdQ1zcDuwrmD9lg) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Mafinyo](https://open.spotify.com/album/35OrbuAz7HimsFYUwE4QfQ) | 3:14 | 2024-05-10 | 2024-05-11 |
 | [Mafinyo](https://open.spotify.com/track/37dBDlByr5JgfQ6GuoBNuU) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Garvey Royal](https://open.spotify.com/artist/16Kak1UGaE15pDnmAhdH2N), [Desito](https://open.spotify.com/artist/3RVwTLQZE6h8OxDAOjCRrN) | [Mafinyo](https://open.spotify.com/album/363I7oqJXVSinPYXaNOdTz) | 3:14 | 2024-05-17 | 2024-06-01 |
 | [Maisha Yangu \(B'Ola\) \- Live](https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu \(B'Ola\) \[Live\]](https://open.spotify.com/album/4f288ErjAgfMrpxPIHvazp) | 4:13 | 2024-07-19 |  |
+| [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 | 2024-08-16 |  |
 | [Majina Yote Jehovah](https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn) | [Dedo Dieumerci](https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR), [Naomi Mugiraneza](https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm) | [Hymnos 2](https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE) | 9:42 | 2023-06-09 |  |
 | [Malaika x Bien](https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Malaika x Bien](https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3) | 3:55 | 2024-06-21 |  |
 | [Maneno](https://open.spotify.com/track/26CBYYDZANC7IaaAXTJIS1) | [Betty Bayo](https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T) | [11th Hour](https://open.spotify.com/album/3H9GR3WPkAnmcCseOj9XmS) | 6:10 | 2022-06-24 |  |
@@ -179,6 +181,7 @@
 | [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 | 2022-06-24 | 2023-09-08 |
 | [Victory Belongs To Jesus \(Live\)](https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart \(Live\)](https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB) | 5:44 | 2022-06-24 | 2022-11-13 |
 | [Vinakamilika](https://open.spotify.com/track/2ZIO3PTsc9fPcReItUXTb3) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Vinakamilika](https://open.spotify.com/album/1rWb2lyPR9VE2kaJsFzYDA) | 6:53 | 2022-06-24 | 2023-06-16 |
+| [Waiting on You](https://open.spotify.com/track/5RjpRcqQheQlV6X0t1lq6T) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Waiting on You](https://open.spotify.com/album/141PfZ1HufWI7JluBmnmwi) | 4:33 | 2024-08-16 |  |
 | [Walivuka Bahari](https://open.spotify.com/track/3CFKRg3IFez8ohXZh4KkMz) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Walivuka Bahari](https://open.spotify.com/album/0PRORcHoJD83CWsJH895hP) | 6:35 | 2022-06-24 | 2023-03-11 |
 | [Wanishangaza](https://open.spotify.com/track/76qoWyVNx46H2JS1xbj0WP) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4) | [Uka](https://open.spotify.com/album/656ePpgxQbEkzp9zsQWwSf) | 4:13 | 2022-06-24 | 2023-05-26 |
 | [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:34 | 2024-06-21 |  |

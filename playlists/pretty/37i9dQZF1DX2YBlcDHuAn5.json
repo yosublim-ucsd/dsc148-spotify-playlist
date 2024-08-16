@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7914,
+  "num_followers": 7925,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Feel Like Going Home (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 185984,
       "name": "Trouble (Sunday Version)",
       "url": "https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Desert Bride",
-        "url": "https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW"
+        "name": "Big Thing",
+        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
       "artists": [
         {
-          "name": "VanWyck",
-          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
         }
       ],
-      "duration_ms": 255953,
-      "name": "Desert Bride",
-      "url": "https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW"
+      "duration_ms": 215440,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Big Thing",
-        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
+        "name": "Desert Bride",
+        "url": "https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW"
       },
       "artists": [
         {
-          "name": "Elephant",
-          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
         }
       ],
-      "duration_ms": 215440,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
+      "duration_ms": 255953,
+      "name": "Desert Bride",
+      "url": "https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Built And Broken",
+        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "Built And Broken",
+      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Keep It Simple",
         "url": "https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 193426,
       "name": "Keep It Simple",
       "url": "https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Brand New Life",
-        "url": "https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU"
-      },
-      "artists": [
-        {
-          "name": "Gregory Ackerman",
-          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
-        }
-      ],
-      "duration_ms": 153193,
-      "name": "When It's Through",
-      "url": "https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Built And Broken",
-        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU"
       },
       "artists": [
         {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+          "name": "Gregory Ackerman",
+          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
         }
       ],
-      "duration_ms": 268293,
-      "name": "Built And Broken",
-      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
+      "duration_ms": 153193,
+      "name": "When It's Through",
+      "url": "https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH"
     },
     {
       "added_at": "2024-08-01 22:00:00",

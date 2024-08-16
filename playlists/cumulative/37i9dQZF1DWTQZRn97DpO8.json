@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Ruthee",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Cikey",
   "name": "le miel",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 229339,
       "name": "An\u00e9mone",
       "url": "https://open.spotify.com/track/67sUBaW1oE1xD19STSAXgE"
+    },
+    {
+      "album": {
+        "name": "On verra apr\u00e8s l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/1M9IXFB282zyzdhp0CSSm7"
+      },
+      "artists": [
+        {
+          "name": "Nu Linh",
+          "url": "https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "apr\u00e8s l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/6Dh3l2G4elvQTIQHM9VfCK"
     },
     {
       "album": {
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 121263,
       "name": "Vide",
       "url": "https://open.spotify.com/track/14fGCCjD2CDIcS2DAIyBCj"

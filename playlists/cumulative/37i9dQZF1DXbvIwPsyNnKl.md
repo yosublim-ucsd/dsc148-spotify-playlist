@@ -2,9 +2,9 @@
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Realest Cram, ENZO MF
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: HELLMERRY
 
-173 songs - 9 hr 53 min
+174 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [RAW](https://open.spotify.com/track/6YK6D1wwSEK2DfAC6HXR2m) | [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [RAW](https://open.spotify.com/album/775RKE5HoZQlRqLlukngVI) | 2:03 | 2023-11-08 | 2023-12-21 |
 | [Real Love](https://open.spotify.com/track/2rHlkGQAXF0Z0mKWsC38d0) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Real Love](https://open.spotify.com/album/0WO2RnfXjz2WeYDsRhQP98) | 2:54 | 2024-07-31 |  |
 | [Real Talk](https://open.spotify.com/track/7pWNl0BdWqYvT9swgDqZAq) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Real Talk](https://open.spotify.com/album/1RuWV3kpG2gFEinRXB7ntu) | 3:12 | 2024-06-20 |  |
+| [Regrets](https://open.spotify.com/track/07TlwpmIzJE0nMffVhJDDx) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [BLUDEVL](https://open.spotify.com/album/2IjAbVlaGvgpWOUcVQjK8x) | 4:04 | 2024-08-16 |  |
 | [SA'YO LANG](https://open.spotify.com/track/1DQdAQW9QxjPqLm1cFC6EL) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [SA'YO LANG](https://open.spotify.com/album/5h87BNGNhIpVde4Ttnu5DQ) | 4:02 | 2024-08-14 |  |
 | [Sabak Daddy](https://open.spotify.com/track/6DkK11BIC836tTu3056Kxg) | [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Sabak Daddy](https://open.spotify.com/album/35yzIYk6qn8gUB7HLuPGvi) | 2:13 | 2023-09-20 | 2023-10-05 |
 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 | 2024-02-28 | 2024-07-18 |

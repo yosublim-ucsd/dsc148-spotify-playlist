@@ -1,13 +1,29 @@
 {
   "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jordy Waelauruw",
-  "num_followers": 105505,
+  "num_followers": 105515,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrT5kAAAAADWmXy7L89lDVhvabANgxlH",
+  "snapshot_id": "Zr40EAAAAACcguoVuPUrIRlu0Uguwkir",
   "tracks": [
+    {
+      "added_at": "2024-08-15 17:00:00",
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX"
+      },
+      "artists": [
+        {
+          "name": "ikkubaru",
+          "url": "https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Catch The Love",
+      "url": "https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn"
+    },
     {
       "added_at": "2024-08-08 17:00:00",
       "album": {
@@ -63,22 +79,6 @@
     {
       "added_at": "2024-08-08 17:00:00",
       "album": {
-        "name": "Dengarkanlah Radio",
-        "url": "https://open.spotify.com/album/23lPxeNP80h9f8ZC0jZ3o4"
-      },
-      "artists": [
-        {
-          "name": "NonaRia",
-          "url": "https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Donny",
-      "url": "https://open.spotify.com/track/0fIy9P9Sts9F4aAMDGjgty"
-    },
-    {
-      "added_at": "2024-08-08 17:00:00",
-      "album": {
         "name": "My Funny Guy",
         "url": "https://open.spotify.com/album/7IIr2aHjaqAE0JQOxfePvy"
       },
@@ -115,22 +115,18 @@
     {
       "added_at": "2024-08-08 17:00:00",
       "album": {
-        "name": "Music To My Soul (Special)",
-        "url": "https://open.spotify.com/album/1sd9LFjN1hqsinzdUFTC0G"
+        "name": "Dengarkanlah Radio",
+        "url": "https://open.spotify.com/album/23lPxeNP80h9f8ZC0jZ3o4"
       },
       "artists": [
         {
-          "name": "Heyru",
-          "url": "https://open.spotify.com/artist/1VLQWJyEb1apcDzhyOrmWH"
-        },
-        {
-          "name": "Fabiolous",
-          "url": "https://open.spotify.com/artist/2HnIXtsVHBDu2PrB8f3nyz"
+          "name": "NonaRia",
+          "url": "https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2"
         }
       ],
-      "duration_ms": 283346,
-      "name": "Music To My Soul (Special)",
-      "url": "https://open.spotify.com/track/1YXlBYdTsy0pWvRHi9ScVF"
+      "duration_ms": 139000,
+      "name": "Donny",
+      "url": "https://open.spotify.com/track/0fIy9P9Sts9F4aAMDGjgty"
     },
     {
       "added_at": "2024-08-08 17:00:00",
@@ -151,6 +147,42 @@
       "duration_ms": 274166,
       "name": "Isn't It Romantic?",
       "url": "https://open.spotify.com/track/1x5Xlm3uF84c6brdgeBxoH"
+    },
+    {
+      "added_at": "2024-08-08 17:00:00",
+      "album": {
+        "name": "Asmara",
+        "url": "https://open.spotify.com/album/061Mg16yhNGO78Sf1PVBHI"
+      },
+      "artists": [
+        {
+          "name": "Sliver",
+          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
+        }
+      ],
+      "duration_ms": 177981,
+      "name": "Asmara",
+      "url": "https://open.spotify.com/track/7a3eTduVogqs3nBnMJ41es"
+    },
+    {
+      "added_at": "2024-08-08 17:00:00",
+      "album": {
+        "name": "Music To My Soul (Special)",
+        "url": "https://open.spotify.com/album/1sd9LFjN1hqsinzdUFTC0G"
+      },
+      "artists": [
+        {
+          "name": "Heyru",
+          "url": "https://open.spotify.com/artist/1VLQWJyEb1apcDzhyOrmWH"
+        },
+        {
+          "name": "Fabiolous",
+          "url": "https://open.spotify.com/artist/2HnIXtsVHBDu2PrB8f3nyz"
+        }
+      ],
+      "duration_ms": 283346,
+      "name": "Music To My Soul (Special)",
+      "url": "https://open.spotify.com/track/1YXlBYdTsy0pWvRHi9ScVF"
     },
     {
       "added_at": "2024-08-08 17:00:00",
@@ -183,22 +215,6 @@
       "duration_ms": 354413,
       "name": "Nyomennyoh",
       "url": "https://open.spotify.com/track/3vbjE0uKesNplB2q37pLqr"
-    },
-    {
-      "added_at": "2024-08-08 17:00:00",
-      "album": {
-        "name": "Asmara",
-        "url": "https://open.spotify.com/album/061Mg16yhNGO78Sf1PVBHI"
-      },
-      "artists": [
-        {
-          "name": "Sliver",
-          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
-        }
-      ],
-      "duration_ms": 177981,
-      "name": "Asmara",
-      "url": "https://open.spotify.com/track/7a3eTduVogqs3nBnMJ41es"
     },
     {
       "added_at": "2024-08-08 17:00:00",
@@ -1387,26 +1403,6 @@
     {
       "added_at": "2024-08-08 17:00:00",
       "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/4j91PSb0jkfbXVr6RAPL3X"
-      },
-      "artists": [
-        {
-          "name": "Littlefingers",
-          "url": "https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU"
-        },
-        {
-          "name": "Imelda Lizal",
-          "url": "https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL"
-        }
-      ],
-      "duration_ms": 242314,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/1G9BVTcFvYDVihnGZ6DoEU"
-    },
-    {
-      "added_at": "2024-08-08 17:00:00",
-      "album": {
         "name": "Ruang Malam",
         "url": "https://open.spotify.com/album/7oTPRaFY44BUTuDqUmFQH5"
       },
@@ -1815,22 +1811,6 @@
       "duration_ms": 197701,
       "name": "Waktuku Hampa",
       "url": "https://open.spotify.com/track/38JbxxHkbG6DXOpygjIxpK"
-    },
-    {
-      "added_at": "2024-08-08 17:00:00",
-      "album": {
-        "name": "Berdansa Sejenak",
-        "url": "https://open.spotify.com/album/2Hk1gGS699WYzv1L3UpHjp"
-      },
-      "artists": [
-        {
-          "name": "djalto",
-          "url": "https://open.spotify.com/artist/17s3iWyEdWg6OnUePMXG7r"
-        }
-      ],
-      "duration_ms": 195644,
-      "name": "Berdansa Sejenak",
-      "url": "https://open.spotify.com/track/4wQc5aLDPH58ncFsv1EpnD"
     },
     {
       "added_at": "2024-08-08 17:00:00",

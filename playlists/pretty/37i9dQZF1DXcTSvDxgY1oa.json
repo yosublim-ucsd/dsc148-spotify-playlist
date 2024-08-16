@@ -127,6 +127,26 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Nothing Ever Happens Around Here",
+        "url": "https://open.spotify.com/album/6SDfF97SR7lQQWE50Nq3Qj"
+      },
+      "artists": [
+        {
+          "name": "Navigate",
+          "url": "https://open.spotify.com/artist/5fyf5Kv3KCEOH2dWsHVWqZ"
+        },
+        {
+          "name": "Vincent Tesoro",
+          "url": "https://open.spotify.com/artist/40E45BI9Qpg3gzcHe4NgPX"
+        }
+      ],
+      "duration_ms": 135447,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/23herECwL0FJOKSvAO3Ens"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Quick Fix",
         "url": "https://open.spotify.com/album/4mteqho6RQeihZYTRaqMrQ"
       },
@@ -151,26 +171,6 @@
       "duration_ms": 128695,
       "name": "Quick Fix",
       "url": "https://open.spotify.com/track/4tsiKeoa94gRFZgU2BaUqA"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Nothing Ever Happens Around Here",
-        "url": "https://open.spotify.com/album/6SDfF97SR7lQQWE50Nq3Qj"
-      },
-      "artists": [
-        {
-          "name": "Navigate",
-          "url": "https://open.spotify.com/artist/5fyf5Kv3KCEOH2dWsHVWqZ"
-        },
-        {
-          "name": "Vincent Tesoro",
-          "url": "https://open.spotify.com/artist/40E45BI9Qpg3gzcHe4NgPX"
-        }
-      ],
-      "duration_ms": 135447,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/23herECwL0FJOKSvAO3Ens"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "golden smile",
-        "url": "https://open.spotify.com/album/1MaTDkIrwzdb8Pbgc7sDoC"
-      },
-      "artists": [
-        {
-          "name": "DEHAZE",
-          "url": "https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4"
-        }
-      ],
-      "duration_ms": 184279,
-      "name": "golden smile",
-      "url": "https://open.spotify.com/track/53O7MrXH2wD9aiDlBf31gD"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Bricks",
         "url": "https://open.spotify.com/album/2rhNRVQaqL1mhwXvC1gunX"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "golden smile",
+        "url": "https://open.spotify.com/album/1MaTDkIrwzdb8Pbgc7sDoC"
+      },
+      "artists": [
+        {
+          "name": "DEHAZE",
+          "url": "https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4"
+        }
+      ],
+      "duration_ms": 184279,
+      "name": "golden smile",
+      "url": "https://open.spotify.com/track/53O7MrXH2wD9aiDlBf31gD"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Payback",
         "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 142386,
       "name": "Payback",
       "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Verrassing",
-        "url": "https://open.spotify.com/album/6qfMiCG2E4fWvYt1tWFSFS"
-      },
-      "artists": [
-        {
-          "name": "Aarde aan Daan",
-          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
-        }
-      ],
-      "duration_ms": 192010,
-      "name": "Verrassing",
-      "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -387,6 +371,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Verrassing",
+        "url": "https://open.spotify.com/album/6qfMiCG2E4fWvYt1tWFSFS"
+      },
+      "artists": [
+        {
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
+        }
+      ],
+      "duration_ms": 192010,
+      "name": "Verrassing",
+      "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Sirocco",
         "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
       },
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "That Day (Live At Wisseloord Studios)",
-        "url": "https://open.spotify.com/album/5vhyyMG04e9SON9vlBJMKa"
-      },
-      "artists": [
-        {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
-        },
-        {
-          "name": "3SOME",
-          "url": "https://open.spotify.com/artist/5U0pkfGtvIQC43ZirKRqHh"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "That Day - Live At Wisseloord Studios",
-      "url": "https://open.spotify.com/track/6pX7qn0BCudhLdKQprzytg"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Zoete Verleiding",
         "url": "https://open.spotify.com/album/1XbhxmewR0fZfncqBARZTD"
       },
@@ -455,18 +435,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "FASE",
-        "url": "https://open.spotify.com/album/2Lh1lQDHQNAlRc8tkUIAgB"
+        "name": "That Day (Live At Wisseloord Studios)",
+        "url": "https://open.spotify.com/album/5vhyyMG04e9SON9vlBJMKa"
       },
       "artists": [
         {
-          "name": "ZWARTEWATER",
-          "url": "https://open.spotify.com/artist/0qjNXGpT9azm5lmVw6rYfA"
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        },
+        {
+          "name": "3SOME",
+          "url": "https://open.spotify.com/artist/5U0pkfGtvIQC43ZirKRqHh"
         }
       ],
-      "duration_ms": 180705,
-      "name": "FASE",
-      "url": "https://open.spotify.com/track/7dMFcCdzfyj1mC7zX3bEZd"
+      "duration_ms": 209558,
+      "name": "That Day - Live At Wisseloord Studios",
+      "url": "https://open.spotify.com/track/6pX7qn0BCudhLdKQprzytg"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -515,6 +499,22 @@
       "duration_ms": 129272,
       "name": "Zoals Jij",
       "url": "https://open.spotify.com/track/7mOnZDmJEpBrAPlWpSm4G9"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "FASE",
+        "url": "https://open.spotify.com/album/2Lh1lQDHQNAlRc8tkUIAgB"
+      },
+      "artists": [
+        {
+          "name": "ZWARTEWATER",
+          "url": "https://open.spotify.com/artist/0qjNXGpT9azm5lmVw6rYfA"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "FASE",
+      "url": "https://open.spotify.com/track/7dMFcCdzfyj1mC7zX3bEZd"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Take Me Somewhere Nice",
+        "url": "https://open.spotify.com/album/7HypvdZKOCDMUFjKuhpa8W"
+      },
+      "artists": [
+        {
+          "name": "32elephants",
+          "url": "https://open.spotify.com/artist/1Gn8d7ZMm7DysJLkJj3NR3"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Take Me Somewhere Nice",
+      "url": "https://open.spotify.com/track/5XzKAjlorf06g0LWQE3VYV"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "The Hanging Clown",
         "url": "https://open.spotify.com/album/0N5ymTiuUtpvnkHxBD92H4"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Take Me Somewhere Nice",
-        "url": "https://open.spotify.com/album/7HypvdZKOCDMUFjKuhpa8W"
+        "name": "Inter-Minus-Net",
+        "url": "https://open.spotify.com/album/01I1uWAPQFE4UEtc6Sbozf"
       },
       "artists": [
         {
-          "name": "32elephants",
-          "url": "https://open.spotify.com/artist/1Gn8d7ZMm7DysJLkJj3NR3"
+          "name": "Gespuys",
+          "url": "https://open.spotify.com/artist/0ZhdE8XU91DF4i0trcK5b2"
         }
       ],
-      "duration_ms": 175909,
-      "name": "Take Me Somewhere Nice",
-      "url": "https://open.spotify.com/track/5XzKAjlorf06g0LWQE3VYV"
+      "duration_ms": 173242,
+      "name": "Inter-Minus-Net",
+      "url": "https://open.spotify.com/track/5IPQOYGSBLF6pO2KNmcxvM"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -663,34 +679,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Inter-Minus-Net",
-        "url": "https://open.spotify.com/album/01I1uWAPQFE4UEtc6Sbozf"
+        "name": "Liever Lui Dan Moe",
+        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
       },
       "artists": [
         {
-          "name": "Gespuys",
-          "url": "https://open.spotify.com/artist/0ZhdE8XU91DF4i0trcK5b2"
+          "name": "R\u00f8yking",
+          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
         }
       ],
-      "duration_ms": 173242,
-      "name": "Inter-Minus-Net",
-      "url": "https://open.spotify.com/track/5IPQOYGSBLF6pO2KNmcxvM"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Way Too Deep",
-        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
-      },
-      "artists": [
-        {
-          "name": "HALF CAB",
-          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Way Too Deep",
-      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
+      "duration_ms": 150233,
+      "name": "Liever Lui Dan Moe",
+      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Way Too Deep",
+        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
+      },
+      "artists": [
+        {
+          "name": "HALF CAB",
+          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Way Too Deep",
+      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Mama Dankjewel",
         "url": "https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Liever Lui Dan Moe",
-        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
-      },
-      "artists": [
-        {
-          "name": "R\u00f8yking",
-          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
-        }
-      ],
-      "duration_ms": 150233,
-      "name": "Liever Lui Dan Moe",
-      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Show Don't Tell",
         "url": "https://open.spotify.com/album/1xUluMn9ZNIrWRF505SLIV"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 237926,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/5HWcdjN8mdD2B0jbn96aoT"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Then You Know",
+        "url": "https://open.spotify.com/album/33szRZCRaCeSIPXhmzsEn2"
+      },
+      "artists": [
+        {
+          "name": "Jacob Drescher",
+          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
+        }
+      ],
+      "duration_ms": 287179,
+      "name": "Then You Know",
+      "url": "https://open.spotify.com/track/3wloUn32vK3P5sX0VV5wxj"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -791,22 +807,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Then You Know",
-        "url": "https://open.spotify.com/album/33szRZCRaCeSIPXhmzsEn2"
-      },
-      "artists": [
-        {
-          "name": "Jacob Drescher",
-          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
-        }
-      ],
-      "duration_ms": 287179,
-      "name": "Then You Know",
-      "url": "https://open.spotify.com/track/3wloUn32vK3P5sX0VV5wxj"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Blushing Over Nothing",
         "url": "https://open.spotify.com/album/0agxsN2RKY1dmUuqZtSd4I"
       },
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Good Company",
-        "url": "https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5"
+        "name": "High Wire",
+        "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
       },
       "artists": [
         {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+          "name": "Sol Power",
+          "url": "https://open.spotify.com/artist/09YruwmKMkdwBgREy572ao"
         }
       ],
-      "duration_ms": 236646,
-      "name": "Good Company",
-      "url": "https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9"
+      "duration_ms": 126000,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -871,34 +871,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "FUEGO",
-        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
+        "name": "Good Company",
+        "url": "https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5"
       },
       "artists": [
         {
-          "name": "QUANZA",
-          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
         }
       ],
-      "duration_ms": 220068,
-      "name": "FUEGO",
-      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "High Wire",
-        "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
-      },
-      "artists": [
-        {
-          "name": "Sol Power",
-          "url": "https://open.spotify.com/artist/09YruwmKMkdwBgREy572ao"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "High Wire",
-      "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
+      "duration_ms": 236646,
+      "name": "Good Company",
+      "url": "https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Come On In",
-        "url": "https://open.spotify.com/album/05uzU3ddIhHgvA50dNfzXs"
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
       },
       "artists": [
         {
-          "name": "Sonic Whip",
-          "url": "https://open.spotify.com/artist/2RydJze7DD9pybPixyXRan"
+          "name": "QUANZA",
+          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
         }
       ],
-      "duration_ms": 209002,
-      "name": "Come On In",
-      "url": "https://open.spotify.com/track/68Zcn2RvSbtRhldSRDfxsF"
+      "duration_ms": 220068,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -947,6 +931,38 @@
       "duration_ms": 130869,
       "name": "iK",
       "url": "https://open.spotify.com/track/0fmFEsGfXtRZeQxdRQRf3E"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Come On In",
+        "url": "https://open.spotify.com/album/05uzU3ddIhHgvA50dNfzXs"
+      },
+      "artists": [
+        {
+          "name": "Sonic Whip",
+          "url": "https://open.spotify.com/artist/2RydJze7DD9pybPixyXRan"
+        }
+      ],
+      "duration_ms": 209002,
+      "name": "Come On In",
+      "url": "https://open.spotify.com/track/68Zcn2RvSbtRhldSRDfxsF"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
+      },
+      "artists": [
+        {
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -983,22 +999,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
-      },
-      "artists": [
-        {
-          "name": "ISA\u00cf",
-          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Haya",
         "url": "https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Niks Doen",
-        "url": "https://open.spotify.com/album/4F6tgYvqXPDj6r5eQmhEkZ"
+        "name": "met de beste intenties",
+        "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
       },
       "artists": [
         {
-          "name": "Gijsjaradijsja",
-          "url": "https://open.spotify.com/artist/7JOfgcKsCDFyGrgIOFDxZZ"
+          "name": "Jean Jacques",
+          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
         }
       ],
-      "duration_ms": 128821,
-      "name": "Niks Doen",
-      "url": "https://open.spotify.com/track/1Np2YDk3Ti4DnMV3tTrSOJ"
+      "duration_ms": 159669,
+      "name": "beste intenties",
+      "url": "https://open.spotify.com/track/4wb9qDF28vkAM0883WtUYP"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1067,34 +1067,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "met de beste intenties",
-        "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
+        "name": "Niks Doen",
+        "url": "https://open.spotify.com/album/4F6tgYvqXPDj6r5eQmhEkZ"
       },
       "artists": [
         {
-          "name": "Jean Jacques",
-          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
+          "name": "Gijsjaradijsja",
+          "url": "https://open.spotify.com/artist/7JOfgcKsCDFyGrgIOFDxZZ"
         }
       ],
-      "duration_ms": 159669,
-      "name": "beste intenties",
-      "url": "https://open.spotify.com/track/4wb9qDF28vkAM0883WtUYP"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "I Can't Lie",
-        "url": "https://open.spotify.com/album/1pDKBwfHmfCr5ycL7qnoGN"
-      },
-      "artists": [
-        {
-          "name": "SAMS",
-          "url": "https://open.spotify.com/artist/2xGOxcVaKQ9hXVdLAbywGT"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "I Can't Lie",
-      "url": "https://open.spotify.com/track/0CLUGkolqLXfB2jtLYU4co"
+      "duration_ms": 128821,
+      "name": "Niks Doen",
+      "url": "https://open.spotify.com/track/1Np2YDk3Ti4DnMV3tTrSOJ"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1111,6 +1095,22 @@
       "duration_ms": 240000,
       "name": "Flat Caps And Rain Macs",
       "url": "https://open.spotify.com/track/6gEAJOiTe9Gp55wLUulb6D"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "I Can't Lie",
+        "url": "https://open.spotify.com/album/1pDKBwfHmfCr5ycL7qnoGN"
+      },
+      "artists": [
+        {
+          "name": "SAMS",
+          "url": "https://open.spotify.com/artist/2xGOxcVaKQ9hXVdLAbywGT"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "I Can't Lie",
+      "url": "https://open.spotify.com/track/0CLUGkolqLXfB2jtLYU4co"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Zwemmen In Het Geld",
+        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
+      },
+      "artists": [
+        {
+          "name": "Zeevlinder",
+          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
+        }
+      ],
+      "duration_ms": 170883,
+      "name": "Zwemmen In Het Geld",
+      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Titanomachy",
         "url": "https://open.spotify.com/album/5l6XiWQn8o8QOOuDHu3mhf"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 395966,
       "name": "Los Anarquistitas",
       "url": "https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Zwemmen In Het Geld",
-        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
-      },
-      "artists": [
-        {
-          "name": "Zeevlinder",
-          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
-        }
-      ],
-      "duration_ms": 170883,
-      "name": "Zwemmen In Het Geld",
-      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "What's The Rush",
-        "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
-      },
-      "artists": [
-        {
-          "name": "MEERKAT",
-          "url": "https://open.spotify.com/artist/7MmsNCnjrEMKo9OhziCxZb"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Jerome",
-      "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Whirligig",
         "url": "https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 227354,
       "name": "Cemetery Caretaker",
       "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "What's The Rush",
+        "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
+      },
+      "artists": [
+        {
+          "name": "MEERKAT",
+          "url": "https://open.spotify.com/artist/7MmsNCnjrEMKo9OhziCxZb"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Jerome",
+      "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Les Heures du Jour",
+        "url": "https://open.spotify.com/album/4QyIqQYLvj7AXXBiZQ2Mzg"
+      },
+      "artists": [
+        {
+          "name": "Frerick Den Haan",
+          "url": "https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5"
+        }
+      ],
+      "duration_ms": 182784,
+      "name": "\u00c9clat du Jour (Brightness of Day)",
+      "url": "https://open.spotify.com/track/09U0q9Nriba5j8HlcoI3vH"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/4hJJ5TaQYinRXS9KWeKKc6"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 154000,
       "name": "Home Is Not a Place",
       "url": "https://open.spotify.com/track/4pmBo4y4Ri0ZxAxers3Ixa"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Les Heures du Jour",
-        "url": "https://open.spotify.com/album/4QyIqQYLvj7AXXBiZQ2Mzg"
-      },
-      "artists": [
-        {
-          "name": "Frerick Den Haan",
-          "url": "https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5"
-        }
-      ],
-      "duration_ms": 182784,
-      "name": "\u00c9clat du Jour (Brightness of Day)",
-      "url": "https://open.spotify.com/track/09U0q9Nriba5j8HlcoI3vH"
     },
     {
       "added_at": "2024-07-01 08:44:42",

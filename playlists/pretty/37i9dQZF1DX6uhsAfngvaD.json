@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 309531,
+  "num_followers": 309596,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
       },
       "artists": [
         {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+          "name": "Swiss Portrait",
+          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
         }
       ],
-      "duration_ms": 202922,
-      "name": "80's High School",
-      "url": "https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw"
+      "duration_ms": 160700,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
     },
     {
       "added_at": "2024-01-26 00:52:30",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
       },
       "artists": [
         {
-          "name": "Swiss Portrait",
-          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 160700,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
+      "duration_ms": 202922,
+      "name": "80's High School",
+      "url": "https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
     },
     {
-      "added_at": "2024-02-21 11:35:46",
-      "album": {
-        "name": "baby's out of luck again",
-        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "baby\u2019s out of luck again",
-      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "27 Club",
@@ -591,6 +575,22 @@
       "duration_ms": 214137,
       "name": "27 Club",
       "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
+    },
+    {
+      "added_at": "2024-02-21 11:35:46",
+      "album": {
+        "name": "baby's out of luck again",
+        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "baby\u2019s out of luck again",
+      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
     },
     {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "Flying Wig",
-        "url": "https://open.spotify.com/album/7vvTyj4ORSliWgfqdBspYp"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 268659,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/46JwWkm9rEycvh5mI4lpCx"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Radio",
@@ -643,6 +627,22 @@
       "duration_ms": 188560,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "Flying Wig",
+        "url": "https://open.spotify.com/album/7vvTyj4ORSliWgfqdBspYp"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 268659,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/46JwWkm9rEycvh5mI4lpCx"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Ways To Get Out (Deluxe)",
-        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Come Down and Waste With Me",
-      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Cellar",
         "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 245998,
       "name": "Cellar",
       "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Ways To Get Out (Deluxe)",
+        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Come Down and Waste With Me",
+      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -809,38 +809,6 @@
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
     },
     {
-      "added_at": "2024-01-26 00:52:30",
-      "album": {
-        "name": "Heaven Sent (Between Heavens B-Sides)",
-        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
-      },
-      "artists": [
-        {
-          "name": "Ruby Haunt",
-          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Nadine",
-      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "So Humble The Afternoon",
-        "url": "https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 322840,
-      "name": "So Humble the Afternoon",
-      "url": "https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx"
-    },
-    {
       "added_at": "2024-02-09 00:00:00",
       "album": {
         "name": "I've Been Dreaming Of You",
@@ -859,6 +827,38 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "So Humble The Afternoon",
+        "url": "https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 322840,
+      "name": "So Humble the Afternoon",
+      "url": "https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx"
+    },
+    {
+      "added_at": "2024-01-26 00:52:30",
+      "album": {
+        "name": "Heaven Sent (Between Heavens B-Sides)",
+        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
+      },
+      "artists": [
+        {
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Nadine",
+      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "rest up",
         "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 204464,
       "name": "rest up",
       "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
-    },
-    {
-      "added_at": "2024-02-09 00:00:00",
-      "album": {
-        "name": "2016",
-        "url": "https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 180033,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
     },
     {
       "added_at": "2024-01-26 00:52:30",
@@ -903,22 +887,6 @@
       "duration_ms": 179839,
       "name": "Quite Like You",
       "url": "https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
-      },
-      "artists": [
-        {
-          "name": "Oscar and the Wolf",
-          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
-        }
-      ],
-      "duration_ms": 269268,
-      "name": "James",
-      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -943,6 +911,38 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "James",
+        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
+      },
+      "artists": [
+        {
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        }
+      ],
+      "duration_ms": 269268,
+      "name": "James",
+      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 180033,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "If I Come Home",
         "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 216145,
       "name": "If I Come Home",
       "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Never Apart",
+        "url": "https://open.spotify.com/album/1cwSdbCXfll0VQjKEQv3c9"
+      },
+      "artists": [
+        {
+          "name": "Old Man Canyon",
+          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
+        }
+      ],
+      "duration_ms": 247649,
+      "name": "Never Apart",
+      "url": "https://open.spotify.com/track/1ku2wcKgP7y0gQmLMUsp0D"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -995,22 +1011,6 @@
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Never Apart",
-        "url": "https://open.spotify.com/album/1cwSdbCXfll0VQjKEQv3c9"
-      },
-      "artists": [
-        {
-          "name": "Old Man Canyon",
-          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
-        }
-      ],
-      "duration_ms": 247649,
-      "name": "Never Apart",
-      "url": "https://open.spotify.com/track/1ku2wcKgP7y0gQmLMUsp0D"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
     },
     {
-      "added_at": "2024-02-21 11:35:46",
-      "album": {
-        "name": "Standard Tuning",
-        "url": "https://open.spotify.com/album/3kNoURlBf85G3B80lndXSP"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 264279,
-      "name": "Standard Tuning",
-      "url": "https://open.spotify.com/track/61MO0SkYsYMeREzLNqFI2p"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "The Dark",
@@ -1183,6 +1167,22 @@
       "duration_ms": 235653,
       "name": "The Dark",
       "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
+    },
+    {
+      "added_at": "2024-02-21 11:35:46",
+      "album": {
+        "name": "Standard Tuning",
+        "url": "https://open.spotify.com/album/3kNoURlBf85G3B80lndXSP"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 264279,
+      "name": "Standard Tuning",
+      "url": "https://open.spotify.com/track/61MO0SkYsYMeREzLNqFI2p"
     },
     {
       "added_at": "2024-01-26 00:52:30",

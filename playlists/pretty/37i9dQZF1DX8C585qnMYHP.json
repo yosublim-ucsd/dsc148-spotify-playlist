@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Malcriada on cover. Artwork by Thami Nabil",
-  "num_followers": 169119,
+  "num_followers": 169194,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
-      },
-      "artists": [
-        {
-          "name": "Fuubutsushi",
-          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Distance Learner",
-      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
         "name": "All good?",
         "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
+      },
+      "artists": [
+        {
+          "name": "Fuubutsushi",
+          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Distance Learner",
+      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
     },
     {
       "added_at": "2024-05-01 17:01:23",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Departed",
-        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 134367,
-      "name": "Departed",
-      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "cognition",
@@ -767,6 +751,22 @@
       "duration_ms": 141639,
       "name": "cognition",
       "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Departed",
+        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 134367,
+      "name": "Departed",
+      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -849,6 +849,22 @@
       "url": "https://open.spotify.com/track/17ruNpoGR6GRkATyxy388E"
     },
     {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
+    },
+    {
       "added_at": "2024-07-03 04:00:00",
       "album": {
         "name": "Bakteria",
@@ -899,22 +915,6 @@
       "duration_ms": 273373,
       "name": "Do You Bless It?",
       "url": "https://open.spotify.com/track/4o8Y3yuawVuSKu7VQAMy64"
-    },
-    {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Webcrawler",
-      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/7EMUufH1L5NBPj1OoPSIg5"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0WPaO0Qfdz8L3jJ7Dq7REg"
-      },
-      "artists": [
-        {
-          "name": "Gloomer",
-          "url": "https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/65TjeQLUS1Jdl2jrrFgqte"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Hailu",
@@ -1131,6 +1115,22 @@
       "duration_ms": 155000,
       "name": "Baraka",
       "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0WPaO0Qfdz8L3jJ7Dq7REg"
+      },
+      "artists": [
+        {
+          "name": "Gloomer",
+          "url": "https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/65TjeQLUS1Jdl2jrrFgqte"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
-      },
-      "artists": [
-        {
-          "name": "Bizhiki",
-          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Unbound",
-      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Princ\u20acss",
@@ -1407,6 +1391,22 @@
       "duration_ms": 173515,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
+      },
+      "artists": [
+        {
+          "name": "Bizhiki",
+          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
     },
     {
       "added_at": "2024-05-08 03:43:46",

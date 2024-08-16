@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Joe Arroyo",
-  "num_followers": 761129,
+  "num_followers": 761405,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -179,8 +179,8 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 220135,
-      "name": "Algo Que Se Quede",
-      "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -311,8 +311,8 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+      "duration_ms": 220135,
+      "name": "Algo Que Se Quede",
+      "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
+        "name": "Exitos y Mas",
+        "url": "https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "duration_ms": 306440,
+      "name": "A Donde Iras",
+      "url": "https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
         "name": "Ag\u00fazate",
         "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 377253,
       "name": "Ag\u00fazate",
       "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "Exitos y Mas",
-        "url": "https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 306440,
-      "name": "A Donde Iras",
-      "url": "https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28"
     },
     {
       "added_at": "2024-06-21 20:58:37",

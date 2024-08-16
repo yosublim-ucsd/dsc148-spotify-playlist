@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Luke Combs",
-  "num_followers": 127081,
+  "num_followers": 127142,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Larry Fleet - The Live Sessions [Vol. 1]",
-        "url": "https://open.spotify.com/album/5H95ZfDRml2PLOWKL1r9lM"
-      },
-      "artists": [
-        {
-          "name": "Larry Fleet",
-          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
-        }
-      ],
-      "duration_ms": 255163,
-      "name": "Where I Find God",
-      "url": "https://open.spotify.com/track/4ulpcN5xjehEx4MbF7uk81"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "The Devil I Know (Live)",
         "url": "https://open.spotify.com/album/1zEc1DnGhkXQDfgc3AoSmE"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 214760,
       "name": "Human - Live",
       "url": "https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Larry Fleet - The Live Sessions [Vol. 1]",
+        "url": "https://open.spotify.com/album/5H95ZfDRml2PLOWKL1r9lM"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "duration_ms": 255163,
+      "name": "Where I Find God",
+      "url": "https://open.spotify.com/track/4ulpcN5xjehEx4MbF7uk81"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Nobody But You (Duet with Gwen Stefani) [Live]",
+        "url": "https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Nobody But You (Duet with Gwen Stefani) - Live",
+      "url": "https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Live at Billy Bob's Texas",
         "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 218152,
       "name": "This Too Shall Pass",
       "url": "https://open.spotify.com/track/69hYzcgd827dKhwSMCsedv"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Nobody But You (Duet with Gwen Stefani) [Live]",
-        "url": "https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Nobody But You (Duet with Gwen Stefani) - Live",
-      "url": "https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Honey, I'm Home - Live",
-      "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Body Like A Back Road (15 In A 30 Tour Live)",
         "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 288106,
       "name": "Body Like A Back Road - 15 In A 30 Tour Live",
       "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Honey, I'm Home - Live",
+      "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Humble And Kind (Live)",
-        "url": "https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 230970,
-      "name": "Humble And Kind - Live",
-      "url": "https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "What He Didn\u2019t Do (Live From Music City)",
         "url": "https://open.spotify.com/album/7EteFl8IcVmdYKUz6gCAlT"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 194800,
       "name": "What He Didn\u2019t Do - Live From Music City",
       "url": "https://open.spotify.com/track/79ZBn845qsMjNPFKtuKEsF"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Humble And Kind (Live)",
+        "url": "https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 230970,
+      "name": "Humble And Kind - Live",
+      "url": "https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Live at Church Street Station",
-        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Till I Can Make It on My Own",
-      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "On The Air: Her Best TV Performances",
         "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 166466,
       "name": "She's Got You - Live",
       "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Live at Church Street Station",
+        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Till I Can Make It on My Own",
+      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1691,18 +1691,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "61 Days In Church Volume 3",
-        "url": "https://open.spotify.com/album/3LIQDQZgWiRaBgydD5BgA3"
+        "name": "I Hope You\u2019re Happy Now (Live from the CMA Awards 2020)",
+        "url": "https://open.spotify.com/album/1cDYRtB0pAqyNglsvDrxUN"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Charles Kelley",
+          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
         }
       ],
-      "duration_ms": 240356,
-      "name": "These Boots - Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017",
-      "url": "https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv"
+      "duration_ms": 198428,
+      "name": "I Hope You're Happy Now - Live from the CMA Awards 2020",
+      "url": "https://open.spotify.com/track/16ksnBUPxX5aIhIqDBzcOX"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1723,22 +1727,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "I Hope You\u2019re Happy Now (Live from the CMA Awards 2020)",
-        "url": "https://open.spotify.com/album/1cDYRtB0pAqyNglsvDrxUN"
+        "name": "61 Days In Church Volume 3",
+        "url": "https://open.spotify.com/album/3LIQDQZgWiRaBgydD5BgA3"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        },
-        {
-          "name": "Charles Kelley",
-          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 198428,
-      "name": "I Hope You're Happy Now - Live from the CMA Awards 2020",
-      "url": "https://open.spotify.com/track/16ksnBUPxX5aIhIqDBzcOX"
+      "duration_ms": 240356,
+      "name": "These Boots - Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017",
+      "url": "https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv"
     }
   ],
   "unique_name": "Country Live",

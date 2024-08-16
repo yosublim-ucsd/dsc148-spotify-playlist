@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152883,
+  "num_followers": 152890,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "This Morning",
-        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "This Morning",
-      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "ii",
         "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 178476,
       "name": "Thin",
       "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "This Morning",
+        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "This Morning",
+      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Make Me (Cry) [Acoustic]",
-        "url": "https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0"
-      },
-      "artists": [
-        {
-          "name": "Boreal",
-          "url": "https://open.spotify.com/artist/0fov7ClSP5KDEJUbE0D0VI"
-        }
-      ],
-      "duration_ms": 181821,
-      "name": "Make Me (Cry) - Acoustic",
-      "url": "https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 164897,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Make Me (Cry) [Acoustic]",
+        "url": "https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0"
+      },
+      "artists": [
+        {
+          "name": "Boreal",
+          "url": "https://open.spotify.com/artist/0fov7ClSP5KDEJUbE0D0VI"
+        }
+      ],
+      "duration_ms": 181821,
+      "name": "Make Me (Cry) - Acoustic",
+      "url": "https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Fall Away Into Place",
-        "url": "https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S"
-      },
-      "artists": [
-        {
-          "name": "Sille Nilsson",
-          "url": "https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC"
-        }
-      ],
-      "duration_ms": 222240,
-      "name": "You You You",
-      "url": "https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/30KoavVtPo5iGMn2SGlS1Q"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 178026,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3shOp9UrL0PMRdZir2mK91"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Fall Away Into Place",
+        "url": "https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S"
+      },
+      "artists": [
+        {
+          "name": "Sille Nilsson",
+          "url": "https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC"
+        }
+      ],
+      "duration_ms": 222240,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "FAITH",
-        "url": "https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v"
+        "name": "Stop By Now",
+        "url": "https://open.spotify.com/album/17UBVzMdVOaQzusxehB7eH"
       },
       "artists": [
         {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+          "name": "Sille Nilsson",
+          "url": "https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC"
         }
       ],
-      "duration_ms": 218158,
-      "name": "Uncover Me",
-      "url": "https://open.spotify.com/track/3sxW9jb9OzTy8RIVv22f7b"
+      "duration_ms": 223360,
+      "name": "Stop By Now",
+      "url": "https://open.spotify.com/track/0zcrA7R0RlrCO7Fot7jQlt"
     }
   ],
   "unique_name": "ren hygge",

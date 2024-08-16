@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,949 songs - 4 day 14 hr 16 min
+1,950 songs - 4 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1299,6 +1299,7 @@
 | [Pitch Thing](https://open.spotify.com/track/6Kea7kd9xbq4bAgEp1srdN) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Pitch Thing](https://open.spotify.com/album/36khe7dGDSL0YUI6stNTzO) | 3:37 | 2023-03-03 | 2023-03-11 |
 | [Place To Be](https://open.spotify.com/track/7fEXuHcjNUIDjoe1LUxyqt) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Place To Be](https://open.spotify.com/album/4AFTUQtnX34HBOJjk08Wdp) | 3:12 | 2023-05-12 | 2023-05-20 |
 | [Places](https://open.spotify.com/track/7KuDz1GSApiK1mQAA5bcwO) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Places](https://open.spotify.com/album/5sHlw3rOcrsrij8qvyyNHe) | 3:34 | 2024-07-07 | 2024-08-03 |
+| [Planet Bass](https://open.spotify.com/track/5rNcvTadVp1GtW3G2OYNds) | [Dan Fresco](https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB) | [Planet Bass EP](https://open.spotify.com/album/19Vy3V9OWtfe9MNKFi2Irz) | 3:54 | 2024-08-15 |  |
 | [Plata o Plomo](https://open.spotify.com/track/498GWiqMDmohr7Q6bJi007) | [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS), [MCH Music](https://open.spotify.com/artist/2c9A59cedJD3tYnE9Ynh9o) | [Plata o Plomo](https://open.spotify.com/album/4F9rcupe4i6RkNJCdCGWTa) | 2:46 | 2023-11-03 | 2023-11-10 |
 | [Play It Cool](https://open.spotify.com/track/3iT1NGndiCT4L1YiR1y1oG) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Play It Cool](https://open.spotify.com/album/64GAikj3SBAhEJ4WoASvmv) | 3:11 | 2022-09-09 | 2022-09-18 |
 | [Play It Cool](https://open.spotify.com/track/3AUbzUkd6WtADkQhPkv6Y5) | [Markus Martinez](https://open.spotify.com/artist/4X7TDt68pJhQxropTlyfc0), [DØSHI](https://open.spotify.com/artist/6Qq7ljz7f3hMO8uWDIDcuS) | [Play It Cool](https://open.spotify.com/album/4v7WCGOjx96P2QwLDeCn74) | 2:39 | 2023-12-22 | 2024-01-06 |

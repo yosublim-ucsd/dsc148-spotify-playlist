@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 169244,
       "name": "Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo",
       "url": "https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k"
@@ -2728,6 +2728,24 @@
       "duration_ms": 181846,
       "name": "Saudade N\u00edvel Hard",
       "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+    },
+    {
+      "album": {
+        "name": "Misturadin (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234603,
+      "name": "Se Eu Pudesse - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ScG8kxnidGAdI2OA8WSES"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 112322,
+  "num_followers": 112390,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Krosfyah",
+          "url": "https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Pump Me Up",
+      "url": "https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 197293,
       "name": "Breathless (feat. Blaxx)",
       "url": "https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Krosfyah",
-          "url": "https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Pump Me Up",
-      "url": "https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 1998",
-        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
-      },
-      "artists": [
-        {
-          "name": "Allison Hinds",
-          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "In The Mean Time",
-      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold",
         "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
       },
@@ -607,38 +591,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+        "name": "Soca Gold 1998",
+        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
       },
       "artists": [
         {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        },
-        {
-          "name": "Shal Marshall",
-          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+          "name": "Allison Hinds",
+          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
         }
       ],
-      "duration_ms": 221560,
-      "name": "Gyal Farm",
-      "url": "https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Zulu Lightening",
-          "url": "https://open.spotify.com/artist/1V5FoECHc43ZNqVryryd9F"
-        }
-      ],
-      "duration_ms": 259560,
-      "name": "Hold Ya Foot Up & Jump",
-      "url": "https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc"
+      "duration_ms": 256826,
+      "name": "In The Mean Time",
+      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -664,6 +628,26 @@
       },
       "artists": [
         {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        },
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Gyal Farm",
+      "url": "https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
           "name": "Lil Rick",
           "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
         }
@@ -671,6 +655,22 @@
       "duration_ms": 195400,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Zulu Lightening",
+          "url": "https://open.spotify.com/artist/1V5FoECHc43ZNqVryryd9F"
+        }
+      ],
+      "duration_ms": 259560,
+      "name": "Hold Ya Foot Up & Jump",
+      "url": "https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Calypsoca 2002",
-        "url": "https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs"
-      },
-      "artists": [
-        {
-          "name": "Ronnie McIntosh",
-          "url": "https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH"
-        }
-      ],
-      "duration_ms": 271418,
-      "name": "Bitin Incex",
-      "url": "https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Switch Vol. 5",
         "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 272400,
       "name": "De River",
       "url": "https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Calypsoca 2002",
+        "url": "https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs"
+      },
+      "artists": [
+        {
+          "name": "Ronnie McIntosh",
+          "url": "https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH"
+        }
+      ],
+      "duration_ms": 271418,
+      "name": "Bitin Incex",
+      "url": "https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Prince Unique",
-          "url": "https://open.spotify.com/artist/5Q15Bhx82J7gdO7W409gnp"
-        }
-      ],
-      "duration_ms": 368653,
-      "name": "Ouch!",
-      "url": "https://open.spotify.com/track/4L4eSiLG59FF7JqWypabPp"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca 101 Vol. 4",
         "url": "https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 382373,
       "name": "Theresa Rocking",
       "url": "https://open.spotify.com/track/3gGPrxYhowdcEEt2RkW4tA"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Prince Unique",
+          "url": "https://open.spotify.com/artist/5Q15Bhx82J7gdO7W409gnp"
+        }
+      ],
+      "duration_ms": 368653,
+      "name": "Ouch!",
+      "url": "https://open.spotify.com/track/4L4eSiLG59FF7JqWypabPp"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Wayne T & Silky Slim",
-          "url": "https://open.spotify.com/artist/7jT3JImjyBR1L228runIMH"
-        }
-      ],
-      "duration_ms": 396453,
-      "name": "Doye, Doye",
-      "url": "https://open.spotify.com/track/6zwbz3ETvzebg6hY0Sngke"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Explosion",
         "url": "https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 256306,
       "name": "In the Party",
       "url": "https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Wayne T & Silky Slim",
+          "url": "https://open.spotify.com/artist/7jT3JImjyBR1L228runIMH"
+        }
+      ],
+      "duration_ms": 396453,
+      "name": "Doye, Doye",
+      "url": "https://open.spotify.com/track/6zwbz3ETvzebg6hY0Sngke"
     },
     {
       "added_at": "2024-08-06 01:00:53",

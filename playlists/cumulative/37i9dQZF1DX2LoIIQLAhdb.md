@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Merveille
+> Le R&B français, nouvelle ère\. Photo : Nej
 
-337 songs - 16 hr 6 min
+338 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Baby\-Boo](https://open.spotify.com/track/7BvFWK1cVXehPjiTL3NKgP) | [Kpoint](https://open.spotify.com/artist/3ABLHSKKZzNcgpBuXvLB9W), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [SHOTTAS](https://open.spotify.com/album/6rBaFk5LGJXJV1YdQyyoRE) | 2:48 | 2024-05-02 |  |
 | [BABYMAMA](https://open.spotify.com/track/6oEDg2yw9M0NtWAWtPxEca) | [Kenyon](https://open.spotify.com/artist/3ef02ttcTCxK0cQ68glIQ6), [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA) | [DATA](https://open.spotify.com/album/4HD7rLQRk7IoYpBE93aW6f) | 2:47 | 2023-05-18 | 2023-06-23 |
 | [Bahinileek](https://open.spotify.com/track/5QkDN5bbfoi2RXMpFO1Lj9) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Bahinileek](https://open.spotify.com/album/1qMsq1oqugqTR3nQQGcF3S) | 3:17 | 2024-07-18 |  |
+| [Baila](https://open.spotify.com/track/1dChhYVUE95OoTKEWjl3tI) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5) | [Baila](https://open.spotify.com/album/37Zp477hRHFvD1JYvMhOX4) | 2:15 | 2024-08-15 |  |
 | [BB](https://open.spotify.com/track/1LuYLVEVdXwHpgnEM7BNeq) | [Dessplora](https://open.spotify.com/artist/3VZU5ip7b3Bwywo1ST9xif) | [BB](https://open.spotify.com/album/1aJnsqQzrqxCvcTxXxM50M) | 2:05 | 2023-04-27 | 2023-06-23 |
 | [BBM](https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [BBM](https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ) | 2:59 | 2023-05-18 | 2023-09-15 |
 | [Beau parleur](https://open.spotify.com/track/1dxLarvU0YHWPH0PuwQWUN) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Un peu de moi \(Pt\. 2\)](https://open.spotify.com/album/41JxwnXG0TtCKaTi5LGimZ) | 2:52 | 2024-02-08 | 2024-05-17 |
@@ -75,7 +76,7 @@
 | [Compliqué](https://open.spotify.com/track/29rbfFO4JcSMWsFNlQlaxo) | [Melina Sdk](https://open.spotify.com/artist/0VW4UTqUCXXqqs7qeYJ9Nn), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Compliqué](https://open.spotify.com/album/5MpMmdwpjfuEYV0sNWrnyn) | 3:11 | 2024-06-27 |  |
 | [Confiance](https://open.spotify.com/track/1xeaSWiXWVHj34wvcE0ZXI) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Confiance](https://open.spotify.com/album/3paMPs0FH8lqQ7lH5vbVIt) | 2:57 | 2022-11-24 | 2023-02-17 |
 | [Corps Chaud](https://open.spotify.com/track/2la1EtoLdOUr8S5S3lEMv5) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [CAMELLIA](https://open.spotify.com/album/6g6FiZNOFZ29EMnCDKG4s4) | 2:34 | 2023-02-16 | 2023-03-10 |
-| [Coucou](https://open.spotify.com/track/3CFKsMaBP9XXAfGkjS2udj) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Coucou](https://open.spotify.com/album/0tJDjGLZ3rDR3mrzY6PLun) | 2:49 | 2024-06-27 |  |
+| [Coucou](https://open.spotify.com/track/3CFKsMaBP9XXAfGkjS2udj) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Coucou](https://open.spotify.com/album/0tJDjGLZ3rDR3mrzY6PLun) | 2:49 | 2024-06-27 | 2024-08-16 |
 | [CV \(feat\. RK\)](https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Enchanté](https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu) | 2:54 | 2023-03-30 | 2023-10-13 |
 | [Câlin \(feat\. Soolking\)](https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Un peu de moi](https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj) | 2:46 | 2023-04-27 | 2023-08-25 |
 | [Dangereuse](https://open.spotify.com/track/1Xbhl1jCBvOP8APtVW3Qlp) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Dangereuse](https://open.spotify.com/album/2jUb2ndTkptvv6VbhgQRTC) | 2:17 | 2023-01-26 | 2023-03-03 |

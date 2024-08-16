@@ -4,7 +4,7 @@
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:7iETGaxJ4crz3qaljDPCKC">Brooke Ligertwood</a>
 
-871 songs - 2 day 12 hr 32 min
+872 songs - 2 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Every Hour](https://open.spotify.com/track/71kx93SK386TepgoiTjG3K) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Every Hour](https://open.spotify.com/album/5j1m4cIrI0ovGbnKrLAxdt) | 3:52 | 2023-03-24 | 2023-08-19 |
 | [Everything At Your Feet \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/0tZ2gIuKTGST2pLdR4TepM) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Sunday, Vol\. 1 \(Live\)](https://open.spotify.com/album/4J60UHKXz09ZxxCpLJZP8i) | 7:20 | 2024-02-23 |  |
 | [Everything Good](https://open.spotify.com/track/2JC8kvVB7Ai0ze8wnM9WjE) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everything Good](https://open.spotify.com/album/7n8Jjq1Xo4RET1zhUIvmVx) | 3:19 | 2024-07-12 |  |
+| [Evidence](https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Evidence](https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA) | 3:28 | 2024-08-09 |  |
 | [Exit Us](https://open.spotify.com/track/3lKfNyhGrF2z6peiXtUx1m) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Exit Us](https://open.spotify.com/album/2gFAJD4Qf3Y1IW5INr1f7V) | 3:37 | 2021-12-17 | 2022-05-07 |
 | [EZ](https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [EZ](https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ) | 3:01 | 2023-03-17 | 2023-05-13 |
 | [Faith Don't Fail Me Now](https://open.spotify.com/track/3WEEXXFR9GIWmVfBmYGLhy) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Faith Don't Fail Me Now](https://open.spotify.com/album/0vsmQMb2gvZpyknxrecP97) | 3:10 | 2023-07-07 | 2023-10-01 |

@@ -8434,7 +8434,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 204814,
       "name": "MIND CONTROL (EDDIE Remix)",
       "url": "https://open.spotify.com/track/44hbzdovYYuLzLuQspQ84x"
@@ -10626,6 +10626,24 @@
       "duration_ms": 249600,
       "name": "Ragnarok",
       "url": "https://open.spotify.com/track/5n5d39gcjEstUpM6kadJYF"
+    },
+    {
+      "album": {
+        "name": "Rave Operator / Sewer Party",
+        "url": "https://open.spotify.com/album/43czCEDLV4BAKuwx7Dsidc"
+      },
+      "artists": [
+        {
+          "name": "Automhate",
+          "url": "https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283943,
+      "name": "Rave Operator",
+      "url": "https://open.spotify.com/track/37vXJPguVozs4XKe31ilWD"
     },
     {
       "album": {

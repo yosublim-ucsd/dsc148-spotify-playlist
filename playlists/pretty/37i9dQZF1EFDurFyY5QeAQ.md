@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,927 likes - 91 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,928 likes - 91 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 81 | [Visions \(Don't Go\)](https://open.spotify.com/track/3StXroLgGesFDHUljDzNlJ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:18 |
 | 82 | [I Am](https://open.spotify.com/track/4fK2nGMQLFs66Lb9XXArYh) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 2:55 |
 | 83 | [Blue Moon](https://open.spotify.com/track/7o7XJW9mWokwMIBEMDzTSt) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:13 |
-| 84 | [Sink Or Swim](https://open.spotify.com/track/4ZVLVZGtZJcVu6hQS1ScDG) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Introducing Pierce Fulton](https://open.spotify.com/album/0Zn2S6aEyHJoFhwSFBxyV6) | 5:56 |
-| 85 | [Born Again](https://open.spotify.com/track/0i3beYS6XqrlgwytD3sOf6) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:00 |
+| 84 | [Born Again](https://open.spotify.com/track/0i3beYS6XqrlgwytD3sOf6) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:00 |
+| 85 | [Sink Or Swim](https://open.spotify.com/track/4ZVLVZGtZJcVu6hQS1ScDG) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Introducing Pierce Fulton](https://open.spotify.com/album/0Zn2S6aEyHJoFhwSFBxyV6) | 5:56 |
 | 86 | [Break Free](https://open.spotify.com/track/6QGVDr7pqFuq4ZNDG95sD8) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [NEW GRAVITY](https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA) | 3:03 |
 | 87 | [One More Night](https://open.spotify.com/track/6DEaWJ1GGVcOPg1nYLkyoG) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Jersey](https://open.spotify.com/album/04Gl2rT689sltrYqspcG2w) | 3:24 |
 | 88 | [Problem Child](https://open.spotify.com/track/0N4Tx3DNSgX6k3Xx67z5Bc) | [Blind Justice](https://open.spotify.com/artist/2D48K1FwcFnYjLY7UInAua) | [Undertow](https://open.spotify.com/album/3pXxQsBnSYOWApiafJfumV) | 1:28 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 90 | [Right Here, Right Now](https://open.spotify.com/track/0n324gn22EDTQsNHvyFvQ0) | [Jeremy Johnson](https://open.spotify.com/artist/7xepAnhCIzCv3zUtpZyq4N) | [Mixtape For War](https://open.spotify.com/album/2D75KXRDeYBHvgttp7gq4l) | 3:49 |
 | 91 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `AbZbQgAAAAAoH6Avf5xkbgKDwYXLoqG7`
+Snapshot ID: `AbZhHgAAAAC5M7o4Tvqmgw+U2qqMTDKj`

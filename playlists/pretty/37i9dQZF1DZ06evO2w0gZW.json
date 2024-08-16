@@ -1,12 +1,12 @@
 {
-  "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
-  "num_followers": 476227,
+  "description": "This is Mariah Carey. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 476305,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAABHrjrOa6Pmer/jLcqgbEcV",
+  "snapshot_id": "ZrvzgAAAAAA5J+o3LD+9fRIlwTLxPSg5",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+        "name": "E=MC2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
       },
       "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
         {
           "name": "Mariah Carey",
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 272893,
-      "name": "When You Believe - from The Prince of Egypt",
-      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
+      "duration_ms": 266826,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/7q587HLz90L2PFrhKZjIYa"
     },
     {
       "added_at": null,
@@ -179,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "E=MC2 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
       "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
         {
           "name": "Mariah Carey",
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 266826,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/7q587HLz90L2PFrhKZjIYa"
+      "duration_ms": 272893,
+      "name": "When You Believe - from The Prince of Egypt",
+      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E=MC2 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "I Stay In Love",
-      "url": "https://open.spotify.com/track/2rd22W7kQvr4I2D2JWhCJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angels Cry Remix feat. Ne-Yo",
         "url": "https://open.spotify.com/album/3SxgnytOcu80ARVznoU6P0"
       },
@@ -319,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariah Carey",
-        "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
+        "name": "E=MC2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
       },
       "artists": [
         {
@@ -328,9 +312,25 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 229226,
-      "name": "Love Takes Time",
-      "url": "https://open.spotify.com/track/48l7PNpT2fBoT4cdLW6EzP"
+      "duration_ms": 212000,
+      "name": "I Stay In Love",
+      "url": "https://open.spotify.com/track/2rd22W7kQvr4I2D2JWhCJr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+        "name": "Mariah Carey",
+        "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 233641,
-      "name": "Dreamlover",
-      "url": "https://open.spotify.com/track/5m9aremBVDMMMAP1tfFCbx"
+      "duration_ms": 229226,
+      "name": "Love Takes Time",
+      "url": "https://open.spotify.com/track/48l7PNpT2fBoT4cdLW6EzP"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 232840,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
+      "duration_ms": 233641,
+      "name": "Dreamlover",
+      "url": "https://open.spotify.com/track/5m9aremBVDMMMAP1tfFCbx"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charmbracelet",
-        "url": "https://open.spotify.com/album/2UYie72CXeuwIB7YepDidw"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "Through The Rain",
-      "url": "https://open.spotify.com/track/1TT6pwOM1puBtx8bYSMTBA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Emancipation Of Mimi (Ultra Platinum Edition)",
         "url": "https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 233866,
       "name": "Don't Forget About Us - Radio Edit",
       "url": "https://open.spotify.com/track/1HkVSmzBbdZ5Bzdd00IZgh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charmbracelet",
+        "url": "https://open.spotify.com/album/2UYie72CXeuwIB7YepDidw"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "Through The Rain",
+      "url": "https://open.spotify.com/track/1TT6pwOM1puBtx8bYSMTBA"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 213226,
-      "name": "Underneath the Stars",
-      "url": "https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 265424,
       "name": "Anytime You Need a Friend",
       "url": "https://open.spotify.com/track/6tsBYvprVAntHx8rQLedqn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 213226,
+      "name": "Underneath the Stars",
+      "url": "https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/74EIDs3yEsMR1gcUmFD4FB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 261596,
       "name": "Never Too Far",
       "url": "https://open.spotify.com/track/2H2H7L4u7yDT2cIIzfIp4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/74EIDs3yEsMR1gcUmFD4FB"
     },
     {
       "added_at": null,

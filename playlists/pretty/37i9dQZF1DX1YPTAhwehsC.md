@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,627 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,658 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 25 | [FIJI \(feat\. Cruza\)](https://open.spotify.com/track/6HubPIhCjRxkwR2zJa2ZLB) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [FIJI \(feat\. Cruza\)](https://open.spotify.com/album/7mue6v0O7LbOnUned27pzi) | 2:54 |
 | 26 | [No Stain](https://open.spotify.com/track/4nFBXKDRwBBLFFJFfTl7yQ) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [The Leak, Vol\. 1](https://open.spotify.com/album/16qIQCpz0w5PzYdeAeFY3j) | 2:24 |
 | 27 | [Good Girls Ain't No Fun](https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Good Girls Ain't No Fun](https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u) | 2:22 |
-| 28 | [Wanna Get Sexy \(with Bay Swag\)](https://open.spotify.com/track/1yy3k7t0HzRFD3KW4UVLcT) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Wanna Get Sexy \(with Bay Swag\)](https://open.spotify.com/album/3slaZYw4Ni4XtrxIjX1VWy) | 2:47 |
+| 28 | [WANNA GET SEXY \(with Bay Swag\)](https://open.spotify.com/track/1yy3k7t0HzRFD3KW4UVLcT) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [WANNA GET SEXY \(with Bay Swag\)](https://open.spotify.com/album/3slaZYw4Ni4XtrxIjX1VWy) | 2:47 |
 | 29 | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:12 |
 | 30 | [ICONIC.](https://open.spotify.com/track/1p5mADwa7B3qzokLXSW1tl) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [ICONIC.](https://open.spotify.com/album/4TRJX3D4gWWyKPXRhGMUBz) | 2:51 |
 | 31 | [Cupid's Guidance](https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Cupid's Guidance](https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5) | 2:37 |

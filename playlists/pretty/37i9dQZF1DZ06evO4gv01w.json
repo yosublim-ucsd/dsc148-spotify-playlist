@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 28320,
+  "num_followers": 28330,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAACKyDsi7Y8XGEGhTDyiSL7l",
+  "snapshot_id": "ZrvzgAAAAABvwZHNFfu4oN1Ol31JsC9A",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Runnin' Down a Dream (from \"Bad Monkey\")",
+        "url": "https://open.spotify.com/album/665hfrsUrX8NtDd89Lt4aV"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 244307,
+      "name": "Runnin' Down a Dream (from \"Bad Monkey\")",
+      "url": "https://open.spotify.com/track/2jh28FMlAr45a1r6nRUVu3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kin",
         "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
       },
@@ -275,26 +291,6 @@
       "duration_ms": 184173,
       "name": "Don't",
       "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electrified",
-        "url": "https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 163758,
-      "name": "One and Lonely",
-      "url": "https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON"
     },
     {
       "added_at": null,
@@ -315,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Runnin' Down a Dream (from \"Bad Monkey\")",
-        "url": "https://open.spotify.com/album/665hfrsUrX8NtDd89Lt4aV"
+        "name": "Electrified",
+        "url": "https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH"
       },
       "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 244307,
-      "name": "Runnin' Down a Dream (from \"Bad Monkey\")",
-      "url": "https://open.spotify.com/track/2jh28FMlAr45a1r6nRUVu3"
+      "duration_ms": 163758,
+      "name": "One and Lonely",
+      "url": "https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON"
     },
     {
       "added_at": null,
@@ -707,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
+        "name": "I Shall Be Released (feat. Larkin Poe)",
+        "url": "https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo"
       },
       "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 137109,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/5guqdCxSoMWo22zBn13ybb"
+      "duration_ms": 287643,
+      "name": "I Shall Be Released (feat. Larkin Poe)",
+      "url": "https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5"
     },
     {
       "added_at": null,
@@ -739,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Shall Be Released (feat. Larkin Poe)",
-        "url": "https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
       },
       "artists": [
-        {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 287643,
-      "name": "I Shall Be Released (feat. Larkin Poe)",
-      "url": "https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5"
+      "duration_ms": 137109,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/5guqdCxSoMWo22zBn13ybb"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/7sWWzkcObUVBnQT4TIae22"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Late Night Basie",
         "url": "https://open.spotify.com/album/0UfzjyiMMz6ehDLQEqc7P2"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 231250,
       "name": "Blue & Sentimental",
       "url": "https://open.spotify.com/track/0uAKtjwLUuoRV5HuZCqKbe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/7sWWzkcObUVBnQT4TIae22"
     },
     {
       "added_at": null,

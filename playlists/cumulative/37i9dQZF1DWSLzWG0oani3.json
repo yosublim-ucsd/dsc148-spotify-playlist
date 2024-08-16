@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Suena en el barrio, suena ac\u00e1. Foto: DT.Bilardo",
+  "description": "Suena en el barrio, suena ac\u00e1. Foto: L-Gante",
   "name": "Cumbia 420",
   "tracks": [
     {
@@ -1305,6 +1305,28 @@
     },
     {
       "album": {
+        "name": "Celda 4",
+        "url": "https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176415,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/3JIj2lM5BzQpDoXcLnE3z5"
+    },
+    {
+      "album": {
         "name": "NATALIA",
         "url": "https://open.spotify.com/album/0LIBTbu2GkzaCOdiR9JjRT"
       },
@@ -1670,6 +1692,28 @@
       "duration_ms": 166736,
       "name": "Pompa Pa Tra - Remix",
       "url": "https://open.spotify.com/track/3pA0i34h7omJIrI12jfVGu"
+    },
+    {
+      "album": {
+        "name": "Celda 4",
+        "url": "https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167388,
+      "name": "Pone Un RKT",
+      "url": "https://open.spotify.com/track/1djPhfXSEVI7EQ5tYYHs5V"
     },
     {
       "album": {

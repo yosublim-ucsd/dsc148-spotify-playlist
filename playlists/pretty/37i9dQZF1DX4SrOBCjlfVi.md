@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Polo G, Lil Tecca, Latto and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,253 likes - 49 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,417 likes - 49 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 33 | [Millions for My Pain](https://open.spotify.com/track/5oqUSnOxiJ6vuuZYdhqDTj) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Millions for My Pain](https://open.spotify.com/album/7HRBGLZPKSTsBRFsA8f7P2) | 2:22 |
 | 34 | [Where Them Shooters At](https://open.spotify.com/track/1JQGmuEeJX65ERASDadSZ6) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Perfect Timing](https://open.spotify.com/artist/65HlwOj7iB8ndiXjGUEFdX) | [Where Them Shooters At](https://open.spotify.com/album/27ME7QAZ1asnVJYVNQdqcx) | 3:03 |
 | 35 | [Hold Me Down](https://open.spotify.com/track/4xFSchyxIzNeNc2d3dWE4i) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1) | [Hold Me Down](https://open.spotify.com/album/2ZtB2MwrBeH3tkHFQq6lnX) | 2:31 |
-| 36 | [Wanna Get Sexy \(with Bay Swag\)](https://open.spotify.com/track/1yy3k7t0HzRFD3KW4UVLcT) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Wanna Get Sexy \(with Bay Swag\)](https://open.spotify.com/album/3slaZYw4Ni4XtrxIjX1VWy) | 2:47 |
+| 36 | [WANNA GET SEXY \(with Bay Swag\)](https://open.spotify.com/track/1yy3k7t0HzRFD3KW4UVLcT) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [WANNA GET SEXY \(with Bay Swag\)](https://open.spotify.com/album/3slaZYw4Ni4XtrxIjX1VWy) | 2:47 |
 | 37 | [Store Runner \(feat\. Veeze\)](https://open.spotify.com/track/7duXZ4msQQePFt0rkkP7Fd) | [Brezden](https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Store Runner \(feat\. Veeze\)](https://open.spotify.com/album/23E3EOIgb7o9HnTSTmIqdG) | 2:24 |
 | 38 | [Weight](https://open.spotify.com/track/1CDnEaMnmyefNd4JsFjr5e) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Weight](https://open.spotify.com/album/1aQleNQNKtJlC9LKASIBYL) | 2:49 |
 | 39 | [Rollin' Hounds](https://open.spotify.com/track/2vEstt1tTaVypBNqy4xzGp) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [Rollin' Hounds](https://open.spotify.com/album/72v3DSjERUkz1rTPHREeGi) | 2:15 |

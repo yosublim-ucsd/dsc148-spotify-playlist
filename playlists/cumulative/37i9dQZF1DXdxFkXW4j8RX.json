@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 195113,
       "name": "Hip Hop Sh*t",
       "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
@@ -3976,6 +3976,28 @@
       "duration_ms": 181177,
       "name": "Story",
       "url": "https://open.spotify.com/track/2hykudPQVRbSMTDaf7XhKD"
+    },
+    {
+      "album": {
+        "name": "Sudoku",
+        "url": "https://open.spotify.com/album/0jlkJNd7ag8NS81bHvWAkO"
+      },
+      "artists": [
+        {
+          "name": "EnSecreto",
+          "url": "https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju"
+        },
+        {
+          "name": "Snuk Narinas",
+          "url": "https://open.spotify.com/artist/0OypGHts88DjuhcNxJ9aMk"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294676,
+      "name": "Sudoku",
+      "url": "https://open.spotify.com/track/5e3mAVouv5Pn2lhLxIhBUH"
     },
     {
       "album": {

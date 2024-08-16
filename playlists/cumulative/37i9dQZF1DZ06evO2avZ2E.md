@@ -2,7 +2,7 @@
 
 ### [This Is Vanessa Zamora](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2avZ2E)
 
-> This is Vanessa Zamora\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
 51 songs - 2 hr 55 min
 

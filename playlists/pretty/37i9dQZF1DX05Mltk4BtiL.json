@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
-  "num_followers": 113093,
+  "num_followers": 113102,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-08-09 09:02:37",
       "album": {
+        "name": "Kannst du bei mir bleiben?",
+        "url": "https://open.spotify.com/album/4HfWSo2GOcajhwKOetWw4x"
+      },
+      "artists": [
+        {
+          "name": "RAR",
+          "url": "https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Kannst du bei mir bleiben?",
+      "url": "https://open.spotify.com/track/6P2p63GZxlsvoegju9iH1Z"
+    },
+    {
+      "added_at": "2024-08-09 09:02:37",
+      "album": {
         "name": "Karussell",
         "url": "https://open.spotify.com/album/1jBkxZqTpkUpciIR5CAOEK"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 176569,
       "name": "Karussell",
       "url": "https://open.spotify.com/track/30w4Rt68tx8Ea1qPP47AIM"
-    },
-    {
-      "added_at": "2024-08-09 09:02:37",
-      "album": {
-        "name": "Kannst du bei mir bleiben?",
-        "url": "https://open.spotify.com/album/4HfWSo2GOcajhwKOetWw4x"
-      },
-      "artists": [
-        {
-          "name": "RAR",
-          "url": "https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Kannst du bei mir bleiben?",
-      "url": "https://open.spotify.com/track/6P2p63GZxlsvoegju9iH1Z"
     },
     {
       "added_at": "2024-08-09 09:02:37",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-08-09 09:02:37",
       "album": {
-        "name": "Lied vom donnernden Leben",
-        "url": "https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B"
-      },
-      "artists": [
-        {
-          "name": "Betterov",
-          "url": "https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ"
-        }
-      ],
-      "duration_ms": 166393,
-      "name": "Lied vom donnernden Leben",
-      "url": "https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP"
-    },
-    {
-      "added_at": "2024-08-09 09:02:37",
-      "album": {
         "name": "Der Weg zu zweit",
         "url": "https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 152101,
       "name": "Der Weg zu zweit",
       "url": "https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r"
+    },
+    {
+      "added_at": "2024-08-09 09:02:37",
+      "album": {
+        "name": "Lied vom donnernden Leben",
+        "url": "https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B"
+      },
+      "artists": [
+        {
+          "name": "Betterov",
+          "url": "https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ"
+        }
+      ],
+      "duration_ms": 166393,
+      "name": "Lied vom donnernden Leben",
+      "url": "https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP"
     },
     {
       "added_at": "2024-08-09 09:02:37",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-08-09 09:02:37",
       "album": {
-        "name": "K\u00f6nig Der Welt",
-        "url": "https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6"
+        "name": "Ostkreuz",
+        "url": "https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF"
       },
       "artists": [
         {
-          "name": "Traumatin",
-          "url": "https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV"
+          "name": "Acht Eimer H\u00fchnerherzen",
+          "url": "https://open.spotify.com/artist/5Y2hHmvlOM6n0YP5wfe64i"
         }
       ],
-      "duration_ms": 208825,
-      "name": "K\u00f6nig Der Welt",
-      "url": "https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw"
+      "duration_ms": 205078,
+      "name": "Ostkreuz",
+      "url": "https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy"
     },
     {
       "added_at": "2024-08-09 09:02:37",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-08-09 09:02:37",
       "album": {
-        "name": "Ostkreuz",
-        "url": "https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF"
+        "name": "K\u00f6nig Der Welt",
+        "url": "https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6"
       },
       "artists": [
         {
-          "name": "Acht Eimer H\u00fchnerherzen",
-          "url": "https://open.spotify.com/artist/5Y2hHmvlOM6n0YP5wfe64i"
+          "name": "Traumatin",
+          "url": "https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV"
         }
       ],
-      "duration_ms": 205078,
-      "name": "Ostkreuz",
-      "url": "https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy"
+      "duration_ms": 208825,
+      "name": "K\u00f6nig Der Welt",
+      "url": "https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw"
     },
     {
       "added_at": "2024-08-09 09:02:37",

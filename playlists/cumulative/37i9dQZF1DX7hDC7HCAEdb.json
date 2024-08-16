@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best new alternative sounds from Scotland. Cover: The Joy Hotel",
+  "description": "The best new alternative sounds from Scotland. Cover: Hamish Hawk",
   "name": "Scotify",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 223120,
       "name": "All The Clouds and Silver Linings",
       "url": "https://open.spotify.com/track/0hWmSHFuTQboBKtLuozMBt"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 278605,
       "name": "City On Fire",
       "url": "https://open.spotify.com/track/23yYAT8Nt1G6dXnJBolTab"
@@ -290,6 +290,24 @@
       "duration_ms": 195594,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/3zXiDgltU2HnADWAperXcW"
+    },
+    {
+      "album": {
+        "name": "A Firmer Hand",
+        "url": "https://open.spotify.com/album/6FPar3A8vj3tqmJ48t8jBm"
+      },
+      "artists": [
+        {
+          "name": "Hamish Hawk",
+          "url": "https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176206,
+      "name": "Disingenuous",
+      "url": "https://open.spotify.com/track/5KY2CCKR3EoPxsL56Nhz2d"
     },
     {
       "album": {
@@ -430,7 +448,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 206696,
       "name": "Fur Coat",
       "url": "https://open.spotify.com/track/2EmevxPR404paP1A08nXAv"
@@ -520,7 +538,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 164307,
       "name": "Here's Looking At You, Kid!",
       "url": "https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML"
@@ -621,6 +639,24 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Be You",
+        "url": "https://open.spotify.com/album/06ShqLw5g34jVzQngiPwmc"
+      },
+      "artists": [
+        {
+          "name": "In Charge",
+          "url": "https://open.spotify.com/artist/76rormFgh0Af7WT18I8tor"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192885,
+      "name": "I Don't Wanna Be You",
+      "url": "https://open.spotify.com/track/42lb2SAumOdpq78e8PdYLB"
+    },
+    {
+      "album": {
         "name": "I Look Like A Fool To You",
         "url": "https://open.spotify.com/album/6FscwSoZ0kbDHO7CCsfsIn"
       },
@@ -636,6 +672,42 @@
       "duration_ms": 188506,
       "name": "I Look Like A Fool To You",
       "url": "https://open.spotify.com/track/1g4XkTUbz735e6IAR5DQ7q"
+    },
+    {
+      "album": {
+        "name": "If I Cross Your Mind",
+        "url": "https://open.spotify.com/album/1aijJUIxCeCcN5kpfTCIeZ"
+      },
+      "artists": [
+        {
+          "name": "The Romantidote",
+          "url": "https://open.spotify.com/artist/2t3sRKKQY5IOo3EVrkPrsI"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200871,
+      "name": "If I Cross Your Mind",
+      "url": "https://open.spotify.com/track/2QjhyJUHaVzSrv2QcFMOif"
+    },
+    {
+      "album": {
+        "name": "If I Were to Call",
+        "url": "https://open.spotify.com/album/39HsryFQOnd0iSe5Qv95QD"
+      },
+      "artists": [
+        {
+          "name": "Lewis Ross",
+          "url": "https://open.spotify.com/artist/7H1Mw1I4p9sTGTtbGCj8E3"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209302,
+      "name": "If I Were to Call",
+      "url": "https://open.spotify.com/track/1iNKe0uEHAtVMuokE29GbL"
     },
     {
       "album": {
@@ -693,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Is there any space on the moon?",
+        "url": "https://open.spotify.com/album/7j6RUTLVNISqa4T5El0lPF"
+      },
+      "artists": [
+        {
+          "name": "GIRLS.SPEAK.FRENCH",
+          "url": "https://open.spotify.com/artist/6wx68geW3Cjx1YBdBWa72k"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205377,
+      "name": "Is there any space on the moon?",
+      "url": "https://open.spotify.com/track/6aTyGa4N7Muk7QK9mcu2Bb"
+    },
+    {
+      "album": {
         "name": "jamcod",
         "url": "https://open.spotify.com/album/5vIGXSK8CJfU136cXYtziM"
       },
@@ -704,7 +794,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 239920,
       "name": "jamcod",
       "url": "https://open.spotify.com/track/1DBRdzUgZrX7WBygQD2GhR"
@@ -834,6 +924,24 @@
       "duration_ms": 174040,
       "name": "Lost in Tokyo",
       "url": "https://open.spotify.com/track/57OxdbJtZklQTTRM57ZaFk"
+    },
+    {
+      "album": {
+        "name": "Meet Me There",
+        "url": "https://open.spotify.com/album/3yE7Qm5RS7iHvOZDTjeKL5"
+      },
+      "artists": [
+        {
+          "name": "Sara Rae",
+          "url": "https://open.spotify.com/artist/44nGvqtWpLLSUuAAE0Z1gp"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162417,
+      "name": "Meet Me There",
+      "url": "https://open.spotify.com/track/09j3w8zhbwfyQn7TlPfS9N"
     },
     {
       "album": {
@@ -1046,7 +1154,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 169200,
       "name": "PUBLIC ENEMY",
       "url": "https://open.spotify.com/track/2APs9TNlHP096WLwrGBlhE"
@@ -1104,7 +1212,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 92461,
       "name": "Separate Ways",
       "url": "https://open.spotify.com/track/7gPkzeoJjpGDd7cY3OUREm"
@@ -1432,6 +1540,24 @@
       "duration_ms": 196525,
       "name": "Yesterday Is Gone",
       "url": "https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By"
+    },
+    {
+      "album": {
+        "name": "You've Got The Feeling That I Need",
+        "url": "https://open.spotify.com/album/3XoEb23thKNCjYlY4g9S63"
+      },
+      "artists": [
+        {
+          "name": "mosaics",
+          "url": "https://open.spotify.com/artist/5KOjB34inrECGtNVbQH4kT"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219043,
+      "name": "You've Got The Feeling That I Need",
+      "url": "https://open.spotify.com/track/1UrOwL2M9njvrQZcmBtfCu"
     },
     {
       "album": {

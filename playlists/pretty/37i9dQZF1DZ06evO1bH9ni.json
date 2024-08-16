@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Dos Carnales. Los temas esenciales, todos en una lista.",
-  "num_followers": 326465,
+  "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
+  "num_followers": 326501,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAAAvlvblzjNzoLy62uwuV6fU",
+  "snapshot_id": "ZrvzgAAAAACWO8+X18C+PC1lChoAIw8C",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 157285,
-      "name": "Ay Nom\u00e1s",
-      "url": "https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 216770,
       "name": "Lupe Campos",
       "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 157285,
+      "name": "Ay Nom\u00e1s",
+      "url": "https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gallo Jugado",
         "url": "https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 173172,
       "name": "Gallo Jugado",
       "url": "https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "6 Tragos",
-        "url": "https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt"
+        "name": "La Carreta",
+        "url": "https://open.spotify.com/album/2cIZr4ziArJjeMQBtOtIe0"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 153000,
-      "name": "El Doble R",
-      "url": "https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO"
+      "duration_ms": 133930,
+      "name": "La Carreta",
+      "url": "https://open.spotify.com/track/3JObT2hSLZU1tCC5CFtlIZ"
     }
   ],
   "unique_name": "This Is Los Dos Carnales",

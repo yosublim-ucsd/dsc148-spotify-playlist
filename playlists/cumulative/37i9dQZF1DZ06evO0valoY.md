@@ -2,7 +2,7 @@
 
 ### [This Is Eslabon Armado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0valoY)
 
-> This Is Eslabon Armado\. Los temas esenciales, todos en una lista.
+> This is Eslabon Armado\. The essential tracks, all in one playlist.
 
 58 songs - 3 hr 28 min
 

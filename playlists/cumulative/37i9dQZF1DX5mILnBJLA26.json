@@ -80,7 +80,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 291439,
       "name": "13 POS (Ke Bo Mang)",
       "url": "https://open.spotify.com/track/3broQqYTmS1ctbl5mvFAKc"
@@ -13894,7 +13894,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 416307,
       "name": "Izitha",
       "url": "https://open.spotify.com/track/1txz6OITBeRvePUqRYrsor"
@@ -23043,6 +23043,28 @@
     },
     {
       "album": {
+        "name": "Phuthuma",
+        "url": "https://open.spotify.com/album/3b3JHW1M80fVIPfiRCvyEv"
+      },
+      "artists": [
+        {
+          "name": "Cyfred",
+          "url": "https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/4USfWz5p5xNATSfHURgBYC"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323750,
+      "name": "Phuthuma",
+      "url": "https://open.spotify.com/track/1DyNpDv4M8qBTthYIAPvqW"
+    },
+    {
+      "album": {
         "name": "Piano Ngijabulise",
         "url": "https://open.spotify.com/album/6wJ5Kb1e2gPqqXTgumyn8K"
       },
@@ -23838,8 +23860,8 @@
           "url": "https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8"
         },
         {
-          "name": "C-trix",
-          "url": "https://open.spotify.com/artist/6AF9XnQgJ84YHSbHTbe7zV"
+          "name": "C-TRIX",
+          "url": "https://open.spotify.com/artist/7z7lpsgLtQxHuQprPuJ0vR"
         },
         {
           "name": "Subzero JNR",
@@ -25026,7 +25048,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 327996,
       "name": "Shijangujangu (feat. TitoM, Cheez Beezy, Xduppy, ShaunMusiq & Ftears)",
       "url": "https://open.spotify.com/track/7g0ZeLrfqZgOIKnBURovBd"
@@ -30753,6 +30775,40 @@
     },
     {
       "album": {
+        "name": "Umfula (feat. Tiiger & Mellow & Sleazy)",
+        "url": "https://open.spotify.com/album/3HGH4oVwzkzbG9JF3TkELu"
+      },
+      "artists": [
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Nia Pearl",
+          "url": "https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK"
+        },
+        {
+          "name": "LastBornDiroba",
+          "url": "https://open.spotify.com/artist/467V6Wi666JBwBY3YMHSuJ"
+        },
+        {
+          "name": "Tiiger",
+          "url": "https://open.spotify.com/artist/0P59wLTlm4z9cqvlJD5g5f"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379321,
+      "name": "Umfula (feat. Tiiger & Mellow & Sleazy)",
+      "url": "https://open.spotify.com/track/353IW0VdnShrBHv2YUyBL1"
+    },
+    {
+      "album": {
         "name": "Umhlolo",
         "url": "https://open.spotify.com/album/6ZKX7q754N7FdJMwnuqKNj"
       },
@@ -34072,6 +34128,28 @@
       "duration_ms": 381941,
       "name": "yey",
       "url": "https://open.spotify.com/track/37ISMEYWqhRHcPEitHn8Er"
+    },
+    {
+      "album": {
+        "name": "Yeyee 2.0 (feat. Mr JazziQ)",
+        "url": "https://open.spotify.com/album/794l5ceWkBPHprqUEtCKRQ"
+      },
+      "artists": [
+        {
+          "name": "Kay Invictus",
+          "url": "https://open.spotify.com/artist/032XWTfikybkuikEsBqLRc"
+        },
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310132,
+      "name": "Yeyee 2.0 (feat. Mr JazziQ)",
+      "url": "https://open.spotify.com/track/337QY4adNvUNlGuMAXnN5L"
     },
     {
       "album": {

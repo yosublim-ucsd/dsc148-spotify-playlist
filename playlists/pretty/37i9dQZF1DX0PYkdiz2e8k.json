@@ -1,6 +1,6 @@
 {
   "description": "POST HUMAN: NeX GEn is out! Foto: Bring Me The Horizon",
-  "num_followers": 112576,
+  "num_followers": 112579,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-08-09 15:46:37",
       "album": {
+        "name": "My Head",
+        "url": "https://open.spotify.com/album/3DuD1V3fAM6Qr676GG6vVL"
+      },
+      "artists": [
+        {
+          "name": "Call Me Karizma",
+          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+        }
+      ],
+      "duration_ms": 106181,
+      "name": "My Head",
+      "url": "https://open.spotify.com/track/0QLgyJ880z70YsOuOI3yrp"
+    },
+    {
+      "added_at": "2024-08-09 15:46:37",
+      "album": {
         "name": "eu odeio despedidas",
         "url": "https://open.spotify.com/album/3Cs0yY0A9dxYtHCSVOrkKO"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 151500,
       "name": "eu odeio despedidas",
       "url": "https://open.spotify.com/track/5IZ5Kx9r1VX9VsBBUt22Gd"
-    },
-    {
-      "added_at": "2024-08-09 15:46:37",
-      "album": {
-        "name": "My Head",
-        "url": "https://open.spotify.com/album/3DuD1V3fAM6Qr676GG6vVL"
-      },
-      "artists": [
-        {
-          "name": "Call Me Karizma",
-          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
-        }
-      ],
-      "duration_ms": 106181,
-      "name": "My Head",
-      "url": "https://open.spotify.com/track/0QLgyJ880z70YsOuOI3yrp"
     },
     {
       "added_at": "2024-08-09 15:46:37",

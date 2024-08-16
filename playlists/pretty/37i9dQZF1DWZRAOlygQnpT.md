@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,919 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,966 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 82 | [La Plaga](https://open.spotify.com/track/0bnx1Uil9gj7G1J6DIN0pN) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Los Grandes Idolos \- Teen Tops](https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5) | 2:22 |
 | 83 | [Cartas de amor en la arena \- Love Letters in the Sand](https://open.spotify.com/track/5P9ruhpi2GGK5xniYcvtO6) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:16 |
 | 84 | [El Pecador](https://open.spotify.com/track/5k6fOcv3B7sE6V1uZ5kwb6) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Exitos Baladas \- Alberto Vazquez](https://open.spotify.com/album/5UL88gRWNLOp1Js5EDPsLX) | 3:20 |
-| 85 | [Speedy Gonzalez](https://open.spotify.com/track/7ePdV6t9L6VfK6K4CI95TD) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 2](https://open.spotify.com/album/6K7es5CWrCWxzZz9A84XfK) | 2:20 |
-| 86 | [Melodía de Amor](https://open.spotify.com/track/4Xz9a5ykDzCQh02OZVjYg0) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy) | 2:28 |
+| 85 | [Melodía de Amor](https://open.spotify.com/track/4Xz9a5ykDzCQh02OZVjYg0) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy) | 2:28 |
+| 86 | [Speedy Gonzalez](https://open.spotify.com/track/7ePdV6t9L6VfK6K4CI95TD) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 2](https://open.spotify.com/album/6K7es5CWrCWxzZz9A84XfK) | 2:20 |
 | 87 | [La Historia de Tommy](https://open.spotify.com/track/29Div3U4mvlXuVD24b70H7) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos Vol.2](https://open.spotify.com/album/7FvfEhgjh8EFawGTIbjQ7n) | 2:40 |
 | 88 | [La Hiedra Venenosa](https://open.spotify.com/track/45l1qKmKi7ZJT3llqnNRnP) | [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [La Hiedra Venenosa](https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe) | 2:39 |
 | 89 | [Dile Adios](https://open.spotify.com/track/5q5xDeMlD85BtzdSFC2ih9) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Exitos del Rock & Roll](https://open.spotify.com/album/7J3zAnHYs4XSpR3e9hh4fN) | 2:17 |

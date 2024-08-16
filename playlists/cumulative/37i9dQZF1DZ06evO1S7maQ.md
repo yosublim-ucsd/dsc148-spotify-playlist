@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1S7maQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1S7maQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1S7maQ)
 
-### [This Is ブルース・スプリングスティーン](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1S7maQ)
+### [This Is Bruce Springsteen](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1S7maQ)
 
-> This is ブルース・スプリングスティーン。アーティストの代表曲をひとつのプレイリストに。
+> This is Bruce Springsteen\. Tutti i brani in un'unica playlist.
 
 111 songs - 7 hr 57 min
 

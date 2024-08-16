@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: BARANOVSKI",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Sarsa",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 145961,
       "name": "Dziewczyno Pi\u0119kna",
       "url": "https://open.spotify.com/track/7i8r3Oev7BKcdtz78yD57J"
@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Jak w filmie",
+        "url": "https://open.spotify.com/album/2gtLXFybjn3nSZQPqVCsr6"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183983,
+      "name": "Jak w filmie",
+      "url": "https://open.spotify.com/track/2IYpNlrzRoWcIUPAvXKT6n"
+    },
+    {
+      "album": {
         "name": "Terminal 3",
         "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
       },
@@ -999,6 +1017,28 @@
     },
     {
       "album": {
+        "name": "Lato na Grochowie",
+        "url": "https://open.spotify.com/album/5yFcKcjCAWuXodnt5S4qJc"
+      },
+      "artists": [
+        {
+          "name": "Rosalie.",
+          "url": "https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Lato na Grochowie",
+      "url": "https://open.spotify.com/track/47uePh0f652cC2LNVj9AFc"
+    },
+    {
+      "album": {
         "name": "LEC\u0118 BO CHC\u0118",
         "url": "https://open.spotify.com/album/2ZQVhK7B598PmTwpZPoQHf"
       },
@@ -1026,7 +1066,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 153931,
       "name": "LEC\u0118 BO CHC\u0118",
       "url": "https://open.spotify.com/track/27Xvm20KQ8qMzVvaz32I98"
@@ -1316,7 +1356,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 148000,
       "name": "NIE M\u00d3WI\u0141A NIC",
       "url": "https://open.spotify.com/track/5RFe2B5H3E3ZNYL0gn04JU"
@@ -1491,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "od nowa",
+        "url": "https://open.spotify.com/album/6MHucgePUQrgwKB98lboY0"
+      },
+      "artists": [
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "od nowa",
+      "url": "https://open.spotify.com/track/1DkUo3q5rxndilxYRMRte4"
+    },
+    {
+      "album": {
         "name": "origami",
         "url": "https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u"
       },
@@ -1546,6 +1604,24 @@
       "duration_ms": 172075,
       "name": "Par\u0119 chwil",
       "url": "https://open.spotify.com/track/19Y0WjVs2kvJmsfdXhctda"
+    },
+    {
+      "album": {
+        "name": "Wachlarz Wad EP",
+        "url": "https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "Poka\u017c Twarz (t\u0105 naprawd\u0119)",
+      "url": "https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy"
     },
     {
       "album": {
@@ -1702,7 +1778,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 192234,
       "name": "Sing-Sing",
       "url": "https://open.spotify.com/track/6VEmJ8vZ41dRfiGbj2JYgG"

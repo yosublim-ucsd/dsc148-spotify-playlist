@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: HVDES \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,647 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,703 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 82 | [Never Change \- Sullivan King Remix](https://open.spotify.com/track/0SmsBon58vD8QskC1l18TQ) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Never Change \(Sullivan King Remix\)](https://open.spotify.com/album/7oIr0bLgBlxMScTiaVlU3K) | 4:28 |
 | 83 | [Core \(That's Who We Are\)](https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Core \(That's Who We Are\)](https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5) | 2:58 |
 | 84 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 |
-| 85 | [This Will Be My Year](https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [This Will Be My Year](https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH) | 3:00 |
-| 86 | [Our Fire](https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Onyx](https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97) | 4:19 |
+| 85 | [Our Fire](https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Onyx](https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97) | 4:19 |
+| 86 | [This Will Be My Year](https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [This Will Be My Year](https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH) | 3:00 |
 | 87 | [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV) | 2:36 |
 | 88 | [Won't Make A Sound](https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Won't Make A Sound](https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg) | 4:36 |
 | 89 | [Just A Kid](https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Just A Kid](https://open.spotify.com/album/71hoJtICb8oJUOclgYjRWh) | 2:56 |

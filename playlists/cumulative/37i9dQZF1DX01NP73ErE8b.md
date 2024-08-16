@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat! 🔁 Tony Effe e Gaia in cover 🇧🇷
+> I brani italiani che abbiamo on repeat! 🔁 ANNA in cover 🌡️
 
-67 songs - 3 hr 19 min
+68 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [MAMMAMÌ](https://open.spotify.com/track/0Q81Qb9ruKqHpz7e67MZDK) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/53YWreunB2TxyqSFbI8Uqc) | 3:05 | 2024-07-01 |  |
 | [Maranza](https://open.spotify.com/track/189QAlCQGRHlHctMkIW0ot) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [Maranza](https://open.spotify.com/album/3Uxxs4524HPBmxiApER8A5) | 3:00 | 2024-07-01 |  |
 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 | 2024-07-01 |  |
+| [Menomale che c'è il mare](https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Gira, il mondo gira](https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap) | 2:53 | 2024-08-15 |  |
 | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd) | 3:15 | 2024-07-01 |  |
 | [Mezzo secondo](https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Mezzo secondo](https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49) | 3:26 | 2024-07-01 |  |
 | [Mille Notti](https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Mille Notti](https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd) | 2:53 | 2024-08-01 |  |
@@ -58,7 +59,7 @@
 | [PASSIONE](https://open.spotify.com/track/6aV7Bwv6WKxTIBxCpZmVBz) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [PASSIONE](https://open.spotify.com/album/5g63IHLDxeCZHZCI0gSq2K) | 2:43 | 2024-07-18 |  |
 | [PEYOTE \(feat\. Fabri Fibra & Rocco Hunt\)](https://open.spotify.com/track/2Zx64xP39WnpMlYgQa0ESv) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [PROTOMARANZA](https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6) | 2:58 | 2024-07-01 |  |
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 |  |
-| [QUE PASA](https://open.spotify.com/track/4IgE2EClVv3KJex9IXVraO) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [QUE PASA](https://open.spotify.com/album/01ArVSSw3tnedf4s7RFNio) | 2:44 | 2024-07-01 |  |
+| [QUE PASA](https://open.spotify.com/track/4IgE2EClVv3KJex9IXVraO) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [QUE PASA](https://open.spotify.com/album/01ArVSSw3tnedf4s7RFNio) | 2:44 | 2024-07-01 | 2024-08-16 |
 | [RA TA TA](https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [RA TA TA](https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw) | 2:32 | 2024-07-01 |  |
 | [RANDAGI](https://open.spotify.com/track/1nELZxAVX7ibdrXxYcc4Pj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [RANDAGI](https://open.spotify.com/album/4WmwbD0f9GLDMU55MFWeo3) | 3:17 | 2024-07-01 |  |
 | [REQUIEM](https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [REQUIEM](https://open.spotify.com/album/2W09xIZ63nBstT9nLW2mAu) | 2:31 | 2024-07-01 |  |

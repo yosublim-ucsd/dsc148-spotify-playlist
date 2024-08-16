@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Amy Shark
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,174 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,217 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Lenses](https://open.spotify.com/track/1R9mc3PQ8rvvmiAvwLGEXg) | [JAMIESON](https://open.spotify.com/artist/5RHCxGsjj4NySyWSNbaXyo) | [Lenses](https://open.spotify.com/album/565atKtd6zrP3ZdFRpLOKV) | 3:09 |
 | 100 | [Bad Love God](https://open.spotify.com/track/1MZyCaruig26Lio1Cgosh5) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Bad Love God](https://open.spotify.com/album/3kBaenm4ssWN87HymLEEsB) | 3:23 |
 
-Snapshot ID: `ZrlXNAAAAADvJ3ls2qbciK0lcXEOi8LG`
+Snapshot ID: `Zr4kkAAAAAABEH74kCsFLqt0ePLRr6C0`

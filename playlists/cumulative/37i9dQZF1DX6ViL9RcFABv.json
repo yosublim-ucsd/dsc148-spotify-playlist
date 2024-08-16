@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Calema",
+  "description": "Uma playlist de pura alma pop! Foto: Fernando Daniel, Sara Correia, Bispo",
   "name": "Pop PT",
   "tracks": [
     {
@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Fones nos ouvidos - Ao vivo no Grovewood Est\u00fadio",
+        "url": "https://open.spotify.com/album/5QpUym9AFfvPiT74s7T3XM"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233840,
+      "name": "Fones nos ouvidos - Ao vivo no Grovewood Est\u00fadio",
+      "url": "https://open.spotify.com/track/3Q4rvGBoHiTxNDqR13iaKF"
+    },
+    {
+      "album": {
         "name": "Aparentemente - vol 1",
         "url": "https://open.spotify.com/album/626ozUdqBKuPW0cmLkHEuJ"
       },
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 220833,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/2o7yOQTog50uh8TI0b34fz"
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 228502,
       "name": "portas do sol",
       "url": "https://open.spotify.com/track/1iL2qN1fpyE9MxUhUUu0O4"
@@ -1710,6 +1728,32 @@
       "duration_ms": 233508,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3pXyAh3uYKEehDa6EcHRI8"
+    },
+    {
+      "album": {
+        "name": "Tu \u00c9s Capaz",
+        "url": "https://open.spotify.com/album/0ZDVybzvo8hbZ2IUWxK4Vz"
+      },
+      "artists": [
+        {
+          "name": "Fernando Daniel",
+          "url": "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+        },
+        {
+          "name": "Sara Correia",
+          "url": "https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173006,
+      "name": "Tu \u00c9s Capaz",
+      "url": "https://open.spotify.com/track/7FWthtHNaVxbg5C1aQ68Fl"
     },
     {
       "album": {

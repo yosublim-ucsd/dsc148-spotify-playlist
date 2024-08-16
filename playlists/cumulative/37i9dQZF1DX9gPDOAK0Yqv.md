@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-565 songs - 1 day 21 hr 29 min
+566 songs - 1 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Beyond Us \- Hatshepsut Version](https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Beyond Us \(Hatshepsut Version\)](https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9) | 3:54 | 2023-03-10 |  |
 | [Billinghurst \- Original Mix](https://open.spotify.com/track/1kZVDA9y4vL1pVDmmNGKji) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Damon EP](https://open.spotify.com/album/1fHq7k3X3rMsRx0xdRfL9F) | 7:36 | 2022-11-23 | 2023-05-18 |
 | [Biosphère](https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Biosphère](https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO) | 3:44 | 2022-12-28 | 2023-01-06 |
-| [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 | 2023-02-04 |  |
+| [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 | 2023-02-04 | 2024-08-16 |
 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 | 2024-03-21 |  |
 | [Both Of Us](https://open.spotify.com/track/3CmCiyqRN4z3u1ZUDMywY2) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Both of Us](https://open.spotify.com/album/68dG6aoGqhFoq7gpCA3NNi) | 4:37 | 2024-08-08 |  |
 | [Breathe](https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY) | [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [Breathe](https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG) | 6:47 | 2022-11-27 | 2023-11-22 |
@@ -158,6 +158,7 @@
 | [Faceted Obsidian](https://open.spotify.com/track/0EVZvFOXx0QeRcYEBZJhX1) | [Incláme](https://open.spotify.com/artist/3jEvfxjUTWizkdT7TxUcWQ) | [Faceted Obsidian EP](https://open.spotify.com/album/5LJbIVBn4Vvupg2rtbEWc8) | 7:01 | 2023-06-30 | 2023-08-05 |
 | [Fade In To You](https://open.spotify.com/track/22tFXsl4XmedYLNMU88qlx) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Nothing Around Us](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj) | 6:27 | 2022-11-23 | 2023-02-04 |
 | [Falling Down \- Chris Avantgarde Remix](https://open.spotify.com/track/1g4W5F9wq09292xrsfS5y6) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Falling Down \(Chris Avantgarde Remix\)](https://open.spotify.com/album/4pKPeSXMW3INZJwViHYN88) | 4:53 | 2024-02-01 | 2024-02-10 |
+| [Famax \- Goom Gum Remix](https://open.spotify.com/track/3lqOtB1xXrDjBxGbiqZuP9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Famax \(Goom Gum Remix\)](https://open.spotify.com/album/6NaIUD5NH59gzeSYwkkI8V) | 3:30 | 2024-08-15 |  |
 | [Faster](https://open.spotify.com/track/2ZP5DF2cusuvGvek7yxIsA) | [Baime](https://open.spotify.com/artist/1BhpnaiATjhNtIjTjSHLz4) | [Faster](https://open.spotify.com/album/3EN48hhJ4acHWbpoDUitWZ) | 7:16 | 2024-04-25 | 2024-05-03 |
 | [Faust](https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:37 | 2024-03-15 | 2024-04-19 |
 | [Fervor](https://open.spotify.com/track/6qawKh4ooiogvTTDo76Iz0) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Spectral Reverie](https://open.spotify.com/album/3oVYO1VRaPbA7qyb4WzI3N) | 5:58 | 2024-07-02 | 2024-07-27 |
@@ -487,7 +488,7 @@
 | [Tarantela](https://open.spotify.com/track/4xjqeielYeZXr0GiRz9Cce) | [Alphadog](https://open.spotify.com/artist/0BCwCDWFMwyKChehFuZFdG) | [Tarantela EP](https://open.spotify.com/album/24XtPl6YMbPCVV3QJiPIjs) | 7:19 | 2022-12-28 | 2023-01-06 |
 | [Tataki](https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Tataki](https://open.spotify.com/album/2TIki9mmFhTGkyJM0Svses) | 5:28 | 2022-11-23 | 2023-12-01 |
 | [Tatanka](https://open.spotify.com/track/7F6B3zGnultHVnJXdNo66j) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tatanka](https://open.spotify.com/album/3N5NIDmGT4ZMtqyiOA9okM) | 6:22 | 2023-03-22 | 2023-03-25 |
-| [Telepathic](https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Telepathic](https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O) | 4:38 | 2024-05-08 | 2024-08-09 |
+| [Telepathic](https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Telepathic](https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O) | 4:38 | 2024-05-08 |  |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-12-28 | 2023-01-06 |
 | [Tension \(feat\. MERYLL\)](https://open.spotify.com/track/0QBQuBJf1xowOhV7lLldc7) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Tension \(feat\. MERYLL\)](https://open.spotify.com/album/5oucec1kxcsbBTE13wQfoJ) | 4:22 | 2023-08-04 | 2023-09-08 |
 | [Termination](https://open.spotify.com/track/7j6mghgIJz1FYXe9Gw8kqb) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Termination](https://open.spotify.com/album/6GxQv9hlNVAB2G0SpbjQpK) | 4:07 | 2024-01-05 | 2024-04-26 |

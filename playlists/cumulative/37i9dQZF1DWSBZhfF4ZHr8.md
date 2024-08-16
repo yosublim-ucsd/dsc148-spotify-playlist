@@ -2,7 +2,7 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo : Jérémy Frerot
+> Les meilleures nouveautés de la variété française\. Photo : Ridsa
 
 66 songs - 3 hr 16 min
 

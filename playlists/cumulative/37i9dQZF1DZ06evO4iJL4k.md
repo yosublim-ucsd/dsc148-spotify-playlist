@@ -2,9 +2,9 @@
 
 ### [This Is Filipe Ret](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iJL4k)
 
-> This is Filipe Ret\. The essential tracks, all in one playlist.
+> This is Filipe Ret\. Todos os maiores hits em uma só playlist.
 
-86 songs - 5 hr 51 min
+87 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 | 2023-09-21 |  |
 | [Faça Você Mesmo](https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:47 | 2023-09-21 |  |
 | [Good Vibe](https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:01 | 2023-09-21 |  |
-| [Ilusão](https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Ilusão](https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ) | 3:37 | 2023-09-21 |  |
+| [Ilusão](https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Ilusão](https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ) | 3:37 | 2023-09-21 | 2024-08-16 |
+| [Ilusão \- Ao Vivo](https://open.spotify.com/track/4mCLk3UKVlqduaXrPOHFyd) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 3:02 | 2024-08-16 |  |
 | [Invicto](https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 4:16 | 2024-04-26 |  |
 | [Invicto](https://open.spotify.com/track/3ecQ7EFhQCJbPfM8fQ5JaD) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf) | 4:16 | 2023-09-21 | 2024-04-26 |
 | [Isso Que É Vida](https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 4:56 | 2024-04-24 |  |

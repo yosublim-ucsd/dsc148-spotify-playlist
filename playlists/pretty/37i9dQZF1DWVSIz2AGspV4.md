@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف: علي صابر
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,202 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,246 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Maqsoda](https://open.spotify.com/track/4Na3asJ6ziDXspqUtZH22W) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Maqsoda](https://open.spotify.com/album/6S2F1BSq39W6AuQ7GA6hyF) | 3:47 |
 | 2 | [Ensan](https://open.spotify.com/track/0xWfFxP3NZu1RIC3kSh2LN) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ensan](https://open.spotify.com/album/4GJS5Vp8fCNkQkEtDG2S94) | 4:08 |
-| 3 | [سوالف قبل](https://open.spotify.com/track/4dnKDh8KXg7o0WQFAYVpVq) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [سوالف قبل](https://open.spotify.com/album/4QBmOhhTwWsay8vSO7wqvU) | 3:41 |
-| 4 | [Hob Ahtikar](https://open.spotify.com/track/5RBTO0rCpltFobnou4cwJj) | [Mohanad Al Marsoomi](https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H) | [Hob Ahtikar](https://open.spotify.com/album/3FnWWKR5ulIqaGBXM1LTUu) | 3:26 |
+| 3 | [Hob Ahtikar](https://open.spotify.com/track/5RBTO0rCpltFobnou4cwJj) | [Mohanad Al Marsoomi](https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H) | [Hob Ahtikar](https://open.spotify.com/album/3FnWWKR5ulIqaGBXM1LTUu) | 3:26 |
+| 4 | [سوالف قبل](https://open.spotify.com/track/4dnKDh8KXg7o0WQFAYVpVq) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [سوالف قبل](https://open.spotify.com/album/4QBmOhhTwWsay8vSO7wqvU) | 3:41 |
 | 5 | [مقهورين مني](https://open.spotify.com/track/22aBA60qudBOPSqkPZ5gJd) | [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [مقهورين مني](https://open.spotify.com/album/3dgvVkYKn0HaAnJ4x6hQR8) | 2:55 |
 | 6 | [Ghaltan Ghaltan](https://open.spotify.com/track/7FL9mXY6W6SPsFvWwhSLVd) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ghaltan Ghaltan](https://open.spotify.com/album/5R6fPHaacsEuy9FCId2MTF) | 3:52 |
 | 7 | [Helem Geffey](https://open.spotify.com/track/2F48MRUip6OrIEs2vJ0QVA) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Helem Geffey](https://open.spotify.com/album/1V23wqZu0pJmJ3TANpCycg) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 49 | [Safha Jdida](https://open.spotify.com/track/35TewCJeiy2uiA044iUMsL) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Safha Jdida](https://open.spotify.com/album/6a1wDMzQeup9H4tlnZEW9q) | 2:57 |
 | 50 | [Min Fadwa Li Dehketah](https://open.spotify.com/track/6tWh2BZh7W0wPQJpDNh9hc) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Hatim Al Iraqi 2023 Part 1](https://open.spotify.com/album/6EGljudVBye50EfnfTMcHG) | 3:30 |
 
-Snapshot ID: `ZnptFAAAAAAfB8Bch4Y6x/+yV+zHfu+Z`
+Snapshot ID: `Zr3YRwAAAACx5LUAnWT/QVdAo4rDj/26`

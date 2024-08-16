@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Speed",
-  "num_followers": 467652,
+  "num_followers": 467682,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Broken Words",
+        "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 172003,
+      "name": "Broken Words",
+      "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Walk Alone",
         "url": "https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 195608,
       "name": "Walk Alone",
       "url": "https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Broken Words",
-        "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 172003,
-      "name": "Broken Words",
-      "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "It Burns",
-        "url": "https://open.spotify.com/album/77flV7s0GAsUvzd5vbCk9K"
-      },
-      "artists": [
-        {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
-        }
-      ],
-      "duration_ms": 236878,
-      "name": "It Burns",
-      "url": "https://open.spotify.com/track/514cam2TdGuqXOu3oeGFAj"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
       },
@@ -743,22 +727,6 @@
       "duration_ms": 135541,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "aftermath/afterthought",
-        "url": "https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 146746,
-      "name": "aftermath/afterthought",
-      "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -779,18 +747,34 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "California Sober",
-        "url": "https://open.spotify.com/album/7gI0X71p03RtZMYpyCgtY9"
+        "name": "aftermath/afterthought",
+        "url": "https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o"
       },
       "artists": [
         {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
         }
       ],
-      "duration_ms": 162600,
-      "name": "California Sober",
-      "url": "https://open.spotify.com/track/7s5TCAqfDLMmOUqwsOXdId"
+      "duration_ms": 146746,
+      "name": "aftermath/afterthought",
+      "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "It Burns",
+        "url": "https://open.spotify.com/album/77flV7s0GAsUvzd5vbCk9K"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 236878,
+      "name": "It Burns",
+      "url": "https://open.spotify.com/track/514cam2TdGuqXOu3oeGFAj"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -807,6 +791,22 @@
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "California Sober",
+        "url": "https://open.spotify.com/album/7gI0X71p03RtZMYpyCgtY9"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/7s5TCAqfDLMmOUqwsOXdId"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Sour",
-        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 165858,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 221347,
       "name": "Elster Stares the Desert Down",
       "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Sour",
+        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 165858,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 174521,
+      "name": "worlds greatest emoter",
+      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "wallflower",
         "url": "https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 219720,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "The Twits",
-        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 174521,
-      "name": "worlds greatest emoter",
-      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh"
     },
     {
-      "added_at": "2024-07-12 11:48:19",
-      "album": {
-        "name": "i hate people",
-        "url": "https://open.spotify.com/album/5C7vprfUvdSflev3jTfVHx"
-      },
-      "artists": [
-        {
-          "name": "jaydes",
-          "url": "https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv"
-        }
-      ],
-      "duration_ms": 91730,
-      "name": "i hate people",
-      "url": "https://open.spotify.com/track/0WyPJNy0BvwOynaFgwxNZl"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Half Album",
@@ -1167,6 +1151,22 @@
       "duration_ms": 370939,
       "name": "The Last Drag",
       "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
+    },
+    {
+      "added_at": "2024-07-12 11:48:19",
+      "album": {
+        "name": "i hate people",
+        "url": "https://open.spotify.com/album/5C7vprfUvdSflev3jTfVHx"
+      },
+      "artists": [
+        {
+          "name": "jaydes",
+          "url": "https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv"
+        }
+      ],
+      "duration_ms": 91730,
+      "name": "i hate people",
+      "url": "https://open.spotify.com/track/0WyPJNy0BvwOynaFgwxNZl"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Fascist Bob",
-        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
-      },
-      "artists": [
-        {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
-        }
-      ],
-      "duration_ms": 116240,
-      "name": "Fascist Bob",
-      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "You're My Medicine",
         "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 192682,
       "name": "You're My Medicine",
       "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Fascist Bob",
+        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "duration_ms": 116240,
+      "name": "Fascist Bob",
+      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Ruiner",
-        "url": "https://open.spotify.com/album/091osy7G7DbCy5NuBjbAJg"
+        "name": "Claw",
+        "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
       },
       "artists": [
         {
-          "name": "The Spill Canvas",
-          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
         }
       ],
-      "duration_ms": 202331,
-      "name": "Ruiner",
-      "url": "https://open.spotify.com/track/36WpXM0TQtY7PGCAbIvpb1"
+      "duration_ms": 195195,
+      "name": "Claw",
+      "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
     }
   ],
   "unique_name": "Today's Punk",

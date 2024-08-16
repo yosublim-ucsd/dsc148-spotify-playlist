@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-209 songs - 12 hr 48 min
+210 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Badut](https://open.spotify.com/track/5oDymvDdBB5vHpgHHo9CRY) | [Nur Muhammad Rachman Raafi](https://open.spotify.com/artist/35GthN9Rx4whxW4x1voiZf), [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH) | [Badut](https://open.spotify.com/album/5PjIYQD3XITQ3kij6O0Sgq) | 5:51 | 2023-03-24 | 2023-12-07 |
 | [Badut](https://open.spotify.com/track/1f9g3LPKeaxNje4eCSxgap) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH) | [Badut, Pt\. 2](https://open.spotify.com/album/4YGjzOfIQyZ0cMmPNz6juQ) | 7:19 | 2023-12-06 |  |
 | [Badut Baru](https://open.spotify.com/track/2cvKEBxlLOjAWYhsDwOvRC) | [dbatlayar](https://open.spotify.com/artist/6Cl2MkL95uTSdGnkT0epnG) | [Badut Baru](https://open.spotify.com/album/2hHIt7x4I5MPMUiAwNkQcZ) | 3:57 | 2024-08-08 |  |
+| [Badut Bodoh](https://open.spotify.com/track/7wZhfStC45k8DA1IrJ9hii) | [Korekayu](https://open.spotify.com/artist/20cF49BJi56UnRacCld3YT) | [Badut Bodoh](https://open.spotify.com/album/5SFWStx4M3DgD137zSKJU9) | 4:43 | 2024-08-15 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2023-06-20 | 2023-07-14 |
 | [Bahaya](https://open.spotify.com/track/45FQZlkNDDHg4pzyjiLQkc) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Bahaya](https://open.spotify.com/album/4MidcEabYlfTGK6LGMzpSY) | 4:20 | 2023-09-28 | 2024-04-26 |
 | [better for you](https://open.spotify.com/track/2fxoRz7eUFbo5RoHSvXqQh) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [better for you](https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm) | 4:49 | 2023-04-04 |  |

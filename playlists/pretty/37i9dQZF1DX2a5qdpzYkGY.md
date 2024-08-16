@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,315 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,318 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 52 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 |
 | 53 | [Lightless Room](https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu) | [Lucas Carlson](https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7) | [Lightless Room](https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc) | 4:59 |
 | 54 | [Stuck T](https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI) | [Sharko](https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5) | [Sharko III](https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8) | 1:16 |
-| 55 | [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 |
-| 56 | [All the Way Round \- Photay Remix](https://open.spotify.com/track/1PKUVKUDXmeT8uu4Rb3f9b) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [All the Way Round \(Photay Remix\)](https://open.spotify.com/album/5O0UsXMCeUEhdWcYv6N6wl) | 4:56 |
+| 55 | [All the Way Round \- Photay Remix](https://open.spotify.com/track/1PKUVKUDXmeT8uu4Rb3f9b) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [All the Way Round \(Photay Remix\)](https://open.spotify.com/album/5O0UsXMCeUEhdWcYv6N6wl) | 4:56 |
+| 56 | [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 |
 | 57 | [Passing Lights \- Cinematic Version](https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr) | [Douran](https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ) | [Reflections 02](https://open.spotify.com/album/33CSkPGUlGsQ6a4pBFfRL2) | 2:36 |
 | 58 | [Open Hill](https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Horizon](https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we) | 4:16 |
-| 59 | [El Momento](https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [El Momento](https://open.spotify.com/album/2Qx4zobEOV9BRW3wL1IbRI) | 3:19 |
-| 60 | [Wandering II \- Ed Carlsen Rework](https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Wandering II \(Ed Carlsen Rework\)](https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga) | 3:10 |
+| 59 | [Wandering II \- Ed Carlsen Rework](https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Wandering II \(Ed Carlsen Rework\)](https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga) | 3:10 |
+| 60 | [El Momento](https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [El Momento](https://open.spotify.com/album/2Qx4zobEOV9BRW3wL1IbRI) | 3:19 |
 | 61 | [Castlefields](https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov) | [Tara Clerkin](https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6), [Sunny Joe Paradisos](https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI) | [Castlefields](https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh) | 8:14 |
 | 62 | [Night looping \- Movement I](https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Le jour et la nuit du réel](https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3) | 2:11 |
 | 63 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 |

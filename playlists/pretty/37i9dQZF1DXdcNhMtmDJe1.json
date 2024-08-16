@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 86923,
+  "num_followers": 86939,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -863,34 +863,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
-        "url": "https://open.spotify.com/album/2G5PbCn4yCRPGdzAVoTNxr"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Orion Weiss",
-          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 826466,
-      "name": "Piano Concerto in F Major: I. Allegro",
-      "url": "https://open.spotify.com/track/48CwFvUkcDdH6XhHVGdvIV"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Manhattan Playboys - American Light Classics",
         "url": "https://open.spotify.com/album/4GkTSWWAJFjJTM4QASCGea"
       },
@@ -975,6 +947,34 @@
       "duration_ms": 86000,
       "name": "3 Preludes: No. 1 in B-Flat Major: Allegro ben ritmato e deciso",
       "url": "https://open.spotify.com/track/3FFcTeH4i8JLlyCbOvkd5R"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/2G5PbCn4yCRPGdzAVoTNxr"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 826466,
+      "name": "Piano Concerto in F Major: I. Allegro",
+      "url": "https://open.spotify.com/track/48CwFvUkcDdH6XhHVGdvIV"
     },
     {
       "added_at": "2022-08-05 04:02:00",

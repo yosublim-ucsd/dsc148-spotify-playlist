@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,000 likes - 54 songs - 11 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,005 likes - 54 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 31 | [ELECTRIC PROPHET \(電気じかけの予言者\)](https://open.spotify.com/track/4QCc649rdzPZkg9ISa2eAK) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [TM NETWORK TRIBUTE ALBUM \-40th CELEBRATION\-](https://open.spotify.com/album/3n7yTwBKEpqxb9z9NL9Ejl) | 8:36 |
 | 32 | [\#53 『怪獣8号』『ザ・ファブル』『終末トレイン』etc…激推し春アニソン！／年間再生数ランキングBEST5発表!!](https://open.spotify.com/episode/5Ibt5FtYb8kQkM8awyEN3b) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 52:34 |
 | 33 | [アンダンテ](https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p) | 3:36 |
-| 34 | [唱](https://open.spotify.com/track/7o0TPSw494RG2Q4iWmd1v6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:09 |
+| 34 | [唱](https://open.spotify.com/track/7o0TPSw494RG2Q4iWmd1v6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:12 |
 | 35 | [Professionalism](https://open.spotify.com/track/7K3oYLroJb1bK9qW2YiK4j) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh) | [Professionalism](https://open.spotify.com/album/7FXCeryLiLzxMIRVrFNIt1) | 4:52 |
 | 36 | [Shouted Serenade](https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Shouted Serenade](https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB) | 3:53 |
 | 37 | [ホホエミノオト](https://open.spotify.com/track/2uhdqZMXkpcyNRTFxwhxIe) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [ホホエミノオト](https://open.spotify.com/album/1vpm8ZmlrelreGQKIpL1i1) | 4:10 |

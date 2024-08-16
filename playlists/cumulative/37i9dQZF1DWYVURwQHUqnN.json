@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Ninho x Niska",
+  "description": "Photo : 13 Organis\u00e9",
   "name": "Best Life",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 157967,
       "name": "Ana Wana",
       "url": "https://open.spotify.com/track/3Vmk65ChDVLhx64EYpysPs"
@@ -200,6 +200,60 @@
       "duration_ms": 166299,
       "name": "Avec elle",
       "url": "https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri"
+    },
+    {
+      "album": {
+        "name": "Bande organis\u00e9e 2",
+        "url": "https://open.spotify.com/album/77qDPmjrdp1m055rJ3vpSr"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "13 Organis\u00e9",
+          "url": "https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        },
+        {
+          "name": "Kofs",
+          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
+        },
+        {
+          "name": "Soso Maness",
+          "url": "https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU"
+        },
+        {
+          "name": "Houari",
+          "url": "https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH"
+        },
+        {
+          "name": "Elams",
+          "url": "https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN"
+        },
+        {
+          "name": "Solda",
+          "url": "https://open.spotify.com/artist/7FXX45sHqoQoCwqtG0ZV8H"
+        },
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376493,
+      "name": "Bande organis\u00e9e 2",
+      "url": "https://open.spotify.com/track/3wh4HFS6a3v8Zu1vZadEwA"
     },
     {
       "album": {
@@ -966,7 +1020,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 185453,
       "name": "Fleurs",
       "url": "https://open.spotify.com/track/2jrpnXUN8mMrDMKXrzKsNO"
@@ -3034,6 +3088,28 @@
       "duration_ms": 161696,
       "name": "Tentation",
       "url": "https://open.spotify.com/track/1nhBQ2Xm5HylZoQBekgL9P"
+    },
+    {
+      "album": {
+        "name": "Terminal 2F",
+        "url": "https://open.spotify.com/album/2MYR9MkUTMgmSJXxRXCtoM"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187298,
+      "name": "Terminal 2F",
+      "url": "https://open.spotify.com/track/0kcTNJvmhpx2Oeb4VChx14"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: PUN
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: 4EVE
 
-535 songs - 1 day 7 hr 48 min
+538 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Pom Pom](https://open.spotify.com/track/6TMKYVnwMJDHDnkyFm2OgL) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Pom Pom](https://open.spotify.com/album/1GOElDaXMy5zfUGpmtDfGo) | 2:56 | 2023-01-26 | 2023-02-03 |
 | [Princess](https://open.spotify.com/track/47y7TZ7oibsGveg1ycSdvk) | [iWish](https://open.spotify.com/artist/6dlCDcr5JTHjzc1osXFaNH) | [Princess](https://open.spotify.com/album/5hzeaOZ64k7FJQNXEaFxRe) | 4:01 | 2022-11-11 | 2022-11-18 |
 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK? \- Single](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 | 2023-02-02 | 2023-11-03 |
-| [Rent It From You](https://open.spotify.com/track/7Hoa908AVjfP85uRvZ6RWm) | [Third](https://open.spotify.com/artist/2rznKFXxZ6t2xZ9lAJY2xK) | [Rent It From You](https://open.spotify.com/album/6gv2oszIUUb7LFSXC2zhin) | 2:46 | 2024-08-08 |  |
+| [Red Zone](https://open.spotify.com/track/5UdZNJ9Gzd71CVEyM0MLM2) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [Red Zone](https://open.spotify.com/album/25fGFqBeRGLkjdi2HZGG9i) | 3:38 | 2024-08-15 |  |
+| [Rent It From You](https://open.spotify.com/track/7Hoa908AVjfP85uRvZ6RWm) | [Third](https://open.spotify.com/artist/2rznKFXxZ6t2xZ9lAJY2xK) | [Rent It From You](https://open.spotify.com/album/6gv2oszIUUb7LFSXC2zhin) | 2:46 | 2024-08-08 | 2024-08-16 |
 | [Sad Movie](https://open.spotify.com/track/1nenRWbemVvsxnxg296eFB) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bright Vachirawit](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [Sad Movie](https://open.spotify.com/album/4OKtFyWg0TeKYXK4v5Upw7) | 3:48 | 2022-05-26 | 2022-07-24 |
 | [Second Chance](https://open.spotify.com/track/2a7YBNa6T4DhtF77kbWx8G) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [Second Chance](https://open.spotify.com/album/246Sr3txZUox97Q3LLYAZZ) | 3:22 | 2023-07-21 | 2023-07-29 |
 | [SECRETLY LOVE](https://open.spotify.com/track/0v1kDqxBNKnlImkUXyV85w) | [DONUTCHA](https://open.spotify.com/artist/27Ead4OXgt2nRLOLCr3hQU), [KANGSOMKS](https://open.spotify.com/artist/5cygqwPtm1jNE3B311G2hW) | [SECRETLY LOVE](https://open.spotify.com/album/2ZAOjwYzcpuj1TiCmoEWNP) | 2:59 | 2022-06-09 | 2022-06-17 |
@@ -184,7 +185,7 @@
 | [คนไม่น่ารัก](https://open.spotify.com/track/6pfGrakHsgPI8MPssDISPB) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [คนไม่น่ารัก](https://open.spotify.com/album/3WtbzeNwhOqF0lYFn2WQuk) | 3:13 | 2022-07-14 | 2022-07-23 |
 | [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/track/0M4uSAa7OoMTTWuG7Aso2A) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/album/3qI4y3aWvcBjX4GqFZp1WG) | 3:23 | 2023-08-24 | 2023-11-17 |
 | [ความพยายามอยู่ที่ไหน \(Please Try Again\)](https://open.spotify.com/track/5Mkz9wO3zxHfQ5WPYLGL9e) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [ความพยายามอยู่ที่ไหน \(Please Try Again\) \- Single](https://open.spotify.com/album/6K2zKb33MJ8I4aYe3bYgio) | 3:30 | 2023-10-05 | 2023-10-20 |
-| [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/track/4CBRdY0RexCvMi0GoyDiZc) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [pY\-1](https://open.spotify.com/artist/2OaPa926aKd12rYVXJWSEW) | [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/album/5UJzWrNNyLDbnNe21eoGOm) | 3:38 | 2024-08-08 |  |
+| [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/track/4CBRdY0RexCvMi0GoyDiZc) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [pY\-1](https://open.spotify.com/artist/2OaPa926aKd12rYVXJWSEW) | [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/album/5UJzWrNNyLDbnNe21eoGOm) | 3:38 | 2024-08-08 | 2024-08-16 |
 | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\)](https://open.spotify.com/track/7fY7jCjncVuEsDYzvdHl7h) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\) \- Single](https://open.spotify.com/album/0BeN3k5p6Hct7DUxVFGrqn) | 3:54 | 2024-07-04 |  |
 | [คาเฟอีน \(My Caffeine\)](https://open.spotify.com/track/5snqSVol9lu4kZWa9eHdin) | [Mercury Goldfish](https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb) | [คาเฟอีน](https://open.spotify.com/album/2n144mh5bLRanWiqkGxdSN) | 3:01 | 2022-05-26 | 2022-06-10 |
 | [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2022-05-26 | 2022-11-18 |
@@ -200,6 +201,7 @@
 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 | 2022-05-26 | 2024-03-29 |
 | [งอนตลอด \(Tell Me What You Want\)](https://open.spotify.com/track/7hz7tpYU2mvsBBnxLIjk8o) | [Ice Paris](https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n) | [งอนตลอด \(Tell Me What You Want\)](https://open.spotify.com/album/1vUv6QoW9OEGv70WF6Rfru) | 3:16 | 2023-09-22 | 2023-10-06 |
 | [งอนละ](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 | 2022-11-17 | 2023-09-20 |
+| [จดหมายรัก \(Sincerely Yours\)](https://open.spotify.com/track/7KYtXp4OomVO6N6Wc51kM9) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [จดหมายรัก \(Sincerely Yours\)](https://open.spotify.com/album/3Y2dSVrfr5wC88TibguMqT) | 4:04 | 2024-08-15 |  |
 | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/track/1iO8Gwn33kImgOeDpFXTD5) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/album/7qbW3ywq8vR5IhhsNMJ09F) | 3:17 | 2022-06-16 | 2022-07-02 |
 | [จะเป็นให้ได้เลย \(I’m Ready!\)](https://open.spotify.com/track/5gfgG5rdsY3Ujs59xGwgo0) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [จะเป็นให้ได้เลย \(I’m Ready!\)](https://open.spotify.com/album/0StrxX14x5iooTqtn8nXOy) | 3:07 | 2024-05-06 | 2024-05-11 |
 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2023-04-10 | 2024-06-01 |
@@ -470,6 +472,7 @@
 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 | 2022-07-07 | 2022-07-23 |
 | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/track/7kYkOkwL7644XyOdjQ9zo5) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/album/26LY4e9rP1alRPyBwokxsW) | 3:31 | 2023-09-13 | 2024-03-15 |
 | [เหตุผลข้อเดียว \(I Mean\)](https://open.spotify.com/track/7mhv19fY8rvuuIey7mrwD2) | [NEVONE](https://open.spotify.com/artist/04iMi6PaEHR1pbgh5LK8nZ) | [เหตุผลข้อเดียว \(I Mean\)](https://open.spotify.com/album/3GQ88RTjXv4YvbdzUsX7nl) | 3:18 | 2024-07-11 | 2024-07-19 |
+| [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\)](https://open.spotify.com/track/1iB4DlhihIiLpXB6rTDtkO) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\) \- Single](https://open.spotify.com/album/083WVo2isnQjzo2Z0IiYHZ) | 2:56 | 2024-08-15 |  |
 | [เหล่ท่อ](https://open.spotify.com/track/1mfmYnbNhK574LYK23dZOB) | [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [เหล่ท่อ](https://open.spotify.com/album/6yNmCQx2RcSytSTbDCaAfE) | 3:03 | 2022-06-02 | 2022-06-10 |
 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 | 2022-05-26 | 2023-03-01 |
 | [เอาใจลงไปเล่น\(GAMBLE\)](https://open.spotify.com/track/5XNaYxMeuMXMJy3K9UcSXg) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [เอาใจลงไปเล่น\(GAMBLE\)](https://open.spotify.com/album/5ULzvf2zlwnN7B8zgokFzY) | 3:24 | 2022-07-28 | 2022-08-26 |

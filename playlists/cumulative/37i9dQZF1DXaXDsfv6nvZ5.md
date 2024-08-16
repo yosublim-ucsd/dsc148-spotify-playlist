@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-565 songs - 1 day 10 hr 14 min
+566 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Love Comes Easy](https://open.spotify.com/track/4hj7jCslc9kgnOhl9fqOsN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:12 | 2022-08-26 | 2023-04-30 |
 | [Love Goes](https://open.spotify.com/track/7lt6KKaSXku9ExpG8EaqwV) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Love Goes](https://open.spotify.com/album/2z1sSMgDKfQXnfi71Ro1LZ) | 2:46 | 2024-07-12 |  |
 | [Love Is A Losing Game \- Live at Stebbing Studio](https://open.spotify.com/track/36m5Fi9MUE98AtYnOjsYJp) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Love Is A Losing Game \(Live at Stebbing Studio\)](https://open.spotify.com/album/2jN0f3GV5cy6FONlqFkv6O) | 3:18 | 2022-10-28 | 2023-05-06 |
+| [Love Is Alive](https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Love Is Alive](https://open.spotify.com/album/04IS7MIusxRYUsuecyTqVR) | 3:27 | 2024-08-02 |  |
 | [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 | 2022-10-21 | 2023-10-07 |
 | [Love Is The Way](https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw) | 2:59 | 2022-10-21 | 2023-04-30 |
 | [Love Is U](https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [On God](https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd) | 3:28 | 2024-02-09 |  |
@@ -412,7 +413,7 @@
 | [Pros and Cons](https://open.spotify.com/track/2szn1ATpTPRsCswbQ24XWp) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Pros and Cons](https://open.spotify.com/album/7kUdJRYvPttmaMJ1lKCA9p) | 2:44 | 2023-08-18 | 2023-10-23 |
 | [Pull Up](https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:01 | 2023-05-19 |  |
 | [Quality Time \(feat\. Butcher Brown\)](https://open.spotify.com/track/3Oz9eoxcyNKUYaJiCt9hpf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 4:25 | 2024-03-01 | 2024-05-02 |
-| [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-09 |  |
+| [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-09 | 2024-08-16 |
 | [Real](https://open.spotify.com/track/5s0HBOVFessQ9nkxz0aMDT) | [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Real](https://open.spotify.com/album/0wtKS8QC68KzWh7nEzOxeT) | 3:06 | 2023-09-29 | 2023-11-12 |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-09-09 | 2023-05-21 |
 | [Rich Kids](https://open.spotify.com/track/7n7ZuzfTUJEvo7cZJVvCwd) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Rich Kids](https://open.spotify.com/album/7xKUg94LStzFMZzbVBlWkK) | 3:18 | 2021-12-03 | 2022-08-27 |

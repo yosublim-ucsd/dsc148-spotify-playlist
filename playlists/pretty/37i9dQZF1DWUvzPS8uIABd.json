@@ -1,15 +1,15 @@
 {
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa VIIVI.",
-  "num_followers": 128079,
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Janna, Erika Vikman ja F.",
+  "num_followers": 128106,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrtfxgAAAAA89FSv6QJjyRvmk6qXkGsP",
+  "snapshot_id": "Zr5sjAAAAADVTS+aMT2+pOR9mRQyyIWm",
   "tracks": [
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/1z209B6YRUcVRRz94ogicP"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Kolumbus (feat. Mikael Gabriel)",
         "url": "https://open.spotify.com/album/2cH1c3Wvvy5DUX16UPkcPX"
@@ -45,7 +45,31 @@
       "url": "https://open.spotify.com/track/7KijaUZDwGJTD3TrQeBDMZ"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Aivan sama",
+        "url": "https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm"
+      },
+      "artists": [
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        },
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        },
+        {
+          "name": "F",
+          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Aivan sama",
+      "url": "https://open.spotify.com/track/4M7CQzlQpK3C9Yzjk3wlPf"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Viel yhen kerran",
         "url": "https://open.spotify.com/album/6Eg1Ua5RJXjfZLCUBzvW4e"
@@ -61,7 +85,27 @@
       "url": "https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Per\u00e4valot (feat. Ellinoora)",
+        "url": "https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw"
+      },
+      "artists": [
+        {
+          "name": "Gasellit",
+          "url": "https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF"
+        },
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        }
+      ],
+      "duration_ms": 183749,
+      "name": "Per\u00e4valot (feat. Ellinoora)",
+      "url": "https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Pysyv\u00e4\u00e4",
         "url": "https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG"
@@ -77,7 +121,7 @@
       "url": "https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Saanko m\u00e4 luvan",
         "url": "https://open.spotify.com/album/6KcpOL8g1andfwBer4Iwgf"
@@ -93,7 +137,23 @@
       "url": "https://open.spotify.com/track/5zFAUq1NZuI6uPaTPCm8Yf"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "S\u00e4 voitit jo",
+        "url": "https://open.spotify.com/album/1j0yvwm7L0EHsemk9EUS88"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "duration_ms": 178274,
+      "name": "S\u00e4 voitit jo",
+      "url": "https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "H\u00e4it\u00e4 pidelly",
         "url": "https://open.spotify.com/album/1y1tfyzF2qlXl9FgriI1EB"
@@ -113,7 +173,27 @@
       "url": "https://open.spotify.com/track/6Y7TST1IwwlQqGGpmQjfEO"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Vitun hyvin",
+        "url": "https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 180099,
+      "name": "Vitun hyvin",
+      "url": "https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Luotathan",
         "url": "https://open.spotify.com/album/1JH90V2dgSBiHZbuCzgIIZ"
@@ -133,7 +213,27 @@
       "url": "https://open.spotify.com/track/0hua7obC2aRxJdPkSoFKEu"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Nuori & Tyhm\u00e4",
+        "url": "https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "duration_ms": 152326,
+      "name": "Nuori & Tyhm\u00e4",
+      "url": "https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Huominen ei l\u00f6yd\u00e4 meit\u00e4",
         "url": "https://open.spotify.com/album/7EJUoQ0NHlrlvxEUzr5M6p"
@@ -153,7 +253,27 @@
       "url": "https://open.spotify.com/track/7simuF5RqcV2Sbz0oWESMe"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Momentti (feat. Costi)",
+        "url": "https://open.spotify.com/album/38LoMU82Rqtj2TjjtGEnNW"
+      },
+      "artists": [
+        {
+          "name": "T Swoop",
+          "url": "https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "duration_ms": 193908,
+      "name": "Momentti (feat. Costi)",
+      "url": "https://open.spotify.com/track/2x4DoxpcqEUsfmEIKMd5hP"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Sirkus",
         "url": "https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F"
@@ -169,7 +289,7 @@
       "url": "https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Viimeinen pisara (feat. Etta)",
         "url": "https://open.spotify.com/album/1ZonF7ec14BnRP96ifuD96"
@@ -189,7 +309,7 @@
       "url": "https://open.spotify.com/track/6cbIICgbxjXqt90w3xMJrH"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Pikajunat",
         "url": "https://open.spotify.com/album/4oTP2YGdTCO1UKzMTNfPnZ"
@@ -205,7 +325,7 @@
       "url": "https://open.spotify.com/track/2HXTtO4jFgDn72kSRL1cll"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Stadi (Alicia)",
         "url": "https://open.spotify.com/album/1Q3cD40iLszO4uvmc0kH87"
@@ -225,7 +345,27 @@
       "url": "https://open.spotify.com/track/7gHubaWZNQNvLieogqkVmA"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Suomalainen Superstara",
+        "url": "https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        },
+        {
+          "name": "Mikael Laurent",
+          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
+        }
+      ],
+      "duration_ms": 182159,
+      "name": "Suomalainen Superstara",
+      "url": "https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Sano vaan",
         "url": "https://open.spotify.com/album/3SZuNM26rWPkYk5LGoiDjf"
@@ -241,7 +381,7 @@
       "url": "https://open.spotify.com/track/3bmaYlyaca8hvQ7cUEzHhG"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Lupaa et s\u00e4 l\u00e4het",
         "url": "https://open.spotify.com/album/3Z3oF6JddtFYHYMY3JFCct"
@@ -261,7 +401,7 @@
       "url": "https://open.spotify.com/track/7MR91GiYTmxI5U9oKhqn9c"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Sanat joilla puhutaan",
         "url": "https://open.spotify.com/album/4GmWPlVrwKGO3I14ohGnRV"
@@ -285,111 +425,7 @@
       "url": "https://open.spotify.com/track/4dJ8cD9Pn8mvTzvcdtLVD5"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Vaarallinen Nainen",
-        "url": "https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua"
-      },
-      "artists": [
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 155338,
-      "name": "Vaarallinen Nainen",
-      "url": "https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Yks mun ex",
-        "url": "https://open.spotify.com/album/21ko9R9X8r2e7vPPtReJsH"
-      },
-      "artists": [
-        {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
-        }
-      ],
-      "duration_ms": 150782,
-      "name": "Yks mun ex",
-      "url": "https://open.spotify.com/track/23UYsKMLm1MIOxw8iqaHbQ"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Satama",
-        "url": "https://open.spotify.com/album/1w9whtxDsbfopzVe6hlWjS"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 160011,
-      "name": "Satama",
-      "url": "https://open.spotify.com/track/1osPz2rgtdywUR6ut6eIMU"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Me Vs. Maailma (feat. Sexmane)",
-        "url": "https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa"
-      },
-      "artists": [
-        {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
-        },
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        }
-      ],
-      "duration_ms": 148837,
-      "name": "Me Vs. Maailma (feat. Sexmane)",
-      "url": "https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Aurinkoon",
-        "url": "https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj"
-      },
-      "artists": [
-        {
-          "name": "HUGO",
-          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
-        }
-      ],
-      "duration_ms": 147291,
-      "name": "Aurinkoon",
-      "url": "https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Kukapa ei",
-        "url": "https://open.spotify.com/album/5ihKUVxdUHER6vRcQlqr6d"
-      },
-      "artists": [
-        {
-          "name": "Juha Tapio",
-          "url": "https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM"
-        }
-      ],
-      "duration_ms": 211687,
-      "name": "Kukapa ei",
-      "url": "https://open.spotify.com/track/4KMULSjeSrEfJ7GHWtmHau"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Vaisto (feat. Juuna Chill)",
         "url": "https://open.spotify.com/album/3CvcY3DQFo8nLf8pA4qCG5"
@@ -409,7 +445,59 @@
       "url": "https://open.spotify.com/track/31lZDgdGLl7bzGcVqtuWdr"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Vaarallinen Nainen",
+        "url": "https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 155338,
+      "name": "Vaarallinen Nainen",
+      "url": "https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Kukapa ei",
+        "url": "https://open.spotify.com/album/5ihKUVxdUHER6vRcQlqr6d"
+      },
+      "artists": [
+        {
+          "name": "Juha Tapio",
+          "url": "https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM"
+        }
+      ],
+      "duration_ms": 211687,
+      "name": "Kukapa ei",
+      "url": "https://open.spotify.com/track/4KMULSjeSrEfJ7GHWtmHau"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Yks mun ex",
+        "url": "https://open.spotify.com/album/21ko9R9X8r2e7vPPtReJsH"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "duration_ms": 150782,
+      "name": "Yks mun ex",
+      "url": "https://open.spotify.com/track/23UYsKMLm1MIOxw8iqaHbQ"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Yliajattelen sua",
         "url": "https://open.spotify.com/album/5tfV5vwt0S0PMbMZAbkLVp"
@@ -425,7 +513,79 @@
       "url": "https://open.spotify.com/track/3cYXxC2KHuhx1NxiN04g0t"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "T\u00e4\u00e4 on se ilta",
+        "url": "https://open.spotify.com/album/1Q7ZZHvtnGL9qJlrXh8kBY"
+      },
+      "artists": [
+        {
+          "name": "90's FIN Cover Boyz & Girlz!",
+          "url": "https://open.spotify.com/artist/1Zr5kGpWfxy6auQn5bTpmG"
+        },
+        {
+          "name": "Tuottaja J\u00e4\u00e4skel\u00e4inen",
+          "url": "https://open.spotify.com/artist/38tCNKbME1cGTpUQfQ9UsF"
+        }
+      ],
+      "duration_ms": 203505,
+      "name": "T\u00e4\u00e4 on se ilta",
+      "url": "https://open.spotify.com/track/3LNw5WPE8GPMUjgtFGei82"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Satama",
+        "url": "https://open.spotify.com/album/1w9whtxDsbfopzVe6hlWjS"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Satama",
+      "url": "https://open.spotify.com/track/1osPz2rgtdywUR6ut6eIMU"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Me Vs. Maailma (feat. Sexmane)",
+        "url": "https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "duration_ms": 148837,
+      "name": "Me Vs. Maailma (feat. Sexmane)",
+      "url": "https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Aurinkoon",
+        "url": "https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj"
+      },
+      "artists": [
+        {
+          "name": "HUGO",
+          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
+        }
+      ],
+      "duration_ms": 147291,
+      "name": "Aurinkoon",
+      "url": "https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Ihanuuteni blondiina",
         "url": "https://open.spotify.com/album/6tXApzjqBeRz5HrloYHZY1"
@@ -445,7 +605,23 @@
       "url": "https://open.spotify.com/track/0YWhcwLqzS4QkrmH8dogWS"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Jos me oltais j\u00e4rkevii",
+        "url": "https://open.spotify.com/album/1YzICaP7Jd6j3Hq0yNSaS4"
+      },
+      "artists": [
+        {
+          "name": "Samuli Edelmann",
+          "url": "https://open.spotify.com/artist/1Z6uN0tVLoKb8RIqHQzdSu"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "Jos me oltais j\u00e4rkevii",
+      "url": "https://open.spotify.com/track/6KSk55VPeql3JRPtEhcgIy"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Norjalaista puuta",
         "url": "https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu"
@@ -461,43 +637,23 @@
       "url": "https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
-        "name": "Taustapeili",
-        "url": "https://open.spotify.com/album/588S0BacJGFA4PIZvjWinP"
+        "name": "Maailman ainoo",
+        "url": "https://open.spotify.com/album/4fnhF8aDf8N70tSdJmHooq"
       },
       "artists": [
         {
-          "name": "AHTI",
-          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
         }
       ],
-      "duration_ms": 183995,
-      "name": "Taustapeili",
-      "url": "https://open.spotify.com/track/0Z0Y0HYw1LyhPh6JHUn8iz"
+      "duration_ms": 167962,
+      "name": "Maailman ainoo",
+      "url": "https://open.spotify.com/track/2FO53dXqhiJ6pvh0xndSVl"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Humppapumppu (feat. Simo Silmu)",
-        "url": "https://open.spotify.com/album/3NJel5EzrRMBVUAvMUIGX6"
-      },
-      "artists": [
-        {
-          "name": "SUOMEN PELI",
-          "url": "https://open.spotify.com/artist/27MFM28QS21aphrFWyYfdj"
-        },
-        {
-          "name": "Simo Silmu",
-          "url": "https://open.spotify.com/artist/16Sd3ZDUzIp3FbZAmYKKun"
-        }
-      ],
-      "duration_ms": 149999,
-      "name": "Humppapumppu (feat. Simo Silmu)",
-      "url": "https://open.spotify.com/track/6F9J500ku1igHiPWBPWZHo"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Juhannusy\u00f6 / M\u00f6kkiel\u00e4m\u00e4\u00e4",
         "url": "https://open.spotify.com/album/41GFDVxUGZTYn18GLNlOZV"
@@ -517,7 +673,43 @@
       "url": "https://open.spotify.com/track/2lwbCSDiToiRgz0W79aW3D"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Humppapumppu (feat. Simo Silmu)",
+        "url": "https://open.spotify.com/album/3NJel5EzrRMBVUAvMUIGX6"
+      },
+      "artists": [
+        {
+          "name": "SUOMEN PELI",
+          "url": "https://open.spotify.com/artist/27MFM28QS21aphrFWyYfdj"
+        },
+        {
+          "name": "Simo Silmu",
+          "url": "https://open.spotify.com/artist/16Sd3ZDUzIp3FbZAmYKKun"
+        }
+      ],
+      "duration_ms": 149999,
+      "name": "Humppapumppu (feat. Simo Silmu)",
+      "url": "https://open.spotify.com/track/6F9J500ku1igHiPWBPWZHo"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
+      "album": {
+        "name": "Mit\u00e4 helvettii m\u00e4 teen t\u00e4\u00e4l",
+        "url": "https://open.spotify.com/album/3osIWRkcvBQ6QGBiMCH5I2"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "Mit\u00e4 helvettii m\u00e4 teen t\u00e4\u00e4l",
+      "url": "https://open.spotify.com/track/4O2Hi3g9RzZV9xKIIosRAv"
+    },
+    {
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Koukus",
         "url": "https://open.spotify.com/album/4Sd6GNkbQZ6tpZWhKX7wh7"
@@ -537,7 +729,7 @@
       "url": "https://open.spotify.com/track/6P0Oi8lYdr7tdAQptCUuNZ"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Tuuks mukaan?",
         "url": "https://open.spotify.com/album/26MOcz03KNxPMx9S00vz6w"
@@ -553,7 +745,7 @@
       "url": "https://open.spotify.com/track/0ZRyotx5QQOb1PeIoi0lGP"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Viikatemies (feat. costee)",
         "url": "https://open.spotify.com/album/2QnpWEQFnGEIj4C8xpQECH"
@@ -573,7 +765,7 @@
       "url": "https://open.spotify.com/track/5EfVIWZF36J5ktLPcOcTSG"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Maailma on sun",
         "url": "https://open.spotify.com/album/58pJGQVmvcpaiMConQ9Ecv"
@@ -589,7 +781,7 @@
       "url": "https://open.spotify.com/track/1gUF3AVXTeAG0EBJtYTy6n"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Juostaan (feat. Sexmane)",
         "url": "https://open.spotify.com/album/7iRrwEdTiGkPZN8foy5XQ7"
@@ -609,43 +801,39 @@
       "url": "https://open.spotify.com/track/5Yn8jOYR59KhHQdhwiQdXO"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
-        "name": "Showtime (feat. Turisti)",
-        "url": "https://open.spotify.com/album/4ZITEFlZ7rQvdAA3jYLMkQ"
+        "name": "Velkaa",
+        "url": "https://open.spotify.com/album/6zTk34ayu8vfMfbh5BmWnH"
       },
       "artists": [
         {
-          "name": "Etta",
-          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
         }
       ],
-      "duration_ms": 149750,
-      "name": "Showtime (feat. Turisti)",
-      "url": "https://open.spotify.com/track/3cjYY03q876FzLDCDi8IKf"
+      "duration_ms": 205036,
+      "name": "Velkaa",
+      "url": "https://open.spotify.com/track/5ItsWCQ97a5kt2pFglV9ZN"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
-        "name": "Maailman ainoo",
-        "url": "https://open.spotify.com/album/4fnhF8aDf8N70tSdJmHooq"
+        "name": "Viinii",
+        "url": "https://open.spotify.com/album/0h1Z6C99Bf9up3RNxy9FSD"
       },
       "artists": [
         {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
         }
       ],
-      "duration_ms": 167962,
-      "name": "Maailman ainoo",
-      "url": "https://open.spotify.com/track/2FO53dXqhiJ6pvh0xndSVl"
+      "duration_ms": 212613,
+      "name": "Viinii",
+      "url": "https://open.spotify.com/track/3n3hf9PWHruPQp6HsnbvfR"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Italia",
         "url": "https://open.spotify.com/album/7FmnNsINdI92aApGrd4vcT"
@@ -669,7 +857,7 @@
       "url": "https://open.spotify.com/track/5dSmtvguWDB0oXMFUbUyYK"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "IBZ (feat. T Swoop & Nelli Orell)",
         "url": "https://open.spotify.com/album/0Z6bOiJgEL0JaLlzOgezgd"
@@ -693,7 +881,7 @@
       "url": "https://open.spotify.com/track/2DjLdWKFTuG6qqE6yTlKuj"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Kantavaa maata",
         "url": "https://open.spotify.com/album/4l5PaY0385asY7nrtKbB7r"
@@ -709,7 +897,7 @@
       "url": "https://open.spotify.com/track/5AbQCOUnNQ6Buf8wR0F4kY"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Mi Amore (feat. Ege Zulu)",
         "url": "https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP"
@@ -729,7 +917,7 @@
       "url": "https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "N\u00f6ss\u00f6\u00f6 el\u00e4m\u00e4\u00e4",
         "url": "https://open.spotify.com/album/7gaDjn3N035NDekrWIV9Cg"
@@ -745,55 +933,7 @@
       "url": "https://open.spotify.com/track/2j2PrCc78t95Z1UiSMYJjB"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Velkaa",
-        "url": "https://open.spotify.com/album/6zTk34ayu8vfMfbh5BmWnH"
-      },
-      "artists": [
-        {
-          "name": "Tupe.",
-          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
-        }
-      ],
-      "duration_ms": 205036,
-      "name": "Velkaa",
-      "url": "https://open.spotify.com/track/5ItsWCQ97a5kt2pFglV9ZN"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Viinii",
-        "url": "https://open.spotify.com/album/0h1Z6C99Bf9up3RNxy9FSD"
-      },
-      "artists": [
-        {
-          "name": "Aliisa Syrj\u00e4",
-          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
-        }
-      ],
-      "duration_ms": 212613,
-      "name": "Viinii",
-      "url": "https://open.spotify.com/track/3n3hf9PWHruPQp6HsnbvfR"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/7sBbhbLZNrLGNauoIkG7Qd"
-      },
-      "artists": [
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Fobia",
-      "url": "https://open.spotify.com/track/4nVUbeIP3ywKHmkQWs76hH"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Tuonelan tuulet",
         "url": "https://open.spotify.com/album/1g0dAkEmeS4oKEQJQ8vLUC"
@@ -809,47 +949,7 @@
       "url": "https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "TRAFIK!",
-        "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        },
-        {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        }
-      ],
-      "duration_ms": 132888,
-      "name": "TRAFIK!",
-      "url": "https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Anna rakas (raju hetki)",
-        "url": "https://open.spotify.com/album/5PuhSGjjWX33X7HqsTTwMI"
-      },
-      "artists": [
-        {
-          "name": "B\u00c4M\u00c4",
-          "url": "https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1"
-        },
-        {
-          "name": "Pilvi H\u00e4m\u00e4l\u00e4inen",
-          "url": "https://open.spotify.com/artist/5UFJGFpQM3dH3Qk63nrdjg"
-        }
-      ],
-      "duration_ms": 163337,
-      "name": "Anna rakas (raju hetki)",
-      "url": "https://open.spotify.com/track/56Zd8JgzFBKpbRgNMvxwa9"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Pelaa sua",
         "url": "https://open.spotify.com/album/0NfVaftmXDcUEd15CVfifg"
@@ -865,7 +965,7 @@
       "url": "https://open.spotify.com/track/54CjiaDkN4OiaL3GvnptBv"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Liian l\u00e4hel aurinkoo",
         "url": "https://open.spotify.com/album/2bLwEBPZKGkZyM0mAZZa7m"
@@ -881,7 +981,7 @@
       "url": "https://open.spotify.com/track/3g11Jm4Im7mEOUGJfsgay1"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Tireht\u00f6\u00f6ri",
         "url": "https://open.spotify.com/album/5D0Gba4iAUAEa2O9lx8sP6"
@@ -897,7 +997,7 @@
       "url": "https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Sun takii",
         "url": "https://open.spotify.com/album/6ZFbAnqaJ6yJjKiWZTlIqu"
@@ -913,7 +1013,7 @@
       "url": "https://open.spotify.com/track/2QAGemdubaYwXgWYRvlBE1"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Aavan meren tuolla puolen (Pride Anthem)",
         "url": "https://open.spotify.com/album/1lRIhGS3ipWijhv3A2n1wH"
@@ -933,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3XbkFw2V8tdA34EQJ0Ncnu"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Selvii p\u00e4ivii",
         "url": "https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5"
@@ -949,7 +1049,7 @@
       "url": "https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Pois pois pois",
         "url": "https://open.spotify.com/album/573RWpBvjB5VAS88V2dXzv"
@@ -965,7 +1065,7 @@
       "url": "https://open.spotify.com/track/6c2WnB9iEyjXlqGJOiI4B3"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "J\u00e4rvi",
         "url": "https://open.spotify.com/album/0kOrPGaGgTqMmQh8Et3IPG"
@@ -981,7 +1081,7 @@
       "url": "https://open.spotify.com/track/1VU75DWLqlY0htSemLfXHL"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Salaisuus",
         "url": "https://open.spotify.com/album/4AO5Fv8uovky248sPXyylO"
@@ -997,7 +1097,7 @@
       "url": "https://open.spotify.com/track/3ddeaVQxXscRq9PgI6ijtY"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Kerron sulle kaiken",
         "url": "https://open.spotify.com/album/3nz9F7b8AhTLWMbtwyNKB1"
@@ -1013,7 +1113,7 @@
       "url": "https://open.spotify.com/track/0hKdhAM8Uvf1rAzbOFnG5h"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Kokonainen",
         "url": "https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk"
@@ -1029,23 +1129,7 @@
       "url": "https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Lutkajenkka",
-        "url": "https://open.spotify.com/album/52ixbntmHugJHdcSwAtsiB"
-      },
-      "artists": [
-        {
-          "name": "Vgr",
-          "url": "https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "Lutkajenkka",
-      "url": "https://open.spotify.com/track/3AfyderccqdtuLSTYAu3vv"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "P\u00e4\u00e4st\u00e4 varpaisiin",
         "url": "https://open.spotify.com/album/47YDU0C9hk5d2rIoziYucD"
@@ -1069,7 +1153,7 @@
       "url": "https://open.spotify.com/track/4FbBHuCdza6S4WODZAvaDb"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Pari Bissee",
         "url": "https://open.spotify.com/album/17Ym7LqgrSslGK3nsUmgT2"
@@ -1085,23 +1169,7 @@
       "url": "https://open.spotify.com/track/4mkLbGplCmhXG0Jv6GRSOn"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Olga",
-        "url": "https://open.spotify.com/album/3Z7O7ZGG62ZIHSxqt6MHv0"
-      },
-      "artists": [
-        {
-          "name": "Herrat",
-          "url": "https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Olga",
-      "url": "https://open.spotify.com/track/5Zm7wFXMkdPS7NQoGxmzWS"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Prinsessa (feat. baka\u00ae)",
         "url": "https://open.spotify.com/album/3oybXiUqKzYBOzQHSfS3ii"
@@ -1121,27 +1189,7 @@
       "url": "https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA"
     },
     {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "T\u00e4n\u00e4 y\u00f6n",
-        "url": "https://open.spotify.com/album/4buYgQelnBcFrmkar87mt7"
-      },
-      "artists": [
-        {
-          "name": "T Swoop",
-          "url": "https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3"
-        },
-        {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
-        }
-      ],
-      "duration_ms": 171455,
-      "name": "T\u00e4n\u00e4 y\u00f6n",
-      "url": "https://open.spotify.com/track/2XxF52QQrTVBj7WI92mPrc"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
+      "added_at": "2024-08-15 21:01:00",
       "album": {
         "name": "Ei syd\u00e4nt\u00e4 saa",
         "url": "https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt"
@@ -1155,54 +1203,6 @@
       "duration_ms": 191788,
       "name": "Ei syd\u00e4nt\u00e4 saa",
       "url": "https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Scatman",
-        "url": "https://open.spotify.com/album/2RWs5Fn0ZTGRaZdsdhhIIp"
-      },
-      "artists": [
-        {
-          "name": "James-J",
-          "url": "https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1"
-        }
-      ],
-      "duration_ms": 140581,
-      "name": "Scatman",
-      "url": "https://open.spotify.com/track/5hAIsbKA5haCaSo1VkjuQT"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Mit\u00e4 m\u00e4 teen? (sped up)",
-        "url": "https://open.spotify.com/album/0adfYliCmAcrTsb0xVryVy"
-      },
-      "artists": [
-        {
-          "name": "Varkemaa",
-          "url": "https://open.spotify.com/artist/1iw4xexBY8lvmWULarOSK7"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "Mit\u00e4 m\u00e4 teen?",
-      "url": "https://open.spotify.com/track/151zAJhoBwQZ4XC24PY8T9"
-    },
-    {
-      "added_at": "2024-08-13 13:29:42",
-      "album": {
-        "name": "Ievan polkka",
-        "url": "https://open.spotify.com/album/1vxdjkvGpDTIuTurG4F7s3"
-      },
-      "artists": [
-        {
-          "name": "Retropop",
-          "url": "https://open.spotify.com/artist/6lUKvTepDl9SSeKb8TKC19"
-        }
-      ],
-      "duration_ms": 172390,
-      "name": "Ievan polkka",
-      "url": "https://open.spotify.com/track/3S9petWfZMAWD9n3bIlqbW"
     }
   ],
   "unique_name": "#vainsuomihitit",

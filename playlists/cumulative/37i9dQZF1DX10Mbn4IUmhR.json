@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=UtLWLELyQKG_jVaQ4zSHfg\">Billie Eilish</a> & <a href=\"https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5?si=_p8Q0F2QSWuKunrlTkMg3Q\">Charli xcx</a> ",
+  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N?si=Y7vkfzc_TXGYBMU0nIrH7w\">Will Linley</a> ",
   "name": "POP JOY",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 80410,
       "name": "COMMUNION",
       "url": "https://open.spotify.com/track/6MjkMyEG79nsgBFCfZCUmC"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 179445,
       "name": "Dancing Alone",
       "url": "https://open.spotify.com/track/6jI4jwiI8SYW5wc8U6VD4u"
@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Fall Asleep",
+        "url": "https://open.spotify.com/album/5RxmvLXckds8tQARMaQtXS"
+      },
+      "artists": [
+        {
+          "name": "Tristan Cole Boltman",
+          "url": "https://open.spotify.com/artist/1gzoSdXYXUh5v1j8qB9QOv"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Fall Asleep",
+      "url": "https://open.spotify.com/track/4NHaWaro8WSRoYJVpU7joq"
+    },
+    {
+      "album": {
         "name": "Falling In Love",
         "url": "https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2"
       },
@@ -542,7 +560,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 176640,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl"
@@ -734,7 +752,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 157834,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz"
@@ -818,7 +836,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 167589,
       "name": "HOLDING ON",
       "url": "https://open.spotify.com/track/6wDQ5MOKhL3ICkWXS0czmG"
@@ -872,7 +890,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 179396,
       "name": "How is Summer Over?",
       "url": "https://open.spotify.com/track/52SjgHZpjJtAxy867ZT3NK"
@@ -1082,6 +1100,24 @@
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
+        "name": "Just Because I Called You",
+        "url": "https://open.spotify.com/album/56TTQbHBeUhFscE5wJbE9p"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168933,
+      "name": "Just Because I Called You",
+      "url": "https://open.spotify.com/track/2cJD1X7Kx1qw4ZzgKOahbp"
     },
     {
       "album": {
@@ -1411,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Postman",
+        "url": "https://open.spotify.com/album/3I1eI0jAjk0yARnFxFv9fn"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192098,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/4ZF0783seUnzAi0lzG5Cez"
+    },
+    {
+      "album": {
         "name": "Ride Or Die",
         "url": "https://open.spotify.com/album/4tO1K47ZI9P4pMri3vJkOd"
       },
@@ -1519,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Shhh",
+        "url": "https://open.spotify.com/album/0cCsW6WclcYR91SlpTWnaf"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143586,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/7ptNON5rnPOv1uFODNtDgP"
+    },
+    {
+      "album": {
         "name": "Shirt",
         "url": "https://open.spotify.com/album/0TJjLt37lC5u5sV8xR8hnB"
       },
@@ -1552,6 +1624,24 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
+    },
+    {
+      "album": {
+        "name": "smile!",
+        "url": "https://open.spotify.com/album/2by1UAXBBav2CnDB0L7dQt"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Way",
+          "url": "https://open.spotify.com/artist/1ASXcFgpcTJE6gzK3lXpC1"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "smile!",
+      "url": "https://open.spotify.com/track/4Kj6k4UL9ZONI4N3kVOueV"
     },
     {
       "album": {
@@ -1714,6 +1804,24 @@
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/7zh18JD5fyKQgP9Lhg566E"
+      },
+      "artists": [
+        {
+          "name": "Sarah Leigh",
+          "url": "https://open.spotify.com/artist/6AG4GBfdIqR4XRGz7LteeJ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176065,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/42fMohrkvO2T9xEj5TQTTY"
     },
     {
       "album": {

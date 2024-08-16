@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-20",
-  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ?si=X1NzBr6TSTiCYrffTDZUQw>Sal Ly",
+  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO?si=7dbL9gMRSDGgTJCqf8jUJQ>Churemi",
   "name": "Praise and Chill",
   "tracks": [
     {
@@ -166,6 +166,24 @@
       "duration_ms": 179408,
       "name": "AGES",
       "url": "https://open.spotify.com/track/7LV1vjZTfneAA8JhzEkJGu"
+    },
+    {
+      "album": {
+        "name": "Ain't Bragging (Live)",
+        "url": "https://open.spotify.com/album/6G67sJTPZPEosjkooWtain"
+      },
+      "artists": [
+        {
+          "name": "Churemi",
+          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326827,
+      "name": "Ain't Bragging - Live",
+      "url": "https://open.spotify.com/track/10oklXEk4wEvuvmmarG4lS"
     },
     {
       "album": {
@@ -648,6 +666,24 @@
       "duration_ms": 120279,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/2iYNgx5z7LymqzPdLShXp4"
+    },
+    {
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/7xCmSZBijKxcn1oKMl5mZS"
+      },
+      "artists": [
+        {
+          "name": "Rita Meroh",
+          "url": "https://open.spotify.com/artist/0yXGza7I1UeHLsdinOAH9Z"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/4t5JEHR8C825JhdRtpNELC"
     },
     {
       "album": {
@@ -1372,7 +1408,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 182543,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/6ey6UQnRFCF4Oxmy0FCw9a"
@@ -1642,7 +1678,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 171728,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/3plpJnQfmj3jYESrMy0nkf"
@@ -1726,6 +1762,32 @@
       "duration_ms": 208941,
       "name": "faithful",
       "url": "https://open.spotify.com/track/34LtaE6Wnen3JqUfWycai1"
+    },
+    {
+      "album": {
+        "name": "FAITHFUL",
+        "url": "https://open.spotify.com/album/3PClHyolFDtl6U6ovXqil6"
+      },
+      "artists": [
+        {
+          "name": "Elsammy",
+          "url": "https://open.spotify.com/artist/0w5NXZhWTCSqsPQuuXbMPL"
+        },
+        {
+          "name": "SOD MUSIQ",
+          "url": "https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY"
+        },
+        {
+          "name": "Amichael Genre",
+          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200670,
+      "name": "FAITHFUL",
+      "url": "https://open.spotify.com/track/6Nr57RKD3BIZB4cBCC5BWM"
     },
     {
       "album": {
@@ -2425,6 +2487,28 @@
     },
     {
       "album": {
+        "name": "Holy Hip-Hop II",
+        "url": "https://open.spotify.com/album/739MEjClzOAKQ6JkMRzOS2"
+      },
+      "artists": [
+        {
+          "name": "Phrv",
+          "url": "https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq"
+        },
+        {
+          "name": "Pwa'ashino",
+          "url": "https://open.spotify.com/artist/3BAq1Yh9Bnz0mhMwOdBKkX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200437,
+      "name": "Holy Hip-Hop II",
+      "url": "https://open.spotify.com/track/5tfF2kMhZqYCDPBXVcQe9v"
+    },
+    {
+      "album": {
         "name": "Worship SZN",
         "url": "https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI"
       },
@@ -2462,7 +2546,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 154759,
       "name": "Hossana",
       "url": "https://open.spotify.com/track/3rGzoZemU63QFPr0pNwxwy"
@@ -3364,6 +3448,32 @@
     {
       "album": {
         "name": "Melody",
+        "url": "https://open.spotify.com/album/7wLvWvkwKKa39lvG97uhjb"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "GIDYON",
+          "url": "https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2"
+        },
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168284,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/3bXHJ2c3YY6Y5lj7435s52"
+    },
+    {
+      "album": {
+        "name": "Melody",
         "url": "https://open.spotify.com/album/1UcN3GPJM2je32M74xq0R3"
       },
       "artists": [
@@ -3906,7 +4016,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 174811,
       "name": "No One",
       "url": "https://open.spotify.com/track/4VZGwCxvbOcIJRGnGdNs3L"
@@ -4678,7 +4788,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 213000,
       "name": "Reaching Out",
       "url": "https://open.spotify.com/track/5HTftjwAJRwNGni4RcapZO"
@@ -5558,7 +5668,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 128399,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/5RZcMlDC59enrajqLvtowJ"

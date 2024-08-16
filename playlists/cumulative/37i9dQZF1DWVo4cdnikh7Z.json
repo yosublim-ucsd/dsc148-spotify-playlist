@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 155094,
       "name": "Aho Vikramaarka(Title Track)(From \"Aho Vikramaarka\")(Tamil)",
       "url": "https://open.spotify.com/track/4iQNdZI5reB6YzBl8Ag0tj"
@@ -13744,7 +13744,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 214181,
       "name": "Kongu Song (From \"Alangu\")",
       "url": "https://open.spotify.com/track/1gJ715SgSDQ7ax5kfkZ91z"
@@ -15899,7 +15899,7 @@
     },
     {
       "album": {
-        "name": "Makkamishi (From \"Brother\")",
+        "name": "Makkamishi - From \"Brother\"",
         "url": "https://open.spotify.com/album/0ScQvvJTicZFU6msnflOj7"
       },
       "artists": [
@@ -15910,6 +15910,10 @@
         {
           "name": "Paal Dabba",
           "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "Dacalty",
+          "url": "https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd"
         }
       ],
       "date_added": "2024-07-20",
@@ -26338,7 +26342,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 212210,
       "name": "Sokka Nanum Nikkiren (From \"Boat\")",
       "url": "https://open.spotify.com/track/04jATeTpyfxzjoZAcx2Bzc"
@@ -27117,6 +27121,32 @@
     },
     {
       "album": {
+        "name": "Suthanthira Swasam - From \"Kadaisi Ulaga Por\"",
+        "url": "https://open.spotify.com/album/0ntVYdJjKf52I9xqRXyaLX"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Kharesma Ravichandran",
+          "url": "https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw"
+        },
+        {
+          "name": "Kaushik Krish",
+          "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138841,
+      "name": "Suthanthira Swasam - From \"Kadaisi Ulaga Por\"",
+      "url": "https://open.spotify.com/track/4lHcOX2QGVydQu2tpl5Lsc"
+    },
+    {
+      "album": {
         "name": "Karumegangal Kalaigindrana (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/76ZQ1xtnX0WrlJwAOHfpmD"
       },
@@ -27819,6 +27849,32 @@
     },
     {
       "album": {
+        "name": "Thangalaan (Original Motion Picture Soundtrack) - Tamil",
+        "url": "https://open.spotify.com/album/7BQyrySqccnKrr1dfxTW7R"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Gana Juli Kumar",
+          "url": "https://open.spotify.com/artist/402K40kaQxkqngcd0utARD"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183298,
+      "name": "Thandora Pottanungo",
+      "url": "https://open.spotify.com/track/5n4vQlNHOtPRDX9qTPFvLq"
+    },
+    {
+      "album": {
         "name": "Label (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2ZeiEGQDHluwVgEgyyuNK6"
       },
@@ -27896,6 +27952,32 @@
       "duration_ms": 106767,
       "name": "Thangalaan Exclusive Making Theme (From \"Thangalaan\")",
       "url": "https://open.spotify.com/track/5EbAvvCyUFOhixZyCGDfAI"
+    },
+    {
+      "album": {
+        "name": "Thangalaan (Original Motion Picture Soundtrack) - Tamil",
+        "url": "https://open.spotify.com/album/7BQyrySqccnKrr1dfxTW7R"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Kidakuzhi Mariyammal",
+          "url": "https://open.spotify.com/artist/1FcvyZdMkasVx0hbIc6WCg"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236286,
+      "name": "Thangalaan Oppari Song",
+      "url": "https://open.spotify.com/track/7beERUIsIda2SXrF33DfwJ"
     },
     {
       "album": {

@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 157560,
       "name": "Badder Love",
       "url": "https://open.spotify.com/track/2muqyJpZ71YJ7bP9F69rZM"
@@ -5641,6 +5641,28 @@
     },
     {
       "album": {
+        "name": "Easy dance",
+        "url": "https://open.spotify.com/album/2ZOJNv9MTdHg2C2fEM8czY"
+      },
+      "artists": [
+        {
+          "name": "Hui",
+          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
+        },
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179546,
+      "name": "Easy dance",
+      "url": "https://open.spotify.com/track/5OK4P7j0Uam3wduqsQY4I0"
+    },
+    {
+      "album": {
         "name": "Eat My Love",
         "url": "https://open.spotify.com/album/7tZUSDEIMXqOg5rsSszQKR"
       },
@@ -8106,7 +8128,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 192600,
       "name": "hey! hey!",
       "url": "https://open.spotify.com/track/6vSpm3PAXA1PLyEINx3DJC"
@@ -9820,6 +9842,28 @@
       "duration_ms": 236013,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/7r0SUODm7Wq4yTpT2KKtg8"
+    },
+    {
+      "album": {
+        "name": "Find YOU",
+        "url": "https://open.spotify.com/album/7GsX3SQSkUvDWnYT0ziJuK"
+      },
+      "artists": [
+        {
+          "name": "LEE DAE HWI",
+          "url": "https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192525,
+      "name": "KILL ME",
+      "url": "https://open.spotify.com/track/4TBLxFV7UNywrpfVBzeSFb"
     },
     {
       "album": {
@@ -12452,6 +12496,24 @@
       "duration_ms": 213680,
       "name": "My Turn",
       "url": "https://open.spotify.com/track/3uO9uv6y5eAJrkQzkHqVnM"
+    },
+    {
+      "album": {
+        "name": "SIS (Soft Is Strong)",
+        "url": "https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154987,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b"
     },
     {
       "album": {
@@ -18126,7 +18188,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 131240,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/7CRxtUYdaNwgUICPi2iScL"

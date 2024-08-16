@@ -1,6 +1,6 @@
 {
   "description": "Music by our 2024 Artists To Watch. Cover: Jasiel Nu\u00f1ez",
-  "num_followers": 5352,
+  "num_followers": 5353,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "FRIKI",
         "url": "https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 189066,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -199,18 +199,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Como Pancho Villa",
-        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
+        "name": "SANDUNGUEA",
+        "url": "https://open.spotify.com/album/4NEEk4i3IvRIoUKsYDM1Lf"
       },
       "artists": [
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
         }
       ],
-      "duration_ms": 143661,
-      "name": "Como Pancho Villa",
-      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
+      "duration_ms": 154634,
+      "name": "SANDUNGUEA",
+      "url": "https://open.spotify.com/track/3GbLOCHhuhdGhuKm5zkQjz"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -235,22 +239,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "SANDUNGUEA",
-        "url": "https://open.spotify.com/album/4NEEk4i3IvRIoUKsYDM1Lf"
+        "name": "Como Pancho Villa",
+        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Ruzzo Doblezz",
-          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 154634,
-      "name": "SANDUNGUEA",
-      "url": "https://open.spotify.com/track/3GbLOCHhuhdGhuKm5zkQjz"
+      "duration_ms": 143661,
+      "name": "Como Pancho Villa",
+      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -307,18 +307,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "SUR",
-        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
+        "name": "YO KIERO",
+        "url": "https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
         }
       ],
-      "duration_ms": 141866,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE"
+      "duration_ms": 152021,
+      "name": "YO KIERO",
+      "url": "https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -359,22 +363,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "YO KIERO",
-        "url": "https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R"
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Alan Dazmel",
-          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         }
       ],
-      "duration_ms": 152021,
-      "name": "YO KIERO",
-      "url": "https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk"
+      "duration_ms": 141866,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE"
     },
     {
       "added_at": "2024-07-12 04:00:00",

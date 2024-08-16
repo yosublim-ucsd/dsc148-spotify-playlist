@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,103 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,198 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 37 | [Southern Son Rising](https://open.spotify.com/track/1mxC7Co5LM1WgRoHasWT3l) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [JJ & Sissy](https://open.spotify.com/artist/57bzCuijw6UJJWH8X4MIBq) | [Southern Son Rising](https://open.spotify.com/album/5XGvXPGOcXITUh8TGfopVw) | 2:50 |
 | 38 | [Hill Billy](https://open.spotify.com/track/6cLtxcSqxHInbrgT1vobQT) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Jeremy Crews](https://open.spotify.com/artist/0IGDqrNOOGsVtgZphF4lAK) | [Hill Billy](https://open.spotify.com/album/6GeOVU4wnonE5clZuoqQGC) | 3:35 |
 | 39 | [Ride \(feat\. CRUCIFIX\)](https://open.spotify.com/track/0nyA6JFmmF1d1WBb5OHolX) | [Wade B](https://open.spotify.com/artist/6SRngj3jZv4ZH2HDHWMrdQ), [CRUCIFIX](https://open.spotify.com/artist/3TZlqrpMAxc0nR7jKggeyh) | [When It's Real](https://open.spotify.com/album/2Bit7fuwbKJr2BG4b8nPUy) | 3:54 |
-| 40 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
+| 40 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \- Platinum Edition](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
 | 41 | [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 |
 | 42 | [Broken Man](https://open.spotify.com/track/2jUDn3jZB1WVY2NlM6Ei6W) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Broken Man](https://open.spotify.com/album/4ak7jsBetqx6PmFdC7pvzU) | 2:45 |
 | 43 | [Bury Me With Bourbon](https://open.spotify.com/track/0wBLVgwVRCRUr4YKf126Ou) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Bury Me With Bourbon](https://open.spotify.com/album/0C3r7rvvipfjt7wS29BTvk) | 2:48 |

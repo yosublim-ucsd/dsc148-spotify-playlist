@@ -2,13 +2,13 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: mukio \(張牧喬\)
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Our Shame  \(凹與山\)
 
-236 songs - 14 hr 25 min
+238 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 out of 10](https://open.spotify.com/track/3fTpEVNXla3OEavoAqXmF0) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [10 out of 10](https://open.spotify.com/album/6MVYiE2oxVEPBVTrG9xo9D) | 2:57 | 2024-07-25 |  |
+| [10 out of 10](https://open.spotify.com/track/3fTpEVNXla3OEavoAqXmF0) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [10 out of 10](https://open.spotify.com/album/6MVYiE2oxVEPBVTrG9xo9D) | 2:57 | 2024-07-25 | 2024-08-16 |
 | [1000 YEARS \(feat\. J.Sheon\)](https://open.spotify.com/track/67TuQdtODeww6KloczBVtv) | [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [1000 YEARS \(千年\)](https://open.spotify.com/album/5RfLV2zLH56AcJN1QKn0hF) | 3:32 | 2024-03-29 | 2024-06-01 |
 | [2024 Team Taiwan](https://open.spotify.com/track/0ckOgA0PRcWaYwEqNhtwXy) | [大支](https://open.spotify.com/artist/4SXx5pMoj7uGi1WPcZhvXA) | [2024 Team Taiwan](https://open.spotify.com/album/3wE3Di9ecACktE8GfCVGSw) | 3:30 | 2024-02-29 | 2024-03-15 |
 | [28 \(What You Owe\)](https://open.spotify.com/track/5WPYDR0qs5xps1CxL2rehD) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [I'mdifficult](https://open.spotify.com/album/6eMD8zY0EQiNsS2qExm4nE) | 4:09 | 2024-01-25 |  |
@@ -111,6 +111,7 @@
 | [NOVA](https://open.spotify.com/track/46olTau19rKKQLQTzYLyOh) | [wannasleep](https://open.spotify.com/artist/1Qe4VNycDbzI2unKKDtQ0x), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [BS](https://open.spotify.com/album/2QtQLczBDz2IiCDvzPf6XV) | 3:36 | 2024-02-29 | 2024-03-15 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2024-02-29 | 2024-03-15 |
 | [Oh Why](https://open.spotify.com/track/6bNSDf3jZ7ThziVCbq0Mq2) | [The Fur.​](https://open.spotify.com/artist/0neVDcSdi4GMgFduUudWve) | [Serene Reminder](https://open.spotify.com/album/2TB1J2Q397wIpztQvyH5D1) | 3:36 | 2024-01-25 | 2024-08-09 |
+| [ok to be not ok](https://open.spotify.com/track/22ArmhlSvZq2pxTKb3dNjk) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [ok to be not ok](https://open.spotify.com/album/4Op5st5g671g45uIqIunE0) | 3:36 | 2024-08-15 |  |
 | [On & On](https://open.spotify.com/track/66MZbkDpxlma4B0TVSpvPb) | [鄭平](https://open.spotify.com/artist/35JXihSrgmmn61jLn2FmqG), [Kalis](https://open.spotify.com/artist/2LzO9zU1GV6oP5gMbU4Cpz) | [簡單一句話](https://open.spotify.com/album/2W7mTvqn6ddqigrpeQ2x2p) | 4:02 | 2024-06-13 | 2024-07-01 |
 | [on read](https://open.spotify.com/track/3UjOd2Gv8RWeo8I0iVmX0P) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [on read](https://open.spotify.com/album/2MiXecLp7hg5BYwgqgrw4c) | 2:57 | 2024-03-14 |  |
 | [One More](https://open.spotify.com/track/1POXmbYNyr8cWmXHMNOnOh) | [LEO37](https://open.spotify.com/artist/1K4p8nRSSUoO6e3Npn77U6), [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV), [DCIV](https://open.spotify.com/artist/1ek0Tv8frXGgW6GCCE2jit), [Dac](https://open.spotify.com/artist/0nWX29koulPYFLJoMxIpJx), [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Star Wu](https://open.spotify.com/artist/41imUY7LVjxTpJwTDgDR6v), [Minyen Hsieh](https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp) | [One More](https://open.spotify.com/album/23ricY0LkT2mI0A1Txt2dl) | 3:48 | 2024-01-25 |  |
@@ -119,7 +120,7 @@
 | [Padiyudr 八瑤](https://open.spotify.com/track/7InN1NCdz0C76KX8GakwQh) | [Kivi](https://open.spotify.com/artist/4HJXLLMYyBtnb8KfkNPhnA) | [分水嶺 Padiyudr](https://open.spotify.com/album/3jQfrUDrc8edQTOQPMxTQp) | 5:03 | 2024-06-13 | 2024-07-01 |
 | [Paradise \(電影《我的天堂城市》主題曲\)](https://open.spotify.com/track/1sPe0BW8Ob7lZ1lTY5M44V) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [Paradise \(電影《我的天堂城市》主題曲\)](https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA) | 3:45 | 2024-01-25 | 2024-03-01 |
 | [Peace Of Mind](https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Blue Jeans](https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR) | 3:09 | 2024-06-30 |  |
-| [Pink Lamborghini](https://open.spotify.com/track/5nSu2pNBi44MIGTs6h7S78) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Pink Lamborghini](https://open.spotify.com/album/0dRH1ks7puz9YEABo86j0c) | 2:17 | 2024-07-25 |  |
+| [Pink Lamborghini](https://open.spotify.com/track/5nSu2pNBi44MIGTs6h7S78) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Pink Lamborghini](https://open.spotify.com/album/0dRH1ks7puz9YEABo86j0c) | 2:17 | 2024-07-25 | 2024-08-16 |
 | [Pretense](https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Pretense](https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm) | 4:27 | 2024-03-28 | 2024-04-26 |
 | [Pretty Girl Supremacy](https://open.spotify.com/track/2OljkxlEuNnx6pHJLutMEM) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Pretty Girl Supremacy](https://open.spotify.com/album/0mrxfukjQPVdpQMfUmVUpF) | 2:45 | 2024-06-30 | 2024-07-19 |
 | [r u happy now?](https://open.spotify.com/track/5xnFjYxsjhIM2YHoUa3grT) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 2:55 | 2024-06-13 | 2024-07-01 |
@@ -236,6 +237,7 @@
 | [記得呼吸](https://open.spotify.com/track/1nzYGfWfv9csqPBmpmYxHB) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [記得呼吸](https://open.spotify.com/album/7ErAzNpBgExbpSGDd5f5hC) | 3:22 | 2024-06-13 | 2024-07-01 |
 | [超級英雄 Antibiotic](https://open.spotify.com/track/0jCx4g5bqpmUoz86x1Rgm0) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [超級英雄 Antibiotic](https://open.spotify.com/album/4OfhbyxPpVnACKoB42nwY7) | 3:15 | 2024-02-29 | 2024-03-15 |
 | [躍](https://open.spotify.com/track/0vQw7IhLHzTInsj5OQnh35) | [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [躍](https://open.spotify.com/album/6BhcCeMEBlIwhafSD05aS8) | 3:41 | 2024-06-13 | 2024-07-01 |
+| [過去の君へのうた](https://open.spotify.com/track/7cNeoHZrCQJ2Lt8Yiyl8wh) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [過去の君へのうた](https://open.spotify.com/album/6ryuZFXjSo5V81tz4hD15U) | 4:24 | 2024-08-15 |  |
 | [都是weather你](https://open.spotify.com/track/3Sp9bi6Oj8rWmWhPXpyZ5l) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv), [楊子平 ᏟᎪsᏢᎬᏒ](https://open.spotify.com/artist/3ZvPuPIHI1Xhh0XvBLAhky) | [都是weather你](https://open.spotify.com/album/59aLs5FpqBI7u5tSaYIi7a) | 3:07 | 2024-06-13 | 2024-07-01 |
 | [醫生 Doctor](https://open.spotify.com/track/1NJKPIIveHFIA7hFFNzdNI) | [百合花](https://open.spotify.com/artist/4JGHOtt9Kj0EKZFjF8cmeL) | [燒金蕉 Burnana](https://open.spotify.com/album/5ItO3LzSpFyaLpugxVHtgC) | 3:45 | 2024-06-13 | 2024-07-01 |
 | [釋迦 \- Live Session](https://open.spotify.com/track/3Z3oabr31eKhocCaFoMiHE) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [釋迦 \(Live Session\)](https://open.spotify.com/album/73lJKnwBSY4nN072HpBD8N) | 4:31 | 2024-04-11 | 2024-05-11 |

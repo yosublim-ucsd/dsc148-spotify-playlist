@@ -1,12 +1,12 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 20740,
+  "num_followers": 20754,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAACmlY27MPQCg61i8fWl2nO2",
+  "snapshot_id": "ZrvzgAAAAABRX7fvvSSetT0w2D+1eDg0",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believer -English ver.-",
-        "url": "https://open.spotify.com/album/1zmFa2LIGCsMsSHUD08I98"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 255407,
-      "name": "Believer -English ver.-",
-      "url": "https://open.spotify.com/track/0khA2UTpvXw17Xbkf3SjHV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SWEET HURT",
         "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 277480,
       "name": "SWEET HURT",
       "url": "https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believer -English ver.-",
+        "url": "https://open.spotify.com/album/1zmFa2LIGCsMsSHUD08I98"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 255407,
+      "name": "Believer -English ver.-",
+      "url": "https://open.spotify.com/track/0khA2UTpvXw17Xbkf3SjHV"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 249706,
-      "name": "\u30e1\u30e1\u30f3\u30c8\u30fb\u30e2\u30ea",
-      "url": "https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Null",
         "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 332160,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "\u30e1\u30e1\u30f3\u30c8\u30fb\u30e2\u30ea",
+      "url": "https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 272600,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/3OqnmwhyLMrOLynHp1Lijm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Null",
         "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 311800,
       "name": "\u6c7a\u610f\u306e\u671d\u306b",
       "url": "https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 272600,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/3OqnmwhyLMrOLynHp1Lijm"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "forget-me-not",
-        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 314706,
-      "name": "\u30c8\u30a6\u30b7\u30f3\u30c0\u30a4",
-      "url": "https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 314239,
       "name": "ANIMA -Naked Style.-",
       "url": "https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "forget-me-not",
+        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 314706,
+      "name": "\u30c8\u30a6\u30b7\u30f3\u30c0\u30a4",
+      "url": "https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf"
     },
     {
       "added_at": null,

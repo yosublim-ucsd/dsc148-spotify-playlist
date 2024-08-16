@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 931 likes - 160 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 932 likes - 160 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 121 | [Entendemos](https://open.spotify.com/track/2Pz9DnS04JtX70gERPeorz) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Sistema](https://open.spotify.com/album/0kDg1ceIubRuJHXyIRGrBM) | 3:33 |
 | 122 | [Portarse Mal](https://open.spotify.com/track/2a6CLJI6zFBHIXOlpYd6Ku) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:06 |
 | 123 | [Uni](https://open.spotify.com/track/7c7uAd3Cbj8FpzYUDGNh8w) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 2:29 |
-| 124 | [Siempre](https://open.spotify.com/track/1dD51CgZ9KKuhK2bmt7IuU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:09 |
-| 125 | [Dame Break](https://open.spotify.com/track/6EbCZhY5jzxB0Oit1b6pH7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:33 |
+| 124 | [Dame Break](https://open.spotify.com/track/6EbCZhY5jzxB0Oit1b6pH7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:33 |
+| 125 | [Siempre](https://open.spotify.com/track/1dD51CgZ9KKuhK2bmt7IuU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:09 |
 | 126 | [Qué Lástima](https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Qué Lástima](https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv) | 3:44 |
 | 127 | [Se Va Viral](https://open.spotify.com/track/2TTE72e6fzVFFG5oMWsyjD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 2:29 |
 | 128 | [Pata' Abajo](https://open.spotify.com/track/20JHbTe5ZP7liePg7wJ7xQ) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 4:05 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 159 | [Interludio](https://open.spotify.com/track/6I2aC9x6YVtBh07da38dbN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 0:48 |
 | 160 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `AbZbdgAAAADOe8uZ1lpWZrvJOoaO6F3Q`
+Snapshot ID: `AbZhFgAAAABrs56NF4zfbGRfBZZdl00r`

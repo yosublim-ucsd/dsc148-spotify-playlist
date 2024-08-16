@@ -1,6 +1,6 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 87440,
+  "num_followers": 87453,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+        "name": "Pieces of You",
+        "url": "https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 240206,
-      "name": "love song",
-      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
+      "duration_ms": 182568,
+      "name": "Pieces of You",
+      "url": "https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Pieces of You",
-        "url": "https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84"
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
       "artists": [
         {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 182568,
-      "name": "Pieces of You",
-      "url": "https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h"
+      "duration_ms": 240206,
+      "name": "love song",
+      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S"
     },
     {
-      "added_at": "2023-05-19 14:21:26",
-      "album": {
-        "name": "u turn me on (but u give me depression)",
-        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "u turn me on (but u give me depression)",
-      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
-    },
-    {
       "added_at": "2022-08-16 22:06:35",
       "album": {
         "name": "Tell Me About Tomorrow",
@@ -791,6 +775,22 @@
       "duration_ms": 205723,
       "name": "NO VANITY",
       "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
+    },
+    {
+      "added_at": "2023-05-19 14:21:26",
+      "album": {
+        "name": "u turn me on (but u give me depression)",
+        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "u turn me on (but u give me depression)",
+      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
     },
     {
       "added_at": "2022-08-16 22:06:35",

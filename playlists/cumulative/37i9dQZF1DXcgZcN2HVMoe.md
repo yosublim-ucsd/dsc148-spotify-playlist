@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Steps to Heaven \- Recorded At RAK Studios, London](https://open.spotify.com/track/3njlvveQ6IQpqht2noJ6EF) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Things I'll Tell You Tomorrow \(Recorded At RAK Studios, London\)](https://open.spotify.com/album/0BFInXJKynLkiKugn15Cgt) | 4:00 | 2022-01-24 | 2022-04-20 |
-| [18th Floor \- Acoustic](https://open.spotify.com/track/1hMmSSLc6RWgm2ITJBAmFj) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [18th Floor \(Acoustic\)](https://open.spotify.com/album/1NXMg6b10tQDzcs7ZYhvim) | 3:36 | 2021-12-17 |  |
+| [18th Floor \- Acoustic](https://open.spotify.com/track/1hMmSSLc6RWgm2ITJBAmFj) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [18th Floor \- Acoustic](https://open.spotify.com/album/1NXMg6b10tQDzcs7ZYhvim) | 3:36 | 2021-12-17 |  |
 | [21 Days](https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:20 | 2023-09-08 |  |
 | [29 \#Strafford APTS](https://open.spotify.com/track/7wAEw2zU5ls6NvXdisz5DJ) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 4:02 | 2021-12-17 | 2024-05-12 |
 | [95](https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Picture This](https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu) | 3:54 | 2022-01-24 |  |

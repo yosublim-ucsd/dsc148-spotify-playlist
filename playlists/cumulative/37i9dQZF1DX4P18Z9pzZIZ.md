@@ -4,7 +4,7 @@
 
 > hop on board, nonstop bops only!!
 
-259 songs - 12 hr 47 min
+260 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2023-01-12 | 2023-04-18 |
 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 | 2023-02-03 | 2023-06-13 |
 | [Ecstasy](https://open.spotify.com/track/0I7i8CLkydZcwcyi1Ls9c1) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Ecstasy](https://open.spotify.com/album/5iQrsBUUGwmBWeUMETtby6) | 2:59 | 2024-05-03 |  |
+| [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 | 2024-08-15 |  |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2023-01-12 | 2023-09-05 |
 | [Elevate \(feat\. RANI\)](https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Elevate \(feat\. RANI\)](https://open.spotify.com/album/1BJiT96gyEtwZ42k4OdecY) | 2:12 | 2024-03-06 | 2024-07-04 |
 | [End Of Time \(feat\. Jordan Shaw\)](https://open.spotify.com/track/0g998xGTsjf9uTVJ9SksS4) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [End Of Time \(feat\. Jordan Shaw\)](https://open.spotify.com/album/0LOBvrnYTIvHZkLoDEWgWY) | 2:28 | 2024-04-05 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF?si=6qkSYoQ-Th65L1wancEr5w\">Kelsea Ballerini</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA?si=PGOhQyLuSu2YGqbCR2lh0A\">Ivan Roux</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 176426,
       "name": "But I Got A Beer In My Hand",
       "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
@@ -225,6 +225,28 @@
     },
     {
       "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204411,
+      "name": "California Sober (Feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
+    },
+    {
+      "album": {
         "name": "Caroline / Good Dogs & Sad Songs",
         "url": "https://open.spotify.com/album/2yiYDfWE3wqW2v4KA86Rps"
       },
@@ -236,7 +258,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 201371,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/2GWIcV2yk2CBHZLKMa1gWd"
@@ -722,7 +744,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 208521,
       "name": "II MOST WANTED",
       "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
@@ -1163,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "Texas Hold 'Em",
+        "url": "https://open.spotify.com/album/6zcu1kS7T5DGxKqHGiOmqD"
+      },
+      "artists": [
+        {
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211282,
+      "name": "Texas Hold 'Em",
+      "url": "https://open.spotify.com/track/7MHaEHj7udLdE7JoEGkdWn"
+    },
+    {
+      "album": {
         "name": "To Be A Man (feat. Darius Rucker)",
         "url": "https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8"
       },
@@ -1214,7 +1254,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 181742,
       "name": "Vegas",
       "url": "https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V"

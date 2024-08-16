@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 437013,
+  "num_followers": 437077,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAABUtWEFHC7awtYXvvrR+oMZ",
+  "snapshot_id": "ZrvzgAAAAACRaudti9U6LLYARlEgsvYB",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amado Carrillo",
-        "url": "https://open.spotify.com/album/7GpDCavtQXcXwjTJ1R59dE"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Amado Carrillo",
-      "url": "https://open.spotify.com/track/7pf6MMhKRoKVc7JR6SsTgP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comer\u00e9 Callado, Vol. 1",
         "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 177365,
       "name": "Regresa Hermosa",
       "url": "https://open.spotify.com/track/13owSDdId4auyDUXxS7H8i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amado Carrillo",
+        "url": "https://open.spotify.com/album/7GpDCavtQXcXwjTJ1R59dE"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Amado Carrillo",
+      "url": "https://open.spotify.com/track/7pf6MMhKRoKVc7JR6SsTgP"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+        "name": "Comer\u00e9 Callado, Vol. 1",
+        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 169373,
-      "name": "El Muletas (En Vivo)",
-      "url": "https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x"
+      "duration_ms": 180693,
+      "name": "Palma Salazar",
+      "url": "https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comer\u00e9 Callado, Vol. 1",
-        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 180693,
-      "name": "Palma Salazar",
-      "url": "https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T"
+      "duration_ms": 169373,
+      "name": "El Muletas (En Vivo)",
+      "url": "https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "14 Guerras (En Vivo)",
-      "url": "https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
@@ -695,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
       },
       "artists": [
         {
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Archivos de Mi Vida",
-      "url": "https://open.spotify.com/track/3Gq82NBEBkmd8l3OKiGJX7"
+      "duration_ms": 164866,
+      "name": "14 Guerras (En Vivo)",
+      "url": "https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 137207,
       "name": "Arre Pues",
       "url": "https://open.spotify.com/track/79Nct1bkYzzraWpkMI9tpT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Archivos de Mi Vida",
+      "url": "https://open.spotify.com/track/3Gq82NBEBkmd8l3OKiGJX7"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tengo Rival",
-        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 130875,
-      "name": "Ah\u00ed No Era",
-      "url": "https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M En El Radar",
         "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 140546,
       "name": "M En El Radar",
       "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Tengo Rival",
+        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 130875,
+      "name": "Ah\u00ed No Era",
+      "url": "https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY"
     },
     {
       "added_at": null,

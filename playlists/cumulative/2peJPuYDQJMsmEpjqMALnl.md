@@ -4,7 +4,7 @@
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-148 songs - 10 hr 23 min
+149 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Material Girl](https://open.spotify.com/track/7F2b4lHBr8V7JzNbN1ipCe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Belgium\)](https://open.spotify.com/album/4K5ULRhoCpRgxrBFIJEu8N) | 4:00 | 2024-08-01 |  |
 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 | 2024-08-01 |  |
 | [Missing You](https://open.spotify.com/track/2Hw5F4S5TFmrpBoWXc2Awx) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [The Complete John Waite, Volume One: Falling Backwards](https://open.spotify.com/album/7GiN5fqIgGCmdLDsPxzFqO) | 4:30 | 2022-05-18 | 2024-08-02 |
+| [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 | 2024-08-15 |  |
 | [Night People](https://open.spotify.com/track/39N93iQYBxXjb2rkD5gS3Q) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Dream Evil \(Deluxe Edition\)](https://open.spotify.com/album/5AbihvcJdOm8OvDeoVow5M) | 4:06 | 2024-05-20 |  |
 | [Now Forever After](https://open.spotify.com/track/1AE79kI2MxmTP8kx4iiMtI) | [Kingdom Come](https://open.spotify.com/artist/2YFKPea38AMhGqGSqkFF1Q) | [Kingdom Come](https://open.spotify.com/album/4tgiJxO6vfa3pF46IO9w2n) | 5:35 | 2024-05-20 |  |
 | [Obsession](https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3) | [Animotion](https://open.spotify.com/artist/6eQHjJJa52LUGjBKP5UPos) | [Obsession: The Best Of Animotion](https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC) | 5:37 | 2022-05-18 |  |

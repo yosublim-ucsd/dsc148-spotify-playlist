@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1560019,
+  "num_followers": 1560180,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 120461,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Shiver",
         "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 234330,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 120461,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -451,18 +451,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 203211,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -487,22 +491,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+      "duration_ms": 203211,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -551,22 +551,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e"
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ"
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -587,22 +587,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+      "duration_ms": 180533,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 175327,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "In The Dust",
         "url": "https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 191570,
       "name": "In The Dust",
       "url": "https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 175327,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Hyperreal (Middle of the Night)",
+        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Hyperreal (Middle of the Night)",
+      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
       },
@@ -1183,22 +1203,42 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Hyperreal (Middle of the Night)",
-        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
         },
         {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Hyperreal (Middle of the Night)",
-      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+      "duration_ms": 186263,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1227,22 +1267,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN"
       },
@@ -1263,30 +1287,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Never Alone",
-        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 186263,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "One New Change",
         "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
       },
@@ -1299,6 +1299,38 @@
       "duration_ms": 294400,
       "name": "One New Change",
       "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat"
+      },
+      "artists": [
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        }
+      ],
+      "duration_ms": 167691,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Pretoria",
+        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Pretoria",
+      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1323,22 +1355,6 @@
       "duration_ms": 157500,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/11ZLztlvXKdaortTq9gDaG"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat"
-      },
-      "artists": [
-        {
-          "name": "19Clouds",
-          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
-        }
-      ],
-      "duration_ms": 167691,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Pretoria",
-        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Pretoria",
-      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Friend Of Mine",
         "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
       },
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Numb (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 237865,
       "name": "Numb - Joris Voorn Remix, Edit",
       "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Freefall",
-        "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Freefall",
-      "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Morning Comes",
-        "url": "https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h"
-      },
-      "artists": [
-        {
-          "name": "Jerome Price",
-          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 201923,
-      "name": "Morning Comes",
-      "url": "https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 232245,
       "name": "Silenced",
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Morning Comes",
+        "url": "https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h"
+      },
+      "artists": [
+        {
+          "name": "Jerome Price",
+          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 201923,
+      "name": "Morning Comes",
+      "url": "https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Enter",
-        "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 240316,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 205440,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Enter",
+        "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 240316,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
     },
     {
       "added_at": "2024-08-09 04:00:00",

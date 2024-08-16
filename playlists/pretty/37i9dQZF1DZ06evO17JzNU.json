@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 23305,
+  "num_followers": 23321,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAABmAv43SxoY6ORGpKviBiha",
+  "snapshot_id": "ZrvzgAAAAADEdw6/XDl/doUjxFznMvOE",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bikini Dior",
+        "url": "https://open.spotify.com/album/25s553TzfBrDz4GgAo3etU"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 188546,
+      "name": "Bikini Dior",
+      "url": "https://open.spotify.com/track/0wZiACJz2BQaEvfFmHdagZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sapo 777",
         "url": "https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 195311,
       "name": "Aqui Nadie Va Llorar",
       "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bikini Dior",
-        "url": "https://open.spotify.com/album/25s553TzfBrDz4GgAo3etU"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "Bikini Dior",
-      "url": "https://open.spotify.com/track/0wZiACJz2BQaEvfFmHdagZ"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Vas A Llorar",
+        "url": "https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 259493,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G63",
         "url": "https://open.spotify.com/album/7wfmoOfb10g2Y2ALkyWDty"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 165875,
       "name": "G63",
       "url": "https://open.spotify.com/track/3E2aYBCPmf8kTq1Ug5E1sN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Vas A Llorar",
-        "url": "https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Me Vas A Llorar",
-      "url": "https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 124766,
+      "name": "Pasos Lentos",
+      "url": "https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Muchacho Criticado",
         "url": "https://open.spotify.com/album/3dLoxjr5S4Rt98kxZrpHjz"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 175984,
       "name": "El Muchacho Criticado",
       "url": "https://open.spotify.com/track/6KjjvZf9wLdYMGLDcL2HMS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 124766,
-      "name": "Pasos Lentos",
-      "url": "https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe"
     },
     {
       "added_at": null,

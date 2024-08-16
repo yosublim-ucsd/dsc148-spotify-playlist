@@ -2,12 +2,13 @@
 
 ### [A Day in the Studio](https://open.spotify.com/playlist/37i9dQZF1DWZMDiBV8toZi)
 
-> Artists recording in Coke Studio at Spotify LA\. Cover: Karol G
+> Artists recording in Coke Studio at Spotify LA\. Cover: Peggy Gou
 
-29 songs - 1 hr 33 min
+31 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:51 | 2024-08-15 |  |
 | [Alive](https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Alive](https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv) | 3:12 | 2024-05-02 |  |
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2024-05-02 |  |
 | [BACKROOM](https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:35 | 2024-05-02 |  |
@@ -17,6 +18,7 @@
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 | 2024-05-02 |  |
 | [Does Your Mother Know](https://open.spotify.com/track/3FzvP5LqgZKBIoukphuUsQ) | [The Wild Things](https://open.spotify.com/artist/3gyWgrksQ64Exb1SUewhOk) | [Friends With Benefits](https://open.spotify.com/album/6xXVb99KrYEVm5iJ4jPDJa) | 3:07 | 2024-05-02 |  |
 | [Fallin](https://open.spotify.com/track/064sICng1UknPZvos5SLNs) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Fallin](https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21) | 2:51 | 2024-05-02 |  |
+| [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 | 2024-08-15 |  |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-24 |  |
 | [LA](https://open.spotify.com/track/0NZ95zuvvves6AI83A9W0S) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [LA](https://open.spotify.com/album/2Lvt5Kiz9CPM0vcHDCvduH) | 3:20 | 2024-05-02 |  |
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-05-02 |  |

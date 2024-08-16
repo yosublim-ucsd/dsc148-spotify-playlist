@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Salma Salsabil
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Masdddho
 
-226 songs - 14 hr 33 min
+227 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bodoh](https://open.spotify.com/track/3sC5zNoeqCirdTFtuvpJ0D) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Bodoh](https://open.spotify.com/album/0W6CtBfGyNGW7fwiUwL81Z) | 4:08 | 2024-03-29 |  |
 | [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 | 2024-05-24 |  |
 | [BOY OF THE YEAR](https://open.spotify.com/track/6jRjPgWMFdYROlNXU5xUZQ) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [BOY OF THE YEAR](https://open.spotify.com/album/1PQd3NJjYgsG2pE88bwTwp) | 3:32 | 2022-07-28 | 2023-04-14 |
+| [BUBAR](https://open.spotify.com/track/2DncDLvbz8UxX8faINaShQ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [BUBAR](https://open.spotify.com/album/5ziZ1115qWXIYGaQyqWryk) | 5:11 | 2024-08-15 |  |
 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2024-03-29 |  |
 | [Butterflies](https://open.spotify.com/track/0Cd1m9urXAgl2dADwSEvio) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Butterflies](https://open.spotify.com/album/0riwHA4hqJEaYi8GEXwzxp) | 3:25 | 2024-03-29 |  |
 | [Bye](https://open.spotify.com/track/5GoL66KMxK545exM1BR43t) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Bye](https://open.spotify.com/album/6qAjIPCAssJUpYidyXoIXp) | 3:46 | 2023-06-16 | 2024-03-29 |

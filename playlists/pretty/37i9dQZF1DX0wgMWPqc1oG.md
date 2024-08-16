@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,866 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,881 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 31 | [Punjab \- Remastered 2003 / Rudy Van Gelder Edition](https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [In 'n Out \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr) | 9:07 |
 | 32 | [Gingerbread Boy](https://open.spotify.com/track/3Gi69Wjht0q3AZQu6tQwxi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Smiles](https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV) | 7:44 |
 | 33 | [Suite Sioux](https://open.spotify.com/track/64rHDxDhz71GtHxs5QBsQ5) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Red Clay](https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za) | 8:44 |
-| 34 | [First Trip](https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 6:01 |
+| 34 | [Israel](https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 6:11 |
 | 35 | [Mr\. Kenyatta \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/00LTkyO7oR17To22oaKHhs) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 8:43 |
-| 36 | [Israel](https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 6:11 |
+| 36 | [First Trip](https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 6:01 |
 | 37 | [The Collector \- Remastered](https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:54 |
 | 38 | [I'll Remember April](https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 8:01 |
 | 39 | [Birdlike \- Remastered 2004/Rudy Van Gelder Edition](https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 10:15 |

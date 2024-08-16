@@ -2,9 +2,9 @@
 
 ### [Afro Bars ](https://open.spotify.com/playlist/37i9dQZF1DXdl8xYyG9Dm1)
 
-> The latest straight bars and Afro\-Trap\. Cover: Show Dem Camp
+> The latest straight bars and Afro\-Trap\. Cover: Smada & ODMODUBLVCK
 
-289 songs - 15 hr 15 min
+290 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [ARE YOU ALRiGHT?](https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [ARE YOU ALRiGHT?](https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ) | 4:40 | 2023-11-10 | 2024-01-28 |
 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 | 2023-11-10 |  |
 | [ASTRONAUTE](https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [ASTRONAUTE](https://open.spotify.com/album/2BIMATZr1ZmgpYAoZOvGPT) | 3:27 | 2021-10-14 | 2022-11-04 |
+| [BABA](https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [BABA](https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD) | 2:07 | 2024-08-15 |  |
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Back In Uni](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-07 | 2024-07-27 |
 | [Back Into It](https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Back Into It](https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT) | 2:42 | 2023-12-01 | 2024-05-09 |
 | [BAD GUY](https://open.spotify.com/track/6wuIh8EH2MYLI5su3FZ935) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [DEADLINES: FREE P2](https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir) | 1:32 | 2022-10-21 | 2023-05-12 |
@@ -69,7 +70,7 @@
 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 | 2021-10-14 | 2024-07-27 |
 | [Compare](https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [We Cut Keys 2](https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso) | 3:42 | 2024-01-26 | 2024-05-09 |
 | [coMPRess](https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [coMPRess](https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK) | 3:14 | 2024-04-05 |  |
-| [CORSA LITE MUSIC](https://open.spotify.com/track/6vo1ZacthDmWGZwxVLsRsK) | [ByLwansta](https://open.spotify.com/artist/08XiXTlJPbnyNFZBygX58N), [Hannah Lane](https://open.spotify.com/artist/0LhFbxS54laQx2Yo3aASr5), [Solo Ntsizwa Ka Mthimkhulu](https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [THE CHIP IS StALE](https://open.spotify.com/album/30SozwyvYzVXmez5cnc2np) | 4:33 | 2024-05-10 |  |
+| [CORSA LITE MUSIC](https://open.spotify.com/track/6vo1ZacthDmWGZwxVLsRsK) | [ByLwansta](https://open.spotify.com/artist/08XiXTlJPbnyNFZBygX58N), [Hannah Lane](https://open.spotify.com/artist/0LhFbxS54laQx2Yo3aASr5), [Solo Ntsizwa Ka Mthimkhulu](https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [THE CHIP IS StALE](https://open.spotify.com/album/30SozwyvYzVXmez5cnc2np) | 4:33 | 2024-05-10 | 2024-08-16 |
 | [Crazy Crazy](https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Crazy Crazy](https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9) | 2:32 | 2023-07-28 |  |
 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 | 2022-03-11 | 2022-12-25 |
 | [Culture](https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:28 | 2022-03-11 | 2024-04-19 |

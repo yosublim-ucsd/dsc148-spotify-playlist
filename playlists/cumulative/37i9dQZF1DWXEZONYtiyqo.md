@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Andrei Ursu
+> Cele mai noi hituri pop românești\. Cover: Antonia
 
-72 songs - 3 hr 22 min
+74 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cerul](https://open.spotify.com/track/2eDzUqD9Lzq54IiH5nwqJR) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [Cerul](https://open.spotify.com/album/3u0KID3tzWUtK2zm1SDMXW) | 3:02 | 2024-06-27 | 2024-08-09 |
 | [Clipe \- Special Guest: 3 Sud Est](https://open.spotify.com/track/3QyAi6P49gug9kWKIg8YdY) | [Yuka](https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2), [3 Sud Est](https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC) | [Clipe \(Special Guest: 3 Sud Est\)](https://open.spotify.com/album/7n37zmyFBIDZD3JgH6DfDP) | 3:39 | 2024-06-27 | 2024-07-05 |
 | [Culoarea ta](https://open.spotify.com/track/4fblpPuUuzhn9FnUGESyIq) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Culoarea ta](https://open.spotify.com/album/0dn3wdwGfcJ6z2uX3Fp58Y) | 3:06 | 2024-06-27 |  |
+| [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 | 2024-08-15 |  |
 | [Dans nocturn](https://open.spotify.com/track/2pWVkrRjBySXqQloRsi9sk) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Dans nocturn](https://open.spotify.com/album/3hSwbrhEZ1C02EfWHQ52gL) | 2:57 | 2024-06-27 |  |
 | [Dansezi](https://open.spotify.com/track/10MsQJOOsx8CfA13zDNoDe) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Dansezi](https://open.spotify.com/album/339JbgCy9ucSh1T7se3lX8) | 2:46 | 2024-06-27 |  |
 | [Dau tonul](https://open.spotify.com/track/7mxhGM5DkAWdBg1YDHiUyG) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dau tonul](https://open.spotify.com/album/7sg3zxyrWwXY631Z430B58) | 2:00 | 2024-07-18 |  |
@@ -41,7 +42,7 @@
 | [Hearts in Stereo \- Radio Edit](https://open.spotify.com/track/2M3TPAGbcyQySxZn9OGsyI) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Hearts in Stereo \(Versions\)](https://open.spotify.com/album/2vdlQ1eSzJYe5jdfwEeapn) | 2:27 | 2024-07-18 | 2024-08-09 |
 | [How I Love It](https://open.spotify.com/track/2bO0NmmJrvHGoJGoxT3A0f) | [Stefania](https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy), [Cezar Guna](https://open.spotify.com/artist/4vMwiNf15n0KVymasufiqa) | [How I Love It](https://open.spotify.com/album/49OZpI4ewmwdYOYR09LB4J) | 2:35 | 2024-07-04 |  |
 | [Imuni la bine](https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Imuni la bine](https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk) | 2:39 | 2024-06-27 |  |
-| [Inca O Noapte](https://open.spotify.com/track/0lCoCuzOaHaQK07CUiEkMx) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Inca O Noapte](https://open.spotify.com/album/6pOa0ra42T1R4SbSLSgSsX) | 3:01 | 2024-06-27 |  |
+| [Inca O Noapte](https://open.spotify.com/track/0lCoCuzOaHaQK07CUiEkMx) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Inca O Noapte](https://open.spotify.com/album/6pOa0ra42T1R4SbSLSgSsX) | 3:01 | 2024-06-27 | 2024-08-16 |
 | [La tine si la bani 2](https://open.spotify.com/track/6e7i1Jvhlpkpnqn0DhII72) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [La tine si la bani 2](https://open.spotify.com/album/0Fo0DhCWKxNwVV0DVblx6T) | 2:23 | 2024-06-27 | 2024-07-19 |
 | [Lacrimi din stilou](https://open.spotify.com/track/2YVApOvuXV9vPVnoMFiwTS) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [Miss Mary](https://open.spotify.com/artist/20Nu1SnynFyv0kzuPmaqxP) | [Lacrimi din stilou](https://open.spotify.com/album/6QulNIzMOxSbjdoW7GFfpX) | 2:29 | 2024-07-18 |  |
 | [Las\-o așa](https://open.spotify.com/track/0I0hHI96Gl0Q7xE3EWeZLG) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Las\-o așa](https://open.spotify.com/album/2flsDPjDVpyrv62IByLCcj) | 2:46 | 2024-06-27 |  |
@@ -53,7 +54,7 @@
 | [Mă întorc acasă](https://open.spotify.com/track/1JMncfAtFYW1CO1LMk0sUE) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Mă întorc acasă](https://open.spotify.com/album/53aZOvK44O5ZLcTQ3UEQGN) | 2:45 | 2024-06-27 |  |
 | [Neiubirea ta](https://open.spotify.com/track/4DeGL1BMQ3yKZXop2PNSBw) | [Edward Sanda](https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V) | [Neiubirea ta](https://open.spotify.com/album/6tdxy9k2iNQvwwvb35m0He) | 3:07 | 2024-06-27 | 2024-07-12 |
 | [Nimic mai mult](https://open.spotify.com/track/3jEcZYufraOGueJ5hT946b) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [Yuka](https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2) | [Nimic mai mult](https://open.spotify.com/album/4Opx2erfG2SADIomOPqX2x) | 2:51 | 2024-07-04 |  |
-| [Noaptea ne fură iubiri](https://open.spotify.com/track/7FWtSZefQHwgo6SJha7U0B) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Noaptea ne fură iubiri](https://open.spotify.com/album/6w8ToTBQfwsY7NqNgDUmHP) | 2:46 | 2024-06-27 |  |
+| [Noaptea ne fură iubiri](https://open.spotify.com/track/7FWtSZefQHwgo6SJha7U0B) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Noaptea ne fură iubiri](https://open.spotify.com/album/6w8ToTBQfwsY7NqNgDUmHP) | 2:46 | 2024-06-27 | 2024-08-16 |
 | [Nopțile](https://open.spotify.com/track/1edVyy7z6tX1Bmt0N6W8iL) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Nopțile](https://open.spotify.com/album/4I6h7ZrckdYbDboIf9BY0D) | 2:33 | 2024-06-27 |  |
 | [Nu Știi](https://open.spotify.com/track/6pIzd6GX9dJtx73xeHcxPR) | [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb), [Blacklist](https://open.spotify.com/artist/3QvMYjA3Hfu62w8XUkRR4P) | [Nu Știi](https://open.spotify.com/album/6UJtTFwqorh9xVUjsagaFc) | 3:02 | 2024-06-27 |  |
 | [Număr Ascuns](https://open.spotify.com/track/10XrbvdxmCjP1zpZHigxAy) | [Edine](https://open.spotify.com/artist/69liRSrij8eMDTX2fKbICm) | [Număr Ascuns](https://open.spotify.com/album/1eXS1CYAvYYLtxfJV38Q13) | 2:34 | 2024-06-27 | 2024-07-12 |
@@ -65,6 +66,7 @@
 | [Peste mari \(si mai departe\)](https://open.spotify.com/track/01Zep4W0cA2H0WvjzyhX9Q) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Peste mari \(si mai departe\)](https://open.spotify.com/album/0r4Ncf8WFJ9iPQn2tazCIW) | 2:56 | 2024-06-27 |  |
 | [Petre PETREcere](https://open.spotify.com/track/4SSi7MmPW6ezSsNfZBp4xP) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [CRBL](https://open.spotify.com/artist/6J1tX83VM6Yf5d2Gx79fFP) | [Petre PETREcere](https://open.spotify.com/album/7tX7AjobPAFV40oEJlvkQi) | 3:13 | 2024-08-08 |  |
 | [Pierde Vara](https://open.spotify.com/track/3WFs2YbpuhYViZHUnALLO6) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Pierde Vara](https://open.spotify.com/album/0wHgl70qHZ0Z0ghACxg4Z1) | 2:55 | 2024-08-08 |  |
+| [Ploi de Tequila](https://open.spotify.com/track/58RcJ7zq7TbTKMmPH0vFzT) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Ploi de Tequila](https://open.spotify.com/album/2T5vkNSWya1yLgmzD57QQk) | 2:26 | 2024-08-15 |  |
 | [Prieteni](https://open.spotify.com/track/762tfyVXBlCKIzKebDJaVU) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Prieteni](https://open.spotify.com/album/1oFPhfgmm9Bwo3olTP6a5G) | 2:49 | 2024-07-04 |  |
 | [Puerto Rico](https://open.spotify.com/track/4SqWdHtamU1qTOuBeVj1Yi) | [Fly Project](https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa) | [Puerto Rico](https://open.spotify.com/album/0fUCdNSe2YMzCAbe0Faznx) | 3:04 | 2024-06-27 |  |
 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 | 2024-06-27 |  |

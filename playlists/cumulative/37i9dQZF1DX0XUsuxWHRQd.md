@@ -4,7 +4,7 @@
 
 > New music from Drake, Polo G and Lil Tecca.
 
-2,120 songs - 4 day 13 hr 57 min
+2,121 songs - 4 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -971,6 +971,7 @@
 | [Know Like I Know](https://open.spotify.com/track/227x8PRNRDZUl2yAISuS2k) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Know Like I Know](https://open.spotify.com/album/5igqmh1p51bXG9i9cuCTC9) | 3:52 | 2022-01-20 | 2022-01-25 |
 | [Know My Rights \(feat\. Lil Baby\)](https://open.spotify.com/track/7fsNNSLGG8Wi0nFbufCU6L) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [6pc Hot EP](https://open.spotify.com/album/37O0Syq7Db1kydzUH8TbwB) | 3:14 | 2020-06-29 | 2020-07-03 |
 | [Know You Know \(ft\. 2 Chainz\)](https://open.spotify.com/track/4jT3GU6bhC8mrtDPZsNd0S) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Funeral](https://open.spotify.com/album/2x657XotA7LCsPElXmXX4W) | 2:44 | 2020-02-01 | 2020-02-21 |
+| [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 | 2024-08-15 |  |
 | [Kool Aid & Frozen Pizza](https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:37 | 2024-01-18 | 2024-01-20 |
 | [Krazy Krazy](https://open.spotify.com/track/6ZjP85QdIaiTojLrKixvbT) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Krazy Krazy](https://open.spotify.com/album/1Rgimz7Cn1RfMYz6cUsD4q) | 2:21 | 2022-04-29 | 2022-05-14 |
 | [LA\-LA\-LA](https://open.spotify.com/track/3BVJ8X4CDBqHzSVePlgary) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Bad Boys II](https://open.spotify.com/album/6cdliVrG1F46ag7FxGPIM1) | 3:54 | 2024-06-13 | 2024-06-15 |

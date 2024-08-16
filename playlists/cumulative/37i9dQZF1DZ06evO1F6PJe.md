@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-152 songs - 13 hr 39 min
+153 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Mean Town Blues](https://open.spotify.com/track/3CCmfKQwQicHhHwvlZbeAm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 5:04 | 2023-02-03 | 2023-08-07 |
 | [Merry Christmas, Baby \(Alternate Take\)](https://open.spotify.com/track/2HfZpF3MoqcmC1czlkXeek) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Merry Christmas, Baby](https://open.spotify.com/album/6uTLAJqdtmTblzMvLNwEub) | 5:13 | 2023-12-13 | 2024-01-07 |
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2022-08-05 |  |
+| [Moaning Lisa](https://open.spotify.com/track/0OhxYM6kukjY0jP8LAly8s) | [Andy Wood](https://open.spotify.com/artist/5joubZqEbfc77SxLgM85XW), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Charisma](https://open.spotify.com/album/6PXxlkzFaMeMEf2ziEOyhs) | 6:38 | 2024-08-16 |  |
 | [Molly O'](https://open.spotify.com/track/0ExwFnQ2XcaUw6buImFuLV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 6:06 | 2022-11-02 | 2022-12-25 |
 | [Mountain Climbing](https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:43 | 2022-08-05 |  |
 | [No Good Place For The Lonely](https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 8:38 | 2022-08-05 | 2023-04-21 |

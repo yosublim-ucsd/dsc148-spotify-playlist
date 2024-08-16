@@ -1683,6 +1683,28 @@
     },
     {
       "album": {
+        "name": "Charisma",
+        "url": "https://open.spotify.com/album/6PXxlkzFaMeMEf2ziEOyhs"
+      },
+      "artists": [
+        {
+          "name": "Andy Wood",
+          "url": "https://open.spotify.com/artist/5joubZqEbfc77SxLgM85XW"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398333,
+      "name": "Moaning Lisa",
+      "url": "https://open.spotify.com/track/0OhxYM6kukjY0jP8LAly8s"
+    },
+    {
+      "album": {
         "name": "Road To Redemption",
         "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
       },

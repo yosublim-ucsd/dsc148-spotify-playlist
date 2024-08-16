@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 72107,
+  "num_followers": 72149,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAAB8Zu9pI0M2z6Ilg76QwW5Y",
+  "snapshot_id": "ZrvzgAAAAABd+5g864ueqKIwfDFBieXk",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mato",
-        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "Todo Tiene Su Final",
-      "url": "https://open.spotify.com/track/7r0ckjpJUZwOASD1VLJgS7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vigilante",
         "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 371773,
       "name": "Triste Y Vac\u00eda",
       "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "Todo Tiene Su Final",
+      "url": "https://open.spotify.com/track/7r0ckjpJUZwOASD1VLJgS7"
     },
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mato",
-        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Calle Luna Calle Sol",
-      "url": "https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vigilante",
         "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 456960,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Calle Luna Calle Sol",
+      "url": "https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hustler",
-        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 277186,
-      "name": "Qu\u00e9 L\u00edo",
-      "url": "https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Fight",
         "url": "https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR"
       },
@@ -743,22 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 345600,
-      "name": "Juanito Alima\u00f1a",
-      "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
+      "duration_ms": 277186,
+      "name": "Qu\u00e9 L\u00edo",
+      "url": "https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
       "duration_ms": 318520,
       "name": "Cueste Lo Que Cueste",
       "url": "https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 345600,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
     },
     {
       "added_at": null,

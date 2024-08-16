@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 33224,
+  "num_followers": 33242,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+      "duration_ms": 316093,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Rey Sabanero",
         "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 231890,
       "name": "Entre Rejas",
       "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+      },
+      "artists": [
+        {
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+        }
+      ],
+      "duration_ms": 271189,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/23xtolsV0yVcSx72CbI6yS"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "16 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 277636,
       "name": "Busc\u00e1ndote",
       "url": "https://open.spotify.com/track/70eAth7yT2CClU6AD8INk1"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
-      },
-      "artists": [
-        {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
-        }
-      ],
-      "duration_ms": 271189,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/23xtolsV0yVcSx72CbI6yS"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Latin Brothers",
-        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        }
-      ],
-      "duration_ms": 286120,
-      "name": "Las Calaveras",
-      "url": "https://open.spotify.com/track/1JpeagoyT9ax1fZlGyXrCR"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Afrosound",
         "url": "https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 286531,
       "name": "La Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/5rx9dwFBBqjR9xc1cn5iWW"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+      },
+      "artists": [
+        {
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+        }
+      ],
+      "duration_ms": 243086,
+      "name": "Distancia",
+      "url": "https://open.spotify.com/track/1uCs7r1Col4jCPsfMrVUwS"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
         }
       ],
-      "duration_ms": 303680,
-      "name": "Fuma el Barco",
-      "url": "https://open.spotify.com/track/5JldI8C9KpyQTOxtX181Nb"
+      "duration_ms": 286120,
+      "name": "Las Calaveras",
+      "url": "https://open.spotify.com/track/1JpeagoyT9ax1fZlGyXrCR"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1166,11 +1166,15 @@
         {
           "name": "El Tropicombo",
           "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+        },
+        {
+          "name": "Elkin Serna",
+          "url": "https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun"
         }
       ],
-      "duration_ms": 243086,
-      "name": "Distancia",
-      "url": "https://open.spotify.com/track/1uCs7r1Col4jCPsfMrVUwS"
+      "duration_ms": 242224,
+      "name": "Encanto",
+      "url": "https://open.spotify.com/track/3AxARmSZAUeLbeXNfEAYFv"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1259,6 +1263,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de Latin Brothers",
+        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "Fuma el Barco",
+      "url": "https://open.spotify.com/track/5JldI8C9KpyQTOxtX181Nb"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de el Tropicombo",
         "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
       },
@@ -1272,25 +1292,9 @@
           "url": "https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun"
         }
       ],
-      "duration_ms": 242224,
-      "name": "Encanto",
-      "url": "https://open.spotify.com/track/3AxARmSZAUeLbeXNfEAYFv"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
-      },
-      "artists": [
-        {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "La Muy Indigna",
-      "url": "https://open.spotify.com/track/3lVg1gybSX9ltUDga4joCD"
+      "duration_ms": 234231,
+      "name": "Qu\u00e9 Lindo Es Quererte",
+      "url": "https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1315,6 +1319,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "La Muy Indigna",
+      "url": "https://open.spotify.com/track/3lVg1gybSX9ltUDga4joCD"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Homenaje a Victor Pi\u00f1ero",
         "url": "https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd"
       },
@@ -1327,22 +1347,6 @@
       "duration_ms": 169026,
       "name": "Cayetano Baila",
       "url": "https://open.spotify.com/track/0uFdvE0zg08Hg2oKvcNeIf"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de Fruko: \u00c9xitos",
-        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297358,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/1k8dsltxoZuZNtHFO5nfy8"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1363,34 +1367,34 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Cordobesa",
-        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
+        "name": "Historia Musical de Fruko: \u00c9xitos",
+        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
       "artists": [
         {
-          "name": "La Sonora Cordobesa",
-          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
         }
       ],
-      "duration_ms": 160606,
-      "name": "Bocachico Sinuano",
-      "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
+      "duration_ms": 297358,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/1k8dsltxoZuZNtHFO5nfy8"
     },
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
-        "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
       },
       "artists": [
         {
-          "name": "Anibal Velasquez",
-          "url": "https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE"
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
         }
       ],
-      "duration_ms": 186709,
-      "name": "Cachita",
-      "url": "https://open.spotify.com/track/4xi5Gq7tF6tB59pLttDAzN"
+      "duration_ms": 239375,
+      "name": "Mi Amor Es Grande",
+      "url": "https://open.spotify.com/track/2hjosXarCRUTxxIexYV9v1"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1411,22 +1415,34 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+        "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
+        "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
       },
       "artists": [
         {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
-        },
-        {
-          "name": "Elkin Serna",
-          "url": "https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun"
+          "name": "Anibal Velasquez",
+          "url": "https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE"
         }
       ],
-      "duration_ms": 234231,
-      "name": "Qu\u00e9 Lindo Es Quererte",
-      "url": "https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n"
+      "duration_ms": 186709,
+      "name": "Cachita",
+      "url": "https://open.spotify.com/track/4xi5Gq7tF6tB59pLttDAzN"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de la Sonora Cordobesa",
+        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Cordobesa",
+          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
+        }
+      ],
+      "duration_ms": 160606,
+      "name": "Bocachico Sinuano",
+      "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1487,26 +1503,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Fruko: \u00c9xitos",
-        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        },
-        {
-          "name": "Wilson Saoko",
-          "url": "https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED"
-        }
-      ],
-      "duration_ms": 301720,
-      "name": "Los Charcos",
-      "url": "https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Nemus del Pac\u00edfico",
         "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
       },
@@ -1539,6 +1535,26 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de Fruko: \u00c9xitos",
+        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Wilson Saoko",
+          "url": "https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED"
+        }
+      ],
+      "duration_ms": 301720,
+      "name": "Los Charcos",
+      "url": "https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
         "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 342959,
       "name": "Qui\u00e9reme, Qui\u00e9reme",
       "url": "https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 189954,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/0RgkYy8cFIFju90PGSMg45"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
       },
       "artists": [
         {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         }
       ],
-      "duration_ms": 239375,
-      "name": "Mi Amor Es Grande",
-      "url": "https://open.spotify.com/track/2hjosXarCRUTxxIexYV9v1"
+      "duration_ms": 189954,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/0RgkYy8cFIFju90PGSMg45"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 226184,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/6GA4n3kmq8pTJLmntNlXDD"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de 14 Vallenatos Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 278691,
       "name": "Muero por Verla",
       "url": "https://open.spotify.com/track/2CIWM6twdjSFIsw2LSVKyc"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 226184,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/6GA4n3kmq8pTJLmntNlXDD"
     },
     {
       "added_at": "2024-07-12 23:11:55",

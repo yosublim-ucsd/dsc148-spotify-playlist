@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAADcEJeOOuFa6p0ncMaLvTpa",
+  "snapshot_id": "ZrvzgAAAAADEYPDttaabIXtHTUeYCctv",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 92666,
-      "name": "Making New Friends",
-      "url": "https://open.spotify.com/track/3olrmNmOEF1J3oVRTy1Ghy"
+      "duration_ms": 123613,
+      "name": "I Pet A Horse",
+      "url": "https://open.spotify.com/track/2tJFjum9KunK7kcVpHPEFP"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 123613,
-      "name": "I Pet A Horse",
-      "url": "https://open.spotify.com/track/2tJFjum9KunK7kcVpHPEFP"
+      "duration_ms": 92666,
+      "name": "Making New Friends",
+      "url": "https://open.spotify.com/track/3olrmNmOEF1J3oVRTy1Ghy"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 161454,
-      "name": "PANESSO",
-      "url": "https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX"
+      "duration_ms": 63248,
+      "name": "Quinn Persiste",
+      "url": "https://open.spotify.com/track/1VzTxjZoXavQIzjt299tQE"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chupa (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 63248,
-      "name": "Quinn Persiste",
-      "url": "https://open.spotify.com/track/1VzTxjZoXavQIzjt299tQE"
+      "duration_ms": 161454,
+      "name": "PANESSO",
+      "url": "https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX"
     },
     {
       "added_at": null,
@@ -404,25 +404,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 103158,
-      "name": "Saint Luke's",
-      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 317262,
-      "name": "MEDELL\u00cdN",
-      "url": "https://open.spotify.com/track/7fD4tAH2amFOsxoQO4q3Kf"
+      "duration_ms": 83131,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
       "duration_ms": 138226,
       "name": "Clues",
       "url": "https://open.spotify.com/track/3H3l6kMGyCKZu2Aq89yO6o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 317262,
+      "name": "MEDELL\u00cdN",
+      "url": "https://open.spotify.com/track/7fD4tAH2amFOsxoQO4q3Kf"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 83131,
-      "name": "Calvin",
-      "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
+      "duration_ms": 103158,
+      "name": "Saint Luke's",
+      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
     },
     {
       "added_at": null,

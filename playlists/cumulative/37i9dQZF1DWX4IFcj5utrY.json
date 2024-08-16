@@ -2359,6 +2359,28 @@
     },
     {
       "album": {
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166448,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
+    },
+    {
+      "album": {
         "name": "BackGround (Main HT)",
         "url": "https://open.spotify.com/album/0JxIpnjFXyfIV7igPXdW6a"
       },
@@ -2518,7 +2540,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 366849,
       "name": "Bano Mona",
       "url": "https://open.spotify.com/track/4fzbcFCm6Cmn6XWtIt07tp"
@@ -3224,7 +3246,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 433048,
       "name": "Bom Bom - Thakzin Vocal Remix",
       "url": "https://open.spotify.com/track/49x6WVYkjI1SqT6Vgz2LRB"
@@ -5771,6 +5793,28 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0CxOcrXyfElV904Ytq8yCj"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        },
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295283,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/064zQysCLTlbcdrngwbI6i"
+    },
+    {
+      "album": {
         "name": "EL Sambo",
         "url": "https://open.spotify.com/album/77NsNvihurSsdIPetNmsDh"
       },
@@ -6548,7 +6592,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 165566,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2GHaQZRTm2fvhaWg4jHb9X"
@@ -7312,6 +7356,28 @@
       "duration_ms": 320783,
       "name": "God's Have Spoken - Radical Touch",
       "url": "https://open.spotify.com/track/7bcLzQ81KBAwKXmMCNAufA"
+    },
+    {
+      "album": {
+        "name": "Pareidolia - EP",
+        "url": "https://open.spotify.com/album/56IkkkJE8tTX0ltCxJuwmn"
+      },
+      "artists": [
+        {
+          "name": "Thor Rixon",
+          "url": "https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX"
+        },
+        {
+          "name": "Helena Goddard",
+          "url": "https://open.spotify.com/artist/0vX217F6j6snRGLcim2F8F"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309020,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/19eQwNJvPhk6muA4Xwa3Cs"
     },
     {
       "album": {
@@ -8594,7 +8660,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 153387,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
@@ -10476,7 +10542,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 440330,
       "name": "Jewels",
       "url": "https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B"
@@ -15256,7 +15322,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 187204,
       "name": "Oke Oke",
       "url": "https://open.spotify.com/track/5giz0fcrNPPfLHPAHlAN76"
@@ -21032,7 +21098,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 231684,
       "name": "True Colours",
       "url": "https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9"
@@ -23410,7 +23476,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 170861,
       "name": "Yamba Jump",
       "url": "https://open.spotify.com/track/52TAucBl21tbNx6cV3m6T5"

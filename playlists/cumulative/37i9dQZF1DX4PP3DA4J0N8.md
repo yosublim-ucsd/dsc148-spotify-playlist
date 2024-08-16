@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-179 songs - 8 hr 34 min
+183 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Chill Waves & Wind in Leaves](https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Waves](https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz) | 4:01 | 2022-03-25 | 2024-03-27 |
 | [Close to the River, Birds Watching](https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of Birds & Water](https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu) | 3:12 | 2022-03-25 |  |
 | [Cool Air & Rain](https://open.spotify.com/track/5mhS5BXqC8InFDFvmvH8WH) | [Why Wynne](https://open.spotify.com/artist/7rBAEboEJSX7TaS9z62lb8) | [Drizzle Down](https://open.spotify.com/album/4IyIBXlsDileK31SIIQCnc) | 2:11 | 2022-03-25 |  |
+| [Creek Rain With Brids And Thunder \- Seamless](https://open.spotify.com/track/5cbC6ObMsFLXW9co3vlUMk) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [When It Pours It Rains](https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB) | 2:06 | 2024-08-15 |  |
 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 | 2023-09-20 |  |
 | [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 | 2022-03-25 | 2022-04-29 |
 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 | 2022-03-25 | 2024-03-27 |
@@ -86,7 +87,9 @@
 | [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 | 2022-03-25 |  |
 | [Gently Raining](https://open.spotify.com/track/3CfHJQAXuloLdm727vtocG) | [R 4 Rain](https://open.spotify.com/artist/78RCzQmpEq3y4F1bfZvtHr) | [R 4 Rain](https://open.spotify.com/album/0aIDb23b9ff6xgOOqR5N6P) | 1:12 | 2022-03-25 | 2023-06-20 |
 | [Highway Birds](https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk) | [Betweetle](https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl) | [Highway Birds](https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC) | 1:47 | 2023-03-03 | 2023-06-20 |
+| [Igilazu \- Nature](https://open.spotify.com/track/4sPQwcBc84Bn03P5JNl26l) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Kora](https://open.spotify.com/album/1CG4dmr4DY2dhpkZYjkHK7) | 2:56 | 2024-08-15 |  |
 | [Lakeside Repose](https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:16 | 2022-03-25 | 2023-09-21 |
+| [Lepus \- Nature](https://open.spotify.com/track/2JEbGCquHAZBvohbG1YMZW) | [Holistic Transition](https://open.spotify.com/artist/56M35sw0bgqShzIaSm3glb) | [Lepus](https://open.spotify.com/album/2qmZ1JztwZVm5taewYw6TA) | 2:58 | 2024-08-15 |  |
 | [Light Forest Rain 1](https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 | 2022-03-25 | 2024-03-27 |
 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 | 2022-03-25 | 2024-03-27 |
 | [Light Forest Rain Long](https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 4:18 | 2022-03-25 | 2024-03-27 |
@@ -132,6 +135,7 @@
 | [Rainy Seasons](https://open.spotify.com/track/009OkruFBaTawpfoGb80PO) | [Wild Weather](https://open.spotify.com/artist/087EnamAmLEqVEJBUkGcLm) | [Water Cycles](https://open.spotify.com/album/0dkuOG8BChWmFhv2DV8lYc) | 2:28 | 2022-03-25 | 2024-03-27 |
 | [Relaxing Bird Sounds](https://open.spotify.com/track/1Ar63CC2YckvPzXe5OLtPl) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Spring Birds](https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg) | 2:56 | 2022-03-25 |  |
 | [Relaxing Jungle Sounds](https://open.spotify.com/track/17kqaq39xg9nP1j6goQW5A) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:23 | 2022-03-25 | 2024-03-27 |
+| [Remote Reflection \- Nature](https://open.spotify.com/track/3NULDr3HyykyYNsSQ0kZO6) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Remote Reflection](https://open.spotify.com/album/1mmWIt28tsHThSIUD6SguT) | 3:01 | 2024-08-15 |  |
 | [Remote Respite \- Rain](https://open.spotify.com/track/10taLrdqj10KfUHQynQEmT) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Remote Respite \(Rain\)](https://open.spotify.com/album/5s6KARP40CPhgmFyFJdX0L) | 2:50 | 2023-09-20 |  |
 | [River Birds \(Green Noise 220Hz HP\)](https://open.spotify.com/track/3Lr6j4FjEiaZAEjp6yUyRY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:22 | 2023-03-03 |  |
 | [River Close with Birds \- River](https://open.spotify.com/track/2KdUMPBKthc1lz3DascPlE) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Nature's Rain, Oceans, Rivers](https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo) | 2:17 | 2022-03-25 |  |

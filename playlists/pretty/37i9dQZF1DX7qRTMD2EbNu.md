@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: Beeztrap
+> Hottest bars coming live from the 233\.  Cover: Kofi Mole
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,475 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,501 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DELILAH](https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Bar 7](https://open.spotify.com/album/7crJEGssIO4bqz8blqLx6G) | 3:00 |
-| 2 | [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 |
+| 1 | [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 |
+| 2 | [Fly Again](https://open.spotify.com/track/05iZBAgxEOWCBJsY2SOctr) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [GYE NYAME](https://open.spotify.com/album/3moaXFQPnUdTKGRbj5KUg9) | 3:03 |
 | 3 | [Fly Girl \(feat\. Oseikrom Sikanii\) \- Remix](https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Fly Girl \(feat\. Oseikrom Sikanii\) \[Remix\]](https://open.spotify.com/album/4UbsNWDBTSHeG6GIyuntXG) | 3:15 |
 | 4 | [YESU](https://open.spotify.com/track/3yt7iYLEWEAF2DR98QYeOU) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [YESU](https://open.spotify.com/album/4rvlg1bc9BpOw7Coj5mLyy) | 3:21 |
 | 5 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [PA \(feat\. Jay Bahd\)](https://open.spotify.com/track/2V2UbbeMUJ2lTr4lwHjMup) | [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [PA \(feat\. Jay Bahd\)](https://open.spotify.com/album/6ky6ZDz9ukvStHhFGsPyGZ) | 3:23 |
 | 80 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 |
 
-Snapshot ID: `ZrVcPAAAAABMQIYRDUaIG+WpDyeklKjW`
+Snapshot ID: `Zr6XrAAAAAAbRfxZXbbpIBAFBx+b9J7K`

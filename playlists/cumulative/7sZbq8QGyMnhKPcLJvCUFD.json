@@ -3451,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "EXECUTIONER",
+        "url": "https://open.spotify.com/album/47zIUPtRpiGINO2YAbRFi9"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "EXECUTIONER",
+      "url": "https://open.spotify.com/track/0gYS6XPKlUbOFPYibwW58o"
+    },
+    {
+      "album": {
         "name": "fade",
         "url": "https://open.spotify.com/album/2cqvuYk4Haj2e44X4zfONh"
       },

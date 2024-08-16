@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 277653,
       "name": "Believe my change!",
       "url": "https://open.spotify.com/track/1TynNcWFdxFHDvPFlp405S"
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 222106,
       "name": "Happy Darling",
       "url": "https://open.spotify.com/track/2XtJmTYix03kYitaCa4DCZ"
@@ -3318,7 +3318,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 210480,
       "name": "Raise the FLAG",
       "url": "https://open.spotify.com/track/4DiglNq5mWTAjbAvLqd0e6"
@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 287373,
       "name": "ReTale",
       "url": "https://open.spotify.com/track/1VjpNNA4LiMrL9Bh2honei"
@@ -5092,7 +5092,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 208960,
       "name": "\u30b7\u30fc\u30af\u30ec\u30c3\u30c8\u30b8\u30e5\u30a8\u30eb \uff5e\u9b45\u60d1\u306e\u91d1\u525b\u77f3\uff5e",
       "url": "https://open.spotify.com/track/5rTbdRz9rN6RsVuc30xcKK"
@@ -5114,7 +5114,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 291026,
       "name": "\u30b8\u30e3\u30f3\u30b0\u30eb \u30d1\u30fc\u30c6\u30a3\u30fc",
       "url": "https://open.spotify.com/track/6LfDlhyY59TjZvA8lgTZsV"
@@ -5606,7 +5606,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 222013,
       "name": "\u30df\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30bb\u30ec\u30e2\u30cb\u30fc\u3078\u306e\u62db\u5f85\u72b6",
       "url": "https://open.spotify.com/track/1rwXHLpbjNHYFTmj0Vgj0r"
@@ -6303,6 +6303,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
+        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
+      },
+      "artists": [
+        {
+          "name": "\u7530\u4e2d\u7434\u8449 (CV.\u7a2e\u7530\u68a8\u6c99)",
+          "url": "https://open.spotify.com/artist/7nWfYmhtBHHl636afYgfV7"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245080,
+      "name": "\u671d\u713c\u3051\u306e\u30af\u30ec\u30c3\u30b7\u30a7\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0Y2IvI5WUJbNwSLRO093cf"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER HARMONY 02",
         "url": "https://open.spotify.com/album/2GToGpK197lsdbBkoj41Zt"
       },
@@ -6468,7 +6486,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 240706,
       "name": "\u7523\u58f0\u3068\u30af\u30e9\u30d6",
       "url": "https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa"
@@ -6784,7 +6802,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 249268,
       "name": "\u8ffd\u61b6\u306e\u30b5\u30f3\u30c9\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9"

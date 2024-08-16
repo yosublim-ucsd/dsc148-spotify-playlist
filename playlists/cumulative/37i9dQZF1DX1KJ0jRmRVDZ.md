@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,170 songs - 2 day 18 hr 43 min
+1,172 songs - 2 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 | 2022-06-13 | 2022-12-27 |
 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 | 2022-07-28 | 2022-12-13 |
 | [Panorama](https://open.spotify.com/track/2azz82Oj5Mt9cEkKdn1JeV) | [KUJIRAGI](https://open.spotify.com/artist/4rG3x6s38W3SI4aS80gjnj) | [Panorama](https://open.spotify.com/album/5jW5xMD1W4H1VYJLwiQcVb) | 2:46 | 2023-11-29 | 2023-12-20 |
+| [Pao Ying Chub! drinkin’ \(with Mori Calliope\)](https://open.spotify.com/track/1Vj5Xq0t8QhGtU5hsAwrAy) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Pao Ying Chub! drinkin’ \(with Mori Calliope\)](https://open.spotify.com/album/2QncOR7G3cMi9Drpy7zhg9) | 3:06 | 2024-08-15 |  |
 | [Paradise Lost](https://open.spotify.com/track/6pdi51BIJZMFolAjocMeFd) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Paradise Lost](https://open.spotify.com/album/0vnIfdckK1V6rAbhZDlHvp) | 3:35 | 2022-10-13 | 2022-10-19 |
 | [patience](https://open.spotify.com/track/3wA12VBV95sARZdhYX1wb0) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [patience](https://open.spotify.com/album/4e2SqTXP6vNORtnRFMKdCB) | 3:33 | 2024-02-29 | 2024-03-20 |
 | [Pedant](https://open.spotify.com/track/6SvIx9j97GduIaoux4eqz3) | [不眠症](https://open.spotify.com/artist/2VqEtJ2rBrI0mkFhxLYc0Q), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [Pedant](https://open.spotify.com/album/4Fk946VXMMYEHP6IUkqNpo) | 3:16 | 2024-05-07 | 2024-06-01 |
@@ -443,7 +444,7 @@
 | [おちゃめ機能](https://open.spotify.com/track/7ik8ly4ji6rkL5kKZT1WNs) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [おちゃめ機能](https://open.spotify.com/album/0ZiGyLRfqs3cpvOZhKChpT) | 4:08 | 2022-08-30 | 2022-09-07 |
 | [おとぎ話](https://open.spotify.com/track/4VaY61b9suXhMZYurnQ9Aw) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [おとぎ話](https://open.spotify.com/album/3bazV8zQZipr36Kz3yGrzN) | 3:39 | 2024-05-30 | 2024-07-10 |
 | [おとせサンダー](https://open.spotify.com/track/0TBZ2NGb9es28EVrtJGhic) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [おとせサンダー](https://open.spotify.com/album/0xDJJ5AZvTB2CSxeUrkple) | 4:04 | 2022-06-09 | 2022-09-15 |
-| [おともだち](https://open.spotify.com/track/50eZvIHB0xLGufN0V6FGcF) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [おともだち](https://open.spotify.com/album/7zoaKknjImLwzHwzGMcsey) | 3:14 | 2024-07-26 |  |
+| [おともだち](https://open.spotify.com/track/50eZvIHB0xLGufN0V6FGcF) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [おともだち](https://open.spotify.com/album/7zoaKknjImLwzHwzGMcsey) | 3:14 | 2024-07-26 | 2024-08-16 |
 | [おもちゃ帝国](https://open.spotify.com/track/7kzFsWhg6ybjZEFcwm66Zq) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [おもちゃ帝国](https://open.spotify.com/album/1L8thhOgKtOt3Vu4xheyrX) | 3:02 | 2023-02-14 | 2023-02-16 |
 | [お先真っ白](https://open.spotify.com/track/4g1vjVw7E6FTrxvLqvoeKH) | [ふぉるて](https://open.spotify.com/artist/62GIO6mAbceXgi32r2g4z4) | [お先真っ白](https://open.spotify.com/album/4Eh5ArG7mLIkpgtziVfM2g) | 2:32 | 2022-07-05 | 2022-07-08 |
 | [かちまみれ](https://open.spotify.com/track/6QnHnoN9fSUjwN8xypyVos) | [是](https://open.spotify.com/artist/3QtuwUR04rBoKf5W4orppt), [こゑだ](https://open.spotify.com/artist/5DMT5F0o1XI3l5cFM38QpN) | [かちまみれ](https://open.spotify.com/album/1idkBJIxPxQ0jrMXFOsouH) | 3:56 | 2022-06-23 | 2022-06-25 |
@@ -494,6 +495,7 @@
 | [ひかりをためる](https://open.spotify.com/track/5lorTN19XPlsMwrNy3V7Mg) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ひかりをためる](https://open.spotify.com/album/29eOgjIEgs8jsZ9h8m8TJm) | 2:29 | 2023-06-08 | 2023-07-14 |
 | [ひとくねり](https://open.spotify.com/track/7sFrA0Y0ODokSpOeDq08bH) | [Rey Fallet](https://open.spotify.com/artist/48nqBlzRSh8i6RyQ2lqePe) | [ひとくねり](https://open.spotify.com/album/4ZFPmZnDKTvaq40Gd5gGCP) | 4:01 | 2022-06-21 | 2022-06-23 |
 | [ひとちがい](https://open.spotify.com/track/3vsRjF60gYAiGsPgMLwzsy) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ひとちがい](https://open.spotify.com/album/3hKm4CfqAogfDZEowFTxSW) | 3:54 | 2024-05-07 | 2024-06-01 |
+| [ひゅるりらぱっぱ](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 | 2024-08-15 |  |
 | [ふわっと不安バルーン](https://open.spotify.com/track/4Pg07jeQSv0CzvH251V39l) | [をとは](https://open.spotify.com/artist/4vFZAUVnDZBvqR4mIJF26K) | [ふわっと不安バルーン](https://open.spotify.com/album/1oqJmyYh9XO50wVDxBFTgd) | 2:18 | 2023-11-28 | 2023-12-20 |
 | [ほっといて。](https://open.spotify.com/track/2trYnDbQVkQBW2X8Gk84vc) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [ほっといて。](https://open.spotify.com/album/5bld1SyxazffSqRWXqvZCM) | 2:57 | 2022-07-05 | 2022-07-27 |
 | [ぼくにまる](https://open.spotify.com/track/5kkYwdmVN7BHeGi5uETyWm) | [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz) | [ぼくにまる](https://open.spotify.com/album/6d6dsszsxJTJ8ssnBdt7kl) | 3:39 | 2023-10-12 | 2023-10-25 |
@@ -665,7 +667,7 @@
 | [テレキャスタービーボーイ](https://open.spotify.com/track/1ROD2ELpcPJNGexb1oxV3R) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [テレキャスタービーボーイ](https://open.spotify.com/album/08V9xGeTdDTy8WIlbYwRVR) | 2:50 | 2022-06-14 | 2022-06-16 |
 | [テレフォン・ラブ](https://open.spotify.com/track/3qyTid7Q3Nm6vwjHSgnaRG) | [PARED](https://open.spotify.com/artist/6LTMDeytAJfS4q9u28JYl0) | [テレフォン・ラブ](https://open.spotify.com/album/5rFbPS2qeENPzhpKNPAHe6) | 4:03 | 2022-06-09 | 2022-07-16 |
 | [デスぺレート](https://open.spotify.com/track/2HkSkpTUMolgOJldoaWFII) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [LOLUET](https://open.spotify.com/artist/5JoNnbXEGcykxL6fHRNola) | [デスぺレート](https://open.spotify.com/album/2wKuX8N0UVlwsBxFVPVIso) | 2:53 | 2022-09-14 | 2022-10-05 |
-| [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 | 2022-10-20 |  |
+| [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 | 2022-10-20 | 2024-08-16 |
 | [トコシエスタ](https://open.spotify.com/track/5NigQtxhXjVsgy9IZjCnL8) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [トコシエスタ](https://open.spotify.com/album/7LcXqq2ETXZWYnqJ8JDeLe) | 3:27 | 2023-07-11 | 2023-08-02 |
 | [トマドイリズム](https://open.spotify.com/track/6t6WlytYTnABepph269gOb) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [トマドイリズム](https://open.spotify.com/album/5xAFkw3cEQgOEL6n7y9oDh) | 2:52 | 2022-06-09 | 2022-07-29 |
 | [トワイライトダンス](https://open.spotify.com/track/47IvQWngNOvXGx1XZiiXw8) | [Amatsuki](https://open.spotify.com/artist/5WbJGPIGG5oCaVgMsfXZgu) | [トワイライトダンス](https://open.spotify.com/album/59WHF8fwOREtuVz3tPx3Gl) | 2:31 | 2023-01-03 | 2023-01-11 |
@@ -1072,7 +1074,7 @@
 | [素的](https://open.spotify.com/track/5QITPzKmdpy9sYabtaBVH8) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh), [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1) | [素的](https://open.spotify.com/album/23X1FWXcw6J8UBhcjhgJAz) | 3:47 | 2024-02-20 | 2024-04-11 |
 | [細胞](https://open.spotify.com/track/5m31wrZP59yWVyy3ZARZjf) | [nowisee](https://open.spotify.com/artist/3skdh04lf7IDIxyZ5AnsRI) | [細胞](https://open.spotify.com/album/3uUngCXohjyUx3OHcuFzBI) | 4:23 | 2022-06-23 | 2022-06-25 |
 | [終夜](https://open.spotify.com/track/3xplsmWknD55RzeLZ6P8pB) | [aruma](https://open.spotify.com/artist/007ymf6nTBbhE9f9zxTcJF) | [終夜](https://open.spotify.com/album/4BDoSK0wtsjJDHrmd8Qaec) | 3:58 | 2022-09-27 | 2022-10-07 |
-| [結婚行進曲](https://open.spotify.com/track/3czzy4fEz5M88VVA4KeE1f) | [ASOBI同盟](https://open.spotify.com/artist/4J0zXugKZIlVBUxoM2DrRE) | [結婚行進曲](https://open.spotify.com/album/6faFIqRjGu5EW702zf6c7b) | 2:51 | 2024-07-09 |  |
+| [結婚行進曲](https://open.spotify.com/track/3czzy4fEz5M88VVA4KeE1f) | [ASOBI同盟](https://open.spotify.com/artist/4J0zXugKZIlVBUxoM2DrRE) | [結婚行進曲](https://open.spotify.com/album/6faFIqRjGu5EW702zf6c7b) | 2:51 | 2024-07-09 | 2024-08-16 |
 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 | 2024-04-10 |  |
 | [絶対零度](https://open.spotify.com/track/5XE2D9myVJ7wXxmV7MjvdN) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [絶対零度](https://open.spotify.com/album/200PU49rVMaMwvHU9EmOnF) | 3:41 | 2022-06-09 | 2022-07-15 |
 | [絶望さん](https://open.spotify.com/track/4o8zpN0NMmoCQTooeuhTDk) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [絶望さん](https://open.spotify.com/album/4vZbdNZ8dldEn3HmgRXPei) | 2:51 | 2022-06-28 | 2022-07-08 |

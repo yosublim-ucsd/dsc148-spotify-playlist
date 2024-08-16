@@ -2,9 +2,9 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Ric Hassani
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Crayon
 
-632 songs - 1 day 7 hr 24 min
+633 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [For You](https://open.spotify.com/track/3225yFOItlcXiJOl2hURor) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [For You](https://open.spotify.com/album/2a6u7lATbFmzWrDvW1g8mt) | 3:45 | 2024-03-01 | 2024-03-29 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-24 | 2023-05-20 |
 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 | 2021-10-14 | 2023-07-20 |
-| [Forever Sweet](https://open.spotify.com/track/4lXRwrXdvUa6CWIpId9Vaq) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Madam Dearest Pt\. 1](https://open.spotify.com/album/7K8oP8pRg0FdTRfUkN0e8q) | 3:03 | 2024-06-28 |  |
+| [Forever Sweet](https://open.spotify.com/track/4lXRwrXdvUa6CWIpId9Vaq) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Madam Dearest Pt\. 1](https://open.spotify.com/album/7K8oP8pRg0FdTRfUkN0e8q) | 3:03 | 2024-06-28 | 2024-08-16 |
 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 | 2023-09-29 | 2023-10-18 |
 | [Friends](https://open.spotify.com/track/0n01Jo84IjPVepCtZ6ZFnr) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Friends](https://open.spotify.com/album/6sgJbJLPVdIEMOw1xVivHN) | 2:54 | 2024-02-23 | 2024-04-05 |
 | [Game Over](https://open.spotify.com/track/6i6wVdyqlRmFCTkNxSzxQz) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:18 | 2021-11-18 | 2022-03-23 |
@@ -563,6 +563,7 @@
 | [Tension](https://open.spotify.com/track/3tZsUsu3PZ1V48hpApVOFF) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Fed Up / Tension](https://open.spotify.com/album/12l63NT7yZ7bFf0mRJ9Y0l) | 2:36 | 2024-04-26 | 2024-07-12 |
 | [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 | 2024-06-07 |  |
 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2021-10-14 | 2023-03-11 |
+| [Tete](https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Tete](https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2) | 2:43 | 2024-08-15 |  |
 | [The Best Part](https://open.spotify.com/track/3jxWUaVGPoJ5oJcrHVvZ1U) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [The Best Part](https://open.spotify.com/album/66Qyd3QkXLdw0pDH8x0s9p) | 4:11 | 2023-07-07 | 2023-07-14 |
 | [The Tree](https://open.spotify.com/track/6c2umqQ4F1T25KnEmMHdH2) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [TiwaDara](https://open.spotify.com/artist/1Jfw9YM2tAEb83GAEyiDvo) | [The Tree](https://open.spotify.com/album/13j4qj9QUkDjcUA8TNsKwP) | 3:00 | 2021-11-18 | 2022-02-18 |
 | [Therapy](https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:20 | 2023-04-27 | 2024-05-21 |

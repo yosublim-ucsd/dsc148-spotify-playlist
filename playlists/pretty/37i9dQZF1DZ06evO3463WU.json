@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pancho Barraza. Los temas esenciales, todos en una lista.",
-  "num_followers": 146591,
+  "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
+  "num_followers": 146630,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAACmQCWYsVEWM6Y58io6Pxif",
+  "snapshot_id": "ZrvzgAAAAADpaGQilMPAjL6U5BGJChQN",
   "tracks": [
     {
       "added_at": null,
@@ -539,38 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva M\u00e9xico (En Vivo)",
-        "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 254368,
-      "name": "Ac\u00e1 Entre Nos (En Vivo)",
-      "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Bonito",
         "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
       },
@@ -607,6 +575,38 @@
       "duration_ms": 200146,
       "name": "Vuelve Por Favor",
       "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva M\u00e9xico (En Vivo)",
+        "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 254368,
+      "name": "Ac\u00e1 Entre Nos (En Vivo)",
+      "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
     },
     {
       "added_at": null,

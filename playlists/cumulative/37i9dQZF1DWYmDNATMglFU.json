@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a generation \u26d3 ft. WesGhost",
+  "description": "it's a generation \u26d3 ft. Cassyette",
   "name": "The Locker",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 168016,
       "name": "2nd prettiest girl (in the world)",
       "url": "https://open.spotify.com/track/353idKXfTcr8L4QosiGD8z"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 195686,
       "name": "ALEXITHYMIA",
       "url": "https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 129880,
       "name": "alright (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF"
@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Bedroom Floor",
+        "url": "https://open.spotify.com/album/4PuWNlY3L8XhhXSGaQkWkx"
+      },
+      "artists": [
+        {
+          "name": "Hana Lili",
+          "url": "https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180200,
+      "name": "Bedroom Floor",
+      "url": "https://open.spotify.com/track/2igAj8xETxRRxOklMfiknR"
+    },
+    {
+      "album": {
         "name": "BEDTIME STORIES / BLOOD",
         "url": "https://open.spotify.com/album/6fAFmYVvfI5PCTzzJxgTou"
       },
@@ -1424,6 +1442,24 @@
       "duration_ms": 128000,
       "name": "BEDTIME STORIES",
       "url": "https://open.spotify.com/track/2St0YH2pzB2kp1BVGOi37R"
+    },
+    {
+      "album": {
+        "name": "Best Of Me",
+        "url": "https://open.spotify.com/album/3vnfN1ZMU1Nl1v1sEYpYq9"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221659,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/7hAiIByf0SbWkOPLRY9wRV"
     },
     {
       "album": {
@@ -1788,7 +1824,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 168947,
       "name": "Blueprint",
       "url": "https://open.spotify.com/track/7IfI7jyQqMl1yRrZ9KlNpJ"
@@ -2808,6 +2844,24 @@
       "duration_ms": 157542,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/3m1bdD8K7YvyNP8zACQ6Fw"
+    },
+    {
+      "album": {
+        "name": "Clich\u00e9",
+        "url": "https://open.spotify.com/album/0flX7vAoaSnbrYnTkREOUj"
+      },
+      "artists": [
+        {
+          "name": "Westislonely",
+          "url": "https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175306,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/13sYq1DRwEvWqfimRKRUAC"
     },
     {
       "album": {
@@ -4217,6 +4271,28 @@
     },
     {
       "album": {
+        "name": "Dull (feat. Softcult)",
+        "url": "https://open.spotify.com/album/3gmtr45Lzb7GjzQFXe49C8"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195303,
+      "name": "Dull (feat. Softcult)",
+      "url": "https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT"
+    },
+    {
+      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -4228,7 +4304,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 178600,
       "name": "Dumbstruck Dumbf**k",
       "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
@@ -5178,6 +5254,24 @@
       "duration_ms": 172375,
       "name": "FUCK ABOUT IT (feat. blackbear)",
       "url": "https://open.spotify.com/track/7dNMMq9Y14fCKCNIKK95SB"
+    },
+    {
+      "album": {
+        "name": "Fuck Me",
+        "url": "https://open.spotify.com/album/3uOIUdtPdHt7n9evhE2FFL"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192625,
+      "name": "Fuck Me",
+      "url": "https://open.spotify.com/track/21HbjK1Xl11EzfFc8W9D3X"
     },
     {
       "album": {
@@ -6242,7 +6336,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 135399,
       "name": "Hide Your Kids",
       "url": "https://open.spotify.com/track/7nRuVjmhfYCraHEhfgNv1j"
@@ -6566,7 +6660,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 163736,
       "name": "hostage",
       "url": "https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY"
@@ -6700,6 +6794,24 @@
       "duration_ms": 143357,
       "name": "hover like a GODDESS",
       "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
+    },
+    {
+      "album": {
+        "name": "HOW 2 GET AWAY WITH MURDER",
+        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178217,
+      "name": "HOW 2 GET AWAY WITH MURDER",
+      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
     },
     {
       "album": {
@@ -7552,6 +7664,24 @@
       "duration_ms": 228280,
       "name": "In The End",
       "url": "https://open.spotify.com/track/1RTYixE1DD3g3upEpmCJpa"
+    },
+    {
+      "album": {
+        "name": "INSIDE",
+        "url": "https://open.spotify.com/album/6s4hR4MJMaEzWCke3o1YP8"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154025,
+      "name": "INSIDE",
+      "url": "https://open.spotify.com/track/6CCuNaertE0MJJHRmfjn0T"
     },
     {
       "album": {
@@ -8944,7 +9074,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 162647,
       "name": "Me, Myself & Your Eyes",
       "url": "https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq"
@@ -9266,6 +9396,24 @@
       "duration_ms": 174067,
       "name": "Monsters (feat. blackbear)",
       "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
+    },
+    {
+      "album": {
+        "name": "More Love",
+        "url": "https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160160,
+      "name": "More Love",
+      "url": "https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL"
     },
     {
       "album": {
@@ -10316,7 +10464,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 168090,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/4L8N6rZRLZndXM2djmpfSw"
@@ -10352,7 +10500,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 172500,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/3NcheXileql4RI8n6sLumL"
@@ -11951,6 +12099,28 @@
     },
     {
       "album": {
+        "name": "Skip to the Good Part",
+        "url": "https://open.spotify.com/album/7qWC9sVVpVikjEWkG5pLYN"
+      },
+      "artists": [
+        {
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
+        },
+        {
+          "name": "Mark Faroudi",
+          "url": "https://open.spotify.com/artist/7GVcXjyqFajgUT9vPtdSG8"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162024,
+      "name": "Skip to the Good Part",
+      "url": "https://open.spotify.com/track/23ue86bXD9I3UAZNOcmbKW"
+    },
+    {
+      "album": {
         "name": "How Are We Feeling?",
         "url": "https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03"
       },
@@ -12399,6 +12569,24 @@
     },
     {
       "album": {
+        "name": "Star Crossed Lover",
+        "url": "https://open.spotify.com/album/6dZ3TMqkomnLJiYN5ouYJa"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170549,
+      "name": "Star Crossed Lover",
+      "url": "https://open.spotify.com/track/774oJ9EJu88GEj5JgVVazf"
+    },
+    {
+      "album": {
         "name": "STATUES (v2)",
         "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
       },
@@ -12652,7 +12840,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 153603,
       "name": "STRAY",
       "url": "https://open.spotify.com/track/7MCtZJoabikk4AVQp8o6rP"
@@ -12782,6 +12970,24 @@
       "duration_ms": 149660,
       "name": "summer 23",
       "url": "https://open.spotify.com/track/1eMkVzztzaNVUesBw1kc4M"
+    },
+    {
+      "album": {
+        "name": "Sun Cream",
+        "url": "https://open.spotify.com/album/692fHzKNtyQRk8G7DoEtsf"
+      },
+      "artists": [
+        {
+          "name": "Boy Bleach",
+          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172787,
+      "name": "Sun Cream",
+      "url": "https://open.spotify.com/track/6ELIbEF8JruMwL3wl4RA4v"
     },
     {
       "album": {
@@ -13981,6 +14187,24 @@
     },
     {
       "album": {
+        "name": "TIMEPIECE",
+        "url": "https://open.spotify.com/album/5nptLfPlk5DSp0VU3cuC9y"
+      },
+      "artists": [
+        {
+          "name": "BUBZ",
+          "url": "https://open.spotify.com/artist/7IwYtE3A3mRe432XcR9C1p"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227750,
+      "name": "TIMEPIECE",
+      "url": "https://open.spotify.com/track/3iO5is79RNo5V8ESIqblcj"
+    },
+    {
+      "album": {
         "name": "Tissues",
         "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
       },
@@ -14068,7 +14292,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 133093,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/4kyfZcirG407sqrF34ZKxR"
@@ -14310,7 +14534,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 159933,
       "name": "Typical Me",
       "url": "https://open.spotify.com/track/57IbDKMqYTdopZAxLiBMah"
@@ -15412,6 +15636,32 @@
       "duration_ms": 270000,
       "name": "You and I",
       "url": "https://open.spotify.com/track/4xJWfVNC52PSK5ObyOKQsw"
+    },
+    {
+      "album": {
+        "name": "Funeral Soundtrack #4",
+        "url": "https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        },
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        },
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163934,
+      "name": "You Hear Yes",
+      "url": "https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC"
     },
     {
       "album": {

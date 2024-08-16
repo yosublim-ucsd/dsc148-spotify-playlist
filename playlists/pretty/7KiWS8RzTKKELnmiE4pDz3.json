@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAc0RfJeEpXb7/IbtbyRiNfrF/dWW5D",
+  "snapshot_id": "AAAc1QfibhC7kDbaNKDXM7sPJBY16xKJ",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2879,6 +2879,82 @@
       "duration_ms": 213000,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar"
+    },
+    {
+      "added_at": "2024-08-15 16:30:17",
+      "album": {
+        "name": "Still Summer In The Projects",
+        "url": "https://open.spotify.com/album/3ZXrPDVxH8COhSw4jUmmuc"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        }
+      ],
+      "duration_ms": 221395,
+      "name": "Trap House (feat. Shoreline Mafia)",
+      "url": "https://open.spotify.com/track/1nq3DVmmYHGmO0NrAJdvnl"
+    },
+    {
+      "added_at": "2024-08-16 02:38:59",
+      "album": {
+        "name": "Ultra 85",
+        "url": "https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "T Man The Wizard",
+          "url": "https://open.spotify.com/artist/5hvDPUBzdQtdFoOHJ8Q6g6"
+        }
+      ],
+      "duration_ms": 131429,
+      "name": "Mission Control (feat. T Man the Wizard)",
+      "url": "https://open.spotify.com/track/50VDY20fQBAfjYwtVEWPWS"
+    },
+    {
+      "added_at": "2024-08-16 02:43:10",
+      "album": {
+        "name": "Ultra 85",
+        "url": "https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 201796,
+      "name": "Deja Vu (feat. DJ Drama)",
+      "url": "https://open.spotify.com/track/0a5JCzipgKytaoKncMKsHL"
+    },
+    {
+      "added_at": "2024-08-16 02:48:05",
+      "album": {
+        "name": "Ultra 85",
+        "url": "https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 252389,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/6eKRCw9oMbKuDJ6gwFwgwM"
     }
   ],
   "unique_name": "main ",

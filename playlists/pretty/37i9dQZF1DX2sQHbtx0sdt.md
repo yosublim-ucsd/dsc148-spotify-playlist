@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Hanumankind 🇮🇳
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,439 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,653 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 10 | [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 |
 | 11 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 |
 | 12 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Mr Reload It](https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 |
-| 13 | [AMOT ANA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:45 |
+| 13 | [MOZZA](https://open.spotify.com/track/16u1uzODmSjeiT0lLSKWTy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 2:28 |
 | 14 | [gen z luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [gen z luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
 | 15 | [Mehndi](https://open.spotify.com/track/7El9mpOjyn5bdHRZTZ2deR) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [East to West](https://open.spotify.com/album/3aUaSqIu0FdVJj9QwaTD0N) | 2:27 |
 | 16 | [WYA](https://open.spotify.com/track/0pWe6arB3oGxI8msYHObbA) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [WYA](https://open.spotify.com/album/7I5lABeFEjFJcdgrVltGr7) | 2:16 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 30 | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/track/0AyUide4aAlvuQB76Zj4GR) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ), [Huda](https://open.spotify.com/artist/5NnVq8GhEz24ecoViL85Do) | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/album/0FqPmjoAhmyG0uYEyf33qr) | 2:43 |
 | 31 | [PTSD](https://open.spotify.com/track/50NJA7Ds65risvAXLspiWK) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PTSD](https://open.spotify.com/album/6VUAEJ53jti8LKTEKGydaS) | 2:09 |
 | 32 | [Rain](https://open.spotify.com/track/5LBikzSkad9yQ6RH87Gdrm) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Rain](https://open.spotify.com/album/0QPLgUQ70nkJTsgCWAfDVO) | 3:03 |
-| 33 | [100 Bands \(feat\. bambi\)](https://open.spotify.com/track/4FKkPC89ZNH1DNdXrBquhF) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [100 Bands \(feat\. bambi\)](https://open.spotify.com/album/2VaneFgs1XxIJcwjoqAPV9) | 2:19 |
+| 33 | [100 Bands \(feat\. bambi\)](https://open.spotify.com/track/4FKkPC89ZNH1DNdXrBquhF) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [100 Bands \(feat\. bambi\)](https://open.spotify.com/album/2VaneFgs1XxIJcwjoqAPV9) | 2:18 |
 | 34 | [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 |
 | 35 | [Pas Comme Ça](https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [D&D](https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610) | 3:17 |
 | 36 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 99 | [Highs & Lows](https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9), [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Highs & Lows](https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6) | 2:04 |
 | 100 | [ETA \(feat\. Luciano\)](https://open.spotify.com/track/422qTU33m36TliSm27uONY) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [DO NOT DISTURB](https://open.spotify.com/album/45wG3jFqzHeQIX8QsXJO5e) | 2:40 |
 
-Snapshot ID: `ZrWUQAAAAABXaH/qgkHd1sCtyR5iBDO9`
+Snapshot ID: `Zr4tFwAAAADDaw/vtv3LbztEqB0aLSHX`

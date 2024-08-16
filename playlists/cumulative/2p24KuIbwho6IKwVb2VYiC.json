@@ -1465,7 +1465,7 @@
     },
     {
       "album": {
-        "name": "Fire (Official UEFA EURO 2024 Song)",
+        "name": "Fire - Official UEFA EURO 2024 Song",
         "url": "https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ"
       },
       "artists": [
@@ -4444,6 +4444,28 @@
       "duration_ms": 202941,
       "name": "The Otherside (feat. Paige Cavell)",
       "url": "https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH"
+    },
+    {
+      "album": {
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/7uLQbckUJI5zR61O5HBXdj"
+      },
+      "artists": [
+        {
+          "name": "The Banker Boys",
+          "url": "https://open.spotify.com/artist/23ZQRnQKAovuLlXhc555tm"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151472,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/68ebuQxfTJnlg3KwSLVytP"
     },
     {
       "album": {

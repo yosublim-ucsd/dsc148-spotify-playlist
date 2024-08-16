@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,753 likes - 203 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,071 likes - 203 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 4 | [Too Many Stairs](https://open.spotify.com/track/3Bf8Vrmx3KHodCnsdfwg5x) | [Finn Horizon](https://open.spotify.com/artist/4y19AUiBySss0zxq6dqNve) | [Too Many Stairs](https://open.spotify.com/album/5R3r6LBb4PFIh4kyFjZI7f) | 2:39 |
 | 5 | [Submute](https://open.spotify.com/track/4bZsxqkkCcMZP0TT712ouR) | [Max Serenite](https://open.spotify.com/artist/3RDgyUBLfQ72SH5jp8e27o) | [Submute](https://open.spotify.com/album/4XPqqcbZTmUxuvZkGcweDH) | 2:38 |
 | 6 | [In Your Soul](https://open.spotify.com/track/7Heda6sejvVw5h2kXGfAuL) | [waybackwhenish](https://open.spotify.com/artist/5xUhQ7Qw36TylM9KRtbY9a) | [In Your Soul](https://open.spotify.com/album/4AMPnwQzIwTRCwasYH0U7a) | 2:04 |
-| 7 | [Astro](https://open.spotify.com/track/6EjELKksixItWv6YL5kue4) | [Didi Henric](https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk) | [Astro](https://open.spotify.com/album/2A41r1CEJTDY9n81fPlJG6) | 2:01 |
+| 7 | [Astro](https://open.spotify.com/track/6EjELKksixItWv6YL5kue4) | [flooww](https://open.spotify.com/artist/1sb0nFSQlTFxm99qMwVRux) | [Astro](https://open.spotify.com/album/2A41r1CEJTDY9n81fPlJG6) | 2:01 |
 | 8 | [Relinquish](https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy) | [Daryl Dane](https://open.spotify.com/artist/2lJXvLJvKX2n2TSgLoIsl3) | [Relinquish](https://open.spotify.com/album/3oF2fUFYl6QQCGif3ttzT1) | 2:58 |
 | 9 | [spring](https://open.spotify.com/track/1E1Ml4DgQZ2QVp2UztwyvD) | [eights signs](https://open.spotify.com/artist/1g4nMMWi74Aku7ZDd6Yjtx) | [spring](https://open.spotify.com/album/2eUkNLaVHEjGtMPopULYoA) | 3:02 |
 | 10 | [Prophecy](https://open.spotify.com/track/56w9J0guGdjFT2kcHVaftv) | [M98000](https://open.spotify.com/artist/4vBonDnV2EATaCzSqtXtXy) | [Prophecy](https://open.spotify.com/album/24rY0yxqE3lVdhsvMAn7Oj) | 3:00 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Natalia Lacunza.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Tanxugueiras.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 148911,
       "name": "AL OTRO LADO",
       "url": "https://open.spotify.com/track/2VYGbSmszhkB0CKEZbVFNW"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 149714,
       "name": "Cardio y caladas",
       "url": "https://open.spotify.com/track/7N32rP2LvQh0IJw9qRmbCe"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 263920,
       "name": "CHEVY 57",
       "url": "https://open.spotify.com/track/5rKci9JXTy3npFUXCqsKTL"
@@ -710,6 +710,28 @@
       "duration_ms": 192253,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/4F5gTSLd8FvbLkWlJHFQlq"
+    },
+    {
+      "album": {
+        "name": "Drama en el Sonorama",
+        "url": "https://open.spotify.com/album/2amy0hycTmlvLUmPMal70a"
+      },
+      "artists": [
+        {
+          "name": "Anabel Lee",
+          "url": "https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW"
+        },
+        {
+          "name": "Maren",
+          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202429,
+      "name": "Drama en el Sonorama",
+      "url": "https://open.spotify.com/track/4tDilCqVje9Wdx9a9USlPS"
     },
     {
       "album": {
@@ -1130,7 +1152,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 211695,
       "name": "Gente Corriente",
       "url": "https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI"
@@ -1232,6 +1254,24 @@
       "duration_ms": 224102,
       "name": "II. Flores",
       "url": "https://open.spotify.com/track/5gwsRfaDuWLnh7OBXfU9Co"
+    },
+    {
+      "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/54exH2VGexs9RCa8DErqKa"
+      },
+      "artists": [
+        {
+          "name": "Carmen 113",
+          "url": "https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Imparables",
+      "url": "https://open.spotify.com/track/1lpXBntIB3GILpelgl7hWn"
     },
     {
       "album": {
@@ -1358,7 +1398,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 200433,
       "name": "La Toscana",
       "url": "https://open.spotify.com/track/39kOGcaNQZm9Ig1FDngq9c"
@@ -1582,7 +1622,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 197014,
       "name": "Madriz Madriz",
       "url": "https://open.spotify.com/track/2XUhcZOcLPAWwAnUclFpeu"
@@ -1716,7 +1756,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 215598,
       "name": "Medias Brillantes",
       "url": "https://open.spotify.com/track/5bGCyURMcLEhoijhaz10qw"
@@ -1977,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "NUNCA ES TARDE",
+        "url": "https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I"
+      },
+      "artists": [
+        {
+          "name": "Chill Chicos",
+          "url": "https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG"
+        },
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "NUNCA ES TARDE",
+      "url": "https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG"
+    },
+    {
+      "album": {
         "name": "Nunca Estuviste Tan Lejos",
         "url": "https://open.spotify.com/album/1U6KHSJ66igiyRiVvirZKj"
       },
@@ -2028,10 +2090,28 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 131612,
       "name": "Pa Ti",
       "url": "https://open.spotify.com/track/2RI6t2wnifhfIyeSKXupio"
+    },
+    {
+      "album": {
+        "name": "Palabras BLA BLA BLA - remix",
+        "url": "https://open.spotify.com/album/16jPgS4BMWZ8psnbHALBTG"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79372,
+      "name": "Palabras BLA BLA BLA - remix",
+      "url": "https://open.spotify.com/track/1KdYHwejtPz6uAJjGTAfUp"
     },
     {
       "album": {
@@ -2068,6 +2148,24 @@
       "duration_ms": 164534,
       "name": "PASARELA",
       "url": "https://open.spotify.com/track/6wXP0oiJk3gZXGfFNrKQaz"
+    },
+    {
+      "album": {
+        "name": "Pedindo perd\u00f3n",
+        "url": "https://open.spotify.com/album/3RTlEAHIkmQP6YeWWQXpcn"
+      },
+      "artists": [
+        {
+          "name": "Tanxugueiras",
+          "url": "https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192965,
+      "name": "Pedindo perd\u00f3n",
+      "url": "https://open.spotify.com/track/1KJMLbxJQ65vJExYxzHllV"
     },
     {
       "album": {
@@ -2136,7 +2234,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 171459,
       "name": "PR\u00cdNCIPE",
       "url": "https://open.spotify.com/track/48puBWvqOsEwv1kcmMR8Ah"
@@ -2464,7 +2562,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 270137,
       "name": "The Last of Us",
       "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
@@ -2548,6 +2646,24 @@
       "duration_ms": 166943,
       "name": "to lo ke",
       "url": "https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G"
+    },
+    {
+      "album": {
+        "name": "Rata",
+        "url": "https://open.spotify.com/album/2Da6zU0CogwEQsyywJc0oN"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192975,
+      "name": "Toda La Vida",
+      "url": "https://open.spotify.com/track/1Nu14PfbnnRZmLDtx2lR63"
     },
     {
       "album": {
@@ -2740,7 +2856,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 183524,
       "name": "Valle La Pena",
       "url": "https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i"
@@ -2812,7 +2928,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 180893,
       "name": "Y SI SE ABREN LOS CIELOS",
       "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"

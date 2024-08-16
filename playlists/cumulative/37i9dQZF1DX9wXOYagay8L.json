@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=fyvRYw1ITjaba-gRt20DaQ\">Nomfundo Moh</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees?si=34plTCgTR6avOxEQS0Swuw\">Mthandazo Gatya</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 97733,
       "name": "Amaqatha Amancane",
       "url": "https://open.spotify.com/track/60VjGvGReNEvFixZjzkAnI"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 245080,
       "name": "Buya",
       "url": "https://open.spotify.com/track/6xhsflZ8sxlJVmquIIcMZp"
@@ -1712,6 +1712,28 @@
       "duration_ms": 246984,
       "name": "Dali Wam",
       "url": "https://open.spotify.com/track/2VYnpS5WSfaoIHPbVVQYTZ"
+    },
+    {
+      "album": {
+        "name": "Dali Wam (feat. Aubrey Qwana)",
+        "url": "https://open.spotify.com/album/3utcz0fYHOkANlpZmZTHa1"
+      },
+      "artists": [
+        {
+          "name": "Kiddo CSA",
+          "url": "https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW"
+        },
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Dali Wam - feat. Aubrey Qwana",
+      "url": "https://open.spotify.com/track/70QDS1Ld2evBQ5dO7RKB2Q"
     },
     {
       "album": {
@@ -7471,6 +7493,24 @@
     },
     {
       "album": {
+        "name": "Ngimnandi",
+        "url": "https://open.spotify.com/album/7njVGQLN3SLRI7d6yfttZi"
+      },
+      "artists": [
+        {
+          "name": "Mthandazo Gatya",
+          "url": "https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232062,
+      "name": "Ngimnandi",
+      "url": "https://open.spotify.com/track/5KzTCTNc8sIvldff4yQuCo"
+    },
+    {
+      "album": {
         "name": "Ngimtholile",
         "url": "https://open.spotify.com/album/0Aqwt3quGqHhm5nQYZeUDD"
       },
@@ -7809,6 +7849,28 @@
     },
     {
       "album": {
+        "name": "Nhliziyo Yami",
+        "url": "https://open.spotify.com/album/63T7KXcTB6F4nGpThALrTs"
+      },
+      "artists": [
+        {
+          "name": "Q Twins",
+          "url": "https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J"
+        },
+        {
+          "name": "Blaq Major",
+          "url": "https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246183,
+      "name": "Nhliziyo Yami",
+      "url": "https://open.spotify.com/track/1S1K6RxkEkm9a9op800QEk"
+    },
+    {
+      "album": {
         "name": "African Queen 2.0",
         "url": "https://open.spotify.com/album/57d2o9ABnFTKWX3xuYGFe9"
       },
@@ -8100,7 +8162,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 219428,
       "name": "Noxolo",
       "url": "https://open.spotify.com/track/4D8bE2btP5ZAygcZyRKPcT"

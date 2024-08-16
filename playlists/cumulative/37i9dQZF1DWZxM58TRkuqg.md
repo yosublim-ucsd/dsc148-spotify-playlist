@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Rossa, Ariel NOAH
+> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Adrian Khalif
 
-200 songs - 13 hr 17 min
+203 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/track/2ce4QtgMJ9123s78zwprXB) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/album/4NVrxWTYO3d7ZfW4FmGo3h) | 3:40 | 2024-08-08 |  |
 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 | 2024-01-26 | 2024-03-22 |
 | [Aku Mengerti \(Prologue Version\)](https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:45 | 2024-01-26 | 2024-05-03 |
-| [Aku Rindu](https://open.spotify.com/track/11QKUeLa6ajdMEMNAQkAlm) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Aku Rindu](https://open.spotify.com/album/3INvE4pj4A0qvcoCGMG2l5) | 4:08 | 2024-06-27 |  |
+| [Aku Rindu](https://open.spotify.com/track/11QKUeLa6ajdMEMNAQkAlm) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Aku Rindu](https://open.spotify.com/album/3INvE4pj4A0qvcoCGMG2l5) | 4:08 | 2024-06-27 | 2024-08-16 |
 | [Aku Takdirmu](https://open.spotify.com/track/7yDYXmJ8NAoYeVolXv9E5K) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Aku Takdirmu](https://open.spotify.com/album/6syB0IkH8vdpQBUQAnY25C) | 4:05 | 2024-05-16 |  |
 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 | 2024-07-18 |  |
 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 | 2024-01-26 | 2024-03-22 |
@@ -34,7 +34,7 @@
 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2024-01-26 | 2024-05-03 |
 | [Bersenja Gurau](https://open.spotify.com/track/5ANZKRT3WuY4DgEnCcfHVa) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Bersenja Gurau](https://open.spotify.com/album/4mtL1Qs2EYD05CUW6nx7b6) | 3:14 | 2024-03-07 | 2024-05-24 |
 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 | 2024-08-08 |  |
-| [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-20 |  |
+| [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-20 | 2024-08-16 |
 | [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 | 2024-05-23 |  |
 | [Buang \- Buang Waktu](https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Buang \- Buang Waktu](https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv) | 3:16 | 2024-02-09 | 2024-03-29 |
 | [Buang Waktu](https://open.spotify.com/track/498HBb9Fg8djwl2kIkL33h) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 3:55 | 2024-07-11 |  |
@@ -73,6 +73,7 @@
 | [Halo Jakarta](https://open.spotify.com/track/0wTdu8sKRKWFaIUxnNjpU4) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pancarona](https://open.spotify.com/album/1pUhL7RoOg7Lce3VCdIwbx) | 4:29 | 2024-03-14 | 2024-05-03 |
 | [Hancur Lebih Dulu](https://open.spotify.com/track/4nAoRD9mWgB5QvzKz27oqP) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Hancur Lebih Dulu](https://open.spotify.com/album/6QGFq4nA7VJV2DRiyxBi7l) | 4:32 | 2024-03-01 | 2024-06-28 |
 | [Hanya Lolongan](https://open.spotify.com/track/3gedUqUJEgNoDqDaQZwTUo) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Hanya Lolongan](https://open.spotify.com/album/7nYVMupxePZbCAczopKbWr) | 3:49 | 2024-05-03 |  |
+| [Hari Itu](https://open.spotify.com/track/06wZo8NQVbOkNKXfYb5X3s) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Hari Itu](https://open.spotify.com/album/52zM9Kzo8pzcXG8LJdt3Mo) | 4:07 | 2024-08-15 |  |
 | [Hidup Bukan Sekedar Bernafas](https://open.spotify.com/track/48OKojXgd3xuDCiMzIWBwp) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [2324](https://open.spotify.com/album/58fyDVIXpIX8zMbNAh94xb) | 5:43 | 2024-01-26 | 2024-02-09 |
 | [Hiduplah Sebelum Mati](https://open.spotify.com/track/2gdgiNTLNlNJO9qb9TBJbg) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Hiduplah Sebelum Mati](https://open.spotify.com/album/5jGdBc0fWKl9gB3Nss3ZXj) | 3:44 | 2024-03-14 | 2024-05-17 |
 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 | 2024-04-18 |  |
@@ -124,6 +125,7 @@
 | [MADE 4 U](https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [MADE 4 U](https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ) | 4:09 | 2024-01-26 | 2024-03-22 |
 | [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-05-24 |  |
 | [Malang](https://open.spotify.com/track/7sqv8Eqs0gW6GHVTx20WNm) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Malang](https://open.spotify.com/album/47zY7uyQnStZjlbqwrn3M3) | 4:50 | 2024-03-21 | 2024-05-17 |
+| [Maling](https://open.spotify.com/track/4jzbofXDxLM1PLiLtdYoXf) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [dua lagu sebelum album dua](https://open.spotify.com/album/0HV5jxg6IaVu5MzVt92VvI) | 3:45 | 2024-08-15 |  |
 | [Masa Mudaku Habis](https://open.spotify.com/track/7016fRgPW6LoYsuBIjgfVr) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Masa Mudaku Habis](https://open.spotify.com/album/3XntILaq6yQVrdUk0kVRwZ) | 4:14 | 2024-01-26 | 2024-03-22 |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-02-23 |  |
 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 | 2024-03-28 |  |
@@ -138,7 +140,7 @@
 | [Muak](https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Muak](https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq) | 4:24 | 2024-01-26 | 2024-03-22 |
 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 | 2024-05-09 |  |
 | [Nada Nada Cinta](https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Nada \- Nada Cinta](https://open.spotify.com/album/1FowDsfN8edbtuEeLV2vNF) | 4:31 | 2024-08-08 |  |
-| [New Feeling](https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [New Feeling](https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs) | 4:17 | 2024-06-27 |  |
+| [New Feeling](https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [New Feeling](https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs) | 4:17 | 2024-06-27 | 2024-08-16 |
 | [Ngeluwihi](https://open.spotify.com/track/1BhClhu3KbdPLTPJFbBMwV) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Ngeluwihi](https://open.spotify.com/album/09OTA5eXLEKQAMnrvOJgq3) | 3:26 | 2024-01-26 | 2024-02-16 |
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-05-30 | 2024-08-09 |
 | [Orang Yang Berbeda](https://open.spotify.com/track/5ckkWPG0Y9kgyGKW5kCGWN) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Orang Yang Berbeda](https://open.spotify.com/album/0BSRjafG6lC4yF8LGEos4v) | 4:40 | 2024-04-11 | 2024-07-27 |
@@ -146,7 +148,7 @@
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2024-01-26 |  |
 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 | 2024-07-18 |  |
 | [Perisai](https://open.spotify.com/track/6bQhIKmQoAOU5hxhHjqJd4) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Perisai](https://open.spotify.com/album/6i0NhEM1GVfDJqoJaHXxCJ) | 4:00 | 2024-03-01 | 2024-03-29 |
-| [Pilihlah Aku \- Govinda Live Studio Session \- London 2023](https://open.spotify.com/track/56X3L1Jr5JN6C4deTVOXNE) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp) | [Govinda Live Studio Session \- London 2023 \- Live](https://open.spotify.com/album/4fIhNUSWApwdsRcHBILeMY) | 4:05 | 2024-08-07 |  |
+| [Pilihlah Aku \- Govinda Live Studio Session \- London 2023](https://open.spotify.com/track/56X3L1Jr5JN6C4deTVOXNE) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp) | [Govinda Live Studio Session \- London 2023 \- Govinda Live Studio Session \- London 2023](https://open.spotify.com/album/4fIhNUSWApwdsRcHBILeMY) | 4:05 | 2024-08-07 |  |
 | [Putus](https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Putus](https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp) | 3:33 | 2024-07-25 |  |
 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 | 2024-05-03 |  |
 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 | 2024-01-26 | 2024-03-22 |
@@ -158,6 +160,7 @@
 | [Sampai Mati Kan Ku Kejar](https://open.spotify.com/track/4TveE7nbH7XNSdlQEo123z) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [8](https://open.spotify.com/album/1UpXh7XiaXwYqf9ldAQrea) | 3:55 | 2024-05-23 |  |
 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 | 2024-08-07 |  |
 | [Sejauh Dua Benua](https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Sejauh Dua Benua](https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY) | 3:45 | 2024-04-18 | 2024-06-07 |
+| [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 | 2024-08-15 |  |
 | [Selagi Punya Waktu](https://open.spotify.com/track/04VpbxCYIwfDHCqq2JqQFW) | [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV), [Sammy Simorangkir](https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq) | [Selagi Punya Waktu](https://open.spotify.com/album/66AZ0dwHtstBf7ACMLb0Ah) | 4:50 | 2024-02-23 | 2024-03-29 |
 | [Selama Ku Bernafas](https://open.spotify.com/track/2x8v50JevSgEgBB8SDtY9T) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Selama Ku Bernafas](https://open.spotify.com/album/73IVBgWRjUeOAlAjFTS3CX) | 4:54 | 2024-07-11 |  |
 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 | 2024-04-25 |  |

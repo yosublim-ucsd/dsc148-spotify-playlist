@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > 🚨 someone tell rob the new beabadoobee album is here 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151,295 likes - 115 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,151,344 likes - 115 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

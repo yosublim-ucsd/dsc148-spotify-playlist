@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: AEILO\)
 
-188 songs - 10 hr 34 min
+189 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [90's Love \- SQUAR Remix](https://open.spotify.com/track/21uB15SdGJR4NYprvjInYw) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ), [SQUAR](https://open.spotify.com/artist/7waoIMNJ8yFpEKiHHWG7EY) | [iScreaM Vol.6 : Make A Wish / 90's Love Remix](https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd) | 2:41 | 2024-04-05 | 2024-06-29 |
 | [@\_@](https://open.spotify.com/track/5fmIHR4PfKC7h4XIF1Kaqe) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [PSILOCYBIN](https://open.spotify.com/album/1rUoceFLTQxAlMGuYpWCCI) | 2:07 | 2024-04-05 | 2024-06-29 |
 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 | 2024-06-28 |  |
-| [alive](https://open.spotify.com/track/1TDHp9m9b1ZsJrb9TtgsYA) | [ONII](https://open.spotify.com/artist/70NmIWDXyqMs4LmM6zCaG6) | [alive](https://open.spotify.com/album/22E1iZe1wyXbKn8W5zEiW2) | 4:22 | 2024-08-14 |  |
+| [alive](https://open.spotify.com/track/1TDHp9m9b1ZsJrb9TtgsYA) | [ONII](https://open.spotify.com/artist/3MaLSP3dNqtSH7Wrz1pr35) | [alive](https://open.spotify.com/album/22E1iZe1wyXbKn8W5zEiW2) | 4:22 | 2024-08-14 |  |
 | [Always with You](https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP) | [Aseul](https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo) | [Always with You](https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q) | 3:59 | 2024-04-05 |  |
 | [Amazing](https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Sail the Seven Seas](https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ) | 2:42 | 2024-04-05 | 2024-06-29 |
 | [Amerindio](https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Amerindio](https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv) | 3:00 | 2024-06-28 |  |
@@ -75,7 +75,7 @@
 | [Fact Check \- 2Spade Remix](https://open.spotify.com/track/2XqJVFoCikwIJqVx4YKRTN) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.29 : Fact Check Remixes](https://open.spotify.com/album/7BtKnsfFs2zXcpIty9mMqP) | 3:45 | 2024-04-05 |  |
 | [Fact Check \- 2Spade Remix](https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.29 : Fact Check Remixes](https://open.spotify.com/album/4RyzS0bkoVoL6KZHlLpfyx) | 3:45 | 2024-04-18 | 2024-06-29 |
 | [Falling In Love \(feat\. Natalie Major\)](https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Falling In Love \(feat\. Natalie Major\)](https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks) | 3:34 | 2024-06-28 |  |
-| [Feel It](https://open.spotify.com/track/3p3J8JhxzIoCmrLsIO3AnS) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [Feel It](https://open.spotify.com/album/0UglV84SnWeShd5dgtpJ4H) | 2:19 | 2024-06-28 |  |
+| [Feel It](https://open.spotify.com/track/3p3J8JhxzIoCmrLsIO3AnS) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [Feel It](https://open.spotify.com/album/0UglV84SnWeShd5dgtpJ4H) | 2:19 | 2024-06-28 | 2024-08-16 |
 | [For Granted](https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:41 | 2024-04-05 | 2024-06-29 |
 | [FOREVER 1 \- Aiobahn Remix](https://open.spotify.com/track/3zFK1dwL2qkrdkbPJkBHWm) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 4:34 | 2024-04-05 | 2024-06-29 |
 | [FOREVER 1 \- Mar Vista Remix](https://open.spotify.com/track/34Y5PQPsFdjTGspPKIFSom) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 3:17 | 2024-04-05 | 2024-06-29 |
@@ -193,6 +193,7 @@
 | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/track/08IsidLsr5hBVsj6hgY5jY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/album/5qti5IxeLXnhbiMi92R5GC) | 3:00 | 2024-06-07 | 2024-06-29 |
 | [WORK Pt.3 \- ATEEZ X Eden\-ary](https://open.spotify.com/track/1jA54BUrAjZmVW4iizq9LB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [WORK Pt.3 \- ATEEZ X Eden\-ary](https://open.spotify.com/album/7v7neu2S3o7LqnVxgxkzog) | 2:45 | 2024-06-13 | 2024-06-29 |
 | [Worries](https://open.spotify.com/track/2r8ZUEFWiviLOOBYIxzWt6) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY) | 7:48 | 2024-04-05 | 2024-06-29 |
+| [WOW](https://open.spotify.com/track/2tSQ6Y5ZQ3llad801vHf5R) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [WOW](https://open.spotify.com/album/7unPe6VwxSHfIJ1uLgp8NW) | 3:03 | 2024-08-14 |  |
 | [WOW \- LOOZBONE Remix](https://open.spotify.com/track/06NfGPl3kaMThvjVkTAKsx) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9), [LOOZBONE](https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx) | [WOW \- LOOZBONE Remix](https://open.spotify.com/album/7FyKRzrMcvyusu8r5u2LmZ) | 3:16 | 2024-08-10 |  |
 | [Young Again](https://open.spotify.com/track/0EQ599Ifl0DBLMcrTvv7Iu) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Young Again](https://open.spotify.com/album/04A2MlzNmWlnAVYCm9lR7f) | 2:53 | 2024-04-05 | 2024-06-08 |
 | [Your Face](https://open.spotify.com/track/4I0iEpmX812wvEbv2l0q96) | [Forest Music](https://open.spotify.com/artist/7JDHEXYj47HQeeH2ziOPt8) | [Your Face](https://open.spotify.com/album/5yM1envtfaw7hfcIj8gLjT) | 2:39 | 2024-08-10 | 2024-08-15 |

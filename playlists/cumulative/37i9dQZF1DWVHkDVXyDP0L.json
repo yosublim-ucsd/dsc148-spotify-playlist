@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Teen Jesus and the Jean Teasers",
+  "description": "New and local indie noise. Cover: Skegss",
   "name": "Local Noise",
   "tracks": [
     {
@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Dead-end Rodeo",
+        "url": "https://open.spotify.com/album/4q7uK6eP7CXcfH96FqBiVD"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Bloo",
+          "url": "https://open.spotify.com/artist/7KvGcDcUQV7YpyuQHaW5IO"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200132,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/5gq34LCZc9cFd8G9dozu1N"
+    },
+    {
+      "album": {
         "name": "ADELINE",
         "url": "https://open.spotify.com/album/2DPQAfsy6KRE7WS6NTge8L"
       },
@@ -114,6 +132,42 @@
       "duration_ms": 224849,
       "name": "Ahead Of Myself",
       "url": "https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD"
+    },
+    {
+      "album": {
+        "name": "all you ever wanted",
+        "url": "https://open.spotify.com/album/0x3ctIe3xyiAUYoJbUY1db"
+      },
+      "artists": [
+        {
+          "name": "DIVEBAR YOUTH",
+          "url": "https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "all you ever wanted",
+      "url": "https://open.spotify.com/track/3e5Naa5Me3ayj6zdalxgh4"
+    },
+    {
+      "album": {
+        "name": "Amnesia Everybody",
+        "url": "https://open.spotify.com/album/4A09TFec5DPoKu2rGlludP"
+      },
+      "artists": [
+        {
+          "name": "Chasing Ghosts",
+          "url": "https://open.spotify.com/artist/5MoQy2vfGU7mfbrwLeE7FZ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172657,
+      "name": "Amnesia Everybody",
+      "url": "https://open.spotify.com/track/4yD2i9U3gQCPXRnaHl6iV6"
     },
     {
       "album": {
@@ -172,6 +226,24 @@
       "duration_ms": 209685,
       "name": "Appetite",
       "url": "https://open.spotify.com/track/6YH37qtX9Xl9FSBzdjvrUf"
+    },
+    {
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/0N4IN0hPXGFtfsjlXqei4B"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179608,
+      "name": "Back 2 U",
+      "url": "https://open.spotify.com/track/3hA261S9ScDqG4SvNEYNqn"
     },
     {
       "album": {
@@ -384,7 +456,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 162600,
       "name": "California Sober",
       "url": "https://open.spotify.com/track/7s5TCAqfDLMmOUqwsOXdId"
@@ -582,7 +654,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 127384,
       "name": "COOL",
       "url": "https://open.spotify.com/track/0V83GbhnQUnomar0mbC9YH"
@@ -838,7 +910,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 234145,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/0OD0mqu43V0fNgqPKoSvHI"
@@ -892,7 +964,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 230177,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6NrNZVELovOVKiD9QReeis"
@@ -1126,7 +1198,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 230247,
       "name": "He's A Lad",
       "url": "https://open.spotify.com/track/5btBJ5bMhC5rj9hI5uG44I"
@@ -1295,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Howler",
+        "url": "https://open.spotify.com/album/1Mk59u6AVdHI9Vcp7CLr0i"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "Howler",
+      "url": "https://open.spotify.com/track/4kkD7aFUzXEElUdboa5SgJ"
+    },
+    {
+      "album": {
         "name": "Humming b/w MAXi",
         "url": "https://open.spotify.com/album/3LRY1tCquu3Tyd2VWxAJii"
       },
@@ -1450,7 +1540,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 223866,
       "name": "Ikea",
       "url": "https://open.spotify.com/track/6Vqp5GCkUwPGzwYJ7bChbg"
@@ -1714,7 +1804,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 140487,
       "name": "LIFE'S A BEACH",
       "url": "https://open.spotify.com/track/0QQsTOO7UVwVBW1nbQALC2"
@@ -1988,7 +2078,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 273021,
       "name": "New Day",
       "url": "https://open.spotify.com/track/4vtgGDaTTaOroje4hqnpG7"
@@ -2139,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
+    },
+    {
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1WWvkN4eBF4maBwJh3ELFj"
       },
@@ -2283,6 +2391,42 @@
     },
     {
       "album": {
+        "name": "pinky boy",
+        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285153,
+      "name": "pinky boy",
+      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
+    },
+    {
+      "album": {
+        "name": "Port Allan",
+        "url": "https://open.spotify.com/album/6QT6q5wk57T4mEud5tgEqL"
+      },
+      "artists": [
+        {
+          "name": "Semantics",
+          "url": "https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235138,
+      "name": "Port Allan",
+      "url": "https://open.spotify.com/track/1yFjgcnb3i78OhsDl1SCzN"
+    },
+    {
+      "album": {
         "name": "Ill Times",
         "url": "https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J"
       },
@@ -2302,6 +2446,24 @@
       "duration_ms": 190410,
       "name": "Powertrippn'",
       "url": "https://open.spotify.com/track/3q9hvVcew3qfHhFDoW9UKN"
+    },
+    {
+      "album": {
+        "name": "Pyromaniac",
+        "url": "https://open.spotify.com/album/7qVcvexLdcv1E632W9UWbD"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176383,
+      "name": "Pyromaniac",
+      "url": "https://open.spotify.com/track/4npqEiDQog5sFnAaJcd3BJ"
     },
     {
       "album": {
@@ -2424,7 +2586,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 199026,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/0bAVFTQjDZ1ZOKiqTS4LRq"
@@ -2550,7 +2712,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 154839,
       "name": "she's lying to me",
       "url": "https://open.spotify.com/track/7gHrHtCAOX9QAlYnJmW1gP"
@@ -2755,6 +2917,24 @@
     },
     {
       "album": {
+        "name": "Strategic Living",
+        "url": "https://open.spotify.com/album/001KfZOxEZMsbUQFTSDPj8"
+      },
+      "artists": [
+        {
+          "name": "media puzzle",
+          "url": "https://open.spotify.com/artist/1JFW3ACD123onrCbzNag5Z"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115338,
+      "name": "Strategic Living",
+      "url": "https://open.spotify.com/track/0unLpqclIM6yjzIWI5msEI"
+    },
+    {
+      "album": {
         "name": "SKEWBALL",
         "url": "https://open.spotify.com/album/5DAxv2TsvmfLkYuDx5pg86"
       },
@@ -2820,10 +3000,28 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 198775,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/59w3l9AtHg12xMOEvFr1MX"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/1WrOh0q75ij2JFxtOLyvEW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Uglys",
+          "url": "https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203095,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/77r6GN5cz80VHAh5S3F73m"
     },
     {
       "album": {
@@ -2892,7 +3090,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 255426,
       "name": "The Deluge",
       "url": "https://open.spotify.com/track/3x2pPg6d0aftxc955ko6fy"
@@ -2989,6 +3187,24 @@
     },
     {
       "album": {
+        "name": "Leatherman & the Mojave Green",
+        "url": "https://open.spotify.com/album/4yk7MTt8bfsZbJFJ7CI93I"
+      },
+      "artists": [
+        {
+          "name": "Troy Kingi",
+          "url": "https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/0ZN8kajcWw7pDNzTgsYMLB"
+    },
+    {
+      "album": {
         "name": "Through The Trees",
         "url": "https://open.spotify.com/album/2rP1TqqHpwQZE8WqFONuDF"
       },
@@ -3004,6 +3220,24 @@
       "duration_ms": 188492,
       "name": "Through The Trees",
       "url": "https://open.spotify.com/track/0bmuiRqdjPBtFmCIcb4uCR"
+    },
+    {
+      "album": {
+        "name": "Tied In A Knot",
+        "url": "https://open.spotify.com/album/3dYLGpioAkLEMAjWIfjXZz"
+      },
+      "artists": [
+        {
+          "name": "Polish Club",
+          "url": "https://open.spotify.com/artist/2tYm7UbTKfLXw7Jsp0xyzD"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258133,
+      "name": "Tied In A Knot",
+      "url": "https://open.spotify.com/track/1EWfN12IwVV93t8aaNZybQ"
     },
     {
       "album": {
@@ -3234,7 +3468,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 145197,
       "name": "Wreck & Ruin",
       "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"

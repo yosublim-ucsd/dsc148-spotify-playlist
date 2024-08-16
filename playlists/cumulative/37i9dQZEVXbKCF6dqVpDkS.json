@@ -5760,7 +5760,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 174937,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5dDTrE9ePpX0nGY1naajL0"
@@ -5782,7 +5782,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 174937,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6r3AQNLSSqiSJQtRctbMSC"
@@ -10878,7 +10878,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 208471,
       "name": "GIRLS WANNA HAVE FUN",
       "url": "https://open.spotify.com/track/2vjiaAgTaB32W1PNYYaFdZ"
@@ -19298,7 +19298,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
@@ -19320,7 +19320,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt"
@@ -19636,6 +19636,28 @@
       "duration_ms": 196795,
       "name": "Naar Het Licht",
       "url": "https://open.spotify.com/track/0o2NJQQmW2c1R6ZNpPdoan"
+    },
+    {
+      "album": {
+        "name": "Nardo RS",
+        "url": "https://open.spotify.com/album/0mdF7CR6FPfSxS0LZdoXDu"
+      },
+      "artists": [
+        {
+          "name": "DJEZJA",
+          "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
+        },
+        {
+          "name": "Rockywhereyoubeen",
+          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137570,
+      "name": "Nardo RS",
+      "url": "https://open.spotify.com/track/0nJz0YOgj4iXWayoewi6F8"
     },
     {
       "album": {
@@ -22986,7 +23008,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 156290,
       "name": "Queen Of My Castle",
       "url": "https://open.spotify.com/track/3GcdNX6fTmBUqXrZzKiFsD"
@@ -23008,7 +23030,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 156290,
       "name": "Queen Of My Castle",
       "url": "https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69"
@@ -28164,7 +28186,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -28186,7 +28208,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
@@ -28498,7 +28520,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
@@ -28534,7 +28556,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"

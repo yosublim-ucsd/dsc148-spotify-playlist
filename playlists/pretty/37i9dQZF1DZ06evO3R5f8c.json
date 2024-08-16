@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Coffee. Tutti i brani in un'unica playlist.",
-  "num_followers": 142820,
+  "description": "This is Black Coffee. The essential tracks, all in one playlist.",
+  "num_followers": 143031,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAABWf2zVWnh3EhUzZFfThARk",
+  "snapshot_id": "ZrvzgAAAAADjjO8tiQbosFunjNsFg0NE",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Eyes (feat. Shekhinah)",
-        "url": "https://open.spotify.com/album/0HnnOQnucn7fZMlZuQKhNf"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Shekhinah",
-          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
-        }
-      ],
-      "duration_ms": 250175,
-      "name": "Your Eyes (feat. Shekhinah)",
-      "url": "https://open.spotify.com/track/2vaVwhktMuNE2jcM2j1RxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Dance Again",
         "url": "https://open.spotify.com/album/2ASR0MV1bBqDKVaS3jDxGD"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 281193,
       "name": "We Dance Again",
       "url": "https://open.spotify.com/track/6HvCOJvbEzVTmEFmv79pTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Eyes (feat. Shekhinah)",
+        "url": "https://open.spotify.com/album/0HnnOQnucn7fZMlZuQKhNf"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "duration_ms": 250175,
+      "name": "Your Eyes (feat. Shekhinah)",
+      "url": "https://open.spotify.com/track/2vaVwhktMuNE2jcM2j1RxJ"
     },
     {
       "added_at": null,
@@ -483,22 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home Brewed",
-        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+        "name": "Platinumb Heart Beating",
+        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
       },
       "artists": [
         {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
         },
         {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         }
       ],
-      "duration_ms": 376480,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/5WRoeCefMDsxn9zrsqUqhK"
+      "duration_ms": 350000,
+      "name": "Uthando Lwam",
+      "url": "https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI"
     },
     {
       "added_at": null,
@@ -519,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinumb Heart Beating",
-        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
       },
       "artists": [
         {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
         }
       ],
-      "duration_ms": 350000,
-      "name": "Uthando Lwam",
-      "url": "https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI"
+      "duration_ms": 376480,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/5WRoeCefMDsxn9zrsqUqhK"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
       "duration_ms": 473401,
       "name": "Ready For The World - Original Mix",
       "url": "https://open.spotify.com/track/2C5nA4hmzjzWPp8QW82pdo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home Brewed",
-        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Zano",
-          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
-        }
-      ],
-      "duration_ms": 402613,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7chKchP8IVPi34sqbss0AH"
     },
     {
       "added_at": null,
@@ -619,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Zano",
+          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
+        }
+      ],
+      "duration_ms": 402613,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7chKchP8IVPi34sqbss0AH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pieces Of Me",
         "url": "https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 490540,
       "name": "Love On Fire (feat. Lungi Naidoo & Ribatone)",
       "url": "https://open.spotify.com/track/2Yy3BzdOdn9uqMpeVePtL1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home Brewed",
-        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 371640,
-      "name": "Gardens Of Eden",
-      "url": "https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 371640,
+      "name": "Gardens Of Eden",
+      "url": "https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pieces Of Me",
         "url": "https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR"
       },
@@ -723,26 +723,6 @@
       "duration_ms": 442962,
       "name": "Extra Time On You (feat. Portia Monique)",
       "url": "https://open.spotify.com/track/61ZwhDqqQCMoK29InoEdKD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home Brewed",
-        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Black Moses",
-          "url": "https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE"
-        }
-      ],
-      "duration_ms": 387106,
-      "name": "The Chameleon",
-      "url": "https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX"
     },
     {
       "added_at": null,
@@ -783,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Black Moses",
+          "url": "https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE"
+        }
+      ],
+      "duration_ms": 387106,
+      "name": "The Chameleon",
+      "url": "https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pieces Of Me",
         "url": "https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR"
       },
@@ -799,26 +799,6 @@
       "duration_ms": 425733,
       "name": "Stuck In Your Love (feat. Azola)",
       "url": "https://open.spotify.com/track/6REbbKoksIc127eDJxz8GC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home Brewed",
-        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        }
-      ],
-      "duration_ms": 387106,
-      "name": "Juju",
-      "url": "https://open.spotify.com/track/6nXK3ZzUeTXva5sOS7sqE1"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
       "duration_ms": 494594,
       "name": "I Have Faith (feat. Mondli Ngcobo)",
       "url": "https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "duration_ms": 387106,
+      "name": "Juju",
+      "url": "https://open.spotify.com/track/6nXK3ZzUeTXva5sOS7sqE1"
     },
     {
       "added_at": null,

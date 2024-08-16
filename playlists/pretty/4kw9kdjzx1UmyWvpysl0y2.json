@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125843,
+  "num_followers": 125838,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS1bxSobsYPEpXE1meUrEvTaGC4LLK",
+  "snapshot_id": "AAAS1nhu8qqu4iZNedtLEitrmN6kyNBG",
   "tracks": [
+    {
+      "added_at": "2024-08-15 14:29:52",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6WgfCROBO4a8fovO886AZ0"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        }
+      ],
+      "duration_ms": 189743,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY"
+    },
     {
       "added_at": "2024-08-14 14:09:26",
       "album": {

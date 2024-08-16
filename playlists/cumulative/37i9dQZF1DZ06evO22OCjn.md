@@ -2,7 +2,7 @@
 
 ### [This Is Burna Boy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22OCjn)
 
-> This is Burna Boy\. Tutti i brani in un'unica playlist.
+> This is Burna Boy\. The essential tracks, all in one playlist.
 
 131 songs - 7 hr 10 min
 

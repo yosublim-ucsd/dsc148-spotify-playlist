@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,997 likes - 30 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,017 likes - 30 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 26 | [Unfollow](https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY) | [Massive Scar Era](https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D) | [Color Blind](https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy) | 3:42 |
 | 27 | [The Gambit](https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH) | [Divine Disorder](https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz) | [Garden of Dystopia](https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9) | 8:04 |
 | 28 | [The Cost Of Everything And The Value Of Nothing](https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:08 |
-| 29 | [Riot Against Riot](https://open.spotify.com/track/3Fz8IcdXklVz1Kr9SHFcFe) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Riot Against Riot](https://open.spotify.com/album/3U2yfv1nXbqz2WqmzFDro6) | 5:23 |
-| 30 | [Leap of Faith](https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH) | [Luay Rifai](https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g) | [Timeless Truths](https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA) | 5:42 |
+| 29 | [Leap of Faith](https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH) | [Luay Rifai](https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g) | [Timeless Truths](https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA) | 5:42 |
+| 30 | [Riot Against Riot](https://open.spotify.com/track/3Fz8IcdXklVz1Kr9SHFcFe) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Riot Against Riot](https://open.spotify.com/album/3U2yfv1nXbqz2WqmzFDro6) | 5:23 |
 
 Snapshot ID: `ZIxVtQAAAAD648JYNRgvhS52BNsuhIZV`

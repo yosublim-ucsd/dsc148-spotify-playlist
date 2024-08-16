@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,787 songs - 1 day 12 hr 52 min
+1,788 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Comforted Arr\. For Cello](https://open.spotify.com/track/0DW08jiApegOvpvkK5pvpo) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Comforted Arr\. For Cello](https://open.spotify.com/album/7ADQVaUOlYB3nkXEN6IJci) | 1:00 | 2023-10-21 |  |
 | [Comforting Lights](https://open.spotify.com/track/19qqaA15zXllWhxSIE8if6) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:03 | 2022-01-27 |  |
 | [Coming To Life](https://open.spotify.com/track/3Yz90SD2sV5kZG74GS8Yo6) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:17 | 2022-01-12 |  |
+| [Connected](https://open.spotify.com/track/5gEkuJw8f6lNXOkbs72R9Y) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Connected](https://open.spotify.com/album/0n9jQMmpINdDUNPM2wLOFt) | 1:00 | 2024-08-15 |  |
 | [Connection](https://open.spotify.com/track/2RP93uPtPEcOTLLltaVvJS) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Connection](https://open.spotify.com/album/6wxCyPlB5QcvBXLrkkq3EC) | 1:00 | 2024-07-30 |  |
 | [Connections](https://open.spotify.com/track/2mXj5DpuJJcoJ1DdJtIAo1) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Cello Moods](https://open.spotify.com/album/66eiIKbumufa9makcayfER) | 1:16 | 2022-01-12 |  |
 | [Constant Reminders](https://open.spotify.com/track/1DotoqFrrnUXTPsBqDjcli) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:41 | 2022-01-12 |  |

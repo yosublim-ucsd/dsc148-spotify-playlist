@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C?si=6pB76\-\-cQgW9yydRzvv4XQ">Elle E</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ">Run Into Waves</a>
 
-496 songs - 1 day 5 hr 36 min
+498 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Allan](https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND) | [the klubs](https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF) | [Allan](https://open.spotify.com/album/19kis2Tm2560bvWxFGBIoW) | 3:18 | 2022-10-06 | 2023-02-17 |
 | [Alleen \- Remastered 2024](https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Ewigheid \(Remastered 2024\)](https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa) | 4:00 | 2024-07-18 |  |
 | [Almal Baklei](https://open.spotify.com/track/6tk21RK5t7pAJtoZL2txVB) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Almal Baklei](https://open.spotify.com/album/6AAkDXooH5CSCH0fXOttzD) | 2:25 | 2023-05-25 | 2023-12-08 |
+| [Alone At Last](https://open.spotify.com/track/0RAg0cxBDe3QyVs3omhabP) | [Run Into Waves](https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ) | [Alone At Last](https://open.spotify.com/album/5Ouc8dsexIm7HTxk9jtgzc) | 3:36 | 2024-08-15 |  |
 | [Altyd Daar](https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Altyd Daar](https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab) | 4:15 | 2023-09-15 |  |
 | [Always Remember](https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Always Remember](https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9) | 3:49 | 2021-12-09 | 2022-11-18 |
 | [Anima](https://open.spotify.com/track/4Qyg5bCO8wA2K5KB3iZf7D) | [Sueños](https://open.spotify.com/artist/3AOLvJjBisGaLoFRWsVOPL) | [Anima](https://open.spotify.com/album/1d5hvQ7OYkZmpVfMLf9Vqj) | 5:22 | 2023-03-02 | 2023-05-19 |
@@ -294,7 +295,7 @@
 | [Monkey Mind](https://open.spotify.com/track/05PILc8wNotPdvMeukiElo) | [The Vast Oddity](https://open.spotify.com/artist/0s9M3dghDINHO5fCiS3SsO) | [Monkey Mind](https://open.spotify.com/album/5sk24XesYQp0EHH4HzBa0J) | 2:56 | 2021-11-11 | 2022-03-18 |
 | [MONSTER](https://open.spotify.com/track/114TXFPWIi2iISkXtGjLCN) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [MONSTER](https://open.spotify.com/album/3IWzdjrJFlVaom1WYTzngo) | 2:38 | 2022-09-15 | 2022-11-18 |
 | [Mud](https://open.spotify.com/track/5byP45prtT0kxbXDWM4S0n) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Mud](https://open.spotify.com/album/4Ne7tTIbyzladfzbwO2y8x) | 3:07 | 2023-04-14 | 2023-06-09 |
-| [Murmurs](https://open.spotify.com/track/4Bje2kBjtCQBKGpZAN8onp) | [Pierre Stemmett](https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS) | [Murmurs](https://open.spotify.com/album/1ZCeM4FJo7Gqh1crcLsuT1) | 4:10 | 2024-07-04 |  |
+| [Murmurs](https://open.spotify.com/track/4Bje2kBjtCQBKGpZAN8onp) | [Pierre Stemmett](https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS) | [Murmurs](https://open.spotify.com/album/1ZCeM4FJo7Gqh1crcLsuT1) | 4:10 | 2024-07-04 | 2024-08-16 |
 | [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 | 2024-01-04 |  |
 | [My Favourite Place](https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [My Favourite Place](https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11) | 3:29 | 2021-12-02 | 2022-11-18 |
 | [My Hart Is 'n Trein](https://open.spotify.com/track/0UBxkP3u0lvRJRgpL7ew7N) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [My Hart Is 'n Trein](https://open.spotify.com/album/3rVVd7WGdBVSKmQco86Y2J) | 3:44 | 2024-03-08 | 2024-05-07 |
@@ -343,9 +344,10 @@
 | [Pink Codeine](https://open.spotify.com/track/2nSfDIYnU3euVZN81xLjJp) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Pink Codeine](https://open.spotify.com/album/1mT061XTU1JRimRQap8hQe) | 3:29 | 2023-06-01 | 2023-09-01 |
 | [PITY PARTY](https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [PITY PARTY](https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8) | 2:27 | 2022-09-22 | 2023-01-27 |
 | [Pizza Party](https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Pizza Party](https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd) | 3:20 | 2023-09-15 | 2023-11-10 |
+| [PLUS MINUS](https://open.spotify.com/track/7vGJj71Z0RRVOzpdnpYjip) | [Hendriek Bleik](https://open.spotify.com/artist/4k0tcb0DEpNlQzOD8mKtCT) | [PLUS MINUS](https://open.spotify.com/album/74wqMfp38DGFfVBAJPJYEx) | 2:43 | 2024-08-15 |  |
 | [Prediker](https://open.spotify.com/track/4awOkMUUOHxxjU9uJBmd1G) | [RAAF](https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi) | [Prediker](https://open.spotify.com/album/6DLr0e6UlImONhBrEK9Dlp) | 4:52 | 2023-12-08 | 2024-01-05 |
 | [Prisoner of Love](https://open.spotify.com/track/1awNiZPBxrCpEwgJpEPUGI) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Prisoner of Love](https://open.spotify.com/album/3LH67r1FHNlrDCr0adjRBA) | 3:28 | 2023-05-18 | 2023-07-07 |
-| [Probleem Kind](https://open.spotify.com/track/3kKrPNNzkND3hG2kaa2aUj) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Probleem Kind](https://open.spotify.com/album/3Vc6ivfrjobE5Smg88bBZF) | 3:11 | 2024-08-09 |  |
+| [Probleem Kind](https://open.spotify.com/track/3kKrPNNzkND3hG2kaa2aUj) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Probleem Kind](https://open.spotify.com/album/3Vc6ivfrjobE5Smg88bBZF) | 3:11 | 2024-08-09 | 2024-08-16 |
 | [Prodigal Son](https://open.spotify.com/track/3CJRVQvgxk4vA5ezsADTRf) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Prodigal Son](https://open.spotify.com/album/7rNLF1btPIbjQ0OKHArllT) | 3:31 | 2021-11-11 | 2022-08-05 |
 | [Psycho Killer \- Single Version](https://open.spotify.com/track/52pS1roeMc4TUNkBDiSUYW) | [The Medicine Dolls](https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese) | [Psycho Killer](https://open.spotify.com/album/7cTCOfxcE0S8iHCGCCrdXG) | 3:59 | 2021-05-06 | 2022-09-03 |
 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 | 2024-01-04 |  |

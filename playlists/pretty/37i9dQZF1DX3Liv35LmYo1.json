@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 106267,
+  "num_followers": 106259,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 329784,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "You Need Somebody",
         "url": "https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 200830,
       "name": "You Need Somebody",
       "url": "https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 329784,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
     },
     {
       "added_at": "2023-08-31 14:00:00",

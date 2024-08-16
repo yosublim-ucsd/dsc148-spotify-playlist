@@ -1,13 +1,213 @@
 {
-  "description": "The cream of today's Country crop. Cover: Thomas Rhett",
-  "num_followers": 402119,
+  "description": "The cream of today's Country crop. Cover: Post Malone",
+  "num_followers": 402221,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrTPYAAAAAB49RQK8LWOhDDonGXUS9JA",
+  "snapshot_id": "Zr4J4AAAAAD2ee+enXse6az9kv+m0Y7B",
   "tracks": [
+    {
+      "added_at": "2024-08-15 14:00:00",
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 204411,
+      "name": "California Sober (Feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
+    },
+    {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g"
+    },
+    {
+      "added_at": "2024-08-08 14:00:00",
+      "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "added_at": "2024-07-22 14:00:00",
+      "album": {
+        "name": "Lies Lies Lies",
+        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 198068,
+      "name": "Lies Lies Lies",
+      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+    },
+    {
+      "added_at": "2024-07-25 14:00:00",
+      "album": {
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+    },
+    {
+      "added_at": "2024-08-15 14:00:00",
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Finer Things (Feat. Hank Williams Jr.)",
+      "url": "https://open.spotify.com/track/30hbE8nm0VBt1W5F0U1Dr1"
+    },
+    {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "hungover",
+        "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "better be tough",
+      "url": "https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi"
+    },
+    {
+      "added_at": "2024-08-15 14:00:00",
+      "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/05T7YUft6JbwZzwZRfMwYy"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 165712,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/0KzMtN3OM0HKHeilGVB6N6"
+    },
+    {
+      "added_at": "2024-08-15 14:00:00",
+      "album": {
+        "name": "This Country Music Thing",
+        "url": "https://open.spotify.com/album/6hb6sxdZjuHReraMCfDcrw"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Two Steppin' On The Moon",
+      "url": "https://open.spotify.com/track/2DlZPa20qJYVsq1W6VtrCx"
+    },
+    {
+      "added_at": "2024-07-22 14:00:00",
+      "album": {
+        "name": "More Than A Prayer",
+        "url": "https://open.spotify.com/album/3REJ10imAC6BnIihUhwTyO"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 164089,
+      "name": "More Than A Prayer",
+      "url": "https://open.spotify.com/track/30hhkjL3FB3Y2BoWsn1oGo"
+    },
+    {
+      "added_at": "2024-08-15 14:00:00",
+      "album": {
+        "name": "The Outside",
+        "url": "https://open.spotify.com/album/4XCB0jpyFMEqwKFK1mWopJ"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "duration_ms": 225344,
+      "name": "Roll On",
+      "url": "https://open.spotify.com/track/1spm426YWlmX9gXqYyj0Lz"
+    },
+    {
+      "added_at": "2024-07-22 14:00:00",
+      "album": {
+        "name": "4\u00d74\u00d7U",
+        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "4\u00d74\u00d7U",
+      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
+    },
     {
       "added_at": "2024-07-25 14:00:00",
       "album": {
@@ -29,26 +229,30 @@
       "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
     },
     {
-      "added_at": "2024-07-22 14:00:00",
+      "added_at": "2024-08-01 14:00:00",
       "album": {
-        "name": "Lies Lies Lies",
-        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 198068,
-      "name": "Lies Lies Lies",
-      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
-      "added_at": "2024-08-08 14:00:00",
+      "added_at": "2024-07-22 14:00:00",
       "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/1Cco6Y9V8nfarVPMRUalX2"
       },
       "artists": [
         {
@@ -56,31 +260,167 @@
           "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+      "duration_ms": 218115,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/32b81nMpV15pUrknaKjzPl"
     },
     {
-      "added_at": "2024-07-22 14:00:00",
+      "added_at": "2024-08-15 14:00:00",
       "album": {
-        "name": "More Than A Prayer",
-        "url": "https://open.spotify.com/album/3REJ10imAC6BnIihUhwTyO"
+        "name": "The Women Who Raised Me",
+        "url": "https://open.spotify.com/album/54ugQecBEpbHSCrjBodBtn"
       },
       "artists": [
         {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+          "name": "Taylor Moss",
+          "url": "https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj"
         }
       ],
-      "duration_ms": 164089,
-      "name": "More Than A Prayer",
-      "url": "https://open.spotify.com/track/30hhkjL3FB3Y2BoWsn1oGo"
+      "duration_ms": 192777,
+      "name": "The Women Who Raised Me",
+      "url": "https://open.spotify.com/track/5KQsuSeWwKZCpQwL151Ue7"
     },
     {
       "added_at": "2024-08-01 14:00:00",
       "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp"
+        "name": "HEART LIKE A HOMETOWN",
+        "url": "https://open.spotify.com/album/4TPBKw24pLkjWbRJE0f5zf"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "HEART LIKE A HOMETOWN",
+      "url": "https://open.spotify.com/track/4GZPRyWoyXUuq7GuyfWvFR"
+    },
+    {
+      "added_at": "2024-07-22 14:00:00",
+      "album": {
+        "name": "you look like you love me (feat. Riley Green)",
+        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "you look like you love me (feat. Riley Green)",
+      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
+    },
+    {
+      "added_at": "2024-07-22 14:00:00",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "added_at": "2024-08-15 14:00:00",
+      "album": {
+        "name": "The Coastal Plain",
+        "url": "https://open.spotify.com/album/4CVDGvkyx7NuuG04nqEBkJ"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/5UNMwWjbKzj1hn4jSkk9tP"
+    },
+    {
+      "added_at": "2024-08-15 14:00:00",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 200649,
+      "name": "Walked on Water (feat. Kesha)",
+      "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
+    },
+    {
+      "added_at": "2024-07-25 14:00:00",
+      "album": {
+        "name": "Rather Be",
+        "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 171142,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
+    },
+    {
+      "added_at": "2024-08-15 14:00:00",
+      "album": {
+        "name": "Whiskey Neat",
+        "url": "https://open.spotify.com/album/48Xlj8N3V8XinJUSFMLdMs"
+      },
+      "artists": [
+        {
+          "name": "Alex Mather",
+          "url": "https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw"
+        }
+      ],
+      "duration_ms": 181558,
+      "name": "Whiskey Neat",
+      "url": "https://open.spotify.com/track/6Q3zPssAN0Ve5UOn2L2BC5"
+    },
+    {
+      "added_at": "2024-08-15 14:00:00",
+      "album": {
+        "name": "Haw River",
+        "url": "https://open.spotify.com/album/2H3qUq15wImGuNDW5v44xG"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Haw River",
+      "url": "https://open.spotify.com/track/1ZADjIAxSLLPoas3zqRFEc"
+    },
+    {
+      "added_at": "2024-07-22 14:00:00",
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
       "artists": [
         {
@@ -88,25 +428,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 204933,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g"
-    },
-    {
-      "added_at": "2024-08-01 14:00:00",
-      "album": {
-        "name": "hungover",
-        "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "better be tough",
-      "url": "https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi"
+      "duration_ms": 152133,
+      "name": "Dead End Road",
+      "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -129,52 +453,20 @@
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
     },
     {
-      "added_at": "2024-07-25 14:00:00",
-      "album": {
-        "name": "I Ain't Sayin'",
-        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174060,
-      "name": "I Ain't Sayin'",
-      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
-    },
-    {
       "added_at": "2024-07-22 14:00:00",
       "album": {
-        "name": "4\u00d74\u00d7U",
-        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 239453,
-      "name": "4\u00d74\u00d7U",
-      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
-    },
-    {
-      "added_at": "2024-08-01 14:00:00",
-      "album": {
-        "name": "HEART LIKE A HOMETOWN",
-        "url": "https://open.spotify.com/album/4TPBKw24pLkjWbRJE0f5zf"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "HEART LIKE A HOMETOWN",
-      "url": "https://open.spotify.com/track/4GZPRyWoyXUuq7GuyfWvFR"
+      "duration_ms": 170629,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
     },
     {
       "added_at": "2024-08-08 14:00:00",
@@ -195,38 +487,6 @@
       "duration_ms": 186520,
       "name": "Broken Heart Thing (feat. Dustin Lynch)",
       "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Twisters: The Album",
-        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Dead End Road",
-      "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/1Cco6Y9V8nfarVPMRUalX2"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 218115,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/32b81nMpV15pUrknaKjzPl"
     },
     {
       "added_at": "2024-08-08 14:00:00",
@@ -281,26 +541,6 @@
       "url": "https://open.spotify.com/track/5hmPSqHHEE6mHZofGHj6Pb"
     },
     {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "you look like you love me (feat. Riley Green)",
-        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "you look like you love me (feat. Riley Green)",
-      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
-    },
-    {
       "added_at": "2024-07-25 14:00:00",
       "album": {
         "name": "Could've Been Me",
@@ -331,42 +571,6 @@
       "duration_ms": 246000,
       "name": "Stronger Than A Storm (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/4ECXedCLzhRLZf37ldypkW"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
-    },
-    {
-      "added_at": "2024-08-01 14:00:00",
-      "album": {
-        "name": "Lonely Road (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 189356,
-      "name": "Lonely Road (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -419,38 +623,6 @@
       "duration_ms": 199706,
       "name": "Little By Little",
       "url": "https://open.spotify.com/track/77Zn8B0KVtj5yXHbw0gwq6"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 170629,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
-    },
-    {
-      "added_at": "2024-07-25 14:00:00",
-      "album": {
-        "name": "Rather Be",
-        "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 171142,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
     },
     {
       "added_at": "2024-08-01 14:00:00",
@@ -1399,22 +1571,6 @@
     {
       "added_at": "2024-07-22 14:00:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
-      },
-      "artists": [
-        {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
-        }
-      ],
-      "duration_ms": 228144,
-      "name": "23",
-      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
         "name": "Think I\u2019m In Love With You",
         "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
       },
@@ -1447,54 +1603,6 @@
     {
       "added_at": "2024-07-22 14:00:00",
       "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 183919,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Thank God She's A Country Girl",
-        "url": "https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa"
-      },
-      "artists": [
-        {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
-        }
-      ],
-      "duration_ms": 128031,
-      "name": "Thank God She's a Country Girl",
-      "url": "https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Songs in the Gravel",
-        "url": "https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 203077,
-      "name": "If I Had a Lover",
-      "url": "https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
         "name": "Nights Like This",
         "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
       },
@@ -1507,22 +1615,6 @@
       "duration_ms": 192700,
       "name": "Take It To The Highway",
       "url": "https://open.spotify.com/track/62ydigyjJjnnDglH1F31ov"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Cowboy Cry + Me & This Bottle",
-        "url": "https://open.spotify.com/album/4U2eiBxJifBFuArPwPWpA0"
-      },
-      "artists": [
-        {
-          "name": "Jay Webb",
-          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
-        }
-      ],
-      "duration_ms": 131186,
-      "name": "Cowboy Cry",
-      "url": "https://open.spotify.com/track/7bDf4FJfRCTXPnOqxWu5xG"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -1555,22 +1647,6 @@
       "duration_ms": 236381,
       "name": "I Should Have Known It",
       "url": "https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Turn",
-        "url": "https://open.spotify.com/album/6wvwfOXlSxL3pbQwJmea10"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/75gZhzqWDaqJgy19YERY5g"
     },
     {
       "added_at": "2024-07-22 14:00:00",

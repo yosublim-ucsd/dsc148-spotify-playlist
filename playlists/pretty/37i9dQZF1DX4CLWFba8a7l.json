@@ -1,13 +1,45 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 121332,
+  "num_followers": 121334,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVhKAAAAAALhk+6gSHcA5hadKXB6b+q",
+  "snapshot_id": "Zr6W1AAAAADveI5/qJNwcg2Y7Y7ajSiL",
   "tracks": [
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 166973,
+      "name": "Claw Foot",
+      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
+    },
+    {
+      "added_at": "2024-08-16 00:01:24",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/5kJrtkLnvsAZq70QU5PyPd"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 225204,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/0oV6f0YDeVTGwdOeba8h89"
+    },
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
@@ -25,20 +57,24 @@
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     },
     {
-      "added_at": "2024-05-31 05:10:11",
+      "added_at": "2024-08-15 14:00:00",
       "album": {
-        "name": "Linger / Heading For The Door (Sirius XM Session)",
-        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+        "name": "One More Chance (feat. Savage)",
+        "url": "https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/7JEv33Vt95yaH93J8FWjz2"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Linger - SiriusXM Session",
-      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
+      "duration_ms": 196740,
+      "name": "One More Chance (feat. Savage)",
+      "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -91,6 +127,22 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
+    },
+    {
+      "added_at": "2024-05-31 05:10:11",
+      "album": {
+        "name": "Linger / Heading For The Door (Sirius XM Session)",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -171,38 +223,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 189966,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
-    },
-    {
-      "added_at": "2024-07-18 14:00:00",
-      "album": {
-        "name": "Nack Nostalgia",
-        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 187433,
-      "name": "Nack Nostalgia",
-      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Eat Your Man (with Nelly Furtado)",
         "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
       },
@@ -219,6 +239,22 @@
       "duration_ms": 197164,
       "name": "Eat Your Man (with Nelly Furtado)",
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 189966,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -263,6 +299,38 @@
       "duration_ms": 189112,
       "name": "We Could Be Love",
       "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"
+    },
+    {
+      "added_at": "2024-07-18 14:00:00",
+      "album": {
+        "name": "Nack Nostalgia",
+        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Nack Nostalgia",
+      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+    },
+    {
+      "added_at": "2024-07-25 14:00:00",
+      "album": {
+        "name": "Ask That God",
+        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 256381,
+      "name": "The Feeling You Get",
+      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -317,22 +385,6 @@
       "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
     },
     {
-      "added_at": "2024-07-25 14:00:00",
-      "album": {
-        "name": "Ask That God",
-        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 256381,
-      "name": "The Feeling You Get",
-      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
-    },
-    {
       "added_at": "2024-05-31 03:34:39",
       "album": {
         "name": "Atmosphere",
@@ -351,38 +403,6 @@
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Claw Foot",
-      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 192647,
-      "name": "SORRY",
-      "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -467,18 +487,18 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
       "artists": [
         {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Benny",
-      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
+      "duration_ms": 192647,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -501,6 +521,22 @@
       "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
     },
     {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Benny",
+      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
+    },
+    {
       "added_at": "2024-08-08 14:00:00",
       "album": {
         "name": "Field of Vision",
@@ -517,22 +553,6 @@
       "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "NATURAL HABITAT",
-        "url": "https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ"
-      },
-      "artists": [
-        {
-          "name": "ONEFOUR",
-          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
-        }
-      ],
-      "duration_ms": 173475,
-      "name": "NATURAL HABITAT",
-      "url": "https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb"
-    },
-    {
       "added_at": "2024-08-01 14:00:00",
       "album": {
         "name": "FRENEMIES",
@@ -547,6 +567,22 @@
       "duration_ms": 190264,
       "name": "FRENEMIES",
       "url": "https://open.spotify.com/track/6I7W8UTxONZaAYfeUb0AzE"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "NATURAL HABITAT",
+        "url": "https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "duration_ms": 173475,
+      "name": "NATURAL HABITAT",
+      "url": "https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -705,38 +741,6 @@
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
     },
     {
-      "added_at": "2024-07-25 14:00:00",
-      "album": {
-        "name": "Enough Of The Sweet Talk",
-        "url": "https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 240137,
-      "name": "Enough Of The Sweet Talk",
-      "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
-    },
-    {
-      "added_at": "2024-06-20 14:00:00",
-      "album": {
-        "name": "What You've Lost",
-        "url": "https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8"
-      },
-      "artists": [
-        {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
-        }
-      ],
-      "duration_ms": 171351,
-      "name": "What You've Lost",
-      "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
-    },
-    {
       "added_at": "2024-05-31 03:34:39",
       "album": {
         "name": "Daydreaming",
@@ -755,6 +759,38 @@
       "duration_ms": 183377,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
+    },
+    {
+      "added_at": "2024-06-20 14:00:00",
+      "album": {
+        "name": "What You've Lost",
+        "url": "https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "duration_ms": 171351,
+      "name": "What You've Lost",
+      "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
+    },
+    {
+      "added_at": "2024-07-25 14:00:00",
+      "album": {
+        "name": "Enough Of The Sweet Talk",
+        "url": "https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 240137,
+      "name": "Enough Of The Sweet Talk",
+      "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -811,22 +847,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Don't Know",
-        "url": "https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 132941,
-      "name": "Don't Know",
-      "url": "https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -843,6 +863,22 @@
       "duration_ms": 162807,
       "name": "Eating Heartache (feat. spill tab)",
       "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Don't Know",
+        "url": "https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 132941,
+      "name": "Don't Know",
+      "url": "https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -877,22 +913,6 @@
       "url": "https://open.spotify.com/track/4hoEpxUAvw2tn8Octl8812"
     },
     {
-      "added_at": "2024-08-01 14:00:00",
-      "album": {
-        "name": "I Wish I Never Loved You",
-        "url": "https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA"
-      },
-      "artists": [
-        {
-          "name": "Le Shiv",
-          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "I Wish I Never Loved You",
-      "url": "https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S"
-    },
-    {
       "added_at": "2024-06-13 14:00:00",
       "album": {
         "name": "Rebuild Repeat",
@@ -907,6 +927,22 @@
       "duration_ms": 145197,
       "name": "Wreck & Ruin",
       "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"
+    },
+    {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "I Wish I Never Loved You",
+        "url": "https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA"
+      },
+      "artists": [
+        {
+          "name": "Le Shiv",
+          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "I Wish I Never Loved You",
+      "url": "https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -939,22 +975,6 @@
       "duration_ms": 153726,
       "name": "Snack",
       "url": "https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Like A Girl Does",
-        "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "Like A Girl Does",
-      "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1023,6 +1043,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
+        "name": "Like A Girl Does",
+        "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "Like A Girl Does",
+      "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
       },
@@ -1053,6 +1089,22 @@
       "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
     },
     {
+      "added_at": "2024-08-08 14:00:00",
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "duration_ms": 203339,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
+    },
+    {
       "added_at": "2024-05-31 03:34:39",
       "album": {
         "name": "What If",
@@ -1071,22 +1123,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "I Get High",
-        "url": "https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 260148,
-      "name": "I Get High",
-      "url": "https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Padam Padam",
         "url": "https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5"
       },
@@ -1099,6 +1135,22 @@
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "I Get High",
+        "url": "https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 260148,
+      "name": "I Get High",
+      "url": "https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1181,58 +1233,6 @@
       "url": "https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO"
     },
     {
-      "added_at": "2024-08-08 14:00:00",
-      "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
-      },
-      "artists": [
-        {
-          "name": "total tommy",
-          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
-        }
-      ],
-      "duration_ms": 203339,
-      "name": "REAL",
-      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
-    },
-    {
-      "added_at": "2024-07-11 14:00:00",
-      "album": {
-        "name": "Crystal Ball",
-        "url": "https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 173644,
-      "name": "Crystal Ball",
-      "url": "https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Miss You Still",
-        "url": "https://open.spotify.com/album/2Ji8E0Cm2RzoJWRNoKTJVt"
-      },
-      "artists": [
-        {
-          "name": "Allday",
-          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
-        },
-        {
-          "name": "Cub Sport",
-          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
-        }
-      ],
-      "duration_ms": 150778,
-      "name": "Miss You Still",
-      "url": "https://open.spotify.com/track/0SarTtshZyZMdLB6KdClab"
-    },
-    {
       "added_at": "2024-07-18 14:00:00",
       "album": {
         "name": "Ill Times",
@@ -1253,20 +1253,20 @@
       "url": "https://open.spotify.com/track/3q9hvVcew3qfHhFDoW9UKN"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
+      "added_at": "2024-07-11 14:00:00",
       "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn"
+        "name": "Crystal Ball",
+        "url": "https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
         }
       ],
-      "duration_ms": 199682,
-      "name": "Down To The Sea",
-      "url": "https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2"
+      "duration_ms": 173644,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ"
     },
     {
       "added_at": "2024-07-25 14:00:00",

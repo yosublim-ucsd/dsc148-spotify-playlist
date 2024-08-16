@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,872 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,874 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 21 | [Tierra Mala](https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 4:48 |
 | 22 | [Todo el Mundo Necesita un Beso](https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:11 |
 | 23 | [En Barranquilla Me Quedo](https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Inmortal \(Vol\. 2\)](https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX) | 5:11 |
-| 24 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/5UgfYKsfRexKoIMVbVvlBo) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Navidades Con la Sonora Dinamita: 16 Grandes Éxitos Navideños](https://open.spotify.com/album/7Munv9pO6tUGK0XiCpkhSE) | 4:04 |
-| 25 | [Se Le Moja la Canoa \(La Canoa\)](https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat) | [Éxitos los Embajadores Vallenatos](https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn) | 4:18 |
+| 24 | [Se Le Moja la Canoa \(La Canoa\)](https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat) | [Éxitos los Embajadores Vallenatos](https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn) | 4:18 |
+| 25 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/5UgfYKsfRexKoIMVbVvlBo) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Navidades Con la Sonora Dinamita: 16 Grandes Éxitos Navideños](https://open.spotify.com/album/7Munv9pO6tUGK0XiCpkhSE) | 4:04 |
 | 26 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
 | 27 | [Junto A Tu Corazon](https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx) | [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Y Como Se Mata El Gusano?](https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK) | 3:16 |
 | 28 | [Cariñito](https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Listos para Bailar](https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM) | 3:46 |

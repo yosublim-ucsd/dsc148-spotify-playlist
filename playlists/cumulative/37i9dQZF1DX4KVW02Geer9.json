@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Ain't No End",
+        "url": "https://open.spotify.com/album/44kHdjDgsLdNNy24g6TbDL"
+      },
+      "artists": [
+        {
+          "name": "Ryosuke Kojima",
+          "url": "https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Ain't No End",
+      "url": "https://open.spotify.com/track/31v0BnVgzjF2mYulVUGgwc"
+    },
+    {
+      "album": {
         "name": "Ajala",
         "url": "https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 302454,
       "name": "Ceasefire - feat. Ranking Joe",
       "url": "https://open.spotify.com/track/1I4HHKwaVbcfbJt6noxJpp"
@@ -460,6 +478,24 @@
       "duration_ms": 433750,
       "name": "Continuum 1",
       "url": "https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I"
+    },
+    {
+      "album": {
+        "name": "Cruisin' (0816)",
+        "url": "https://open.spotify.com/album/5gmZZJ3lpFQSoQ6QrGgkTh"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Gahler",
+          "url": "https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310741,
+      "name": "Cruisin' (0816)",
+      "url": "https://open.spotify.com/track/7H8yfP3eYpQTvdoRzXcXNt"
     },
     {
       "album": {
@@ -1198,7 +1234,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 188761,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
@@ -1238,7 +1274,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 205922,
       "name": "Lena",
       "url": "https://open.spotify.com/track/2ma6FYKV0rIDhOhiquNdB6"
@@ -1392,7 +1428,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 158145,
       "name": "Meet Me Here",
       "url": "https://open.spotify.com/track/46JkP9tJzFL9bwXFQ85GD8"
@@ -1579,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/35t0TpLbsQWFJQJXlwOyXV"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266035,
+      "name": "obsession",
+      "url": "https://open.spotify.com/track/2sbXCzEskFPka5D80ZKzbG"
+    },
+    {
+      "album": {
         "name": "Oh My God",
         "url": "https://open.spotify.com/album/2CqlzqET3jM9r5y7nUgIdn"
       },
@@ -1623,6 +1677,32 @@
     },
     {
       "album": {
+        "name": "M\u00e1ximos Eventos",
+        "url": "https://open.spotify.com/album/5CotGgTJk1UpN1CafRvrlC"
+      },
+      "artists": [
+        {
+          "name": "Frederico Heliodoro",
+          "url": "https://open.spotify.com/artist/7768aDn2jkoYwF7iHccGlE"
+        },
+        {
+          "name": "John Escreet",
+          "url": "https://open.spotify.com/artist/4Ije0Q0RlICc17Q7TDZof9"
+        },
+        {
+          "name": "Jeremy Gustin",
+          "url": "https://open.spotify.com/artist/0x3OlNZcrhjvU1nmANdMe5"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294883,
+      "name": "Our Love Affairs",
+      "url": "https://open.spotify.com/track/6QLTZJAc9hnVNBUuBbbyYP"
+    },
+    {
+      "album": {
         "name": "Passione",
         "url": "https://open.spotify.com/album/1Lwc4869UaEXBv52G5yuUF"
       },
@@ -1652,7 +1732,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 284106,
       "name": "Pawnshop",
       "url": "https://open.spotify.com/track/1K0AbEX6O5TXe4mCBfnRx2"
@@ -1674,6 +1754,28 @@
       "duration_ms": 266425,
       "name": "permanent triangle",
       "url": "https://open.spotify.com/track/6IFMMSJ6JG6m06bavyHn1E"
+    },
+    {
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/1v9AVHL7UZEDyMz1PKGAbT"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159818,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ"
     },
     {
       "album": {

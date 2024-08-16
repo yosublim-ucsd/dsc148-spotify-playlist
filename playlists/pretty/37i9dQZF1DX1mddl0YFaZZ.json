@@ -1,6 +1,6 @@
 {
   "description": "Que comience la fiesta.",
-  "num_followers": 8390,
+  "num_followers": 8427,
   "original_name": "Bailando Merengue",
   "owner": {
     "name": "Spotify",
@@ -91,7 +91,7 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "name": "Asondeguerra Tour - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
         "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
       "artists": [
@@ -415,7 +415,7 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "name": "Asondeguerra Tour - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
         "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
       "artists": [
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "La Llave De Mi Corazon",
-        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Sandy & Papo",
+          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
         }
       ],
-      "duration_ms": 205693,
-      "name": "Como Yo",
-      "url": "https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH"
+      "duration_ms": 242293,
+      "name": "El Alacr\u00e1n",
+      "url": "https://open.spotify.com/track/0rI6R1Bf2q6e2SwSc2KdhD"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb"
+        "name": "La Llave De Mi Corazon",
+        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
       },
       "artists": [
         {
-          "name": "Sandy & Papo",
-          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 242293,
-      "name": "El Alacr\u00e1n",
-      "url": "https://open.spotify.com/track/0rI6R1Bf2q6e2SwSc2KdhD"
+      "duration_ms": 205693,
+      "name": "Como Yo",
+      "url": "https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "12 Golden Hits",
-        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 298106,
-      "name": "Cuarto de Hotel",
-      "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "La Vaca",
         "url": "https://open.spotify.com/album/362VvoXxnrHRg6FLhwRdHC"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 246840,
       "name": "Tra Tra",
       "url": "https://open.spotify.com/track/7m8n9cq3ooZiZbLSv7MFx5"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "12 Golden Hits",
+        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "Cuarto de Hotel",
+      "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "No Pares de Sudar",
-        "url": "https://open.spotify.com/album/0vShaFR12XCSYASyUJqySh"
-      },
-      "artists": [
-        {
-          "name": "Calle Ciega",
-          "url": "https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "S\u00f3lo Te Quiero Amar",
-      "url": "https://open.spotify.com/track/1VNlNrgyCrPTJkAyYVIxvO"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Literal",
-        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
+        "name": "No Pares de Sudar",
+        "url": "https://open.spotify.com/album/0vShaFR12XCSYASyUJqySh"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Calle Ciega",
+          "url": "https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M"
         }
       ],
-      "duration_ms": 180266,
-      "name": "L\u00e1mpara Pa' Mis Pies",
-      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
+      "duration_ms": 251689,
+      "name": "S\u00f3lo Te Quiero Amar",
+      "url": "https://open.spotify.com/track/1VNlNrgyCrPTJkAyYVIxvO"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -807,6 +791,22 @@
       "duration_ms": 294120,
       "name": "Me Miras y Te Miro",
       "url": "https://open.spotify.com/track/1mEzt9vn6ROvC2xCYaAdBQ"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Literal",
+        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "L\u00e1mpara Pa' Mis Pies",
+      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
     },
     {
       "added_at": "2024-06-21 00:01:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste nye knive i dansk musik\ud83d\udd2a Dos Santos p\u00e5 coveret",
+  "description": "de skarpeste nye knive i dansk musik\ud83d\udd2a LILLI p\u00e5 coveret \ud83e\udd8b",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 188460,
       "name": "Br\u00e6nder Stadig",
       "url": "https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf"
+    },
+    {
+      "album": {
+        "name": "Butterfly Street",
+        "url": "https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0"
+      },
+      "artists": [
+        {
+          "name": "LILLI",
+          "url": "https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166895,
+      "name": "Butterfly Street",
+      "url": "https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ"
     },
     {
       "album": {
@@ -598,10 +616,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 280244,
       "name": "Genstart",
       "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
+    },
+    {
+      "album": {
+        "name": "Get down / Loving you",
+        "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145246,
+      "name": "Get down",
+      "url": "https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB"
     },
     {
       "album": {
@@ -818,7 +854,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 168750,
       "name": "Kemisk",
       "url": "https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt"

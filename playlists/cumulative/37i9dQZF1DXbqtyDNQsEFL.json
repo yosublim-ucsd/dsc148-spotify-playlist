@@ -768,7 +768,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 208588,
       "name": "Blessing Now",
       "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
@@ -2958,6 +2958,24 @@
       "duration_ms": 571040,
       "name": "I Love You Jesus",
       "url": "https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd"
+    },
+    {
+      "album": {
+        "name": "I no go ever tire",
+        "url": "https://open.spotify.com/album/4JM5RKxLPeB11RMxvowla1"
+      },
+      "artists": [
+        {
+          "name": "Uwa",
+          "url": "https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179700,
+      "name": "I no go ever tire",
+      "url": "https://open.spotify.com/track/31E9nzyPs56BLoOcZt4CQm"
     },
     {
       "album": {

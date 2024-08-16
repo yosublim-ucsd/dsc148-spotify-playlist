@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/7lgY3yZUd6GwjQJ01MFeVr.md) - cumulative - [plain](/playlists/plain/7lgY3yZUd6GwjQJ01MFeVr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7lgY3yZUd6GwjQJ01MFeVr)
 
-### [Top Country Hits \- Summer 2024 ](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
+### [Top Country Hits \- Festival Season 2024](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
 
 > Today's top country music! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, Bailey Zimmerman, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more.
 

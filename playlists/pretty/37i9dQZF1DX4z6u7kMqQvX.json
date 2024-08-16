@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106516,
+  "num_followers": 106518,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 197506,
       "name": "Cuando Estamos los Dos",
       "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 207809,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Todo vuelve al punto de partida",
         "url": "https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 161080,
       "name": "balada para el fin del mundo",
       "url": "https://open.spotify.com/track/3EANbFz0CCNWUhFfpYNhsZ"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 207809,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -775,18 +775,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Parque Acu\u00e1tico",
-        "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
+        "name": "Pediste flores (con Loli Molina)",
+        "url": "https://open.spotify.com/album/5UtVQ6f3Xh2ZWU9t6nngu5"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+        },
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
         }
       ],
-      "duration_ms": 172646,
-      "name": "Parque Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
+      "duration_ms": 193643,
+      "name": "Pediste flores (con Loli Molina)",
+      "url": "https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -811,26 +815,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Pediste flores (con Loli Molina)",
-        "url": "https://open.spotify.com/album/5UtVQ6f3Xh2ZWU9t6nngu5"
-      },
-      "artists": [
-        {
-          "name": "Zenon Pereyra",
-          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
-        },
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        }
-      ],
-      "duration_ms": 193643,
-      "name": "Pediste flores (con Loli Molina)",
-      "url": "https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Martes 13",
         "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 250790,
       "name": "Te Dej\u00e9 una Carta",
       "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Parque Acu\u00e1tico",
+        "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 172646,
+      "name": "Parque Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "(re)definiciones",
-        "url": "https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "otr(a v)ez",
-      "url": "https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Los Abrazos son Instantes Decisivos Vol. II",
         "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 224492,
       "name": "Polvo de estrellas",
       "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "(re)definiciones",
+        "url": "https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "otr(a v)ez",
+      "url": "https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Sin m\u00ed :(",
         "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 227274,
       "name": "Sin m\u00ed :(",
       "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "X AMOR",
+        "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 242755,
+      "name": "X AMOR",
+      "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Por los Dos",
         "url": "https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns"
       },
@@ -1695,18 +1711,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "X AMOR",
-        "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
+        "name": "3D",
+        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
       },
       "artists": [
         {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
         }
       ],
-      "duration_ms": 242755,
-      "name": "X AMOR",
-      "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
+      "duration_ms": 135942,
+      "name": "C\u00f3mo olvidar",
+      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1723,22 +1739,6 @@
       "duration_ms": 228504,
       "name": "Tripulantes",
       "url": "https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        }
-      ],
-      "duration_ms": 135942,
-      "name": "C\u00f3mo olvidar",
-      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
     },
     {
       "added_at": "2024-07-19 03:00:00",

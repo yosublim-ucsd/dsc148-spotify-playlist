@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 67566,
+  "num_followers": 67573,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAAC/w7HUSu5v1tMZyHYkUqFu",
+  "snapshot_id": "ZrvzgAAAAAB1Bvi3o8hC/Tl+vAgJZ4mM",
   "tracks": [
     {
       "added_at": null,
@@ -1139,22 +1139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quien Contra Mi 2",
-        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
       "artists": [
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Susan Soltero",
+          "url": "https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Subconsciente",
-      "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
+      "duration_ms": 43008,
+      "name": "INTERLUDE / REPORTE DEL TIEMPO",
+      "url": "https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y"
     },
     {
       "added_at": null,
@@ -1175,22 +1175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+        "name": "Quien Contra Mi 2",
+        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
       },
       "artists": [
         {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Susan Soltero",
-          "url": "https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx"
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 43008,
-      "name": "INTERLUDE / REPORTE DEL TIEMPO",
-      "url": "https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y"
+      "duration_ms": 226666,
+      "name": "Subconsciente",
+      "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
     },
     {
       "added_at": null,

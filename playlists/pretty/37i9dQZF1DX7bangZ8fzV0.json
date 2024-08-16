@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=RksCaB0mTb6mPLUkKUDVVQ\">Demi Lee Moore</a> ",
-  "num_followers": 107629,
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=HHQ8j639Sl-mMRm02k90oA\">Eloff</a> ",
+  "num_followers": 107711,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrU/4AAAAACkyUcWpui8ABDUHoJNmocV",
+  "snapshot_id": "Zr56YAAAAADOo4E31/oL5MTd29GO/zFm",
   "tracks": [
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Lek My Lippe Af",
+        "url": "https://open.spotify.com/album/4U2E0tpYsGCAMYn9dy7lPn"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 193447,
+      "name": "Lek My Lippe Af",
+      "url": "https://open.spotify.com/track/7AxtjVZVNwPt9VG3D0N1jK"
+    },
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
@@ -437,6 +453,22 @@
       "url": "https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf"
     },
     {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Proe Soos Nog",
+        "url": "https://open.spotify.com/album/3QFQnR9V6HOhs0tiMJVvOS"
+      },
+      "artists": [
+        {
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Hasie Hop",
+      "url": "https://open.spotify.com/track/7mJEgMNaCnwUx4Y4jcP2rd"
+    },
+    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Soen Soos Wat Jy Dans",
@@ -847,22 +879,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 184026,
-      "name": "ATKV",
-      "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Spontaan",
         "url": "https://open.spotify.com/album/03ZN1Le5d94yg39ijW9cBO"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 205237,
       "name": "Vlam In Die Wind",
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Kalahari Ferrari",
-        "url": "https://open.spotify.com/album/1LJsNPxIxUHF7ESMu6ttXP"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        }
-      ],
-      "duration_ms": 202348,
-      "name": "Kalahari Ferrari",
-      "url": "https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je"
     },
     {
       "added_at": "2024-02-15 22:00:00",

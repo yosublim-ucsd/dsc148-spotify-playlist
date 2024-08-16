@@ -2,7 +2,7 @@
 
 ### [This Is Twenty One Pilots](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2k3tf2)
 
-> This is Twenty One Pilots\. The essential tracks, all in one playlist.
+> This Is Twenty One Pilots\. Los temas esenciales, todos en una lista.
 
 56 songs - 3 hr 30 min
 

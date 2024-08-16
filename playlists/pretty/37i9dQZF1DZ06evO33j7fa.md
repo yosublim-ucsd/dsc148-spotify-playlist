@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 ### [This Is Nick Drake](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33j7fa)
 
-> This Is Nick Drake\. Los temas esenciales, todos en una lista.
+> This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,191 likes - 32 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,210 likes - 32 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 11 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
 | 12 | [All My Trials](https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y), [Gabrielle Drake](https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:55 |
 | 13 | [From The Morning](https://open.spotify.com/track/6meH4I9A4WZtD3z8hnQKqr) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:30 |
-| 14 | [Introduction](https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 1:32 |
+| 14 | [Fly](https://open.spotify.com/track/1Sxvsy65zDmyQBvak4Hc8Q) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 2:56 |
 | 15 | [' Cello Song](https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:44 |
 | 16 | [Hanging On A Star](https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:23 |
 | 17 | [Which Will](https://open.spotify.com/track/4Cg0paoTgxlo2LC85HKaab) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:56 |
-| 18 | [Fly](https://open.spotify.com/track/1Sxvsy65zDmyQBvak4Hc8Q) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 2:56 |
+| 18 | [Introduction](https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 1:32 |
 | 19 | [Time Has Told Me](https://open.spotify.com/track/20FLGZPgMHXlU0VpQ0HpxN) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:24 |
 | 20 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 0:31 |
 | 21 | [Things Behind The Sun](https://open.spotify.com/track/2s89qv9maW8RMCoaxtvNtn) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 3:54 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 31 | [Sketch 1](https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:00 |
 | 32 | [Black Eyed Dog](https://open.spotify.com/track/1ORNDo58BSH2uP0nNXJTT1) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:27 |
 
-Snapshot ID: `ZrqiAAAAAAD1KuvJiMoL8QrnZ6DesTEB`
+Snapshot ID: `ZrvzgAAAAABMoN4RiNf7Vmu/UuEFYih6`

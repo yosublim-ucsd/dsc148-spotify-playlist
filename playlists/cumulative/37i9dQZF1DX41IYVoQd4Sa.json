@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 183331,
       "name": "Goodbye Mary",
       "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 192653,
       "name": "I Never Land",
       "url": "https://open.spotify.com/track/4AyZu1oGMkctesnFZIPgL1"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 213831,
       "name": "If Whiskey Was A Friend",
       "url": "https://open.spotify.com/track/3DFfLQlJlPDeGrNbktAmy9"
@@ -252,6 +252,32 @@
       "duration_ms": 181000,
       "name": "In Love Again",
       "url": "https://open.spotify.com/track/47jC4oWp7aLnmO5SMkhfU3"
+    },
+    {
+      "album": {
+        "name": "Long Nails",
+        "url": "https://open.spotify.com/album/70GbvgyQT8n60pYLGFTCzG"
+      },
+      "artists": [
+        {
+          "name": "Gal De Paz",
+          "url": "https://open.spotify.com/artist/77eDggSxjTCYZseu4fey1x"
+        },
+        {
+          "name": "Jenny Penkin",
+          "url": "https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke"
+        },
+        {
+          "name": "SHAKED MILLER",
+          "url": "https://open.spotify.com/artist/7Ax3QEFi6NXeuiAB025OaQ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217784,
+      "name": "Long Nails",
+      "url": "https://open.spotify.com/track/34odfBsReyXTUAG9imPzvf"
     },
     {
       "album": {
@@ -466,6 +492,24 @@
       "duration_ms": 239562,
       "name": "Wishing Girl - Lola Marsh Cover",
       "url": "https://open.spotify.com/track/7tiXgnhKPsHDxYvfe85paQ"
+    },
+    {
+      "album": {
+        "name": "Write About You",
+        "url": "https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM"
+      },
+      "artists": [
+        {
+          "name": "RGB",
+          "url": "https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174208,
+      "name": "Write About You",
+      "url": "https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk"
     },
     {
       "album": {
@@ -787,6 +831,40 @@
     },
     {
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/0l8ynz9r3gU65k9JYOoXHE"
+      },
+      "artists": [
+        {
+          "name": "The Backyard",
+          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+        },
+        {
+          "name": "\u05d9\u05e2\u05e0\u05e7\u05dc'\u05d4 \u05e8\u05d5\u05d8\u05d1\u05dc\u05d9\u05d8",
+          "url": "https://open.spotify.com/artist/4sN0HNOVlxGnhPqgSIkcIC"
+        },
+        {
+          "name": "Tomer Yosef",
+          "url": "https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd"
+        },
+        {
+          "name": "Itamar Ziegler",
+          "url": "https://open.spotify.com/artist/124b64p4uSTDhwVSgxSGWV"
+        },
+        {
+          "name": "Gedy Ronen",
+          "url": "https://open.spotify.com/artist/0KSJMQoxfV5nRqoCqb8535"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u05d5\u05d0\u05d5\u05dc\u05d9 \u05d4\u05e1\u05d5\u05e3 \u05db\u05d1\u05e8 \u05d4\u05d9\u05d4",
+      "url": "https://open.spotify.com/track/6lUclGjzAqTH0KJ74HYbxh"
+    },
+    {
+      "album": {
         "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
         "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
       },
@@ -1002,6 +1080,24 @@
       "duration_ms": 223540,
       "name": "\u05db\u05dc \u05d4\u05d7\u05d9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6V4HfYE5RAObktButIRj3Q"
+    },
+    {
+      "album": {
+        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+      },
+      "artists": [
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204423,
+      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
     },
     {
       "album": {
@@ -1528,7 +1624,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 197500,
       "name": "\u05e2\u05de\u05d5\u05e7 \u05d1\u05d0\u05d3\u05de\u05d4",
       "url": "https://open.spotify.com/track/311NxddQ4FbZxuhrnxBflc"

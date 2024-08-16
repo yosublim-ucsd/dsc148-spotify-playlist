@@ -2,7 +2,7 @@
 
 ### [Scuola Indie](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> La nuova scena indie italiana! Cover: Prim
+> La nuova scena indie italiana! Cover: Anna Castiglia
 
 115 songs - 5 hr 32 min
 

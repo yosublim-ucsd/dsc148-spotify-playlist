@@ -1,13 +1,29 @@
 {
-  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=UtLWLELyQKG_jVaQ4zSHfg\">Billie Eilish</a> & <a href=\"https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5?si=_p8Q0F2QSWuKunrlTkMg3Q\">Charli xcx</a> ",
+  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N?si=Y7vkfzc_TXGYBMU0nIrH7w\">Will Linley</a> ",
   "num_followers": 2018,
   "original_name": "POP JOY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrXdQgAAAAB81/uGmWaCaVkMa7M7PWDT",
+  "snapshot_id": "Zr56YAAAAADh7qtV0RwcSmh9S2QQwBhi",
   "tracks": [
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Just Because I Called You",
+        "url": "https://open.spotify.com/album/56TTQbHBeUhFscE5wJbE9p"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Just Because I Called You",
+      "url": "https://open.spotify.com/track/2cJD1X7Kx1qw4ZzgKOahbp"
+    },
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
@@ -183,26 +199,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "HOLDING ON",
-        "url": "https://open.spotify.com/album/7nxh0AO1cB5tvqtm6XzcXb"
-      },
-      "artists": [
-        {
-          "name": "Tyler Page",
-          "url": "https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl"
-        },
-        {
-          "name": "Kurt April",
-          "url": "https://open.spotify.com/artist/6hboMI8XlDYKsSjXa2d6PP"
-        }
-      ],
-      "duration_ms": 167589,
-      "name": "HOLDING ON",
-      "url": "https://open.spotify.com/track/6wDQ5MOKhL3ICkWXS0czmG"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Lonely? (Come Along)",
         "url": "https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA"
       },
@@ -249,6 +245,22 @@
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Shhh",
+        "url": "https://open.spotify.com/album/0cCsW6WclcYR91SlpTWnaf"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        }
+      ],
+      "duration_ms": 143586,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/7ptNON5rnPOv1uFODNtDgP"
+    },
+    {
       "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "MILLION DOLLAR BABY",
@@ -279,6 +291,22 @@
       "duration_ms": 120000,
       "name": "Bestfriend",
       "url": "https://open.spotify.com/track/1uosp1IiH0HiPg3eBzcT9v"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -315,86 +343,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Move Your Way",
-        "url": "https://open.spotify.com/album/5WUcLxloNiu6RMDXygZVv9"
-      },
-      "artists": [
-        {
-          "name": "Droomsindroom",
-          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
-        }
-      ],
-      "duration_ms": 203906,
-      "name": "Move Your Way",
-      "url": "https://open.spotify.com/track/081nFsTcFxZTeArbLlukX8"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2"
-      },
-      "artists": [
-        {
-          "name": "Craig Lucas",
-          "url": "https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Back to me",
-        "url": "https://open.spotify.com/album/6d5wQNK753jofsNtP7ywOM"
-      },
-      "artists": [
-        {
-          "name": "Oliver Michael",
-          "url": "https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z"
-        }
-      ],
-      "duration_ms": 133828,
-      "name": "Back to me",
-      "url": "https://open.spotify.com/track/1yKzhjC2yTXFczSBVx1Ed6"
-    },
-    {
-      "added_at": "2024-08-09 06:20:50",
-      "album": {
-        "name": "Little Boy Ego",
-        "url": "https://open.spotify.com/album/59DSne0evBlEnBEh3ekxwQ"
-      },
-      "artists": [
-        {
-          "name": "Anica Kiana",
-          "url": "https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0"
-        }
-      ],
-      "duration_ms": 140752,
-      "name": "Little Boy Ego",
-      "url": "https://open.spotify.com/track/3ObCyTvRHOuj3YTopNOEGW"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "If Anything's Left",
         "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
       },
@@ -407,6 +355,38 @@
       "duration_ms": 174915,
       "name": "If Anything's Left",
       "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Postman",
+        "url": "https://open.spotify.com/album/3I1eI0jAjk0yARnFxFv9fn"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "duration_ms": 192098,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/4ZF0783seUnzAi0lzG5Cez"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Move Your Way",
+        "url": "https://open.spotify.com/album/5WUcLxloNiu6RMDXygZVv9"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "Move Your Way",
+      "url": "https://open.spotify.com/track/081nFsTcFxZTeArbLlukX8"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -425,36 +405,68 @@
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "COMMUNION",
-        "url": "https://open.spotify.com/album/3hbvNmZmxQbqVCQo2jaJ1H"
+        "name": "Back to me",
+        "url": "https://open.spotify.com/album/6d5wQNK753jofsNtP7ywOM"
       },
       "artists": [
         {
-          "name": "cooogi",
-          "url": "https://open.spotify.com/artist/4zEjmKFibpJouP3yVumP3d"
+          "name": "Oliver Michael",
+          "url": "https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z"
         }
       ],
-      "duration_ms": 80410,
-      "name": "COMMUNION",
-      "url": "https://open.spotify.com/track/6MjkMyEG79nsgBFCfZCUmC"
+      "duration_ms": 133828,
+      "name": "Back to me",
+      "url": "https://open.spotify.com/track/1yKzhjC2yTXFczSBVx1Ed6"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/7zh18JD5fyKQgP9Lhg566E"
+      },
+      "artists": [
+        {
+          "name": "Sarah Leigh",
+          "url": "https://open.spotify.com/artist/6AG4GBfdIqR4XRGz7LteeJ"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/42fMohrkvO2T9xEj5TQTTY"
     },
     {
       "added_at": "2024-08-09 06:20:50",
       "album": {
-        "name": "Connected",
-        "url": "https://open.spotify.com/album/5qUET0VOV6QFplvQZ9wbKe"
+        "name": "Little Boy Ego",
+        "url": "https://open.spotify.com/album/59DSne0evBlEnBEh3ekxwQ"
       },
       "artists": [
         {
-          "name": "KYLE ZION",
-          "url": "https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv"
+          "name": "Anica Kiana",
+          "url": "https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0"
         }
       ],
-      "duration_ms": 212559,
-      "name": "Connected",
-      "url": "https://open.spotify.com/track/2XFG1Qwv5IHqWNG2NucpSg"
+      "duration_ms": 140752,
+      "name": "Little Boy Ego",
+      "url": "https://open.spotify.com/track/3ObCyTvRHOuj3YTopNOEGW"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "smile!",
+        "url": "https://open.spotify.com/album/2by1UAXBBav2CnDB0L7dQt"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Way",
+          "url": "https://open.spotify.com/artist/1ASXcFgpcTJE6gzK3lXpC1"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "smile!",
+      "url": "https://open.spotify.com/track/4Kj6k4UL9ZONI4N3kVOueV"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -505,20 +517,20 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-06-27 23:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/3Gs9W1xPFA4c83QUnppYKw"
+        "name": "Fall Asleep",
+        "url": "https://open.spotify.com/album/5RxmvLXckds8tQARMaQtXS"
       },
       "artists": [
         {
-          "name": "ZUBIN",
-          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+          "name": "Tristan Cole Boltman",
+          "url": "https://open.spotify.com/artist/1gzoSdXYXUh5v1j8qB9QOv"
         }
       ],
-      "duration_ms": 157834,
-      "name": "Growing Up",
-      "url": "https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz"
+      "duration_ms": 157500,
+      "name": "Fall Asleep",
+      "url": "https://open.spotify.com/track/4NHaWaro8WSRoYJVpU7joq"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -621,38 +633,6 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "How is Summer Over?",
-        "url": "https://open.spotify.com/album/7L1LfkPke0zvF5gRRJAzB1"
-      },
-      "artists": [
-        {
-          "name": "Nasrene",
-          "url": "https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB"
-        }
-      ],
-      "duration_ms": 179396,
-      "name": "How is Summer Over?",
-      "url": "https://open.spotify.com/track/52SjgHZpjJtAxy867ZT3NK"
-    },
-    {
-      "added_at": "2024-08-09 06:20:50",
-      "album": {
-        "name": "Dancing Alone",
-        "url": "https://open.spotify.com/album/2yKzcsmcXuiarCQCIls9Cw"
-      },
-      "artists": [
-        {
-          "name": "Tannah",
-          "url": "https://open.spotify.com/artist/270Y3Rs9z9a0Ut9xBwpzC8"
-        }
-      ],
-      "duration_ms": 179445,
-      "name": "Dancing Alone",
-      "url": "https://open.spotify.com/track/6jI4jwiI8SYW5wc8U6VD4u"
-    },
-    {
       "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Stargazing",
@@ -715,6 +695,22 @@
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
+    },
+    {
+      "added_at": "2024-08-09 06:20:50",
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/5qUET0VOV6QFplvQZ9wbKe"
+      },
+      "artists": [
+        {
+          "name": "KYLE ZION",
+          "url": "https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv"
+        }
+      ],
+      "duration_ms": 212559,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/2XFG1Qwv5IHqWNG2NucpSg"
     },
     {
       "added_at": "2024-07-11 22:00:00",

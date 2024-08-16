@@ -1347,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "La Fundaci\u00f3n",
+        "url": "https://open.spotify.com/album/2D6zAs92V0BImoH66xkznU"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3",
+          "url": "https://open.spotify.com/artist/3si8Eu6UFP2Gi0NNtUND38"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269644,
+      "name": "La Moto del Benja",
+      "url": "https://open.spotify.com/track/1GxsPPqwGdhvLJhqI1Vr2P"
+    },
+    {
+      "album": {
         "name": "Lev\u00e1ntate y Anda",
         "url": "https://open.spotify.com/album/49OWyv7bujYuq4ipISG2pW"
       },
@@ -2072,7 +2090,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 177955,
       "name": "Re\u00edrme Con Vos",
       "url": "https://open.spotify.com/track/6EUTGVABkd7ybTeaA7WStS"

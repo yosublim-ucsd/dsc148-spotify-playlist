@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Trazendo a Arca",
-  "num_followers": 139642,
+  "num_followers": 139660,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -27,7 +27,7 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
-        "name": "Ningu\u00e9m Pode Parar (Ao Vivo)",
+        "name": "Ningu\u00e9m Pode Parar - Ao Vivo",
         "url": "https://open.spotify.com/album/74ecO8nFOGDmRiXXjnUYFn"
       },
       "artists": [
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
-        "name": "Deus Me Livre",
-        "url": "https://open.spotify.com/album/4Jrber98XBRx0un047U9Wv"
-      },
-      "artists": [
-        {
-          "name": "Igor Pinheiro de Lima",
-          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Deus Me Livre",
-      "url": "https://open.spotify.com/track/3xahBuYxkf8xDKOghKDri6"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
         "name": "Descanso",
         "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 403932,
       "name": "Descanso",
       "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
+        "name": "Deus Me Livre",
+        "url": "https://open.spotify.com/album/4Jrber98XBRx0un047U9Wv"
+      },
+      "artists": [
+        {
+          "name": "Igor Pinheiro de Lima",
+          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Deus Me Livre",
+      "url": "https://open.spotify.com/track/3xahBuYxkf8xDKOghKDri6"
     },
     {
       "added_at": "2024-08-12 14:05:38",
@@ -283,6 +283,26 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
+        "name": "Tudo Fica Bem",
+        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 304240,
+      "name": "Tudo Fica Bem",
+      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
         "name": "John",
         "url": "https://open.spotify.com/album/5Kkg9ZUfUlO7nTyHmrrMuD"
       },
@@ -347,42 +367,6 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
-        "name": "Eu T\u00f4 no Culto - Ao Vivo",
-        "url": "https://open.spotify.com/album/5wX58MxHM3hqNi3iGyFkbO"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 317826,
-      "name": "Eu T\u00f4 no Culto - Ao Vivo",
-      "url": "https://open.spotify.com/track/0JEdfnPZka9zL7GRWAzqvK"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
-        "name": "Tudo Fica Bem",
-        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Tudo Fica Bem",
-      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
         "name": "Resist\u00eancia",
         "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 261500,
       "name": "Resist\u00eancia",
       "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
+        "name": "Eu T\u00f4 no Culto - Ao Vivo",
+        "url": "https://open.spotify.com/album/5wX58MxHM3hqNi3iGyFkbO"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 317826,
+      "name": "Eu T\u00f4 no Culto - Ao Vivo",
+      "url": "https://open.spotify.com/track/0JEdfnPZka9zL7GRWAzqvK"
     },
     {
       "added_at": "2024-08-12 14:05:38",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
+        "name": "MAUR\u00d8 - F\u00d8RMA (Ao Vivo Hard Rock Cafe)",
+        "url": "https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 397750,
+      "name": "H\u03a3R\u039eGE",
+      "url": "https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
         "name": "Autor da Vida",
         "url": "https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
         "name": "Dia De Milagres",
         "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
       },
@@ -519,18 +519,54 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
-        "name": "MAUR\u00d8 - F\u00d8RMA (Ao Vivo Hard Rock Cafe)",
-        "url": "https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe"
+        "name": "O Meu Lugar",
+        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
       },
       "artists": [
         {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 397750,
-      "name": "H\u03a3R\u039eGE",
-      "url": "https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2"
+      "duration_ms": 245912,
+      "name": "O Meu Lugar",
+      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
+        "name": "ELE \u00c9 EXALTADO",
+        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 298342,
+      "name": "ELE \u00c9 EXALTADO",
+      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
     },
     {
       "added_at": "2024-08-12 14:05:38",
@@ -555,26 +591,6 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
-        "name": "O Meu Lugar",
-        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 245912,
-      "name": "O Meu Lugar",
-      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
         "name": "Novo Som (Legado)",
         "url": "https://open.spotify.com/album/70s9Abr9QOsXPlXu9cx0og"
       },
@@ -587,58 +603,6 @@
       "duration_ms": 241714,
       "name": "Acredita (Legado)",
       "url": "https://open.spotify.com/track/7uqo88bv78vsNOmSwEpgLP"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
-        "name": "ELE \u00c9 EXALTADO",
-        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 298342,
-      "name": "ELE \u00c9 EXALTADO",
-      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
-        "name": "Tele Visione of Reality",
-        "url": "https://open.spotify.com/album/2Ex7NLDr23eR5XLRZ6RoQA"
-      },
-      "artists": [
-        {
-          "name": "Allos",
-          "url": "https://open.spotify.com/artist/22oyZI0CrBWBe7eHVd9LP1"
-        },
-        {
-          "name": "Sonast\u00e9rio",
-          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
-        }
-      ],
-      "duration_ms": 295401,
-      "name": "Tele Visione of Reality",
-      "url": "https://open.spotify.com/track/32rRKhFT3AyOAZiuWjmoch"
     },
     {
       "added_at": "2024-08-12 14:05:38",
@@ -659,6 +623,42 @@
       "duration_ms": 207087,
       "name": "A Est\u00e1tua",
       "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
+        "name": "Tele Visione of Reality",
+        "url": "https://open.spotify.com/album/2Ex7NLDr23eR5XLRZ6RoQA"
+      },
+      "artists": [
+        {
+          "name": "Allos",
+          "url": "https://open.spotify.com/artist/22oyZI0CrBWBe7eHVd9LP1"
+        },
+        {
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+        }
+      ],
+      "duration_ms": 295401,
+      "name": "Tele Visione of Reality",
+      "url": "https://open.spotify.com/track/32rRKhFT3AyOAZiuWjmoch"
     },
     {
       "added_at": "2024-08-12 14:05:38",
@@ -691,6 +691,26 @@
       "duration_ms": 251707,
       "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
       "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
+        "name": "NAVES IMPERIAIS",
+        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Walter Lopes",
+          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
+        }
+      ],
+      "duration_ms": 314137,
+      "name": "NAVES IMPERIAIS",
+      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
     },
     {
       "added_at": "2024-08-12 14:05:38",
@@ -779,26 +799,6 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
-        "name": "NAVES IMPERIAIS",
-        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
-          "name": "Walter Lopes",
-          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
-        }
-      ],
-      "duration_ms": 314137,
-      "name": "NAVES IMPERIAIS",
-      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
         "name": "Kleber Lucas ao vivo no Teatro Rival, Pt.1 (AO VIVO)",
         "url": "https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf"
       },
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
         "name": "Trindade",
         "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
       },
@@ -867,38 +883,6 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
         "name": "Em Coma",
         "url": "https://open.spotify.com/album/3wPtlL06LbcxZnNwwXz4LE"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 215215,
       "name": "Em Coma",
       "url": "https://open.spotify.com/track/7Cvut5AmV0X1O7Xtg8Nd7H"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2024-08-12 14:05:38",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-08-12 14:05:38",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
         "name": "Quebre as Correntes",
         "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
       },
@@ -979,22 +963,6 @@
       "duration_ms": 248348,
       "name": "Quebre as Correntes",
       "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
-    },
-    {
-      "added_at": "2024-08-12 14:05:38",
-      "album": {
-        "name": "Homem Lit\u00fargico, Ao Vivo",
-        "url": "https://open.spotify.com/album/3pBtEZlLUVr9ljXjY0zeH5"
-      },
-      "artists": [
-        {
-          "name": "Projeto Sola",
-          "url": "https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K"
-        }
-      ],
-      "duration_ms": 234771,
-      "name": "\u00caxodo - ao vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk"
     },
     {
       "added_at": "2024-08-12 14:05:38",
@@ -1039,6 +1007,38 @@
       "duration_ms": 190967,
       "name": "Imerecido Amor",
       "url": "https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+    },
+    {
+      "added_at": "2024-08-12 14:05:38",
+      "album": {
+        "name": "Homem Lit\u00fargico, Ao Vivo",
+        "url": "https://open.spotify.com/album/3pBtEZlLUVr9ljXjY0zeH5"
+      },
+      "artists": [
+        {
+          "name": "Projeto Sola",
+          "url": "https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K"
+        }
+      ],
+      "duration_ms": 234771,
+      "name": "\u00caxodo - ao vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk"
     },
     {
       "added_at": "2024-08-12 14:05:38",

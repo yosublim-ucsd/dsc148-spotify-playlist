@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Sticky bar tops, patterned carpet and Barnesy\. Local pub rock essentials to celebrate 50 years of Cold Chisel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,103 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,254 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

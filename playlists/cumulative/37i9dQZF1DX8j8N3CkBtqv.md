@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Kushagra
 
-735 songs - 1 day 16 hr 20 min
+736 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 | 2024-05-31 |  |
 | [Nadaaniyan](https://open.spotify.com/track/6yPJ4BeRhPEYKc9j314fto) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU) | [Nadaaniyan](https://open.spotify.com/album/4EAuRm1fb6dxiTpphl3Zm2) | 3:03 | 2024-05-17 | 2024-06-22 |
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-09-29 | 2023-11-18 |
+| [Nagma \- X \- Axis](https://open.spotify.com/track/1bBdaFlKJo5VnxhrOo6IaK) | [Chhavi Sodhani](https://open.spotify.com/artist/0fAAEVtf2NBPopVvfKNmkd) | [Nagma \- X \- Axis](https://open.spotify.com/album/1WNeOKWkf2cphwyJXLWfHd) | 3:18 | 2024-08-09 |  |
 | [Nai Khena](https://open.spotify.com/track/58lItK88uURFIlIbFQRmu5) | [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww), [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK) | [Shown In Blue](https://open.spotify.com/album/3W9pJ3PBlER4WIoKbumoOS) | 3:33 | 2024-03-22 | 2024-05-11 |
 | [Naina](https://open.spotify.com/track/1Qm4pSItUMDa0ROpSQ8ztj) | [Durba Banerjee](https://open.spotify.com/artist/5etPzPq4uUNG77culH8wc8), [Krishh Datta](https://open.spotify.com/artist/5GcmYWhvuXI2WHxtqcg5Ru) | [Naina](https://open.spotify.com/album/3daIlwFLqnqixreRQBMykM) | 5:16 | 2024-08-02 |  |
 | [Naina](https://open.spotify.com/track/4N7c9vtfzGawbAjes3h21C) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Naina](https://open.spotify.com/album/3e7mk0VgLls1ntmmU5mEEf) | 3:27 | 2023-10-20 | 2023-12-02 |

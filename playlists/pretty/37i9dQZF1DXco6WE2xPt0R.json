@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 119416,
+  "num_followers": 119440,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,6 @@
     {
       "added_at": "2024-08-09 18:50:46",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2024-08-09 18:50:46",
-      "album": {
         "name": "i do this sh*t in my sleep",
         "url": "https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 123820,
       "name": "YOU DON\u2019T KNOW (feat. Alex Isley)",
       "url": "https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC"
+    },
+    {
+      "added_at": "2024-08-09 18:50:46",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2024-08-09 18:50:46",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-08-09 18:50:46",
       "album": {
-        "name": "N o C h i l l (Slowed)",
-        "url": "https://open.spotify.com/album/06ULKFJSNvi7eo1VxGKtXn"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "N o C h i l l (Slowed)",
-      "url": "https://open.spotify.com/track/7Ke91DIYYMKPBxX9Hh4JoC"
-    },
-    {
-      "added_at": "2024-08-09 18:50:46",
-      "album": {
         "name": "Back To Love [Feat. SiR & Alex Isley]",
         "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 234498,
       "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
+    },
+    {
+      "added_at": "2024-08-09 18:50:46",
+      "album": {
+        "name": "N o C h i l l (Slowed)",
+        "url": "https://open.spotify.com/album/06ULKFJSNvi7eo1VxGKtXn"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "N o C h i l l (Slowed)",
+      "url": "https://open.spotify.com/track/7Ke91DIYYMKPBxX9Hh4JoC"
     },
     {
       "added_at": "2024-08-09 18:50:46",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-09 18:50:46",
       "album": {
-        "name": "FYF",
-        "url": "https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 173464,
-      "name": "FYF",
-      "url": "https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE"
-    },
-    {
-      "added_at": "2024-08-09 18:50:46",
-      "album": {
         "name": "City Girl",
         "url": "https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 159365,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm"
+    },
+    {
+      "added_at": "2024-08-09 18:50:46",
+      "album": {
+        "name": "FYF",
+        "url": "https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 173464,
+      "name": "FYF",
+      "url": "https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE"
     },
     {
       "added_at": "2024-08-09 18:50:46",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-08-09 18:50:46",
       "album": {
-        "name": "Little Men (Deluxe)",
-        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
-      },
-      "artists": [
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 240074,
-      "name": "Crash for a Couple",
-      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
-    },
-    {
-      "added_at": "2024-08-09 18:50:46",
-      "album": {
         "name": "Starfruit",
         "url": "https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 161573,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/7AvJrRBbe7U4eis5ifjf78"
+    },
+    {
+      "added_at": "2024-08-09 18:50:46",
+      "album": {
+        "name": "Little Men (Deluxe)",
+        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 240074,
+      "name": "Crash for a Couple",
+      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
     },
     {
       "added_at": "2024-08-09 18:50:46",

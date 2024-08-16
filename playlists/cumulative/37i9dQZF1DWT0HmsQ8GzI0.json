@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Saya No\u00e9",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Malurid\u00e9, Mark Zentai",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 170270,
       "name": "A v\u00e9g\u00e9n \u00fagyis",
       "url": "https://open.spotify.com/track/6co2nRBAZopdXDN1iZxdby"
+    },
+    {
+      "album": {
+        "name": "Ahogy szeretn\u00e9m",
+        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
+      },
+      "artists": [
+        {
+          "name": "KACAJ",
+          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214857,
+      "name": "Ahogy szeretn\u00e9m",
+      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
     },
     {
       "album": {
@@ -52,7 +70,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 193151,
       "name": "Another Day's Just Gone",
       "url": "https://open.spotify.com/track/5gAsJEZPodWDed4DaShi87"
@@ -522,7 +540,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 358541,
       "name": "Elk\u00e9pzelt H\u0151s",
       "url": "https://open.spotify.com/track/7ygArGFB1kfKb3NSywRO2E"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 195692,
       "name": "l\u00e9lekveszt\u0151",
       "url": "https://open.spotify.com/track/7dgFk7rFobeILxZRDfiCNC"
@@ -1180,6 +1198,24 @@
       "duration_ms": 204896,
       "name": "Mengyelejev",
       "url": "https://open.spotify.com/track/0glZz6OUVF5lwL5jktid2I"
+    },
+    {
+      "album": {
+        "name": "Menj",
+        "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227391,
+      "name": "Menj",
+      "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
     },
     {
       "album": {
@@ -1264,6 +1300,24 @@
       "duration_ms": 176000,
       "name": "Napf\u00e9ny",
       "url": "https://open.spotify.com/track/7lgJPqlkZ3jTYsfE3S8Jih"
+    },
+    {
+      "album": {
+        "name": "Ne S\u00edrj, Ha Nincs Baj",
+        "url": "https://open.spotify.com/album/2MRZOEYeEgwRs6O6wFqZZ0"
+      },
+      "artists": [
+        {
+          "name": "Selah Vie",
+          "url": "https://open.spotify.com/artist/0uTRPebPEaf9H6eYiCrSX5"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232571,
+      "name": "Ne S\u00edrj, Ha Nincs Baj",
+      "url": "https://open.spotify.com/track/7kSTcJUIeqbJwgkVKHtVyG"
     },
     {
       "album": {
@@ -1419,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Pletyka",
+        "url": "https://open.spotify.com/album/4EvQvmMEBQ3gLBGfMRZuq0"
+      },
+      "artists": [
+        {
+          "name": "DOMINGO",
+          "url": "https://open.spotify.com/artist/2xUAc0Xk9ouY25LInxdNJD"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199750,
+      "name": "Pletyka",
+      "url": "https://open.spotify.com/track/20mZL0fSYFtMYuaD4ctRGV"
+    },
+    {
+      "album": {
         "name": "ENSO",
         "url": "https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH"
       },
@@ -1554,7 +1626,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 219868,
       "name": "R\u00e1mszokn\u00e1l",
       "url": "https://open.spotify.com/track/5WAqO62zy1U2Vu5ZH5ytK2"
@@ -1572,7 +1644,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 154329,
       "name": "SAME OLD LIES",
       "url": "https://open.spotify.com/track/3o7poLcvXMdISIbfwkiGYN"
@@ -1638,6 +1710,28 @@
       "duration_ms": 152658,
       "name": "Sivatag",
       "url": "https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS"
+    },
+    {
+      "album": {
+        "name": "SLOWLY",
+        "url": "https://open.spotify.com/album/1ufzCfrIHxO9lDRHOZNYk4"
+      },
+      "artists": [
+        {
+          "name": "Martin Harich",
+          "url": "https://open.spotify.com/artist/1xn7VKrcNpnPne3zBNJrQ9"
+        },
+        {
+          "name": "ROSE MAY",
+          "url": "https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229010,
+      "name": "SLOWLY",
+      "url": "https://open.spotify.com/track/0RTDtcP7c6Dq7CmQFjaSVR"
     },
     {
       "album": {
@@ -1754,6 +1848,28 @@
       "duration_ms": 156000,
       "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
       "url": "https://open.spotify.com/track/69uDRZ64aDn32VPcnPjWjv"
+    },
+    {
+      "album": {
+        "name": "SZORONGOK",
+        "url": "https://open.spotify.com/album/2KQ4vDGWOGkYeo8XiFH00m"
+      },
+      "artists": [
+        {
+          "name": "Beatrick",
+          "url": "https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m"
+        },
+        {
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "SZORONGOK",
+      "url": "https://open.spotify.com/track/6qrJ9qETfaFnn74G5CLfIl"
     },
     {
       "album": {
@@ -1920,7 +2036,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 205421,
       "name": "yamas",
       "url": "https://open.spotify.com/track/7FlE27JsmPgbGGy6Ahkr5w"

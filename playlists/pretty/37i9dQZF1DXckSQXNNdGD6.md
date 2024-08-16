@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Lua de Santana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,526 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,525 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 20 | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX) | 1:54 |
 | 21 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 |
 | 22 | [PRÉNDEME EN GASOLINA](https://open.spotify.com/track/63NKuJQ1KYgH0ZsYQDAFCh) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [PRÉNDEME EN GASOLINA](https://open.spotify.com/album/4tKZO6PYRrdMYVEnlEBy22) | 2:40 |
-| 23 | [DIFERENTE](https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DIFERENTE](https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R) | 2:43 |
-| 24 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
+| 23 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
+| 24 | [DIFERENTE](https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DIFERENTE](https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R) | 2:43 |
 | 25 | [La Magia de Tu Melena](https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [La Magia de Tu Melena](https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw) | 3:06 |
 | 26 | [Special K](https://open.spotify.com/track/0jsVPYRgzAFGyQAXihhZnC) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [El Virtual](https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY), [BASS.SEISMIC](https://open.spotify.com/artist/34N9ufnZMrCYjShnohtnV4), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Special K](https://open.spotify.com/album/3IlmoET8hmw33UHeZFyscK) | 2:32 |
 | 27 | [Morreo \(feat\. The Calorettes\)](https://open.spotify.com/track/1RhBu9BaN4GAUZbAPbuKhP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Morreo \(feat\. The Calorettes\)](https://open.spotify.com/album/38ESuk2hs3XlGRWfat9CRI) | 3:13 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 32 | [En el cielo](https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [En el cielo](https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI) | 2:23 |
 | 33 | [Querió](https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Querió](https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8) | 2:13 |
 | 34 | [Quiero Hacer Música](https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc) | 3:20 |
-| 35 | [Conexión](https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Conexión](https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e) | 2:33 |
-| 36 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 |
+| 35 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 |
+| 36 | [Conexión](https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Conexión](https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e) | 2:33 |
 | 37 | [AMOR MALDITO](https://open.spotify.com/track/0TS5CAQIJwww9g29AFHvXP) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [AMOR MALDITO](https://open.spotify.com/album/0cFVXOmtqkTd51GPBLIcAl) | 2:34 |
 | 38 | [Tiempo](https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Tiempo](https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0) | 3:16 |
 | 39 | [Si es contigo si](https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Si es contigo si](https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480) | 2:26 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 45 | [LAS 12](https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [LAS 12](https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl) | 2:27 |
 | 46 | [Por España \- Banda Sonora Original de la Película ¡Cortén!](https://open.spotify.com/track/3l3Ea4AyUl64PJ15tLcKCM) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Papa Topo](https://open.spotify.com/artist/5bj2pIzyYR99GUinn9fKAN) | [Por España \(Banda Sonora Original de la Película ¡Cortén!\)](https://open.spotify.com/album/46FkNDxYkjXvDxB5VeoHOo) | 4:25 |
 | 47 | [Intacto](https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Intacto](https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU) | 3:15 |
-| 48 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 |
-| 49 | [No vaya a ser](https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo \(Edición especial\)](https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep) | 3:18 |
+| 48 | [No vaya a ser](https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo \(Edición especial\)](https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep) | 3:18 |
+| 49 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 |
 | 50 | [Disfraz de tigre](https://open.spotify.com/track/5cME04YK44GYaVeVHMTbdL) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Animalitos](https://open.spotify.com/album/5JBrDB9iD7huWT5y6LCFPC) | 3:45 |
 
 Snapshot ID: `ZrKc4AAAAABV6pjZx9tFU+TRcHsvILiV`

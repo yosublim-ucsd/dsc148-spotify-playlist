@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 ### [This Is Pedro Capó](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2QB6oe)
 
-> This is Pedro Capó\. Todos os maiores hits em uma só playlist.
+> This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,193 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,204 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 50 | [Castigo](https://open.spotify.com/track/5P0QmeChDF8KtzHa1Tw0xf) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Castigo](https://open.spotify.com/album/1sT251K5WVSKOGpUtG4Kli) | 3:38 |
 | 51 | [Tequila Pa'la Razón](https://open.spotify.com/track/1iPNaaePlxFzTJyqpoaaPv) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Guerra de Idolos \(Banda Sonora Original\)](https://open.spotify.com/album/1PQFi6jnjNMrAOSeIHyd7v) | 3:11 |
 
-Snapshot ID: `ZrqiAAAAAAA2COdi6qBBRuYDO3L2b0fQ`
+Snapshot ID: `ZrvzgAAAAAA7l+yM+wp+N/y3VeXHrt27`

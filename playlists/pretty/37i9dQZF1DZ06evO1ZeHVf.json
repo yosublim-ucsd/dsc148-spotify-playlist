@@ -1,12 +1,12 @@
 {
-  "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 38667,
+  "description": "This is CeCe Winans. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 38712,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAABavMpwOaNXVA0ffjjW0xtu",
+  "snapshot_id": "ZrvzgAAAAABgcdJHN6FqtE+mltjTwsFB",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+        "name": "Purified",
+        "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 320110,
-      "name": "Waging War",
-      "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
+      "duration_ms": 210893,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purified",
-        "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
@@ -435,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
       },
       "artists": [
         {
@@ -444,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 69200,
-      "name": "Hallelujah To The King - Intro",
-      "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
+      "duration_ms": 320110,
+      "name": "Waging War",
+      "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
     },
     {
       "added_at": null,
@@ -467,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gaither Homecoming Classics Vol.1",
-        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
       "artists": [
         {
@@ -476,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 118533,
-      "name": "The Blood Will Never Lose Its Power - Live",
-      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
+      "duration_ms": 83561,
+      "name": "Oh The Blood Of Jesus",
+      "url": "https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V"
     },
     {
       "added_at": null,
@@ -499,6 +483,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 69200,
+      "name": "Hallelujah To The King - Intro",
+      "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gaither Homecoming Classics Vol.1",
+        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 118533,
+      "name": "The Blood Will Never Lose Its Power - Live",
+      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
       },
@@ -511,38 +527,6 @@
       "duration_ms": 212053,
       "name": "Just To Be Close To You - Live",
       "url": "https://open.spotify.com/track/19n835mWp3BVGtHWBjhY4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 83561,
-      "name": "Oh The Blood Of Jesus",
-      "url": "https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Have to Be Alone",
-        "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 227335,
-      "name": "Never Have to Be Alone",
-      "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
     },
     {
       "added_at": null,
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+        "name": "Never Have to Be Alone",
+        "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
       },
       "artists": [
         {
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 635360,
-      "name": "King of Glory - Live",
-      "url": "https://open.spotify.com/track/7CyRF25QZlsZmFtFPnQSTF"
+      "duration_ms": 227335,
+      "name": "Never Have to Be Alone",
+      "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
       "duration_ms": 220923,
       "name": "Blessed Assurance",
       "url": "https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 635360,
+      "name": "King of Glory - Live",
+      "url": "https://open.spotify.com/track/7CyRF25QZlsZmFtFPnQSTF"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 378173,
-      "name": "Shepherd - Live",
-      "url": "https://open.spotify.com/track/7iFmjO0rCQHRLPC0KMRcPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 288400,
       "name": "Come Fill My Heart",
       "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 378173,
+      "name": "Shepherd - Live",
+      "url": "https://open.spotify.com/track/7iFmjO0rCQHRLPC0KMRcPI"
     },
     {
       "added_at": null,

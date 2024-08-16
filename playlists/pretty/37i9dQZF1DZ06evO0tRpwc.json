@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37997,
+  "num_followers": 38000,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAADBmndrgbt/YB5VY+Msx5Cg",
+  "snapshot_id": "ZrvzgAAAAACb5rjUItFoXF+ChmnUxg5s",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Vitor Kivitz",
-          "url": "https://open.spotify.com/artist/32UsyOM3D9SLWD1hSIYo5d"
-        }
-      ],
-      "duration_ms": 229111,
-      "name": "Abril",
-      "url": "https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fam\u00edlia Soul (Ao Vivo)",
         "url": "https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 276986,
       "name": "Um Servo - Ao Vivo",
       "url": "https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vitor Kivitz",
+          "url": "https://open.spotify.com/artist/32UsyOM3D9SLWD1hSIYo5d"
+        }
+      ],
+      "duration_ms": 229111,
+      "name": "Abril",
+      "url": "https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00fasica Favorita (\u00c1gua)",
-        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
       },
       "artists": [
         {
@@ -776,17 +776,13 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         },
         {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 253636,
-      "name": "M\u00fasica Favorita \u267e",
-      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+      "duration_ms": 209546,
+      "name": "Seja o Centro",
+      "url": "https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV"
     },
     {
       "added_at": null,
@@ -807,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+        "name": "M\u00fasica Favorita (\u00c1gua)",
+        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
       "artists": [
         {
@@ -816,13 +812,17 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         },
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
         }
       ],
-      "duration_ms": 209546,
-      "name": "Seja o Centro",
-      "url": "https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV"
+      "duration_ms": 253636,
+      "name": "M\u00fasica Favorita \u267e",
+      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
     },
     {
       "added_at": null,
@@ -878,11 +878,15 @@
         {
           "name": "Andr\u00e9 Nine",
           "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Adriano Daga",
+          "url": "https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU"
         }
       ],
-      "duration_ms": 202875,
-      "name": "Sintonia",
-      "url": "https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu"
+      "duration_ms": 222727,
+      "name": "Cora\u00e7\u00e3o de Pedra",
+      "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
     },
     {
       "added_at": null,
@@ -946,15 +950,11 @@
         {
           "name": "Andr\u00e9 Nine",
           "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Adriano Daga",
-          "url": "https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU"
         }
       ],
-      "duration_ms": 222727,
-      "name": "Cora\u00e7\u00e3o de Pedra",
-      "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
+      "duration_ms": 202875,
+      "name": "Sintonia",
+      "url": "https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu"
     },
     {
       "added_at": null,

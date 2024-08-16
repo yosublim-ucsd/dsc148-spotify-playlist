@@ -2,9 +2,9 @@
 
 ### [Bubblin'](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> The future hits of today\. <br/>Cover: Logos Olori
+> The future hits of today\. <br/>Cover: Ayo Maff
 
-123 songs - 5 hr 48 min
+124 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alone](https://open.spotify.com/track/7mE7qAkm5kvgalbtZhTQ0v) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Alone](https://open.spotify.com/album/2N2sszhtSKyCQGLtGEigLG) | 2:33 | 2024-08-02 |  |
 | [Alright](https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [HADURAH](https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco) | [Alright](https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi) | 2:54 | 2024-06-28 |  |
 | [AMERICA](https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [AMERICA](https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95) | 3:32 | 2024-06-28 |  |
+| [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 | 2024-08-16 |  |
 | [Asambe Remix](https://open.spotify.com/track/5dYHbXEbaMMdR4A4OWSa6N) | [Ggoldie](https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [T.M.A\_Rsa](https://open.spotify.com/artist/5WcYssoPuSiy3PpQFq43dt), [RIVALZ](https://open.spotify.com/artist/4X3O9f5Bs7lKcOyUFoV75y) | [Asambe Remix](https://open.spotify.com/album/5ZkJx9EhBAGIwlxZjbSd7C) | 5:52 | 2024-06-28 |  |
 | [Avalay](https://open.spotify.com/track/57JrMpf7h96weuQz8rvJuK) | [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Avalay](https://open.spotify.com/album/6YdF793jc4usd4QUnfjThf) | 2:18 | 2024-06-28 | 2024-07-27 |
 | [Ba$tard, Don't Be Silly](https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:51 | 2024-06-28 |  |

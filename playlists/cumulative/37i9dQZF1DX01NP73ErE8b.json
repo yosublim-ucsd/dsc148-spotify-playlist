@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Tony Effe e Gaia in cover \ud83c\udde7\ud83c\uddf7",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 ANNA in cover \ud83c\udf21\ufe0f",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -723,6 +723,28 @@
     },
     {
       "album": {
+        "name": "Gira, il mondo gira",
+        "url": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173842,
+      "name": "Menomale che c'\u00e8 il mare",
+      "url": "https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU"
+    },
+    {
+      "album": {
         "name": "Mezzo Rotto (feat. BigMama)",
         "url": "https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd"
       },
@@ -1036,7 +1058,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 164733,
       "name": "QUE PASA",
       "url": "https://open.spotify.com/track/4IgE2EClVv3KJex9IXVraO"

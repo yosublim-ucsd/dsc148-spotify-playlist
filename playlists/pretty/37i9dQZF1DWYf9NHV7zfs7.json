@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Clara Cava y Ale Sergi",
-  "num_followers": 53194,
+  "num_followers": 53214,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "un mech\u00f3n de pelo",
-        "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 203114,
-      "name": "buenos aires",
-      "url": "https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Lo Que Hoy Quieras",
         "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 175218,
       "name": "Lo Que Hoy Quieras",
       "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "un mech\u00f3n de pelo",
+        "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 203114,
+      "name": "buenos aires",
+      "url": "https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Octubre",
+        "url": "https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP"
+      },
+      "artists": [
+        {
+          "name": "TULI",
+          "url": "https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "Octubre",
+      "url": "https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Las Leyes de La Vida",
         "url": "https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 199340,
       "name": "Las Leyes de La Vida",
       "url": "https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Octubre",
-        "url": "https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP"
-      },
-      "artists": [
-        {
-          "name": "TULI",
-          "url": "https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "Octubre",
-      "url": "https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Kapun",
-        "url": "https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 183422,
-      "name": "Kapun",
-      "url": "https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Un T\u00e9 De Tilo Por Favor",
         "url": "https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT"
       },
@@ -995,6 +975,22 @@
       "duration_ms": 184080,
       "name": "Algo Tiene",
       "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Todo el D\u00eda As\u00ed",
+        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 215492,
+      "name": "Todo el D\u00eda As\u00ed",
+      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1035,18 +1031,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Todo el D\u00eda As\u00ed",
-        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
+        "name": "Kapun",
+        "url": "https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 215492,
-      "name": "Todo el D\u00eda As\u00ed",
-      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
+      "duration_ms": 183422,
+      "name": "Kapun",
+      "url": "https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "EL PROCESO",
         "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 156812,
       "name": "EL PROCESO",
       "url": "https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Que Alguien Me Saque De Este Mood",
+        "url": "https://open.spotify.com/album/7A3ydblddkJBrKAwyXBGqd"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        },
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Que Alguien Me Saque De Este Mood",
+      "url": "https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
         "url": "https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 172458,
       "name": "4 Paredes",
       "url": "https://open.spotify.com/track/5NdS1ssGwkTP2lAkb79HT2"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Que Alguien Me Saque De Este Mood",
-        "url": "https://open.spotify.com/album/7A3ydblddkJBrKAwyXBGqd"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        },
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Que Alguien Me Saque De Este Mood",
-      "url": "https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd"
     }
   ],
   "unique_name": "Esto es Pop",

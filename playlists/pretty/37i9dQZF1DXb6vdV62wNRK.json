@@ -1,6 +1,6 @@
 {
   "description": "Siento que arranco la carretera...",
-  "num_followers": 217725,
+  "num_followers": 217797,
   "original_name": "Viaje en Carretera: Arremangado",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
-    },
-    {
-      "added_at": "2024-07-11 01:40:25",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 187835,
       "name": "Se Fue La Pantera",
       "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
+    },
+    {
+      "added_at": "2024-07-11 01:40:25",
+      "album": {
+        "name": "Sigue La Magia Dando",
+        "url": "https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 245376,
+      "name": "El Comerciante",
+      "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
     },
     {
       "added_at": "2024-07-11 01:40:25",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
-        "name": "Sigue La Magia Dando",
-        "url": "https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 245376,
-      "name": "El Comerciante",
-      "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
     },
     {
       "added_at": "2024-07-11 01:40:25",
@@ -679,34 +679,6 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
-        "name": "D\u00e9jenme Hacer Dinero",
-        "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 193918,
-      "name": "D\u00e9jenme Hacer Dinero",
-      "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
-    },
-    {
-      "added_at": "2024-07-11 01:40:25",
-      "album": {
         "name": "H\u00edbrido",
         "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
       },
@@ -759,6 +731,34 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
+        "name": "D\u00e9jenme Hacer Dinero",
+        "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 193918,
+      "name": "D\u00e9jenme Hacer Dinero",
+      "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
+    },
+    {
+      "added_at": "2024-07-11 01:40:25",
+      "album": {
         "name": "Corridos Perrones 1",
         "url": "https://open.spotify.com/album/00B6TWk6ykE81Itf5InD4I"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
-        "name": "El Profeta Y Otros Caballos Famosos",
-        "url": "https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty"
-    },
-    {
-      "added_at": "2024-07-11 01:40:25",
-      "album": {
         "name": "El Tequilero",
         "url": "https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 190506,
       "name": "La Troca Del Mo\u00f1o Negro",
       "url": "https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V"
+    },
+    {
+      "added_at": "2024-07-11 01:40:25",
+      "album": {
+        "name": "El Profeta Y Otros Caballos Famosos",
+        "url": "https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty"
     },
     {
       "added_at": "2024-07-11 01:40:25",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
+        "name": "Vive Y Dejame Vivir",
+        "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "duration_ms": 176208,
+      "name": "El Vago De Los Nike",
+      "url": "https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2"
+    },
+    {
+      "added_at": "2024-07-11 01:40:25",
+      "album": {
         "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 232801,
       "name": "Solo Un D\u00eda - En Vivo",
       "url": "https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU"
-    },
-    {
-      "added_at": "2024-07-11 01:40:25",
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/4TH25W7wdEPTYjznZ1l3yG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 147540,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/58o5ZiVHfAvBmfUyG49Ff0"
     },
     {
       "added_at": "2024-07-11 01:40:25",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
-        "name": "Vive Y Dejame Vivir",
-        "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/4TH25W7wdEPTYjznZ1l3yG"
       },
       "artists": [
         {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 176208,
-      "name": "El Vago De Los Nike",
-      "url": "https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2"
+      "duration_ms": 147540,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/58o5ZiVHfAvBmfUyG49Ff0"
     },
     {
       "added_at": "2024-07-11 01:40:25",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
-        "name": "El Fugitivo",
-        "url": "https://open.spotify.com/album/3HLVW0L1kXKOWSsXQx0y8i"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "El Fugitivo - En vivo",
-      "url": "https://open.spotify.com/track/0y9HZZkKo85aWYGkvjeWFA"
-    },
-    {
-      "added_at": "2024-07-11 01:40:25",
-      "album": {
         "name": "Los Corridos Favoritos Del Jefe",
         "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
       },
@@ -1911,6 +1895,22 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
+        "name": "El Fugitivo",
+        "url": "https://open.spotify.com/album/3HLVW0L1kXKOWSsXQx0y8i"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "El Fugitivo - En vivo",
+      "url": "https://open.spotify.com/track/0y9HZZkKo85aWYGkvjeWFA"
+    },
+    {
+      "added_at": "2024-07-11 01:40:25",
+      "album": {
         "name": "Larryvoluci\u00f3n",
         "url": "https://open.spotify.com/album/7aYPL5tuEAz3G5hUUB1LND"
       },
@@ -1923,6 +1923,22 @@
       "duration_ms": 174573,
       "name": "Gente VIP",
       "url": "https://open.spotify.com/track/3m0jPrfDlp38tu7JYdWLch"
+    },
+    {
+      "added_at": "2024-07-11 01:40:25",
+      "album": {
+        "name": "Vive Y Dejame Vivir",
+        "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "duration_ms": 175511,
+      "name": "El H",
+      "url": "https://open.spotify.com/track/2ztok6d84IR08FrwByYEEW"
     },
     {
       "added_at": "2024-07-11 01:40:25",
@@ -1959,22 +1975,6 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
-        "name": "Cuervo Sierra",
-        "url": "https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX"
-      },
-      "artists": [
-        {
-          "name": "Los Austeros De Durango",
-          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
-        }
-      ],
-      "duration_ms": 175674,
-      "name": "Cuervo Sierra",
-      "url": "https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j"
-    },
-    {
-      "added_at": "2024-07-11 01:40:25",
-      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/5ZsOBQSfpD3odo1vSIUmMR"
       },
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
+        "name": "Cuervo Sierra",
+        "url": "https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        }
+      ],
+      "duration_ms": 175674,
+      "name": "Cuervo Sierra",
+      "url": "https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j"
+    },
+    {
+      "added_at": "2024-07-11 01:40:25",
+      "album": {
         "name": "",
         "url": "https://open.spotify.com/album/2ya7fgfHxOHuXWHEqYJc1N"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/4Dd8PETFt7ylDiFE13eI8A"
-    },
-    {
-      "added_at": "2024-07-11 01:40:25",
-      "album": {
-        "name": "Vive Y Dejame Vivir",
-        "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        }
-      ],
-      "duration_ms": 175511,
-      "name": "El H",
-      "url": "https://open.spotify.com/track/2ztok6d84IR08FrwByYEEW"
     },
     {
       "added_at": "2024-07-11 01:40:25",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-07-11 01:40:25",
       "album": {
-        "name": "Mi Trokita Cumbia",
-        "url": "https://open.spotify.com/album/7LYXdx1tTJHSdSilZOEhZq"
-      },
-      "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        }
-      ],
-      "duration_ms": 134050,
-      "name": "Mi Trokita Cumbia",
-      "url": "https://open.spotify.com/track/2UHhMxm2klYzrqcKMFvTzn"
-    },
-    {
-      "added_at": "2024-07-11 01:40:25",
-      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/1K64Sg4DrrqmEQhc46N063"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 180871,
       "name": "El Taquicardio",
       "url": "https://open.spotify.com/track/2mdKnpJlXUvRFeuMC1rb68"
+    },
+    {
+      "added_at": "2024-07-11 01:40:25",
+      "album": {
+        "name": "Mi Trokita Cumbia",
+        "url": "https://open.spotify.com/album/7LYXdx1tTJHSdSilZOEhZq"
+      },
+      "artists": [
+        {
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
+        }
+      ],
+      "duration_ms": 134050,
+      "name": "Mi Trokita Cumbia",
+      "url": "https://open.spotify.com/track/2UHhMxm2klYzrqcKMFvTzn"
     },
     {
       "added_at": "2024-07-11 01:40:25",

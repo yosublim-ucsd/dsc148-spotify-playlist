@@ -1,6 +1,6 @@
 {
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
-  "num_followers": 1326582,
+  "num_followers": 1326865,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
     },
     {
       "added_at": "2024-04-18 21:57:35",
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+      "duration_ms": 316093,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
     },
     {
       "added_at": "2024-04-18 21:57:35",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 298346,
-      "name": "Qu\u00e9 Hay de Malo",
-      "url": "https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
         "name": "Buscando America",
         "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 303400,
       "name": "Decisiones",
       "url": "https://open.spotify.com/track/2BOcua9pjhKuVtgN40AAHX"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 298346,
+      "name": "Qu\u00e9 Hay de Malo",
+      "url": "https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf"
     },
     {
       "added_at": "2024-04-18 21:57:35",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
-        "name": "Amor Y Control",
-        "url": "https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
       },
       "artists": [
         {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 352440,
-      "name": "Amor y Control",
-      "url": "https://open.spotify.com/track/303cDwi274kSEH0NSR73AX"
+      "duration_ms": 295640,
+      "name": "Cara de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
     },
     {
       "added_at": "2024-04-18 21:57:35",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+        "name": "Amor Y Control",
+        "url": "https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 295640,
-      "name": "Cara de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
+      "duration_ms": 352440,
+      "name": "Amor y Control",
+      "url": "https://open.spotify.com/track/303cDwi274kSEH0NSR73AX"
     },
     {
       "added_at": "2024-04-18 21:57:35",

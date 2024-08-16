@@ -2,7 +2,7 @@
 
 ### [This Is Alkaline Trio](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Df5sI)
 
-> This Is Alkaline Trio\. Los temas esenciales, todos en una lista.
+> This is Alkaline Trio\. Track\-track unggulan, semuanya dalam satu playlist.
 
 119 songs - 6 hr 22 min
 

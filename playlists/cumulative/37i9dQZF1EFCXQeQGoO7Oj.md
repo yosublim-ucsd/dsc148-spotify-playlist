@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-533 songs - 1 day 7 hr 53 min
+535 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [A Tale By Quincy](https://open.spotify.com/track/759ndr57jb0URg4j9YSWml) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2024-01-29 |  |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/1yWRsIslkxTnvBO2OMyzjc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 6:25 | 2024-01-29 | 2024-03-07 |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/4AdLiROggPc0s3l1hQrpOK) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 6:25 | 2024-03-06 | 2024-04-15 |
-| [Admit It \(u dont want 2\)](https://open.spotify.com/track/74cQSljwBwRAHbuXHf2HYs) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 6:25 | 2024-04-14 |  |
+| [Admit It \(u dont want 2\)](https://open.spotify.com/track/4u2FSICPtwCoskbhscHWlD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz) | 6:25 | 2024-08-15 |  |
+| [Admit It \(u dont want 2\)](https://open.spotify.com/track/74cQSljwBwRAHbuXHf2HYs) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 6:25 | 2024-04-14 | 2024-08-16 |
 | [Ain't About What You Got \- From “Star \(Season 1\)" Soundtrack](https://open.spotify.com/track/3guGgIgmswywnQgOwt5j4E) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [Ain't About What You Got \[From “Star \(Season 1\)" Soundtrack\]](https://open.spotify.com/album/4NENv55iKx77NG6u2WRVKF) | 3:31 | 2024-01-29 |  |
 | [Alive](https://open.spotify.com/track/2X9HHYtslWjm1rnh1Vy91g) | [Natalie Bassingthwaighte](https://open.spotify.com/artist/49NJc5qDmCRsN3SsBAqEa4) | [1000 Stars](https://open.spotify.com/album/46ekOtyTUnhxvmaW1hJkI0) | 3:31 | 2024-01-29 |  |
 | [All That Matters \(The Beautiful Life\)](https://open.spotify.com/track/7949ooAKks9n3EB5CesM4B) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:37 | 2024-01-29 |  |
@@ -127,7 +128,7 @@
 | [Daylight](https://open.spotify.com/track/1NNAI51EuoRWw1ydX1zV7S) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:45 | 2024-01-29 |  |
 | [Dead But Breathing](https://open.spotify.com/track/2H4qO2abd44zI8TVEisjfu) | [Lesley Roy](https://open.spotify.com/artist/1hKEBSwDGhKmshGFWiWm7S) | [Unbeautiful](https://open.spotify.com/album/1rHXAzNDnX5EU6eAZo7BWm) | 3:44 | 2024-01-29 |  |
 | [Delicate](https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:52 | 2024-01-29 |  |
-| [Diet Pepsi](https://open.spotify.com/track/1CuV5QUOywyaUVfGrRkq3s) | [Addison Raee](https://open.spotify.com/artist/0m2KLOfs4JgtNN5QkPRLqv) | [Diet Pepsi](https://open.spotify.com/album/76EbxWz0Mwai3579e9aVWe) | 3:00 | 2024-08-14 |  |
+| [Diet Pepsi](https://open.spotify.com/track/1CuV5QUOywyaUVfGrRkq3s) | [Addison Raee](https://open.spotify.com/artist/0m2KLOfs4JgtNN5QkPRLqv) | [Diet Pepsi](https://open.spotify.com/album/76EbxWz0Mwai3579e9aVWe) | 3:00 | 2024-08-14 | 2024-08-16 |
 | [Dinosaur](https://open.spotify.com/track/74cq6AFbsKdUVZMpG2TPEr) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 2:55 | 2024-01-29 |  |
 | [Dirty Love](https://open.spotify.com/track/4I5JjW4KpDiC7kJBpCmxhH) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sorry I'm Late](https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7) | 3:18 | 2024-01-29 |  |
 | [DJ Got Us Fallin' In Love](https://open.spotify.com/track/4Lbb569kg1EDj7yl6go2ld) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [DJ Got Us Fallin' In Love \(Official Music Video\)](https://open.spotify.com/album/4JJp32gMlUbnzOTKJpJP4u) | 4:06 | 2024-01-29 | 2024-01-31 |
@@ -169,6 +170,7 @@
 | [Falling Slow](https://open.spotify.com/track/60oySTIhRHLzjjAzkitM63) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:54 | 2024-01-29 |  |
 | [Fast Car](https://open.spotify.com/track/6aj2PLLML1AF6Ja9tfULCk) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Fast Hits EP](https://open.spotify.com/album/5whYqJlJ87Zuyv665iZRZc) | 3:45 | 2024-01-29 |  |
 | [Feels Like Tonight](https://open.spotify.com/track/2ybT2tUk0uqrjFE3ppf0et) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 3:58 | 2024-01-29 |  |
+| [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-08-15 |  |
 | [First Love](https://open.spotify.com/track/4lcFmr3KkpCgsa4zamPGzw) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/7DoFFUz6BAVBwUFaMCTTcL) | 3:35 | 2024-01-29 | 2024-04-29 |
 | [First Love](https://open.spotify.com/track/5P16LUPtZ1I5t3EqwELD53) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 3:35 | 2024-04-28 |  |
 | [For All That You Want](https://open.spotify.com/track/2CandjgzRFCj1roFo4eoud) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [Twelve Months, Eleven Days](https://open.spotify.com/album/3KWW58aDPkF44ZZAQMu3lK) | 3:37 | 2024-01-29 |  |

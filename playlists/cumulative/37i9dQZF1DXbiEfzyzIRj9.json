@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: \u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Bonobo",
   "name": "Altar JP",
   "tracks": [
     {
@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 170267,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/77NlLyX4TCDrggCOI7Vtmt"
@@ -3186,6 +3186,24 @@
       "duration_ms": 201626,
       "name": "Deafened (feat. Family Habits)",
       "url": "https://open.spotify.com/track/2tlCCAR07k2G9ba67McxQc"
+    },
+    {
+      "album": {
+        "name": "Deceltica",
+        "url": "https://open.spotify.com/album/0jNukRS8SdKiRknjc8iyGL"
+      },
+      "artists": [
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298490,
+      "name": "Deceltica",
+      "url": "https://open.spotify.com/track/2eSYJNS1tIahDojepc8rF5"
     },
     {
       "album": {
@@ -4074,7 +4092,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 157153,
       "name": "Echelon",
       "url": "https://open.spotify.com/track/6v61nfuCBk2AiXyHqrzFKm"
@@ -4518,10 +4536,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 162026,
       "name": "EVOLUTION",
       "url": "https://open.spotify.com/track/6OPebsuvqCIfYZ5a4Nn1GT"
+    },
+    {
+      "album": {
+        "name": "Expander",
+        "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "Expander",
+      "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
     },
     {
       "album": {
@@ -4726,7 +4762,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 219208,
       "name": "Feel",
       "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
@@ -5025,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "Find The Way",
+        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237160,
+      "name": "Find The Way",
+      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
+    },
+    {
+      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -5244,6 +5298,36 @@
       "duration_ms": 255000,
       "name": "Flat W",
       "url": "https://open.spotify.com/track/6FBC8xEZTHEYY5Gkg1zUga"
+    },
+    {
+      "album": {
+        "name": "flex fm (freddit)",
+        "url": "https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246909,
+      "name": "flex fm (freddit)",
+      "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
     },
     {
       "album": {
@@ -8250,6 +8334,24 @@
       "duration_ms": 415000,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/2LcurVaMknHvPepjdLnz6r"
+    },
+    {
+      "album": {
+        "name": "Let Them Bells Ring",
+        "url": "https://open.spotify.com/album/1kUem2rJeRdoVwB2UG9nlT"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Let Them Bells Ring",
+      "url": "https://open.spotify.com/track/5Q8H1439FS6cHNHX7gbubB"
     },
     {
       "album": {
@@ -11584,7 +11686,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 185244,
       "name": "Push",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
@@ -14693,6 +14795,24 @@
     },
     {
       "album": {
+        "name": "The Sixth Sense EP",
+        "url": "https://open.spotify.com/album/1tMpR9AkguMx3uX465lhdo"
+      },
+      "artists": [
+        {
+          "name": "Dayzero",
+          "url": "https://open.spotify.com/artist/2gDHofVNQ4gpU815TrOiDd"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328285,
+      "name": "The Sixth",
+      "url": "https://open.spotify.com/track/27VMjEdwAWvpka6hW0SlPg"
+    },
+    {
+      "album": {
         "name": "The Way To Do It",
         "url": "https://open.spotify.com/album/6aPgR1TbdugFtOjRXJKwcQ"
       },
@@ -16010,7 +16130,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 365217,
       "name": "Wakes From Coma",
       "url": "https://open.spotify.com/track/46Ggm1Afg7qEalv81D4PCg"

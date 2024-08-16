@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,524 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,526 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 13 | [Take Me Home](https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Take Me Home](https://open.spotify.com/album/591dja1K2VghhGHhGw8adX) | 3:08 |
 | 14 | [We're Still Young](https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [We're Still Young](https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0) | 3:15 |
 | 15 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 |
-| 16 | [Nights With You](https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nights With You](https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq) | 2:29 |
-| 17 | [Tomorrow Comes](https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Tomorrow Comes](https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull) | 3:31 |
+| 16 | [Tomorrow Comes](https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Tomorrow Comes](https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull) | 3:31 |
+| 17 | [Nights With You](https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nights With You](https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq) | 2:29 |
 | 18 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 |
 | 19 | [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 |
 | 20 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 51 | [Bittersweet \(ft\. Quarterback\) \- Firelite Remix](https://open.spotify.com/track/2YvQO5jfnT29NL2dUwY0ou) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Trilane](https://open.spotify.com/artist/4hEojNVUgNvXDE8Aem4P7h), [Kokaholla](https://open.spotify.com/artist/6Bb2R70eMBIIG6BFJhHv7f), [Quarterback Baby](https://open.spotify.com/artist/4t47pMNIyXO3lDZfzi8ENS), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Bittersweet \(ft\. Quarterback\) \[Remixes\]](https://open.spotify.com/album/4ePDJZwZk6pXba002oCTT6) | 3:00 |
 | 52 | [Distance](https://open.spotify.com/track/15czHLdg2X2XbtSNxXIo09) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Distance](https://open.spotify.com/album/3OOvbFMJScD4X9ROgtLFZw) | 2:48 |
 
-Snapshot ID: `ZrqiAAAAAADjYNFV2LX97j1b/20sZosg`
+Snapshot ID: `ZrvzgAAAAABMay6lmnzHcOuIrzq/s4Tc`

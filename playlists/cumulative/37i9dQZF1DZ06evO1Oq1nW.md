@@ -2,7 +2,7 @@
 
 ### [This Is The O'Jays](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Oq1nW)
 
-> This is The O'Jays\. The essential tracks, all in one playlist.
+> This is The O'Jays\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 74 songs - 6 hr 1 min
 

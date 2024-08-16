@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "GET LOVED OR DIE TRYIN'",
+        "url": "https://open.spotify.com/album/6IstDixCQr93dLlc1Ql76H"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168554,
+      "name": "10'",
+      "url": "https://open.spotify.com/track/1XtVtRtoHFOnn8plAirGWb"
+    },
+    {
+      "album": {
         "name": "1000 Fores",
         "url": "https://open.spotify.com/album/2WVYQZZZo0e0LtLPzDFm06"
       },
@@ -791,6 +813,32 @@
     },
     {
       "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/4kQ5Ingx0Qas7mDqM7ZJxG"
+      },
+      "artists": [
+        {
+          "name": "Joanna",
+          "url": "https://open.spotify.com/artist/64eygEznXs8bF1q3SXrAst"
+        },
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        },
+        {
+          "name": "Toygge",
+          "url": "https://open.spotify.com/artist/4cLuoGu7KlOjpPmSxdzcip"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137684,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6fX6JlV9Hryc2ZofFMTd6v"
+    },
+    {
+      "album": {
         "name": "Misi Kardia",
         "url": "https://open.spotify.com/album/27vjoREultOZefvf0GwvHD"
       },
@@ -806,7 +854,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 238766,
       "name": "Misi Kardia",
       "url": "https://open.spotify.com/track/4uJ0CGPSVrGvJQOIxxOA9C"
@@ -1328,7 +1376,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 196595,
       "name": "Vasanizomai",
       "url": "https://open.spotify.com/track/7Giak4qPHYpecBWHuhPrmg"

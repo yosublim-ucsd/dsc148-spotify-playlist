@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Chloe Qisha
+> Discover your new favourite artists from UK&IE\. Cover: Tommy Farrow
 
-274 songs - 14 hr 41 min
+275 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Chi\-chi](https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 | 2023-06-08 |  |
 | [Hate Thy Neighbour](https://open.spotify.com/track/7bQZH9U2SaSBIb775NoCPt) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Hate Thy Neighbour](https://open.spotify.com/album/5NtdjOe9zMiJEz5t6tyfrR) | 2:15 | 2023-02-17 |  |
 | [Hate You, I Love You](https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Hate You, I Love You](https://open.spotify.com/album/3MEz34mMadTHxqUvEF1HFH) | 2:36 | 2022-02-18 |  |
+| [Haven](https://open.spotify.com/track/6PBWbcTVS9K0IwbM8RzrxO) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Haven](https://open.spotify.com/album/2kgkjzGau4O5UHvwvKRMSp) | 3:44 | 2024-08-15 |  |
 | [HEART ATTACK](https://open.spotify.com/track/15w5MdxTlGiaeiaYiC821r) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [HEART ATTACK](https://open.spotify.com/album/1ttzoKE3qsZqoQ20Acc2qN) | 3:02 | 2022-02-18 |  |
 | [HEART ATTACK](https://open.spotify.com/track/3ZwM4sK8D23CYoXiZ8dguS) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [FOREVER CLASSIC](https://open.spotify.com/album/6wFsRFuCL3IXmDXVN40BoD) | 3:02 | 2022-10-13 | 2024-04-19 |
 | [HEART ATTACK](https://open.spotify.com/track/76EYkurEHDQIPBsoYoT1sT) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [HEART ATTACK](https://open.spotify.com/album/2KZ8ZwkG1jERKvUXdZ0lL7) | 3:02 | 2022-11-11 | 2022-11-14 |

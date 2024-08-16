@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=hfVLax0ZRnanNGVT\_IilVw>Ada Ehi</a>
 
-373 songs - 1 day 13 hr 13 min
+374 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Billion Words](https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y) | 7:44 | 2022-06-09 | 2023-06-06 |
 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 |  |
 | [Blessed Year](https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Vin Mokay](https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz) | [Blessed Year](https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW) | 3:04 | 2024-01-26 | 2024-03-22 |
-| [Blessing Now](https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Blessing Now](https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM) | 3:28 | 2022-08-25 |  |
+| [Blessing Now](https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Blessing Now](https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM) | 3:28 | 2022-08-25 | 2024-08-16 |
 | [BLESSINGS](https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [BLESSINGS](https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU) | 13:44 | 2023-03-17 | 2023-08-25 |
 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg) | 3:03 | 2023-09-08 | 2023-09-20 |
 | [Bobby](https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Bobby](https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz) | 2:48 | 2024-03-08 | 2024-03-22 |
@@ -148,6 +148,7 @@
 | [I Know Who I Am](https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud](https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq) | 6:10 | 2023-06-30 | 2023-08-24 |
 | [I Know Who I Am \- Live](https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud \(Live\)](https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG) | 6:10 | 2023-08-25 | 2024-04-19 |
 | [I Love You Jesus](https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:31 | 2022-06-09 | 2023-04-09 |
+| [I no go ever tire](https://open.spotify.com/track/31E9nzyPs56BLoOcZt4CQm) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV) | [I no go ever tire](https://open.spotify.com/album/4JM5RKxLPeB11RMxvowla1) | 2:59 | 2024-08-16 |  |
 | [I Overcame](https://open.spotify.com/track/4VzrPcWyOdMhNudt0SqaW0) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 5:22 | 2023-12-05 | 2023-12-11 |
 | [I Receive Your Light \(feat\. Magpsalms\) \- Remix](https://open.spotify.com/track/2mjArWhZYBBCrn02oS9G0c) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Magpsalms](https://open.spotify.com/artist/2qjtKb2BJ1ZJ9BQL5XNXo3) | [I Receive Your Light \(feat\. Magpsalms\) \[Remix\]](https://open.spotify.com/album/1yTUzr9tTKReKGwgvgMHQ1) | 8:59 | 2023-11-17 | 2024-01-19 |
 | [I Stand Amazed \- Live in Concert](https://open.spotify.com/track/01kooC8X78M0UE81EtZPYX) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 7:26 | 2023-12-05 | 2023-12-11 |

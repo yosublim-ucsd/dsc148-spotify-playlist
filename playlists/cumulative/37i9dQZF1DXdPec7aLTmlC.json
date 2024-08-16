@@ -7412,7 +7412,7 @@
       },
       "artists": [
         {
-          "name": "Charli XCX",
+          "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
@@ -7422,7 +7422,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 176479,
       "name": "In The City",
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
@@ -10982,7 +10982,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 196813,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK"

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-794 songs - 1 day 21 hr 31 min
+795 songs - 1 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -756,6 +756,7 @@
 | [Waiting](https://open.spotify.com/track/3CAjk7ddvkqAT5iGRYTYGy) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:40 | 2022-11-04 | 2022-11-22 |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-03-04 | 2022-05-18 |
 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 | 2024-07-31 |  |
+| [Wake Up](https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Wake Up](https://open.spotify.com/album/6WgfCROBO4a8fovO886AZ0) | 3:09 | 2024-08-15 |  |
 | [Walk Thru Fire \- Sped Up](https://open.spotify.com/track/3lBW2k1bH1JtuS7wU7rd3x) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Walk Thru Fire](https://open.spotify.com/album/62xVNyBohReR2PQmF4cFVs) | 2:52 | 2024-05-07 | 2024-07-27 |
 | [WAR](https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [WAR](https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD) | 2:37 | 2023-09-28 | 2024-01-16 |
 | [WAR \- CHYL Remix](https://open.spotify.com/track/7JIQa1w6o7KfEqQisbDAiE) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [WAR \(CHYL Remix\)](https://open.spotify.com/album/408b5jf6C0c5Jfmr4FIXFA) | 2:28 | 2023-12-04 | 2024-03-19 |

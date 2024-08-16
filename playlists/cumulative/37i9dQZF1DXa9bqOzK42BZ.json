@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "Anabadilisha Matokeo",
+        "url": "https://open.spotify.com/album/6LHPTkupbo2Zrsi2UdVpra"
+      },
+      "artists": [
+        {
+          "name": "Boss MOG",
+          "url": "https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229407,
+      "name": "Anabadilisha Matokeo",
+      "url": "https://open.spotify.com/track/2OvikG1Odt1ADNBS9LjXm1"
+    },
+    {
+      "album": {
         "name": "Usiyeshindwa",
         "url": "https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won"
       },
@@ -1152,6 +1170,28 @@
       "duration_ms": 253451,
       "name": "Maisha Yangu (B'Ola) - Live",
       "url": "https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2"
+    },
+    {
+      "album": {
+        "name": "Maisha Yangu / Baba Yangu, Baba Yangu (Live in Kenya)",
+        "url": "https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542850,
+      "name": "Maisha Yangu / Baba Yangu, Baba Yangu - Live in Kenya",
+      "url": "https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT"
     },
     {
       "album": {
@@ -3348,6 +3388,24 @@
       "duration_ms": 413973,
       "name": "Vinakamilika",
       "url": "https://open.spotify.com/track/2ZIO3PTsc9fPcReItUXTb3"
+    },
+    {
+      "album": {
+        "name": "Waiting on You",
+        "url": "https://open.spotify.com/album/141PfZ1HufWI7JluBmnmwi"
+      },
+      "artists": [
+        {
+          "name": "Walter Chilambo",
+          "url": "https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273488,
+      "name": "Waiting on You",
+      "url": "https://open.spotify.com/track/5RjpRcqQheQlV6X0t1lq6T"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, jangan ya dek ya! 😢
 
-97 songs - 8 hr 6 min
+98 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Apa Kabar Mantan](https://open.spotify.com/track/36hZ4BvcFwJqpmQDO2vFq0) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Apa Kabar Mantan](https://open.spotify.com/album/1tuqgVSI8gcoUb4fCsqLn1) | 4:06 | 2024-08-01 | 2024-08-03 |
 | [Balungan Kere](https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [PUSAKARYA](https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq) | 5:07 | 2021-09-08 | 2023-02-04 |
 | [Banyu Langit](https://open.spotify.com/track/5hqpDFoA8j4T3MkXEd4UNk) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Banyu Langit](https://open.spotify.com/album/200eVqfp0zNFdQMbmPaRZQ) | 4:53 | 2021-09-08 |  |
+| [BUBAR](https://open.spotify.com/track/2DncDLvbz8UxX8faINaShQ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [BUBAR](https://open.spotify.com/album/5ziZ1115qWXIYGaQyqWryk) | 5:11 | 2024-08-15 |  |
 | [Bubrah](https://open.spotify.com/track/25RJ8ELZpDxxqYewIesAXY) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Bubrah](https://open.spotify.com/album/5Nkut8ikqRpSbTAplNoMat) | 5:46 | 2024-01-11 |  |
 | [Bubrah](https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Bubrah](https://open.spotify.com/album/07urzunOSaLFzBroFn2YK0) | 5:46 | 2023-08-09 | 2024-08-03 |
 | [Cerito Loro](https://open.spotify.com/track/57egBaCTBOuAs7ErKxyYjN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/46KkX8tvr0ANum32q8SX8F) | 6:17 | 2021-09-08 | 2024-04-19 |

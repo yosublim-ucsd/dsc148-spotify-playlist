@@ -1,6 +1,6 @@
 {
   "description": "Music to see you through the tough times.",
-  "num_followers": 279753,
+  "num_followers": 279758,
   "original_name": "Heartache",
   "owner": {
     "name": "Spotify",
@@ -351,7 +351,7 @@
     {
       "added_at": "2024-01-28 20:09:15",
       "album": {
-        "name": "Stoney (Deluxe)",
+        "name": "Stoney - Deluxe",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
       "artists": [
@@ -983,8 +983,8 @@
     {
       "added_at": "2024-01-28 20:09:15",
       "album": {
-        "name": "What's Inside: Songs from Waitress",
-        "url": "https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk"
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 250266,
-      "name": "She Used To Be Mine",
-      "url": "https://open.spotify.com/track/2D4BSm5Z8Hq5zYbSgJwEOh"
+      "duration_ms": 232760,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
     },
     {
       "added_at": "2024-01-28 20:09:15",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-01-28 20:09:15",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
-    },
-    {
-      "added_at": "2024-01-28 20:09:15",
-      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -1095,8 +1079,24 @@
     {
       "added_at": "2024-01-28 20:09:15",
       "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
+    },
+    {
+      "added_at": "2024-01-28 20:09:15",
+      "album": {
+        "name": "What's Inside: Songs from Waitress",
+        "url": "https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+      "duration_ms": 250266,
+      "name": "She Used To Be Mine",
+      "url": "https://open.spotify.com/track/2D4BSm5Z8Hq5zYbSgJwEOh"
     },
     {
       "added_at": "2024-01-28 20:09:15",

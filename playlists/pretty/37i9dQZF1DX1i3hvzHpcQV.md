@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Raayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,347 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,831 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 | 5 | [Kadharalz](https://open.spotify.com/track/77OQsnAirm7Ke8EGgBeOxz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Indian 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l) | 3:54 |
 | 6 | [Maamadura \- From "Jigarthanda DoubleX"](https://open.spotify.com/track/5DezAsjtSLUxW9j00eh0Ia) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Maamadura \(From "Jigarthanda DoubleX"\)](https://open.spotify.com/album/6ndlH0frO7Ol70wcwNrcIS) | 2:48 |
 | 7 | [Badass \(From "Leo"\)](https://open.spotify.com/track/32qnBgfzURbwNayQIEB5W5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Badass \(From "Leo"\)](https://open.spotify.com/album/4f9WYw6XMUlo3O9dJ15HvP) | 3:49 |
-| 8 | [Makkamishi \- From "Brother"](https://open.spotify.com/track/0T1cGhK2iio0JmaVT3Vh47) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [Makkamishi \(From "Brother"\)](https://open.spotify.com/album/0ScQvvJTicZFU6msnflOj7) | 4:14 |
+| 8 | [Makkamishi \- From "Brother"](https://open.spotify.com/track/0T1cGhK2iio0JmaVT3Vh47) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [Makkamishi \- From "Brother"](https://open.spotify.com/album/0ScQvvJTicZFU6msnflOj7) | 4:14 |
 | 9 | [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 |
 | 10 | [Nenjin Ezhuth](https://open.spotify.com/track/7Et1EN5V7xAyPjYOk8nSh3) | [Adarsh Krishnan N](https://open.spotify.com/artist/3V2xynGnDRU4GNoQR37XYG), [Vidya Lakshmi G](https://open.spotify.com/artist/3lzErVdKehpglGTvEUwDH8) | [Nenjin Ezhuth](https://open.spotify.com/album/4gwvLFWCnLtWvGHpW5SUoV) | 3:49 |
 | 11 | [Porkanda Singam \(EDM Version\) \[From "Vikram"\]](https://open.spotify.com/track/12LE4Omy9ze8xTOMofMVB3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Porkanda Singam \(EDM Version\) \[From "Vikram"\]](https://open.spotify.com/album/4GU1vqDAiySfL0K3sXLpT2) | 2:29 |

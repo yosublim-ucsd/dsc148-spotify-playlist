@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Chloe Qisha",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Tommy Farrow",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1712,6 +1712,24 @@
       "duration_ms": 156000,
       "name": "Hate You, I Love You",
       "url": "https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL"
+    },
+    {
+      "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/2kgkjzGau4O5UHvwvKRMSp"
+      },
+      "artists": [
+        {
+          "name": "Tommy Farrow",
+          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224629,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/6PBWbcTVS9K0IwbM8RzrxO"
     },
     {
       "album": {

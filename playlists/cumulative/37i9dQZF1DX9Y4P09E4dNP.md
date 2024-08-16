@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: Cina Soul, DJ Breezy, Okenneth , Sarkodie
+> The big Hip\-Life hits rn\. Cover: Samini
 
-212 songs - 14 hr 18 min
+213 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Ngozi](https://open.spotify.com/track/5xUsuJdA0m0mViZJ8yxPAT) | [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ngozi](https://open.spotify.com/album/0hE1qM4q2Hcbp3wuacPnXV) | 5:31 | 2020-02-20 | 2022-11-13 |
 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 | 2020-02-20 | 2024-03-05 |
 | [No Love](https://open.spotify.com/track/0MIUBfQeKzmriC5NTNw9wc) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [No Love](https://open.spotify.com/album/15v2CAdHqg1ZTdol3hDdhh) | 2:46 | 2024-05-17 | 2024-06-07 |
+| [No Pressure](https://open.spotify.com/track/4mKGOtHyLWtnYz3dlq7Kkm) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [No Pressure](https://open.spotify.com/album/0Y9msGVNi7dRprttbC0PGU) | 2:55 | 2024-08-16 |  |
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2024-03-04 |  |
 | [Not God](https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Not God](https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs) | 2:30 | 2023-08-03 | 2024-05-24 |
 | [Obaa No](https://open.spotify.com/track/1AfW3qEZUUn3GbiBEtJfz9) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:11 | 2020-02-20 | 2022-03-14 |

@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: PARTYNEXTDOOR
 
-628 songs - 1 day 11 hr 3 min
+629 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [10 F\*CKS \(with Mansa\)](https://open.spotify.com/track/7DHNcoR73yUYCSn6PqBgkH) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Mansa](https://open.spotify.com/artist/09OSlbN2DUUOG9cbRWdWuT) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:49 | 2022-04-01 | 2022-06-22 |
 | [100 Rounds](https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [100 Rounds](https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp) | 2:12 | 2022-04-01 | 2022-04-20 |
 | [16](https://open.spotify.com/track/50lTDu2BnjyqWnUFsxMryJ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 2:36 | 2022-04-01 | 2022-07-01 |
-| [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 | 2024-05-31 |  |
+| [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 | 2024-05-31 | 2024-08-16 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2023-04-27 |  |
 | [24 Hrs](https://open.spotify.com/track/0GMxsSQhO9Yj8aKhN8ljFe) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/3t9cOTSY2P2Nj7pkbGv7M3) | 2:47 | 2022-07-01 | 2022-07-25 |
 | [24hrs](https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [24hrs](https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz) | 3:22 | 2022-04-01 | 2022-07-29 |
@@ -355,6 +355,7 @@
 | [Morning](https://open.spotify.com/track/2E6S3NgbSG9NYwbdi6rWYB) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Morning](https://open.spotify.com/album/65Jg9mmsgao1JJizzRt7em) | 4:13 | 2022-04-01 | 2022-04-20 |
 | [Motions](https://open.spotify.com/track/24rp1G8Tj5qonKlBPn7aKz) | [NOA](https://open.spotify.com/artist/5OaWY1HjWremIVRztYS1xG) | [Motions](https://open.spotify.com/album/2b9Ls8rWk1Hf2owsyPxLmu) | 3:11 | 2022-04-01 | 2022-04-16 |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2022-03-11 | 2022-03-23 |
+| [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-08-15 |  |
 | [Nasty Girl](https://open.spotify.com/track/59BQqS7wNaSqXPQCyiaPwy) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Nasty Girl](https://open.spotify.com/album/5utCFrzVEe7nzGGidFTAdN) | 2:48 | 2022-04-01 | 2022-06-01 |
 | [Naturally](https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Naturally](https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3) | 3:14 | 2022-05-20 | 2022-07-29 |
 | [Naughty](https://open.spotify.com/track/6ABfijqnt8YYew0ijkX7PC) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Cyncerely, C3](https://open.spotify.com/album/6uNuXilVlRxt9ryawO1nCS) | 3:40 | 2022-04-01 | 2022-04-18 |

@@ -4937,6 +4937,28 @@
     },
     {
       "album": {
+        "name": "Love Duet",
+        "url": "https://open.spotify.com/album/12m1GvcFY7Tzt5GVik0fl6"
+      },
+      "artists": [
+        {
+          "name": "Miri Ben-Ari",
+          "url": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Love Duet",
+      "url": "https://open.spotify.com/track/6rlmSOzLzpwj6OD75vMnSm"
+    },
+    {
+      "album": {
         "name": "Love Nwantiti",
         "url": "https://open.spotify.com/album/1hAt5XyintKlTCsHBz6HHY"
       },

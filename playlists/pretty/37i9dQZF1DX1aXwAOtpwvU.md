@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: Daniel Godson, Jea Mira, Livka, Lotta, MAJA, Zaleś
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,626 likes - 78 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,629 likes - 78 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

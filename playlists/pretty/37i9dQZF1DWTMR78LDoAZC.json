@@ -1,6 +1,6 @@
 {
   "description": "Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.",
-  "num_followers": 169345,
+  "num_followers": 169508,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -309,22 +309,6 @@
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
     },
     {
-      "added_at": "2024-06-21 15:51:27",
-      "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Vampire Empire",
@@ -339,6 +323,22 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "added_at": "2024-06-21 15:51:27",
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Here To Dance",
-        "url": "https://open.spotify.com/album/5x39VhgLcnKUQjekc0uZuC"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 125806,
-      "name": "Here To Dance",
-      "url": "https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "del mar county fair 2008",
         "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 174888,
       "name": "del mar county fair 2008",
       "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Here To Dance",
+        "url": "https://open.spotify.com/album/5x39VhgLcnKUQjekc0uZuC"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 125806,
+      "name": "Here To Dance",
+      "url": "https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Smog",
-        "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 194451,
-      "name": "Smog",
-      "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
-    },
-    {
       "added_at": "2024-06-21 15:51:27",
       "album": {
         "name": "Name Your Sorrow",
@@ -1263,6 +1247,22 @@
       "duration_ms": 230984,
       "name": "Heavy Pour",
       "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Smog",
+        "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 194451,
+      "name": "Smog",
+      "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
     }
   ],
   "unique_name": "Alternative Pride",

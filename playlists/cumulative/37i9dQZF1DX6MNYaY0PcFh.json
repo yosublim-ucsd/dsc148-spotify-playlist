@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Listen To The DJ",
+        "url": "https://open.spotify.com/album/4RpEXK1iTdUuUU4lX3SvVw"
+      },
+      "artists": [
+        {
+          "name": "Smokey Bubblin' B",
+          "url": "https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145865,
+      "name": "Listen To The DJ",
+      "url": "https://open.spotify.com/track/2niu0LfmPAIMr4xVbasWgO"
+    },
+    {
+      "album": {
         "name": "Little Man (Proud Of You)",
         "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
       },
@@ -2450,7 +2468,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 154074,
       "name": "One To Leave",
       "url": "https://open.spotify.com/track/5TStZRNSWIbAfqkXJkTFi6"
@@ -3575,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "When I'm With U",
+        "url": "https://open.spotify.com/album/3LMxqFuIqxjoWg0ExtlnMe"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287818,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/6nux0bFQdzwaV7JE7eR0G5"
+    },
+    {
+      "album": {
         "name": "While The Record Spins",
         "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
       },
@@ -3714,7 +3750,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 213333,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv"

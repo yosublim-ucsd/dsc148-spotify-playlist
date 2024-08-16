@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-265 songs - 15 hr 45 min
+266 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [I Love U Forever](https://open.spotify.com/track/7jTZjdxWKwq495z7mzEvd3) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/4B4acomkAwBoTwBMDPLf1h) | 3:17 | 2022-07-08 | 2022-07-10 |
 | [I Love You Enough to Die Now](https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [I Love You Enough to Die Now](https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf) | 3:06 | 2023-02-14 | 2023-03-04 |
 | [I love you more than me](https://open.spotify.com/track/44TKhC1koCNrslLPmGKu4A) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:11 | 2022-05-11 | 2022-07-15 |
+| [I Love Yuo](https://open.spotify.com/track/6ENEZrqRJqUMNhTaOjlu6X) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [TENT 0.3](https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J) | 2:26 | 2024-08-15 |  |
 | [I LUV U \(with MIRANI\)](https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [I LUV U \(with MIRANI\)](https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1) | 3:55 | 2022-07-08 |  |
 | [I only see you in my eyes \(Feat\. Dearming\)](https://open.spotify.com/track/4hKo4JNEFy9jdhTkICIoM7) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Dearming](https://open.spotify.com/artist/1Zs3RqrUagA8l69VbL5aJx) | [I only see you in my eyes \(Feat\. Dearming\)](https://open.spotify.com/album/71nlsWdYk92IePIZcKF7M3) | 3:01 | 2022-05-11 | 2022-07-28 |
 | [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 | 2022-05-11 |  |
@@ -213,7 +214,7 @@
 | [Tale](https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:47 | 2022-07-08 | 2024-04-19 |
 | [Tale 동화](https://open.spotify.com/track/1O6gfRnuWW3jRG77Tn8gHW) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/3vzUq0hnovgWpP6yfgGtXB) | 3:47 | 2022-05-11 | 2022-07-29 |
 | [Tell Me You Love Me](https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [The Law Cafe \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR) | 3:34 | 2022-10-12 | 2023-01-26 |
-| [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 | 2022-05-11 |  |
+| [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 | 2022-05-11 | 2024-08-16 |
 | [The Best Present \(Prod\. by PSY\)](https://open.spotify.com/track/12nafIbZ2LAVfht3WMy33b) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [The Best Present](https://open.spotify.com/album/5IhMtglLwKtJWeHCz4KcA4) | 3:59 | 2022-05-11 | 2022-07-21 |
 | [The chair](https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Object](https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq) | 3:53 | 2023-02-03 | 2023-03-18 |
 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 | 2023-05-02 | 2023-05-15 |

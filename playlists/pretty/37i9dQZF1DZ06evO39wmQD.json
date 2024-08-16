@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAACpX56h0mdabjAQqx8xcUBP",
+  "snapshot_id": "ZrvzgAAAAAAOO4cCRJYgWXmldbm9oY9G",
   "tracks": [
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise Season 1: The Album (Music from the TV Series)",
-        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
+        "name": "The Guilty Ones (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
       },
       "artists": [
         {
@@ -486,15 +486,11 @@
         {
           "name": "Damon J. Gillespie",
           "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
-        },
-        {
-          "name": "Ellie Desautels",
-          "url": "https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe"
         }
       ],
-      "duration_ms": 111160,
-      "name": "Those You've Known - Rise Cast Version",
-      "url": "https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx"
+      "duration_ms": 211956,
+      "name": "The Guilty Ones - Rise Cast Version",
+      "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
     },
     {
       "added_at": null,
@@ -519,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Guilty Ones (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
+        "name": "Rise Season 1: The Album (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
       },
       "artists": [
         {
@@ -534,11 +530,15 @@
         {
           "name": "Damon J. Gillespie",
           "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        },
+        {
+          "name": "Ellie Desautels",
+          "url": "https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe"
         }
       ],
-      "duration_ms": 211956,
-      "name": "The Guilty Ones - Rise Cast Version",
-      "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
+      "duration_ms": 111160,
+      "name": "Those You've Known - Rise Cast Version",
+      "url": "https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx"
     },
     {
       "added_at": null,

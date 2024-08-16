@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,938 songs - 4 day 8 hr 18 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,941 songs - 4 day 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1939,12 +1939,15 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1929 | [severed](https://open.spotify.com/track/5dS6OAmkHffFSWyyor7etp) | [shallowprayer](https://open.spotify.com/artist/3fu5lsDzkenXGoUT8dcykr) | [severed](https://open.spotify.com/album/69JvwNBbHjWCUYZaQlyPcQ) | 3:06 |
 | 1930 | [rotten](https://open.spotify.com/track/4UQEO2qie20yQZezxZvsAy) | [anna luna](https://open.spotify.com/artist/6uGADSP0D3HW4ZpALfJwUR) | [rotten](https://open.spotify.com/album/1t5r6vxPgVDjlUUYhiN0s5) | 2:10 |
 | 1931 | [Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1) | [Somewhere Special](https://open.spotify.com/artist/2uzCJprANXTMHARrvOIlWq) | [Disguise](https://open.spotify.com/album/7MVTglonJzo6LgHJI8MA92) | 2:20 |
-| 1932 | [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 |
-| 1933 | [mmm00nm0thz](https://open.spotify.com/track/0SsYZiXbLhPH8WU36muJ4T) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [mmm00nm0thz](https://open.spotify.com/album/5tlsNzwyBLbo5F98qlzZ5X) | 2:56 |
-| 1934 | [bootleg\_mov](https://open.spotify.com/track/0jSDrl2wEOXkUQDkr770qe) | [ilyhiryu](https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2) | [bootleg\_mov](https://open.spotify.com/album/2ebgMhMeFLNQSnq6tVsvPn) | 1:56 |
-| 1935 | [JUMPSTYLE PARTY](https://open.spotify.com/track/5klmEhYEDqfGQ6yK2tlwEe) | [RomancePlanet](https://open.spotify.com/artist/37wN6xD9duyyxRWmObUUxE) | [JUMPSTYLE PARTY](https://open.spotify.com/album/3p7OeUtOn2wKqJdHk0yCkZ) | 1:44 |
-| 1936 | [JUMPSTYLE BOOTLEG](https://open.spotify.com/track/4mZV0o88ojuX9bzhLmB6jf) | [ilyhiryu](https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2) | [JUMPSTYLE BOOTLEG](https://open.spotify.com/album/3NtUbbMcjRhUVo4nPlBMMK) | 3:39 |
-| 1937 | [The Thin Grey Line](https://open.spotify.com/track/1d966178PJg6b4kcXqoYF3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 1:45 |
-| 1938 | [Ponyboy](https://open.spotify.com/track/7dUrhEQguPAglRgnACCzYw) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:14 |
+| 1932 | [mmm00nm0thz](https://open.spotify.com/track/0SsYZiXbLhPH8WU36muJ4T) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [mmm00nm0thz](https://open.spotify.com/album/5tlsNzwyBLbo5F98qlzZ5X) | 2:56 |
+| 1933 | [bootleg\_mov](https://open.spotify.com/track/0jSDrl2wEOXkUQDkr770qe) | [ilyhiryu](https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2) | [bootleg\_mov](https://open.spotify.com/album/2ebgMhMeFLNQSnq6tVsvPn) | 1:56 |
+| 1934 | [JUMPSTYLE PARTY](https://open.spotify.com/track/5klmEhYEDqfGQ6yK2tlwEe) | [RomancePlanet](https://open.spotify.com/artist/37wN6xD9duyyxRWmObUUxE) | [JUMPSTYLE PARTY](https://open.spotify.com/album/3p7OeUtOn2wKqJdHk0yCkZ) | 1:44 |
+| 1935 | [JUMPSTYLE BOOTLEG](https://open.spotify.com/track/4mZV0o88ojuX9bzhLmB6jf) | [ilyhiryu](https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2) | [JUMPSTYLE BOOTLEG](https://open.spotify.com/album/3NtUbbMcjRhUVo4nPlBMMK) | 3:39 |
+| 1936 | [The Thin Grey Line](https://open.spotify.com/track/1d966178PJg6b4kcXqoYF3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 1:45 |
+| 1937 | [Ponyboy](https://open.spotify.com/track/7dUrhEQguPAglRgnACCzYw) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:14 |
+| 1938 | [Corazón Sin Cara](https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:31 |
+| 1939 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
+| 1940 | [Lloraras](https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Traicionera \(Baile Total\)](https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH) | 3:42 |
+| 1941 | [Chucuchá](https://open.spotify.com/track/6eFrdLR3Np9mtHxKpmipWE) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [El Sonido](https://open.spotify.com/album/5UKWW8fo5JwmhJczeGMjAl) | 3:26 |
 
-Snapshot ID: `AAADNviTooyXUkK5GFA0ZaZOMQ65Qimh`
+Snapshot ID: `AAADO1HNVMIgI7fVkUqdi1kgGbrPQkv1`

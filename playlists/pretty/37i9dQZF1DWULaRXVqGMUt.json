@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 52272,
+  "num_followers": 52305,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
-      },
-      "artists": [
-        {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Slider",
-      "url": "https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Complete Jazz Series 1938 - 1939",
         "url": "https://open.spotify.com/album/49qNKP9EtVam3jzG7eci5T"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 171106,
       "name": "Roll 'Em, Pete (12-30-38)",
       "url": "https://open.spotify.com/track/48yPw9QpyvTcQwZYoq2rzc"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Boogie Woogie Kid",
+        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+      },
+      "artists": [
+        {
+          "name": "Boogie Woogie Kid",
+          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Slider",
+      "url": "https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "So Swell",
-        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
-      },
-      "artists": [
-        {
-          "name": "Jon Cleary",
-          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
-        }
-      ],
-      "duration_ms": 151261,
-      "name": "Swanee River Boogie",
-      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "The Lost Paramount Tapes",
         "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 235280,
       "name": "Junco Partner #2",
       "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "So Swell",
+        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
+      },
+      "artists": [
+        {
+          "name": "Jon Cleary",
+          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
+        }
+      ],
+      "duration_ms": 151261,
+      "name": "Swanee River Boogie",
+      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 160795,
-      "name": "Boogie Woogie - Mono",
-      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Yancey Special",
         "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 172460,
       "name": "Yancey Stomp",
       "url": "https://open.spotify.com/track/4I32Hx29orle6qZ6UI0fTf"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 160795,
+      "name": "Boogie Woogie - Mono",
+      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Woogie 50",
-        "url": "https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Hightower Boogie Woogie",
         "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 159666,
       "name": "Count Basie's Red Bank Cafe",
       "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Boogie Woogie 50",
+        "url": "https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
     },
     {
       "added_at": "2024-05-30 16:27:59",

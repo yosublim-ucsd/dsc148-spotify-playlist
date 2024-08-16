@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Marioo",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Chege & Alikiba",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 241448,
       "name": "Dokta (feat. Jaivah & Dj Awakening)",
       "url": "https://open.spotify.com/track/6kextgZ1Ar0oKVs7aXYCEt"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 304360,
       "name": "Hao",
       "url": "https://open.spotify.com/track/2c4yiO6mxEPnWmbGrEIsAs"
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 256644,
       "name": "Je T Aime",
       "url": "https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN"
@@ -2962,6 +2962,28 @@
       "duration_ms": 196327,
       "name": "Kibango (feat. Diamond Platnumz)",
       "url": "https://open.spotify.com/track/6DVmXhTHQ5WKp1Fu5UlPfq"
+    },
+    {
+      "album": {
+        "name": "Kipofu (feat. Alikiba)",
+        "url": "https://open.spotify.com/album/3HiAnfQyJKtmiMi8gMwUQ6"
+      },
+      "artists": [
+        {
+          "name": "Chege",
+          "url": "https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235289,
+      "name": "Kipofu (feat. Alikiba)",
+      "url": "https://open.spotify.com/track/72OnFBAb69Smqm8sqcRMSW"
     },
     {
       "album": {
@@ -4250,6 +4272,28 @@
       "duration_ms": 213493,
       "name": "Miss Bantu (feat. Spice)",
       "url": "https://open.spotify.com/track/25G0isuPtzCqMWDPm99yPS"
+    },
+    {
+      "album": {
+        "name": "Mmmah",
+        "url": "https://open.spotify.com/album/4l67CzNVY7cG3vAv5IDDw2"
+      },
+      "artists": [
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        },
+        {
+          "name": "Lulu Diva",
+          "url": "https://open.spotify.com/artist/351HQU1PawDtAmXb2DBHhr"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142576,
+      "name": "Mmmah",
+      "url": "https://open.spotify.com/track/286vfrzpWSpgM8iohLbjj4"
     },
     {
       "album": {
@@ -6005,6 +6049,24 @@
     },
     {
       "album": {
+        "name": "Ololo",
+        "url": "https://open.spotify.com/album/1Iff4SIo4M6kq4IaCdLLJg"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241448,
+      "name": "Ololo",
+      "url": "https://open.spotify.com/track/3CTio0dVlFuBRjsH0bnStu"
+    },
+    {
+      "album": {
         "name": "On Fire",
         "url": "https://open.spotify.com/album/3UQRnsR6Ie8yozVIOoTHK8"
       },
@@ -6172,7 +6234,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 205891,
       "name": "Patner",
       "url": "https://open.spotify.com/track/6ixAPbmYQlLFCoAPmP2B7V"
@@ -6766,7 +6828,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 199134,
       "name": "Sherehe",
       "url": "https://open.spotify.com/track/5M3T7gQ2dOolb2U8eNgqSP"
@@ -7889,6 +7951,24 @@
     },
     {
       "album": {
+        "name": "Ujana",
+        "url": "https://open.spotify.com/album/6z3OZUCoYCuYGnB3eru2nm"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "Ujana",
+      "url": "https://open.spotify.com/track/4aldg54TvCNPThgji8Syda"
+    },
+    {
+      "album": {
         "name": "Umechelewa",
         "url": "https://open.spotify.com/album/0HnBMqn6CPfPw7Np2hjGNe"
       },
@@ -8246,6 +8326,28 @@
       "duration_ms": 195348,
       "name": "Wa Sasa",
       "url": "https://open.spotify.com/track/2UBkMt1lT5qjW36HIUKNCm"
+    },
+    {
+      "album": {
+        "name": "Wa Wa Wa",
+        "url": "https://open.spotify.com/album/2XF4p7Pxn8PmM98WZHZFsm"
+      },
+      "artists": [
+        {
+          "name": "Ben Pol",
+          "url": "https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4"
+        },
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Wa Wa Wa",
+      "url": "https://open.spotify.com/track/6PBmmrtsz5tEpHzTm0NY7V"
     },
     {
       "album": {

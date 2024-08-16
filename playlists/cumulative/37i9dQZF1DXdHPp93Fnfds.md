@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Girl Ultra.
 
-582 songs - 1 day 9 hr 5 min
+585 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Azar](https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v) | [Abril Alconada](https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0) | [Encandilante divino](https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH) | 2:43 | 2023-08-11 | 2023-08-19 |
 | [Azul](https://open.spotify.com/track/4REs7jIplREVkIfXaNjUzJ) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Azul](https://open.spotify.com/album/6VgL4TQPE0jfvuCGWgUMut) | 4:10 | 2023-08-18 | 2023-11-11 |
 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 | 2023-03-24 |  |
+| [Bañera](https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Bañera](https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX) | 2:32 | 2024-08-16 |  |
 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 | 2022-01-14 |  |
 | [Besos Que Nos Dimos](https://open.spotify.com/track/7u5ubiYPA1a1tACQrZicY7) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Besos Que Nos Dimos](https://open.spotify.com/album/0gOurSKwd8MBVE7DANvFKX) | 3:07 | 2022-11-28 | 2023-02-10 |
 | [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 | 2023-08-25 | 2023-09-26 |
@@ -152,7 +153,7 @@
 | [Desciende el Norte](https://open.spotify.com/track/6BRU6Lgo7D6FEXwYT5RJWv) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC), [Nanocristal](https://open.spotify.com/artist/63Wff8jItaKpHdl5Obbi2K) | [Nuevos Silencios](https://open.spotify.com/album/0HsZpQ6L8DJgSUFNSazZoG) | 3:45 | 2022-01-21 | 2022-05-19 |
 | [Destreza](https://open.spotify.com/track/1zlmsJWuCd335XoZASXQLs) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Destreza](https://open.spotify.com/album/0q1QjCaEGQJA3zUFIEpoKN) | 3:38 | 2022-06-03 | 2022-06-18 |
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2022-03-09 | 2022-07-28 |
-| [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 | 2022-08-26 |  |
+| [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 | 2022-08-26 | 2024-08-16 |
 | [Diabla](https://open.spotify.com/track/2uqXBgxoOsYMkNcJzLtJUw) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Diabla](https://open.spotify.com/album/4Dc5yBqil6itL5cVBQsFQE) | 2:51 | 2022-01-21 | 2022-07-27 |
 | [DIAS DE PAJA](https://open.spotify.com/track/78GT2hT82AWRJq2kwXJAI5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [DIAS DE PAJA](https://open.spotify.com/album/1j1tnRVfGpSzgjiOLE1dtX) | 3:53 | 2022-01-14 | 2022-07-29 |
 | [Dicen](https://open.spotify.com/track/5Xe5N5HvbXvFYe4I87aQa3) | [Rocío Gal](https://open.spotify.com/artist/4AfambG94sVb235ZxRKGWL) | [Inventario de Ecos](https://open.spotify.com/album/6qnpV0UwXRnGcUOGeRToCw) | 3:09 | 2022-05-06 | 2022-07-26 |
@@ -176,7 +177,7 @@
 | [El Gobierno de China](https://open.spotify.com/track/2ZTvWgdCPbxn2G5E0Myrog) | [Pantocrator](https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3) | [El Gobierno de China](https://open.spotify.com/album/0Ar9uTqPd3flcz9frcMl0b) | 2:22 | 2022-02-11 | 2022-07-20 |
 | [El Guinness](https://open.spotify.com/track/3EMCNAmj4UgRmVEs0jbfM2) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Billetes Falsos](https://open.spotify.com/album/1iYnmFBoM9eAazMvc928sE) | 2:38 | 2022-01-21 | 2022-07-26 |
 | [el humo](https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [el humo](https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN) | 4:06 | 2022-04-01 | 2022-07-23 |
-| [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 | 2022-10-28 |  |
+| [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 | 2022-10-28 | 2024-08-16 |
 | [El Imán \- Remix](https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Santiago Martínez](https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu) | [El Imán \(Remix\)](https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe) | 3:48 | 2023-12-15 | 2024-03-19 |
 | [El Monstruo](https://open.spotify.com/track/4it95zN4UiXA3FLZEgYMSU) | [Sol Marianela](https://open.spotify.com/artist/1FxMAPKKLTQuK0hYvLNWfD) | [El Monstruo](https://open.spotify.com/album/7bIm8rt2u47dnEh0rweBy7) | 3:13 | 2022-04-01 | 2022-05-12 |
 | [El Olvido](https://open.spotify.com/track/06DDZtXgYJodWnjmrFVuF8) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [El Olvido](https://open.spotify.com/album/2K7MOl9u19XcO0cNVaRAWS) | 3:24 | 2022-01-21 | 2022-04-19 |
@@ -214,6 +215,7 @@
 | [Frontera](https://open.spotify.com/track/2eFoCqv7FHIWhJHqsWJBwJ) | [Felisa](https://open.spotify.com/artist/4oWoF3dBHBOslcI2zNS0fe) | [Real](https://open.spotify.com/album/4hKVyt2WWxKfGi9Z5eXAsg) | 2:48 | 2022-01-21 | 2022-07-08 |
 | [Fuckgurl](https://open.spotify.com/track/0HoeGznd9HSwtsbv1xh803) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 2:27 | 2022-04-01 | 2022-04-20 |
 | [Fuckgurl](https://open.spotify.com/track/4ju0wieDNcKjTdPMYCnye2) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 2:27 | 2022-07-15 | 2024-04-19 |
+| [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 | 2024-08-16 |  |
 | [Fuego con Usté](https://open.spotify.com/track/5N4ZvLdH5uv3qjcve2wzUL) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57) | [Fuego con Usté](https://open.spotify.com/album/0epwZNWGDanwMH5sZKY2O2) | 3:05 | 2022-01-21 | 2022-06-15 |
 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 | 2022-02-11 | 2023-06-10 |
 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:20 | 2023-08-04 |  |
@@ -276,7 +278,7 @@
 | [Labio Inferior](https://open.spotify.com/track/62jyvcXfpiZLHWMi0p8VJL) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:51 | 2023-08-18 | 2023-09-26 |
 | [Labios de Miel](https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn) | [Labios de Miel](https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0) | 2:20 | 2023-08-18 | 2023-09-26 |
 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 | 2024-01-18 | 2024-03-21 |
-| [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 | 2023-05-26 |  |
+| [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 | 2023-05-26 | 2024-08-16 |
 | [Las Cosas Simples](https://open.spotify.com/track/7pTuLsDFrHXwuWddo1nnP7) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Cecilia](https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p) | 3:10 | 2022-09-09 | 2022-10-21 |
 | [Legionario](https://open.spotify.com/track/0b65Z7BqOl8Qyq8aRlfkP7) | [Romina Pechin](https://open.spotify.com/artist/7fzUQFFjRbuTNthKsJNEpk) | [Legionario](https://open.spotify.com/album/6VCFn5LoIqyYid7OpjCvAg) | 4:11 | 2022-01-21 | 2022-06-07 |
 | [Lejos Libre Sola](https://open.spotify.com/track/7BhaJfyOOvuzoznVNh1BoB) | [Lali Gaspari](https://open.spotify.com/artist/0IcHojewbT2XZUs7Sb2bTX) | [Nuevas Intenciones](https://open.spotify.com/album/4nJd7rSTeFOZnmwoWCUhmw) | 3:37 | 2022-04-01 | 2022-04-14 |
@@ -571,6 +573,7 @@
 | [Vital](https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Vital](https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK) | 3:02 | 2022-01-21 | 2022-07-29 |
 | [Vocales](https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V) | [HTML](https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8) | [17](https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb) | 2:36 | 2022-04-01 | 2022-04-20 |
 | [Volar](https://open.spotify.com/track/1r2QNqXARZN79ChpgevNMe) | [Miranda Diaz](https://open.spotify.com/artist/0lPtnE0VbkjwameC1T0MBF) | [Volar](https://open.spotify.com/album/2QTYSk8PlgDib4jzvfzdCZ) | 3:07 | 2022-04-01 | 2022-07-05 |
+| [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 | 2024-08-16 |  |
 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 | 2022-01-21 | 2022-07-28 |
 | [Voy a Hacer las Cosas Lento](https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Voy a Hacer las Cosas Lento](https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK) | 3:28 | 2022-01-14 | 2022-07-28 |
 | [Vuelo](https://open.spotify.com/track/24eo3E9uK6zPl0bvlIZuoi) | [Maria Trapaglia](https://open.spotify.com/artist/5f53oTxcEXYARPX4xRIO0i) | [Vuelo](https://open.spotify.com/album/4jmOTynTRGQeByOvtnCFzx) | 3:50 | 2022-04-01 | 2022-04-21 |

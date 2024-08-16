@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: AYANE",
-  "num_followers": 113300,
+  "num_followers": 113312,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -675,8 +675,8 @@
     {
       "added_at": "2024-08-13 18:01:54",
       "album": {
-        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
-        "url": "https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2"
+        "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+        "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 228920,
-      "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
-      "url": "https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2"
+      "duration_ms": 269093,
+      "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+      "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
     },
     {
       "added_at": "2024-08-13 18:01:54",
@@ -787,8 +787,8 @@
     {
       "added_at": "2024-08-13 18:01:54",
       "album": {
-        "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
-        "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
+        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 269093,
-      "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
-      "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
+      "duration_ms": 228920,
+      "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2"
     },
     {
       "added_at": "2024-08-13 18:01:54",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-08-13 18:01:54",
       "album": {
-        "name": "\u30cf\u30df\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw"
-      },
-      "artists": [
-        {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "\u30cf\u30df\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX"
-    },
-    {
-      "added_at": "2024-08-13 18:01:54",
-      "album": {
         "name": "\u516d\u7b49\u661f",
         "url": "https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 254280,
       "name": "\u516d\u7b49\u661f",
       "url": "https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s"
+    },
+    {
+      "added_at": "2024-08-13 18:01:54",
+      "album": {
+        "name": "\u30cf\u30df\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "\u30cf\u30df\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX"
     },
     {
       "added_at": "2024-08-13 18:01:54",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-08-13 18:01:54",
       "album": {
+        "name": "\u7d14\u611b\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "duration_ms": 277453,
+      "name": "\u3042\u305f\u3057\u304c\u6b7b\u3093\u3067\u3082",
+      "url": "https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm"
+    },
+    {
+      "added_at": "2024-08-13 18:01:54",
+      "album": {
         "name": "\u9752\u6625\u8b33\u6b4c (feat.ano)",
         "url": "https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 227792,
       "name": "\u9752\u6625\u8b33\u6b4c (feat.ano)",
       "url": "https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc"
-    },
-    {
-      "added_at": "2024-08-13 18:01:54",
-      "album": {
-        "name": "\u7d14\u611b\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9"
-      },
-      "artists": [
-        {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
-        }
-      ],
-      "duration_ms": 277453,
-      "name": "\u3042\u305f\u3057\u304c\u6b7b\u3093\u3067\u3082",
-      "url": "https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm"
     },
     {
       "added_at": "2024-08-13 18:01:54",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-08-13 18:01:54",
       "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 222753,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt"
+    },
+    {
+      "added_at": "2024-08-13 18:01:54",
+      "album": {
         "name": "\u3059\u305a\u3081",
         "url": "https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 236390,
       "name": "\u3059\u305a\u3081",
       "url": "https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s"
-    },
-    {
-      "added_at": "2024-08-13 18:01:54",
-      "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw"
-      },
-      "artists": [
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
-        }
-      ],
-      "duration_ms": 222753,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt"
     },
     {
       "added_at": "2024-08-13 18:01:54",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-08-13 18:01:54",
       "album": {
+        "name": "\u30a2\u30a4\u30ef\u30ca",
+        "url": "https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "\u30a2\u30a4\u30ef\u30ca",
+      "url": "https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS"
+    },
+    {
+      "added_at": "2024-08-13 18:01:54",
+      "album": {
         "name": "FORGIVE ME",
         "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2024-08-13 18:01:54",
       "album": {
-        "name": "\u30a2\u30a4\u30ef\u30ca",
-        "url": "https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM"
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
       },
       "artists": [
         {
-          "name": "\u51a8\u5ca1\u611b",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
         }
       ],
-      "duration_ms": 230933,
-      "name": "\u30a2\u30a4\u30ef\u30ca",
-      "url": "https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS"
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
     },
     {
       "added_at": "2024-08-13 18:01:54",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2024-08-13 18:01:54",
       "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
-      },
-      "artists": [
-        {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
-    },
-    {
-      "added_at": "2024-08-13 18:01:54",
-      "album": {
         "name": "\u3042\u308c\u304c\u604b\u3060\u3063\u305f\u306e\u304b\u306a",
         "url": "https://open.spotify.com/album/7uFU9Y8c0jKNXuqjOLzMT3"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-08-13 18:01:54",
       "album": {
-        "name": "\u30e6\u30ea\u30a4\u30ab",
-        "url": "https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0"
-      },
-      "artists": [
-        {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 225485,
-      "name": "\u30e6\u30ea\u30a4\u30ab",
-      "url": "https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV"
-    },
-    {
-      "added_at": "2024-08-13 18:01:54",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 207160,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k"
+    },
+    {
+      "added_at": "2024-08-13 18:01:54",
+      "album": {
+        "name": "\u30e6\u30ea\u30a4\u30ab",
+        "url": "https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "duration_ms": 225485,
+      "name": "\u30e6\u30ea\u30a4\u30ab",
+      "url": "https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV"
     },
     {
       "added_at": "2024-08-13 18:01:54",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-08-13 18:01:54",
       "album": {
-        "name": "\u611b\u304c\u706f\u308b",
-        "url": "https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr"
-      },
-      "artists": [
-        {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 199117,
-      "name": "\u611b\u304c\u706f\u308b",
-      "url": "https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR"
-    },
-    {
-      "added_at": "2024-08-13 18:01:54",
-      "album": {
         "name": "\u306d\u3048\u3001\u3061\u3083\u3093\u3068\u805e\u3044\u3066\u308b\uff1f",
         "url": "https://open.spotify.com/album/1sXKBqs1PS1ArgzcE0Y3kM"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 220714,
       "name": "\u7070\u304b\u3076\u308a",
       "url": "https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4"
+    },
+    {
+      "added_at": "2024-08-13 18:01:54",
+      "album": {
+        "name": "\u611b\u304c\u706f\u308b",
+        "url": "https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "duration_ms": 199117,
+      "name": "\u611b\u304c\u706f\u308b",
+      "url": "https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR"
     }
   ],
   "unique_name": "Women's Voice",

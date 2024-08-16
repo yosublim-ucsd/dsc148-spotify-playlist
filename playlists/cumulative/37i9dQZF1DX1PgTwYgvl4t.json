@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-10",
-  "description": "Strictly Nigerian worship songs. Cover:  <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=wGtUH00wTBaQMiSBC7lBZA>Moses Bliss</a>",
+  "description": "Strictly Nigerian worship songs. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=P3aUHJWgRLCGMmhYuDEMtQ>Sunmisola Agbebi</a>",
   "name": "Naija Worship",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 228361,
       "name": "All to You",
       "url": "https://open.spotify.com/track/32naTG3cDf7G72CB7CgCHC"
@@ -889,6 +889,28 @@
     },
     {
       "album": {
+        "name": "Maisha Yangu / Baba Yangu, Baba Yangu (Live in Kenya)",
+        "url": "https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542850,
+      "name": "Maisha Yangu / Baba Yangu, Baba Yangu - Live in Kenya",
+      "url": "https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT"
+    },
+    {
+      "album": {
         "name": "The Expression",
         "url": "https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm"
       },
@@ -1236,7 +1258,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 224898,
       "name": "Rescue The Perishing",
       "url": "https://open.spotify.com/track/4s3qSbjkrTX48tz50UYHA7"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Ravyn Lenae",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Thisizlondon",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/5SdjFd7vXcbvQAjOy2kLwb"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204986,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/7GJAITul5ZTnYLRBJTricW"
+    },
+    {
+      "album": {
         "name": "falling or flying (Reimagined)",
         "url": "https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM"
       },
@@ -666,6 +684,24 @@
       "duration_ms": 216480,
       "name": "Backwards - Reimagined",
       "url": "https://open.spotify.com/track/03hIO0Z3ZxyV0DX1XlR8PM"
+    },
+    {
+      "album": {
+        "name": "Bad Side",
+        "url": "https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "Bad Side",
+      "url": "https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r"
     },
     {
       "album": {
@@ -887,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Black & White",
+        "url": "https://open.spotify.com/album/2BCerfmHXuVVKbJH1Uls66"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121621,
+      "name": "Black & White",
+      "url": "https://open.spotify.com/track/1fRVkCzUtiSJskr0WeahmB"
+    },
+    {
+      "album": {
         "name": "Blades",
         "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
       },
@@ -1064,7 +1118,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 120263,
       "name": "BOOTYCAKE",
       "url": "https://open.spotify.com/track/0CRy6FCPtXC81L2MdRxx7j"
@@ -3560,7 +3614,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 215360,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
@@ -4200,6 +4254,24 @@
       "duration_ms": 195000,
       "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
       "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
+    },
+    {
+      "album": {
+        "name": "If You Want Me",
+        "url": "https://open.spotify.com/album/1TyK9fGVz99lGICuC8slCf"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202610,
+      "name": "If You Want Me",
+      "url": "https://open.spotify.com/track/6NIJ7wSGSPj1HEAbbMQ3cm"
     },
     {
       "album": {
@@ -5520,7 +5592,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 238185,
       "name": "Make Me Forget",
       "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
@@ -7028,6 +7100,32 @@
       "duration_ms": 161132,
       "name": "Pick it Up",
       "url": "https://open.spotify.com/track/10rJH6BggTxh7esR2Hvpbd"
+    },
+    {
+      "album": {
+        "name": "PINACOLADA",
+        "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
+      },
+      "artists": [
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177847,
+      "name": "PINACOLADA",
+      "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
     },
     {
       "album": {
@@ -8792,7 +8890,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 252170,
       "name": "Stay Up",
       "url": "https://open.spotify.com/track/4I11J3L5r4Ef1dV0Z5qqqJ"
@@ -9540,7 +9638,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 162093,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/5cmDZP3J5RXD2VhraggoZj"
@@ -10768,7 +10866,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 129466,
       "name": "Wishing It Was Easy",
       "url": "https://open.spotify.com/track/1NrDqV7AICC6qDlD23AxTX"
@@ -11057,7 +11155,7 @@
     },
     {
       "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2",
+        "name": "ORQU\u00cdDEAS PARTE 2 - Deluxe",
         "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
       },
       "artists": [

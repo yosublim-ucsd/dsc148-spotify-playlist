@@ -2,7 +2,7 @@
 
 ### [This Is Christine D'Clario](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Yxulq)
 
-> This is Christine D'Clario\. The essential tracks, all in one playlist.
+> This is Christine D'Clario\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 106 songs - 10 hr 20 min
 

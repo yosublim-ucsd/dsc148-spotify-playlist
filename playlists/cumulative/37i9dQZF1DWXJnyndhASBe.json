@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kuban, Oki",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: 730 Huncho, Malik Montana, Kazior",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 209577,
       "name": "DAM CI PORADY",
       "url": "https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM"
@@ -5138,7 +5138,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 174000,
       "name": "M\u0142ody Manson",
       "url": "https://open.spotify.com/track/2khnj1kS7t2uNoMGB44c3X"
@@ -6025,6 +6025,36 @@
     },
     {
       "album": {
+        "name": "OG (Osiedlowy Geniusz)",
+        "url": "https://open.spotify.com/album/2AnSvvkgi1CKrtKQqxgCTX"
+      },
+      "artists": [
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "Amster",
+          "url": "https://open.spotify.com/artist/09yDJTGFIvWYKdU6apskTP"
+        },
+        {
+          "name": "OG ENZO",
+          "url": "https://open.spotify.com/artist/4NvUzGnIZ4z0sSD4bnX3zi"
+        },
+        {
+          "name": "Syru",
+          "url": "https://open.spotify.com/artist/3uT7FdWh1z2ATzC6K4UAGT"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "OG (Osiedlowy Geniusz)",
+      "url": "https://open.spotify.com/track/5wTHoWNRlE8WFwvyv8dGyF"
+    },
+    {
+      "album": {
         "name": "FREE AGENT",
         "url": "https://open.spotify.com/album/1Shvu0oUTSFDOcKvwWdlYo"
       },
@@ -6870,6 +6900,36 @@
       "duration_ms": 183748,
       "name": "Przester",
       "url": "https://open.spotify.com/track/0MTTFee7cTSd46njlPKBZe"
+    },
+    {
+      "album": {
+        "name": "Przestrze\u0144",
+        "url": "https://open.spotify.com/album/1ivUpyngkgPuOv1LyPRPtC"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        },
+        {
+          "name": "Kie\u0142as",
+          "url": "https://open.spotify.com/artist/4NQwEdANIwq4oBHCquIQZr"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Przestrze\u0144",
+      "url": "https://open.spotify.com/track/6JXO6FS68G5WMYq5XC0tnu"
     },
     {
       "album": {

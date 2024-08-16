@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: Joya
+> 2024 RADAR登場！持續發掘世一超新聲！Cover: OJ Reambillo
 
-206 songs - 11 hr 52 min
+207 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Soufflé](https://open.spotify.com/track/6Z79p0EQm2PNCST8EQfaQ2) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Soufflé](https://open.spotify.com/album/0r7EKnvPN4a3t4QrIN78GB) | 3:02 | 2024-04-18 |  |
 | [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 | 2023-03-02 | 2023-04-14 |
 | [stupidlittlegirl](https://open.spotify.com/track/48dGspOoVv7a9HtHSgPQuh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 2:59 | 2024-03-28 |  |
+| [Summer Night Rock](https://open.spotify.com/track/4kH5ecTAKSjyK3hKBKpZiP) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [Summer Night Rock](https://open.spotify.com/album/667ABOBs4DiQmG5FHMRhZu) | 2:32 | 2024-08-15 |  |
 | [SUNSET UPSET](https://open.spotify.com/track/7zHyYPw35wSf10lWj9OnwY) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [SUNSET UPSET](https://open.spotify.com/album/3KblbNFtaeVD5Ze37v3aUR) | 3:34 | 2023-09-15 | 2024-03-29 |
 | [SUPERSTAR](https://open.spotify.com/track/27ec2g3R7h4Hgz7KRUi7lK) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [SUPERSTAR](https://open.spotify.com/album/4nEdpyUXWcdA4DkBSt3k8b) | 2:37 | 2023-10-12 |  |
 | [Sway Away](https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [Grow](https://open.spotify.com/album/1et4LPyDPAAdlHhyfydzDH) | 3:26 | 2022-05-26 | 2023-01-20 |

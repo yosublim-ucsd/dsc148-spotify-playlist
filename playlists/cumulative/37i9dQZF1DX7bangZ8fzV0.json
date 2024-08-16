@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=RksCaB0mTb6mPLUkKUDVVQ\">Demi Lee Moore</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=HHQ8j639Sl-mMRm02k90oA\">Eloff</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 184026,
       "name": "ATKV",
       "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Proe Soos Nog",
+        "url": "https://open.spotify.com/album/3QFQnR9V6HOhs0tiMJVvOS"
+      },
+      "artists": [
+        {
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Hasie Hop",
+      "url": "https://open.spotify.com/track/7mJEgMNaCnwUx4Y4jcP2rd"
+    },
+    {
+      "album": {
         "name": "Heito Potato",
         "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
       },
@@ -1824,7 +1842,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 202348,
       "name": "Kalahari Ferrari",
       "url": "https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je"
@@ -2218,6 +2236,24 @@
       "duration_ms": 198152,
       "name": "Lawaaiwater",
       "url": "https://open.spotify.com/track/71MTNDn8B3tBr0WVG0Jaj2"
+    },
+    {
+      "album": {
+        "name": "Lek My Lippe Af",
+        "url": "https://open.spotify.com/album/4U2E0tpYsGCAMYn9dy7lPn"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193447,
+      "name": "Lek My Lippe Af",
+      "url": "https://open.spotify.com/track/7AxtjVZVNwPt9VG3D0N1jK"
     },
     {
       "album": {

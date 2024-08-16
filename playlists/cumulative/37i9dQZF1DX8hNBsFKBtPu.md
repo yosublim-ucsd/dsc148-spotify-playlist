@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> Det bedste nye pop 🧡
+> Det bedste nye pop 💜 Mina Okabe på coveret
 
-146 songs - 7 hr 28 min
+153 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,14 @@
 | [Alt Ved Dig](https://open.spotify.com/track/6DpGj9bttRgHoT1vk8ezgj) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Alt Ved Dig](https://open.spotify.com/album/0XkYs4ds1GxWOg2ghL07fY) | 2:21 | 2024-06-27 |  |
 | [Altid Dig](https://open.spotify.com/track/7GyJhLUaADBKhW2mii8kTE) | [Page Four](https://open.spotify.com/artist/7HhY2BesKCaNSBRigohHXj) | [Altid Dig](https://open.spotify.com/album/5nMiJWbwOQabd8v9QsnJud) | 3:02 | 2024-06-27 |  |
 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-06-27 |  |
+| [Bad Day](https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Bad Day](https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3) | 2:51 | 2024-08-15 |  |
 | [Baglæns](https://open.spotify.com/track/2IQAtBAWoIFo4I7aAwS7ta) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Baglæns](https://open.spotify.com/album/6t7vdccGJk7I1yCL0KbrZw) | 3:09 | 2024-06-27 | 2024-07-30 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-27 | 2024-07-30 |
 | [Better Days](https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Better Days](https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT) | 3:38 | 2024-06-27 | 2024-07-30 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-27 |  |
 | [Blåregn](https://open.spotify.com/track/3CDYrDINLxRhjvvqbSaryC) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Blåregn / 10/10](https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh) | 3:07 | 2024-06-27 | 2024-07-06 |
+| [Butterfly Street](https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Butterfly Street](https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0) | 2:46 | 2024-08-15 |  |
+| [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-15 |  |
 | [Call Me A Dreamer](https://open.spotify.com/track/40REbNWViDmfb9b3DxbfpQ) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf) | [Call Me A Dreamer](https://open.spotify.com/album/2VfsX7bUKuRSuArqNTXQd9) | 2:34 | 2024-08-09 |  |
 | [Cheat Code](https://open.spotify.com/track/3rGYQLxtPkFSgrEPkgUX5t) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Cheat Code](https://open.spotify.com/album/4n6aFAgYI9y2bY9IaoB6VW) | 2:29 | 2024-06-27 | 2024-07-06 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-27 |  |
@@ -49,6 +52,7 @@
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-08 |  |
 | [For The Love Of You](https://open.spotify.com/track/3hBJzRjC7HLxJOXEg8PEiN) | [Hush](https://open.spotify.com/artist/6F5xUbHE5eHGoGBS4IMWPj) | [For The Love Of You](https://open.spotify.com/album/0AUwUepLLK2EoZBAcE5K5U) | 3:35 | 2024-07-05 |  |
 | [For The Show](https://open.spotify.com/track/5nq49A7NUjar8G7tiVfWnc) | [SOL](https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj) | [For The Show](https://open.spotify.com/album/5mzVQJPAL75eUyIFT4TEjb) | 3:04 | 2024-06-27 |  |
+| [Forever With Savannah](https://open.spotify.com/track/2LFaDGWpg9S6rYyDL4qWKH) | [Emely](https://open.spotify.com/artist/1DjkK0PiDGeOslM18k1HmE) | [Forever With Savannah](https://open.spotify.com/album/0FC4ogurRNrDJ9KXgJd8lj) | 3:18 | 2024-08-15 |  |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-27 | 2024-07-30 |
 | [Færdig Med Pis?](https://open.spotify.com/track/76ebYJn6WUdOZuYvlqka5r) | [Jung](https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL) | [Færdig Med Pis?](https://open.spotify.com/album/1bSnvK3278AA7cKRnRbWTb) | 2:52 | 2024-06-27 | 2024-07-30 |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-27 |  |
@@ -102,6 +106,7 @@
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-06-27 |  |
 | [Never the same](https://open.spotify.com/track/1mc9ZGd7tFDCdYS8EP6PqC) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Never the same](https://open.spotify.com/album/3GqagQDa9ynKUhlc5DNlr0) | 2:22 | 2024-06-27 |  |
 | [New Light](https://open.spotify.com/track/2QkD8IuhRFhIjIuIQaYXCe) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [New Light](https://open.spotify.com/album/3YHnGJ4dRXDOt9nwOsdEyK) | 2:33 | 2024-06-27 |  |
+| [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-15 |  |
 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2024-06-27 | 2024-07-30 |
 | [Noget Si'r Mig](https://open.spotify.com/track/0VKpZJPkO2PcvwiSOwOvEc) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Noget Si'r Mig](https://open.spotify.com/album/5MkJ9dIJBM7BNJFgtLgmfN) | 3:19 | 2024-06-27 |  |
 | [Næste Bølge](https://open.spotify.com/track/48e6f9GNCUswGP4s1WyUz4) | [KRYD](https://open.spotify.com/artist/3goYa2gnDqTLI7JESwEmHb) | [Næste Bølge](https://open.spotify.com/album/7f5l0CFX0Ajmf9z5Kw4JWX) | 2:49 | 2024-06-27 |  |
@@ -127,6 +132,8 @@
 | [Stille](https://open.spotify.com/track/6mqlATjYCF1jHpY2EkFqSM) | [Mads Christian](https://open.spotify.com/artist/3Ehbg1qhRKHshR8H2BoR8N) | [Stille](https://open.spotify.com/album/1HzuneDltVzi3aQxyyyvv7) | 2:58 | 2024-06-27 |  |
 | [Stone \(feat\. Bakar\)](https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Stone \(feat\. Bakar\)](https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ) | 3:20 | 2024-08-01 |  |
 | [Storebæltsbroen](https://open.spotify.com/track/7jnKJJB0H7Pl3uyw9ifY7X) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Storebæltsbroen](https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q) | 2:59 | 2024-06-27 | 2024-07-30 |
+| [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-15 |  |
+| [Syg Tid](https://open.spotify.com/track/3HHHBXCzRDYpTVzqHkVOZ4) | [Shaka Loveless](https://open.spotify.com/artist/1g0jeVx0irpIIjoOEflsHj) | [Syg Tid](https://open.spotify.com/album/7tHCDFKsLQUpMZQJwy3Wzp) | 2:46 | 2024-08-15 |  |
 | [Så længe jeg er sexy.](https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Så længe jeg er sexy.](https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9) | 2:30 | 2024-08-01 |  |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-27 |  |
 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 | 2024-07-11 |  |

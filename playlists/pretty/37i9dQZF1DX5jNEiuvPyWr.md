@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Elh Kmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,890 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,895 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,24 +29,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 19 | [Paris Tanger](https://open.spotify.com/track/19Qk0blqgKX3uW0F79dBO1) | [Leith](https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT) | [LE RICHE EST SOURD](https://open.spotify.com/album/2lmhKVBSrjlLp7eXxNFGqG) | 2:31 |
 | 20 | [PLEURE PLEURE PLEURE](https://open.spotify.com/track/0z9Pjd0DJMvvh8x159hGLN) | [Sovajon](https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex) | [PLEURE PLEURE PLEURE](https://open.spotify.com/album/0h6ymbMfKM89ZiuRdjzFPp) | 3:31 |
 | 21 | [Aaliyah](https://open.spotify.com/track/0nR4wEOdxieaU7gX5W4zxj) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [Anhédonie](https://open.spotify.com/album/3GlInzLWZqAf3dkxO5CzEE) | 2:42 |
-| 22 | [La paume](https://open.spotify.com/track/45F4WSxrwyULSeEXH0NDoV) | [YUNG POOR ALO](https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds) | [La paume](https://open.spotify.com/album/3tlJROX0yLLiBttCwU1VfL) | 2:37 |
-| 23 | [DANS L'TRAP](https://open.spotify.com/track/374qdqFUlA7IwLSuC23WQE) | [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm) | [DANS L'TRAP](https://open.spotify.com/album/3R96xzeG9JkMeeWBy1k626) | 2:51 |
-| 24 | [TITULAIRE](https://open.spotify.com/track/1aGH38NuMmqBkYtKchy6F1) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [NUMERO 11](https://open.spotify.com/album/21VZamyCjVgontQhKMaQkL) | 2:36 |
-| 25 | [Selfie](https://open.spotify.com/track/5hhbnXZLYjJGCmLI5AeTGj) | [Nabyl](https://open.spotify.com/artist/41WswaMNobgS9ZbRQfpTGF) | [Selfie](https://open.spotify.com/album/76REL43HsFWAfN1qigfEq8) | 2:45 |
-| 26 | [AINSIFAITE](https://open.spotify.com/track/3vacN4Oe8Yn2eMHZBvKySP) | [Telam](https://open.spotify.com/artist/4YH9nYMnKZDKIXRFQrhRON) | [AINSIFAITE](https://open.spotify.com/album/5dVQq8KcIzHLk2n080xABL) | 2:17 |
-| 27 | [Katrina](https://open.spotify.com/track/0H0hEsGMDxX7RjAPhz3LAF) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [Katrina](https://open.spotify.com/album/3pIirpXIcZFjNh3FKeMYny) | 3:04 |
-| 28 | [AVERSE](https://open.spotify.com/track/0tpBPCVyZTbvBCntUjNuFQ) | [Noham](https://open.spotify.com/artist/1Q2NPkF71W70gFJmbdfZsm) | [AVERSE](https://open.spotify.com/album/0L2pCSZkgT0Z0NTQvH7G1H) | 3:02 |
-| 29 | [NEWBARBIE](https://open.spotify.com/track/18l3X0jdPEODoFezifcXB6) | [BKRBABYBOY](https://open.spotify.com/artist/4n9KyoZUUZgkQAoVxSOgZZ) | [LOVSZN](https://open.spotify.com/album/2zDLK9ayoDd2pjxkmkAAqO) | 1:49 |
-| 30 | [LA LUNE](https://open.spotify.com/track/6qz8nDdpuW5RvrDjzcYAwa) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [MOTEL STUDIO 2](https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ) | 2:33 |
-| 31 | [PARADIS](https://open.spotify.com/track/25YyTKgVsaUjRBMLvCP9Rx) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [BODY THERAPY](https://open.spotify.com/album/6GQvWsy7OV3jIJBwsim9ZF) | 2:34 |
-| 32 | [MAL DE MER](https://open.spotify.com/track/4piMHPfW4xnaOL5hkc7afA) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [NUMERO 11](https://open.spotify.com/album/21VZamyCjVgontQhKMaQkL) | 2:33 |
-| 33 | [Habitué](https://open.spotify.com/track/3Bxvm3fviWQdqPToOpng6n) | [Good Bana](https://open.spotify.com/artist/2dIWl0tmExUMJc3AjTOLCH) | [Habitué](https://open.spotify.com/album/1ncDcndrK5NcNfdMOeoCqH) | 2:48 |
-| 34 | [Oiseau de nuit](https://open.spotify.com/track/299v6FILLtNsfPoDWH7utU) | [Telam](https://open.spotify.com/artist/4YH9nYMnKZDKIXRFQrhRON) | [Oiseau de nuit](https://open.spotify.com/album/1fRkV0Pzcfb48wfoG5G95X) | 3:33 |
-| 35 | [Tout mélanger \(feat\. J9ueve\)](https://open.spotify.com/track/0NsKfpSggh1X4LcNWF0jFj) | [NoSnow](https://open.spotify.com/artist/27dfsOuMYOo8FEC5bFVT2v), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [Dolo](https://open.spotify.com/album/1bTHKbp57tvFNqgJigO6WV) | 2:15 |
-| 36 | [Je les méprise tous](https://open.spotify.com/track/79f0vcZmbrTu04Q0baYnau) | [Lycos](https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3) | [HYPERION](https://open.spotify.com/album/6FspfLkCe1TDl1IIocgXmV) | 2:48 |
-| 37 | [Omahana](https://open.spotify.com/track/2kiXPzkHJgtnHlYBgzOwN5) | [C\-ROM](https://open.spotify.com/artist/2JGq7nPI5eQjKRpKZEedf0) | [Omahana](https://open.spotify.com/album/6MSK28lVAeW2qYvXpH4u35) | 2:50 |
-| 38 | [Ourania](https://open.spotify.com/track/3R2TEuQmEUXif4gETqwOD3) | [Lil Purpx](https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28) | [Ourania](https://open.spotify.com/album/14o8g32hVrEWoylbITiDTW) | 2:53 |
-| 39 | [Focus \#2](https://open.spotify.com/track/7n0AIbbs7pV2N46u2CVfVI) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Focus](https://open.spotify.com/album/0Jc77F9R985vFoFdOvsGWv) | 3:15 |
-| 40 | [Minimum](https://open.spotify.com/track/3B9jxMUPRpJJRTXQNpM8Jb) | [Hofmann](https://open.spotify.com/artist/4dHYnkZpHvtz8I9oXZWQue), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [Minimum](https://open.spotify.com/album/0FMHpaHU0slUQQrCJr1BTO) | 3:10 |
+| 22 | [I Wanna See The Beach](https://open.spotify.com/track/288J9wSBRcBkRhXaetaKip) | [Lovarran](https://open.spotify.com/artist/4N68uxySPMlYAdpoN6PHFL) | [I Wanna See The Beach](https://open.spotify.com/album/5cpRnLZxogcN9nRvfZ8FFT) | 2:26 |
+| 23 | [La paume](https://open.spotify.com/track/45F4WSxrwyULSeEXH0NDoV) | [YUNG POOR ALO](https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds) | [La paume](https://open.spotify.com/album/3tlJROX0yLLiBttCwU1VfL) | 2:37 |
+| 24 | [DANS L'TRAP](https://open.spotify.com/track/374qdqFUlA7IwLSuC23WQE) | [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm) | [DANS L'TRAP](https://open.spotify.com/album/3R96xzeG9JkMeeWBy1k626) | 2:51 |
+| 25 | [TITULAIRE](https://open.spotify.com/track/1aGH38NuMmqBkYtKchy6F1) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [NUMERO 11](https://open.spotify.com/album/21VZamyCjVgontQhKMaQkL) | 2:36 |
+| 26 | [Selfie](https://open.spotify.com/track/5hhbnXZLYjJGCmLI5AeTGj) | [Nabyl](https://open.spotify.com/artist/41WswaMNobgS9ZbRQfpTGF) | [Selfie](https://open.spotify.com/album/76REL43HsFWAfN1qigfEq8) | 2:45 |
+| 27 | [AINSIFAITE](https://open.spotify.com/track/3vacN4Oe8Yn2eMHZBvKySP) | [Telam](https://open.spotify.com/artist/4YH9nYMnKZDKIXRFQrhRON) | [AINSIFAITE](https://open.spotify.com/album/5dVQq8KcIzHLk2n080xABL) | 2:17 |
+| 28 | [Katrina](https://open.spotify.com/track/0H0hEsGMDxX7RjAPhz3LAF) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [Katrina](https://open.spotify.com/album/3pIirpXIcZFjNh3FKeMYny) | 3:04 |
+| 29 | [AVERSE](https://open.spotify.com/track/0tpBPCVyZTbvBCntUjNuFQ) | [Noham](https://open.spotify.com/artist/1Q2NPkF71W70gFJmbdfZsm) | [AVERSE](https://open.spotify.com/album/0L2pCSZkgT0Z0NTQvH7G1H) | 3:02 |
+| 30 | [NEWBARBIE](https://open.spotify.com/track/18l3X0jdPEODoFezifcXB6) | [BKRBABYBOY](https://open.spotify.com/artist/4n9KyoZUUZgkQAoVxSOgZZ) | [LOVSZN](https://open.spotify.com/album/2zDLK9ayoDd2pjxkmkAAqO) | 1:49 |
+| 31 | [LA LUNE](https://open.spotify.com/track/6qz8nDdpuW5RvrDjzcYAwa) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [MOTEL STUDIO 2](https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ) | 2:33 |
+| 32 | [PARADIS](https://open.spotify.com/track/25YyTKgVsaUjRBMLvCP9Rx) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [BODY THERAPY](https://open.spotify.com/album/6GQvWsy7OV3jIJBwsim9ZF) | 2:34 |
+| 33 | [MAL DE MER](https://open.spotify.com/track/4piMHPfW4xnaOL5hkc7afA) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [NUMERO 11](https://open.spotify.com/album/21VZamyCjVgontQhKMaQkL) | 2:33 |
+| 34 | [Habitué](https://open.spotify.com/track/3Bxvm3fviWQdqPToOpng6n) | [Good Bana](https://open.spotify.com/artist/2dIWl0tmExUMJc3AjTOLCH) | [Habitué](https://open.spotify.com/album/1ncDcndrK5NcNfdMOeoCqH) | 2:48 |
+| 35 | [Oiseau de nuit](https://open.spotify.com/track/299v6FILLtNsfPoDWH7utU) | [Telam](https://open.spotify.com/artist/4YH9nYMnKZDKIXRFQrhRON) | [Oiseau de nuit](https://open.spotify.com/album/1fRkV0Pzcfb48wfoG5G95X) | 3:33 |
+| 36 | [Tout mélanger \(feat\. J9ueve\)](https://open.spotify.com/track/0NsKfpSggh1X4LcNWF0jFj) | [NoSnow](https://open.spotify.com/artist/27dfsOuMYOo8FEC5bFVT2v), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [Dolo](https://open.spotify.com/album/1bTHKbp57tvFNqgJigO6WV) | 2:15 |
+| 37 | [Je les méprise tous](https://open.spotify.com/track/79f0vcZmbrTu04Q0baYnau) | [Lycos](https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3) | [HYPERION](https://open.spotify.com/album/6FspfLkCe1TDl1IIocgXmV) | 2:48 |
+| 38 | [Omahana](https://open.spotify.com/track/2kiXPzkHJgtnHlYBgzOwN5) | [C\-ROM](https://open.spotify.com/artist/2JGq7nPI5eQjKRpKZEedf0) | [Omahana](https://open.spotify.com/album/6MSK28lVAeW2qYvXpH4u35) | 2:50 |
+| 39 | [Ourania](https://open.spotify.com/track/3R2TEuQmEUXif4gETqwOD3) | [Lil Purpx](https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28) | [Ourania](https://open.spotify.com/album/14o8g32hVrEWoylbITiDTW) | 2:53 |
+| 40 | [Focus \#2](https://open.spotify.com/track/7n0AIbbs7pV2N46u2CVfVI) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Focus](https://open.spotify.com/album/0Jc77F9R985vFoFdOvsGWv) | 3:15 |
 
-Snapshot ID: `ZrU/4AAAAABB2dFa2filbitrDRDnN739`
+Snapshot ID: `Zr56YAAAAACg6YhqSIRJr97W4N9WYQi/`

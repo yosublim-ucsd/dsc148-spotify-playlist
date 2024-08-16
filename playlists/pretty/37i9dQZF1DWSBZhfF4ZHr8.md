@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo : Jérémy Frerot
+> Les meilleures nouveautés de la variété française\. Photo : Ridsa
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,874 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,881 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gamins des sables](https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamins des sables](https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG) | 2:59 |
-| 2 | [Plus L'Time \(Stereo Love\)](https://open.spotify.com/track/1SXq81JaEMfD3L7aGJv7K3) | [Léa Zelia](https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Adryano](https://open.spotify.com/artist/2UDlaOGt9VWAqsbNmsYzYk) | [Plus L'Time \(Stereo Love\)](https://open.spotify.com/album/09DH6CFGrS9EPoxv4Vi3ea) | 2:54 |
-| 3 | [Lady Melody](https://open.spotify.com/track/2IHOFiaAcZWnhdTEaPzGMt) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq), [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [Lady Melody](https://open.spotify.com/album/2swXFP1plSouufy9vuYqRg) | 2:14 |
-| 4 | [Rosa](https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Rosa](https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz) | 2:16 |
-| 5 | [Les Larmes ne coulent pas](https://open.spotify.com/track/6OG2MCk4VFb0pI92f9ec1B) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo), [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 3:42 |
-| 6 | [Umani Terra](https://open.spotify.com/track/779gHT6XTEHjMO1euJHCi6) | [La petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [Umani Terra](https://open.spotify.com/album/4bEcAf4AK0a2NV40KVX01y) | 3:09 |
-| 7 | [Chaque seconde](https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:46 |
-| 8 | [Papa dis\-moi](https://open.spotify.com/track/5sij5devnFg3Uf5BhSLAZS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Luna](https://open.spotify.com/artist/6WoNc6jV6PQq1wtZLmGJDY) | [Freedom](https://open.spotify.com/album/4dRr6s3IPF9OWzr6qIBQEt) | 2:35 |
-| 9 | [T'es Partout](https://open.spotify.com/track/3K8zTFf3LSOZ1qWPv9kXNd) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Avec un H \(Acoustique\)](https://open.spotify.com/album/6QArLJTHbHz2oEL5LSKJQY) | 2:57 |
-| 10 | [Comment tu fais ça ?](https://open.spotify.com/track/7zDcBYvKt0xN33bNY7OOyX) | [Eko Eko](https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY) | [Comment tu fais ça ?](https://open.spotify.com/album/4uenXkbXhN2VCgvkp2uoOo) | 3:01 |
-| 11 | [C'est ça la vie](https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp) | 2:29 |
-| 12 | [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 |
-| 13 | [Fille du Sud \(Lambada\)](https://open.spotify.com/track/78aegnVpvsl3RcGFQ7KaAc) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Fille du Sud \(Lambada\)](https://open.spotify.com/album/1vJztGdHxVqQJ2oCQO7qNO) | 2:43 |
-| 14 | [Que tu restes](https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre \(Summer Édition\)](https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU) | 2:59 |
-| 15 | [Summer Body](https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Pas de seum pour le summer](https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA) | 2:59 |
+| 1 | [Rosa](https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Rosa](https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz) | 2:16 |
+| 2 | [T'es Partout](https://open.spotify.com/track/3K8zTFf3LSOZ1qWPv9kXNd) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Avec un H \(Acoustique\)](https://open.spotify.com/album/6QArLJTHbHz2oEL5LSKJQY) | 2:57 |
+| 3 | [Comment tu fais ça ?](https://open.spotify.com/track/7zDcBYvKt0xN33bNY7OOyX) | [Eko Eko](https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY) | [Comment tu fais ça ?](https://open.spotify.com/album/4uenXkbXhN2VCgvkp2uoOo) | 3:01 |
+| 4 | [Gamins des sables](https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamins des sables](https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG) | 2:59 |
+| 5 | [C'est ça la vie](https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp) | 2:29 |
+| 6 | [Chaque seconde](https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:46 |
+| 7 | [Summer Body](https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Pas de seum pour le summer](https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA) | 2:59 |
+| 8 | [Lady Melody](https://open.spotify.com/track/2IHOFiaAcZWnhdTEaPzGMt) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq), [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [Lady Melody](https://open.spotify.com/album/2swXFP1plSouufy9vuYqRg) | 2:14 |
+| 9 | [Plus L'Time \(Stereo Love\)](https://open.spotify.com/track/1SXq81JaEMfD3L7aGJv7K3) | [Léa Zelia](https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Adryano](https://open.spotify.com/artist/2UDlaOGt9VWAqsbNmsYzYk) | [Plus L'Time \(Stereo Love\)](https://open.spotify.com/album/09DH6CFGrS9EPoxv4Vi3ea) | 2:54 |
+| 10 | [Papa dis\-moi](https://open.spotify.com/track/5sij5devnFg3Uf5BhSLAZS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Luna](https://open.spotify.com/artist/6WoNc6jV6PQq1wtZLmGJDY) | [Freedom](https://open.spotify.com/album/4dRr6s3IPF9OWzr6qIBQEt) | 2:35 |
+| 11 | [Les Larmes ne coulent pas](https://open.spotify.com/track/6OG2MCk4VFb0pI92f9ec1B) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo), [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 3:42 |
+| 12 | [Umani Terra](https://open.spotify.com/track/779gHT6XTEHjMO1euJHCi6) | [La petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [Umani Terra](https://open.spotify.com/album/4bEcAf4AK0a2NV40KVX01y) | 3:09 |
+| 13 | [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 |
+| 14 | [Fille du Sud \(Lambada\)](https://open.spotify.com/track/78aegnVpvsl3RcGFQ7KaAc) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Fille du Sud \(Lambada\)](https://open.spotify.com/album/1vJztGdHxVqQJ2oCQO7qNO) | 2:43 |
+| 15 | [Que tu restes](https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre \(Summer Édition\)](https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU) | 2:59 |
 | 16 | [HIT PARADE](https://open.spotify.com/track/1oJgld3iDUZ6pbP3q2cfix) | [Trois Vagues](https://open.spotify.com/artist/4Vp1zLQeZ42EzIrxfbYi2Z) | [HIT PARADE](https://open.spotify.com/album/0FzhFBFxmWr7vrmxMcZijS) | 2:48 |
 | 17 | [Le tour du monde](https://open.spotify.com/track/4zQnaIcM2gWNnEnrf0PPKd) | [Margot Abate](https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ) | [Le tour du monde](https://open.spotify.com/album/6nWL5kBOrcd6T6PbqDiiim) | 2:30 |
 | 18 | [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [LA DONNE](https://open.spotify.com/track/4jolz1beeQ18zASUMbmwDE) | [Allan](https://open.spotify.com/artist/7tJ1ZtOt4EOPyQnT8LE6rH) | [JE RAME, JE TANGUE](https://open.spotify.com/album/1c3l6TYCRVmoXQhhcnAALy) | 2:55 |
 | 50 | [30](https://open.spotify.com/track/3pC7iN76SIPmxz2zjEEUtn) | [Tibz](https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF) | [30](https://open.spotify.com/album/1bwwkx1WmLDITtMewlvImf) | 5:02 |
 
-Snapshot ID: `ZqwFYAAAAADVvK/YhEfocS2lLcL5uAO6`
+Snapshot ID: `Zr56YAAAAAB19RE/PH1hMDWCATYwZwmF`

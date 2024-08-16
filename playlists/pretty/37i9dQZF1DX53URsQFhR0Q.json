@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 7006,
+  "num_followers": 7012,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Yesu Do",
-        "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
-      },
-      "artists": [
-        {
-          "name": "Noble Nketsiah",
-          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
-        }
-      ],
-      "duration_ms": 350328,
-      "name": "Yesu Do",
-      "url": "https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Onyame Boafuo",
         "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 316055,
       "name": "Nipa",
       "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Yesu Do",
+        "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
+      },
+      "artists": [
+        {
+          "name": "Noble Nketsiah",
+          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
+        }
+      ],
+      "duration_ms": 350328,
+      "name": "Yesu Do",
+      "url": "https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -395,22 +395,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "I Am Noble",
-        "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
+        "name": "Onyame Wo Ho",
+        "url": "https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo"
       },
       "artists": [
         {
-          "name": "Noble Nketsiah",
-          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
-        },
-        {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
         }
       ],
-      "duration_ms": 244297,
-      "name": "Ayeyi",
-      "url": "https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY"
+      "duration_ms": 302628,
+      "name": "Me Da Wase",
+      "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -431,22 +427,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Onyame Wo Ho",
-        "url": "https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo"
-      },
-      "artists": [
-        {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
-        }
-      ],
-      "duration_ms": 302628,
-      "name": "Me Da Wase",
-      "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Aseda",
         "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 427226,
       "name": "Wo Ntaban",
       "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "I Am Noble",
+        "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
+      },
+      "artists": [
+        {
+          "name": "Noble Nketsiah",
+          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
+        },
+        {
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+        }
+      ],
+      "duration_ms": 244297,
+      "name": "Ayeyi",
+      "url": "https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY"
     },
     {
       "added_at": "2024-05-22 11:00:00",

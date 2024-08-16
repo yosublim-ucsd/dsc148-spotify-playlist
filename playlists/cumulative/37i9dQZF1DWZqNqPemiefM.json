@@ -7669,6 +7669,24 @@
     },
     {
       "album": {
+        "name": "As Planetary Dreams",
+        "url": "https://open.spotify.com/album/6i9E09MCJ0M3v5oxFFzms6"
+      },
+      "artists": [
+        {
+          "name": "Taeji Sawai",
+          "url": "https://open.spotify.com/artist/36rvY7yVojHB2246EG0LV5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "S_lowl Melancolic",
+      "url": "https://open.spotify.com/track/37Jy5BoONDGV5sv7CZl5AN"
+    },
+    {
+      "album": {
         "name": "Laideronnette",
         "url": "https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs"
       },
@@ -10072,7 +10090,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 235826,
       "name": "True Life Again",
       "url": "https://open.spotify.com/track/7h3Jac9a1L6S745rl0mC59"

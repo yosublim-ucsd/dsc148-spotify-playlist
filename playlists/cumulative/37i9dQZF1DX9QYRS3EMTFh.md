@@ -2,7 +2,7 @@
 
 ### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
-> Les hits dancehall du moment\. Photo : Says'z x Bamby
+> Les hits dancehall du moment\. Photo : Meryl
 
 431 songs - 19 hr 24 min
 

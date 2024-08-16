@@ -2,9 +2,9 @@
 
 ### [Hot Alternative](https://open.spotify.com/playlist/37i9dQZF1DWUa8WMYIRY8Y)
 
-> Les meilleurs morceaux alternatifs du moment\. Photo : Fontaines D.C.
+> Les meilleurs morceaux alternatifs du moment\. Photo : beabadoobee
 
-271 songs - 16 hr 20 min
+272 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/track/0UwDwiamblRdcYyzfDJS4k) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/album/3pZbBTlwXWw77Tj5Euwe3s) | 3:48 | 2023-12-08 | 2024-01-19 |
 | [DooM Dance \(feat\. Carpenter Brut, Gavin Rossdale\)](https://open.spotify.com/track/20JIsSw5ZYDg6ikx91vnVV) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [DooM Dance \(feat\. Carpenter Brut, Gavin Rossdale\)](https://open.spotify.com/album/23pEJLlwOx3z0qOw3rT1AY) | 3:36 | 2023-09-28 | 2023-10-27 |
 | [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 | 2023-12-21 | 2024-04-05 |
+| [Dull \(feat\. Softcult\)](https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dull \(feat\. Softcult\)](https://open.spotify.com/album/3gmtr45Lzb7GjzQFXe49C8) | 3:15 | 2024-08-15 |  |
 | [DUST OFF / START AGAIN](https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DUST OFF / START AGAIN](https://open.spotify.com/album/4DX48GxWm0UadGrp1dDT3O) | 3:44 | 2024-02-08 | 2024-03-15 |
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-03-07 | 2024-06-21 |
 | [Exits Blocked](https://open.spotify.com/track/6ZjQr2u2refwSwIE1Y2FFQ) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Hot Air Balloon EP](https://open.spotify.com/album/6FQhPhyUfZcfqvjeGd4lhC) | 3:29 | 2024-01-04 | 2024-03-08 |
@@ -225,7 +226,7 @@
 | [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 | 2024-06-13 | 2024-06-21 |
 | [Strawberry Moon](https://open.spotify.com/track/10BKuJBnCHqUWbPgTjo8s0) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Strawberry Moon](https://open.spotify.com/album/5y9kYsejqeHvrNXUNLksvU) | 3:42 | 2024-04-04 | 2024-04-26 |
 | [Street Rat](https://open.spotify.com/track/6QEXgIEYghZjsFcQPohZ9q) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Street Rat](https://open.spotify.com/album/1dSWDvAoExxAwJj2Hf7kTB) | 3:30 | 2023-09-28 | 2023-11-10 |
-| [Stupid Heart](https://open.spotify.com/track/64FWcpeHm6BB9oFlacsY3w) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Stupid Heart](https://open.spotify.com/album/2mNque84IKRiGLn6QpHrxn) | 2:22 | 2024-05-30 |  |
+| [Stupid Heart](https://open.spotify.com/track/64FWcpeHm6BB9oFlacsY3w) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Stupid Heart](https://open.spotify.com/album/2mNque84IKRiGLn6QpHrxn) | 2:22 | 2024-05-30 | 2024-08-16 |
 | [Sunday Afternoon](https://open.spotify.com/track/24s5j6ewZVXK460jEVI1h1) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Sunday Afternoon](https://open.spotify.com/album/4rDjI4hbV4w4KLsi7JoMjH) | 4:28 | 2023-11-02 | 2024-01-12 |
 | [Super Breath](https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Super Breath](https://open.spotify.com/album/6Ab1VSoMD5fvlagOW2QDOJ) | 3:31 | 2024-07-26 |  |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-26 |  |

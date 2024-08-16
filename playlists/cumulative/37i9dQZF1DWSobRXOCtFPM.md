@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-294 songs - 1 day 4 hr 28 min
+297 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Aurora \(Avision Remix\)](https://open.spotify.com/track/1xmZtHJmUQXeWMdKbVGd3B) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj) | [Music Made for Aliens \(Remixes\)](https://open.spotify.com/album/3ijtQ5yWXBouR3E5jR5KXY) | 7:09 | 2023-06-26 | 2024-04-09 |
 | [Aurora \(Ivory Sunrise Mix\)](https://open.spotify.com/track/1hrZPeG4HHQsIB5jRXkcRG) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Music Made for Aliens \(Remixes\)](https://open.spotify.com/album/3ijtQ5yWXBouR3E5jR5KXY) | 6:19 | 2023-06-26 | 2024-04-09 |
 | [Back to the Garden](https://open.spotify.com/track/0Ha6gINRsYijR1CIAF0ZwY) | [An On Bast](https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs) | [I Create As I Speak](https://open.spotify.com/album/0N40Dbn6SAlgRwfT7eqGoa) | 6:31 | 2023-02-13 | 2023-06-27 |
+| [Bastian](https://open.spotify.com/track/4VNCTejinLH66gtNc9etdO) | [Check One](https://open.spotify.com/artist/05blQng3JZ1EXhDaQL3oWp) | [Bastian](https://open.spotify.com/album/6JAS3Kx1ZAGhXk6zNS2hXg) | 5:40 | 2024-08-15 |  |
 | [Belgium](https://open.spotify.com/track/1mecAHTzBVDduXdtq9CYab) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Belgium](https://open.spotify.com/album/6M5sIfdTxwbHDyy8Dg4Ss7) | 7:02 | 2022-11-30 | 2023-06-27 |
 | [Belgium \(Christopher Coe Remix\)](https://open.spotify.com/track/6Tuvx0H6dkcX4P3bxF4qPF) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Music Made for Aliens \(Remixes\)](https://open.spotify.com/album/3ijtQ5yWXBouR3E5jR5KXY) | 6:10 | 2023-06-26 | 2024-04-09 |
 | [Belgium \(Josh Wink Remix\)](https://open.spotify.com/track/0u0FirAekGc7ZwQPS1NjNC) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Belgium](https://open.spotify.com/album/6M5sIfdTxwbHDyy8Dg4Ss7) | 7:16 | 2022-11-30 | 2023-06-27 |
@@ -93,6 +94,7 @@
 | [Exeter](https://open.spotify.com/track/4gIfnIBiCsO5zsIVntz2IF) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Music Made for Aliens](https://open.spotify.com/album/2mFKFYNlT5gYdBaAGbRHnP) | 6:38 | 2023-04-18 | 2023-06-27 |
 | [Exeter \(Pfirter Remix\)](https://open.spotify.com/track/7iX8EXzCjjRI5eEWNVvotm) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Pfirter](https://open.spotify.com/artist/6qavLbYvbSKWqwlz00CoBe) | [Music Made for Aliens \(Remixes\)](https://open.spotify.com/album/3ijtQ5yWXBouR3E5jR5KXY) | 5:20 | 2023-06-26 | 2024-04-09 |
 | [Eye Path](https://open.spotify.com/track/7ICRi8m3TbnUhRYmrGUG73) | [KLBR](https://open.spotify.com/artist/26KBAQGpqeUAl5XxIdOB6x) | [Alert](https://open.spotify.com/album/58pHBjYY6IVijCFusWAqLi) | 5:22 | 2024-06-03 |  |
+| [Feel The Energy](https://open.spotify.com/track/0dvbHArKHuvJxKwgTilETY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Pyramid Rave / Feel The Energy](https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR) | 2:43 | 2024-08-15 |  |
 | [Feels Like](https://open.spotify.com/track/2eMCkAM0cj95aNWuSpPLKp) | [MarAxe](https://open.spotify.com/artist/2QTKjJPWKLbYrSeSGo5R4L) | [Feels Like](https://open.spotify.com/album/4iq0eJctXZygrtep0ubbB6) | 5:45 | 2024-06-03 |  |
 | [Field Day](https://open.spotify.com/track/708V4prVtBnVqfpG3tJnxd) | [De Sluwe Vos](https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS) | [Now I Understand](https://open.spotify.com/album/5hgNlG7bHWD3VJpPkl6y5O) | 6:52 | 2024-07-25 |  |
 | [Fire Will Rain](https://open.spotify.com/track/28vUPI6RHba5sx9sJ1C7Qy) | [Kate Hex](https://open.spotify.com/artist/5jeRWqe3aZfPrtbEQbo0KU) | [Fire Will Rain](https://open.spotify.com/album/0ysoNtl1MOWqHfBPKTR0Xs) | 6:17 | 2024-07-25 |  |
@@ -192,6 +194,7 @@
 | [Our Time Will Come \- Chase & Status Remix](https://open.spotify.com/track/6osE286C3Z5dpzF655xEsG) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 4:30 | 2023-02-13 | 2023-08-04 |
 | [Overdrive](https://open.spotify.com/track/4DoFoXmdJ2nygjOwOFQjAV) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE), [Josh Heywood](https://open.spotify.com/artist/326xZLUEMjwJa2xYZgUakN) | [Overdrive](https://open.spotify.com/album/0MXWS5np6F07dz4XEu11wa) | 7:36 | 2024-07-25 |  |
 | [Oxygene, Pt\. 4](https://open.spotify.com/track/0Tt2jli0yAD1MKSTb5MvS2) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 4:06 | 2023-02-13 | 2023-06-27 |
+| [Pablo Assan](https://open.spotify.com/track/5w2H2RddpscAIJYIAtiEHp) | [Harmonik Kontrol](https://open.spotify.com/artist/5U1aEIhlv3Uyt0LT1GJHln) | [Pablo Assan](https://open.spotify.com/album/3tZBx2Y14dgZfSN1jOChV7) | 7:41 | 2024-08-15 |  |
 | [Pablo Assan \- Mixed](https://open.spotify.com/track/5UfrmNZquTXyVNDcocA2m1) | [Harmonik Kontrol](https://open.spotify.com/artist/5U1aEIhlv3Uyt0LT1GJHln) | [ASW is Live Mixed by Carl Cox \(DJ Mix\)](https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv) | 5:27 | 2024-04-29 |  |
 | [Pacana \- Mixed](https://open.spotify.com/track/1gSrSoUrCsmGkSuqsmK6nl) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9) | [ASW is Live Mixed by Carl Cox \(DJ Mix\)](https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv) | 5:48 | 2024-04-29 |  |
 | [Party Started \(Set It Off\)](https://open.spotify.com/track/5B8NZNbPBy2I862vRLfkIZ) | [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj), [Strafe](https://open.spotify.com/artist/7MRMahYCfHhumbcvdV8joK) | [Party Started EP](https://open.spotify.com/album/1qv2QeH9DOUCbGv8dwwlb1) | 4:07 | 2022-08-15 | 2022-11-13 |

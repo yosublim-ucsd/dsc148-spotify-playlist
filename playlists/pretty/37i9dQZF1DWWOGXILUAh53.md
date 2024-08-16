@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,882 likes - 65 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,058 likes - 65 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 48 | [It's A Feeling](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [It's A Feeling](https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ) | 3:09 |
 | 49 | [Don't Call](https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Call](https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP) | 3:49 |
 | 50 | [I Wanna Go Back \(Summer\)](https://open.spotify.com/track/7emonnduklMI1kzikfMOnb) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Robbie Jay](https://open.spotify.com/artist/5bWPJEXEu87AXFu0XJ4j6K) | [I Wanna Go Back \(Summer\)](https://open.spotify.com/album/3Yc6XZHfMtDwpyL7XE1PwQ) | 2:35 |
-| 51 | [Fire \- Official UEFA EURO 2024 Song](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Fire \(Official UEFA EURO 2024 Song\)](https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ) | 2:48 |
+| 51 | [Fire \- Official UEFA EURO 2024 Song](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Fire \- Official UEFA EURO 2024 Song](https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ) | 2:48 |
 | 52 | [Dance Dance](https://open.spotify.com/track/1C9Sy6LCVgMkkmKRn2oTBk) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB) | [Dance Dance](https://open.spotify.com/album/2ycEbdFMCUnbs6PLxye2CE) | 2:16 |
 | 53 | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/track/2nBqFmllpg9RXlWGKpSWQT) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/album/21ML2b7P3BVsthK09Qqn9J) | 2:52 |
 | 54 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 |

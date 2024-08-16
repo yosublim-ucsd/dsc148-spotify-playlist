@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Carla Prata, SleepyThePrince
 
-635 songs - 1 day 9 hr 48 min
+636 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Eclipse](https://open.spotify.com/track/0tlyCwXSCXP5fsGM4OrHzl) | [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [Ellanor](https://open.spotify.com/artist/5Wd28v3076RfH5BQilhVE6), [L\-Ali](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Eclipse](https://open.spotify.com/album/5EZ4pHbodGf7j12OqeMQBi) | 3:11 | 2023-03-17 | 2023-04-14 |
 | [Efeito](https://open.spotify.com/track/6OEb5eXS7WyHw0SNqXXIYz) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Efeito](https://open.spotify.com/album/6e0F9bKM9LJSk5X15PFNKO) | 2:31 | 2023-07-06 | 2023-08-18 |
 | [Egoísta](https://open.spotify.com/track/0Vp42FK6x0ydHLT7T9OHyS) | [Pipa](https://open.spotify.com/artist/03zNTLE7XHchSSzU4gOYDN) | [Egoísta](https://open.spotify.com/album/6nwjnNxf2eMJ9WX1uloWqw) | 3:51 | 2023-06-01 | 2023-06-23 |
+| [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 | 2024-08-15 |  |
 | [Ela II](https://open.spotify.com/track/3D5ulglBc566Qa1pblHWfp) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [Levi](https://open.spotify.com/artist/1a2WVG4nD7kKFtYDnBmJGO), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Ela II](https://open.spotify.com/album/7lc22nFGTXwuxafuBNhdDm) | 4:15 | 2023-11-10 | 2023-12-09 |
 | [Ela Me Xita](https://open.spotify.com/track/6ywCZJUitftSMmnOtASFvf) | [Celso Baía](https://open.spotify.com/artist/0qbwa4N5og0uYMtK3ePiMq), [Bruno Soares](https://open.spotify.com/artist/2WStXxWyKuZ9FJpTtCZYYX) | [Ela Me Xita](https://open.spotify.com/album/17zA6qrmj5RH5Ub4NRxcsV) | 4:11 | 2022-07-07 | 2022-08-05 |
 | [Encandeia](https://open.spotify.com/track/5QXceEFUvXtjPiUDTudvii) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv) | [Encandeia](https://open.spotify.com/album/07OqndgTNxflsvwnZFoPV8) | 3:46 | 2024-03-22 | 2024-04-19 |
@@ -205,7 +206,7 @@
 | [Espaço](https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr) | [Lucas Leite](https://open.spotify.com/artist/5FE9rWQk9C3bdSUQRgI9dk) | [Espaço](https://open.spotify.com/album/5TddFI2xW974OSHg88pjOb) | 3:14 | 2022-12-02 | 2023-01-06 |
 | [Espirito](https://open.spotify.com/track/1qRFaUg4Lr8suJArLQajv1) | [Young Max](https://open.spotify.com/artist/1t6x0n25bBUkI4re1wQqKu), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Espirito](https://open.spotify.com/album/43ELmi4Ak9u9vhEHUszb0I) | 2:55 | 2024-02-02 | 2024-03-01 |
 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 | 2022-07-07 |  |
-| [Essa é minha miúda \(bónus track\)](https://open.spotify.com/track/5hZf073xDCsXZgK0wof264) | [BUH BUH](https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU) | [Essa é minha miúda \(bónus track\)](https://open.spotify.com/album/5OUhv3O548x7mccEsh2vxB) | 3:31 | 2024-07-25 |  |
+| [Essa é minha miúda \(bónus track\)](https://open.spotify.com/track/5hZf073xDCsXZgK0wof264) | [BUH BUH](https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU) | [Essa é minha miúda \(bónus track\)](https://open.spotify.com/album/5OUhv3O548x7mccEsh2vxB) | 3:31 | 2024-07-25 | 2024-08-16 |
 | [Esse Corpo](https://open.spotify.com/track/69KrMw0IRIwTDXWvib4wON) | [YRC](https://open.spotify.com/artist/6iDIU9vxMcfwrUkpzkoDc7), [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Esse Corpo](https://open.spotify.com/album/6WqINuc1s3vvs0glX9NIWf) | 3:04 | 2022-09-01 | 2022-09-09 |
 | [Esticão](https://open.spotify.com/track/1J1jKUR1qHkDoTt7NMn7Yj) | [Ary Bronze](https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ), [DELOSBOY](https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35) | [Esticão](https://open.spotify.com/album/5N5dlHwrT4sV0s1a6ubUWd) | 3:13 | 2023-06-01 | 2023-06-23 |
 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 | 2023-03-01 |  |

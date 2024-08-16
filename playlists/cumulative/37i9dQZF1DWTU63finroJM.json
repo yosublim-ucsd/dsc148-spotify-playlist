@@ -6331,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "Don't Do Well Alone",
+        "url": "https://open.spotify.com/album/03dAFgKbuDVNLxMPopWAxI"
+      },
+      "artists": [
+        {
+          "name": "Siobh\u00e1n Winifred",
+          "url": "https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201708,
+      "name": "Don't Do Well Alone",
+      "url": "https://open.spotify.com/track/1E3l1pjDVsdVmyHcbBwvB5"
+    },
+    {
+      "album": {
         "name": "don't forget about me",
         "url": "https://open.spotify.com/album/0fVIxgVxPzOVs1vLO7ZZEa"
       },
@@ -23166,7 +23184,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 177904,
       "name": "The Girl Who Cried Love",
       "url": "https://open.spotify.com/track/35r2RTtVGguSzfGPJgoxLl"

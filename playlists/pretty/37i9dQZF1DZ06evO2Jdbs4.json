@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 27285,
+  "num_followers": 27295,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAAAE72ppd1Y6l9BnKTedMQYI",
+  "snapshot_id": "ZrvzgAAAAACzh/gC3zth0+Cp75Vz2tIb",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dias de Ayer",
+        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Dias de Ayer",
+      "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los \u00c1ngeles Existen",
         "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 170426,
       "name": "Me Derrito (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dias de Ayer",
-        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Dias de Ayer",
-      "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Cumbia Vallenata",
+      "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' La Pista y Pa'l Pisto, Vol. 2",
         "url": "https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 360466,
       "name": "La Rosa / Flecha Envenenada (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/1CnGSMYKYFMmZGJU4mqtYq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Cumbia Vallenata",
-      "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
     },
     {
       "added_at": null,

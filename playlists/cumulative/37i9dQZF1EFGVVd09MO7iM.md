@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-666 songs - 1 day 19 hr 25 min
+667 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Play It Off \- Album Version / Explicit](https://open.spotify.com/track/02ORKNJXIhiLVUDpC6PfoH) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Suit](https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b) | 3:48 | 2024-06-20 | 2024-06-22 |
 | [Playa You Don't Know](https://open.spotify.com/track/7plc58WbKukGln1glwcZrp) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Already Platinum](https://open.spotify.com/album/17Qo2HmJC5RtOVkJ9rxBlP) | 4:27 | 2024-06-20 | 2024-06-22 |
 | [Please Don't Mind](https://open.spotify.com/track/3kUiht3ClxHdylTa9Cmfi6) | [Philly's Most Wanted](https://open.spotify.com/artist/2nmNj8czpBZkCVZSbx5W2i) | [Get Down Or Lay Down \(U.S\. Explicit\)](https://open.spotify.com/album/1jrJslDyJ6t59uGaEUChw0) | 3:59 | 2024-06-20 | 2024-06-22 |
+| [Poison](https://open.spotify.com/track/38tlYIflJRqAB5PxNWDtp2) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Vibe Responsibly, Vol\. 1](https://open.spotify.com/album/5DpoVZ2KXkg4Xh39B0wQuF) | 1:55 | 2024-08-15 |  |
 | [Pomegranate](https://open.spotify.com/track/4fuCjmRIxbmGHnplGymd9c) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Pomegranate](https://open.spotify.com/album/6R1039pv3LJlHZfdwmVWcZ) | 3:27 | 2024-01-29 |  |
 | [Pop N\*\*\*\*s](https://open.spotify.com/track/5PhmnRRf1xNFidcNk9ExUm) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [The Last Temptation](https://open.spotify.com/album/0rLZHGRrjPwwUTfEPNTawc) | 4:29 | 2024-06-20 | 2024-06-22 |
 | [Pop Ya Shit](https://open.spotify.com/track/5JnfZUiS7GdCLrr8Qem6Gs) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Pop Ya Shit](https://open.spotify.com/album/3F8FN7M1wCP9ZsMpG5c4Hh) | 1:38 | 2024-01-29 |  |
@@ -529,7 +530,7 @@
 | [Sing](https://open.spotify.com/track/6u0oHknFYrnUd42A6rvFly) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \- Wembley Edition](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 3:55 | 2024-01-29 |  |
 | [SKELETONS](https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:25 | 2024-01-29 |  |
 | [Skinny Dippin'](https://open.spotify.com/track/0vJ9KaGcFgEW2xtzlQ46bE) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Wanderlust](https://open.spotify.com/album/4Y7tpOr9I0DwOwJe7CeTOe) | 3:19 | 2024-06-20 | 2024-06-22 |
-| [Slow Down](https://open.spotify.com/track/1FmeMRONpObCjib16FuG7P) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:30 | 2024-01-29 |  |
+| [Slow Down](https://open.spotify.com/track/1FmeMRONpObCjib16FuG7P) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:30 | 2024-01-29 | 2024-08-16 |
 | [So Ambitious](https://open.spotify.com/track/0Oi1wJRbRy3ZP5phE9kNMC) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:12 | 2024-01-29 |  |
 | [So Good](https://open.spotify.com/track/7wSgOKGffpFf3EZz1mDLkJ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Miss Little Havana \(Latin America/Iberia Version\)](https://open.spotify.com/album/42GRzHxjVcoWr5jdNRkS9u) | 3:16 | 2024-06-20 | 2024-06-22 |
 | [So Many Pros](https://open.spotify.com/track/1cnbQIZmuKlMQLENaGl6Bo) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 4:06 | 2024-01-29 |  |
@@ -623,7 +624,7 @@
 | [U Started It](https://open.spotify.com/track/2Ehw97jpfAYJI59f0EquOg) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 3:08 | 2024-06-20 | 2024-06-22 |
 | [Uneventful Days](https://open.spotify.com/track/1vlkeO1XsX11gdo1tYgslg) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Hyperspace](https://open.spotify.com/album/4ZUryKKDhiMXcD4fluAEhl) | 3:17 | 2024-01-29 |  |
 | [Universal Mind Control \(UMC\) \- With Intro](https://open.spotify.com/track/0GPVmKBQiwIp0RONkkbeDO) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Universal Mind Control](https://open.spotify.com/album/6wl2laSmw3sucFUwRlqAP2) | 3:33 | 2024-01-29 |  |
-| [Up There](https://open.spotify.com/track/2rKmNEYrQxaOPZrOWKZpOc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:14 | 2024-01-29 |  |
+| [Up There](https://open.spotify.com/track/2rKmNEYrQxaOPZrOWKZpOc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \- Deluxe](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:14 | 2024-01-29 |  |
 | [Up!](https://open.spotify.com/track/6RJsaZuO6iqrMszA55RFds) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [epiphany](https://open.spotify.com/album/5OPlgjfJT4M8WNZNtOvUGB) | 1:43 | 2024-03-26 |  |
 | [Use Your Heart](https://open.spotify.com/track/1iXtpeHC0i6c7JBrKi3yaq) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 4:49 | 2024-01-29 |  |
 | [Vato](https://open.spotify.com/track/2TgPHDU8zPgAvkSLXkHKXR) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/5NSTw9av5T8orAD9dzEE4A) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 4:44 | 2024-01-29 |  |

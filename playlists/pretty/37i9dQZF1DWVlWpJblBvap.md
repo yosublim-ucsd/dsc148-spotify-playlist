@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="spotify:artist:3YCKuqpv9nCsIhJ2v8SMix">Elevation Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,675 likes - 120 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,851 likes - 120 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 112 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 5:00 |
 | 113 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
 | 114 | [The Heart Of Worship](https://open.spotify.com/track/1WYHvGn6fQZRAmbD5TG51j) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Heart Of Worship](https://open.spotify.com/album/3FgTpw4Cy3rGZc4FOyoVjf) | 5:20 |
-| 115 | [My Victory](https://open.spotify.com/track/1aVJCLIbgvlp3e8Znmpkfz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 4:17 |
+| 115 | [My Victory](https://open.spotify.com/track/1aVJCLIbgvlp3e8Znmpkfz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [American Prodigal \- Deluxe Edition](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 4:17 |
 | 116 | [Your Name \- Live](https://open.spotify.com/track/2Oghfvs0YkMNadU5c31GpJ) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [A Greater Song \(Live\)](https://open.spotify.com/album/38SK5AE3r6vRXUvSwQNZwV) | 5:44 |
 | 117 | [Mercy \- Live](https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Your Grace Finds Me \(Live\)](https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU) | 5:34 |
 | 118 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 |

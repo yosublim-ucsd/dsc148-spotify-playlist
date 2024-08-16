@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 113269,
+  "num_followers": 113320,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Uptown Top Ranking",
-        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
-      },
-      "artists": [
-        {
-          "name": "Althea And Donna",
-          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Uptown Top Ranking - Remastered 2001",
-      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Uptown Top Ranking",
+        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
+      },
+      "artists": [
+        {
+          "name": "Althea And Donna",
+          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Uptown Top Ranking - Remastered 2001",
+      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "DEIRA",
-        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 163183,
-      "name": "Allah Yihmeeki",
-      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 377293,
       "name": "Cumbia Sobre el Mar",
       "url": "https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "DEIRA",
+        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 163183,
+      "name": "Allah Yihmeeki",
+      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Horizon Unlimited",
+        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
+      },
+      "artists": [
+        {
+          "name": "The Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+        }
+      ],
+      "duration_ms": 314520,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 244916,
       "name": "L\u00e1grimas Negras (feat. Omara Portuondo)",
       "url": "https://open.spotify.com/track/32NzVi6ne2G51sgmEeuGzl"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Horizon Unlimited",
-        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
-      },
-      "artists": [
-        {
-          "name": "The Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 314520,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Angola 72/74",
-        "url": "https://open.spotify.com/album/0wKklfUh0GTGAICfuQxpMP"
-      },
-      "artists": [
-        {
-          "name": "Bonga",
-          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
-        }
-      ],
-      "duration_ms": 300837,
-      "name": "Mona Ki Ngi Xica",
-      "url": "https://open.spotify.com/track/08fsjbOK2ruSfbBTcmEZHZ"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Marechi\u00e0",
         "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Angola 72/74",
+        "url": "https://open.spotify.com/album/0wKklfUh0GTGAICfuQxpMP"
+      },
+      "artists": [
+        {
+          "name": "Bonga",
+          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
+        }
+      ],
+      "duration_ms": 300837,
+      "name": "Mona Ki Ngi Xica",
+      "url": "https://open.spotify.com/track/08fsjbOK2ruSfbBTcmEZHZ"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 284320,
-      "name": "Bruca Manigu\u00e1",
-      "url": "https://open.spotify.com/track/4HWwcSkeRTsqjZurFC6tMH"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "The Very Best of The Dixie Cups: Chapel of Love",
         "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 126500,
       "name": "Iko Iko",
       "url": "https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 284320,
+      "name": "Bruca Manigu\u00e1",
+      "url": "https://open.spotify.com/track/4HWwcSkeRTsqjZurFC6tMH"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 131045,
+      "name": "Coconut",
+      "url": "https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Mahal",
         "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 128903,
       "name": "Espera Pra Ver",
       "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "African Voodoo",
-        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 131045,
-      "name": "Coconut",
-      "url": "https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Cart\u00e3o Postal",
-        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
+        "name": "En \u0130yileriyle G\u00fczin ile Baha",
+        "url": "https://open.spotify.com/album/7fvxRfbGnLm5PXGpDRZlH9"
       },
       "artists": [
         {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+          "name": "G\u00fczin \u0130le Baha",
+          "url": "https://open.spotify.com/artist/6dytXiJkoMMHccOb6PiOqo"
         }
       ],
-      "duration_ms": 149420,
-      "name": "Que Bandeira",
-      "url": "https://open.spotify.com/track/2aQ8NyRJcsQFgb8jwUil90"
+      "duration_ms": 173520,
+      "name": "Gen\u00e7lik Ba\u015f\u0131mda Duman",
+      "url": "https://open.spotify.com/track/5Ox8yqAfQvNwaDoGlkU2al"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "En \u0130yileriyle G\u00fczin ile Baha",
-        "url": "https://open.spotify.com/album/7fvxRfbGnLm5PXGpDRZlH9"
+        "name": "Cart\u00e3o Postal",
+        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
       },
       "artists": [
         {
-          "name": "G\u00fczin \u0130le Baha",
-          "url": "https://open.spotify.com/artist/6dytXiJkoMMHccOb6PiOqo"
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
         }
       ],
-      "duration_ms": 173520,
-      "name": "Gen\u00e7lik Ba\u015f\u0131mda Duman",
-      "url": "https://open.spotify.com/track/5Ox8yqAfQvNwaDoGlkU2al"
+      "duration_ms": 149420,
+      "name": "Que Bandeira",
+      "url": "https://open.spotify.com/track/2aQ8NyRJcsQFgb8jwUil90"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Adventures on the Floating Island",
+        "url": "https://open.spotify.com/album/3QTpSmAq5j7udfy080khsW"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        }
+      ],
+      "duration_ms": 140162,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/2eV4hGQIQyQMOZwuCzhCpb"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Omara Portuondo (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
       },
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Adventures on the Floating Island",
-        "url": "https://open.spotify.com/album/3QTpSmAq5j7udfy080khsW"
-      },
-      "artists": [
-        {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        }
-      ],
-      "duration_ms": 140162,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/2eV4hGQIQyQMOZwuCzhCpb"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Musique originale de films (Habibi Funk 003)",
         "url": "https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Linda Guajira",
-        "url": "https://open.spotify.com/album/4vF1RjBN15TIuUJqibuU80"
-      },
-      "artists": [
-        {
-          "name": "Los Guaracheros De Oriente",
-          "url": "https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom"
-        }
-      ],
-      "duration_ms": 189962,
-      "name": "Patria Querida",
-      "url": "https://open.spotify.com/track/6hGfBBs2yvBcMbfTMsARGx"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "La Candela Viva",
         "url": "https://open.spotify.com/album/2UChA5fC8ycqyOJbMwjtZw"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 247306,
       "name": "El Pescador",
       "url": "https://open.spotify.com/track/5STDVTFO7ziu4LDaaRCx2n"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Linda Guajira",
+        "url": "https://open.spotify.com/album/4vF1RjBN15TIuUJqibuU80"
+      },
+      "artists": [
+        {
+          "name": "Los Guaracheros De Oriente",
+          "url": "https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom"
+        }
+      ],
+      "duration_ms": 189962,
+      "name": "Patria Querida",
+      "url": "https://open.spotify.com/track/6hGfBBs2yvBcMbfTMsARGx"
     },
     {
       "added_at": "2024-06-04 22:00:00",

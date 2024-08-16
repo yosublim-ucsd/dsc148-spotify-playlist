@@ -2,9 +2,9 @@
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: Beeztrap
+> Hottest bars coming live from the 233\.  Cover: Kofi Mole
 
-593 songs - 1 day 5 hr 55 min
+594 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Date](https://open.spotify.com/track/6iuBrqrc6AfzMRsNWa2gr3) | [YAW BERK](https://open.spotify.com/artist/5nCRn3Xb3daKxoy7GtWLgD) | [Date](https://open.spotify.com/album/136kDRfqTfQ3yZy5hYXeBS) | 2:41 | 2022-09-23 | 2022-10-29 |
 | [Dear God](https://open.spotify.com/track/65sRw5TmCvJoRgQUIXpTi1) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Dear God](https://open.spotify.com/album/2hZgUrtqHaR4p5NOgtvrMi) | 3:07 | 2023-09-14 | 2023-11-17 |
 | [Dede](https://open.spotify.com/track/4MnPFO4h4YCOr80WUDDJL8) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Dede](https://open.spotify.com/album/6VaBuDWyQkt4mVZ9bzcPyV) | 2:58 | 2023-09-29 | 2023-10-13 |
-| [DELILAH](https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Bar 7](https://open.spotify.com/album/7crJEGssIO4bqz8blqLx6G) | 3:00 | 2024-07-26 |  |
+| [DELILAH](https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Bar 7](https://open.spotify.com/album/7crJEGssIO4bqz8blqLx6G) | 3:00 | 2024-07-26 | 2024-08-16 |
 | [Dem Deh Try](https://open.spotify.com/track/2DSFcgpJYAHUREdK5fgc9b) | [Paq](https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Dem Deh Try](https://open.spotify.com/album/16hOVq7kncTdjePoCYbB70) | 2:37 | 2023-05-19 | 2023-06-03 |
 | [Demon](https://open.spotify.com/track/0EY1axEzO8zhLkgAIpes5b) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Behind The Scenes](https://open.spotify.com/album/07PfhFkWFIYJagOsULigKd) | 2:38 | 2024-05-31 |  |
 | [Devil Is A Liar](https://open.spotify.com/track/302oPZ6nOfNKNjwTqNBfMl) | [Captain Planet 4x4](https://open.spotify.com/artist/1XyrWXcnwl4owrbd9KI0qW) | [Devil Is A Liar](https://open.spotify.com/album/7nzlgwUWKkCslt4ZZkfPLA) | 2:14 | 2024-04-12 | 2024-04-19 |
@@ -198,6 +198,7 @@
 | [Flex](https://open.spotify.com/track/7miZbXoKKtyj1Zh4rpVjAb) | [Slim Drumz](https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT) | [Flex](https://open.spotify.com/album/7i6x32Uy3C1yxhtCGgJbEE) | 3:09 | 2022-11-15 | 2022-12-02 |
 | [Floor Shake](https://open.spotify.com/track/75CW2Y65bqjxTQx3z3V53X) | [DJ Semtex](https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Floor Shake](https://open.spotify.com/album/29SzNH7V2r3h1oZG3MHemE) | 2:32 | 2023-02-23 | 2023-03-11 |
 | [Fly](https://open.spotify.com/track/1bl9eXOR5fBlPdZg3Nwr0A) | [R.B.D.](https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We) | [Fly](https://open.spotify.com/album/3b62lg9qZylXGvbXTY5BSf) | 2:33 | 2024-02-23 | 2024-03-08 |
+| [Fly Again](https://open.spotify.com/track/05iZBAgxEOWCBJsY2SOctr) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [GYE NYAME](https://open.spotify.com/album/3moaXFQPnUdTKGRbj5KUg9) | 3:03 | 2024-08-16 |  |
 | [Fly Girl](https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Fly Girl](https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli) | 3:14 | 2024-03-15 |  |
 | [Fly Girl \(feat\. Oseikrom Sikanii\) \- Remix](https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Fly Girl \(feat\. Oseikrom Sikanii\) \[Remix\]](https://open.spotify.com/album/4UbsNWDBTSHeG6GIyuntXG) | 3:15 | 2024-05-03 |  |
 | [Focus](https://open.spotify.com/track/4iUOXOLxqeimvWAXUg4vGt) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [God & Rap](https://open.spotify.com/album/4B5VsLWUc6vNFhS5OoPbcV) | 3:09 | 2024-04-26 | 2024-05-03 |

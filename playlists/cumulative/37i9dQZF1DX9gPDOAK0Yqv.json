@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 485760,
       "name": "Black Unicorn",
       "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
@@ -3026,6 +3026,28 @@
       "duration_ms": 293935,
       "name": "Falling Down - Chris Avantgarde Remix",
       "url": "https://open.spotify.com/track/1g4W5F9wq09292xrsfS5y6"
+    },
+    {
+      "album": {
+        "name": "Famax (Goom Gum Remix)",
+        "url": "https://open.spotify.com/album/6NaIUD5NH59gzeSYwkkI8V"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        },
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210976,
+      "name": "Famax - Goom Gum Remix",
+      "url": "https://open.spotify.com/track/3lqOtB1xXrDjBxGbiqZuP9"
     },
     {
       "album": {
@@ -9874,7 +9896,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 278522,
       "name": "Telepathic",
       "url": "https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB"

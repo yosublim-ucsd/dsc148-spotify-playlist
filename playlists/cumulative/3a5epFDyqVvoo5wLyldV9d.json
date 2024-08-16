@@ -14443,6 +14443,24 @@
     },
     {
       "album": {
+        "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30b9\u30da\u30b7\u30e3\u30eb",
+        "url": "https://open.spotify.com/album/46xhGBdollRAui0FdpJVJy"
+      },
+      "artists": [
+        {
+          "name": "\u7b20\u4e95 \u7d00\u7f8e\u5b50",
+          "url": "https://open.spotify.com/artist/4UgoOhsP6AlN1SIkFRBCit"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258519,
+      "name": "\u30d0\u30a4\u30d6\u30ec\u30a4\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3pV989KB6C0hAnRFb4Qcsg"
+    },
+    {
+      "album": {
         "name": "\u672c\u7269\u306e\u30aa\u30ea\u30b8\u30ca\u30eb",
         "url": "https://open.spotify.com/album/28V2Db535PKuDX3yeHm6No"
       },
@@ -14458,6 +14476,24 @@
       "duration_ms": 65410,
       "name": "\u30d1\u30fc\u30e0\u30b5\u30f3\u30c7\u30fc",
       "url": "https://open.spotify.com/track/5tDf33JbOJW8y8YK5ou83e"
+    },
+    {
+      "album": {
+        "name": "SMILE",
+        "url": "https://open.spotify.com/album/0SWkx3Mhw5VfsruSF9jTZY"
+      },
+      "artists": [
+        {
+          "name": "Mami Ayukawa",
+          "url": "https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291851,
+      "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30afNIGHT",
+      "url": "https://open.spotify.com/track/0kGcw9BC4b99bm0r3ne7i4"
     },
     {
       "album": {

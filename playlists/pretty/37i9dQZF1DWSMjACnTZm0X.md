@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Binta
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,481 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,491 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 32 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 |
 | 33 | [Woza](https://open.spotify.com/track/5G4PbKjjrntkjl1nvJqVWW) | [Korie Minors](https://open.spotify.com/artist/4JGMHb5qsvTSGJlijyWBLc), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY), [Emoji SA](https://open.spotify.com/artist/3FHJ8CwvKiag7XlOkOMjxJ), [Dokotela](https://open.spotify.com/artist/19KAj2rSHbBnChwlInjznI) | [Woza](https://open.spotify.com/album/4bVvfapu2O5kd1KxUpvef9) | 4:16 |
 | 34 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 |
-| 35 | [Concussion \- Remix](https://open.spotify.com/track/2eBk5x3MJ5wmd2tSYzpCv0) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Concussion \(Remix\)](https://open.spotify.com/album/21nupdfTnGduMsVXIyuc9u) | 2:38 |
+| 35 | [Concussion \- Remix](https://open.spotify.com/track/2eBk5x3MJ5wmd2tSYzpCv0) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Concussion \- Remix](https://open.spotify.com/album/21nupdfTnGduMsVXIyuc9u) | 2:38 |
 | 36 | [Sugar](https://open.spotify.com/track/0EFOT4wLwR4AZBGMTg3Ne3) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Sugar](https://open.spotify.com/album/6ewzGgAnMYgU7RmE3XWw0T) | 2:18 |
 | 37 | [Hade Boss](https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Mr Nation Thingz](https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH), [K.C Driller](https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp) | [Hade Boss](https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO) | 6:22 |
 | 38 | [Ammunition](https://open.spotify.com/track/2krh7DGcbKuJ2Z0KdkONgv) | [Tooslim](https://open.spotify.com/artist/1u84jZFjE4XgwG0HJ43WZR), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Ammunition](https://open.spotify.com/album/6kfirirfpHequnP9iMRHA1) | 2:28 |

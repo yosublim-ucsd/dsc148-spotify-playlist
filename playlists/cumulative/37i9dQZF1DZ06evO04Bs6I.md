@@ -2,7 +2,7 @@
 
 ### [This Is Isadora Pompeo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04Bs6I)
 
-> This is Isadora Pompeo\. The essential tracks, all in one playlist.
+> This is Isadora Pompeo\. Todos os maiores hits em uma só playlist.
 
 53 songs - 4 hr 19 min
 

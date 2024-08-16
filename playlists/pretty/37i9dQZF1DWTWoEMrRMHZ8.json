@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Nando Reis",
-  "num_followers": 346277,
+  "num_followers": 346293,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
-      },
-      "artists": [
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        }
-      ],
-      "duration_ms": 236535,
-      "name": "Rio Dentro do Mar",
-      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
+      },
+      "artists": [
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "duration_ms": 236535,
+      "name": "Rio Dentro do Mar",
+      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Planos do C\u00e9u",
         "url": "https://open.spotify.com/album/1x9Nsd4WRdCtvuRWwk075V"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 247146,
       "name": "Planos do C\u00e9u",
       "url": "https://open.spotify.com/track/7cw9ocbl12GVol9IZFDjRT"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Casa de Boneca",
-        "url": "https://open.spotify.com/album/2HKCooq58CYNbgVnVlZka2"
-      },
-      "artists": [
-        {
-          "name": "Nina Oliveira",
-          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "Casa de Boneca",
-      "url": "https://open.spotify.com/track/4RD4FUbGQqHE8nMnv3inYJ"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Na Can\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2eLJBKPl926NFmQu5ml8CR"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 145416,
       "name": "Na Can\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6qftJ4GM7f7kuU3ZtcDs0V"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Casa de Boneca",
+        "url": "https://open.spotify.com/album/2HKCooq58CYNbgVnVlZka2"
+      },
+      "artists": [
+        {
+          "name": "Nina Oliveira",
+          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "Casa de Boneca",
+      "url": "https://open.spotify.com/track/4RD4FUbGQqHE8nMnv3inYJ"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -899,22 +899,18 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Tobog\u00e3",
-        "url": "https://open.spotify.com/album/18k5MYAMRC8y6BrOiMQOaM"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
       },
       "artists": [
         {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
-        },
-        {
-          "name": "Fernanda Takai",
-          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
         }
       ],
-      "duration_ms": 219486,
-      "name": "Tobog\u00e3",
-      "url": "https://open.spotify.com/track/29NjMX2Wpw01sqXEeX7bDn"
+      "duration_ms": 186000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -935,18 +931,22 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
+        "name": "Tobog\u00e3",
+        "url": "https://open.spotify.com/album/18k5MYAMRC8y6BrOiMQOaM"
       },
       "artists": [
         {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        },
+        {
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
+      "duration_ms": 219486,
+      "name": "Tobog\u00e3",
+      "url": "https://open.spotify.com/track/29NjMX2Wpw01sqXEeX7bDn"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -971,6 +971,42 @@
       "duration_ms": 332106,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5uMzEzOgJv7tfhV5CxgyVJ"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Misteriosa",
+        "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Macap\u00e1",
+      "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Me Beija",
+        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
+      },
+      "artists": [
+        {
+          "name": "Renato Piau",
+          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Me Beija",
+      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1023,22 +1059,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Misteriosa",
-        "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Macap\u00e1",
-      "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "O Meu Guri (Ao Vivo)",
         "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 228933,
       "name": "O Meu Guri",
       "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "Me Beija",
-        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
-      },
-      "artists": [
-        {
-          "name": "Renato Piau",
-          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "Me Beija",
-      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
+        "name": "Talism\u00e3",
+        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Talism\u00e3",
+      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
       },
@@ -1311,6 +1327,22 @@
       "duration_ms": 209461,
       "name": "Foi S\u00f3 Porque Voc\u00ea N\u00e3o Quis",
       "url": "https://open.spotify.com/track/6UP16pYJ5dUKWlSnyf21cg"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Hoje Eu S\u00f3 Queria Ser o Amor de Algu\u00e9m",
+        "url": "https://open.spotify.com/album/5epkj5XIM0JLgmkiIr7sxm"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 154490,
+      "name": "Hoje Eu S\u00f3 Queria Ser o Amor de Algu\u00e9m",
+      "url": "https://open.spotify.com/track/61TH5oOKfZDd4PLi2UHArP"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1371,38 +1403,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Hoje Eu S\u00f3 Queria Ser o Amor de Algu\u00e9m",
-        "url": "https://open.spotify.com/album/5epkj5XIM0JLgmkiIr7sxm"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 154490,
-      "name": "Hoje Eu S\u00f3 Queria Ser o Amor de Algu\u00e9m",
-      "url": "https://open.spotify.com/track/61TH5oOKfZDd4PLi2UHArP"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "Talism\u00e3",
-        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Talism\u00e3",
-      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "SEGUNDA OU TER\u00c7A",
         "url": "https://open.spotify.com/album/3Ux5I1tcBaNrGXwZmSMgpJ"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 228231,
       "name": "SEGUNDA OU TER\u00c7A",
       "url": "https://open.spotify.com/track/38JMlvZq6X1mDkvs1bCmcB"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Universo de Paix\u00e3o",
+        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
+      },
+      "artists": [
+        {
+          "name": "Natascha Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Melhor Assim",
+      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1443,22 +1459,6 @@
       "duration_ms": 268322,
       "name": "Camangada",
       "url": "https://open.spotify.com/track/61WYa5NtQS6lrxhkHP4lKf"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "Universo de Paix\u00e3o",
-        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
-      },
-      "artists": [
-        {
-          "name": "Natascha Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Melhor Assim",
-      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
     },
     {
       "added_at": "2024-08-09 15:15:51",

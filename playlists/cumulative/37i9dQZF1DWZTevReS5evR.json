@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Badut Bodoh",
+        "url": "https://open.spotify.com/album/5SFWStx4M3DgD137zSKJU9"
+      },
+      "artists": [
+        {
+          "name": "Korekayu",
+          "url": "https://open.spotify.com/artist/20cF49BJi56UnRacCld3YT"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283500,
+      "name": "Badut Bodoh",
+      "url": "https://open.spotify.com/track/7wZhfStC45k8DA1IrJ9hii"
+    },
+    {
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "These are the eclectic sounds of now. Cover: Leon Bridges",
+  "description": "These are the eclectic sounds of now. Cover: Salmon Brothers",
   "name": "Alt Here",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 268653,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/6fGbtfReK8VgAsXrrUHJxg"
@@ -402,6 +402,24 @@
       "duration_ms": 223459,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4CfjowwUEGviS86FoABRCJ"
+    },
+    {
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/5TaDHs2jWD0vtpu34360yU"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160438,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/0a0KflahMJP1r7ryTBdHF6"
     },
     {
       "album": {
@@ -452,7 +470,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 220053,
       "name": "Burning Out",
       "url": "https://open.spotify.com/track/1ZIhItiExfa56xIRSKRBhg"
@@ -680,6 +698,24 @@
       "duration_ms": 292769,
       "name": "Coming Up For Air",
       "url": "https://open.spotify.com/track/0rcwjSYRomxqNlZDaBSbh7"
+    },
+    {
+      "album": {
+        "name": "HIRL",
+        "url": "https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2"
+      },
+      "artists": [
+        {
+          "name": "Marlin's Dreaming",
+          "url": "https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Country Plains",
+      "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
     },
     {
       "album": {
@@ -914,7 +950,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 230466,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 264020,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/1Q2pf5I7eyZZvENC2eIYZP"
@@ -1119,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "Garmonbozia",
+        "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Garmonbozia",
+      "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
+    },
+    {
+      "album": {
         "name": "Gaza is Calling",
         "url": "https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb"
       },
@@ -1174,6 +1228,24 @@
       "duration_ms": 239306,
       "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
       "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
+    },
+    {
+      "album": {
+        "name": "God's A Different Sword",
+        "url": "https://open.spotify.com/album/5UOWbEUwHarGCuQ91Rd3U2"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199258,
+      "name": "God's A Different Sword",
+      "url": "https://open.spotify.com/track/0Yfjj5pPl87buJkfMawmW0"
     },
     {
       "album": {
@@ -1401,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/3UyhN4IJEL9MgoAFyTWAHR"
+      },
+      "artists": [
+        {
+          "name": "Desire",
+          "url": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305853,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/1360bN00ygnhb9bH03JGMs"
+    },
+    {
+      "album": {
         "name": "I Was A Sailor",
         "url": "https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em"
       },
@@ -1520,7 +1610,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 124373,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/6VBNhjwLvHkpQmhlhofBGX"
@@ -1646,7 +1736,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 302438,
       "name": "khalil pt.1",
       "url": "https://open.spotify.com/track/6C0rInsbfxn0uNJQxQCVEI"
@@ -1798,7 +1888,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 213240,
       "name": "Long Dark Night",
       "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
@@ -1989,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Mango Tree",
+        "url": "https://open.spotify.com/album/4MNnAqUmgtOx3OKfVJO0zw"
+      },
+      "artists": [
+        {
+          "name": "Aaradhna",
+          "url": "https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283613,
+      "name": "Mango Tree",
+      "url": "https://open.spotify.com/track/5aHDQBsVBkInvFA4ZTLu19"
+    },
+    {
+      "album": {
         "name": "Mary Jane",
         "url": "https://open.spotify.com/album/3jx04kCoe1V9ogqoXLNs8g"
       },
@@ -2058,6 +2166,24 @@
       "duration_ms": 314306,
       "name": "More To Love - Edit",
       "url": "https://open.spotify.com/track/7LI4VpIcOZIu9oJQi4DPdt"
+    },
+    {
+      "album": {
+        "name": "Mutations",
+        "url": "https://open.spotify.com/album/3le0WTsv4dcgH7mqZ7bL0Z"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164335,
+      "name": "Mutations - Edit",
+      "url": "https://open.spotify.com/track/5Uzoly9A6Y1SZt4Um5cU5u"
     },
     {
       "album": {
@@ -2581,6 +2707,28 @@
     },
     {
       "album": {
+        "name": "Set It Free [Feat. Richie]",
+        "url": "https://open.spotify.com/album/4cHbKnuwv6Y9EmEWvefqgY"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Richie",
+          "url": "https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245403,
+      "name": "Set It Free [Feat. Richie]",
+      "url": "https://open.spotify.com/track/6NV7Oyl0h2FzLvDC2IrVM4"
+    },
+    {
+      "album": {
         "name": "shaniatwainlovestory",
         "url": "https://open.spotify.com/album/1GGxbMVuViCHfjNkdukpvr"
       },
@@ -2632,7 +2780,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 160117,
       "name": "Slow Rider",
       "url": "https://open.spotify.com/track/6PoyUY1cahG3vn1JMfiM2N"
@@ -2675,6 +2823,24 @@
     },
     {
       "album": {
+        "name": "So Many Places",
+        "url": "https://open.spotify.com/album/5HZixOqm29OFwN29OjJWZX"
+      },
+      "artists": [
+        {
+          "name": "St. South",
+          "url": "https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182664,
+      "name": "So Many Places",
+      "url": "https://open.spotify.com/track/1sNTZa0guKUP8en47QLmYs"
+    },
+    {
+      "album": {
         "name": "Some Kind of Angel / Split Lip",
         "url": "https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw"
       },
@@ -2690,6 +2856,24 @@
       "duration_ms": 274838,
       "name": "Some Kind of Angel",
       "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
+    },
+    {
+      "album": {
+        "name": "Lover, Other",
+        "url": "https://open.spotify.com/album/5BUquHUocSbSGXlTjUcH75"
+      },
+      "artists": [
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271502,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/05QG0OFlJ6c1CLRDad6MLh"
     },
     {
       "album": {
@@ -2798,10 +2982,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 284862,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/1lDS95xiG8ln73gdOlNjfU"
+    },
+    {
+      "album": {
+        "name": "More To Love",
+        "url": "https://open.spotify.com/album/4VCrGBQdAFg8Hn96OFmoML"
+      },
+      "artists": [
+        {
+          "name": "Salmon Brothers",
+          "url": "https://open.spotify.com/artist/6zeqwDJhQASIUrDhmBWVN0"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253862,
+      "name": "Sugar Daddy's Lament",
+      "url": "https://open.spotify.com/track/6k8RnRl6NQw4om4st5k85t"
     },
     {
       "album": {
@@ -3048,7 +3250,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 235779,
       "name": "The Sound of Love",
       "url": "https://open.spotify.com/track/77SqhImiLApZvHDMUb1W9i"
@@ -3109,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "They Shoot Horses",
+        "url": "https://open.spotify.com/album/3c4Ymrulj2hXTFBPYJQFPT"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348378,
+      "name": "They Shoot Horses",
+      "url": "https://open.spotify.com/track/6BI1PLj1wG3ANf4BnGdRLG"
+    },
+    {
+      "album": {
         "name": "SHHHHHHH!",
         "url": "https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf"
       },
@@ -3156,7 +3376,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 201632,
       "name": "To Your Own Devices",
       "url": "https://open.spotify.com/track/7F7tkvQTutq9Hkx4XibCj3"
@@ -3290,7 +3510,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 163720,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
@@ -3312,6 +3532,24 @@
       "duration_ms": 129690,
       "name": "Wake UP!",
       "url": "https://open.spotify.com/track/0KMvA5OyFqK8zEeWz1II17"
+    },
+    {
+      "album": {
+        "name": "war",
+        "url": "https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129091,
+      "name": "war",
+      "url": "https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj"
     },
     {
       "album": {
@@ -3380,7 +3618,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 183761,
       "name": "X's",
       "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"

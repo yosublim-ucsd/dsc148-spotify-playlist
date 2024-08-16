@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: SOLE\(쏠\)\)
 
-737 songs - 1 day 15 hr 23 min
+738 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Bye bye my blue](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye bye my blue](https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm) | 3:23 | 2022-04-19 | 2023-07-08 |
 | [BYOB](https://open.spotify.com/track/512i7xNnsgoCnxGZDc7yjY) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb), [Hersh](https://open.spotify.com/artist/1mQmR1RcQpvrcrF6S1njyF), [PoPoMo](https://open.spotify.com/artist/6Lr03QZ7TGfnUqg5PXJEjG) | [PoPoMo](https://open.spotify.com/album/5sfmDWyzik4PhHVYcxuHcG) | 4:12 | 2024-01-23 | 2024-02-07 |
 | [CACTUS \(feat\. Crush & Beenzino\)](https://open.spotify.com/track/7sAsLAOMLLYoGyDEFK3Dh1) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 2:38 | 2022-10-28 | 2022-12-06 |
-| [Call Me](https://open.spotify.com/track/0Vj6qVJYN84hmV5vxQ4dYk) | [ISHA](https://open.spotify.com/artist/7IZVQOfFqJtCQLtdV5ieTt) | [Call Me](https://open.spotify.com/album/1Q8y5BWNiEptm6TYvm7Zyr) | 2:34 | 2024-08-10 |  |
+| [Call Me](https://open.spotify.com/track/0Vj6qVJYN84hmV5vxQ4dYk) | [ISHA](https://open.spotify.com/artist/7IZVQOfFqJtCQLtdV5ieTt) | [Call Me](https://open.spotify.com/album/1Q8y5BWNiEptm6TYvm7Zyr) | 2:34 | 2024-08-10 | 2024-08-16 |
 | [CALL ME BACK](https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [GIRL](https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv) | 3:47 | 2023-09-27 | 2023-10-07 |
 | [Call Me Now](https://open.spotify.com/track/4U0r1RHTcs0RuQLDBpu4MI) | [Lee Ju Chun](https://open.spotify.com/artist/15v1aovRbcGMoYIMmI8Vp2) | [Call Me Now](https://open.spotify.com/album/0FWlnVs2jB8EQrDqHQR38U) | 3:42 | 2022-07-07 | 2022-07-13 |
 | [camellia](https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [camellia](https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8) | 2:31 | 2022-04-19 | 2023-07-08 |
@@ -318,6 +318,7 @@
 | [i got you](https://open.spotify.com/track/20gAOYKYQ7aFRVRg6LvrLW) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [i got you](https://open.spotify.com/album/6yhXV3FtUQ8kDhBwhDuTKZ) | 2:12 | 2022-04-19 | 2022-10-01 |
 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 | 2024-03-05 | 2024-06-08 |
 | [I hope you like it](https://open.spotify.com/track/6QofUdC2H2t5V6DDIXpYM6) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [I hope you like it](https://open.spotify.com/album/14asPqEXDUtKBLAwAi3smY) | 2:59 | 2022-05-09 | 2022-05-12 |
+| [I Love Yuo](https://open.spotify.com/track/6ENEZrqRJqUMNhTaOjlu6X) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [TENT 0.3](https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J) | 2:26 | 2024-08-15 |  |
 | [I MEAN I MEAN.](https://open.spotify.com/track/6zOW7aFQXzIvLSpA7e7nAv) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [I MEAN I MEAN.](https://open.spotify.com/album/56ZCnaj5QSdXMOv6Cy1ksU) | 2:55 | 2022-05-11 | 2022-06-28 |
 | [I Mean You](https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI) | [Diana](https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E) | [I Mean You](https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo) | 3:15 | 2023-01-23 | 2023-02-15 |
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-18 | 2023-12-09 |

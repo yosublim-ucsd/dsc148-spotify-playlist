@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZdJumtdMCZ.md) - [plain]
 
 > The essence of Tamil Rap from Kollywood<br/>Cover : Yuvan Shankar Raja
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,841 likes - 53 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,872 likes - 53 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZdJumtdMCZ.md) - [plain]
 | 4 | [Bhagavan Rap](https://open.spotify.com/track/5wPZVAdagsB8TbSamfOGst) | [The Prophecy](https://open.spotify.com/artist/7fh9y8rqcWSY09PWjEUgnN), [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI) | [Aadhi Bhagavan](https://open.spotify.com/album/2Spqg3Ga3uiCcVhouI37Uu) | 3:42 |
 | 5 | [Boombastic \- From "Kadaisi Ulaga Por"](https://open.spotify.com/track/0Og0stoQkK2Axw9UQ0bzQX) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0), [Rajan Chelliah](https://open.spotify.com/artist/0jvnsvvEiOVRAFS0kgK3en) | [Boombastic \- From "Kadaisi Ulaga Por"](https://open.spotify.com/album/7A5PybkVgLvWMyYYeGNmU0) | 3:23 |
 | 6 | [Pakkam Vanthu \(From "Kaththi"\)](https://open.spotify.com/track/3FYrauenN3nxu6G9OchcrO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CHQy8WKl6HXPdoJM84pwb) | 4:16 |
-| 7 | [Makkamishi \- From "Brother"](https://open.spotify.com/track/0T1cGhK2iio0JmaVT3Vh47) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [Makkamishi \(From "Brother"\)](https://open.spotify.com/album/0ScQvvJTicZFU6msnflOj7) | 4:14 |
+| 7 | [Makkamishi \- From "Brother"](https://open.spotify.com/track/0T1cGhK2iio0JmaVT3Vh47) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [Makkamishi \- From "Brother"](https://open.spotify.com/album/0ScQvvJTicZFU6msnflOj7) | 4:14 |
 | 8 | [Raayan Rumble \(From "Raayan"\)](https://open.spotify.com/track/47yvxC80llSgqVhMWBZeLd) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Raayan Rumble \(From "Raayan"\)](https://open.spotify.com/album/1FVH2D7UkI5LNhim5CshPS) | 3:30 |
 | 9 | [Porkkalam \- Tamil Rap](https://open.spotify.com/track/5iv6lZAIguXWYW4Zaz5zvY) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Aadukalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0czPRsN8uZZ5o3J8usUHbR) | 4:20 |
 | 10 | [Naa Ready \(From "Leo"\)](https://open.spotify.com/track/1B02UI29t3PTh3m98absaP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Naa Ready \(From "Leo"\)](https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI) | 4:08 |

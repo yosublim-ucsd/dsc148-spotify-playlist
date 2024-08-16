@@ -410,6 +410,28 @@
     {
       "album": {
         "name": "USB",
+        "url": "https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385074,
+      "name": "Admit It (u dont want 2)",
+      "url": "https://open.spotify.com/track/4u2FSICPtwCoskbhscHWlD"
+    },
+    {
+      "album": {
+        "name": "USB",
         "url": "https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n"
       },
       "artists": [
@@ -424,7 +446,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 385074,
       "name": "Admit It (u dont want 2)",
       "url": "https://open.spotify.com/track/74cQSljwBwRAHbuXHf2HYs"
@@ -2290,7 +2312,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 180186,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/1CuV5QUOywyaUVfGrRkq3s"
@@ -3060,6 +3082,24 @@
       "duration_ms": 238733,
       "name": "Feels Like Tonight",
       "url": "https://open.spotify.com/track/2ybT2tUk0uqrjFE3ppf0et"
+    },
+    {
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "album": {

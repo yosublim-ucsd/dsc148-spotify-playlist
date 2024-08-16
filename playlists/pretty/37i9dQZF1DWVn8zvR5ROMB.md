@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Thomas Rhett, Kelsea Ballerini, Luke Bryan and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,415 likes - 73 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,565 likes - 73 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 13 | [Gambler](https://open.spotify.com/track/4J8bYGH9ZfZm2wKVe4cU9H) | [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Gambler](https://open.spotify.com/album/3YDRbo09za30XUj8H4ZA2A) | 2:51 |
 | 14 | [If I Drink Enough](https://open.spotify.com/track/7A3zDyl2Gse2nm4cMq2Swm) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [One Beer Away](https://open.spotify.com/album/32sAylG8qewI9XNw5ycf3F) | 2:51 |
 | 15 | [What I Know Now](https://open.spotify.com/track/77uUGdoehrjJPP9IZlVq5F) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [What I Know Now](https://open.spotify.com/album/2djQN7IpTj79iHIFWR8iLl) | 2:53 |
-| 16 | [Wildflowers and Wild Horses \(Remix\)](https://open.spotify.com/track/40WlYQ6Vv0cwmJi4lVQARo) | [Brandi Cyrus](https://open.spotify.com/artist/0Derlvisw6ty4fMjauZh9A), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses \(Remix\)](https://open.spotify.com/album/7LSlBPrtlUU7Ip0keE5emb) | 3:06 |
+| 16 | [Wildflowers and Wild Horses \- Remix](https://open.spotify.com/track/40WlYQ6Vv0cwmJi4lVQARo) | [Brandi Cyrus](https://open.spotify.com/artist/0Derlvisw6ty4fMjauZh9A), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses \- Remix](https://open.spotify.com/album/7LSlBPrtlUU7Ip0keE5emb) | 3:06 |
 | 17 | [Faith](https://open.spotify.com/track/3YnTVuD5e35se2fXVi7WZ5) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Faith](https://open.spotify.com/album/1pbTrPNdOKXDSGcQDV7q72) | 3:52 |
 | 18 | [When She Kissed Me](https://open.spotify.com/track/1vnsvAfJiIvX3S9YM01l2V) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [When She Kissed Me](https://open.spotify.com/album/51gRM3NuaQhiJc5NCiut8t) | 4:04 |
 | 19 | [Yodelayheewho \(feat\. Maggie Antone\)](https://open.spotify.com/track/3YHqVMXjpWw7xqI5MoQIUV) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Yodelayheewho \(feat\. Maggie Antone\)](https://open.spotify.com/album/3Nfd8Qm3oYcFqMsa527Lvc) | 2:45 |

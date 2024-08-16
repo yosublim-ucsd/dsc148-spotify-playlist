@@ -1,6 +1,6 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 641717,
+  "num_followers": 641873,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "The Best Of Kenny Rogers: Through The Years",
         "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 262079,
       "name": "Through The Years",
       "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "The Conversation (with Hank Williams Jr.)",
-      "url": "https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "The Best Of Terri Gibbs",
         "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 181666,
       "name": "Somebody's Knockin'",
       "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "The Conversation (with Hank Williams Jr.)",
+      "url": "https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
+        "name": "Ultimate Waylon Jennings",
+        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Just to Satisfy You",
+      "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
         "name": "The Very Best Of Rosanne Cash",
         "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
@@ -1951,26 +1971,6 @@
       "duration_ms": 182200,
       "name": "Leaving Louisiana In The Broad Daylight",
       "url": "https://open.spotify.com/track/1ADDagtKH24eNO8eJ6II6j"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
-        "name": "Ultimate Waylon Jennings",
-        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Just to Satisfy You",
-      "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1YRCRPM4KO5aYfg8LWPw9Z"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "If It Don't Come Easy",
+      "url": "https://open.spotify.com/track/3YuCV1BpUaitv016B5Lpcu"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
         "name": "George Jones and Tammy Wynette - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 160773,
       "name": "Two Story House",
       "url": "https://open.spotify.com/track/6PzCKkM1FLgIVCaAQkKyuZ"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1YRCRPM4KO5aYfg8LWPw9Z"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "If It Don't Come Easy",
-      "url": "https://open.spotify.com/track/3YuCV1BpUaitv016B5Lpcu"
     },
     {
       "added_at": "2024-07-05 20:32:07",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nousussa olevat hitit. Kannessa Shawn Mendes.",
+  "description": "Nousussa olevat hitit. Kannessa jambo ja Mikael Laurent.",
   "name": "Nousussa",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 189192,
       "name": "15 MINUTES",
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 232040,
       "name": "7 minuuttii",
       "url": "https://open.spotify.com/track/7aqh51LsKyhgFDPJKrh4pL"
@@ -78,6 +78,32 @@
       "duration_ms": 222413,
       "name": "Aavan meren tuolla puolen (Pride Anthem)",
       "url": "https://open.spotify.com/track/3XbkFw2V8tdA34EQJ0Ncnu"
+    },
+    {
+      "album": {
+        "name": "Aivan sama",
+        "url": "https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm"
+      },
+      "artists": [
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        },
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        },
+        {
+          "name": "F",
+          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190840,
+      "name": "Aivan sama",
+      "url": "https://open.spotify.com/track/4M7CQzlQpK3C9Yzjk3wlPf"
     },
     {
       "album": {
@@ -132,7 +158,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 163337,
       "name": "Anna rakas (raju hetki)",
       "url": "https://open.spotify.com/track/56Zd8JgzFBKpbRgNMvxwa9"
@@ -186,7 +212,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 159537,
       "name": "Asereje (Airplane Mode)",
       "url": "https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa"
@@ -386,7 +412,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 203343,
       "name": "Dead Man",
       "url": "https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ"
@@ -643,6 +669,24 @@
     },
     {
       "album": {
+        "name": "For Your Patience",
+        "url": "https://open.spotify.com/album/59wjuGpIai5t2LJuWdQoZ0"
+      },
+      "artists": [
+        {
+          "name": "Jesse Markin",
+          "url": "https://open.spotify.com/artist/3mxJuHRn2ZWD5OofvJtDZY"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205130,
+      "name": "For Your Patience",
+      "url": "https://open.spotify.com/track/6MA6rs3BGTxcu1Vx37qeV4"
+    },
+    {
+      "album": {
         "name": "Free (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
       },
@@ -850,7 +894,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 190535,
       "name": "HORSE MOM",
       "url": "https://open.spotify.com/track/3OnGfPJyPy1vlK3BTE7cun"
@@ -1658,7 +1702,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 162440,
       "name": "Lutkajenkka",
       "url": "https://open.spotify.com/track/3AfyderccqdtuLSTYAu3vv"
@@ -1680,6 +1724,24 @@
       "duration_ms": 167962,
       "name": "Maailman ainoo",
       "url": "https://open.spotify.com/track/2FO53dXqhiJ6pvh0xndSVl"
+    },
+    {
+      "album": {
+        "name": "Timeless - Deluxe",
+        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155038,
+      "name": "Make A Move",
+      "url": "https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy"
     },
     {
       "album": {
@@ -1821,6 +1883,28 @@
     },
     {
       "album": {
+        "name": "Momentti (feat. Costi)",
+        "url": "https://open.spotify.com/album/38LoMU82Rqtj2TjjtGEnNW"
+      },
+      "artists": [
+        {
+          "name": "T Swoop",
+          "url": "https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193908,
+      "name": "Momentti (feat. Costi)",
+      "url": "https://open.spotify.com/track/2x4DoxpcqEUsfmEIKMd5hP"
+    },
+    {
+      "album": {
         "name": "Mowgli",
         "url": "https://open.spotify.com/album/017Q2cv3auxsQmWWQj2mlO"
       },
@@ -1920,6 +2004,28 @@
       "duration_ms": 165921,
       "name": "Norjalaista puuta",
       "url": "https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s"
+    },
+    {
+      "album": {
+        "name": "Nuori & Tyhm\u00e4",
+        "url": "https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152326,
+      "name": "Nuori & Tyhm\u00e4",
+      "url": "https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0"
     },
     {
       "album": {
@@ -2047,6 +2153,28 @@
     },
     {
       "album": {
+        "name": "Per\u00e4valot (feat. Ellinoora)",
+        "url": "https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw"
+      },
+      "artists": [
+        {
+          "name": "Gasellit",
+          "url": "https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF"
+        },
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183749,
+      "name": "Per\u00e4valot (feat. Ellinoora)",
+      "url": "https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw"
+    },
+    {
+      "album": {
         "name": "Pikajunat",
         "url": "https://open.spotify.com/album/4oTP2YGdTCO1UKzMTNfPnZ"
       },
@@ -2134,10 +2262,28 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 153043,
       "name": "PRADA SHEIDIT",
       "url": "https://open.spotify.com/track/6OplMWd0zoaj2Y8tpvIlXu"
+    },
+    {
+      "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "album": {
@@ -2156,7 +2302,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 120590,
       "name": "Prinsessa (feat. baka\u00ae)",
       "url": "https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA"
@@ -2192,7 +2338,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 155834,
       "name": "P\u00e4iv\u00e4kirja",
       "url": "https://open.spotify.com/track/1SlXWvdCgVnyg5gNOMGdIy"
@@ -2244,7 +2390,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 177407,
       "name": "Rauhaa",
       "url": "https://open.spotify.com/track/1LgLXYqd3JYcHXfwHbszaZ"
@@ -2396,7 +2542,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 149750,
       "name": "Showtime (feat. Turisti)",
       "url": "https://open.spotify.com/track/3cjYY03q876FzLDCDi8IKf"
@@ -2486,10 +2632,50 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 143812,
       "name": "Sun takii",
       "url": "https://open.spotify.com/track/2QAGemdubaYwXgWYRvlBE1"
+    },
+    {
+      "album": {
+        "name": "Suomalainen Superstara",
+        "url": "https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        },
+        {
+          "name": "Mikael Laurent",
+          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182159,
+      "name": "Suomalainen Superstara",
+      "url": "https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC"
+    },
+    {
+      "album": {
+        "name": "S\u00e4 voitit jo",
+        "url": "https://open.spotify.com/album/1j0yvwm7L0EHsemk9EUS88"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178274,
+      "name": "S\u00e4 voitit jo",
+      "url": "https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR"
     },
     {
       "album": {
@@ -2580,7 +2766,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 304812,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
@@ -2650,7 +2836,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 132888,
       "name": "TRAFIK!",
       "url": "https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su"
@@ -2854,10 +3040,32 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 212613,
       "name": "Viinii",
       "url": "https://open.spotify.com/track/3n3hf9PWHruPQp6HsnbvfR"
+    },
+    {
+      "album": {
+        "name": "Vitun hyvin",
+        "url": "https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180099,
+      "name": "Vitun hyvin",
+      "url": "https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp"
     },
     {
       "album": {

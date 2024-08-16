@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Anike</a>
 
-420 songs - 1 day 1 hr 34 min
+421 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Ese](https://open.spotify.com/track/7lNo5JKa9o3Z7hFCnLoJWu) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Ese](https://open.spotify.com/album/4tRwplns0Oy4hQZsoVQWdR) | 2:37 | 2022-12-16 | 2023-12-16 |
 | [Every Blessing \- Live](https://open.spotify.com/track/2s3VW5hoQSBq1lyBhf1FkN) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Transitions \(Live\)](https://open.spotify.com/album/5mD4kziOFHDka8m5xqFSzV) | 5:00 | 2022-12-16 | 2023-12-16 |
 | [Every Step](https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP) | [Every Step](https://open.spotify.com/album/6dOZLDXel55K6Td1cbs1PG) | 2:46 | 2023-11-02 | 2024-07-06 |
+| [Evidence](https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Evidence](https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA) | 3:28 | 2024-08-09 |  |
 | [Faith > Fear](https://open.spotify.com/track/4urpo7LLiNUtyOvhXTezM5) | [Mia Pearl](https://open.spotify.com/artist/6oDZzh1uMkMpsLsAEcKomm) | [Faith > Fear](https://open.spotify.com/album/6LxqTYmOc27BCEsV6DVNJ6) | 2:31 | 2024-02-02 |  |
 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 | 2022-06-01 | 2022-09-03 |
 | [Fall Back](https://open.spotify.com/track/5tKkyk6FPsNfBUMyT3A3JF) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV), [Dante' Pride](https://open.spotify.com/artist/2v3KGsTtvQXwQHOMvqtkKS) | [Fall Back](https://open.spotify.com/album/1HaA6TrRiVF8wXl4wqCTAe) | 2:11 | 2024-02-02 |  |

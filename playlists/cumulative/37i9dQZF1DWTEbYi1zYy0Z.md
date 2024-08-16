@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-472 songs - 1 day 9 hr 26 min
+473 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Love Can't Wait](https://open.spotify.com/track/0ugbqA6rUHf5UtJYyfedmE) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [Love Can't Wait](https://open.spotify.com/album/1J5IOuZKF7GYZr1nsASil0) | 4:14 | 2024-04-12 |  |
 | [Love Crash](https://open.spotify.com/track/310LMuYWxmav6ZfeDFy71O) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF), [Phil Denny](https://open.spotify.com/artist/4pN9L2TSzYcFFS5FL4Hppz) | [Love Crash](https://open.spotify.com/album/3tbZWfRBaLOcr2h5IDvW53) | 3:49 | 2023-09-01 |  |
 | [Love Crazy](https://open.spotify.com/track/55xIR0lhEKXXUl5PE1jO4O) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G) | 3:54 | 2021-04-02 | 2022-03-18 |
+| [Love Duet](https://open.spotify.com/track/6rlmSOzLzpwj6OD75vMnSm) | [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Love Duet](https://open.spotify.com/album/12m1GvcFY7Tzt5GVik0fl6) | 4:00 | 2024-08-02 |  |
 | [Love Nwantiti](https://open.spotify.com/track/06lydkzsIHhHmDZCgZKCDJ) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Love Nwantiti](https://open.spotify.com/album/1hAt5XyintKlTCsHBz6HHY) | 2:31 | 2023-07-07 | 2024-03-30 |
 | [Low Down](https://open.spotify.com/track/5dxOLud7aVA9cWTqrfOlxz) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [Low Down](https://open.spotify.com/album/3SmcxCHqMgh4Qj4MCQC4jz) | 4:19 | 2024-04-05 |  |
 | [Low Down \(feat\. Ryan La Valette\)](https://open.spotify.com/track/2C6yjtsxZcwUkVLCleEDld) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [Low Down \(feat\. Ryan La Valette\)](https://open.spotify.com/album/5s2RWRt9T3kNDWSmRNgNZF) | 4:19 | 2024-04-05 | 2024-04-08 |

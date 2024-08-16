@@ -2,7 +2,7 @@
 
 ### [This Is Lalo Mora](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dhOKA)
 
-> This Is Lalo Mora\. Los temas esenciales, todos en una lista.
+> This is Lalo Mora\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 119 songs - 6 hr 2 min
 

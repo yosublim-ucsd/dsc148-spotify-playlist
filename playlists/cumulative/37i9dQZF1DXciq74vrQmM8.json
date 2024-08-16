@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. LIA LIA",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Jazmin Bean",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -2059,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "HYDRA",
+        "url": "https://open.spotify.com/album/5xatCHERAofQmKbIgTL9ty"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wolfgang",
+          "url": "https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/6il2TBS61gBvp6RcTBvlgk"
+    },
+    {
+      "album": {
         "name": "break me!",
         "url": "https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD"
       },
@@ -2833,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Clich\u00e9",
+        "url": "https://open.spotify.com/album/0flX7vAoaSnbrYnTkREOUj"
+      },
+      "artists": [
+        {
+          "name": "Westislonely",
+          "url": "https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175306,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/13sYq1DRwEvWqfimRKRUAC"
+    },
+    {
+      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -2914,7 +2950,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 134219,
       "name": "COKEHEAD",
       "url": "https://open.spotify.com/track/31rtGzjxNxjaMlI1ylfrKH"
@@ -3798,7 +3834,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 192275,
       "name": "decay (feat. Vaeo)",
       "url": "https://open.spotify.com/track/4vl9FGUcOaeAHe7yc7MeZO"
@@ -4210,6 +4246,24 @@
       "duration_ms": 176833,
       "name": "dog days",
       "url": "https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1"
+    },
+    {
+      "album": {
+        "name": "Doing It For The Country",
+        "url": "https://open.spotify.com/album/4deeqP5F3zzOA1ntCHIugF"
+      },
+      "artists": [
+        {
+          "name": "vincent's last summer",
+          "url": "https://open.spotify.com/artist/7FiGSKxy5ZCK0hzf81tjm3"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172553,
+      "name": "Doing It For The Country",
+      "url": "https://open.spotify.com/track/09W1ATBTKRZvzRvUJuF26v"
     },
     {
       "album": {
@@ -8547,6 +8601,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s not my fault (it\u2019s yours)",
+        "url": "https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180962,
+      "name": "It\u2019s not my fault (it\u2019s yours)",
+      "url": "https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW"
+    },
+    {
+      "album": {
         "name": "Let\u2019s Start Here.",
         "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
       },
@@ -9383,6 +9455,24 @@
     },
     {
       "album": {
+        "name": "Liar Liar Pants on Fire",
+        "url": "https://open.spotify.com/album/5zIUuLN9yrnfHn8k5InQfk"
+      },
+      "artists": [
+        {
+          "name": "racecarbed",
+          "url": "https://open.spotify.com/artist/5u7mnQsIPpSlEKMUCkR465"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228235,
+      "name": "Liar Liar Pants on Fire",
+      "url": "https://open.spotify.com/track/0stL6n1ajb4Fm7wtDAM6A9"
+    },
+    {
+      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -9830,6 +9920,24 @@
       "duration_ms": 165000,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/4Dy2uAN24IunT8A0oeA3D2"
+    },
+    {
+      "album": {
+        "name": "All Is Lost",
+        "url": "https://open.spotify.com/album/2ki2DQ0ni9OC6JIFgLVpV7"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/6SX7h9XaGEsUZiJIwjXU47"
     },
     {
       "album": {
@@ -10704,7 +10812,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 127192,
       "name": "Moist",
       "url": "https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL"
@@ -10748,7 +10856,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 179571,
       "name": "MONTANA (feat. Yeti Bones of Ho99o9)",
       "url": "https://open.spotify.com/track/2Lq56gQdjYKB0teT3errMZ"
@@ -11070,7 +11178,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 130071,
       "name": "neggy",
       "url": "https://open.spotify.com/track/5rGEXrrxrx9tax69jK5uR4"
@@ -12187,6 +12295,24 @@
     },
     {
       "album": {
+        "name": "pinky boy",
+        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285153,
+      "name": "pinky boy",
+      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
+    },
+    {
+      "album": {
         "name": "pity party (hyperpunk remix)",
         "url": "https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF"
       },
@@ -12458,7 +12584,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 171506,
       "name": "PREDATOR",
       "url": "https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP"
@@ -13562,6 +13688,24 @@
       "duration_ms": 178486,
       "name": "Seventy Thorns (feat. Jonathan Davis)",
       "url": "https://open.spotify.com/track/7FJYbOf9jVlYFuM26PVjM1"
+    },
+    {
+      "album": {
+        "name": "Sex Never Dies",
+        "url": "https://open.spotify.com/album/33KRPBx4woFUrbe1KIM5wk"
+      },
+      "artists": [
+        {
+          "name": "Zheani",
+          "url": "https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Sex Never Dies",
+      "url": "https://open.spotify.com/track/1k8uqF131l6E5AOJNOgcPj"
     },
     {
       "album": {
@@ -14833,6 +14977,24 @@
     },
     {
       "album": {
+        "name": "Taste Better",
+        "url": "https://open.spotify.com/album/3CYnVgAzxg49IYGU2hwyXQ"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173344,
+      "name": "Taste Better",
+      "url": "https://open.spotify.com/track/7LKSaTHrzYs8fENotRCj2E"
+    },
+    {
+      "album": {
         "name": "Terrified",
         "url": "https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd"
       },
@@ -14848,6 +15010,24 @@
       "duration_ms": 186071,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/5S9opvHpOztqiShDAAusum"
+    },
+    {
+      "album": {
+        "name": "Territory of Your Heart",
+        "url": "https://open.spotify.com/album/0OiMIJaH1n6DUe53OD80Mq"
+      },
+      "artists": [
+        {
+          "name": "Sohodolls",
+          "url": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Territory of Your Heart",
+      "url": "https://open.spotify.com/track/3w4OafKQZXziSa9KcRRqwl"
     },
     {
       "album": {
@@ -15912,7 +16092,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 129776,
       "name": "Upgrade (CROOK's System Update)",
       "url": "https://open.spotify.com/track/6pINwW2mGSK0LCDv6cYHMJ"
@@ -16947,6 +17127,28 @@
     },
     {
       "album": {
+        "name": "WORMGIRL",
+        "url": "https://open.spotify.com/album/572P8y9UMaiTveboT86c9u"
+      },
+      "artists": [
+        {
+          "name": "Mimi Barks",
+          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
+        },
+        {
+          "name": "Raven Gray",
+          "url": "https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "WORMGIRL",
+      "url": "https://open.spotify.com/track/4rOMdeT9rSJ7jYUNdhn2SG"
+    },
+    {
+      "album": {
         "name": "Worms",
         "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
       },
@@ -17200,6 +17402,24 @@
       "duration_ms": 202884,
       "name": "You Make Me Sick! - Dora Jar Remix",
       "url": "https://open.spotify.com/track/2jIYa43fTPZsLCGX2D7zL2"
+    },
+    {
+      "album": {
+        "name": "YOU THOUGHT I WAS DEAD",
+        "url": "https://open.spotify.com/album/5Wu6WAJxBUR0km3EVqOOnr"
+      },
+      "artists": [
+        {
+          "name": "Muki",
+          "url": "https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156003,
+      "name": "YOU THOUGHT I WAS DEAD",
+      "url": "https://open.spotify.com/track/3w9HIb25uhzlui8GWEYUuE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: The Synaptik
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,155 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,160 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,18 +41,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 31 | [Zagalo](https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:23 |
 | 32 | [Ayamy Betfoot](https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ayamy Betfoot](https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3) | 3:02 |
 | 33 | [Lojy](https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 2:30 |
-| 34 | [YA RAYEH](https://open.spotify.com/track/1uzGViEs42FcNS1KfqhaIT) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [YA RAYEH](https://open.spotify.com/album/3J3ZKCjqKeyDA3Dx9JJgNo) | 2:50 |
-| 35 | [Matghebsh](https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5) | [Ramez Naguib](https://open.spotify.com/artist/54XAVu3LEKVMsAzzavMyQ2), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Yemken](https://open.spotify.com/album/6euNJp1rtcIhPK3LleR9Ri) | 2:27 |
+| 34 | [Matghebsh](https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5) | [Ramez Naguib](https://open.spotify.com/artist/54XAVu3LEKVMsAzzavMyQ2), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Yemken](https://open.spotify.com/album/6euNJp1rtcIhPK3LleR9Ri) | 2:27 |
+| 35 | [YA RAYEH](https://open.spotify.com/track/1uzGViEs42FcNS1KfqhaIT) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [YA RAYEH](https://open.spotify.com/album/3J3ZKCjqKeyDA3Dx9JJgNo) | 2:50 |
 | 36 | [Lang](https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Lang](https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm) | 2:26 |
 | 37 | [Fein El Dawa](https://open.spotify.com/track/003TuuUc1rrAiuq6Nora4X) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [SULTAN](https://open.spotify.com/album/4clzoFbF4ygMmBSP5xKH3M) | 2:41 |
-| 38 | [Rio](https://open.spotify.com/track/0Z3PUi6pnShr7HmhjYkhkV) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [HEPTA](https://open.spotify.com/album/3JQgobucm5cegRkCt202JN) | 2:30 |
-| 39 | [ERZO2NA YA KAREEM](https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl) | [WELAD EL 7ARA](https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL) | 2:38 |
+| 38 | [ERZO2NA YA KAREEM](https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl) | [WELAD EL 7ARA](https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL) | 2:38 |
+| 39 | [Rio](https://open.spotify.com/track/0Z3PUi6pnShr7HmhjYkhkV) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [HEPTA](https://open.spotify.com/album/3JQgobucm5cegRkCt202JN) | 2:30 |
 | 40 | [Ghetto Symphony](https://open.spotify.com/track/0Qk2pgJxmfiAwH1jtjTTBc) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [RECTOVERSO](https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9) | 4:11 |
 | 41 | [EL Moled \- Red Bull Sada sot](https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [EL Moled \(Red Bull Sada sot\)](https://open.spotify.com/album/1DETVyDIOnE9AFtzI6LJqG) | 2:39 |
 | 42 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 |
 | 43 | [Hotel](https://open.spotify.com/track/1UKKa0dT81UdHFFiGq1Qtb) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [Hotel](https://open.spotify.com/album/0ofD5pzUTbUDiumyojrMCN) | 3:02 |
-| 44 | [VIII](https://open.spotify.com/track/6WHsvBA91O7A4QMMDUdn1k) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [VIII](https://open.spotify.com/album/7qJochArUh5WbbFx3Guvai) | 2:47 |
-| 45 | [Luna](https://open.spotify.com/track/3yB9fJ2xV09wfOHRVP9AAB) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [OMW](https://open.spotify.com/album/3lllRihvhGpSdxuJzn1oOQ) | 3:12 |
+| 44 | [Luna](https://open.spotify.com/track/3yB9fJ2xV09wfOHRVP9AAB) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [OMW](https://open.spotify.com/album/3lllRihvhGpSdxuJzn1oOQ) | 3:12 |
+| 45 | [VIII](https://open.spotify.com/track/6WHsvBA91O7A4QMMDUdn1k) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [VIII](https://open.spotify.com/album/7qJochArUh5WbbFx3Guvai) | 2:47 |
 | 46 | [العيد الكبير](https://open.spotify.com/track/4ERlcyCKQThcS7RED0dK1R) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [العيد الكبير](https://open.spotify.com/album/7E2j8lpqaa47KK1KueLaYR) | 2:35 |
 | 47 | [Hajes](https://open.spotify.com/track/4YwBQlGau4lH5J8L9C7LV1) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Valhalla](https://open.spotify.com/album/2Rnk0M57sZhNgN3IyjOvcP) | 4:00 |
 | 48 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |

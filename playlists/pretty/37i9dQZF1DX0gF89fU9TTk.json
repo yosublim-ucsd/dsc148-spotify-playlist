@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 134640,
+  "num_followers": 134670,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Fire in My Bones",
-        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Fire in My Bones",
-      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 185217,
       "name": "Never Have I Ever",
       "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Fire in My Bones",
+        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Fire in My Bones",
+      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -343,22 +343,18 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "MILLION WAYS",
-        "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
       },
       "artists": [
         {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        },
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
         }
       ],
-      "duration_ms": 210933,
-      "name": "MILLION WAYS",
-      "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -379,18 +375,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+        "name": "MILLION WAYS",
+        "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
       "artists": [
         {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        },
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+      "duration_ms": 210933,
+      "name": "MILLION WAYS",
+      "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "I've Got A Fire",
-        "url": "https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI"
-      },
-      "artists": [
-        {
-          "name": "Lakewood Music",
-          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
-        },
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "I\u2019ve Got A Fire",
-      "url": "https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Heavenly (Ethan C. Davis Remix)",
         "url": "https://open.spotify.com/album/5jvHkWq48VJRuvAMLgpLon"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 222000,
       "name": "Heavenly - Ethan C. Davis Remix",
       "url": "https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "I've Got A Fire",
+        "url": "https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "I\u2019ve Got A Fire",
+      "url": "https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Kingdom Come",
-      "url": "https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/04kCPiYgaj7QN3wdaZbXMV"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 211960,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/4bWIOGHOtUP2RGFulZLFCo"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO"
+      },
+      "artists": [
+        {
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        },
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Kingdom Come",
+      "url": "https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Listen More",
-        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Paradigms (Live)",
         "url": "https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 200687,
       "name": "Heaven Calling - Live",
       "url": "https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Listen More",
+        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "You Give Me Joy",
-        "url": "https://open.spotify.com/album/5q0hrCcluIsG9cqMcMNOdP"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "You Give Me Joy",
-      "url": "https://open.spotify.com/track/6RtesjeHlOQ07LYGcXK6EQ"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Holding on to Me",
         "url": "https://open.spotify.com/album/5V02N3G7e4Lle1myANHLCI"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 231645,
       "name": "Holding on to Me",
       "url": "https://open.spotify.com/track/0NBJe10Be0dfgUT09eTk7H"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "You Give Me Joy",
+        "url": "https://open.spotify.com/album/5q0hrCcluIsG9cqMcMNOdP"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "You Give Me Joy",
+      "url": "https://open.spotify.com/track/6RtesjeHlOQ07LYGcXK6EQ"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "I Am Alive",
-        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
-      },
-      "artists": [
-        {
-          "name": "SL Worship",
-          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "I Am Alive",
-      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Brighter (Live)",
         "url": "https://open.spotify.com/album/5xplj2rt2dXTDWrvXCCPN5"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 208480,
       "name": "Brighter - Live",
       "url": "https://open.spotify.com/track/2rED5Vu3HINA7kc3paWxJt"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "I Am Alive",
+        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
+      },
+      "artists": [
+        {
+          "name": "SL Worship",
+          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "I Am Alive",
+      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
     },
     {
       "added_at": "2024-06-25 03:27:03",

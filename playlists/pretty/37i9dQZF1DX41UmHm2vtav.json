@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 469691,
+  "num_followers": 469710,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-08-09 13:47:44",
       "album": {
-        "name": "Presente do Mar",
-        "url": "https://open.spotify.com/album/15b5t3lIZxQLe1wzdhMl3p"
-      },
-      "artists": [
-        {
-          "name": "Bolth",
-          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
-        },
-        {
-          "name": "Reis",
-          "url": "https://open.spotify.com/artist/1FPeNJhA9trW4zwYZOjvwL"
-        }
-      ],
-      "duration_ms": 177516,
-      "name": "Presente do Mar",
-      "url": "https://open.spotify.com/track/0U2DfsFkO2G2KzwlVjPVmv"
-    },
-    {
-      "added_at": "2024-08-09 13:47:44",
-      "album": {
         "name": "It's Your Life",
         "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+    },
+    {
+      "added_at": "2024-08-09 13:47:44",
+      "album": {
+        "name": "Presente do Mar",
+        "url": "https://open.spotify.com/album/15b5t3lIZxQLe1wzdhMl3p"
+      },
+      "artists": [
+        {
+          "name": "Bolth",
+          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
+        },
+        {
+          "name": "Reis",
+          "url": "https://open.spotify.com/artist/1FPeNJhA9trW4zwYZOjvwL"
+        }
+      ],
+      "duration_ms": 177516,
+      "name": "Presente do Mar",
+      "url": "https://open.spotify.com/track/0U2DfsFkO2G2KzwlVjPVmv"
     },
     {
       "added_at": "2024-08-09 13:47:44",

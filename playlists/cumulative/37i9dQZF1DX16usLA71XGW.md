@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Victoria Kimani
+> East Africa queens in their music bag\. Cover: Anjella
 
-144 songs - 7 hr 41 min
+145 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 | 2024-03-07 |  |
 | [Feel Alive](https://open.spotify.com/track/07xjo4p0md0cPMTUXPhrwF) | [TheOnlyRosa](https://open.spotify.com/artist/3RL8Hb8tQ9aFuCWGikXNwx), [Fena Gitu](https://open.spotify.com/artist/3zJd3CVxAQx3gB7fPH9P2V) | [Feel Alive](https://open.spotify.com/album/0OjBP78TRit3ZBviOQj8qb) | 3:30 | 2024-03-07 |  |
 | [Fire](https://open.spotify.com/track/3ZCtiMBm8r1L4V5lwMOa2l) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Fire](https://open.spotify.com/album/7lAxGA7kdSK6cl3XcVVLpZ) | 3:22 | 2023-06-30 |  |
-| [Fire](https://open.spotify.com/track/1LFM0KBmoe13qfMQZucsPk) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Fire](https://open.spotify.com/album/77exuH6Dzo7RMFxtFxNLhQ) | 3:37 | 2022-07-18 |  |
+| [Fire](https://open.spotify.com/track/1LFM0KBmoe13qfMQZucsPk) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Fire](https://open.spotify.com/album/77exuH6Dzo7RMFxtFxNLhQ) | 3:37 | 2022-07-18 | 2024-08-16 |
 | [For Sheezy](https://open.spotify.com/track/4Kr0xtd8gpJPrSuQaQ9LSL) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [For Sheezy](https://open.spotify.com/album/3ZbA4aFb3okLLV3BIAeexK) | 3:30 | 2022-07-18 | 2022-08-20 |
 | [Full Package](https://open.spotify.com/track/5Hi8Eq36XjCppUkruLgWm5) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Full Package](https://open.spotify.com/album/4eN2lQZMgHdcmjuaIY2uB6) | 2:26 | 2024-07-04 |  |
 | [Galaxy](https://open.spotify.com/track/5ajyC8vUNQj1bDJqMIyjC4) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 3:24 | 2022-07-18 | 2022-09-23 |
@@ -68,6 +68,7 @@
 | [Maajab](https://open.spotify.com/track/6UhQxlDPo4OqzwNyvH6xIQ) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Maajab](https://open.spotify.com/album/5d1qznmP03spOwDdS60r57) | 3:18 | 2023-06-23 |  |
 | [Maajab \(Deluxe Version\)](https://open.spotify.com/track/3vroJW3uILAcovFGkrMp3G) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Maajab \(Deluxe Version\)](https://open.spotify.com/album/5iYZH8RsTKQKQeJdt4Xaje) | 3:18 | 2023-06-30 | 2024-04-19 |
 | [Mad Man](https://open.spotify.com/track/5v8HPYHWaq4qC1OO3WPGQz) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Mad Man](https://open.spotify.com/album/6iV8YILfRjXdBhqH83gL2q) | 3:05 | 2022-10-27 | 2023-11-18 |
+| [Mahaba Rundo](https://open.spotify.com/track/7IQHfseN0kGCQuUrfpfPKn) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [The Black Queen](https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri) | 2:46 | 2024-08-15 |  |
 | [Mama Ni Mama \(feat\. Stamina\)](https://open.spotify.com/track/3pnbWpwpvO2SFCp0nmxWW2) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Stamina](https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7) | [Mama Ni Mama \(feat\. Stamina\)](https://open.spotify.com/album/1pTFzkawyvwa9fQ6KR8c2l) | 3:53 | 2023-03-30 | 2024-05-25 |
 | [Mama Ntilie](https://open.spotify.com/track/3M52Cys94u7FX3nUww5ITl) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6) | [Mama Ntilie](https://open.spotify.com/album/78X3PS16LknVFjRix2nc9h) | 2:31 | 2022-07-18 | 2023-08-26 |
 | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/track/1n2beraaBdeHstydRddlpI) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/album/3quhGw7vAKqk1Kudwin32W) | 2:50 | 2023-11-24 |  |

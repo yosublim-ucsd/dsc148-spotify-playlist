@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,204 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,240 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 37 | [Guajira Soul](https://open.spotify.com/track/03HV6ASLKmzXDm68IynJ7R) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Compilación Salsa 1958\-1964](https://open.spotify.com/album/3DBnxpcPAMIz1itLKWx36J) | 1:59 |
 | 38 | [That's How Rumors Start](https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe) | [Joey Pastrana and His Orchestra](https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2) | [Joey](https://open.spotify.com/album/4I6Y0n7bB7op6vgT9YfW3R) | 7:32 |
 | 39 | [I Like It Like That](https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like it Like That](https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ) | 4:25 |
-| 40 | [Mambo Rock](https://open.spotify.com/track/5WlSFezblkdRb9PxagXagR) | [Alfredito Linares](https://open.spotify.com/artist/6nk62hgvBZTiWHfJDqQnFi) | [Mi Nuevo Ritmo](https://open.spotify.com/album/7EL9BpPDY9eX3ITD9JfJAd) | 3:35 |
-| 41 | [Tihuanaco](https://open.spotify.com/track/0w1Zn7sPlkIbA9RZ1aLkgF) | [Alfredo Linares](https://open.spotify.com/artist/69cQFJ1QUMfKbGBygF0YCd) | [Vida Musical, Vol\. 1](https://open.spotify.com/album/4R5CqQ6zcAtkWcLua3mFW9) | 3:37 |
+| 40 | [Tihuanaco](https://open.spotify.com/track/0w1Zn7sPlkIbA9RZ1aLkgF) | [Alfredo Linares](https://open.spotify.com/artist/69cQFJ1QUMfKbGBygF0YCd) | [Vida Musical, Vol\. 1](https://open.spotify.com/album/4R5CqQ6zcAtkWcLua3mFW9) | 3:37 |
+| 41 | [Mambo Rock](https://open.spotify.com/track/5WlSFezblkdRb9PxagXagR) | [Alfredito Linares](https://open.spotify.com/artist/6nk62hgvBZTiWHfJDqQnFi) | [Mi Nuevo Ritmo](https://open.spotify.com/album/7EL9BpPDY9eX3ITD9JfJAd) | 3:35 |
 | 42 | [Gypsy Woman](https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Joe Bataan Anthology](https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv) | 4:06 |
 | 43 | [Boogaloo Blues](https://open.spotify.com/track/7wLdPTpjA6xOluKGOFBrmR) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Records 60's Gold](https://open.spotify.com/album/2bfg6X6O2NlWNlvCHqsD8h) | 5:31 |
 | 44 | [Bang Bang](https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Fania Latin Boogaloo Essentials](https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg) | 4:07 |
-| 45 | [Fever](https://open.spotify.com/track/78RPkU9Tb9mc3CrT1b4Uxt) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [La Lupe \- Greatest Hits](https://open.spotify.com/album/03MZq6wqB3UwHpLa5kmCHJ) | 2:45 |
-| 46 | [Marilu](https://open.spotify.com/track/65BjrUvYlKkptBynsmDC8K) | [George Guzman](https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL) | [Introducing George Guzman](https://open.spotify.com/album/1QqR4HsQos027cjTJC5MBM) | 4:07 |
+| 45 | [Marilu](https://open.spotify.com/track/65BjrUvYlKkptBynsmDC8K) | [George Guzman](https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL) | [Introducing George Guzman](https://open.spotify.com/album/1QqR4HsQos027cjTJC5MBM) | 4:07 |
+| 46 | [Fever](https://open.spotify.com/track/78RPkU9Tb9mc3CrT1b4Uxt) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [La Lupe \- Greatest Hits](https://open.spotify.com/album/03MZq6wqB3UwHpLa5kmCHJ) | 2:45 |
 | 47 | [Come And Get It](https://open.spotify.com/track/647gi4v4E8zPT0GdiR8MxL) | [Ralph Robles](https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV) | [El Barrio](https://open.spotify.com/album/4xGW5NEUTOgeqvYoOCCD0k) | 3:00 |
 | 48 | [Eso Se Baila Asi](https://open.spotify.com/track/71pNDcd8132efh1p56PwUP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The Original Gangster](https://open.spotify.com/album/0Csv84dozue6SsmJxp9t2Y) | 5:21 |
 | 49 | [Son Cuero Y Boogaloo](https://open.spotify.com/track/3yGmOWLc5eScSOv84vs6dm) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Live at the Red Garter Vol 2](https://open.spotify.com/album/6D8lBJUjjeDz6ZhkhZlKCS) | 8:30 |

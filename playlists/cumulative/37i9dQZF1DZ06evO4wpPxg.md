@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
+> This is Rev\. Gary Davis\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 309 songs - 19 hr 24 min
 
@@ -234,7 +234,7 @@
 | [She's Just Funny That Way \- Live in Seattle, WA](https://open.spotify.com/track/24DDo7cKRZCrvjxSbbTVJM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 5:15 | 2024-01-01 | 2024-01-03 |
 | [She's Just Funny That Way \- Live in Seattle, WA](https://open.spotify.com/track/5CdsdahLJglofONPvbzGET) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 5:15 | 2022-11-04 | 2022-11-08 |
 | [Shine On Me](https://open.spotify.com/track/6lXyg4DRa5VdxRWitfnYZM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:01 | 2022-05-25 | 2024-08-12 |
-| [Slippin' 'Til My Gal Comes In Partner](https://open.spotify.com/track/3dtEEMSI8GO75NMWN8NwMp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 1](https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ) | 3:40 | 2024-04-21 |  |
+| [Slippin' 'Til My Gal Comes In Partner](https://open.spotify.com/track/3dtEEMSI8GO75NMWN8NwMp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 1](https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ) | 3:40 | 2024-04-21 | 2024-08-16 |
 | [Slippin' Till My Gal Comes in Partner](https://open.spotify.com/track/5z2zAtdqXz1IV5MnE8ML0v) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:41 | 2022-09-18 | 2022-11-24 |
 | [Slippin' to My Gal Comes in Partner](https://open.spotify.com/track/1cxin9oX9nHIpYeTp6pKhj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:00 | 2023-04-25 | 2024-07-03 |
 | [Slow Blues in E](https://open.spotify.com/track/7lEynQW8MpI0zN2qnfHBhl) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Sun of Our Life](https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR) | 2:41 | 2024-06-16 | 2024-06-18 |
@@ -305,7 +305,7 @@
 | [Working on the Building](https://open.spotify.com/track/7GxQg4Kf8R9YDKDimk6kVE) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 4:47 | 2023-02-07 | 2023-07-18 |
 | [Wouldn't Say Quit](https://open.spotify.com/track/5yMBRKy5hpMVh2JycKIMdi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 5:16 | 2024-04-23 | 2024-04-24 |
 | [Yes Sir, That's My Baby Now](https://open.spotify.com/track/6FGxskEL55Rvi6ImEnSvNU) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 1:11 | 2022-11-02 |  |
-| [You Better Mind](https://open.spotify.com/track/15zp2YjWMhclfGwfg0HMou) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:28 | 2024-07-21 | 2024-07-24 |
+| [You Better Mind](https://open.spotify.com/track/15zp2YjWMhclfGwfg0HMou) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:28 | 2024-07-21 |  |
 | [You Can Go Home](https://open.spotify.com/track/6AqBgPjQXZYolTRG6vmn4M) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 3:07 | 2022-05-26 | 2023-01-02 |
 | [You Can Go Home](https://open.spotify.com/track/7rtZzKV3eWBqKC8KE6WEj2) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:08 | 2023-01-10 | 2024-07-27 |
 | [You Cry Because I'm Leaving](https://open.spotify.com/track/11oTKh67Rh71G4lv6MI1At) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 4:20 | 2023-03-19 | 2023-04-21 |

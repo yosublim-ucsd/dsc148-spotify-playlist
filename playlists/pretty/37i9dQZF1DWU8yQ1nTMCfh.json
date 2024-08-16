@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Los Outsaiders",
-  "num_followers": 297701,
+  "num_followers": 297706,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Greta Garbo",
-        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Nuestros mundos no obedecen a tus mapas",
-      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Problema Cabr\u00f3n",
         "url": "https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 216105,
       "name": "Problema Cabr\u00f3n",
       "url": "https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Greta Garbo",
+        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Nuestros mundos no obedecen a tus mapas",
+      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -663,6 +663,26 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Verano Todo El A\u00f1o",
+        "url": "https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        },
+        {
+          "name": "Anabella Cartolano",
+          "url": "https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C"
+        }
+      ],
+      "duration_ms": 164845,
+      "name": "Verano Todo el A\u00f1o",
+      "url": "https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Mirando al techo - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5gdeUHHlTOoHacuDfAf0jP"
       },
@@ -731,26 +751,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Verano Todo El A\u00f1o",
-        "url": "https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l"
-      },
-      "artists": [
-        {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
-        },
-        {
-          "name": "Anabella Cartolano",
-          "url": "https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C"
-        }
-      ],
-      "duration_ms": 164845,
-      "name": "Verano Todo el A\u00f1o",
-      "url": "https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 193360,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "La Bas(e)",
-        "url": "https://open.spotify.com/album/3otMnORRUkinKsR5EzwK68"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "La Bas(e)",
-      "url": "https://open.spotify.com/track/4kpRAJOlfHuu24AzHvJ1GO"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -803,6 +787,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "La Bas(e)",
+        "url": "https://open.spotify.com/album/3otMnORRUkinKsR5EzwK68"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "La Bas(e)",
+      "url": "https://open.spotify.com/track/4kpRAJOlfHuu24AzHvJ1GO"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Abismo",
         "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Astronom\u00eda Interior",
-        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
-      },
-      "artists": [
-        {
-          "name": "Astronom\u00eda Interior",
-          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Generaci\u00f3n Inmediata",
         "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 205400,
       "name": "Tu Tiempo",
       "url": "https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Astronom\u00eda Interior",
+        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -887,18 +887,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "D\u00eda Uno",
-        "url": "https://open.spotify.com/album/6ryEHlaniUoPaUl8JgTYNt"
+        "name": "Una noche m\u00e1s (feat. Bruses)",
+        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
       },
       "artists": [
         {
-          "name": "DRIMS",
-          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 169226,
-      "name": "D\u00eda Uno",
-      "url": "https://open.spotify.com/track/5r0DmaRCDDBlUHB3ekQOH6"
+      "duration_ms": 183353,
+      "name": "Una noche m\u00e1s (feat. Bruses)",
+      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -923,22 +927,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Una noche m\u00e1s (feat. Bruses)",
-        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
+        "name": "D\u00eda Uno",
+        "url": "https://open.spotify.com/album/6ryEHlaniUoPaUl8JgTYNt"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "DRIMS",
+          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
         }
       ],
-      "duration_ms": 183353,
-      "name": "Una noche m\u00e1s (feat. Bruses)",
-      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
+      "duration_ms": 169226,
+      "name": "D\u00eda Uno",
+      "url": "https://open.spotify.com/track/5r0DmaRCDDBlUHB3ekQOH6"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1063,18 +1063,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "PRISMARAMA",
-        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
+        "name": "F\u00fatbol Rock",
+        "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 250746,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
+      "duration_ms": 253600,
+      "name": "F\u00fatbol Rock",
+      "url": "https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1103,42 +1107,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "F\u00fatbol Rock",
-        "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
+        "name": "PRISMARAMA",
+        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
       "artists": [
         {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        },
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 253600,
-      "name": "F\u00fatbol Rock",
-      "url": "https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "La Era Del Drag\u00f3n",
-        "url": "https://open.spotify.com/album/6XHIbN2hCilPmLura52crR"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 220318,
-      "name": "La Era Del Drag\u00f3n",
-      "url": "https://open.spotify.com/track/0Vmb4M1Ianl3hxYOOwUUja"
+      "duration_ms": 250746,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1159,6 +1139,26 @@
       "duration_ms": 212810,
       "name": "Sentimientos Encontrados",
       "url": "https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "La Era Del Drag\u00f3n",
+        "url": "https://open.spotify.com/album/6XHIbN2hCilPmLura52crR"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 220318,
+      "name": "La Era Del Drag\u00f3n",
+      "url": "https://open.spotify.com/track/0Vmb4M1Ianl3hxYOOwUUja"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Su\u00e9ltate el pelo",
         "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 171904,
       "name": "Su\u00e9ltate el pelo",
       "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Echao\u2019 a perder",
-        "url": "https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx"
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 168375,
-      "name": "Echao\u2019 a perder",
-      "url": "https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM"
+      "duration_ms": 189586,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
     }
   ],
   "unique_name": "Rock Total",

@@ -519,18 +519,26 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Estilo Coyote",
-        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
+        "name": "Nao Sei Mais",
+        "url": "https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l"
       },
       "artists": [
         {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Damassaclan",
+          "url": "https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
         }
       ],
-      "duration_ms": 174211,
-      "name": "Estilo Coyote",
-      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
+      "duration_ms": 145185,
+      "name": "Nao Sei Mais",
+      "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -575,26 +583,18 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Nao Sei Mais",
-        "url": "https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l"
+        "name": "Estilo Coyote",
+        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
       },
       "artists": [
         {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Damassaclan",
-          "url": "https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
         }
       ],
-      "duration_ms": 145185,
-      "name": "Nao Sei Mais",
-      "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
+      "duration_ms": 174211,
+      "name": "Estilo Coyote",
+      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Sem Cortesia (Vagando na Babil\u00f4nia / Em Busca de Cana\u00e3)",
-        "url": "https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK"
+        "name": "No Dia dos Nossos",
+        "url": "https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu"
       },
       "artists": [
         {
-          "name": "S\u00edntese",
-          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
         }
       ],
-      "duration_ms": 165903,
-      "name": "Se Escute",
-      "url": "https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg"
+      "duration_ms": 164166,
+      "name": "NDDN",
+      "url": "https://open.spotify.com/track/0XlWJ5zP4hZ2ynsLIJYXaW"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Sem Cortesia (Vagando na Babil\u00f4nia / Em Busca de Cana\u00e3)",
+        "url": "https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK"
+      },
+      "artists": [
+        {
+          "name": "S\u00edntese",
+          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
+        }
+      ],
+      "duration_ms": 165903,
+      "name": "Se Escute",
+      "url": "https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Eu Tiro \u00c9 Onda (Remix)",
         "url": "https://open.spotify.com/album/46mzP0WCiw6q1zbd31AWoa"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 174725,
       "name": "Eu Tiro \u00c9 Onda - Remix",
       "url": "https://open.spotify.com/track/7rY8HdRaxTUcJIP5ZV3Y5A"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "No Dia dos Nossos",
-        "url": "https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu"
-      },
-      "artists": [
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        }
-      ],
-      "duration_ms": 164166,
-      "name": "NDDN",
-      "url": "https://open.spotify.com/track/0XlWJ5zP4hZ2ynsLIJYXaW"
     },
     {
       "added_at": "2024-02-23 18:00:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:0f59qYByNYzspwAr7huTSB">Isadora Pompeo </a> and <a href="spotify:artist:3rdJD72bitczKtW5yNgAA4">Seph Schleuter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,963 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,004 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 70 | [Take You At Your Word](https://open.spotify.com/track/292BtqhxZ6U8fHIBPO2XWc) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Take You At Your Word](https://open.spotify.com/album/0TG1Zk3TWOGZvVrbqx2lnT) | 3:44 |
 | 71 | [Jesus Jesus \- Live](https://open.spotify.com/track/6A5TJ6kNECjdj35TUscEHZ) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Jesus Jesus \(Live\)](https://open.spotify.com/album/4ZjrPej99FG58t5FQmXfQ6) | 7:34 |
 | 72 | [Power In Your Name](https://open.spotify.com/track/3bQ5B0k1kxDc9F6976VQxt) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Tamara Fontijn](https://open.spotify.com/artist/2t1YVqm4E6w3CsEDw2Zasi) | [Power In Your Name](https://open.spotify.com/album/07aeQsKkWJLyTia4bAJLPY) | 4:18 |
-| 73 | [Let It Flow \- Live](https://open.spotify.com/track/6EP33vME23wA0pX2ZeG7mH) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Always A Good Time \(Live\)](https://open.spotify.com/album/7rN4VE06iIyRYZRknPF0N8) | 4:00 |
+| 73 | [Let It Flow \- Live](https://open.spotify.com/track/6EP33vME23wA0pX2ZeG7mH) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Always A Good Time \- Live](https://open.spotify.com/album/7rN4VE06iIyRYZRknPF0N8) | 4:00 |
 | 74 | [He Who Is To Come \- Live From Passion 2024](https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 6:30 |
 | 75 | [Praise Forever \(feat\. Brennley Brown\) \- Live](https://open.spotify.com/track/2v3W1PjSJGMW2706BefO3u) | [Harvest Worship](https://open.spotify.com/artist/5PdCcthDCLVddaLPWVKSPU), [Ricky Jackson](https://open.spotify.com/artist/0fx4HE5hQcqSgNPUV3c3ku), [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [Praise Forever \(feat\. Brennley Brown\) \[Live\]](https://open.spotify.com/album/159bA8TgD2NL5YyzxbHmbF) | 4:09 |
 | 76 | [It is Done \- Live](https://open.spotify.com/track/737zghobTBR0SauNxmcXrt) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Marya Adé](https://open.spotify.com/artist/0ng9uodX69rzP8nm6VnuLJ) | [It is Done \(Live\)](https://open.spotify.com/album/5JykxP8EoWW9A9LhaUmLkG) | 5:55 |

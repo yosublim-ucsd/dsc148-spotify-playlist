@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees from the 81st Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,389 likes - 33 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,394 likes - 33 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 23 | [Toxic \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Fargo Year 5 \(Soundtrack from the MGM/ FXP Series\)](https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP) | 4:42 |
 | 24 | [I Love You Guys](https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:15 |
 | 25 | [VARIATION AUTOUR D'UN PRÉLUDE \- Anatomie d'une chute](https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh) | [Benoît Daniel](https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS) | [ANATOMIE D'UNE CHUTE \(Musique Originale\)](https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o) | 4:32 |
-| 26 | [Osage Oil Boom](https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY) | [Robbie Robertson](https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf) | [Killers of the Flower Moon \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp) | 2:51 |
-| 27 | [I Wish This Was Real](https://open.spotify.com/track/7EuyxDSG25VWxaQg0DtOIV) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Dream Scenario \(Original Motion Picture Score\)](https://open.spotify.com/album/5NDIVLocg7KcHXRqMMHpR8) | 1:49 |
+| 26 | [I Wish This Was Real](https://open.spotify.com/track/7EuyxDSG25VWxaQg0DtOIV) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Dream Scenario \(Original Motion Picture Score\)](https://open.spotify.com/album/5NDIVLocg7KcHXRqMMHpR8) | 1:49 |
+| 27 | [Osage Oil Boom](https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY) | [Robbie Robertson](https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf) | [Killers of the Flower Moon \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp) | 2:51 |
 | 28 | [Quiet Eyes](https://open.spotify.com/track/2r1pq34i8ddPXyxvfqDBCG) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Past Lives \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn) | 3:37 |
 | 29 | [Confirming Hal's Story](https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC), [Dimitri Smith](https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP) | [The Diplomat \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB) | 1:09 |
 | 30 | [Drive](https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB) | [Steven Yeun as Danny from BEEF](https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 4:01 |

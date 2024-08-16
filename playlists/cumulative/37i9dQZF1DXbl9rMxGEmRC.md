@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-654 songs - 2 day 7 hr 40 min
+656 songs - 2 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Death·chaos·void](https://open.spotify.com/track/3frwYpO72nBBkn2TCTUBsz) | [Akouphenom](https://open.spotify.com/artist/1Sds5s7jYPS5iOfQebawN3) | [Death·chaos·void](https://open.spotify.com/album/4IxAlYMNOR9rsfot26RBk6) | 8:07 | 2023-10-12 | 2023-12-15 |
 | [Decade of Therion](https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Satanica](https://open.spotify.com/album/5GVt3QeIw7ueuou2AZlzcV) | 3:19 | 2022-07-13 |  |
 | [Demonon Vrosis](https://open.spotify.com/track/6YuVmHEXQU3Dgg3w3LSZnZ) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Aealo](https://open.spotify.com/album/16ywSYjE1gvCU1GtlYVXgV) | 4:56 | 2022-07-13 |  |
+| [Der Maulwurf](https://open.spotify.com/track/0FNb2MfSvg0Mv3wgUs7XzR) | [Kanonenfieber](https://open.spotify.com/artist/5VI8SBEX7uSvoHsdI5xNVJ) | [Der Maulwurf](https://open.spotify.com/album/5gE2UMLj77WeWSrlnDf15h) | 5:18 | 2024-08-16 |  |
 | [Desolation's Flower](https://open.spotify.com/track/7gX1NBorrOZqpLYBlRIW3F) | [Ragana](https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt) | [Desolation's Flower](https://open.spotify.com/album/3AmTVBNLadBMNE4OlVro6S) | 8:29 | 2023-08-04 |  |
 | [Destination Woe](https://open.spotify.com/track/1J4V8aJYMKrFAj64ry7Pxl) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [Destination Woe](https://open.spotify.com/album/5q13Ch3bg28ZqVrHhPsP1y) | 4:52 | 2023-03-17 | 2023-04-01 |
 | [Devil's Blood](https://open.spotify.com/track/3YW1hcnwzRIjwBfXuxl99Q) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi \(Remastered\)](https://open.spotify.com/album/56zmJY3VeoWpC2j71DbsOI) | 5:54 | 2022-07-13 | 2022-07-29 |
@@ -240,7 +241,7 @@
 | [Galactic Order](https://open.spotify.com/track/4fTYgx1L02Uni6fnSbi93F) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [Galactic Order](https://open.spotify.com/album/2vOreDyZb2cDajzHWrvZAt) | 5:22 | 2023-05-12 |  |
 | [Gamle\-Erik](https://open.spotify.com/track/1NI0lQb4FXqGutjDePCaRI) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Helvegr](https://open.spotify.com/album/6eH7gLDHor7ZPiz4VQtWDM) | 3:46 | 2023-06-30 | 2023-09-03 |
 | [Gangandi](https://open.spotify.com/track/4AnR4EB1BIn481mcPalt44) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Gangandi](https://open.spotify.com/album/45VQnapn0ZwF6JV2HvAiZ9) | 7:10 | 2024-01-11 | 2024-03-22 |
-| [Garden Of Bones](https://open.spotify.com/track/5UqYx7jsL2CHj8dBcjxOwz) | [Acid Mammoth](https://open.spotify.com/artist/6VM0lR9Yr3VeXe4ZYB5f7T) | [Supersonic Megafauna Collision](https://open.spotify.com/album/3pkQngvEq7Ltxqs7ui76Vl) | 6:28 | 2024-06-03 |  |
+| [Garden Of Bones](https://open.spotify.com/track/5UqYx7jsL2CHj8dBcjxOwz) | [Acid Mammoth](https://open.spotify.com/artist/6VM0lR9Yr3VeXe4ZYB5f7T) | [Supersonic Megafauna Collision](https://open.spotify.com/album/3pkQngvEq7Ltxqs7ui76Vl) | 6:28 | 2024-06-03 | 2024-08-16 |
 | [Gehenna](https://open.spotify.com/track/3x2A8myfYInyflbGmZKQDD) | [Se, Josta Ei Puhuta](https://open.spotify.com/artist/1n64pzlYBm5zq9Mvf8C0dk) | [Gehenna](https://open.spotify.com/album/6BFtNQI9JIkLEmcrlWLRdi) | 4:12 | 2021-12-17 | 2022-07-27 |
 | [God Is Wasted](https://open.spotify.com/track/3dX9IN7FSVn1fQZotgM0KU) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/5A0LRCVTtoyd5EWpHdwB11) | 4:18 | 2022-07-13 | 2022-07-29 |
 | [God Is Wasted](https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX) | 4:18 | 2022-07-13 | 2023-02-16 |
@@ -325,7 +326,7 @@
 | [It's Darker than you Think](https://open.spotify.com/track/479lTQmXhnmGai0UGVxQpY) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Defending the Throne of Evil](https://open.spotify.com/album/3L640gN3OxWwYVipxqerWA) | 4:41 | 2022-07-13 | 2024-04-19 |
 | [Iò Pan!](https://open.spotify.com/track/1RSMkPnTZDK5OUEXYnV31Y) | [Selvans](https://open.spotify.com/artist/2HpWGadw2hmtDMTfbfaqkj) | [Dark Italian Art](https://open.spotify.com/album/7JvLKSi8zktCdBXVM7Hhnr) | 5:45 | 2021-12-17 | 2022-01-22 |
 | [Jackals](https://open.spotify.com/track/4612PWEVn40UivH5g285sA) | [Crimson Moonlight](https://open.spotify.com/artist/3BK5u7xOPJU8ERq8w27hnk) | [Abaddon](https://open.spotify.com/album/0Gho87N0nqxqU5aUwUoWhF) | 4:58 | 2023-12-07 | 2024-01-16 |
-| [Jailbreak](https://open.spotify.com/track/0zAMnEOY4hrzwThQuRbRiI) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Jailbreak](https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY) | 3:25 | 2023-09-01 |  |
+| [Jailbreak](https://open.spotify.com/track/0zAMnEOY4hrzwThQuRbRiI) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Jailbreak](https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY) | 3:25 | 2023-09-01 | 2024-08-16 |
 | [Jean Grenier](https://open.spotify.com/track/0qPVLDSC4mqL0oUDMwJEqu) | [Kuoleman Galleria](https://open.spotify.com/artist/1qH06U3f3AMfIpmRuG2fT2) | [Jean Grenier](https://open.spotify.com/album/6gWOWQh9y1PKFsiTgTXDkP) | 4:52 | 2022-01-21 | 2022-07-16 |
 | [Jenseits \(Kapitel III \- Reflexionen\)](https://open.spotify.com/track/28Au9xa6d4UQLdITiVod67) | [Finsterforst](https://open.spotify.com/artist/1Gh3UMZ0WVesXifHfziSx9) | [Jenseits \(Kapitel III \- Reflexionen\)](https://open.spotify.com/album/79udUa0watAABcZjEn1wVA) | 5:31 | 2023-09-01 | 2023-09-18 |
 | [K.I.N.G](https://open.spotify.com/track/6IvxXL0dqXJlgIoIFfMqFA) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Now, Diabolical](https://open.spotify.com/album/5t5tP8dVwdyI8yTShWcIzX) | 3:36 | 2022-07-13 |  |
@@ -378,7 +379,7 @@
 | [Mourning Palace](https://open.spotify.com/track/4UNTWZ8xNGgHOWXixIt5UP) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/6EZbLDXHjeW5LHGmEqChmQ) | 5:10 | 2022-07-13 | 2022-07-29 |
 | [Mourning Palace](https://open.spotify.com/track/2t0DnOIEpkbJqDc6h1IKnw) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:13 | 2022-07-13 | 2023-10-10 |
 | [Muuntautuja](https://open.spotify.com/track/43koxanshMLCldZrTNsi1Y) | [Oranssi Pazuzu](https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW) | [Muuntautuja](https://open.spotify.com/album/3H3pzXw7OUrgi4ZQbwmEmQ) | 4:30 | 2024-06-03 |  |
-| [My Darkest Years](https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [My Darkest Years](https://open.spotify.com/album/1zoIzsHNfakAikbXHIMpMD) | 4:56 | 2023-02-10 | 2024-07-04 |
+| [My Darkest Years](https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [My Darkest Years](https://open.spotify.com/album/1zoIzsHNfakAikbXHIMpMD) | 4:56 | 2023-02-10 |  |
 | [Myr](https://open.spotify.com/track/45zV1C4nVWMRz7yLcQ5Rmo) | [Taake](https://open.spotify.com/artist/2CofVEvqc6hhyKwYsLiuN9) | [Noregs Vaapen](https://open.spotify.com/album/2FgD3CoDJYPtEKbtKY5e6Y) | 5:33 | 2022-07-13 | 2022-07-29 |
 | [Mysterium Tremendum](https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX) | [Hideous Divinity](https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH) | [Mysterium Tremendum](https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4) | 4:33 | 2023-03-10 | 2024-01-28 |
 | [Nameless Rites](https://open.spotify.com/track/5VikgujdfbIJRuUAMQ2zei) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [​Disharmonium \- Nahab](https://open.spotify.com/album/2spORRGVutsk0KwxPhd3eU) | 4:55 | 2023-08-25 | 2024-06-04 |
@@ -614,6 +615,7 @@
 | [Unsilent Storms In The North Abyss](https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Pure Holocaust](https://open.spotify.com/album/1oiueifrAKrGjrxZzpCYkQ) | 3:14 | 2022-07-13 | 2023-06-17 |
 | [Unstern](https://open.spotify.com/track/309A8NlAFgdMAWo2qeMFIG) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Unstern](https://open.spotify.com/album/1jb95cQtwpDGUCuyra2FLO) | 6:10 | 2023-03-03 | 2023-04-09 |
 | [Unveiling the Palest Truth](https://open.spotify.com/track/3lm1VP0tsGhjKNPsTAlFXE) | [Deadspace](https://open.spotify.com/artist/6Pil7ytDWKgjHf1mXQe4Q8) | [Unveiling the Palest Truth](https://open.spotify.com/album/2IwkBnUQiR0SYF6mo1eIeU) | 5:42 | 2023-09-22 | 2023-12-11 |
+| [Urgrund](https://open.spotify.com/track/0Op3S08ZQiY7wpm4k9CVcZ) | [Paysage D'Hiver](https://open.spotify.com/artist/7cQYuSfsavW0BrcspRRJMi) | [Urgrund](https://open.spotify.com/album/7lZ9ScPUenlup9brQQu6wA) | 18:18 | 2024-08-16 |  |
 | [Urkraft](https://open.spotify.com/track/4bRajxPpQhnHYrNFFyHkyw) | [Kampfar](https://open.spotify.com/artist/35nZyw3d7OIbhGeqBEPIYQ) | [Urkraft](https://open.spotify.com/album/5sf63KzWDQWmHYt8uulINM) | 7:35 | 2022-04-01 | 2024-07-02 |
 | [Valkyriernes Sang](https://open.spotify.com/track/7KEeACpTUmbfSmBowFgmnK) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Valkyriernes Sang](https://open.spotify.com/album/2dc2XVdO6Vb3zfZEjuw24y) | 3:55 | 2023-10-06 | 2024-06-04 |
 | [Valley of Sacrifice, Pt\. 1 \- Re\-Recorded 2022](https://open.spotify.com/track/4QlVvuOvnk2W51tsSUfnih) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Valley of Sacrifice, Pt\. 1 \(Re\-Recorded 2022\)](https://open.spotify.com/album/1K2swvwHtTu41RtcVHxevL) | 6:09 | 2022-01-07 | 2022-04-09 |
@@ -632,7 +634,7 @@
 | [War Remains](https://open.spotify.com/track/01OftO0NuZARcIbsSPF5MC) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [War Remains](https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN) | 4:11 | 2023-04-28 | 2023-07-22 |
 | [Wargod](https://open.spotify.com/track/000ETNHKRNLHNPjsCojYkc) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:38 | 2023-05-26 | 2024-04-19 |
 | [Wargod](https://open.spotify.com/track/7zMtpoUdT3TsOHQvaQAqQI) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Wargod](https://open.spotify.com/album/2RfmZMdglQ9FC6yDrRu4Cr) | 4:38 | 2023-04-21 | 2023-05-28 |
-| [Warmen Are Here For None](https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Warmen Are Here For None](https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa) | 3:37 | 2023-06-16 |  |
+| [Warmen Are Here For None](https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Warmen Are Here For None](https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa) | 3:37 | 2023-06-16 | 2024-08-16 |
 | [Warriors](https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 5:53 | 2022-07-13 |  |
 | [We Are Pack](https://open.spotify.com/track/4LxoWlsbZR9gWsFsTAkhSv) | [Wolftopia](https://open.spotify.com/artist/3bJi0mvzPsQzu8uoZdB1Tj) | [Ways of the Pack](https://open.spotify.com/album/0VXVayHw6OxU4h9PYLGGTP) | 4:58 | 2021-12-17 | 2022-02-11 |
 | [We remain](https://open.spotify.com/track/4bAlw2L4PvzK1R0tEaJ6m9) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [We remain](https://open.spotify.com/album/7EpxjX4ymARMfMdd1glws2) | 6:13 | 2022-04-01 | 2022-04-29 |

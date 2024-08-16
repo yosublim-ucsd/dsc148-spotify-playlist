@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Joya",
+  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: OJ Reambillo",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -1804,6 +1804,24 @@
       "duration_ms": 179092,
       "name": "stupidlittlegirl",
       "url": "https://open.spotify.com/track/48dGspOoVv7a9HtHSgPQuh"
+    },
+    {
+      "album": {
+        "name": "Summer Night Rock",
+        "url": "https://open.spotify.com/album/667ABOBs4DiQmG5FHMRhZu"
+      },
+      "artists": [
+        {
+          "name": "OJ Reambillo",
+          "url": "https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152917,
+      "name": "Summer Night Rock",
+      "url": "https://open.spotify.com/track/4kH5ecTAKSjyK3hKBKpZiP"
     },
     {
       "album": {

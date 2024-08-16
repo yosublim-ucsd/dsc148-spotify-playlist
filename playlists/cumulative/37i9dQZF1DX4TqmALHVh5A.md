@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Yseult
+> La scène française branchée sur courant alternatif\. Photo : Adé
 
-188 songs - 10 hr 4 min
+189 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Je Voulais](https://open.spotify.com/track/26LEDUBccqiAj28QDjzOod) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Je Voulais](https://open.spotify.com/album/6v0EOkmlVsamzKicsn8m2R) | 3:02 | 2023-09-28 | 2023-12-01 |
 | [Johnny Cash](https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [Johnny Cash](https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r) | 2:47 | 2024-04-19 | 2024-06-14 |
 | [Joy](https://open.spotify.com/track/349nICB9NxNabg6WI27ZV5) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Porte 11](https://open.spotify.com/album/6MH3JAwwP85b1XQN1bOyF4) | 2:22 | 2023-09-28 | 2023-11-10 |
-| [just a noise](https://open.spotify.com/track/2mgDRx52b1GhnikAJqRFvP) | [Kevin Heartbeats](https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG) | [just a noise](https://open.spotify.com/album/1dfM8mdmfobemurtB4f6qi) | 2:52 | 2024-05-30 |  |
+| [just a noise](https://open.spotify.com/track/2mgDRx52b1GhnikAJqRFvP) | [Kevin Heartbeats](https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG) | [just a noise](https://open.spotify.com/album/1dfM8mdmfobemurtB4f6qi) | 2:52 | 2024-05-30 | 2024-08-16 |
 | [JUSTE AMIS](https://open.spotify.com/track/1L9xCQ6PYyAgHqGfFPXC9N) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [PANAME ŒSTROS POUBELLE](https://open.spotify.com/album/53JDJmBpfYZuJb2nz0v5SE) | 3:21 | 2023-11-16 |  |
 | [KLNX](https://open.spotify.com/track/3ZBddPuRshTebTdeZNRRnr) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [KLNX](https://open.spotify.com/album/19VEDVCNaVICCxnjhCrCVm) | 3:30 | 2024-04-18 | 2024-04-26 |
 | [KLNX](https://open.spotify.com/track/63cOm5jCSwyRG9szlKdBcC) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [KLNX](https://open.spotify.com/album/7kDH9ZPKK5JhmWUUSR1lcj) | 3:30 | 2023-10-19 | 2024-04-19 |
@@ -118,6 +118,7 @@
 | [mignon](https://open.spotify.com/track/532whyQUywJsT8tL5Jgkyz) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [mignon](https://open.spotify.com/album/2LPAGoujHArNcmK94Gll3r) | 2:23 | 2023-10-12 | 2023-12-15 |
 | [Modern Love](https://open.spotify.com/track/61rputyFcUsC1ldct1OKRr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Modern Love](https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA) | 3:54 | 2024-05-30 |  |
 | [Moins seul sans eux](https://open.spotify.com/track/1c56S0vX15OA4H8X64ziJl) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Moins seul sans eux](https://open.spotify.com/album/02dlfpLJyHZ5uONzXyQcDp) | 2:11 | 2023-12-08 |  |
+| [More Love](https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [More Love](https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH) | 2:40 | 2024-08-15 |  |
 | [Music on Hold 4 Ever](https://open.spotify.com/track/67aBiXoZS81OmkaQtxXpc5) | [Music On Hold](https://open.spotify.com/artist/4iGtVI2ToIjWlynR8WPzda) | [4 Ever](https://open.spotify.com/album/7bda4KpVL4TQDDJt4qRaZO) | 3:08 | 2023-12-14 | 2024-05-03 |
 | [My Way \(with Creams\)](https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [My Way \(with Creams\)](https://open.spotify.com/album/1oWzOh4biDkSnj0ZITjuYo) | 3:14 | 2024-01-18 | 2024-03-29 |
 | [MÉTA DEUIL](https://open.spotify.com/track/0NyCKpKgai5U3iU5MazIld) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [MÉTA DEUIL](https://open.spotify.com/album/56HYXJHwbjFKk62U9CIZCv) | 2:54 | 2023-11-02 | 2024-03-29 |

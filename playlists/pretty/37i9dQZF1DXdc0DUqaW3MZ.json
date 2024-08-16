@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 347204,
+  "num_followers": 347284,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
         "name": "Deafened (feat. Family Habits)",
         "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 201626,
       "name": "Deafened (feat. Family Habits)",
       "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -827,22 +827,18 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "High Notes",
-        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
         }
       ],
-      "duration_ms": 152750,
-      "name": "High Notes",
-      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -863,18 +859,22 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+        "name": "High Notes",
+        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
       },
       "artists": [
         {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
+      "duration_ms": 152750,
+      "name": "High Notes",
+      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Ma Jo Lo",
-        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
-      },
-      "artists": [
-        {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Ma Jo Lo",
-      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "U Lyk My Style",
         "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 172500,
       "name": "U Lyk My Style",
       "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Ma Jo Lo",
+        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
+      },
+      "artists": [
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Ma Jo Lo",
+      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Things You Didn't Know",
-        "url": "https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh"
-      },
-      "artists": [
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Things You Didn't Know",
-      "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "Skin to Skin",
         "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Things You Didn't Know",
+        "url": "https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Things You Didn't Know",
+      "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
     },
     {
       "added_at": "2024-07-26 09:47:49",

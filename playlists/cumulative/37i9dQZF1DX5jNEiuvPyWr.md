@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : Elh Kmer
 
-415 songs - 20 hr 20 min
+416 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Hors ligne](https://open.spotify.com/track/2mmaaAzG2Mq496poYvKTbm) | [Roxaane](https://open.spotify.com/artist/6wzDxKSspmUkXSTAdP3lNO) | [HORS LIGNE CE SOIR](https://open.spotify.com/album/5L9V0HxSW1DWCl6ElveExY) | 2:23 | 2024-02-08 | 2024-04-26 |
 | [HUMAIN](https://open.spotify.com/track/79cnH6HnZT0dJ3muUl6VgZ) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/7Hb4JKkGuZNwUQJviSMSsN) | 3:16 | 2023-10-05 | 2023-11-10 |
 | [Huracán](https://open.spotify.com/track/4Ya7MdSv0pBinTTTYc8qgW) | [TRIPLEGO](https://open.spotify.com/artist/6cDxDe1MWGgUcNVVdxhCN2) | [Huracán](https://open.spotify.com/album/3QaBscX89yOeQckVdbEOX7) | 3:21 | 2024-02-01 | 2024-03-29 |
+| [I Wanna See The Beach](https://open.spotify.com/track/288J9wSBRcBkRhXaetaKip) | [Lovarran](https://open.spotify.com/artist/4N68uxySPMlYAdpoN6PHFL) | [I Wanna See The Beach](https://open.spotify.com/album/5cpRnLZxogcN9nRvfZ8FFT) | 2:26 | 2024-08-15 |  |
 | [IBIZA](https://open.spotify.com/track/5AaUQq15J9drf3iKfh2XCn) | [Lapostroz](https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj) | [IBIZA](https://open.spotify.com/album/28YB7WeIlMMoeNihpT5msF) | 2:32 | 2023-10-12 | 2024-02-16 |
 | [ICE](https://open.spotify.com/track/0OiIPkNx4U8iwGflifS1Hi) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/2Nfsw4UTBPhXl7iPkqQRlJ) | 2:20 | 2023-09-07 | 2023-11-24 |
 | [Ice](https://open.spotify.com/track/54d1LJ3a5xIlB5q3ONJQn3) | [Ekloz](https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw) | [3motional b!tch](https://open.spotify.com/album/0NTbynNDrYNbBBvGJSYgHq) | 2:00 | 2023-11-23 | 2024-01-05 |
@@ -258,7 +259,7 @@
 | [MEILLEUR](https://open.spotify.com/track/5atKLIetNSwYT8mYdVRWQO) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/7JZT9iNvgUcdmiju0ps1z9) | 3:03 | 2023-11-23 | 2023-12-15 |
 | [Miami Vice](https://open.spotify.com/track/7okGX2stmpuVyyCm2CSbXa) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Bel Air](https://open.spotify.com/album/2acXYtO8RQqEcQyrywwlxa) | 2:56 | 2023-04-27 | 2023-06-09 |
 | [MILLA](https://open.spotify.com/track/04vzFIKxbPInvQOgYoIrYS) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [MILLA](https://open.spotify.com/album/6vvpkQr7hE8qbgyPEgx226) | 2:55 | 2024-06-27 |  |
-| [Minimum](https://open.spotify.com/track/3B9jxMUPRpJJRTXQNpM8Jb) | [Hofmann](https://open.spotify.com/artist/4dHYnkZpHvtz8I9oXZWQue), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [Minimum](https://open.spotify.com/album/0FMHpaHU0slUQQrCJr1BTO) | 3:10 | 2024-07-11 |  |
+| [Minimum](https://open.spotify.com/track/3B9jxMUPRpJJRTXQNpM8Jb) | [Hofmann](https://open.spotify.com/artist/4dHYnkZpHvtz8I9oXZWQue), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [Minimum](https://open.spotify.com/album/0FMHpaHU0slUQQrCJr1BTO) | 3:10 | 2024-07-11 | 2024-08-16 |
 | [Minuit](https://open.spotify.com/track/3qppQ6d1ffg1NUp4uGVY3g) | [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ) | [Minuit](https://open.spotify.com/album/1VvnLoLqEjpGw3MqgWVFzp) | 2:33 | 2023-03-16 | 2023-06-16 |
 | [Miracle](https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Miracle](https://open.spotify.com/album/3ApUvBtVEP475jtilOY4jy) | 2:58 | 2022-07-14 | 2022-09-16 |
 | [MOB \(Affamé \#20\)](https://open.spotify.com/track/5GnkgCm32rsuAVQ4Uf0oF8) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [MOB \(Affamé \#20\)](https://open.spotify.com/album/3pBQLVgwHk4TL26TX39hHn) | 3:07 | 2023-05-11 | 2023-06-23 |

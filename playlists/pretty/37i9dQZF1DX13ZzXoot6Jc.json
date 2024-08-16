@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Owen Riegling",
-  "num_followers": 454065,
+  "num_followers": 454056,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-09 10:33:58",
       "album": {
-        "name": "Earned It",
-        "url": "https://open.spotify.com/album/182iKgpkS0r9XZDsjojCTP"
-      },
-      "artists": [
-        {
-          "name": "Larry Fleet",
-          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
-        }
-      ],
-      "duration_ms": 206929,
-      "name": "Things I Take For Granted",
-      "url": "https://open.spotify.com/track/2d3KkBpDlOCLT5Wlhrwhfd"
-    },
-    {
-      "added_at": "2024-08-09 10:33:58",
-      "album": {
         "name": "Can't Break Up Now",
         "url": "https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 193898,
       "name": "Shoot Tequila",
       "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
+    },
+    {
+      "added_at": "2024-08-09 10:33:58",
+      "album": {
+        "name": "Earned It",
+        "url": "https://open.spotify.com/album/182iKgpkS0r9XZDsjojCTP"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "duration_ms": 206929,
+      "name": "Things I Take For Granted",
+      "url": "https://open.spotify.com/track/2d3KkBpDlOCLT5Wlhrwhfd"
     },
     {
       "added_at": "2024-08-09 10:33:58",

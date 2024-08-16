@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> VEN1 au top de la première playlist de rap français.
+> SDM au top de la première playlist de rap français.
 
 267 songs - 13 hr 42 min
 

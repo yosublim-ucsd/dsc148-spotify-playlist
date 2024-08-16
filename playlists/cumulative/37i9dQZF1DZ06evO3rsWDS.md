@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3rsWDS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3rsWDS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3rsWDS)
 
-### [This Is Chiquis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rsWDS)
+### [Chiquis This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rsWDS)
 
-> This is Chiquis\. The essential tracks, all in one playlist.
+> .Chiquis This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
 
 75 songs - 3 hr 44 min
 

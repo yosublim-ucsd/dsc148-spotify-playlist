@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 16743,
+  "num_followers": 16747,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrqiAAAAAAAz/mwyX6VNksa0p7M8PKHc",
+  "snapshot_id": "ZrvzgAAAAADn6OxFG+oMvnXLhcKWWUZt",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208822,
+      "name": "Slide (with Gunna)",
+      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TWINNEM",
+        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 117066,
+      "name": "TWINNEM",
+      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
@@ -447,42 +483,6 @@
       "duration_ms": 206135,
       "name": "Woman Of The Year (with Stefflon Don, Chl\u00f6e & Coi Leray)",
       "url": "https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TWINNEM",
-        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 117066,
-      "name": "TWINNEM",
-      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Now or Never",
-        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 208822,
-      "name": "Slide (with Gunna)",
-      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Land Of Nothing Real 2",
-        "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
-      },
-      "artists": [
-        {
-          "name": "Lonr.",
-          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 198670,
-      "name": "CUFFIN (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TWINNEM (Remix)",
         "url": "https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 135133,
       "name": "Fly Sh!t",
       "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Land Of Nothing Real 2",
+        "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
+      },
+      "artists": [
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 198670,
+      "name": "CUFFIN (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
     },
     {
       "added_at": null,
@@ -843,38 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Come Back",
-        "url": "https://open.spotify.com/album/6J7wuzk1peBKgaohiSCuN6"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Can't Come Back",
-      "url": "https://open.spotify.com/track/4iB93144GBYUfBuNmIkoCX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thieves In Atlanta (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod"
       },
@@ -895,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Come Back",
+        "url": "https://open.spotify.com/album/6J7wuzk1peBKgaohiSCuN6"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Can't Come Back",
+      "url": "https://open.spotify.com/track/4iB93144GBYUfBuNmIkoCX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 118280,
       "name": "Phuck It",
       "url": "https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 168013,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx"
     },
     {
       "added_at": null,

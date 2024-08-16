@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 129761,
       "name": "360 featuring robyn and yung lean",
       "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 180815,
       "name": "Back To My Roots",
       "url": "https://open.spotify.com/track/5ZF1gvQjreeqNFqWtjwupo"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 138750,
       "name": "Bonanza (feat. Greekazo)",
       "url": "https://open.spotify.com/track/2Oum9Ze9GhdDUiMaa7FLZ3"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 163655,
       "name": "Danseproblem",
       "url": "https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 140803,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 235294,
       "name": "Humble",
       "url": "https://open.spotify.com/track/2bGbWQwWJ6EjLUas1tCWTK"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "hva om jeg slutta \u00e5 bry meg",
       "url": "https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2"
@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Love You (But I Don't) / I hope you die first",
+        "url": "https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257790,
+      "name": "I Wanna Love You (But I Don't)",
+      "url": "https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc"
+    },
+    {
+      "album": {
         "name": "I'M DOING IT AGAIN BABY!",
         "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 179791,
       "name": "I'm Back",
       "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
@@ -612,7 +630,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 183615,
       "name": "Jeg vil ha (Parlamentet)",
       "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
@@ -630,7 +648,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 173307,
       "name": "Lever Livet",
       "url": "https://open.spotify.com/track/03EVFwVKaimcw3ZNkoU6x7"
@@ -772,10 +790,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "album": {
+        "name": "players (feat. Ari Bajgora)",
+        "url": "https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151693,
+      "name": "players (feat. Ari Bajgora)",
+      "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
     },
     {
       "album": {
@@ -790,7 +830,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 216720,
       "name": "push me over",
       "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
@@ -952,7 +992,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 182973,
       "name": "Superhelt Steez",
       "url": "https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w"
@@ -1086,7 +1126,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
@@ -1140,7 +1180,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -1162,7 +1202,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-16",
       "duration_ms": 152000,
       "name": "VEM FAN E DU?",
       "url": "https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK"
@@ -1180,7 +1220,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 114866,
       "name": "VENNEL\u00d8S",
       "url": "https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95"

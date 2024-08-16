@@ -4,7 +4,7 @@
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-135 songs - 5 hr 59 min
+136 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Guys And Dolls](https://open.spotify.com/track/2LYubpBnsnWwbscmQC0JuV) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Reprise Rarities \(Vol\. 5\)](https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2) | 2:49 | 2024-04-26 | 2024-07-16 |
 | [Heaven Can Wait \- Remastered/1998](https://open.spotify.com/track/291IQsv9uraExolqtoRczv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:29 | 2023-12-31 |  |
 | [Hey Brother, Pour The Wine](https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:37 | 2024-01-11 | 2024-07-16 |
+| [Hey Brother, Pour The Wine](https://open.spotify.com/track/2JI8FKfv2GVM31HS8GnS65) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 2:40 | 2024-08-16 |  |
 | [Hit The Road To Dreamland](https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:51 | 2024-03-20 | 2024-07-23 |
 | [Honey](https://open.spotify.com/track/543fSXt0RwlcmsL8cIKkq4) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Gentle On My Mind](https://open.spotify.com/album/2ZH9Gg5RXVIRCFsVGh3RR4) | 3:59 | 2023-12-26 | 2024-02-02 |
 | [Houston](https://open.spotify.com/track/4CKqqKUKsjNTTNF3veSiWi) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 2:41 | 2024-01-02 | 2024-07-21 |
@@ -115,7 +116,7 @@
 | [The Birds and the Bees](https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:06 | 2023-12-26 |  |
 | [The Door Is Still Open to My Heart](https://open.spotify.com/track/45tNymiGXb2afxk7opDlmA) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 2:51 | 2023-12-26 | 2024-08-14 |
 | [The Green, Green Grass of Home](https://open.spotify.com/track/4ajZSQCn0cjUvUNCqKGTeD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Welcome to My World](https://open.spotify.com/album/3MrG9jbcRu5CnJyqFRxwna) | 3:09 | 2023-12-26 | 2024-07-24 |
-| [The Man Who Plays The Mandolino](https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 7 \(1956\-1957\)](https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz) | 2:55 | 2023-12-30 |  |
+| [The Man Who Plays The Mandolino](https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 7 \(1956\-1957\)](https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz) | 2:55 | 2023-12-30 | 2024-08-16 |
 | [The Naughty Lady Of Shady Lane](https://open.spotify.com/track/72YmaOpnG5ekak9Ja1cPHR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Essential](https://open.spotify.com/album/4fEBlmHtFoNu8brwngLgOT) | 2:56 | 2024-01-24 | 2024-02-02 |
 | [The Naughty Lady Of Shady Lane](https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:56 | 2024-04-11 | 2024-06-02 |
 | [The Oldest Established \(Permanent Floating Crap Game In New York\)](https://open.spotify.com/track/0AIRdaGvVN6uEEsB3iD3C3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Reprise Rarities \(Vol\. 5\)](https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2) | 2:31 | 2023-12-26 |  |

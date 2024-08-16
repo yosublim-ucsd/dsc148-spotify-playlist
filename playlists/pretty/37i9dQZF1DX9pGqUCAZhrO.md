@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 
 > Live by your own rules\. Listen to the official playlist inspired by Bel\-Air, streaming now exclusively on  <a href="https://www.peacocktv.com/stream\-tv/bel\-air">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,863 likes - 57 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,886 likes - 57 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
